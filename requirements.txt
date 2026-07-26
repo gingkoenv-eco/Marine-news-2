@@ -1,0 +1,6 @@
+flask
+feedparser
+requests
+beautifulsoup4
+python-dateutil
+gunicorn

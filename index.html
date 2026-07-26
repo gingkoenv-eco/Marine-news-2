@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marine Environment News Aggregator</title>
+    <style>
+        :root {
+            --bg: #f4f7fb;
+            --surface: #ffffff;
+            --surface-alt: #f8fafc;
+            --border: #dfe7f0;
+            --text: #152238;
+            --muted: #5f6f85;
+            --accent: #0f6cbd;
+            --accent-strong: #0a4f8a;
+            --accent-soft: #e8f2fb;
+            --success: #2f7d32;
+            --warning: #c97016;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            padding: 24px;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            box-shadow: 0 10px 35px rgba(21, 34, 56, 0.08);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #12324f 0%, #1f4f7a 100%);
+            color: white;
+            padding: 40px 24px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 30px;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .header p {
+            font-size: 15px;
+            opacity: 0.92;
+            max-width: 760px;
+            margin: 0 auto;
+        }
+
+        .controls {
+            padding: 20px 24px;
+            background: var(--surface-alt);
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 14px;
+            align-items: end;
+        }
+
+        .control-card {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            min-width: 220px;
+        }
+
+        .control-label {
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+            color: var(--muted);
+        }
+
+        .control-select,
+        .chip {
+            border: 1px solid var(--border);
+            background: white;
+            color: var(--text);
+            border-radius: 999px;
+            padding: 10px 14px;
+            font-size: 14px;
+            transition: all 0.2s ease;
+        }
+
+        .control-select {
+            min-width: 180px;
+        }
+
+        .chip-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .chip {
+            cursor: pointer;
+            font-weight: 600;
+            color: var(--muted);
+        }
+
+        .chip.active,
+        .chip:hover {
+            background: var(--accent-soft);
+            color: var(--accent-strong);
+            border-color: var(--accent);
+        }
+
+        .buttons-card {
+            margin-left: auto;
+            flex-direction: row;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: flex-end;
+        }
+
+        button {
+            border: none;
+            border-radius: 999px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 14px;
+            transition: all 0.2s ease;
+        }
+
+        .primary-btn,
+        .secondary-btn {
+            padding: 10px 16px;
+        }
+
+        .primary-btn {
+            background: var(--accent);
+            color: white;
+        }
+
+        .primary-btn:hover {
+            background: var(--accent-strong);
+        }
+
+        .secondary-btn {
+            background: white;
+            color: var(--text);
+            border: 1px solid var(--border);
+        }
+
+        .secondary-btn:hover {
+            background: #eef4f9;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 48px 20px;
+            color: var(--muted);
+            font-size: 15px;
+        }
+
+        .spinner {
+            border: 4px solid #edf2f7;
+            border-top: 4px solid var(--accent);
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 18px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .content {
+            padding: 20px 24px 28px;
+            max-height: 850px;
+            overflow-y: auto;
+        }
+
+        .category-section {
+            margin-bottom: 0;
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            background: var(--surface);
+            overflow: hidden;
+            height: fit-content;
+            break-inside: avoid;
+        }
+
+        .category-title {
+            background: #f7fbff;
+            color: var(--text);
+            padding: 14px 16px;
+            font-size: 18px;
+            font-weight: 700;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            text-align: left;
+        }
+
+        .category-title:hover {
+            background: #eef6fc;
+        }
+
+        .category-title.collapsed {
+            border-bottom: none;
+        }
+
+        .toggle-icon {
+            font-size: 14px;
+            color: var(--muted);
+        }
+
+        .category-body {
+            padding: 16px 16px 6px;
+        }
+
+        .category-grid {
+            display: block;
+        }
+
+        .category-body.collapsed {
+            display: none;
+        }
+
+        .theme-subsection {
+            width: 100%;
+            margin-bottom: 16px;
+            padding-left: 4px;
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            overflow: hidden;
+            background: #fcfdff;
+            break-inside: avoid;
+        }
+
+        .theme-title {
+            background: var(--accent-soft);
+            color: var(--accent-strong);
+            padding: 10px 12px;
+            border-radius: 0;
+            font-size: 15px;
+            font-weight: 700;
+            margin-bottom: 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            text-align: left;
+            cursor: pointer;
+        }
+
+        .theme-title.collapsed {
+            border-bottom: none;
+        }
+
+        .theme-content {
+            padding: 10px 12px 12px;
+        }
+
+        .theme-content.collapsed {
+            display: none;
+        }
+
+        .article-list {
+            list-style: none;
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 10px;
+        }
+
+        .article-item {
+            background: var(--surface-alt);
+            border: 1px solid var(--border);
+            border-left: 4px solid var(--accent);
+            padding: 12px 14px;
+            border-radius: 10px;
+            transition: box-shadow 0.2s ease, transform 0.2s ease;
+        }
+
+        .article-item:hover {
+            box-shadow: 0 4px 12px rgba(15, 108, 189, 0.08);
+            transform: translateY(-1px);
+        }
+
+        .article-title {
+            font-weight: 700;
+            margin-bottom: 6px;
+            line-height: 1.4;
+        }
+
+        .article-title a {
+            color: var(--accent-strong);
+            text-decoration: none;
+            word-break: break-word;
+        }
+
+        .article-title a:hover {
+            text-decoration: underline;
+        }
+
+        .article-meta {
+            font-size: 13px;
+            color: var(--muted);
+            margin-bottom: 8px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            align-items: center;
+        }
+
+        .article-source {
+            display: inline-block;
+            background: white;
+            color: var(--accent-strong);
+            padding: 3px 8px;
+            border-radius: 999px;
+            font-weight: 600;
+            border: 1px solid var(--border);
+        }
+
+        .article-date {
+            color: var(--muted);
+            font-size: 12px;
+        }
+
+        .article-summary {
+            font-size: 13px;
+            color: #44536b;
+            line-height: 1.5;
+            margin-top: 6px;
+            padding-top: 8px;
+            border-top: 1px solid #e7edf3;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 48px 20px;
+            color: var(--muted);
+            font-size: 15px;
+        }
+
+        .error {
+            background: #fff3f3;
+            color: #b42318;
+            padding: 18px 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+            border-left: 4px solid #b42318;
+        }
+
+        .last-updated {
+            text-align: center;
+            padding: 12px 20px 20px;
+            background: #fbfcfe;
+            border-top: 1px solid var(--border);
+            font-size: 12px;
+            color: var(--muted);
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 12px;
+            }
+
+            .controls {
+                padding: 16px;
+            }
+
+            .buttons-card {
+                margin-left: 0;
+                width: 100%;
+                justify-content: flex-start;
+            }
+
+            .content {
+                padding: 16px;
+            }
+
+            .category-grid,
+            .article-list {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🌊 Marine & Environmental News Aggregator</h1>
+            <p>Latest updates on marine conservation, climate policy, and international environmental events from the last 14 days.</p>
+        </div>
+
+        <div class="controls">
+            <div class="control-card">
+                <label class="control-label" for="sortSelect">Sort articles</label>
+                <select id="sortSelect" class="control-select">
+                    <option value="latest">Latest first</option>
+                    <option value="oldest">Oldest first</option>
+                    <option value="newspaper">By newspaper</option>
+                </select>
+            </div>
+
+            <div class="control-card">
+                <span class="control-label">Topic focus</span>
+                <div class="chip-row">
+                    <button type="button" class="chip active" data-filter="all">All articles</button>
+                    <button type="button" class="chip" data-filter="cop">COP / International events</button>
+                </div>
+            </div>
+
+            <div class="control-card buttons-card">
+                <button id="refresh" class="primary-btn">🔄 Refresh</button>
+                <button id="toggleOtherNews" class="secondary-btn">📰 Show other news</button>
+                <button id="export" class="secondary-btn">💾 Export JSON</button>
+            </div>
+        </div>
+
+        <div id="news" class="content">
+            <div class="loading">
+                <div class="spinner"></div>
+                <p>Loading news...</p>
+            </div>
+        </div>
+
+        <div class="last-updated" id="lastUpdated"></div>
+    </div>
+
+    <script>
+        let newsData = {};
+        let showOtherNews = false;
+        let currentSort = 'latest';
+        let activeTopicFilter = 'all';
+        let onlyOtherNews = false;
+
+        const sortSelect = document.getElementById('sortSelect');
+        const topicChips = Array.from(document.querySelectorAll('.chip'));
+        const newsDiv = document.getElementById('news');
+
+        document.getElementById('refresh').addEventListener('click', loadNews);
+        document.getElementById('export').addEventListener('click', exportJSON);
+        document.getElementById('toggleOtherNews').addEventListener('click', () => {
+            onlyOtherNews = !onlyOtherNews;
+            document.getElementById('toggleOtherNews').textContent = onlyOtherNews ? '📰 Show main news' : '📰 Show other news';
+            displayNews(newsData);
+        });
+
+        sortSelect.addEventListener('change', (event) => {
+            currentSort = event.target.value;
+            displayNews(newsData);
+        });
+
+        topicChips.forEach((chip) => {
+            chip.addEventListener('click', () => {
+                activeTopicFilter = chip.dataset.filter;
+                topicChips.forEach((item) => item.classList.toggle('active', item === chip));
+                displayNews(newsData);
+            });
+        });
+
+        newsDiv.addEventListener('click', (event) => {
+            const toggleButton = event.target.closest('.theme-title');
+            if (!toggleButton) {
+                return;
+            }
+
+            const subsection = toggleButton.closest('.theme-subsection');
+            const content = subsection ? subsection.querySelector('.theme-content') : null;
+            if (!content) {
+                return;
+            }
+
+            const isCollapsed = content.classList.toggle('collapsed');
+            toggleButton.classList.toggle('collapsed', isCollapsed);
+            const icon = toggleButton.querySelector('.toggle-icon');
+            if (icon) {
+                icon.textContent = isCollapsed ? '▸' : '▾';
+            }
+        });
+
+        function loadNews() {
+            const newsDiv = document.getElementById('news');
+            newsDiv.innerHTML = '<div class="loading"><div class="spinner"></div><p>Loading news...</p></div>';
+
+            // Cache-bust so browsers don't serve a stale copy of the static file
+            fetch('news.json?t=' + Date.now())
+                .then((response) => response.json())
+                .then((payload) => {
+                    const data = payload.categories || payload; // supports both new and old shapes
+                    newsData = data;
+                    displayNews(data);
+                    const updatedLabel = payload.generated_at
+                        ? new Date(payload.generated_at).toLocaleString()
+                        : new Date().toLocaleString();
+                    document.getElementById('lastUpdated').textContent = 'Last updated: ' + updatedLabel;
+                })
+                .catch((error) => {
+                    console.error('Error fetching news:', error);
+                    newsDiv.innerHTML = '<div class="error">Error loading news. Please try again.</div>';
+                });
+        }
+
+        function articleMatchesFilter(article) {
+            if (activeTopicFilter === 'all') {
+                return true;
+            }
+
+            const text = `${article.title || ''} ${article.summary || ''}`.toLowerCase();
+            const copTerms = [
+                'cop',
+                'conference of the parties',
+                'conference of parties',
+                'conference',
+                'international event',
+                'international summit',
+                'climate summit',
+                'summit',
+                'delegates',
+                'global meeting',
+                'world leaders',
+                'treaty',
+                'negotiation',
+                'agreement',
+                'un climate'
+            ];
+
+            return copTerms.some((term) => text.includes(term));
+        }
+
+        function sortArticles(articles, mode = currentSort) {
+            const list = [...articles].filter(Boolean);
+
+            if (mode === 'oldest') {
+                return list.sort((a, b) => new Date(a.published || 0) - new Date(b.published || 0));
+            }
+
+            return list.sort((a, b) => new Date(b.published || 0) - new Date(a.published || 0));
+        }
+
+        function buildArticleListHtml(articles) {
+            if (!articles.length) {
+                return '';
+            }
+
+            let html = '<ul class="article-list">';
+            for (const article of articles) {
+                const pubDate = article.published
+                    ? new Date(article.published).toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' })
+                    : 'Date unavailable';
+
+                html += `<li class="article-item">
+                    <div class="article-title">
+                        <a href="${article.link}" target="_blank" rel="noopener noreferrer">${article.title}</a>
+                    </div>
+                    <div class="article-meta">
+                        <span class="article-source">${article.source || 'Source unavailable'}</span>
+                        <span class="article-date">${pubDate}</span>
+                    </div>`;
+
+                if (article.summary) {
+                    html += `<div class="article-summary">${article.summary}</div>`;
+                }
+
+                html += '</li>';
+            }
+
+            html += '</ul>';
+            return html;
+        }
+
+        function appendCollapsibleSection(parent, title, contentHtml) {
+            const sectionDiv = document.createElement('div');
+            sectionDiv.className = 'category-section';
+
+            const header = document.createElement('button');
+            header.className = 'category-title';
+            header.type = 'button';
+            header.innerHTML = `<span>${title}</span><span class="toggle-icon">▾</span>`;
+
+            const body = document.createElement('div');
+            body.className = 'category-body';
+            body.innerHTML = contentHtml;
+
+            header.addEventListener('click', () => {
+                const isCollapsed = body.classList.toggle('collapsed');
+                header.classList.toggle('collapsed', isCollapsed);
+                header.querySelector('.toggle-icon').textContent = isCollapsed ? '▸' : '▾';
+            });
+
+            sectionDiv.appendChild(header);
+            sectionDiv.appendChild(body);
+            parent.appendChild(sectionDiv);
+            return sectionDiv;
+        }
+
+        function displayNews(data) {
+            const newsDiv = document.getElementById('news');
+            newsDiv.innerHTML = '';
+
+            let hasContent = false;
+            const categories = Object.entries(data || {});
+
+            if (currentSort === 'newspaper') {
+                const sourceGroups = new Map();
+
+                for (const [category, catData] of categories) {
+                    if (category === 'Other News' && !onlyOtherNews) {
+                        continue;
+                    }
+                    if (category !== 'Other News' && onlyOtherNews) {
+                        continue;
+                    }
+
+                    for (const theme in catData) {
+                        for (const article of catData[theme] || []) {
+                            if (!articleMatchesFilter(article)) {
+                                continue;
+                            }
+
+                            const sourceName = article.source || 'Source unavailable';
+                            if (!sourceGroups.has(sourceName)) {
+                                sourceGroups.set(sourceName, []);
+                            }
+                            sourceGroups.get(sourceName).push(article);
+                        }
+                    }
+                }
+
+                const sortedSources = Array.from(sourceGroups.entries()).sort(([a], [b]) => a.localeCompare(b));
+                for (const [sourceName, articles] of sortedSources) {
+                    const sortedArticles = sortArticles(articles, 'latest');
+                    if (sortedArticles.length > 0) {
+                        hasContent = true;
+                        appendCollapsibleSection(newsDiv, sourceName, `<div class="category-grid"><div class="theme-subsection"><div class="theme-content">${buildArticleListHtml(sortedArticles)}</div></div></div>`);
+                    }
+                }
+            } else {
+                for (const [category, catData] of categories) {
+                    if (category === 'Other News' && !onlyOtherNews) {
+                        continue;
+                    }
+                    if (category !== 'Other News' && onlyOtherNews) {
+                        continue;
+                    }
+
+                    let themesHtml = '';
+                    let categoryHasContent = false;
+
+                    for (const theme in catData) {
+                        const articles = sortArticles((catData[theme] || []).filter(articleMatchesFilter));
+                        if (articles.length > 0) {
+                            categoryHasContent = true;
+                            hasContent = true;
+                            themesHtml += `<div class="theme-subsection">
+                                <button type="button" class="theme-title" data-theme="${theme}">
+                                    <span>${theme}</span>
+                                    <span class="toggle-icon">▾</span>
+                                </button>
+                                <div class="theme-content">
+                                    ${buildArticleListHtml(articles)}
+                                </div>
+                            </div>`;
+                        }
+                    }
+
+                    if (categoryHasContent) {
+                        appendCollapsibleSection(newsDiv, category, `<div class="category-grid">${themesHtml}</div>`);
+                    }
+                }
+            }
+
+            if (!hasContent) {
+                newsDiv.innerHTML = '<div class="no-results">No articles found matching the selected filters.</div>';
+            }
+        }
+
+        function exportJSON() {
+            if (Object.keys(newsData).length === 0) {
+                alert('No data to export. Please load news first.');
+                return;
+            }
+
+            const dataStr = JSON.stringify(newsData, null, 2);
+            const dataUri = 'data:application/json;charset=utf-8,' + encodeURIComponent(dataStr);
+            const exportFileDefaultName = 'news_export_' + new Date().toISOString().slice(0, 10) + '.json';
+            const linkElement = document.createElement('a');
+            linkElement.setAttribute('href', dataUri);
+            linkElement.setAttribute('download', exportFileDefaultName);
+            linkElement.click();
+        }
+
+        loadNews();
+    </script>
+</body>
+</html>

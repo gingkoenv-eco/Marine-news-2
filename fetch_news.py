@@ -9,6 +9,7 @@ rather than on every page load. The front-end (index.html) simply fetches the
 resulting news.json file, so visitors never wait on RSS parsing.
 """
 
+import calendar
 import json
 import logging
 import re
@@ -24,6 +25,17 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 OUTPUT_FILE = "news.json"
+
+# Some sites (e.g. Oceanographic Magazine) reject requests that don't look like
+# they're coming from a real browser, and silently return nothing rather than
+# an error - so we always send a realistic User-Agent / Accept header.
+FEED_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/html;q=0.8, */*;q=0.7",
+}
 
 # List of RSS sources - STRICTLY MARINE-FOCUSED
 sources = [
@@ -185,6 +197,59 @@ broader_keywords += [
 ]
 
 
+def fetch_feed(url):
+    """Fetch and parse a feed, using realistic browser headers.
+
+    Some sites block or silently ignore requests that don't look like they're
+    coming from a real browser - feedparser's own default request has no such
+    headers, so we fetch the raw bytes ourselves first and only fall back to
+    letting feedparser fetch it directly if that fails.
+    """
+    try:
+        response = requests.get(url, headers=FEED_HEADERS, timeout=15)
+        response.raise_for_status()
+        return feedparser.parse(response.content)
+    except Exception as e:
+        logger.debug(f"Direct request failed for {url} ({e}); falling back to feedparser's own fetch")
+        try:
+            return feedparser.parse(url, request_headers=FEED_HEADERS)
+        except Exception as e2:
+            logger.warning(f"feedparser fallback also failed for {url}: {e2}")
+            return feedparser.parse("")  # returns an empty/falsy feed object
+
+
+def get_published_datetime(entry):
+    """Extract a publish date from a feed entry, trying several field names
+    and formats before giving up - this avoids silently defaulting every
+    article from a source to "now" just because the date field it uses is
+    named differently (e.g. 'updated' instead of 'published')."""
+
+    # Textual fields, parsed with dateutil (handles most RSS/Atom date formats)
+    for field in ("published", "updated", "created", "pubDate"):
+        value = entry.get(field)
+        if not value:
+            continue
+        try:
+            dt = date_parser.parse(value)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt
+        except Exception:
+            continue
+
+    # feedparser-normalized struct_time fields (more reliable when the raw
+    # string format is unusual, since feedparser has already parsed it)
+    for field in ("published_parsed", "updated_parsed", "created_parsed"):
+        struct = entry.get(field)
+        if struct:
+            try:
+                return datetime.fromtimestamp(calendar.timegm(struct), tz=timezone.utc)
+            except Exception:
+                continue
+
+    return None
+
+
 def discover_feed_url(page_url):
     """Discover RSS/Atom feed URL from a page by parsing link tags."""
     try:
@@ -208,7 +273,7 @@ def discover_feed_url(page_url):
 
         for href in candidates:
             feed_url = urljoin(page_url, href)
-            feed = feedparser.parse(feed_url)
+            feed = fetch_feed(feed_url)
             if getattr(feed, 'entries', None):
                 logger.info(f"Discovered RSS/Atom feed for {page_url}: {feed_url}")
                 return feed_url
@@ -226,13 +291,13 @@ def fetch_articles():
     for source in sources:
         try:
             logger.info(f"Fetching from {source['name']}")
-            feed = feedparser.parse(source["url"])
+            feed = fetch_feed(source["url"])
 
             if not feed.entries:
                 logger.info(f"No feed entries for {source['name']}; attempting feed discovery")
                 discovered = discover_feed_url(source["url"])
                 if discovered:
-                    feed = feedparser.parse(discovered)
+                    feed = fetch_feed(discovered)
                 else:
                     logger.warning(f"No entries and no feed discovered for {source['name']}")
 
@@ -241,15 +306,10 @@ def fetch_articles():
 
             for entry in feed.entries:
                 try:
-                    if not hasattr(entry, 'published'):
+                    published = get_published_datetime(entry)
+                    if published is None:
+                        logger.debug(f"No parsable date for entry from {source['name']}; using current time")
                         published = datetime.now(timezone.utc)
-                    else:
-                        try:
-                            published = date_parser.parse(entry.published)
-                            if published.tzinfo is None:
-                                published = published.replace(tzinfo=timezone.utc)
-                        except Exception:
-                            published = datetime.now(timezone.utc)
 
                     if published < cutoff_date:
                         continue

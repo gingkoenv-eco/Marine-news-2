@@ -524,7 +524,10 @@
                 return true;
             }
 
+            // Align the cutoff to midnight so ranges are calendar-day based.
+            // e.g. activeRangeDays = 1 means "yesterday and today", not just the last 24 hours.
             const cutoff = new Date();
+            cutoff.setHours(0, 0, 0, 0);
             cutoff.setDate(cutoff.getDate() - activeRangeDays);
             return publishedDate >= cutoff;
         }

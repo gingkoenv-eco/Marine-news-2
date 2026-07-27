@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T07:52:46.373297+00:00",
+  "generated_at": "2026-07-27T12:27:34.676138+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -57,6 +57,15 @@
           "other_news": false
         },
         {
+          "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
+          "link": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-27T11:50:13+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "summary": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained.",
+          "other_news": false
+        },
+        {
           "title": "« Je ne peux plus participer à cette mascarade » : pourquoi des guides en Antarctique quittent le métier de leurs rêves",
           "link": "https://theconversation.com/je-ne-peux-plus-participer-a-cette-mascarade-pourquoi-des-guides-en-antarctique-quittent-le-metier-de-leurs-reves-288207",
           "published": "2026-07-24T09:50:49+00:00",
@@ -102,9 +111,18 @@
           "other_news": false
         },
         {
+          "title": "Ces canaux provençaux vieux de cinq siècles rechargent les nappes et font vivre les paysans",
+          "link": "https://reporterre.net/Ces-canaux-provencaux-vieux-de-cinq-siecles-rechargent-les-nappes-et-font-vivre-les",
+          "published": "2026-07-27T12:19:15+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "summary": "Dans les Alpes-de-Haute-Provence, des réseaux de canaux gravitaires participent au maintien de l'humidité des sols et à la recha",
+          "other_news": false
+        },
+        {
           "title": "« Sans notre intervention, il n'y aurait quasiment plus de busards en France » : comment agriculteurs et écologistes protègent ces oiseaux des champs",
           "link": "https://reporterre.net/Sans-notre-intervention-il-n-y-aurait-quasiment-plus-de-busards-en-France-comment",
-          "published": "2026-07-27T07:52:39.652818+00:00",
+          "published": "2026-07-25T05:30:00+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "Dans le nord de la France, écologues et agriculteurs font cause commune pour protéger les busards qui nichent au sol au milieu d",
@@ -113,7 +131,7 @@
         {
           "title": "« C'est démoralisant » : faute d'aides adaptées, la pêche artisanale se meurt à La Réunion",
           "link": "https://reporterre.net/C-est-demoralisant-faute-d-aides-adaptees-la-peche-artisanale-se-meurt-a-La-Reunion",
-          "published": "2026-07-27T07:52:39.652865+00:00",
+          "published": "2026-07-25T05:30:00+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "L'Europe a enfin validé, après 17 ans d'attente, des aides au renouvellement de bateaux à La Réunion. Las, ces aides sont quasim",
@@ -122,7 +140,7 @@
         {
           "title": "« Avec sa sale gueule, il est le bouc émissaire idéal » : à la rencontre du silure, le géant de nos rivières",
           "link": "https://reporterre.net/Avec-sa-sale-gueule-il-est-le-bouc-emissaire-ideal-a-la-rencontre-du-silure-le-geant-de",
-          "published": "2026-07-27T07:52:39.653738+00:00",
+          "published": "2026-07-24T05:30:00+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "[Rivières : le grand plouf 4/5] Accusé de provoquer l'effondrement des poissons migrateurs, le silure glane est désormais classé",
@@ -131,7 +149,7 @@
         {
           "title": "PFAS : l'Europe baisse drastiquement le seuil tolérable d'exposition aux TFA",
           "link": "https://reporterre.net/PFAS-l-Europe-baisse-drastiquement-le-seuil-tolerable-d-exposition-aux-TFA",
-          "published": "2026-07-27T07:52:39.654271+00:00",
+          "published": "2026-07-23T11:41:01+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "Mercredi 22 juillet, l'Autorité européenne de sécurité des aliments (Efsa) a divisé par 3,6 ce qu'elle considère être la dose jo",
@@ -140,7 +158,7 @@
         {
           "title": "Les maisons fissurées pourraient coûter jusqu'à 500 milliards d'euros",
           "link": "https://reporterre.net/Les-maisons-fissurees-pourraient-couter-jusqu-a-500-milliards-d-euros-aux-assureurs",
-          "published": "2026-07-27T07:52:39.654880+00:00",
+          "published": "2026-07-22T13:40:54+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "Combien coûteront les maisons fissurées par les sécheresses à répétition ? Invité mercredi 22 juillet sur BFM Business, le direc",
@@ -149,7 +167,7 @@
         {
           "title": "« 45 °C sous les tentes » : Israël restreint l'accès des Palestiniens à l'eau et à la fraîcheur en pleine canicule",
           "link": "https://reporterre.net/45-oC-sous-les-tentes-Israel-restreint-l-acces-des-Palestiniens-a-l-eau-et-a-la-fraicheur",
-          "published": "2026-07-27T07:52:39.656566+00:00",
+          "published": "2026-07-20T14:02:16+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "Alors que la bande de Gaza suffoque sous une chaleur de plomb, Israël empêche les Palestiniens de se rafraîchir. Humanitaires et",
@@ -158,19 +176,37 @@
         {
           "title": "A Fos-sur-Mer, des lignes à haute tension exemptées d'évaluation environnementale",
           "link": "https://reporterre.net/En-Camargue-des-lignes-a-haute-tension-exemptees-d-evaluation-environnementale",
-          "published": "2026-07-27T07:52:39.656745+00:00",
+          "published": "2026-07-20T13:26:16+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "Le gouvernement a décidé de ne pas imposer d'évaluation environnementale à plusieurs lignes électriques à très haute tension (TH",
           "other_news": false
         },
         {
-          "title": "Ces Bleus-là font encore trembler la planète : voici l'équipe de France des ennemis de l'écologie",
-          "link": "https://reporterre.net/Ces-Bleus-la-font-encore-trembler-la-planete-voici-l-equipe-de-France-des-ennemis-de-l",
-          "published": "2026-07-27T07:52:39.657361+00:00",
-          "source": "Reporterre",
+          "title": "Can the Ocean Act save Europe’s ailing seas?",
+          "link": "https://oceanographicmagazine.com/news/can-the-ocean-act-save-europe-s-ailing-seas/",
+          "published": "2026-07-21T11:11:39+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "summary": "Patrick Pouyanné, Arnaud Rousseau, Emmanuel Macron... Alors que la Coupe du monde de football touche à sa fin, Reporterre a comp",
+          "summary": "A new EEA-backed report finds only 7% of Europe's assessed seas in good health, with no regional sea meeting good overall condition, as scientists war",
+          "other_news": false
+        },
+        {
+          "title": "Une « nouvelle vague de chaleur », la quatrième de l’été, va toucher la France à partir de mardi, selon Météo-France",
+          "link": "https://www.lemonde.fr/planete/article/2026/07/27/canicule-une-nouvelle-vague-de-chaleur-la-quatrieme-de-l-ete-va-toucher-la-france-a-partir-de-mardi-selon-meteo-france_6734185_3244.html",
+          "published": "2026-07-27T13:24:16+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "summary": "Le pic de cette nouvelle vague de chaleur est attendu pour mercredi, avec des températures avoisinant 40 °C dans le sud-ouest de la France et 38 °C à",
+          "other_news": false
+        },
+        {
+          "title": "«Je les traite comme mes enfants» : dans les décombres de Gaza, ces apiculteurs tentent de sauver les abeilles, un enjeu de sécurité alimentaire",
+          "link": "https://vert.eco/rapports-de-force/je-les-traite-comme-mes-enfants-dans-les-decombres-de-gaza-ces-apiculteurs-tentent-de-sauver-les-abeilles-un-enjeu-de-securite-alimentaire/",
+          "published": "2026-07-27T10:24:21+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "summary": "Malgré les bombardements, les déplacements forcés et la famine, ces apiculteurs gazouis continuent de prendre soin de leurs abeilles. La guerre a déjà",
           "other_news": false
         },
         {
@@ -189,15 +225,6 @@
           "source": "The Conversation",
           "type": "news",
           "summary": "If this poll’s results were reflected at an election, Labor would lose its majority, with One Nation and the Coalition combined leading Labor in seats",
-          "other_news": false
-        },
-        {
-          "title": "A Tunisian phosphate plant that sickens children so US, Europe can get fertilizer",
-          "link": "https://news.mongabay.com/2026/07/a-tunisian-phosphate-plant-that-sickens-children-so-us-europe-can-get-fertilizer/",
-          "published": "2026-07-22T02:00:11+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "summary": "Dalila grew up in the Tunisian coastal city of Gabès and is accustomed to the heavy, acrid smell from the state-owned phosphate processing plant about",
           "other_news": false
         }
       ]
@@ -280,12 +307,12 @@
           "other_news": false
         },
         {
-          "title": "In southern India, beekeeping helps Indigenous women earn more",
-          "link": "https://news.mongabay.com/short-article/2026/07/in-southern-india-beekeeping-helps-indigenous-women-earn-more/",
-          "published": "2026-07-22T07:11:32+00:00",
+          "title": "Finning the High Seas",
+          "link": "https://news.mongabay.com/specials/2026/07/finning-the-high-seas/",
+          "published": "2026-07-27T09:52:15+00:00",
           "source": "Mongabay Marine",
           "type": "news",
-          "summary": "A beekeeping initiative is enabling women in India’s Western Ghats, a biodiversity hotspot that runs parallel to India&#8217;s west coast, to strength",
+          "summary": "This investigative series uncovered a massive illegal shark-finning scheme and widespread labor abuses across the fleet of Dalian Ocean Fishing (DOF),",
           "other_news": false
         }
       ],
@@ -366,6 +393,15 @@
           "source": "The Conversation UK",
           "type": "news",
           "summary": "New research shows Arctic winter sea ice loss has not stopped – it was temporarily hidden by natural variability.",
+          "other_news": false
+        },
+        {
+          "title": "Arctic bobtail squid filmed in the wild … and she’s carrying eggs",
+          "link": "https://oceanographicmagazine.com/news/arctic-bobtail-squid-filmed-in-the-wild-and-shes-carrying-eggs/",
+          "published": "2026-07-22T14:01:23+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Marine biologists have filmed the Arctic bobtail squid in the wild for the first time, discovering a mature female with eggs in Northeast Greenland Na",
           "other_news": false
         }
       ],
@@ -562,7 +598,7 @@
         {
           "title": "« Une honte » : 8 dauphins du Marineland d'Antibes transférés vers l'Espagne",
           "link": "https://reporterre.net/Une-honte-8-dauphins-du-Marineland-d-Antibes-transferes-vers-l-Espagne",
-          "published": "2026-07-27T07:52:39.653817+00:00",
+          "published": "2026-07-23T15:31:13+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "Pas de sanctuaire marin pour les dauphins du Marineland d'Antibes. Des opérations de transfert ont débuté le 22 juillet pour 8 d",
@@ -571,7 +607,7 @@
         {
           "title": "Des quartiers populaires privés de plage dans le Finistère",
           "link": "https://reporterre.net/Des-quartiers-populaires-prives-de-plage-dans-le-Finistere",
-          "published": "2026-07-27T07:52:39.653941+00:00",
+          "published": "2026-07-23T14:00:00+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "Face aux « incivilités », c'en était trop. Dans le Finistère, le bus menant des quartiers populaires de Quimper à une jolie plag",
@@ -580,7 +616,7 @@
         {
           "title": "Légitime défense des policiers : la pétition à 730 000 signatures enterrée par l'Assemblée",
           "link": "https://reporterre.net/Legitime-defense-des-policiers-la-petition-a-730-000-signatures-enterree-par-l-Assemblee",
-          "published": "2026-07-27T07:52:39.654125+00:00",
+          "published": "2026-07-23T13:23:28+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "La commission des lois de l'Assemblée nationale a décidé, mercredi 22 juillet, de classer sans suite la pétition contre la propo",
@@ -589,7 +625,7 @@
         {
           "title": "« Monique Barbut joue aux Lego » : la réforme qui plonge le ministère de la Transition écologique dans le flou",
           "link": "https://reporterre.net/Monique-Barbut-joue-aux-Lego-la-reforme-qui-plonge-le-ministere-de-la-Transition",
-          "published": "2026-07-27T07:52:39.654425+00:00",
+          "published": "2026-07-23T05:30:00+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "Avant sa vraie-fausse démission, Monique Barbut avait lancé une profonde réforme de l'organisation du ministère de la Transition",
@@ -598,10 +634,46 @@
         {
           "title": "Après un léger ralentissement, la fonte de la banquise arctique reprend de plus belle",
           "link": "https://reporterre.net/Apres-un-leger-ralentissement-la-fonte-de-la-banquise-arctique-reprend-de-plus-belle",
-          "published": "2026-07-27T07:52:39.656806+00:00",
+          "published": "2026-07-20T13:10:17+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "Le recul de la banquise arctique reprend. Une étude publiée le 20 juillet dans la revue PNAS révèle que la relative pause de la",
+          "other_news": false
+        },
+        {
+          "title": "Rowing team sets new world record after circumnavigating the UK",
+          "link": "https://oceanographicmagazine.com/news/rowing-team-sets-new-world-record-after-circumnavigating-the-uk/",
+          "published": "2026-07-24T14:28:31+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Grace Church has become the youngest person to row the entire coastline of Great Britain - having crossed the finishing line beneath Tower Bridge in L",
+          "other_news": false
+        },
+        {
+          "title": "Orcas filmed ramming sunfish so hard it explodes",
+          "link": "https://oceanographicmagazine.com/news/orcas-filmed-ramming-sunfish-so-hard-it-explodes/",
+          "published": "2026-07-23T12:29:57+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Researchers have described a new orca hunting behaviour in the Gulf of California, where one orca holds a sunfish while another rams it at speed, frag",
+          "other_news": false
+        },
+        {
+          "title": "Southern Water execs face prosecution over sewage fraud",
+          "link": "https://oceanographicmagazine.com/news/southern-water-execs-face-prosecution-over-sewage-monitoring-fraud/",
+          "published": "2026-07-23T11:41:37+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "The High Court has confirmed the Environment Agency can prosecute former Southern Water executives over alleged sewage data fraud, as Cornwall council",
+          "other_news": false
+        },
+        {
+          "title": "Chile’s seamounts are still damaged, decades after trawling ended",
+          "link": "https://oceanographicmagazine.com/news/chiles-seamounts-are-still-damaged-decades-after-trawling-ended/",
+          "published": "2026-07-22T14:56:44+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "A new study finds that Chile's Juan Fernández seamounts still show significant ecological damage more than 25 years after bottom trawling ended, with",
           "other_news": false
         },
         {
@@ -677,15 +749,6 @@
           "other_news": false
         },
         {
-          "title": "Andy Burnham’s purge of the Starmerites may store up problems for the future",
-          "link": "https://theconversation.com/andy-burnhams-purge-of-the-starmerites-may-store-up-problems-for-the-future-288235",
-          "published": "2026-07-24T10:37:11+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "summary": "You can’t gain power without also gaining enemies, as Machiavelli pointed out.",
-          "other_news": false
-        },
-        {
           "title": "What Kansas Can Teach Us About NOAA",
           "link": "https://oceanconservancy.org/blog/2026/07/23/kansas-teach-about-noaa/",
           "published": "2026-07-23T18:06:07+00:00",
@@ -701,6 +764,24 @@
           "source": "Ocean Conservancy",
           "type": "news",
           "summary": "Our annual Photo Contest is officially wrapped—and wow, you delivered! More than 1,000 ocean lovers shared their incredible ocean and wildlife photos.",
+          "other_news": false
+        },
+        {
+          "title": "Extreme weather dampens breeding success for marine predators in Tasmania: study",
+          "link": "https://news.mongabay.com/2026/07/extreme-weather-dampens-breeding-success-for-marine-predators-in-tasmania-study/",
+          "published": "2026-07-27T12:11:09+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "summary": "On the rocky shores of Tasmania, seals and seabirds can’t shelter indoors during a storm or turn on the AC during a hot spell. When extreme weather st",
+          "other_news": false
+        },
+        {
+          "title": "Bangladesh shipbreakers push back against stricter environmental standards",
+          "link": "https://news.mongabay.com/2026/07/bangladesh-shipbreakers-push-back-against-stricter-environmental-standards/",
+          "published": "2026-07-27T11:23:02+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "summary": "DHAKA — Ships sail oceans all over the world, yet as they reach the end of their lives, they mostly go to die on the beaches of Bangladesh, India and",
           "other_news": false
         },
         {
@@ -774,15 +855,6 @@
           "type": "news",
           "summary": "It was spring, 20 years ago now, but he remembers it clearly. On the deck of the Geco Resolution, wind tearing spray from the waves, Robert McCauley s",
           "other_news": false
-        },
-        {
-          "title": "Oil has harmed the nature and people of the Niger Delta; human rights may save it",
-          "link": "https://news.mongabay.com/podcast/2026/07/oil-has-harmed-the-nature-and-people-of-the-niger-delta-human-rights-may-save-it/",
-          "published": "2026-07-21T23:06:51+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "summary": "On this week’s episode of the Mongabay Newscast, I speak with travel writer Noo Saro-Wiwa. She has documented the violence and natural destruction tha",
-          "other_news": false
         }
       ]
     },
@@ -849,6 +921,26 @@
           "other_news": true
         }
       ],
+      "Marine Biodiversity & Conservation": [
+        {
+          "title": "Manatees among species at risk as Trump strips ESA protections",
+          "link": "https://oceanographicmagazine.com/news/manatees-among-species-at-risk-as-trump-strips-esa-protections/",
+          "published": "2026-07-22T20:19:50+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Conservationists warn Florida's manatees are at risk after the Trump administration rescinded the ESA's \"blanket rule\" and weakened critical habitat p",
+          "other_news": true
+        },
+        {
+          "title": "‘Fifty years of work’: Hawaiian stilt brought back from the brink",
+          "link": "https://oceanographicmagazine.com/news/fifty-years-of-work-hawaiian-stilt-brought-back-from-the-brink/",
+          "published": "2026-07-21T18:48:39+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "The Hawaiian stilt has been reclassified from endangered to threatened after five decades of conservation work grew the population from fewer than 200",
+          "other_news": true
+        }
+      ],
       "Marine Protected Areas & Policy": [
         {
           "title": "Heatwaves: how to close the UK’s cooling divide",
@@ -886,6 +978,15 @@
           "source": "BBC Ocean & Marine",
           "type": "news",
           "summary": "What’s the point of having a treaty banning nukes in space if we can’t spot them?",
+          "other_news": true
+        },
+        {
+          "title": "Peut-on s’inspirer du Japon pour repenser la durabilité de la filière textile en France ?",
+          "link": "https://theconversation.com/peut-on-sinspirer-du-japon-pour-repenser-la-durabilite-de-la-filiere-textile-en-france-281779",
+          "published": "2026-07-27T10:13:46+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "summary": "Longtemps, le Japon a été le pays du textile reconditionné. Analyse d’un modèle économique peu connu pour éclairer les voies d’une mutation possible d",
           "other_news": true
         },
         {
@@ -1015,15 +1116,6 @@
           "other_news": true
         },
         {
-          "title": "Brazil’s highland forest has been shaped by climate change and Indigenous people for 6,000 years",
-          "link": "https://theconversation.com/brazils-highland-forest-has-been-shaped-by-climate-change-and-indigenous-people-for-6-000-years-285286",
-          "published": "2026-07-10T14:51:18+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "summary": "Prehistoric pollen records show that forest dynamics were driven by more than just broad-scale climatic changes.",
-          "other_news": true
-        },
-        {
           "title": "How do scientists know if climate change made a heat wave, extreme storm or wildfire worse?",
           "link": "https://theconversation.com/how-do-scientists-know-if-climate-change-made-a-heat-wave-extreme-storm-or-wildfire-worse-288232",
           "published": "2026-07-24T12:43:35+00:00",
@@ -1123,9 +1215,18 @@
           "other_news": true
         },
         {
+          "title": "Incendies : en brûlant, les forêts françaises alimentent le dérèglement climatique qui les détruit",
+          "link": "https://reporterre.net/Incendies-en-brulant-les-forets-francaises-alimentent-le-dereglement-climatique-qui-les",
+          "published": "2026-07-27T12:18:48+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "summary": "Facilités par le réchauffement climatique, les feux de forêt contribuent eux-mêmes à ce phénomène. Au CO2 libéré par les flammes",
+          "other_news": true
+        },
+        {
           "title": "« L'époque n'encourage pas la nuance » : guide « un peu bourrin » pour orienter les décideurs sur l'écologie",
           "link": "https://reporterre.net/L-epoque-n-encourage-pas-la-nuance-guide-un-peu-bourrin-pour-orienter-les-decideurs-sur-l",
-          "published": "2026-07-27T07:52:39.652436+00:00",
+          "published": "2026-07-26T05:30:00+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "Dans sa nouvelle BD, Alessandro Pignocchi se demande si la politique peut se hisser à la hauteur des enjeux de l'urgence écologi",
@@ -1134,7 +1235,7 @@
         {
           "title": "Opposée au retour de l'acétamipride, la ministre de la Transition écologique démissionne... Macron la rattrape",
           "link": "https://reporterre.net/Opposee-au-retour-de-l-acetamipride-la-ministre-de-la-Transition-ecologique-demissionne-Macron-la-rattrape",
-          "published": "2026-07-27T07:52:39.655336+00:00",
+          "published": "2026-07-22T07:57:26+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "Monique Barbut a remis sa démission le 22 juillet. Après avoir enchaîné les désaccords, les couacs et avoir brillé par son absen",
@@ -1143,7 +1244,7 @@
         {
           "title": "Jean-Luc Mélenchon : « Une nouvelle gauche d'action a surgi, elle est faite d'insoumis et de verts, tous écologistes »",
           "link": "https://reporterre.net/Jean-Luc-Melenchon-Une-nouvelle-gauche-d-action-a-surgi-elle-est-faite-d-insoumis-et-de",
-          "published": "2026-07-27T07:52:39.655435+00:00",
+          "published": "2026-07-22T05:30:00+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "Inégalités face à la canicule, écorégions, maladies environnementales, intelligence artificielle… Pour Reporterre, le candidat à",
@@ -1152,7 +1253,7 @@
         {
           "title": "La forêt et ses animaux « sacrifiés » : après l'incendie, la Drôme pleure son patrimoine naturel",
           "link": "https://reporterre.net/La-foret-et-ses-animaux-sacrifies-apres-l-incendie-la-Drome-pleure-son-patrimoine-naturel",
-          "published": "2026-07-27T07:52:39.655918+00:00",
+          "published": "2026-07-21T14:00:00+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "L'incendie qui a ravagé 4 400 ha de forêt dans la Drôme a mis près d'un mois à être fixé. Faute de moyens, les pompiers ont prio",
@@ -1161,14 +1262,41 @@
         {
           "title": "« La montagne devrait être un lieu à vivre, pas un parc d'attraction géant »",
           "link": "https://reporterre.net/La-loi-Montagne-favorisera-une-colonisation-par-les-residences-secondaires",
-          "published": "2026-07-27T07:52:39.656484+00:00",
+          "published": "2026-07-21T05:30:00+00:00",
           "source": "Reporterre",
           "type": "news",
           "summary": "En passe d'être approuvée au Parlement, la nouvelle loi sur la montagne facilitera l'urbanisation de ces milieux naturels. Ce ph",
           "other_news": true
         },
         {
-          "title": "En Espagne, la solidarité et la concorde politique prévalent face à des « incendies monstres »",
+          "title": "Great Barrier Reef faces ecological collapse as El Niño looms",
+          "link": "https://oceanographicmagazine.com/news/great-barrier-reef-faces-ecological-collapse-as-el-nino-looms/",
+          "published": "2026-07-21T11:14:55+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "This, scientists warn, is a critical signal that urgent global systemic change is needed to prevent the widespread loss of our critical ecosystems\nThe",
+          "other_news": true
+        },
+        {
+          "title": "TotalEnergies fait appel de la décision lui imposant de prendre en compte les émissions de CO₂ de ses clients",
+          "link": "https://www.lemonde.fr/planete/article/2026/07/27/totalenergies-fait-appel-de-la-decision-lui-imposant-de-prendre-en-compte-les-emissions-de-co-de-ses-clients_6734044_3244.html",
+          "published": "2026-07-27T11:00:49+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "summary": "Le géant pétrogazier conteste devant la cour d’appel de Paris l’obligation, prononcée le 25 juin, d’intégrer les émissions de CO₂ de ses clients dans",
+          "other_news": true
+        },
+        {
+          "title": "Incendies : une indispensable réponse nationale et européenne",
+          "link": "https://www.lemonde.fr/idees/article/2026/07/27/incendies-une-indispensable-reponse-nationale-et-europeenne_6733977_3232.html",
+          "published": "2026-07-27T10:30:14+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "summary": "Les événements climatiques extrêmes qui se répètent à un rythme de plus en plus soutenu obligent à une adaptation accélérée des politiques publiques.",
+          "other_news": true
+        },
+        {
+          "title": "Feux en Espagne : dans le pays, la solidarité et la concorde politique prévalent face à des « incendies monstres »",
           "link": "https://www.lemonde.fr/planete/article/2026/07/27/en-espagne-la-solidarite-et-la-concorde-politique-prevalent-face-a-des-incendies-monstres_6733574_3244.html",
           "published": "2026-07-27T05:00:19+02:00",
           "source": "Le Monde Planète",
@@ -1183,24 +1311,6 @@
           "source": "Le Monde Planète",
           "type": "news",
           "summary": "L’organisation de disciplines de ski freestyle à La Salle-les-Alpes, dans les Hautes-Alpes, nécessite de défricher au moins 7 500 mètres carrés de vég",
-          "other_news": true
-        },
-        {
-          "title": "« Nous faisons un constat d’échec de la politique menée ces dernières années pour assurer la disponibilité des Canadair »",
-          "link": "https://www.lemonde.fr/planete/article/2026/07/25/nous-faisons-un-constat-d-echec-de-la-politique-menee-ces-dernieres-annees-pour-assurer-la-disponibilite-des-canadair_6732425_3244.html",
-          "published": "2026-07-25T20:36:29+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "summary": "Seuls 7 des 12 Canadair français étaient disponibles, samedi 25 juillet, pour lutter contre les violents incendies qui ravagent la France, en raison d",
-          "other_news": true
-        },
-        {
-          "title": "Noyades en Ile-de-France : pour limiter les morts, « il faut faire évoluer la réglementation des lieux de baignade »",
-          "link": "https://www.lemonde.fr/societe/article/2026/07/25/noyades-en-ile-de-france-pour-limiter-les-morts-il-faut-faire-evoluer-la-reglementation-des-lieux-de-baignade_6732307_3224.html",
-          "published": "2026-07-25T14:00:05+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "summary": "Le nombre de décès par noyades a bondi dans la région, selon les chiffres publiés vendredi par Santé publique France. Patrick Karam, vice-président (L",
           "other_news": true
         },
         {
@@ -1219,15 +1329,6 @@
           "source": "Vert Eco Articles",
           "type": "news",
           "summary": "La ministre de la transition écologique s’en allait trahie après l’adoption définitive de la décriée loi d’urgence agricole au Parlement. Elle a final",
-          "other_news": true
-        },
-        {
-          "title": "La France officialise sa nouvelle stratégie bas carbone : toujours plus ambitieuse… et toujours moins crédible",
-          "link": "https://vert.eco/energie/la-france-officialise-sa-nouvelle-strategie-bas-carbone-toujours-plus-ambitieuse-et-toujours-moins-credible/",
-          "published": "2026-07-20T17:03:41+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "summary": "En gestation depuis plusieurs années, la nouvelle stratégie française pour atteindre la neutralité carbone a (enfin) été officialisée ce week-end. Les",
           "other_news": true
         },
         {
@@ -1258,6 +1359,15 @@
           "other_news": true
         },
         {
+          "title": "Cheetahs reintroduced to Zambia’s Greater Luangwa Ecosystem",
+          "link": "https://news.mongabay.com/short-article/2026/07/cheetahs-reintroduced-to-zambias-greater-luangwa-ecosystem/",
+          "published": "2026-07-27T12:10:01+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "summary": "Cheetahs are back in Zambia’s Greater Luangwa Ecosystem, nearly 30 years after the big cats’ last recorded presence in the massive landscape. Six chee",
+          "other_news": true
+        },
+        {
           "title": "Thai MP calls for new committee to scrutinize AI data centers’ environmental impact",
           "link": "https://news.mongabay.com/2026/07/thai-mp-calls-for-new-committee-to-scrutinize-ai-data-centers-environmental-impact/",
           "published": "2026-07-27T02:48:48+00:00",
@@ -1282,15 +1392,6 @@
           "source": "Mongabay Marine",
           "type": "news",
           "summary": "The Mojave Desert may look like a flat, brown stretch of nothing between Los Angeles and Las Vegas. But threading through its rocky mountain ranges is",
-          "other_news": true
-        },
-        {
-          "title": "Health fears linger in a Brazilian neighborhood built over oil waste",
-          "link": "https://news.mongabay.com/2026/07/health-fears-linger-in-a-brazilian-neighborhood-built-over-oil-waste/",
-          "published": "2026-07-21T20:06:27+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "summary": "SÃO SEBASTIÃO, Brazil — In front of the house where she has lived for decades, Cosma da Silva points to nearby homes in her Itatinga neighborhood and",
           "other_news": true
         }
       ]

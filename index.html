@@ -419,17 +419,16 @@
             </div>
 
             <div class="control-card">
-                <span class="control-label">Topic focus</span>
+                <span class="control-label">Time range</span>
                 <div class="chip-row">
-                    <button type="button" class="chip active" data-filter="all">All articles</button>
-                    <button type="button" class="chip" data-filter="cop">COP / International events</button>
+                    <button type="button" class="chip" data-range="30">30 days</button>
+                    <button type="button" class="chip active" data-range="15">15 days</button>
+                    <button type="button" class="chip" data-range="1">1 day</button>
                 </div>
             </div>
 
             <div class="control-card buttons-card">
-                <button id="refresh" class="primary-btn">🔄 Refresh</button>
                 <button id="toggleOtherNews" class="secondary-btn">📰 Show other news</button>
-                <button id="export" class="secondary-btn">💾 Export JSON</button>
             </div>
         </div>
 
@@ -447,15 +446,13 @@
         let newsData = {};
         let showOtherNews = false;
         let currentSort = 'latest';
-        let activeTopicFilter = 'all';
+        let activeRangeDays = 15;
         let onlyOtherNews = false;
 
         const sortSelect = document.getElementById('sortSelect');
-        const topicChips = Array.from(document.querySelectorAll('.chip'));
+        const rangeChips = Array.from(document.querySelectorAll('.chip'));
         const newsDiv = document.getElementById('news');
 
-        document.getElementById('refresh').addEventListener('click', loadNews);
-        document.getElementById('export').addEventListener('click', exportJSON);
         document.getElementById('toggleOtherNews').addEventListener('click', () => {
             onlyOtherNews = !onlyOtherNews;
             document.getElementById('toggleOtherNews').textContent = onlyOtherNews ? '📰 Show main news' : '📰 Show other news';
@@ -467,10 +464,10 @@
             displayNews(newsData);
         });
 
-        topicChips.forEach((chip) => {
+        rangeChips.forEach((chip) => {
             chip.addEventListener('click', () => {
-                activeTopicFilter = chip.dataset.filter;
-                topicChips.forEach((item) => item.classList.toggle('active', item === chip));
+                activeRangeDays = parseInt(chip.dataset.range, 10);
+                rangeChips.forEach((item) => item.classList.toggle('active', item === chip));
                 displayNews(newsData);
             });
         });
@@ -517,31 +514,19 @@
                 });
         }
 
-        function articleMatchesFilter(article) {
-            if (activeTopicFilter === 'all') {
+        function articleWithinRange(article) {
+            if (!article.published) {
                 return true;
             }
 
-            const text = `${article.title || ''} ${article.summary || ''}`.toLowerCase();
-            const copTerms = [
-                'cop',
-                'conference of the parties',
-                'conference of parties',
-                'conference',
-                'international event',
-                'international summit',
-                'climate summit',
-                'summit',
-                'delegates',
-                'global meeting',
-                'world leaders',
-                'treaty',
-                'negotiation',
-                'agreement',
-                'un climate'
-            ];
+            const publishedDate = new Date(article.published);
+            if (isNaN(publishedDate.getTime())) {
+                return true;
+            }
 
-            return copTerms.some((term) => text.includes(term));
+            const cutoff = new Date();
+            cutoff.setDate(cutoff.getDate() - activeRangeDays);
+            return publishedDate >= cutoff;
         }
 
         function sortArticles(articles, mode = currentSort) {
@@ -630,7 +615,7 @@
 
                     for (const theme in catData) {
                         for (const article of catData[theme] || []) {
-                            if (!articleMatchesFilter(article)) {
+                            if (!articleWithinRange(article)) {
                                 continue;
                             }
 
@@ -664,7 +649,7 @@
                     let categoryHasContent = false;
 
                     for (const theme in catData) {
-                        const articles = sortArticles((catData[theme] || []).filter(articleMatchesFilter));
+                        const articles = sortArticles((catData[theme] || []).filter(articleWithinRange));
                         if (articles.length > 0) {
                             categoryHasContent = true;
                             hasContent = true;
@@ -689,21 +674,6 @@
             if (!hasContent) {
                 newsDiv.innerHTML = '<div class="no-results">No articles found matching the selected filters.</div>';
             }
-        }
-
-        function exportJSON() {
-            if (Object.keys(newsData).length === 0) {
-                alert('No data to export. Please load news first.');
-                return;
-            }
-
-            const dataStr = JSON.stringify(newsData, null, 2);
-            const dataUri = 'data:application/json;charset=utf-8,' + encodeURIComponent(dataStr);
-            const exportFileDefaultName = 'news_export_' + new Date().toISOString().slice(0, 10) + '.json';
-            const linkElement = document.createElement('a');
-            linkElement.setAttribute('href', dataUri);
-            linkElement.setAttribute('download', exportFileDefaultName);
-            linkElement.click();
         }
 
         loadNews();

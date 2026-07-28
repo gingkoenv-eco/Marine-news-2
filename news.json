@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T06:19:43.996774+00:00",
+  "generated_at": "2026-07-28T07:41:56.280351+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -194,12 +194,21 @@
           "other_news": false
         },
         {
-          "title": "« 45 °C sous les tentes » : Israël restreint l'accès des Palestiniens à l'eau et à la fraîcheur en pleine canicule",
-          "link": "https://reporterre.net/45-oC-sous-les-tentes-Israel-restreint-l-acces-des-Palestiniens-a-l-eau-et-a-la-fraicheur",
-          "published": "2026-07-20T14:02:16+00:00",
-          "source": "Reporterre",
+          "title": "Deep-sea mining talks end without a framework… again",
+          "link": "https://oceanographicmagazine.com/news/deep-sea-mining-talks-end-without-a-framework-again/",
+          "published": "2026-07-27T12:41:03+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "summary": "Alors que la bande de Gaza suffoque sous une chaleur de plomb, Israël empêche les Palestiniens de se rafraîchir. Humanitaires et",
+          "summary": "ISA Council negotiations have concluded with the deep-sea mining regulatory framework still incomplete and scientific gaps unresolved, as conservation",
+          "other_news": false
+        },
+        {
+          "title": "EN DIRECT, incendies : le mégafeu près de Bordeaux « toujours stabilisé » avant une possible dégradation des conditions météo",
+          "link": "https://www.lemonde.fr/planete/live/2026/07/28/en-direct-incendies-le-megafeu-pres-de-bordeaux-est-toujours-stabilise-apres-une-nuit-calme-annonce-la-prefecture_6730417_3244.html",
+          "published": "2026-07-28T07:25:16+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "summary": "Après une nuit « calme », selon la préfecture, le retour d’un vent sud-est et une hausse des températures à partir de mardi pourraient rendre la situa",
           "other_news": false
         },
         {
@@ -402,6 +411,15 @@
           "source": "The Conversation UK",
           "type": "news",
           "summary": "New research shows Arctic winter sea ice loss has not stopped – it was temporarily hidden by natural variability.",
+          "other_news": false
+        },
+        {
+          "title": "Arctic bobtail squid filmed in the wild … and she’s carrying eggs",
+          "link": "https://oceanographicmagazine.com/news/arctic-bobtail-squid-filmed-in-the-wild-and-shes-carrying-eggs/",
+          "published": "2026-07-22T14:01:23+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Marine biologists have filmed the Arctic bobtail squid in the wild for the first time, discovering a mature female with eggs in Northeast Greenland Na",
           "other_news": false
         }
       ],
@@ -632,6 +650,42 @@
           "other_news": false
         },
         {
+          "title": "Rowing team sets new world record after circumnavigating the UK",
+          "link": "https://oceanographicmagazine.com/news/rowing-team-sets-new-world-record-after-circumnavigating-the-uk/",
+          "published": "2026-07-24T14:28:31+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Grace Church has become the youngest person to row the entire coastline of Great Britain - having crossed the finishing line beneath Tower Bridge in L",
+          "other_news": false
+        },
+        {
+          "title": "Orcas filmed ramming sunfish so hard it explodes",
+          "link": "https://oceanographicmagazine.com/news/orcas-filmed-ramming-sunfish-so-hard-it-explodes/",
+          "published": "2026-07-23T12:29:57+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Researchers have described a new orca hunting behaviour in the Gulf of California, where one orca holds a sunfish while another rams it at speed, frag",
+          "other_news": false
+        },
+        {
+          "title": "Southern Water execs face prosecution over sewage fraud",
+          "link": "https://oceanographicmagazine.com/news/southern-water-execs-face-prosecution-over-sewage-monitoring-fraud/",
+          "published": "2026-07-23T11:41:37+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "The High Court has confirmed the Environment Agency can prosecute former Southern Water executives over alleged sewage data fraud, as Cornwall council",
+          "other_news": false
+        },
+        {
+          "title": "Chile’s seamounts are still damaged, decades after trawling ended",
+          "link": "https://oceanographicmagazine.com/news/chiles-seamounts-are-still-damaged-decades-after-trawling-ended/",
+          "published": "2026-07-22T14:56:44+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "A new study finds that Chile's Juan Fernández seamounts still show significant ecological damage more than 25 years after bottom trawling ended, with",
+          "other_news": false
+        },
+        {
           "title": "Envole-moi : la tourterelle des bois (3/6)",
           "link": "https://www.lemonde.fr/podcasts/article/2026/07/28/envole-moi-la-tourterelle-des-bois-3-6_6734605_5463015.html",
           "published": "2026-07-28T06:08:44+02:00",
@@ -805,6 +859,15 @@
           "type": "news",
           "summary": "As part of our research we interviewed and followed hundreds of scuba divers.",
           "other_news": false
+        },
+        {
+          "title": "Report uses Norway’s official data to expose ‘humane’ whaling claims",
+          "link": "https://oceanographicmagazine.com/news/report-uses-norways-official-data-to-expose-humane-whaling-claims/",
+          "published": "2026-07-27T16:39:40+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Whale and Dolphin Conservation analysis shows widespread welfare failures, including prolonged deaths and the slaughter of pregnant whales, as domesti",
+          "other_news": false
         }
       ],
       "Other Marine News": [
@@ -850,6 +913,24 @@
         }
       ],
       "Marine Biodiversity & Conservation": [
+        {
+          "title": "Manatees among species at risk as Trump strips ESA protections",
+          "link": "https://oceanographicmagazine.com/news/manatees-among-species-at-risk-as-trump-strips-esa-protections/",
+          "published": "2026-07-22T20:19:50+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Conservationists warn Florida's manatees are at risk after the Trump administration rescinded the ESA's \"blanket rule\" and weakened critical habitat p",
+          "other_news": true
+        },
+        {
+          "title": "‘Fifty years of work’: Hawaiian stilt brought back from the brink",
+          "link": "https://oceanographicmagazine.com/news/fifty-years-of-work-hawaiian-stilt-brought-back-from-the-brink/",
+          "published": "2026-07-21T18:48:39+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "The Hawaiian stilt has been reclassified from endangered to threatened after five decades of conservation work grew the population from fewer than 200",
+          "other_news": true
+        },
         {
           "title": "Colorful birds are at greater risk of extinction than drab birds, study finds",
           "link": "https://news.mongabay.com/short-article/2026/07/colorful-birds-are-at-greater-risk-of-extinction-than-drab-birds-study-finds/",
@@ -1224,12 +1305,12 @@
           "other_news": true
         },
         {
-          "title": "EN DIRECT, incendies : le mégafeu près de Bordeaux est « toujours stabilisé » après une nuit « calme », annonce la préfecture",
-          "link": "https://www.lemonde.fr/planete/live/2026/07/28/en-direct-incendies-le-megafeu-pres-de-bordeaux-est-toujours-stabilise-apres-une-nuit-calme-annonce-la-prefecture_6730417_3244.html",
-          "published": "2026-07-28T07:25:16+02:00",
-          "source": "Le Monde Planète",
+          "title": "Great Barrier Reef faces ecological collapse as El Niño looms",
+          "link": "https://oceanographicmagazine.com/news/great-barrier-reef-faces-ecological-collapse-as-el-nino-looms/",
+          "published": "2026-07-21T11:14:55+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "summary": "« Plusieurs reprises de feu ont été traitées cette nuit, mais sont sous contrôle (nord du Porge, nord du Cap-Ferret au niveau de l’espace dunaire) grâ",
+          "summary": "This, scientists warn, is a critical signal that urgent global systemic change is needed to prevent the widespread loss of our critical ecosystems\nThe",
           "other_news": true
         },
         {
@@ -1266,15 +1347,6 @@
           "source": "Le Monde Planète",
           "type": "news",
           "summary": "Le géant pétrogazier conteste devant la cour d’appel de Paris l’obligation, prononcée le 25 juin, d’intégrer les émissions de CO₂ de ses clients dans",
-          "other_news": true
-        },
-        {
-          "title": "Incendies : une indispensable réponse nationale et européenne",
-          "link": "https://www.lemonde.fr/idees/article/2026/07/27/incendies-une-indispensable-reponse-nationale-et-europeenne_6733977_3232.html",
-          "published": "2026-07-27T10:30:14+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "summary": "Les événements climatiques extrêmes qui se répètent à un rythme de plus en plus soutenu obligent à une adaptation accélérée des politiques publiques.",
           "other_news": true
         },
         {

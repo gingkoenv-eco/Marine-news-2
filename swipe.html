@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Swipe — Marine News</title>
+    <style>
+        :root {
+            --bg: #f4f7fb;
+            --surface: #ffffff;
+            --border: #dfe7f0;
+            --text: #152238;
+            --muted: #5f6f85;
+            --accent: #0f6cbd;
+            --accent-strong: #0a4f8a;
+            --accent-soft: #e8f2fb;
+            --keep: #1d9e75;
+            --keep-soft: #e1f5ee;
+            --skip: #d85a30;
+            --skip-soft: #faece7;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            padding: 24px;
+        }
+
+        .page {
+            max-width: 480px;
+            margin: 0 auto;
+        }
+
+        .topbar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 18px;
+        }
+
+        .topbar h1 {
+            font-size: 20px;
+            font-weight: 700;
+        }
+
+        .back-link {
+            font-size: 13px;
+            color: var(--muted);
+            text-decoration: none;
+            border: 1px solid var(--border);
+            padding: 6px 12px;
+            border-radius: 999px;
+            background: var(--surface);
+        }
+
+        .back-link:hover {
+            color: var(--accent-strong);
+            border-color: var(--accent);
+        }
+
+        .progress {
+            text-align: center;
+            font-size: 13px;
+            color: var(--muted);
+            margin-bottom: 14px;
+        }
+
+        .stack {
+            position: relative;
+            height: 460px;
+            margin-bottom: 20px;
+        }
+
+        .card {
+            position: absolute;
+            inset: 0;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 18px;
+            box-shadow: 0 12px 30px rgba(21, 34, 56, 0.10);
+            padding: 22px;
+            display: flex;
+            flex-direction: column;
+            touch-action: none;
+            user-select: none;
+            cursor: grab;
+        }
+
+        .card-source {
+            display: inline-block;
+            align-self: flex-start;
+            background: var(--accent-soft);
+            color: var(--accent-strong);
+            font-size: 12px;
+            font-weight: 700;
+            padding: 4px 10px;
+            border-radius: 999px;
+            margin-bottom: 14px;
+        }
+
+        .card-title {
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 1.35;
+            margin-bottom: 12px;
+        }
+
+        .card-date {
+            font-size: 12px;
+            color: var(--muted);
+            margin-bottom: 14px;
+        }
+
+        .card-summary {
+            font-size: 14px;
+            color: #44536b;
+            line-height: 1.55;
+            overflow-y: auto;
+            flex: 1;
+        }
+
+        .stamp {
+            position: absolute;
+            top: 26px;
+            font-size: 15px;
+            font-weight: 700;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            padding: 6px 14px;
+            border-radius: 8px;
+            border: 3px solid currentColor;
+            opacity: 0;
+            transform: rotate(-12deg);
+        }
+
+        .stamp.keep {
+            left: 22px;
+            color: var(--keep);
+        }
+
+        .stamp.skip {
+            right: 22px;
+            color: var(--skip);
+            transform: rotate(12deg);
+        }
+
+        .empty-state, .loading-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--muted);
+        }
+
+        .spinner {
+            border: 4px solid #edf2f7;
+            border-top: 4px solid var(--accent);
+            border-radius: 50%;
+            width: 36px;
+            height: 36px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 16px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .actions {
+            display: flex;
+            justify-content: center;
+            gap: 24px;
+            margin-bottom: 8px;
+        }
+
+        .action-btn {
+            width: 58px;
+            height: 58px;
+            border-radius: 50%;
+            border: 2px solid var(--border);
+            background: var(--surface);
+            font-size: 22px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: transform 0.15s ease, border-color 0.15s ease;
+        }
+
+        .action-btn:hover {
+            transform: translateY(-2px);
+        }
+
+        .action-btn.skip-btn {
+            color: var(--skip);
+        }
+
+        .action-btn.skip-btn:hover {
+            border-color: var(--skip);
+        }
+
+        .action-btn.keep-btn {
+            color: var(--keep);
+        }
+
+        .action-btn.keep-btn:hover {
+            border-color: var(--keep);
+        }
+
+        .results {
+            display: none;
+        }
+
+        .results.visible {
+            display: block;
+        }
+
+        .results h2 {
+            font-size: 20px;
+            margin-bottom: 6px;
+        }
+
+        .results p.subtitle {
+            font-size: 13px;
+            color: var(--muted);
+            margin-bottom: 18px;
+        }
+
+        .pick-list {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .pick-item a {
+            display: block;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-left: 4px solid var(--keep);
+            border-radius: 10px;
+            padding: 14px 16px;
+            text-decoration: none;
+            color: var(--text);
+            transition: box-shadow 0.15s ease;
+        }
+
+        .pick-item a:hover {
+            box-shadow: 0 4px 12px rgba(21, 34, 56, 0.08);
+        }
+
+        .pick-item .pick-source {
+            font-size: 12px;
+            font-weight: 700;
+            color: var(--accent-strong);
+            margin-bottom: 4px;
+        }
+
+        .pick-item .pick-title {
+            font-weight: 700;
+            font-size: 15px;
+            line-height: 1.4;
+        }
+
+        .no-picks {
+            text-align: center;
+            color: var(--muted);
+            padding: 24px 0;
+            font-size: 14px;
+        }
+
+        .restart-btn {
+            display: block;
+            width: 100%;
+            padding: 12px;
+            border: none;
+            border-radius: 999px;
+            background: var(--accent);
+            color: white;
+            font-weight: 700;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+        .restart-btn:hover {
+            background: var(--accent-strong);
+        }
+
+        .hint {
+            text-align: center;
+            font-size: 12px;
+            color: var(--muted);
+            margin-bottom: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <div class="topbar">
+            <h1>🌊 Swipe the day's news</h1>
+            <a class="back-link" href="index.html">← Back</a>
+        </div>
+
+        <div id="loading" class="loading-state">
+            <div class="spinner"></div>
+            <p>Loading today's articles...</p>
+        </div>
+
+        <div id="game" style="display:none;">
+            <p class="progress" id="progress"></p>
+            <div class="stack" id="stack"></div>
+            <div class="actions">
+                <button type="button" class="action-btn skip-btn" id="skipBtn" aria-label="Skip">✕</button>
+                <button type="button" class="action-btn keep-btn" id="keepBtn" aria-label="Keep">♥</button>
+            </div>
+            <p class="hint">Swipe right (or ♥) to keep, left (or ✕) to skip</p>
+        </div>
+
+        <div id="empty" class="empty-state" style="display:none;">
+            <p>No articles found for the last day. Try again after the next daily update.</p>
+        </div>
+
+        <div id="results" class="results">
+            <h2>Your picks</h2>
+            <p class="subtitle" id="resultsSubtitle"></p>
+            <ul class="pick-list" id="pickList"></ul>
+            <button type="button" class="restart-btn" id="restartBtn">Shuffle a new round</button>
+        </div>
+    </div>
+
+    <script>
+        const MAX_CARDS = 10;
+        const RANGE_DAYS = 1;
+
+        let deck = [];
+        let currentIndex = 0;
+        let kept = [];
+
+        const loadingEl = document.getElementById('loading');
+        const gameEl = document.getElementById('game');
+        const emptyEl = document.getElementById('empty');
+        const resultsEl = document.getElementById('results');
+        const stackEl = document.getElementById('stack');
+        const progressEl = document.getElementById('progress');
+        const pickListEl = document.getElementById('pickList');
+        const resultsSubtitleEl = document.getElementById('resultsSubtitle');
+
+        document.getElementById('skipBtn').addEventListener('click', () => decide(false));
+        document.getElementById('keepBtn').addEventListener('click', () => decide(true));
+        document.getElementById('restartBtn').addEventListener('click', startRound);
+
+        function shuffle(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+
+        function flattenArticles(categories) {
+            const all = [];
+            for (const category in categories) {
+                const themes = categories[category] || {};
+                for (const theme in themes) {
+                    for (const article of themes[theme] || []) {
+                        all.push(article);
+                    }
+                }
+            }
+            return all;
+        }
+
+        function withinRange(article) {
+            if (!article.published) {
+                return true;
+            }
+            const publishedDate = new Date(article.published);
+            if (isNaN(publishedDate.getTime())) {
+                return true;
+            }
+            const cutoff = new Date();
+            cutoff.setHours(0, 0, 0, 0);
+            cutoff.setDate(cutoff.getDate() - RANGE_DAYS);
+            return publishedDate >= cutoff;
+        }
+
+        function pickDiverseSample(articles, max) {
+            const bySource = new Map();
+            for (const article of articles) {
+                const src = article.source || 'Unknown source';
+                if (!bySource.has(src)) {
+                    bySource.set(src, []);
+                }
+                bySource.get(src).push(article);
+            }
+
+            for (const list of bySource.values()) {
+                list.sort((a, b) => new Date(b.published || 0) - new Date(a.published || 0));
+            }
+
+            const sources = shuffle(Array.from(bySource.keys()));
+            const picks = [];
+            let round = 0;
+
+            while (picks.length < max && sources.some((s) => bySource.get(s).length > 0)) {
+                const src = sources[round % sources.length];
+                const list = bySource.get(src);
+                if (list && list.length) {
+                    picks.push(list.shift());
+                }
+                round++;
+                if (round > sources.length * (max + 2)) {
+                    break;
+                }
+            }
+
+            return shuffle(picks);
+        }
+
+        function renderStack() {
+            stackEl.innerHTML = '';
+            const visible = deck.slice(currentIndex, currentIndex + 3);
+
+            visible.forEach((article, i) => {
+                const depth = visible.length - 1 - i;
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.style.zIndex = String(10 - depth);
+                card.style.transform = `translateY(${depth * 8}px) scale(${1 - depth * 0.03})`;
+
+                const pubDate = article.published
+                    ? new Date(article.published).toLocaleDateString(undefined, { weekday: 'short', month: 'short', day: 'numeric' })
+                    : 'Date unavailable';
+
+                card.innerHTML = `
+                    <div class="stamp keep">Keep</div>
+                    <div class="stamp skip">Skip</div>
+                    <span class="card-source">${article.source || 'Source unavailable'}</span>
+                    <div class="card-title">${article.title}</div>
+                    <div class="card-date">${pubDate}</div>
+                    <div class="card-summary">${article.summary || ''}</div>
+                `;
+
+                if (depth === 0) {
+                    enableDrag(card, article);
+                }
+
+                stackEl.appendChild(card);
+            });
+
+            progressEl.textContent = `${Math.min(currentIndex + 1, deck.length)} of ${deck.length}`;
+
+            if (currentIndex >= deck.length) {
+                showResults();
+            }
+        }
+
+        function enableDrag(card, article) {
+            let startX = 0;
+            let startY = 0;
+            let dx = 0;
+            let dragging = false;
+
+            const keepStamp = card.querySelector('.stamp.keep');
+            const skipStamp = card.querySelector('.stamp.skip');
+
+            card.addEventListener('pointerdown', (e) => {
+                dragging = true;
+                startX = e.clientX;
+                startY = e.clientY;
+                card.setPointerCapture(e.pointerId);
+                card.style.cursor = 'grabbing';
+            });
+
+            card.addEventListener('pointermove', (e) => {
+                if (!dragging) return;
+                dx = e.clientX - startX;
+                const dy = e.clientY - startY;
+                const rotate = dx / 12;
+                card.style.transform = `translate(${dx}px, ${dy}px) rotate(${rotate}deg)`;
+
+                const strength = Math.min(Math.abs(dx) / 100, 1);
+                if (dx > 0) {
+                    keepStamp.style.opacity = strength;
+                    skipStamp.style.opacity = 0;
+                } else if (dx < 0) {
+                    skipStamp.style.opacity = strength;
+                    keepStamp.style.opacity = 0;
+                }
+            });
+
+            const endDrag = (e) => {
+                if (!dragging) return;
+                dragging = false;
+                card.style.cursor = 'grab';
+
+                if (Math.abs(dx) > 100) {
+                    animateOut(card, dx > 0);
+                    decide(dx > 0);
+                } else {
+                    card.style.transition = 'transform 0.2s ease';
+                    card.style.transform = 'translate(0, 0) rotate(0)';
+                    keepStamp.style.opacity = 0;
+                    skipStamp.style.opacity = 0;
+                    setTimeout(() => { card.style.transition = ''; }, 200);
+                }
+                dx = 0;
+            };
+
+            card.addEventListener('pointerup', endDrag);
+            card.addEventListener('pointercancel', endDrag);
+        }
+
+        function animateOut(card, wasKept) {
+            const targetX = wasKept ? 600 : -600;
+            card.style.transition = 'transform 0.35s ease, opacity 0.35s ease';
+            card.style.transform = `translate(${targetX}px, -30px) rotate(${wasKept ? 20 : -20}deg)`;
+            card.style.opacity = '0';
+        }
+
+        function decide(wasKept) {
+            const article = deck[currentIndex];
+            if (!article) return;
+
+            if (wasKept) {
+                kept.push(article);
+            }
+
+            currentIndex++;
+            renderStack();
+        }
+
+        function showResults() {
+            gameEl.style.display = 'none';
+            resultsEl.classList.add('visible');
+            resultsSubtitleEl.textContent = kept.length
+                ? `You kept ${kept.length} of ${deck.length} articles`
+                : `You didn't keep any of the ${deck.length} articles this round`;
+
+            pickListEl.innerHTML = '';
+            if (!kept.length) {
+                pickListEl.innerHTML = '<li class="no-picks">Nothing kept — shuffle a new round to try again.</li>';
+                return;
+            }
+
+            for (const article of kept) {
+                const li = document.createElement('li');
+                li.className = 'pick-item';
+                li.innerHTML = `
+                    <a href="${article.link}" target="_blank" rel="noopener noreferrer">
+                        <div class="pick-source">${article.source || 'Source unavailable'}</div>
+                        <div class="pick-title">${article.title}</div>
+                    </a>
+                `;
+                pickListEl.appendChild(li);
+            }
+        }
+
+        function startRound() {
+            resultsEl.classList.remove('visible');
+            currentIndex = 0;
+            kept = [];
+
+            const candidates = window.__allArticles.filter(withinRange);
+            deck = pickDiverseSample(candidates, MAX_CARDS);
+
+            if (!deck.length) {
+                gameEl.style.display = 'none';
+                emptyEl.style.display = 'block';
+                return;
+            }
+
+            emptyEl.style.display = 'none';
+            gameEl.style.display = 'block';
+            renderStack();
+        }
+
+        fetch('news.json?t=' + Date.now())
+            .then((response) => response.json())
+            .then((payload) => {
+                const categories = payload.categories || payload;
+                window.__allArticles = flattenArticles(categories);
+                loadingEl.style.display = 'none';
+                startRound();
+            })
+            .catch((error) => {
+                console.error('Error fetching news:', error);
+                loadingEl.innerHTML = '<p>Could not load news.json. Please try again.</p>';
+            });
+    </script>
+</body>
+</html>

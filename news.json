@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T07:36:59.510222+00:00",
+  "generated_at": "2026-07-31T06:38:19.708828+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -24,23 +24,45 @@
           "other_news": false
         },
         {
-          "title": "The prehistoric species fighting for survival in Lough Neagh",
-          "link": "https://www.bbc.co.uk/news/articles/ce97nze240vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-27T23:01:36+00:00",
-          "source": "BBC Ocean & Marine",
+          "title": "Comment l’unique récif corallien du Bénin a été redécouvert",
+          "link": "https://www.lemonde.fr/afrique/article/2026/07/30/comment-l-unique-recif-corallien-du-benin-a-ete-redecouvert_6737037_3212.html",
+          "published": "2026-07-30T17:00:07+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
-          "summary": "Restrictions have been placed on fishing the critically-endangered European eel in Lough Neagh to try to restore the species",
+          "summary": "Parti sur la trace d’une étude menée en 1963 et 1964, le chercheur Gérard Zinzindohoué est parvenu à localiser des coraux au large des côtes béninoise",
+          "other_news": false
+        }
+      ],
+      "Polar & Reef Ecosystems & Resilience": [
+        {
+          "title": "Prague zoo keeps polar bears cool with ice cubes as European summer heatwave hits",
+          "link": "https://news.mongabay.com/short-article/2026/07/prague-zoo-keeps-polar-bears-cool-with-ice-cubes-as-european-summer-heatwave-hits/",
+          "published": "2026-07-30T12:27:18+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "summary": "PRAGUE (AP) — Keepers at Prague Zoo used tons of ice on Thursday to give its animals some much-needed relief as yet another heat wave hit Europe. Pola",
+          "other_news": false
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Americans feel the sting of high prices every day, so why does the Fed need so many ways to measure inflation?",
+          "link": "https://theconversation.com/americans-feel-the-sting-of-high-prices-every-day-so-why-does-the-fed-need-so-many-ways-to-measure-inflation-287559",
+          "published": "2026-07-30T16:36:07+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "summary": "Fresh off a divided Fed vote to hold rates, policymakers confront a deeper question: Which of conflicting inflation gauges should guide them?",
           "other_news": false
         }
       ],
       "Other Marine News": [
         {
-          "title": "Ocean surface temperatures hit a record high for June",
-          "link": "https://www.theguardian.com/environment/2026/jul/01/ocean-surface-temperatures-hit-a-record-high-for-june",
-          "published": "2026-07-01T02:00:22+00:00",
-          "source": "The Guardian Ocean & Marine",
+          "title": "India wants to join the strawberry superpowers",
+          "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-30T22:04:09+00:00",
+          "source": "BBC Ocean & Marine",
           "type": "news",
-          "summary": "European scientists warn of consequences for weather patterns, the global climate and marine lifeTemperatures on the ocean surface have hit a record h",
+          "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
           "other_news": false
         },
         {
@@ -50,15 +72,6 @@
           "source": "BBC Ocean & Marine",
           "type": "news",
           "summary": "Spain and France have so far borne the burnt of this summer's wildfires, caused by a succession of heatwaves and prolonged dry spells.",
-          "other_news": false
-        },
-        {
-          "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
-          "link": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-27T11:50:13+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "summary": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained.",
           "other_news": false
         },
         {
@@ -98,21 +111,30 @@
           "other_news": false
         },
         {
-          "title": "Au-delà du bassin de Washington : sauver les lacs et les littoraux en déclin grâce aux nanobulles d’oxygène",
-          "link": "https://theconversation.com/au-dela-du-bassin-de-washington-sauver-les-lacs-et-les-littoraux-en-declin-grace-aux-nanobulles-doxygene-287004",
-          "published": "2026-07-08T09:58:26+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "summary": "Les nanobulles ne servent pas seulement à clarifier l’eau. En ciblant les sédiments où naissent les « zones mortes », elles pourraient offrir une nouv",
-          "other_news": false
-        },
-        {
           "title": "Sargassum, the smelly nemesis of beach vacations, has become a self-sustaining disaster that will keep coming back",
           "link": "https://theconversation.com/sargassum-the-smelly-nemesis-of-beach-vacations-has-become-a-self-sustaining-disaster-that-will-keep-coming-back-287444",
           "published": "2026-07-28T12:07:59+00:00",
           "source": "The Conversation US",
           "type": "news",
           "summary": "Communities and entrepreneurs are experimenting with ways to turn this nuisance into a valuable resource.",
+          "other_news": false
+        },
+        {
+          "title": "As blue economy gathers pace, communities must benefit from ocean boom, activists say",
+          "link": "https://www.climatechangenews.com/2026/07/08/blue-economy-coastal-communities-mombasa-ocean-finance/",
+          "published": "2026-07-08T14:58:57+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "summary": "As governments turn to the ocean for jobs, growth and climate solutions, campaigners at the Our Ocean Conference in Mombasa warned coastal communities",
+          "other_news": false
+        },
+        {
+          "title": "Ugandan farmers launch UK court case against East African oil pipeline",
+          "link": "https://www.climatechangenews.com/2026/07/07/ugandan-farmers-launch-uk-court-case-against-east-african-oil-pipeline/",
+          "published": "2026-07-07T17:03:38+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "summary": "Crowdfunded lawsuit filed at London’s High Court seeks to enforce Uganda’s laws against EACOP Ltd, the pipeline project's ⁠UK-registered company\nThe p",
           "other_news": false
         },
         {
@@ -188,30 +210,30 @@
           "other_news": false
         },
         {
-          "title": "PFAS : l'Europe baisse drastiquement le seuil tolérable d'exposition aux TFA",
-          "link": "https://reporterre.net/PFAS-l-Europe-baisse-drastiquement-le-seuil-tolerable-d-exposition-aux-TFA",
-          "published": "2026-07-23T11:41:01+00:00",
-          "source": "Reporterre",
+          "title": "Antiguans reject the same whaling their government champions",
+          "link": "https://oceanographicmagazine.com/news/antiguans-reject-the-same-whaling-their-government-champions/",
+          "published": "2026-07-30T15:25:09+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "summary": "Mercredi 22 juillet, l'Autorité européenne de sécurité des aliments (Efsa) a divisé par 3,6 ce qu'elle considère être la dose jo",
+          "summary": "A new poll shows most Antiguans oppose commercial whaling and were unaware their government supports it at the IWC. Conservationists now urge Prime Mi",
           "other_news": false
         },
         {
-          "title": "Les maisons fissurées pourraient coûter jusqu'à 500 milliards d'euros",
-          "link": "https://reporterre.net/Les-maisons-fissurees-pourraient-couter-jusqu-a-500-milliards-d-euros-aux-assureurs",
-          "published": "2026-07-22T13:40:54+00:00",
-          "source": "Reporterre",
+          "title": "Scientists map Great Barrier Reef’s microbiome for first time",
+          "link": "https://oceanographicmagazine.com/news/scientists-map-great-barrier-reefs-microbiome-for-first-time/",
+          "published": "2026-07-29T14:56:00+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "summary": "Combien coûteront les maisons fissurées par les sécheresses à répétition ? Invité mercredi 22 juillet sur BFM Business, le direc",
+          "summary": "Having a greater understanding of these microscopic communities, researchers say, is critical for future marine conservation efforts\nThe post Scientis",
           "other_news": false
         },
         {
-          "title": "« Je vous conseille de quitter les lieux assez vite, je veux dire : tout de suite » : à Lanton, au bord du bassin d’Arcachon, le pire a été évité face à la progression fulgurante des flammes",
-          "link": "https://www.lemonde.fr/planete/article/2026/07/29/je-vous-conseille-de-quitter-les-lieux-assez-vite-je-veux-dire-tout-de-suite-a-lanton-en-gironde-comment-le-pire-a-ete-evite-face-aux-sautes-de-feu_6736414_3244.html",
-          "published": "2026-07-29T21:12:45+02:00",
-          "source": "Le Monde Planète",
+          "title": "Deep-sea mining talks end without a framework… again",
+          "link": "https://oceanographicmagazine.com/news/deep-sea-mining-talks-end-without-a-framework-again/",
+          "published": "2026-07-27T12:41:03+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "summary": "En quelques heures, mercredi 29 juillet, les pompiers et bénévoles, soutenus par les largages de Canadair et d’un Dash, ont pu stopper les « sauts » d",
+          "summary": "ISA Council negotiations have concluded with the deep-sea mining regulatory framework still incomplete and scientific gaps unresolved, as conservation",
           "other_news": false
         },
         {
@@ -233,12 +255,30 @@
           "other_news": false
         },
         {
-          "title": "World game at war: why some European nations have threatened a World Cup boycott",
-          "link": "https://theconversation.com/world-game-at-war-why-some-european-nations-have-threatened-a-world-cup-boycott-288596",
-          "published": "2026-07-30T06:00:36+00:00",
+          "title": "In Homer’s epic, a bold princess helps Odysseus home – but not in Nolan’s film. Who is Nausicaa?",
+          "link": "https://theconversation.com/in-homers-epic-a-bold-princess-helps-odysseus-home-but-not-in-nolans-film-who-is-nausicaa-288511",
+          "published": "2026-07-31T05:16:57+00:00",
           "source": "The Conversation",
           "type": "news",
-          "summary": "There is widespread unease about changes to the world game that will hyper-commercialise it, with the fallout potentially enormous.",
+          "summary": "Christopher Nolan’s Odyssey has been criticised for simplifying its complex characters – particularly women. We asked an expert to fill some of the fi",
+          "other_news": false
+        },
+        {
+          "title": "A government fund of AI stocks to benefit all Americans is a good idea, but hard to pull off",
+          "link": "https://theconversation.com/a-government-fund-of-ai-stocks-to-benefit-all-americans-is-a-good-idea-but-hard-to-pull-off-287558",
+          "published": "2026-07-30T12:08:30+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "summary": "If the US were to create a fund to harness AI and buffer the economy and workers from long-term harms AI could cause, it would not be the first countr",
+          "other_news": false
+        },
+        {
+          "title": "Wind farms join bottom trawlers and oil rigs in a protected North Sea sandbank",
+          "link": "https://news.mongabay.com/2026/07/wind-farms-join-bottom-trawlers-and-oil-rigs-in-a-protected-north-sea-sandbank/",
+          "published": "2026-07-30T20:28:50+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "summary": "In the North Sea, the vast, shallow sandbank known as Dogger Bank was once among the most productive marine nurseries in Europe. The area stretches ac",
           "other_news": false
         },
         {
@@ -248,15 +288,6 @@
           "source": "Mongabay Marine",
           "type": "news",
           "summary": "The International Seabed Authority (ISA), the U.N.-associated regulator of seabed mining activities in areas beyond national jurisdiction, has extende",
-          "other_news": false
-        },
-        {
-          "title": "Forests in Liberia are falling to cocoa, in half a year the EU could ban imports",
-          "link": "https://news.mongabay.com/podcast/2026/07/forests-in-liberia-are-falling-to-cocoa-in-half-a-year-the-eu-could-ban-imports/",
-          "published": "2026-07-28T20:35:56+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "summary": "On this week’s episode of the Mongabay Newscast, we speak with features writer Ashoka Mukpo, who traveled to southeastern Liberia to investigate what",
           "other_news": false
         }
       ]
@@ -271,6 +302,15 @@
           "source": "The Guardian Ocean & Marine",
           "type": "news",
           "summary": "An eight-month expedition will set off soon from Norway on a mission to find new species before the climate crisis and pollution changes the northern",
+          "other_news": false
+        },
+        {
+          "title": "Algal blooms accelerate microplastic pollution, study suggests",
+          "link": "https://oceanographicmagazine.com/news/algal-blooms-accelerate-microplastic-pollution-study-suggests/",
+          "published": "2026-07-29T15:11:01+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Heightened temperatures cause the growth of a specialised algae good at breaking plastics down. Researchers say their findings suggest that increasing",
           "other_news": false
         },
         {
@@ -312,6 +352,51 @@
           "other_news": false
         },
         {
+          "title": "Fin-mounted cameras reveal the “secret lives” of whale sharks",
+          "link": "https://oceanographicmagazine.com/news/fin-mounted-cameras-reveal-the-secret-lives-of-whale-sharks/",
+          "published": "2026-07-28T14:27:18+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Whale sharks are some of the ocean’s most beloved and charismatic species, and now researchers have new insights into how they feed and how this might",
+          "other_news": false
+        },
+        {
+          "title": "Sperm whales blow bubbles to sleep floating vertically",
+          "link": "https://oceanographicmagazine.com/news/sperm-whales-blow-bubbles-to-sleep-floating-vertically/",
+          "published": "2026-07-28T13:08:58+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "They are the only whales that choose to sleep upright, but until now, scientists haven’t understood how it was possible due to their exceptionally buo",
+          "other_news": false
+        },
+        {
+          "title": "Rats to reefs: Invasive species reshape Indian Ocean food webs",
+          "link": "https://oceanographicmagazine.com/news/rats-to-reefs-invasive-species-reshape-indian-ocean-food-webs/",
+          "published": "2026-07-28T09:14:29+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Invasive rats are rewiring coral reef food webs by decimating seabird populations and cutting off vital nutrient flows, creating winners and losers am",
+          "other_news": false
+        },
+        {
+          "title": "Falls in whale sightings, rare seabirds appearing – is something unusual happening in the Southern Ocean?",
+          "link": "https://theconversation.com/falls-in-whale-sightings-rare-seabirds-appearing-is-something-unusual-happening-in-the-southern-ocean-287961",
+          "published": "2026-07-30T20:08:57+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "summary": "Could marine heatwaves in the cold Southern Ocean be making animals and birds migrate? It’s possible – but we need better monitoring to know.",
+          "other_news": false
+        },
+        {
+          "title": "US declines to protect endangered monkeys used in medical research",
+          "link": "https://news.mongabay.com/short-article/2026/07/us-declines-to-protect-endangered-monkeys-used-in-medical-research/",
+          "published": "2026-07-31T01:29:30+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "summary": "Long-tailed macaques, monkeys native to Southeast Asia, have been listed as endangered on the IUCN Red List since 2022 after their populations decline",
+          "other_news": false
+        },
+        {
           "title": "Rare palm tree rediscovered in Madagascar after nearly 100 years",
           "link": "https://news.mongabay.com/short-article/2026/07/rare-palm-tree-rediscovered-in-madagascar-after-nearly-100-years/",
           "published": "2026-07-29T04:48:42+00:00",
@@ -340,6 +425,26 @@
           "source": "The Conversation US",
           "type": "news",
           "summary": "An analysis of one major effort shows how to get Democrats and Republicans to agree to spend billions of dollars on a decades-long environmental resto",
+          "other_news": false
+        }
+      ],
+      "Fisheries & Climate Change Ecosystem": [
+        {
+          "title": "In Guatemala, Indigenous women build climate resilience with old and new farming methods",
+          "link": "https://www.climatechangenews.com/2026/07/02/in-guatemala-indigenous-women-build-climate-resilience-with-old-and-new-farming-methods/",
+          "published": "2026-07-02T10:41:22+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "summary": "Ancestral knowledge combined with climate-smart techniques is boosting food security and increasing family incomes in the Lake Atitlán region\nThe post",
+          "other_news": false
+        },
+        {
+          "title": "Canada’s new food security strategy invests in technology but overlooks the people who help farmers use it",
+          "link": "https://theconversation.com/canadas-new-food-security-strategy-invests-in-technology-but-overlooks-the-people-who-help-farmers-use-it-286812",
+          "published": "2026-07-30T18:21:27+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "summary": "Ottawa’s $3-billion National Food Security Strategy funds greenhouses, food terminals and processing plants, but not the advisors who help farmers put",
           "other_news": false
         }
       ],
@@ -384,6 +489,15 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Rite of Spring by Kris Kneen review – a woman’s sexual awakening lurks in the ocean’s depths",
+          "link": "https://www.theguardian.com/books/2026/jul/31/rite-of-spring-by-kris-kneen-review-a-womans-sexual-awakening-lurks-in-the-oceans-depths",
+          "published": "2026-07-30T22:00:56+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "summary": "A couple sign up as lighthouse keepers on an isolated island off Tasmania. But Miranda is on the cusp of a transformation – and sex is everywhereTo de",
+          "other_news": false
+        },
         {
           "title": "‘I’m super proud of him’: father of teen lifeguard recounts dramatic ocean rescue",
           "link": "https://www.theguardian.com/us-news/2026/jul/29/california-ocean-rescue-teen-lifeguard",
@@ -430,12 +544,12 @@
           "other_news": false
         },
         {
-          "title": "Gates smashed and crops destroyed as farmers threatened by gangs hunting hares",
-          "link": "https://www.bbc.co.uk/news/articles/cwylk005dg7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-28T05:11:38+00:00",
+          "title": "Mountaineer who began fossil hunting after near-death experience discovers rare 'sea dragon'",
+          "link": "https://www.bbc.co.uk/news/articles/czjlk9rym18o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-30T09:17:18+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
-          "summary": "Some barricade the entrances to their fields with concrete blocks and fallen trees.",
+          "summary": "Matthew Myerscough swapped mountains for fossil-laden beaches after becoming trapped in snow on Yr Wyddfa.",
           "other_news": false
         },
         {
@@ -448,21 +562,30 @@
           "other_news": false
         },
         {
-          "title": "BBC Inside Science",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct977t?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-02T20:00:00+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "summary": "The latest cutting-edge research on show at the Royal Society Summer Science Exhibition.",
-          "other_news": false
-        },
-        {
           "title": "Pourquoi l’algue « Ostreopsis » envahit-elle la côte basque chaque été ?",
           "link": "https://theconversation.com/pourquoi-lalgue-ostreopsis-envahit-elle-la-cote-basque-chaque-ete-269751",
           "published": "2026-07-21T16:10:19+00:00",
           "source": "The Conversation FR",
           "type": "news",
           "summary": "Que sait-on de la toxicité de cette algue ? Un projet de recherche est en cours pour répondre aux questions qui restent encore en suspens.",
+          "other_news": false
+        },
+        {
+          "title": "Wildfires, wombats and wake-up calls – what to read, rethink and act on this week",
+          "link": "https://theconversation.com/wildfires-wombats-and-wake-up-calls-what-to-read-rethink-and-act-on-this-week-288689",
+          "published": "2026-07-30T16:59:47+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "summary": "There is often a disconnect between coverage of acute emergencies and the long-term link with the climate crisis.",
+          "other_news": false
+        },
+        {
+          "title": "UK drought: crop harvests at severe risk of collapse",
+          "link": "https://theconversation.com/uk-drought-crop-harvests-at-severe-risk-of-collapse-288685",
+          "published": "2026-07-30T14:34:35+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "summary": "Complex systems require multiple indicators. A UK food resilience index could identify developing weaknesses in the food system before they become fai",
           "other_news": false
         },
         {
@@ -490,24 +613,6 @@
           "source": "The Conversation UK",
           "type": "news",
           "summary": "The full picture of potential consequences of the UK’s marine heatwaves is only just starting to emerge.",
-          "other_news": false
-        },
-        {
-          "title": "New climate film triggers debate – here’s how to make those conversations constructive",
-          "link": "https://theconversation.com/new-climate-film-triggers-debate-heres-how-to-make-those-conversations-constructive-287280",
-          "published": "2026-07-16T14:27:48+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "summary": "A new film about the climate emergency is designed to change behaviour. But there’s a risk that in-depth discussions replace action.",
-          "other_news": false
-        },
-        {
-          "title": "‘7.6 billion mugs of tea a second’: a new way to make sense of the heat pouring into our oceans",
-          "link": "https://theconversation.com/7-6-billion-mugs-of-tea-a-second-a-new-way-to-make-sense-of-the-heat-pouring-into-our-oceans-286916",
-          "published": "2026-07-15T12:39:29+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "summary": "Most of the heat from global warming ends up in the oceans, not the atmosphere.",
           "other_news": false
         },
         {
@@ -547,21 +652,57 @@
           "other_news": false
         },
         {
-          "title": "Electric companies don’t need to black out customers to prevent wildfires – here are 3 relatively fast, affordable solutions",
-          "link": "https://theconversation.com/electric-companies-dont-need-to-black-out-customers-to-prevent-wildfires-here-are-3-relatively-fast-affordable-solutions-285229",
-          "published": "2026-07-07T12:16:34+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "summary": "Utilities face a dilemma: How to deliver power through dry, windy regions without accidentally starting a catastrophic fire.",
-          "other_news": false
-        },
-        {
           "title": "Access to finance ‘strengthens climate resilience’ among sub-Saharan women",
           "link": "https://www.carbonbrief.org/access-to-finance-strengthens-climate-resilience-among-sub-saharan-women",
           "published": "2026-07-24T11:29:45+00:00",
           "source": "Carbonbrief",
           "type": "news",
           "summary": "Empowering women through greater access to finance could “strengthen” households&#8217; resilience to “climate shocks”, according to a new study.&#160",
+          "other_news": false
+        },
+        {
+          "title": "“Do we have the appetite?” – Shell’s fear of Niger Delta clean-up costs revealed",
+          "link": "https://www.climatechangenews.com/2026/07/29/do-we-have-the-appetite-shells-fear-of-niger-delta-clean-up-costs-revealed/",
+          "published": "2026-07-29T17:37:33+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "summary": "Before it passed on responsibility by selling off assets in Nigeria, internal documents show Shell's concerns about dealing with oil spills from its p",
+          "other_news": false
+        },
+        {
+          "title": "Will new UK PM’s green measures at home cause climate finance pain overseas?",
+          "link": "https://www.climatechangenews.com/2026/07/22/will-new-uk-pms-green-measures-at-home-cause-climate-finance-pain-overseas/",
+          "published": "2026-07-22T13:21:25+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "summary": "Andy Burnham cuts bus fares and household electricity tax in a boost for climate action - some of it paid for by switching the UK's contribution to a",
+          "other_news": false
+        },
+        {
+          "title": "Top maritime court rejects bid to halt UN deep-sea mining inquiry",
+          "link": "https://www.climatechangenews.com/2026/07/20/top-maritime-court-rejects-bid-to-halt-un-deep-sea-mining-inquiry/",
+          "published": "2026-07-20T18:12:46+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "summary": "Two subsidiaries of The Metals Company sought to block the probe into potential contract breaches launched after the firm's application for US-sponsor",
+          "other_news": false
+        },
+        {
+          "title": "UN seabed regulator defends authority as mining firms seek to halt inquiry",
+          "link": "https://www.climatechangenews.com/2026/07/14/deep-sea-mining-firms-sue-un-seabed-body-inquiry-isa-itlos-metals-company/",
+          "published": "2026-07-14T18:02:01+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "summary": "Campaigners accused deep-sea mining frontrunner The Metals Company of obstructing an inquiry into its subsidiaries. The firm says it is being targeted",
+          "other_news": false
+        },
+        {
+          "title": "A supercharged El Niño is coming – are we ready?",
+          "link": "https://www.climatechangenews.com/2026/07/06/a-supercharged-el-nino-is-coming-are-we-ready/",
+          "published": "2026-07-06T12:10:50+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "summary": "We need to urgently build resilience to more extreme weather and rising seas, protecting nature as an ally in adapting to climate impacts\nThe post A s",
           "other_news": false
         },
         {
@@ -592,120 +733,75 @@
           "other_news": false
         },
         {
-          "title": "« Monique Barbut joue aux Lego » : la réforme qui plonge le ministère de la Transition écologique dans le flou",
-          "link": "https://reporterre.net/Monique-Barbut-joue-aux-Lego-la-reforme-qui-plonge-le-ministere-de-la-Transition",
-          "published": "2026-07-23T05:30:00+00:00",
-          "source": "Reporterre",
+          "title": "Self-moving, self-cloning sponge could restore degraded harbours",
+          "link": "https://oceanographicmagazine.com/news/self-moving-self-cloning-sponge-could-restore-degraded-harbours/",
+          "published": "2026-07-30T09:30:24+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "summary": "Avant sa vraie-fausse démission, Monique Barbut avait lancé une profonde réforme de l'organisation du ministère de la Transition",
+          "summary": "Researchers have identified a Mediterranean sponge that survives, moves and self-clones in degraded harbour environments, offering a promising foundat",
           "other_news": false
         },
         {
-          "title": "Séisme au Japon : les secours toujours à la recherche de survivants piégés dans un centre commercial à Kumamoto",
-          "link": "https://www.lemonde.fr/international/article/2026/07/30/seisme-au-japon-les-secours-toujours-a-la-recherche-de-survivants-pieges-dans-un-centre-commercial-apres-le-seisme-a-kumamoto-qui-a-fait-au-moins-28-morts_6736366_3211.html",
-          "published": "2026-07-30T07:37:14+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "summary": "La secousse de magnitude 7,1 qui a frappé mardi l’île de Kyushu a provoqué l’effondrement partiel d’un centre commercial à Kumamoto, où des personnes",
-          "other_news": false
-        },
-        {
-          "title": "Canicule : visualisez l’évolution des températures au cours des prochains jours",
-          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/07/29/canicule-visualisez-l-evolution-des-temperatures-au-cours-des-prochains-jours_6704994_4355771.html",
-          "published": "2026-07-29T10:07:31+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "summary": "Un quatrième épisode de canicule, qui devrait être moins intense et durable que les précédents, s’installe à partir de mercredi 29 juillet dans l’Hexa",
-          "other_news": false
-        },
-        {
-          "title": "«Même au-delà de 2100, le niveau de la mer continuera d’augmenter» : les solutions du Mont-Saint-Michel face au changement climatique",
-          "link": "https://vert.eco/climat/meme-au-dela-de-2100-le-niveau-de-la-mer-continuera-daugmenter-les-solutions-du-mont-saint-michel-face-au-changement-climatique/",
-          "published": "2026-07-24T09:00:14+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "summary": "Perché sur son rocher de granit depuis plus de mille ans, le Mont-Saint-Michel semble immuable. Pourtant, autour de lui, la baie change : montée des e",
-          "other_news": false
-        },
-        {
-          "title": "Same sparkle, different story: how lab-grown diamonds are transforming the market",
-          "link": "https://theconversation.com/same-sparkle-different-story-how-lab-grown-diamonds-are-transforming-the-market-288397",
-          "published": "2026-07-30T05:22:32+00:00",
+          "title": "Bali’s traditional boats embody centuries of maritime tradition – but they’re quickly disappearing",
+          "link": "https://theconversation.com/balis-traditional-boats-embody-centuries-of-maritime-tradition-but-theyre-quickly-disappearing-287071",
+          "published": "2026-07-31T02:00:50+00:00",
           "source": "The Conversation",
           "type": "news",
-          "summary": "Consumers are asking deeper questions about what they’re really paying for.",
+          "summary": "Bali’s traditional elephant-fish canoes embody generations of craftsmanship, spiritual belief and maritime knowledge. But only a handful remain.",
           "other_news": false
         },
         {
-          "title": "A new fuel refinery is a start. But Australia is still vulnerable to shipping disruptions without a clear strategy",
-          "link": "https://theconversation.com/a-new-fuel-refinery-is-a-start-but-australia-is-still-vulnerable-to-shipping-disruptions-without-a-clear-strategy-288703",
-          "published": "2026-07-30T02:29:47+00:00",
+          "title": "Sports venues are offering facial recognition to let people in. What are the risks?",
+          "link": "https://theconversation.com/sports-venues-are-offering-facial-recognition-to-let-people-in-what-are-the-risks-288612",
+          "published": "2026-07-31T00:36:00+00:00",
           "source": "The Conversation",
           "type": "news",
-          "summary": "Fuel is not the only critical thing Australia imports by sea. We need to make maritime resilience a priority.",
+          "summary": "When consumers provide consent for recording their facial data, they must fully know what they’re consenting to.",
           "other_news": false
         },
         {
-          "title": "Meta-backed research finds exposure to ‘untrustworthy’ social media is rare. The fine print is less reassuring",
-          "link": "https://theconversation.com/meta-backed-research-finds-exposure-to-untrustworthy-social-media-is-rare-the-fine-print-is-less-reassuring-288595",
-          "published": "2026-07-30T00:18:48+00:00",
+          "title": "Wetlands are crucial food baskets for NZ’s native eels – new research",
+          "link": "https://theconversation.com/wetlands-are-crucial-food-baskets-for-nzs-native-eels-new-research-286126",
+          "published": "2026-07-30T21:03:50+00:00",
           "source": "The Conversation",
           "type": "news",
-          "summary": "There is a risk this study will be leveraged by big tech platforms to exhonerate themselves.",
+          "summary": "Wetlands are increasingly appreciated for their role in flood prevention and as carbon sinks. But they also act as a crucial food source for the wider",
           "other_news": false
         },
         {
-          "title": "Flash droughts pull ‘alarming’ amounts of moisture from the landscape and intensify wildfires: new research",
-          "link": "https://theconversation.com/flash-droughts-pull-alarming-amounts-of-moisture-from-the-landscape-and-intensify-wildfires-new-research-287879",
-          "published": "2026-07-29T20:10:25+00:00",
+          "title": "Kenya’s running stars attract suspicion and awe – our research gives a more human picture",
+          "link": "https://theconversation.com/kenyas-running-stars-attract-suspicion-and-awe-our-research-gives-a-more-human-picture-288462",
+          "published": "2026-07-30T14:46:41+00:00",
           "source": "The Conversation",
           "type": "news",
-          "summary": "We have to stop thinking of droughts simply as a static state of low moisture. Rapid drought changes can send fire risk soaring.",
+          "summary": "The real ‘secret’ of their success lies in a complex network of social mobility and connection with local communities.",
           "other_news": false
         },
         {
-          "title": "Conflicts can spread infectious diseases while making outbreaks harder to detect",
-          "link": "https://theconversation.com/conflicts-can-spread-infectious-diseases-while-making-outbreaks-harder-to-detect-287267",
-          "published": "2026-07-29T15:53:38+00:00",
+          "title": "What is a side-channel attack? A cybersecurity researcher explains how computers can leak secrets without being hacked",
+          "link": "https://theconversation.com/what-is-a-side-channel-attack-a-cybersecurity-researcher-explains-how-computers-can-leak-secrets-without-being-hacked-286121",
+          "published": "2026-07-30T12:12:59+00:00",
           "source": "The Conversation",
           "type": "news",
-          "summary": "The world’s pandemic early-warning system is weakest in places affected by armed conflict, where the risk of outbreaks is often greatest.",
+          "summary": "Hackers have easier ways of getting information out of a computer, but side-channel vulnerabilities show that technology developers need to take a bro",
           "other_news": false
         },
         {
-          "title": "Hundreds of people in England have died before doctors diagnosed their tuberculosis",
-          "link": "https://theconversation.com/hundreds-of-people-in-england-have-died-before-doctors-diagnosed-their-tuberculosis-285990",
-          "published": "2026-07-29T15:50:37+00:00",
+          "title": "‘The Odyssey’ is a striking portrait of the psychological wounds that can emerge when people violate their deepest values",
+          "link": "https://theconversation.com/the-odyssey-is-a-striking-portrait-of-the-psychological-wounds-that-can-emerge-when-people-violate-their-deepest-values-288337",
+          "published": "2026-07-30T12:10:31+00:00",
           "source": "The Conversation",
           "type": "news",
-          "summary": "New research found 574 people were diagnosed with TB only after death, exposing delays in recognising a preventable and treatable disease.",
+          "summary": "Christopher Nolan turns Homer’s legendary warrior into a case study of moral injury, a condition that often appears in war veterans who struggle to fo",
           "other_news": false
         },
         {
-          "title": "Kidney disease is also a brain disease. Here’s why",
-          "link": "https://theconversation.com/kidney-disease-is-also-a-brain-disease-heres-why-288234",
-          "published": "2026-07-29T14:14:03+00:00",
+          "title": "Flawed studies linking hormone therapy to breast cancer made doctors reluctant to prescribe it for menopause relief – especially for breast cancer survivors",
+          "link": "https://theconversation.com/flawed-studies-linking-hormone-therapy-to-breast-cancer-made-doctors-reluctant-to-prescribe-it-for-menopause-relief-especially-for-breast-cancer-survivors-277352",
+          "published": "2026-07-30T12:07:48+00:00",
           "source": "The Conversation",
           "type": "news",
-          "summary": "Kidney disease is often associated with dialysis or transplants, but it also affects memory and concentration, and increases stroke risk.",
-          "other_news": false
-        },
-        {
-          "title": "Should you wash your prewashed lettuce? An infectious disease expert explains how to eat your greens safely during the cyclospora outbreak",
-          "link": "https://theconversation.com/should-you-wash-your-prewashed-lettuce-an-infectious-disease-expert-explains-how-to-eat-your-greens-safely-during-the-cyclospora-outbreak-288356",
-          "published": "2026-07-29T12:35:39+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "summary": "Rather than avoiding fresh produce, adopting a few sensible food safety practices can help cut your risk of infection. ➕ Includes video 🎥",
-          "other_news": false
-        },
-        {
-          "title": "Cholera still kills thousands each year – in places without clean water, it’s far from history",
-          "link": "https://theconversation.com/cholera-still-kills-thousands-each-year-in-places-without-clean-water-its-far-from-history-288170",
-          "published": "2026-07-29T12:14:37+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "summary": "While cholera launched modern epidemiology and has nearly disappeared in many countries, the disease never went away. It has instead retreated to the",
+          "summary": "Menopausal hormone therapy no longer has the highest-level warning label about the risk of breast cancer, opening a gray area on who would benefit mos",
           "other_news": false
         },
         {
@@ -727,12 +823,39 @@
           "other_news": false
         },
         {
-          "title": "2026 Ocean Conservancy Photo Contest Winners",
-          "link": "https://oceanconservancy.org/blog/2026/06/30/2026-photo-contest-winners/",
-          "published": "2026-06-30T13:39:26+00:00",
-          "source": "Ocean Conservancy",
+          "title": "Climate change boosted Spain wildfire risk 20-fold, research shows",
+          "link": "https://news.mongabay.com/short-article/2026/07/climate-change-boosted-spain-wildfire-risk-20-fold-research-shows/",
+          "published": "2026-07-31T05:33:22+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
-          "summary": "Our annual Photo Contest is officially wrapped—and wow, you delivered! More than 1,000 ocean lovers shared their incredible ocean and wildlife photos.",
+          "summary": "Human-induced climate change drastically fueled the weather behind recent devastating wildfires in France and Spain, according to a new rapid analysis",
+          "other_news": false
+        },
+        {
+          "title": "Central African Republic’s Dzanga-Sangha tests the promise of wildlife tourism",
+          "link": "https://news.mongabay.com/short-article/2026/07/central-african-republics-dzanga-sangha-tests-the-promise-of-wildlife-tourism/",
+          "published": "2026-07-31T05:14:46+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "summary": "Founder&#8217;s Briefs: An occasional series where Mongabay founder Rhett Ayers Butler shares analysis, perspectives and story summaries. In the Centr",
+          "other_news": false
+        },
+        {
+          "title": "Researchers find ‘priority zones’ for yellow fever vaccination of golden lion tamarins",
+          "link": "https://news.mongabay.com/2026/07/researchers-find-priority-zones-for-yellow-fever-vaccination-of-golden-lion-tamarins/",
+          "published": "2026-07-30T16:35:16+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "summary": "After a two-hour drive from the airport in Rio de Janeiro, you reach a special park dedicated to a special animal in Brazil’s Atlantic Forest. There,",
+          "other_news": false
+        },
+        {
+          "title": "New fire satellites offer hope for Amazon and other biomes, but local barriers remain",
+          "link": "https://news.mongabay.com/2026/07/new-fire-satellites-offer-hope-for-amazon-and-other-biomes-but-local-barriers-remain/",
+          "published": "2026-07-30T07:44:45+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "summary": "Record wildfires devastated South America in 2024, raging out of control in biomes where fire is a natural part of the ecosystem, but also entering ra",
           "other_news": false
         },
         {
@@ -770,42 +893,6 @@
           "type": "news",
           "summary": "An alleged corruption case at Indonesia&#8217;s Surabaya Zoo has renewed scrutiny of how the country&#8217;s wildlife conservation institutions are go",
           "other_news": false
-        },
-        {
-          "title": "Fishers fight for solutions as Brazil lists tambaqui as threatened",
-          "link": "https://news.mongabay.com/2026/07/fishers-fight-for-solutions-as-brazil-lists-tambaqui-as-threatened/",
-          "published": "2026-07-28T19:34:59+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "summary": "Amazon fishers fear a total ban on their most iconic catch could favor industrial farms over local communities.",
-          "other_news": false
-        },
-        {
-          "title": "‘The shape of the land will change:’ South African villages resist heavy sands mine",
-          "link": "https://news.mongabay.com/2026/07/the-shape-of-the-land-will-change-south-african-villages-resist-heavy-sands-mine/",
-          "published": "2026-07-28T12:09:18+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "summary": "PHOZI VILLAGE, South Africa — On a grassy mountainside overlooking the Indian Ocean on South Africa&#8217;s Eastern Cape coast, dozens of cattle graze",
-          "other_news": false
-        },
-        {
-          "title": "Mining, drilling, and fire are fragmenting the world’s largest forests",
-          "link": "https://news.mongabay.com/short-article/2026/07/mining-drilling-and-fire-are-fragmenting-the-worlds-largest-forests/",
-          "published": "2026-07-28T11:48:23+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "summary": "Founder&#8217;s Briefs: An occasional series where Mongabay founder Rhett Ayers Butler shares analysis, perspectives and story summaries. The world’s",
-          "other_news": false
-        },
-        {
-          "title": "Africa’s smallest wildcat found using abandoned rodent burrows to raise kittens",
-          "link": "https://news.mongabay.com/short-article/2026/07/africas-smallest-wildcat-found-using-abandoned-rodent-burrows-to-raise-kittens/",
-          "published": "2026-07-28T10:25:43+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "summary": "Africa&#8217;s smallest wildcat uses abandoned springhare burrows to raise its kittens, according to new research. There are fewer than 10,000 black-f",
-          "other_news": false
         }
       ]
     },
@@ -828,16 +915,25 @@
           "type": "news",
           "summary": "As part of our research we interviewed and followed hundreds of scuba divers.",
           "other_news": false
+        },
+        {
+          "title": "Report uses Norway’s official data to expose ‘humane’ whaling claims",
+          "link": "https://oceanographicmagazine.com/news/report-uses-norways-official-data-to-expose-humane-whaling-claims/",
+          "published": "2026-07-27T16:39:40+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Whale and Dolphin Conservation analysis shows widespread welfare failures, including prolonged deaths and the slaughter of pregnant whales, as domesti",
+          "other_news": false
         }
       ],
       "Other Marine News": [
         {
-          "title": "Bill Oddie brought birdwatching into millions of homes",
-          "link": "https://news.mongabay.com/short-article/2026/07/bill-oddie-brought-birdwatching-into-millions-of-homes/",
-          "published": "2026-07-29T03:27:22+00:00",
+          "title": "Listening offers a clearer picture of India’s hidden finless porpoises",
+          "link": "https://news.mongabay.com/short-article/2026/07/listening-offers-a-clearer-picture-of-indias-hidden-finless-porpoises/",
+          "published": "2026-07-31T02:54:50+00:00",
           "source": "Mongabay Marine",
           "type": "news",
-          "summary": "On television, Bill Oddie often seemed to forget the camera. A call came from a hedge, and his attention shifted toward it. He listened, peered throug",
+          "summary": "The Indo-Pacific finless porpoise is one of India’s smallest cetaceans, inhabits turbid coastal waters, and lacks a dorsal fin — all of which make it",
           "other_news": false
         }
       ]
@@ -872,12 +968,12 @@
           "other_news": true
         },
         {
-          "title": "Baignade dans la Seine à Paris : deux sites fermés par intermittence depuis dimanche à cause d’une pollution au fioul",
-          "link": "https://www.lemonde.fr/planete/article/2026/07/29/baignade-dans-la-seine-a-paris-deux-sites-fermes-par-intermittence-depuis-dimanche-a-cause-d-une-pollution-au-fioul_6736374_3244.html",
-          "published": "2026-07-29T15:47:46+02:00",
+          "title": "Pollution au fioul à Saint-Maur-des-Fossés : la ville porte plainte contre X après le déversement de milliers de litres dans les égouts",
+          "link": "https://www.lemonde.fr/societe/article/2026/07/30/pollution-au-fioul-a-saint-maur-des-fosses-la-ville-porte-plainte-contre-x-apres-le-deversement-de-milliers-de-litres-dans-les-egouts_6737057_3224.html",
+          "published": "2026-07-30T19:00:02+02:00",
           "source": "Le Monde Planète",
           "type": "news",
-          "summary": "Selon la mairie de Paris, les sites du bras Marie et de Bercy alternent phases d’ouverture et de fermeture depuis dimanche, en raison d’un déversement",
+          "summary": "Selon le parquet de Créteil, une enquête a été confiée lundi au commissariat de Saint-Maur-des-Fossés pour pollution. « L’origine de la pollution n’es",
           "other_news": true
         },
         {
@@ -887,6 +983,15 @@
           "source": "Vert Eco Articles",
           "type": "news",
           "summary": "Les fumées du gigantesque incendie qui ravage la Gironde et les Landes ont provoqué une pollution atmosphérique d’une intensité exceptionnelle jusque",
+          "other_news": true
+        },
+        {
+          "title": "Report: Indonesian authorities weaponize laws to silence environmental and Indigenous defenders",
+          "link": "https://news.mongabay.com/short-article/2026/07/report-indonesian-authorities-weaponize-laws-to-silence-environmental-and-indigenous-defenders/",
+          "published": "2026-07-30T11:26:06+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "summary": "Indonesian authorities are wrongfully prosecuting environmental defenders and Indigenous leaders who protest deforestation, pollution and land grabs,",
           "other_news": true
         },
         {
@@ -910,12 +1015,21 @@
           "other_news": true
         },
         {
-          "title": "Canada’s infrastructure projects could damage Pacific salmon habitats",
-          "link": "https://theconversation.com/canadas-infrastructure-projects-could-damage-pacific-salmon-habitats-285323",
-          "published": "2026-07-29T16:26:17+00:00",
-          "source": "The Conversation",
+          "title": "AI governance debate silent on risks to nature, campaigners warn",
+          "link": "https://www.climatechangenews.com/2026/07/08/ai-governance-debate-silent-on-risks-to-nature-campaigners-warn/",
+          "published": "2026-07-08T14:13:42+00:00",
+          "source": "Climate change news",
           "type": "news",
-          "summary": "Biodiversity policies fail because governments lack the safeguards, accountability mechanisms and political commitment needed to implement them consis",
+          "summary": "Global efforts to ensure AI does more good than harm must consider how it could fuel exploitation of biodiversity and ecosystems, conservationists say",
+          "other_news": true
+        },
+        {
+          "title": "Ancient turtle bones offer insight into future Caribbean conservation",
+          "link": "https://oceanographicmagazine.com/news/ancient-turtle-bones-offer-insight-into-future-caribbean-conservation/",
+          "published": "2026-07-30T15:27:18+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "New species-level analysis of ancient turtle bones from Curaçao and Bonaire is revealing patterns of human hunting stretching back 1,000 years, offeri",
           "other_news": true
         },
         {
@@ -939,21 +1053,30 @@
       ],
       "Marine Protected Areas & Policy": [
         {
-          "title": "Overlapping parental leave is the right idea – we just need more fathers to take it",
-          "link": "https://theconversation.com/overlapping-parental-leave-is-the-right-idea-we-just-need-more-fathers-to-take-it-288386",
-          "published": "2026-07-30T00:03:12+00:00",
-          "source": "The Conversation",
+          "title": "Energy transition policymaking must evolve to fit an age of rupture",
+          "link": "https://www.climatechangenews.com/2026/07/21/energy-transition-policymaking-must-evolve-to-fit-an-age-of-rupture/",
+          "published": "2026-07-21T14:50:51+00:00",
+          "source": "Climate change news",
           "type": "news",
-          "summary": "A ‘use it or lose it’ paid parental leave policy like Sweden’s could encourage more new fathers to share the early child-rearing months.",
+          "summary": "Economic competitiveness, energy security and green industrialisation are driving real-world change - but will this damage our collective mission for",
           "other_news": true
         },
         {
-          "title": "Canada’s gender-based violence laws are improving. Frontline worker conditions are not",
-          "link": "https://theconversation.com/canadas-gender-based-violence-laws-are-improving-frontline-worker-conditions-are-not-284020",
-          "published": "2026-07-29T15:57:22+00:00",
+          "title": "Is social housing policy failing NZ families trying to move from renting to home ownership?",
+          "link": "https://theconversation.com/is-social-housing-policy-failing-nz-families-trying-to-move-from-renting-to-home-ownership-286065",
+          "published": "2026-07-30T20:11:41+00:00",
           "source": "The Conversation",
           "type": "news",
-          "summary": "Canada has a promising gender-based violence legal and policy framework, but none of it accounts for the people actually delivering frontline services",
+          "summary": "New Zealand needs more social housing and affordable rentals, but also better pathways for working renters to become home owners.",
+          "other_news": true
+        },
+        {
+          "title": "Work-integrated learning: 3 insights for effective policy from Alberta",
+          "link": "https://theconversation.com/work-integrated-learning-3-insights-for-effective-policy-from-alberta-285767",
+          "published": "2026-07-30T15:25:40+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "summary": "Announcing ambitious education policy goals is easier than ensuring institutions, employers and educators have the resources necessary to achieve them",
           "other_news": true
         }
       ],
@@ -977,12 +1100,12 @@
           "other_news": true
         },
         {
-          "title": "Tackling the 'nasty' plant that can cause blisters and scars",
-          "link": "https://www.bbc.co.uk/news/articles/c3r0w3pq24yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-28T05:23:45+00:00",
+          "title": "Where to see the biggest solar eclipse since 1999",
+          "link": "https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31T05:09:42+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
-          "summary": "A conservation group says it has made progress tackling giant hogweed infestations in County Tyrone.",
+          "summary": "The UK's biggest solar eclipse since 1999 arrives on 12 August. Here's where to see it safely.",
           "other_news": true
         },
         {
@@ -1001,15 +1124,6 @@
           "source": "BBC Ocean & Marine",
           "type": "news",
           "summary": "What’s the point of having a treaty banning nukes in space if we can’t spot them?",
-          "other_news": true
-        },
-        {
-          "title": "How the UK's extreme heat is shifting the conversation about air-con",
-          "link": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-29T23:33:01+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "summary": "Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?",
           "other_news": true
         },
         {
@@ -1082,6 +1196,15 @@
           "source": "The Conversation FR",
           "type": "news",
           "summary": "Les dernières canicules ont pris de court les populations et les pouvoirs publics, mais pas les scientifiques qui alertent depuis des décennies. Pourq",
+          "other_news": true
+        },
+        {
+          "title": "The surprising chemical footprint of your clothes",
+          "link": "https://theconversation.com/the-surprising-chemical-footprint-of-your-clothes-284667",
+          "published": "2026-07-30T14:46:31+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "summary": "Two garments made from the same fibre may have very different environmental footprints depending on how they were processed and finished.",
           "other_news": true
         },
         {
@@ -1202,6 +1325,24 @@
           "other_news": true
         },
         {
+          "title": "Correcting climate ‘misperceptions’ may not boost climate action",
+          "link": "https://www.carbonbrief.org/correcting-climate-misperceptions-may-not-boost-climate-action",
+          "published": "2026-07-30T15:30:11+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "summary": "The general public often underestimate support for climate action, while overestimating the real-world actions taken by other people to address&#8230;",
+          "other_news": true
+        },
+        {
+          "title": "Factcheck: No, Europe is not having its ‘quietest’ year for wildfires",
+          "link": "https://www.carbonbrief.org/factcheck-no-europe-is-not-having-its-quietest-year-for-wildfires",
+          "published": "2026-07-30T14:51:00+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "summary": "In recent days, prominent climate sceptics and rightwing commentators have shared charts on social media incorrectly implying that Europe is&#8230;\nTh",
+          "other_news": true
+        },
+        {
           "title": "World falling short on 22 of 23 nature targets for 2030, says draft UN report",
           "link": "https://www.carbonbrief.org/world-falling-short-on-22-of-23-nature-targets-for-2030-says-draft-un-report",
           "published": "2026-07-29T15:00:21+00:00",
@@ -1256,12 +1397,75 @@
           "other_news": true
         },
         {
-          "title": "28 quotes from new UK leader Andy Burnham on climate, net-zero and fossil fuels",
-          "link": "https://www.carbonbrief.org/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels",
-          "published": "2026-07-14T14:43:57+00:00",
-          "source": "Carbonbrief",
+          "title": "Most “zombie credits” locked out of new UN carbon market after China and India snub",
+          "link": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
+          "published": "2026-07-17T16:38:23+00:00",
+          "source": "Climate change news",
           "type": "news",
-          "summary": "The UK’s new prime minister Andy Burnham remained tight-lipped on his views on climate change during his leadership campaign. When&#8230;\nThe post 28",
+          "summary": "Fears of a flood of environmentally-dubious carbon credits have faded, with most old projects not able to transition to new UN market\nThe post Most &#",
+          "other_news": true
+        },
+        {
+          "title": "Campaigners oppose Dangote’s planned Kenya refinery over climate and ecological risks",
+          "link": "https://www.climatechangenews.com/2026/07/15/campaigners-oppose-dangotes-planned-kenya-refinery-over-climate-and-ecological-risks/",
+          "published": "2026-07-15T14:47:31+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "summary": "Plans to build Africa's second largest oil refinery in ecologically sensitive region criticised as \"environmental recklessness\"\nThe post Campaigners o",
+          "other_news": true
+        },
+        {
+          "title": "Major emitting countries knew of climate risks decades earlier than claimed",
+          "link": "https://www.climatechangenews.com/2026/07/15/major-emitting-countries-knew-of-climate-risks-decades-earlier-than-claimed/",
+          "published": "2026-07-15T10:51:19+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "summary": "Governments have known since at least the 1960s that fossil fuel use was warming the planet. They kept quiet to avoid responsibility.\nThe post Major e",
+          "other_news": true
+        },
+        {
+          "title": "A strong El Niño spells more climate pain for the Philippines",
+          "link": "https://www.climatechangenews.com/2026/07/14/a-strong-el-nino-spells-more-climate-pain-for-the-philippines/",
+          "published": "2026-07-14T13:31:57+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "summary": "As forecasters warn that the weather phenomenon will bring more extreme weather, its effects are already being felt in a country reeling from a series",
+          "other_news": true
+        },
+        {
+          "title": "The loss and damage fund needs far more finance to deliver climate justice",
+          "link": "https://www.climatechangenews.com/2026/07/09/the-loss-and-damage-fund-needs-far-more-finance-to-deliver-climate-justice/",
+          "published": "2026-07-09T09:11:34+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "summary": "The fledgling fund must also help vulnerable communities take action to recover from disasters by giving them direct access to grants\nThe post The los",
+          "other_news": true
+        },
+        {
+          "title": "India looks to untapped graphite riches for slice of critical minerals boom",
+          "link": "https://www.climatechangenews.com/2026/07/09/india-looks-to-untapped-graphite-riches-for-slice-of-critical-minerals-boom/",
+          "published": "2026-07-09T05:00:00+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "summary": "Clean energy demand for battery-grade graphite is surging, but India faces hurdles as it positions itself to compete with China's grip on the supply c",
+          "other_news": true
+        },
+        {
+          "title": "Billions unlocked as Green Climate Fund agrees to spend more and save less",
+          "link": "https://www.climatechangenews.com/2026/07/03/billions-unlocked-as-green-climate-fund-agrees-to-spend-more-and-save-less/",
+          "published": "2026-07-03T08:25:38+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "summary": "The board of the UN's flagship climate fund allows management to invest more of its money in projects in developing nations and keep less in reserve\nT",
+          "other_news": true
+        },
+        {
+          "title": "World Bank’s climate work can endure without finance target, experts say",
+          "link": "https://www.climatechangenews.com/2026/07/02/world-banks-climate-work-can-endure-without-finance-target-experts-say/",
+          "published": "2026-07-02T10:23:13+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "summary": "Even though the global lender has ditched a headline goal for its financing with climate benefits, it has decided to continue its climate action plan",
           "other_news": true
         },
         {
@@ -1310,39 +1514,21 @@
           "other_news": true
         },
         {
-          "title": "Mégafeux : « A moins d’un an de l’élection présidentielle, nous avons l’obligation de ne pas laisser la sidération l’emporter et d’apporter des réponses politiques »",
-          "link": "https://www.lemonde.fr/idees/article/2026/07/30/megafeux-a-moins-d-un-an-de-l-election-presidentielle-nous-avons-l-obligation-de-ne-pas-laisser-la-sideration-l-emporter-et-d-apporter-des-reponses-politiques_6736663_3232.html",
-          "published": "2026-07-30T06:30:05+02:00",
+          "title": "Joëlle Zask, philosophe : « Contre les mégafeux, la volonté politique au sommet dépend de celle de la majorité des citoyens »",
+          "link": "https://www.lemonde.fr/idees/article/2026/07/31/joelle-zask-philosophe-contre-les-megafeux-la-volonte-politique-au-sommet-depend-de-celle-de-la-majorite-des-citoyens_6737081_3232.html",
+          "published": "2026-07-31T05:00:18+02:00",
           "source": "Le Monde Planète",
           "type": "news",
-          "summary": "Pourquoi les catastrophes, comme les inondations ou les incendies, ne déclenchent-elles pas de sursaut écologique ? L’oubli des causes climatiques et",
+          "summary": "Les incendies extrêmes sont un phénomène d’insécurité qui appelle à un nouveau pacte social, selon la professeure à l’université. Dans une tribune au",
           "other_news": true
         },
         {
-          "title": "En mission sur les feux de Gironde de 2022, un ancien pilote de Canadair se souvient : « Il faut tenir, parce qu’on est tabassé comme jamais »",
-          "link": "https://www.lemonde.fr/planete/article/2026/07/29/en-mission-sur-les-feux-de-gironde-de-2022-un-ancien-pilote-de-canadair-se-souvient-il-faut-tenir-parce-qu-on-est-tabasse-comme-jamais_6736403_3244.html",
-          "published": "2026-07-29T18:45:04+02:00",
-          "source": "Le Monde Planète",
+          "title": "Limiter l’accès, redessiner le tracé… En Corse, des pistes pour protéger le mythique GR20 du surtourisme et du changement climatique",
+          "link": "https://vert.eco/climat/limiter-lacces-redessiner-le-trace-en-corse-des-pistes-pour-proteger-le-mythique-gr20-du-surtourisme-et-du-changement-climatique/",
+          "published": "2026-07-31T04:00:00+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
-          "summary": "Désormais retraité, Thierry Lang est intervenu sur les incendies de La Teste-de-Buch et de Landiras, il y a quatre ans. Son récit permet de comprendre",
-          "other_news": true
-        },
-        {
-          "title": "« Il n’y a rien qui pousse, c’est devenu un désert » : la Creuse confrontée à une sécheresse exceptionnelle",
-          "link": "https://www.lemonde.fr/planete/article/2026/07/29/il-n-y-a-rien-qui-pousse-c-est-devenu-un-desert-la-creuse-confrontee-a-une-secheresse-exceptionnelle_6736399_3244.html",
-          "published": "2026-07-29T18:30:05+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "summary": "Dans le département, seul trois des trente-cinq petits cours d’eau scrutés par l’Office français de la biodiversité s’écoulent encore : des niveaux ja",
-          "other_news": true
-        },
-        {
-          "title": "« Les catastrophes climatiques ne produisent pas mécaniquement plus de prévenance à l’égard du monde »",
-          "link": "https://www.lemonde.fr/idees/article/2026/07/29/les-catastrophes-climatiques-ne-produisent-pas-mecaniquement-plus-de-prevenance-a-l-egard-du-monde_6736008_3232.html",
-          "published": "2026-07-29T06:00:08+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "summary": "Le sociologue Benoit Giry estime, dans une tribune au « Monde », que la multiplication des incendies et des canicules ne suffira pas à réorienter les",
+          "summary": "Surfréquentation, incendies, érosion des sols, fortes chaleurs… Le GR20, célèbre sentier de randonnée corse, subit de nombreuses pressions. Pour prése",
           "other_news": true
         },
         {
@@ -1364,21 +1550,21 @@
           "other_news": true
         },
         {
-          "title": "What Christopher Nolan’s ‘The Odyssey’ reveals about the adaptable nature of myth",
-          "link": "https://theconversation.com/what-christopher-nolans-the-odyssey-reveals-about-the-adaptable-nature-of-myth-288177",
-          "published": "2026-07-29T16:48:02+00:00",
+          "title": "Data centres are power hungry – but they don’t have to be a burden on NZ’s grid",
+          "link": "https://theconversation.com/data-centres-are-power-hungry-but-they-dont-have-to-be-a-burden-on-nzs-grid-287954",
+          "published": "2026-07-31T02:31:26+00:00",
           "source": "The Conversation",
           "type": "news",
-          "summary": "Judging this version against an apparent ‘original’ misunderstands both the ancient poem and how myth actually works.",
+          "summary": "AI data centres are contentious for consuming large resources. But with the right incentives and regulation, can they make for more flexible electrici",
           "other_news": true
         },
         {
-          "title": "How Ethiopia can make COP32 the summit that actually delivers",
-          "link": "https://theconversation.com/how-ethiopia-can-make-cop32-the-summit-that-actually-delivers-286370",
-          "published": "2026-07-29T13:33:00+00:00",
+          "title": "Early childhood is a great time to learn about clean energy: this game aims to make it fun",
+          "link": "https://theconversation.com/early-childhood-is-a-great-time-to-learn-about-clean-energy-this-game-aims-to-make-it-fun-283817",
+          "published": "2026-07-30T14:45:30+00:00",
           "source": "The Conversation",
           "type": "news",
-          "summary": "Africa has a chance to host a climate conference that makes an impact.",
+          "summary": "Early childhood is an important stage where children develop curiosity, values and problem-solving skills.",
           "other_news": true
         },
         {
@@ -1397,42 +1583,6 @@
           "source": "Mongabay Marine",
           "type": "news",
           "summary": "Baraka Moruri has been passionate about the environment since he was 6. Now 13, the Kenyan climate champion says he has planted more than 7,600 trees",
-          "other_news": true
-        },
-        {
-          "title": "Women’s collectives are protecting Nigeria’s gorilla wildlife sanctuary",
-          "link": "https://news.mongabay.com/short-article/2026/07/womens-collectives-are-protecting-nigerias-gorilla-wildlife-sanctuary/",
-          "published": "2026-07-28T15:01:35+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "summary": "In the communities surrounding Nigeria&#8217;s Afi Mountain Wildlife Sanctuary, women’s conservation collectives are transforming the protection of a",
-          "other_news": true
-        },
-        {
-          "title": "Study investigates how to prevent viral spread from bat guano in Southeast Asia",
-          "link": "https://news.mongabay.com/2026/07/study-investigates-how-to-prevent-viral-spread-from-bat-guano-in-southeast-asia/",
-          "published": "2026-07-28T13:55:30+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "summary": "As humans encroach further into ecosystems, people and wildlife are brought into closer proximity. One potential consequence is an increased risk of p",
-          "other_news": true
-        },
-        {
-          "title": "How carbon markets can succeed & also serve Global South communities (commentary)",
-          "link": "https://news.mongabay.com/2026/07/how-carbon-markets-can-succeed-also-serve-global-south-communities-commentary/",
-          "published": "2026-07-27T21:09:33+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "summary": "Carbon markets were designed around the compelling premise that private finance could flow where forests are most at risk, rewarding the communities a",
-          "other_news": true
-        },
-        {
-          "title": "Heat stress is rising globally, raising health concerns for billions: Study",
-          "link": "https://news.mongabay.com/short-article/2026/07/heat-stress-is-rising-globally-raising-health-concerns-for-billions-study/",
-          "published": "2026-07-27T20:57:59+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "summary": "Climate change is causing frequent, well-studied, extreme heat events. Less well understood is the additional heat stress experienced by billions of p",
           "other_news": true
         }
       ]

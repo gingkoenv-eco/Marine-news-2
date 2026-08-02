@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T07:30:24.902533+00:00",
+  "generated_at": "2026-08-02T06:27:37.640782+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -10,6 +10,15 @@
           "source": "Carbonbrief",
           "type": "news",
           "summary": "This summer has seen Europe suffer through a series of record-breaking heatwaves. Amid widespread media coverage of the number of&#8230;\nThe post Fact",
+          "other_news": false
+        },
+        {
+          "title": "Microplastiques, molécules toxiques… Comment limiter la pollution des pneus de voiture",
+          "link": "https://vert.eco/label-vert/microplastiques-molecules-toxiques-comment-limiter-la-pollution-des-pneus-de-voiture/",
+          "published": "2026-08-02T05:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "summary": "Lorsque nous roulons, nos pneus s’usent et libèrent des centaines de molécules toxiques qui contaminent jusqu’aux fruits et légumes. Existe-t-il des p",
           "other_news": false
         }
       ],
@@ -201,6 +210,24 @@
           "other_news": false
         },
         {
+          "title": "Antiguans reject the same whaling their government champions",
+          "link": "https://oceanographicmagazine.com/news/antiguans-reject-the-same-whaling-their-government-champions/",
+          "published": "2026-07-30T15:25:09+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "A new poll shows most Antiguans oppose commercial whaling and were unaware their government supports it at the IWC. Conservationists now urge Prime Mi",
+          "other_news": false
+        },
+        {
+          "title": "Scientists map Great Barrier Reef’s microbiome for first time",
+          "link": "https://oceanographicmagazine.com/news/scientists-map-great-barrier-reefs-microbiome-for-first-time/",
+          "published": "2026-07-29T14:56:00+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Having a greater understanding of these microscopic communities, researchers say, is critical for future marine conservation efforts\nThe post Scientis",
+          "other_news": false
+        },
+        {
           "title": "El Niño, qui se renforce, « attise une planète déjà en feu », s’alarme le chef de l’ONU",
           "link": "https://www.lemonde.fr/planete/article/2026/07/31/el-nino-qui-se-renforce-attise-une-planete-deja-en-feu-s-alarme-le-chef-de-l-onu_6737163_3244.html",
           "published": "2026-07-31T19:28:31+02:00",
@@ -260,12 +287,21 @@
     "General News": {
       "Plastic & Ocean Pollution": [
         {
-          "title": "Voyage to the end of the world: floating lab to explore life in Arctic adrift in ice",
-          "link": "https://www.theguardian.com/environment/2026/jul/02/arctic-tara-ocean-foundation-expedition-floating-lab-explore-life-adrift-ice",
-          "published": "2026-07-02T11:00:12+00:00",
-          "source": "The Guardian Ocean & Marine",
+          "title": "Billion-pellet plastic spill blights England’s north east coast",
+          "link": "https://oceanographicmagazine.com/news/billion-pellet-plastic-spill-blights-englands-north-east-coast/",
+          "published": "2026-07-31T14:10:26+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "summary": "An eight-month expedition will set off soon from Norway on a mission to find new species before the climate crisis and pollution changes the northern",
+          "summary": "Private shipping firms face fury from local communities and the regional mayor over a sluggish response to the UK's worst-ever microplastic spill\nThe",
+          "other_news": false
+        },
+        {
+          "title": "Algal blooms accelerate microplastic pollution, study suggests",
+          "link": "https://oceanographicmagazine.com/news/algal-blooms-accelerate-microplastic-pollution-study-suggests/",
+          "published": "2026-07-29T15:11:01+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Heightened temperatures cause the growth of a specialised algae good at breaking plastics down. Researchers say their findings suggest that increasing",
           "other_news": false
         },
         {
@@ -275,15 +311,6 @@
           "source": "Ocean Conservancy",
           "type": "news",
           "summary": "What do you think about when you hear the words “microplastic pollution?” Your mind may immediately go to imagery of colorful fragmented plastics brok",
-          "other_news": false
-        },
-        {
-          "title": "Microplastic Pollution Research at Sea",
-          "link": "https://oceanconservancy.org/blog/2026/07/02/microplastic-research-sea/",
-          "published": "2026-07-02T16:10:37+00:00",
-          "source": "Ocean Conservancy",
-          "type": "news",
-          "summary": "I have been studying plastic pollution for more than a decade. I&#8217;ve analyzed hundreds of samples in labs, pored over data and spent years thinki",
           "other_news": false
         }
       ],
@@ -316,12 +343,30 @@
           "other_news": false
         },
         {
-          "title": "Falls in whale sightings, rare seabirds appearing – is something unusual happening in the Southern Ocean?",
-          "link": "https://theconversation.com/falls-in-whale-sightings-rare-seabirds-appearing-is-something-unusual-happening-in-the-southern-ocean-287961",
-          "published": "2026-07-30T20:08:57+00:00",
-          "source": "The Conversation",
+          "title": "Two dozen species discovered in the ocean’s least explored habitat",
+          "link": "https://oceanographicmagazine.com/news/two-dozen-species-discovered-in-the-oceans-least-explored-habitat/",
+          "published": "2026-07-31T11:18:18+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "summary": "Could marine heatwaves in the cold Southern Ocean be making animals and birds migrate? It’s possible – but we need better monitoring to know.",
+          "summary": "Scientists aboard the Falkor (too) have discovered more than two dozen new species in the ocean's midwater off Brazil, using advanced imaging and gene",
+          "other_news": false
+        },
+        {
+          "title": "Fin-mounted cameras reveal the “secret lives” of whale sharks",
+          "link": "https://oceanographicmagazine.com/news/fin-mounted-cameras-reveal-the-secret-lives-of-whale-sharks/",
+          "published": "2026-07-28T14:27:18+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Whale sharks are some of the ocean’s most beloved and charismatic species, and now researchers have new insights into how they feed and how this might",
+          "other_news": false
+        },
+        {
+          "title": "Sperm whales blow bubbles to sleep floating vertically",
+          "link": "https://oceanographicmagazine.com/news/sperm-whales-blow-bubbles-to-sleep-floating-vertically/",
+          "published": "2026-07-28T13:08:58+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "They are the only whales that choose to sleep upright, but until now, scientists haven’t understood how it was possible due to their exceptionally buo",
           "other_news": false
         },
         {
@@ -343,15 +388,6 @@
           "type": "news",
           "summary": "Marine protected areas (MPAs) may prohibit industrial fishing within their boundaries, but they cannot stop fishing gear released elsewhere from drift",
           "other_news": false
-        },
-        {
-          "title": "Fatal WWII bomb blast in Indonesia was a result of illegal fishing activity, police say",
-          "link": "https://news.mongabay.com/2026/07/fatal-wwii-bomb-blast-in-indonesia-was-a-result-of-illegal-fishing-activity-police-say/",
-          "published": "2026-07-29T09:03:50+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "summary": "BIAK, Indonesia — The munition here had outlasted one of the Pacific&#8217;s fiercest World War II battles. Eight decades later, investigators in Indo",
-          "other_news": false
         }
       ],
       "Nature-Based Solutions & Restoration": [
@@ -362,17 +398,6 @@
           "source": "The Conversation US",
           "type": "news",
           "summary": "An analysis of one major effort shows how to get Democrats and Republicans to agree to spend billions of dollars on a decades-long environmental resto",
-          "other_news": false
-        }
-      ],
-      "Fisheries & Climate Change Ecosystem": [
-        {
-          "title": "In Guatemala, Indigenous women build climate resilience with old and new farming methods",
-          "link": "https://www.climatechangenews.com/2026/07/02/in-guatemala-indigenous-women-build-climate-resilience-with-old-and-new-farming-methods/",
-          "published": "2026-07-02T10:41:22+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "summary": "Ancestral knowledge combined with climate-smart techniques is boosting food security and increasing family incomes in the Lake Atitlán region\nThe post",
           "other_news": false
         }
       ],
@@ -472,12 +497,39 @@
           "other_news": false
         },
         {
+          "title": "Free diver, 21, wants to 'give back' to the ocean that has helped him",
+          "link": "https://www.bbc.co.uk/news/videos/c20e942zpd0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-01T12:50:03+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "summary": "Iesetyn Morgan regularly free dives and shares the footage of marine life on social media.",
+          "other_news": false
+        },
+        {
           "title": "Mountaineer who began fossil hunting after near-death experience discovers rare 'sea dragon'",
           "link": "https://www.bbc.co.uk/news/articles/czjlk9rym18o?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-30T09:17:18+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "summary": "Matthew Myerscough swapped mountains for fossil-laden beaches after becoming trapped in snow on Yr Wyddfa.",
+          "other_news": false
+        },
+        {
+          "title": "Beaver dams 'helping boost drought resilience'",
+          "link": "https://www.bbc.co.uk/news/articles/c5yr7z150d7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-02T06:07:13+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "summary": "Research shows beavers are create more wetland areas since being reintroduced to the wild.",
+          "other_news": false
+        },
+        {
+          "title": "Hundreds of dead fish in river linked to heatwave",
+          "link": "https://www.bbc.co.uk/news/articles/ckgd4d3280yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-02T04:50:40+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "summary": "The Environment Agency believes the fish were killed as a result of the heat and drain water.",
           "other_news": false
         },
         {
@@ -670,12 +722,21 @@
           "other_news": false
         },
         {
-          "title": "Un responsable de la FNSEA présente ses excuses à Marine Tondelier, après l’avoir insultée",
-          "link": "https://www.lemonde.fr/politique/article/2026/07/31/un-responsable-de-la-fnsea-presente-ses-excuses-a-marine-tondelier-apres-l-avoir-insultee_6737126_823449.html",
-          "published": "2026-07-31T17:42:00+02:00",
-          "source": "Le Monde Planète",
+          "title": "From plankton to plate: Changing UK seas are shifting food webs",
+          "link": "https://oceanographicmagazine.com/news/from-plankton-to-plate-changing-uk-seas-are-shifting-food-webs/",
+          "published": "2026-07-31T08:38:02+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "summary": "Ce responsable agricole de l’Oise l’avait traitée de « grosse salope » sur sa page privée après l’adoption de la loi d’urgence agricole. La candidate",
+          "summary": "A new MCCIP report, drawing on over 500 studies, reveals that climate change is already reshaping UK plankton communities - threatening food web effic",
+          "other_news": false
+        },
+        {
+          "title": "Self-moving, self-cloning sponge could restore degraded harbours",
+          "link": "https://oceanographicmagazine.com/news/self-moving-self-cloning-sponge-could-restore-degraded-harbours/",
+          "published": "2026-07-30T09:30:24+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "Researchers have identified a Mediterranean sponge that survives, moves and self-clones in degraded harbour environments, offering a promising foundat",
           "other_news": false
         },
         {
@@ -829,15 +890,6 @@
       ],
       "Other Marine News": [
         {
-          "title": "VIDEO Séisme au Japon : les images de l’explosion d’un centre commercial",
-          "link": "https://www.lemonde.fr/planete/video/2026/07/31/seisme-au-japon-les-images-de-l-explosion-d-un-centre-commercial-au-moins-34-morts-dans-le-pays_6737106_3244.html",
-          "published": "2026-07-31T08:55:47+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "summary": "L’établissement Aeon, à Kashima, sur l’île de Kyushu, dans le sud du pays, avait été évacué après le séisme, mais il a été dévasté par une explosion c",
-          "other_news": false
-        },
-        {
           "title": "Listening offers a clearer picture of India’s hidden finless porpoises",
           "link": "https://news.mongabay.com/short-article/2026/07/listening-offers-a-clearer-picture-of-indias-hidden-finless-porpoises/",
           "published": "2026-07-31T02:54:50+00:00",
@@ -875,6 +927,24 @@
           "source": "The Conversation US",
           "type": "news",
           "summary": "Pressure from trade agreements can clean up sources of environmental harm, leading to cleaner rivers in the case of Mexico’s much-loved avocados.",
+          "other_news": true
+        },
+        {
+          "title": "Au Chili, le poison de la contamination aux déchets miniers importés de Suède : « Les gens organisaient des tombolas pour payer les frais médicaux »",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/02/au-chili-le-poison-de-la-contamination-aux-dechets-miniers-importes-de-suede-les-gens-organisaient-des-tombolas-pour-payer-les-frais-medicaux_6737256_3244.html",
+          "published": "2026-08-02T06:00:12+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "summary": "Quarante ans après le dépôt de rebuts d’une entreprise suédoise contenant des métaux lourds à Arica, dans le nord du Chili, les graves conséquences de",
+          "other_news": true
+        },
+        {
+          "title": "Visualisez la pollution de l’air générée par les incendies en France et en Europe",
+          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/08/01/visualisez-la-pollution-de-l-air-generee-par-les-incendies-en-france-et-en-europe_6737213_4355770.html",
+          "published": "2026-08-01T13:00:12+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "summary": "Grâce à notre carte, observez l’étendue et le mouvement de la pollution atmosphérique suscitée par les feux de forêt à l’échelle européenne.",
           "other_news": true
         },
         {
@@ -940,6 +1010,15 @@
           "source": "Climate change news",
           "type": "news",
           "summary": "Global efforts to ensure AI does more good than harm must consider how it could fuel exploitation of biodiversity and ecosystems, conservationists say",
+          "other_news": true
+        },
+        {
+          "title": "Ancient turtle bones offer insight into future Caribbean conservation",
+          "link": "https://oceanographicmagazine.com/news/ancient-turtle-bones-offer-insight-into-future-caribbean-conservation/",
+          "published": "2026-07-30T15:27:18+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "summary": "New species-level analysis of ancient turtle bones from Curaçao and Bonaire is revealing patterns of human hunting stretching back 1,000 years, offeri",
           "other_news": true
         },
         {
@@ -1154,6 +1233,15 @@
           "other_news": true
         },
         {
+          "title": "Wildfires can generate tornadoes, lightning and other extreme weather, sometimes miles from the flames",
+          "link": "https://theconversation.com/wildfires-can-generate-tornadoes-lightning-and-other-extreme-weather-sometimes-miles-from-the-flames-288359",
+          "published": "2026-07-30T12:09:31+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "summary": "Wildfire smoke can even affect the weather downwind.",
+          "other_news": true
+        },
+        {
           "title": "French climate lawsuit offers a window into the next round of the global legal fight",
           "link": "https://theconversation.com/french-climate-lawsuit-offers-a-window-into-the-next-round-of-the-global-legal-fight-287829",
           "published": "2026-07-28T12:09:35+00:00",
@@ -1352,15 +1440,6 @@
           "other_news": true
         },
         {
-          "title": "World Bank’s climate work can endure without finance target, experts say",
-          "link": "https://www.climatechangenews.com/2026/07/02/world-banks-climate-work-can-endure-without-finance-target-experts-say/",
-          "published": "2026-07-02T10:23:13+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "summary": "Even though the global lender has ditched a headline goal for its financing with climate benefits, it has decided to continue its climate action plan",
-          "other_news": true
-        },
-        {
           "title": "Canicule : « Le réchauffement climatique a pris corps, beaucoup de personnes ont vécu cette bascule dans leur chair »",
           "link": "https://reporterre.net/Canicule-Le-rechauffement-climatique-a-pris-corps-beaucoup-de-personnes-ont-vecu-cette",
           "published": "2026-07-31T13:00:56+00:00",
@@ -1415,21 +1494,21 @@
           "other_news": true
         },
         {
-          "title": "Il y a 200 millions d’années, un réchauffement climatique enflammait des savanes de fougères",
-          "link": "https://www.lemonde.fr/sciences/article/2026/07/31/il-y-a-200-millions-d-annees-un-rechauffement-climatique-enflammait-des-savanes-de-fougeres_6737124_1650684.html",
-          "published": "2026-07-31T12:00:03+02:00",
+          "title": "Canicule : « 82 % des Européens se disent prêts à changer d’horaires en fonction de la chaleur. Pourtant, ce débat est peu présent en France »",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/02/canicule-82-des-europeens-se-disent-prets-a-changer-d-horaires-en-fonction-de-la-chaleur-pourtant-ce-debat-est-peu-present-en-france_6737261_3244.html",
+          "published": "2026-08-02T06:30:08+02:00",
           "source": "Le Monde Planète",
           "type": "news",
-          "summary": "Une équipe internationale de chercheurs est parvenue à identifier des traces de gigantesques incendies, dans des spores et pollens datant de la fin de",
+          "summary": "« Les entretiens de “Chaleur humaine” ». L’explorateur Christian Clot explique, dans un entretien issu de notre podcast consacré au défi climatique, c",
           "other_news": true
         },
         {
-          "title": "Joëlle Zask, philosophe : « Contre les mégafeux, la volonté politique au sommet dépend de celle de la majorité des citoyens »",
-          "link": "https://www.lemonde.fr/idees/article/2026/07/31/joelle-zask-philosophe-contre-les-megafeux-la-volonte-politique-au-sommet-depend-de-celle-de-la-majorite-des-citoyens_6737081_3232.html",
-          "published": "2026-07-31T05:00:00+02:00",
+          "title": "Une saison de feux historique, en France comme en Europe, sur fond de sécheresse et de réchauffement climatique",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/01/une-saison-de-feux-historique-en-france-comme-en-europe-sur-fond-de-secheresse-et-de-rechauffement-climatique_6737205_3244.html",
+          "published": "2026-08-01T09:42:41+02:00",
           "source": "Le Monde Planète",
           "type": "news",
-          "summary": "Les incendies extrêmes sont un phénomène d’insécurité qui appelle à un nouveau pacte social, selon la professeure à l’université. Dans une tribune au",
+          "summary": "Depuis janvier, 91 000 hectares sont partis en fumée en France. C’est plus de huit fois la moyenne observée à cette période ces vingt dernières années",
           "other_news": true
         },
         {
@@ -1448,15 +1527,6 @@
           "source": "Vert Eco Articles",
           "type": "news",
           "summary": "Plus de 5 000 stations d’épuration françaises, soit un peu plus d’une sur cinq, ne respectent pas les normes européennes de traitement des eaux usées,",
-          "other_news": true
-        },
-        {
-          "title": "«Se compter pour peser» : l’opération citoyenne lancée par l’Affaire du siècle franchit la barre des 100 000 sinistrés climatiques",
-          "link": "https://vert.eco/rapports-de-force/se-compter-pour-peser-loperation-citoyenne-lancee-par-laffaire-du-siecle-franchit-la-barre-des-100-000-sinistres-climatiques/",
-          "published": "2026-07-28T09:10:06+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "summary": "Deux semaines après son lancement, la plateforme de recensement de victimes directes du changement climatique rassemble 105 000 personnes et plus de 3",
           "other_news": true
         },
         {

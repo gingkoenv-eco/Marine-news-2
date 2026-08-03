@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T07:34:16.373770+00:00",
+  "generated_at": "2026-08-03T06:53:05.937846+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -50,17 +50,6 @@
           "source": "Mongabay Marine",
           "type": "news",
           "summary": "PRAGUE (AP) — Keepers at Prague Zoo used tons of ice on Thursday to give its animals some much-needed relief as yet another heat wave hit Europe. Pola",
-          "other_news": false
-        }
-      ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "How a research program in Sulawesi is narrowing Indonesia’s research-policy gap",
-          "link": "https://theconversation.com/how-a-research-program-in-sulawesi-is-narrowing-indonesias-research-policy-gap-288748",
-          "published": "2026-07-31T08:03:00+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "summary": "A research program is narrowing Indonesia’s research-policy gap in Sulawesi. But the island’s blue economy vision is colliding with Jakarta’s nickel a",
           "other_news": false
         }
       ],
@@ -228,12 +217,21 @@
           "other_news": false
         },
         {
-          "title": "El Niño, qui se renforce, « attise une planète déjà en feu », s’alarme le chef de l’ONU",
-          "link": "https://www.lemonde.fr/planete/article/2026/07/31/el-nino-qui-se-renforce-attise-une-planete-deja-en-feu-s-alarme-le-chef-de-l-onu_6737163_3244.html",
-          "published": "2026-07-31T19:28:31+02:00",
+          "title": "Orages : Météo-France place sept départements du Sud-Ouest en vigilance orange",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/03/orages-meteo-france-place-sept-departements-du-sud-ouest-en-vigilance-orange_6737340_3244.html",
+          "published": "2026-08-03T07:29:41+02:00",
           "source": "Le Monde Planète",
           "type": "news",
-          "summary": "Ce phénomène naturel revient tous les deux à sept ans. Les eaux de surface dans le centre et l’est de l’océan Pacifique équatorial se réchauffent, ce",
+          "summary": "« Une première salve orageuse se met en place actuellement par le golfe de Gascogne. L’instabilité orageuse sera de plus en plus présente en journée d",
+          "other_news": false
+        },
+        {
+          "title": "« Les gens viennent ici pour se reposer. Mais il devient très difficile de leur offrir cette sérénité » : en Tunisie, le secteur du tourisme affecté par les coupures d’électricité et d’eau à répétition",
+          "link": "https://www.lemonde.fr/international/article/2026/08/02/les-gens-viennent-ici-pour-se-reposer-mais-il-devient-tres-difficile-de-leur-offrir-cette-serenite-en-tunisie-le-secteur-du-tourisme-affecte-par-les-coupures-d-electricite-et-d-eau-a-repetition_6737300_3210.html",
+          "published": "2026-08-02T17:00:00+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "summary": "Le pays est confronté à des chaleurs exceptionnelles qui mettent à rude épreuve les réseau d’approvisionnement. Avec de lourdes conséquences pour les",
           "other_news": false
         },
         {
@@ -246,21 +244,21 @@
           "other_news": false
         },
         {
+          "title": "New museum find shows nature can’t stop inventing seahorses",
+          "link": "https://theconversation.com/new-museum-find-shows-nature-cant-stop-inventing-seahorses-288274",
+          "published": "2026-08-03T00:30:28+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "summary": "No one has ever seen one of these fish alive. But they are most likely still swimming in a part of the sea we hardly ever visit.",
+          "other_news": false
+        },
+        {
           "title": "Foldable synthetic molecules could infiltrate and bust apart the toxic protein clumps causing Parkinson’s",
           "link": "https://theconversation.com/foldable-synthetic-molecules-could-infiltrate-and-bust-apart-the-toxic-protein-clumps-causing-parkinsons-281842",
           "published": "2026-07-31T12:09:24+00:00",
           "source": "The Conversation",
           "type": "news",
           "summary": "Researchers are finding ways to target the toxic proteins involved in neurodegenerative diseases such as Parkinson’s and Alzheimer’s that were once co",
-          "other_news": false
-        },
-        {
-          "title": "In Homer’s epic, a bold princess helps Odysseus home – but not in Nolan’s film. Who is Nausicaa?",
-          "link": "https://theconversation.com/in-homers-epic-a-bold-princess-helps-odysseus-home-but-not-in-nolans-film-who-is-nausicaa-288511",
-          "published": "2026-07-31T05:16:57+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "summary": "Christopher Nolan’s Odyssey has been criticised for simplifying its complex characters – particularly women. We asked an expert to fill some of the fi",
           "other_news": false
         },
         {
@@ -311,6 +309,15 @@
           "source": "Ocean Conservancy",
           "type": "news",
           "summary": "What do you think about when you hear the words “microplastic pollution?” Your mind may immediately go to imagery of colorful fragmented plastics brok",
+          "other_news": false
+        },
+        {
+          "title": "Introduced fish thrive amid Kasmir’s freshwater habitat degradation",
+          "link": "https://news.mongabay.com/short-article/2026/08/introduced-fish-thrive-amid-kasmirs-freshwater-habitat-degradation/",
+          "published": "2026-08-03T05:33:37+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "summary": "Native fish in the lakes and rivers of India’s Kashmir Valley are under increasing pressure from pollution, habitat loss, dam construction and other h",
           "other_news": false
         }
       ],
@@ -497,6 +504,15 @@
           "other_news": false
         },
         {
+          "title": "'You can't describe the loss' - the reality of bovine TB on farmers",
+          "link": "https://www.bbc.co.uk/news/articles/c982m8p74lvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-02T23:00:07+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "summary": "Wildlife intervention proposals are controversial but farmers say they are needed to reduce bTB.",
+          "other_news": false
+        },
+        {
           "title": "Free diver, 21, wants to 'give back' to the ocean that has helped him",
           "link": "https://www.bbc.co.uk/news/videos/c20e942zpd0o?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-01T12:50:03+00:00",
@@ -506,12 +522,12 @@
           "other_news": false
         },
         {
-          "title": "Mountaineer who began fossil hunting after near-death experience discovers rare 'sea dragon'",
-          "link": "https://www.bbc.co.uk/news/articles/czjlk9rym18o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-30T09:17:18+00:00",
+          "title": "Volunteers clear brook to reduce flood risk",
+          "link": "https://www.bbc.co.uk/news/articles/c4gwr53qrw7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-03T05:09:06+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
-          "summary": "Matthew Myerscough swapped mountains for fossil-laden beaches after becoming trapped in snow on Yr Wyddfa.",
+          "summary": "With a hot summer drying out Syston Brook, volunteers have prepared the waterway ready for rain.",
           "other_news": false
         },
         {
@@ -740,6 +756,24 @@
           "other_news": false
         },
         {
+          "title": "Closed court, no jury: a legal expert explains what’s happening with Alan Jones’ trial",
+          "link": "https://theconversation.com/closed-court-no-jury-a-legal-expert-explains-whats-happening-with-alan-jones-trial-288901",
+          "published": "2026-08-03T06:21:25+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "summary": "The trial of the former shock jock on indecent assault and sexual touching charges is taking place without a jury and in a closed court. Here’s why.",
+          "other_news": false
+        },
+        {
+          "title": "Good things take time – but new research suggests mindfulness can make the wait easier",
+          "link": "https://theconversation.com/good-things-take-time-but-new-research-suggests-mindfulness-can-make-the-wait-easier-287955",
+          "published": "2026-08-02T20:11:54+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "summary": "Mindfulness can change how we experience time, making it easier to wait for future rewards without relying on greater willpower.",
+          "other_news": false
+        },
+        {
           "title": "What a western Pennsylvania ’90s-style Pizza Hut reveals about nostalgia",
           "link": "https://theconversation.com/what-a-western-pennsylvania-90s-style-pizza-hut-reveals-about-nostalgia-287047",
           "published": "2026-07-31T12:11:35+00:00",
@@ -755,33 +789,6 @@
           "source": "The Conversation",
           "type": "news",
           "summary": "American faith in news is at an all-time low, aided by a president hostile to the press. But presidents have long attacked journalists as biased. What",
-          "other_news": false
-        },
-        {
-          "title": "Bali’s traditional boats embody centuries of maritime tradition – but they’re quickly disappearing",
-          "link": "https://theconversation.com/balis-traditional-boats-embody-centuries-of-maritime-tradition-but-theyre-quickly-disappearing-287071",
-          "published": "2026-07-31T02:00:50+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "summary": "Bali’s traditional elephant-fish canoes embody generations of craftsmanship, spiritual belief and maritime knowledge. But only a handful remain.",
-          "other_news": false
-        },
-        {
-          "title": "Sports venues are offering facial recognition to let people in. What are the risks?",
-          "link": "https://theconversation.com/sports-venues-are-offering-facial-recognition-to-let-people-in-what-are-the-risks-288612",
-          "published": "2026-07-31T00:36:00+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "summary": "When consumers provide consent for recording their facial data, they must fully know what they’re consenting to.",
-          "other_news": false
-        },
-        {
-          "title": "Wetlands are crucial food baskets for NZ’s native eels – new research",
-          "link": "https://theconversation.com/wetlands-are-crucial-food-baskets-for-nzs-native-eels-new-research-286126",
-          "published": "2026-07-30T21:03:50+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "summary": "Wetlands are increasingly appreciated for their role in flood prevention and as carbon sinks. But they also act as a crucial food source for the wider",
           "other_news": false
         },
         {
@@ -930,30 +937,12 @@
           "other_news": true
         },
         {
-          "title": "Au Chili, le poison de la contamination aux déchets miniers importés de Suède : « Les gens organisaient des tombolas pour payer les frais médicaux »",
+          "title": "« Les gens organisaient des tombolas pour payer les frais médicaux » : au Chili, le poison de la contamination aux déchets miniers importés de Suède",
           "link": "https://www.lemonde.fr/planete/article/2026/08/02/au-chili-le-poison-de-la-contamination-aux-dechets-miniers-importes-de-suede-les-gens-organisaient-des-tombolas-pour-payer-les-frais-medicaux_6737256_3244.html",
-          "published": "2026-08-02T06:00:12+02:00",
+          "published": "2026-08-02T06:00:08+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "summary": "Quarante ans après le dépôt de rebuts d’une entreprise suédoise contenant des métaux lourds à Arica, dans le nord du Chili, les graves conséquences de",
-          "other_news": true
-        },
-        {
-          "title": "Visualisez la pollution de l’air générée par les incendies en France et en Europe",
-          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/08/01/visualisez-la-pollution-de-l-air-generee-par-les-incendies-en-france-et-en-europe_6737213_4355770.html",
-          "published": "2026-08-01T13:00:12+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "summary": "Grâce à notre carte, observez l’étendue et le mouvement de la pollution atmosphérique suscitée par les feux de forêt à l’échelle européenne.",
-          "other_news": true
-        },
-        {
-          "title": "Décontaminer l’eau potable des résidus de pesticides et des PFAS pourrait coûter jusqu’à 5,7 milliards d’euros par an, selon un rapport",
-          "link": "https://www.lemonde.fr/planete/article/2026/07/31/decontaminer-l-eau-potable-des-residus-de-pesticides-et-des-pfas-pourrait-couter-jusqu-a-5-7-milliards-d-euros-par-an-selon-un-rapport_6737169_3244.html",
-          "published": "2026-07-31T20:23:55+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "summary": "Le rapport d’une mission d’inspection interministérielle publié jeudi identifie quatre scénarios de dépollution de l’eau potable, représentant des sur",
           "other_news": true
         },
         {
@@ -1042,12 +1031,12 @@
           "other_news": true
         },
         {
-          "title": "Is social housing policy failing NZ families trying to move from renting to home ownership?",
-          "link": "https://theconversation.com/is-social-housing-policy-failing-nz-families-trying-to-move-from-renting-to-home-ownership-286065",
-          "published": "2026-07-30T20:11:41+00:00",
+          "title": "Change or die: how the Liberal Party’s long resistance to reform has left it fighting for life",
+          "link": "https://theconversation.com/change-or-die-how-the-liberal-partys-long-resistance-to-reform-has-left-it-fighting-for-life-288606",
+          "published": "2026-08-02T20:11:28+00:00",
           "source": "The Conversation",
           "type": "news",
-          "summary": "New Zealand needs more social housing and affordable rentals, but also better pathways for working renters to become home owners.",
+          "summary": "The Liberals never gave members the same scope to be involved and influence policy as Labor did. Now, they are paying the price for it.",
           "other_news": true
         }
       ],
@@ -1086,6 +1075,15 @@
           "source": "BBC Ocean & Marine",
           "type": "news",
           "summary": "What’s the point of having a treaty banning nukes in space if we can’t spot them?",
+          "other_news": true
+        },
+        {
+          "title": "Feux de forêt : quels sont les facteurs qui influencent le plus leur comportement ?",
+          "link": "https://theconversation.com/feux-de-foret-quels-sont-les-facteurs-qui-influencent-le-plus-leur-comportement-288754",
+          "published": "2026-08-02T13:33:48+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "summary": "Le climat, les activités humaines et la végétation sont les trois grands facteurs qui contrôlent les feux et en modifient parfois le comportement, voi",
           "other_news": true
         },
         {
@@ -1431,15 +1429,6 @@
           "other_news": true
         },
         {
-          "title": "Billions unlocked as Green Climate Fund agrees to spend more and save less",
-          "link": "https://www.climatechangenews.com/2026/07/03/billions-unlocked-as-green-climate-fund-agrees-to-spend-more-and-save-less/",
-          "published": "2026-07-03T08:25:38+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "summary": "The board of the UN's flagship climate fund allows management to invest more of its money in projects in developing nations and keep less in reserve\nT",
-          "other_news": true
-        },
-        {
           "title": "Canicule : « Le réchauffement climatique a pris corps, beaucoup de personnes ont vécu cette bascule dans leur chair »",
           "link": "https://reporterre.net/Canicule-Le-rechauffement-climatique-a-pris-corps-beaucoup-de-personnes-ont-vecu-cette",
           "published": "2026-07-31T13:00:56+00:00",
@@ -1494,21 +1483,30 @@
           "other_news": true
         },
         {
-          "title": "Canicule : « 82 % des Européens se disent prêts à changer d’horaires en fonction de la chaleur. Pourtant, ce débat est peu présent en France »",
+          "title": "En Grèce, deux pilotes de bombardiers d’eau meurent après la collision de leurs hélicoptères alors que les incendies restent « extrêmement difficiles » à maîtriser",
+          "link": "https://www.lemonde.fr/international/article/2026/08/02/en-grece-deux-helicopteres-se-percutent-alors-que-les-incendies-restent-extremement-difficiles-a-maitriser_6737302_3210.html",
+          "published": "2026-08-02T17:24:40+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "summary": "En une semaine, plus de 12 000 hectares de forêts et de terres agricoles ont brûlé dans ce pays touché de plein fouet par la crise climatique, comme l",
+          "other_news": true
+        },
+        {
+          "title": "Avec les canicules, « des dégradations importantes des fonctions physiologiques et cognitives apparaissent »",
           "link": "https://www.lemonde.fr/planete/article/2026/08/02/canicule-82-des-europeens-se-disent-prets-a-changer-d-horaires-en-fonction-de-la-chaleur-pourtant-ce-debat-est-peu-present-en-france_6737261_3244.html",
-          "published": "2026-08-02T06:30:08+02:00",
+          "published": "2026-08-02T06:30:04+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "summary": "« Les entretiens de “Chaleur humaine” ». L’explorateur Christian Clot explique, dans un entretien issu de notre podcast consacré au défi climatique, c",
           "other_news": true
         },
         {
-          "title": "Une saison de feux historique, en France comme en Europe, sur fond de sécheresse et de réchauffement climatique",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/01/une-saison-de-feux-historique-en-france-comme-en-europe-sur-fond-de-secheresse-et-de-rechauffement-climatique_6737205_3244.html",
-          "published": "2026-08-01T09:42:41+02:00",
-          "source": "Le Monde Planète",
+          "title": "«Le samedi 26 septembre, partout en France, nous serons dans la rue» : plus de 800 citoyens lancent un appel pour un plan d’urgence climatique",
+          "link": "https://vert.eco/rapports-de-force/le-samedi-26-septembre-partout-en-france-nous-serons-dans-la-rue-plus-de-800-citoyens-lancent-un-appel-pour-un-plan-durgence-climatique/",
+          "published": "2026-08-03T04:00:00+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
-          "summary": "Depuis janvier, 91 000 hectares sont partis en fumée en France. C’est plus de huit fois la moyenne observée à cette période ces vingt dernières années",
+          "summary": "À l’initiative de l’association Bio Consom’acteurs, plus de 800 personnes ont signé une lettre ouverte au président de la République, Emmanuel Macron,",
           "other_news": true
         },
         {
@@ -1530,21 +1528,30 @@
           "other_news": true
         },
         {
+          "title": "Australia has long relied on volunteers and wildlife carers. As bird flu spreads, they will need support",
+          "link": "https://theconversation.com/australia-has-long-relied-on-volunteers-and-wildlife-carers-as-bird-flu-spreads-they-will-need-support-288389",
+          "published": "2026-08-03T06:19:14+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "summary": "Volunteers have been a mainstay of conservation in Australia. As bird flu spreads, they must be supported – and kept safe.",
+          "other_news": true
+        },
+        {
+          "title": "Will a new ‘Good Samaritan’ law really reduce drug overdose fatalities?",
+          "link": "https://theconversation.com/will-a-new-good-samaritan-law-really-reduce-drug-overdose-fatalities-288387",
+          "published": "2026-08-02T23:58:40+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "summary": "On its own, the Drug Overdose (Assistance Protection) Legislation Bill is no magic bullet. But it would add to an existing range of effective harm-red",
+          "other_news": true
+        },
+        {
           "title": "Getting outside despite your 9-to-5 job can improve your mental health – here’s how to spend time in nature during and around working hours",
           "link": "https://theconversation.com/getting-outside-despite-your-9-to-5-job-can-improve-your-mental-health-heres-how-to-spend-time-in-nature-during-and-around-working-hours-286619",
           "published": "2026-07-31T12:07:36+00:00",
           "source": "The Conversation",
           "type": "news",
           "summary": "Sometimes the best escape isn’t a weekend away. It’s the park just down the road.",
-          "other_news": true
-        },
-        {
-          "title": "Data centres are power hungry – but they don’t have to be a burden on NZ’s grid",
-          "link": "https://theconversation.com/data-centres-are-power-hungry-but-they-dont-have-to-be-a-burden-on-nzs-grid-287954",
-          "published": "2026-07-31T02:31:26+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "summary": "AI data centres are contentious for consuming large resources. But with the right incentives and regulation, can they make for more flexible electrici",
           "other_news": true
         },
         {

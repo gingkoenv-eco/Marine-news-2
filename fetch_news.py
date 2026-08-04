@@ -10,6 +10,7 @@ resulting news.json file, so visitors never wait on RSS parsing.
 """
 
 import calendar
+import html
 import json
 import logging
 import re
@@ -37,30 +38,46 @@ FEED_HEADERS = {
     "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/html;q=0.8, */*;q=0.7",
 }
 
+
+def build_keyword_pattern(words):
+    """Compile a case-insensitive, whole-word-or-phrase regex from a keyword
+    list. Using \\b word boundaries (instead of a plain substring check)
+    prevents false positives like "eu" matching inside "neutral", "ray"
+    matching inside "array", or "sea" matching inside "season" or "disease".
+    An optional trailing "s" is allowed so common regular plurals (e.g.
+    "sharks", "reefs") still match a singular keyword - this won't catch
+    irregular plurals (e.g. "fishery" -> "fisheries"), but those are mostly
+    already covered by separate phrase entries in the keyword lists. Being
+    case-insensitive also means keywords like "MPA" or "NBS" work correctly
+    even though the text they're checked against is lowercased."""
+    escaped = sorted((re.escape(w) for w in words if w), key=len, reverse=True)
+    pattern = r"\b(?:" + "|".join(escaped) + r")s?\b"
+    return re.compile(pattern, re.IGNORECASE)
+
 # List of RSS sources - STRICTLY MARINE-FOCUSED
 sources = [
     # International Marine News Outlets
-    {"name": "The Guardian Ocean & Marine", "url": "https://www.theguardian.com/environment/oceans/rss", "type": "news"},
-    {"name": "BBC Ocean & Marine", "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "type": "news"},
-    {"name": "The Conversation FR", "url": "https://theconversation.com/fr/environnement/articles.atom", "type": "news"},
-    {"name": "The Conversation UK", "url": "https://theconversation.com/uk/environment/articles.atom", "type": "news"},
-    {"name": "The Conversation US", "url": "https://theconversation.com/us/environment/articles.atom", "type": "news"},
-    {"name": "Carbonbrief", "url": "https://www.carbonbrief.org/feed/", "type": "news"},
-    {"name": "Climate change news", "url": "https://www.climatechangenews.com/feed/", "type": "news"},
+    {"name": "The Guardian Ocean & Marine", "url": "https://www.theguardian.com/environment/oceans/rss", "type": "news", "language": "en"},
+    {"name": "BBC Ocean & Marine", "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "type": "news", "language": "en"},
+    {"name": "The Conversation FR", "url": "https://theconversation.com/fr/environnement/articles.atom", "type": "news", "language": "fr"},
+    {"name": "The Conversation UK", "url": "https://theconversation.com/uk/environment/articles.atom", "type": "news", "language": "en"},
+    {"name": "The Conversation US", "url": "https://theconversation.com/us/environment/articles.atom", "type": "news", "language": "en"},
+    {"name": "Carbonbrief", "url": "https://www.carbonbrief.org/feed/", "type": "news", "language": "en"},
+    {"name": "Climate change news", "url": "https://www.climatechangenews.com/feed/", "type": "news", "language": "en"},
 
-    {"name": "Reporterre", "url": "https://reporterre.net/spip.php?page=backend-simple", "type": "news"},
-    {"name": "Oceanographic", "url": "https://oceanographicmagazine.com/news/feed/", "type": "news"},
+    {"name": "Reporterre", "url": "https://reporterre.net/spip.php?page=backend-simple", "type": "news", "language": "fr"},
+    {"name": "Oceanographic", "url": "https://oceanographicmagazine.com/news/feed/", "type": "news", "language": "en"},
 
     # French Marine-Focused Sources
-    {"name": "Le Monde Planète", "url": "https://www.lemonde.fr/planete/rss_full.xml", "type": "news"},
-    {"name": "Vert Eco Articles", "url": "https://vert.eco/tous-les-articles", "type": "news"},
-    {"name": "Le Monde Environnement", "url": "https://www.lemonde.fr/environnement/rss_full.xml", "type": "news"},
-    {"name": "The Conversation", "url": "https://theconversation.com/articles.atom?language=en", "type": "news"},
+    {"name": "Le Monde Planète", "url": "https://www.lemonde.fr/planete/rss_full.xml", "type": "news", "language": "fr"},
+    {"name": "Vert Eco Articles", "url": "https://vert.eco/tous-les-articles", "type": "news", "language": "fr"},
+    {"name": "Le Monde Environnement", "url": "https://www.lemonde.fr/environnement/rss_full.xml", "type": "news", "language": "fr"},
+    {"name": "The Conversation", "url": "https://theconversation.com/articles.atom?language=en", "type": "news", "language": "en"},
     # Marine NGOs & International Organizations
-    {"name": "Ocean Conservancy", "url": "https://oceanconservancy.org/feed/", "type": "news"},
+    {"name": "Ocean Conservancy", "url": "https://oceanconservancy.org/feed/", "type": "news", "language": "en"},
 
     # Specialized Marine Media
-    {"name": "Mongabay Marine", "url": "http://news.mongabay.com/feed/", "type": "news"},
+    {"name": "Mongabay Marine", "url": "https://news.mongabay.com/feed/", "type": "news", "language": "en"},
 ]
 
 # Keywords for filtering articles - STRICTLY MARINE-FOCUSED
@@ -196,6 +213,99 @@ broader_keywords += [
     "politique", "gouvernance", "réglementation", "législation", "accord international", "traité", "COP"
 ]
 
+KEYWORD_PATTERN = build_keyword_pattern(keywords)
+BROADER_KEYWORD_PATTERN = build_keyword_pattern(broader_keywords)
+
+# Keyword lists used for categorization and clustering - moved to module level
+# and precompiled once (rather than rebuilt on every article) for both speed
+# and consistent word-boundary matching.
+MULTIMEDIA_WORDS = ["video", "podcast", "watch", "listen", "documentary", "interview", "webinar", "report", "white paper"]
+RESEARCH_SOURCE_WORDS = ["nature", "science daily", "pubmed", "research"]
+POLICY_WORDS = [
+    "policy", "politics", "legislation", "regulation", "governance", "agreement", "treaty",
+    "negotiation", "government", "parliament", "congress", "senate", "eu", "european",
+    "international", "cop", "climate summit", "environmental law", "sustainability goal",
+    "net zero", "commitment"
+]
+
+MULTIMEDIA_PATTERN = build_keyword_pattern(MULTIMEDIA_WORDS)
+RESEARCH_SOURCE_PATTERN = build_keyword_pattern(RESEARCH_SOURCE_WORDS)
+POLICY_PATTERN = build_keyword_pattern(POLICY_WORDS)
+
+THEME_KEYWORDS = {
+    "Plastic & Ocean Pollution": ["plastic", "pollution", "microplastic", "marine debris", "contamination"],
+    "Marine Biodiversity & Conservation": ["biodiversity", "species", "habitat", "extinction", "endangered", "whale", "shark", "coral"],
+    "Sustainable Fisheries": ["fishery", "fishing", "fish stock", "overfishing", "bycatch", "seafood"],
+    "Blue Carbon & Carbon Cycling": ["carbon cycling", "blue carbon", "carbon sequestration", "ocean carbon", "carbon flux", "primary production"],
+    "Nature-Based Solutions & Restoration": ["nature-based solution", "restoration", "mangrove", "seagrass", "reef restoration", "ecosystem-based"],
+    "Fisheries & Climate Change Ecosystem": ["fisheries climate", "ecosystem-based fisheries", "community-based management", "food security"],
+    "Ocean Health & Human Well-being": ["ocean health", "coastal livelihoods", "vulnerable population", "nutritional security", "socio-ecological"],
+    "Deep Ocean & Mesophotic Ecosystems": ["deep sea", "mesophotic", "twilight zone", "hadal", "abyssal", "hydrothermal vent", "bioluminescence"],
+    "Polar & Reef Ecosystems & Resilience": ["polar", "arctic", "sea ice", "coral bleaching", "reef resilience", "thermal resilience", "vulnerable ecosystem"],
+    "Species Migration & Habitat Change": ["migration", "migratory", "range shift", "species distribution", "invasive species", "larval dispersal"],
+    "Marine Protected Areas & Policy": ["marine protected area", "MPA", "marine reserve", "marine spatial planning", "policy", "governance"],
+}
+THEME_PATTERNS = {theme: build_keyword_pattern(words) for theme, words in THEME_KEYWORDS.items()}
+
+
+def normalize_title(title):
+    """Normalize a title for duplicate detection: decode HTML entities,
+    normalize curly quotes, collapse whitespace, lowercase."""
+    text = html.unescape(title or "")
+    text = text.replace("\u2018", "'").replace("\u2019", "'")
+    text = text.replace("\u201c", '"').replace("\u201d", '"')
+    text = re.sub(r"\s+", " ", text).strip().lower()
+    return text
+
+
+def is_near_duplicate_title(normalized_title, seen_titles):
+    """Check a normalized title against previously seen ones. Catches exact
+    matches plus near-duplicates where one feed appends a short suffix like
+    " | Mongabay" or " - The Guardian" to an otherwise identical title,
+    regardless of how long the base title is."""
+    if normalized_title in seen_titles:
+        return True
+
+    for prev in seen_titles:
+        shorter, longer = (normalized_title, prev) if len(normalized_title) <= len(prev) else (prev, normalized_title)
+        if len(shorter) >= 25 and longer.startswith(shorter) and (len(longer) - len(shorter)) <= 30:
+            return True
+
+    return False
+
+
+def extract_image_url(entry):
+    """Try to find a cover image for a feed entry. Checks the common
+    feedparser-normalized fields first (media:content, media:thumbnail,
+    enclosures), then falls back to pulling the first <img> tag out of the
+    raw HTML summary/description. Returns None if nothing is found - not
+    every feed provides one."""
+    for field in ("media_content", "media_thumbnail"):
+        media_list = entry.get(field)
+        if media_list:
+            for media in media_list:
+                url = media.get("url")
+                if url:
+                    return url
+
+    for enclosure in entry.get("enclosures", []) or []:
+        enclosure_type = enclosure.get("type", "")
+        url = enclosure.get("href") or enclosure.get("url")
+        if url and enclosure_type.startswith("image"):
+            return url
+
+    raw_html = entry.get("summary") or entry.get("description") or ""
+    if raw_html:
+        try:
+            soup = BeautifulSoup(raw_html, "html.parser")
+            img = soup.find("img")
+            if img and img.get("src"):
+                return img["src"]
+        except Exception:
+            pass
+
+    return None
+
 
 def fetch_feed(url):
     """Fetch and parse a feed, using realistic browser headers.
@@ -286,6 +396,7 @@ def fetch_articles():
     """Fetch articles from RSS feeds with error handling"""
     articles = []
     seen_links = set()
+    seen_titles = set()
     cutoff_date = datetime.now(timezone.utc) - timedelta(days=30)
 
     for source in sources:
@@ -321,20 +432,28 @@ def fetch_articles():
                     if not link:
                         continue
 
+                    image_url = extract_image_url(entry)
+
                     summary = re.sub('<[^<]+?>', '', summary)[:150]
                     summary = summary.strip()
 
                     text = (title + " " + summary).lower()
 
-                    marine_match = any(kw in text for kw in keywords)
-                    broad_match = any(kw in text for kw in broader_keywords)
+                    marine_match = bool(KEYWORD_PATTERN.search(text))
+                    broad_match = bool(BROADER_KEYWORD_PATTERN.search(text))
                     if not marine_match and not broad_match:
                         continue
 
                     if link in seen_links:
                         continue
 
+                    normalized_title = normalize_title(title)
+                    if normalized_title and is_near_duplicate_title(normalized_title, seen_titles):
+                        continue
+
                     seen_links.add(link)
+                    if normalized_title:
+                        seen_titles.add(normalized_title)
 
                     articles.append({
                         "title": title,
@@ -342,7 +461,9 @@ def fetch_articles():
                         "published": published.isoformat(),
                         "source": source["name"],
                         "type": source["type"],
+                        "language": source.get("language", "en"),
                         "summary": summary,
+                        "image": image_url,
                         "other_news": broad_match and not marine_match
                     })
                 except Exception as e:
@@ -370,11 +491,11 @@ def categorize_articles(articles):
         text = title_lower + " " + summary_lower
         source = art["source"].lower()
 
-        if any(word in title_lower for word in ["video", "podcast", "watch", "listen", "documentary", "interview", "webinar", "report", "white paper"]):
+        if MULTIMEDIA_PATTERN.search(title_lower):
             categories["To Watch / Read / Listen"].append(art)
-        elif art["type"] == "research" or any(word in source for word in ["nature", "science daily", "pubmed", "research"]):
+        elif art["type"] == "research" or RESEARCH_SOURCE_PATTERN.search(source):
             categories["Research & Science"].append(art)
-        elif any(word in text for word in ["policy", "politics", "legislation", "regulation", "governance", "agreement", "treaty", "negotiation", "government", "parliament", "congress", "senate", "eu", "european", "international", "cop", "climate summit", "environmental law", "sustainability goal", "net zero", "commitment"]):
+        elif POLICY_PATTERN.search(text):
             categories["Politics & Policy"].append(art)
         else:
             categories["General News"].append(art)
@@ -387,22 +508,8 @@ def simple_clustering(articles):
     if not articles:
         return {}
 
-    themes = {
-        "Plastic & Ocean Pollution": ["plastic", "pollution", "microplastic", "marine debris", "pollution", "contamination"],
-        "Marine Biodiversity & Conservation": ["biodiversity", "species", "habitat", "extinction", "endangered", "whale", "shark", "coral"],
-        "Sustainable Fisheries": ["fishery", "fishing", "fish stock", "overfishing", "bycatch", "seafood"],
-        "Blue Carbon & Carbon Cycling": ["carbon cycling", "blue carbon", "carbon sequestration", "ocean carbon", "carbon flux", "primary production"],
-        "Nature-Based Solutions & Restoration": ["nature-based solution", "restoration", "mangrove", "seagrass", "reef restoration", "ecosystem-based"],
-        "Fisheries & Climate Change Ecosystem": ["fisheries climate", "ecosystem-based fisheries", "community-based management", "food security"],
-        "Ocean Health & Human Well-being": ["ocean health", "coastal livelihoods", "vulnerable population", "nutritional security", "socio-ecological"],
-        "Deep Ocean & Mesophotic Ecosystems": ["deep sea", "mesophotic", "twilight zone", "hadal", "abyssal", "hydrothermal vent", "bioluminescence"],
-        "Polar & Reef Ecosystems & Resilience": ["polar", "arctic", "sea ice", "coral bleaching", "reef resilience", "thermal resilience", "vulnerable ecosystem"],
-        "Species Migration & Habitat Change": ["migration", "migratory", "range shift", "species distribution", "invasive species", "larval dispersal"],
-        "Marine Protected Areas & Policy": ["marine protected area", "MPA", "marine reserve", "marine spatial planning", "policy", "governance"],
-        "Other Marine News": []
-    }
-
-    clusters = {theme: [] for theme in themes}
+    clusters = {theme: [] for theme in THEME_KEYWORDS}
+    clusters["Other Marine News"] = []
 
     for article in articles:
         title = article["title"].lower()
@@ -410,10 +517,8 @@ def simple_clustering(articles):
         text = title + " " + summary
 
         matched = False
-        for theme, keywords_list in themes.items():
-            if theme == "Other Marine News":
-                continue
-            if any(kw in text for kw in keywords_list):
+        for theme, pattern in THEME_PATTERNS.items():
+            if pattern.search(text):
                 clusters[theme].append(article)
                 matched = True
                 break

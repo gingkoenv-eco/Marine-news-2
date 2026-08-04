@@ -91,7 +91,21 @@
             flex-direction: column;
             touch-action: none;
             user-select: none;
+            -webkit-user-select: none;
             cursor: grab;
+        }
+
+        .card-image {
+            width: calc(100% + 44px);
+            height: 150px;
+            object-fit: cover;
+            margin: -22px -22px 14px -22px;
+            border-radius: 18px 18px 0 0;
+            display: block;
+            background: var(--accent-soft);
+            pointer-events: none;
+            touch-action: none;
+            -webkit-user-drag: none;
         }
 
         .card-source {
@@ -125,6 +139,9 @@
             line-height: 1.55;
             overflow-y: auto;
             flex: 1;
+            touch-action: none;
+            overscroll-behavior: contain;
+            -webkit-user-select: none;
         }
 
         .stamp {
@@ -343,6 +360,7 @@
         let deck = [];
         let currentIndex = 0;
         let kept = [];
+        let isAnimating = false;
 
         const loadingEl = document.getElementById('loading');
         const gameEl = document.getElementById('game');
@@ -353,8 +371,8 @@
         const pickListEl = document.getElementById('pickList');
         const resultsSubtitleEl = document.getElementById('resultsSubtitle');
 
-        document.getElementById('skipBtn').addEventListener('click', () => decide(false));
-        document.getElementById('keepBtn').addEventListener('click', () => decide(true));
+        document.getElementById('skipBtn').addEventListener('click', () => triggerDecision(false));
+        document.getElementById('keepBtn').addEventListener('click', () => triggerDecision(true));
         document.getElementById('restartBtn').addEventListener('click', startRound);
 
         function shuffle(array) {
@@ -376,6 +394,49 @@
                 }
             }
             return all;
+        }
+
+        function normalizeTitle(title) {
+            const div = document.createElement('div');
+            div.innerHTML = title || '';
+            let text = div.textContent || '';
+            text = text.replace(/[\u2018\u2019]/g, "'").replace(/[\u201c\u201d]/g, '"');
+            text = text.replace(/\s+/g, ' ').trim().toLowerCase();
+            return text;
+        }
+
+        function isNearDuplicateTitle(normalized, seenTitles) {
+            if (seenTitles.has(normalized)) {
+                return true;
+            }
+            for (const prev of seenTitles) {
+                const shorter = normalized.length <= prev.length ? normalized : prev;
+                const longer = normalized.length <= prev.length ? prev : normalized;
+                if (shorter.length >= 25 && longer.startsWith(shorter) && (longer.length - shorter.length) <= 30) {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        function dedupeByTitle(articles) {
+            const seenTitles = new Set();
+            const result = [];
+            for (const article of articles) {
+                const normalized = normalizeTitle(article.title);
+                if (normalized && isNearDuplicateTitle(normalized, seenTitles)) {
+                    continue;
+                }
+                if (normalized) {
+                    seenTitles.add(normalized);
+                }
+                result.push(article);
+            }
+            return result;
+        }
+
+        function isEnglish(article) {
+            return (article.language || 'en') === 'en';
         }
 
         function withinRange(article) {
@@ -430,7 +491,9 @@
             const visible = deck.slice(currentIndex, currentIndex + 3);
 
             visible.forEach((article, i) => {
-                const depth = visible.length - 1 - i;
+                // depth 0 = the current card (visible[0] = deck[currentIndex]), topmost and interactive.
+                // Higher depth = further back in the stack, purely visual.
+                const depth = i;
                 const card = document.createElement('div');
                 card.className = 'card';
                 card.style.zIndex = String(10 - depth);
@@ -440,9 +503,14 @@
                     ? new Date(article.published).toLocaleDateString(undefined, { weekday: 'short', month: 'short', day: 'numeric' })
                     : 'Date unavailable';
 
+                const imageHtml = article.image
+                    ? `<img class="card-image" src="${article.image}" alt="" draggable="false" onerror="this.remove()">`
+                    : '';
+
                 card.innerHTML = `
                     <div class="stamp keep">Keep</div>
                     <div class="stamp skip">Skip</div>
+                    ${imageHtml}
                     <span class="card-source">${article.source || 'Source unavailable'}</span>
                     <div class="card-title">${article.title}</div>
                     <div class="card-date">${pubDate}</div>
@@ -450,7 +518,7 @@
                 `;
 
                 if (depth === 0) {
-                    enableDrag(card, article);
+                    enableDrag(card);
                 }
 
                 stackEl.appendChild(card);
@@ -463,7 +531,7 @@
             }
         }
 
-        function enableDrag(card, article) {
+        function enableDrag(card) {
             let startX = 0;
             let startY = 0;
             let dx = 0;
@@ -473,15 +541,18 @@
             const skipStamp = card.querySelector('.stamp.skip');
 
             card.addEventListener('pointerdown', (e) => {
+                if (isAnimating) return;
                 dragging = true;
                 startX = e.clientX;
                 startY = e.clientY;
                 card.setPointerCapture(e.pointerId);
                 card.style.cursor = 'grabbing';
+                e.preventDefault();
             });
 
             card.addEventListener('pointermove', (e) => {
                 if (!dragging) return;
+                e.preventDefault();
                 dx = e.clientX - startX;
                 const dy = e.clientY - startY;
                 const rotate = dx / 12;
@@ -503,8 +574,7 @@
                 card.style.cursor = 'grab';
 
                 if (Math.abs(dx) > 100) {
-                    animateOut(card, dx > 0);
-                    decide(dx > 0);
+                    triggerDecision(dx > 0, card);
                 } else {
                     card.style.transition = 'transform 0.2s ease';
                     card.style.transform = 'translate(0, 0) rotate(0)';
@@ -524,6 +594,27 @@
             card.style.transition = 'transform 0.35s ease, opacity 0.35s ease';
             card.style.transform = `translate(${targetX}px, -30px) rotate(${wasKept ? 20 : -20}deg)`;
             card.style.opacity = '0';
+        }
+
+        function triggerDecision(wasKept, cardEl) {
+            if (isAnimating || currentIndex >= deck.length) {
+                return;
+            }
+            isAnimating = true;
+
+            const topCard = cardEl || stackEl.querySelector('.card');
+            if (topCard) {
+                topCard.style.pointerEvents = 'none';
+                animateOut(topCard, wasKept);
+            }
+
+            // Wait for the exit animation to actually finish before wiping
+            // and rebuilding the stack - doing it immediately (the old bug)
+            // destroyed the card before the browser ever painted the animation.
+            setTimeout(() => {
+                isAnimating = false;
+                decide(wasKept);
+            }, 320);
         }
 
         function decide(wasKept) {
@@ -569,7 +660,7 @@
             currentIndex = 0;
             kept = [];
 
-            const candidates = window.__allArticles.filter(withinRange);
+            const candidates = dedupeByTitle(window.__allArticles.filter((a) => withinRange(a) && isEnglish(a)));
             deck = pickDiverseSample(candidates, MAX_CARDS);
 
             if (!deck.length) {

@@ -300,6 +300,16 @@
             transform: translateY(-1px);
         }
 
+        .article-thumb {
+            width: 100%;
+            height: 110px;
+            object-fit: cover;
+            border-radius: 6px;
+            margin-bottom: 8px;
+            display: block;
+            background: var(--accent-soft);
+        }
+
         .article-title {
             font-weight: 700;
             margin-bottom: 6px;
@@ -555,6 +565,7 @@
                     : 'Date unavailable';
 
                 html += `<li class="article-item">
+                    ${article.image ? `<img class="article-thumb" src="${article.image}" alt="" loading="lazy" onerror="this.remove()">` : ''}
                     <div class="article-title">
                         <a href="${article.link}" target="_blank" rel="noopener noreferrer">${article.title}</a>
                     </div>

@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-06T06:23:39.754627+00:00",
+  "generated_at": "2026-08-06T07:43:19.391064+00:00",
   "categories": {
     "Politics & Policy": {
+      "Marine Biodiversity & Conservation": [
+        {
+          "title": "Current shark finning regulations inefficient at curbing global trade",
+          "link": "https://oceanographicmagazine.com/news/current-shark-finning-regulations-inefficient-at-curbing-global-trade/",
+          "published": "2026-08-05T14:08:09+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The new study reveals there has been no significant change in global trade flows, including export and import numbers, domestic consumption and active",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Species Migration & Habitat Change": [
         {
           "title": "Ceuta and Melilla: how the colonial legacies of these cities have shaped migration in the region",
@@ -54,6 +67,17 @@
     "Research & Science": {},
     "General News": {
       "Plastic & Ocean Pollution": [
+        {
+          "title": "Billion-pellet plastic spill blights England’s north east coast",
+          "link": "https://oceanographicmagazine.com/news/billion-pellet-plastic-spill-blights-englands-north-east-coast/",
+          "published": "2026-07-31T14:10:26+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Private shipping firms face fury from local communities and the regional mayor over a sluggish response to the UK's worst-ever microplastic spill\nThe",
+          "image": null,
+          "other_news": false
+        },
         {
           "title": "Microplastiques, molécules toxiques… Comment limiter la pollution des pneus de voiture",
           "link": "https://vert.eco/label-vert/microplastiques-molecules-toxiques-comment-limiter-la-pollution-des-pneus-de-voiture/",
@@ -134,6 +158,17 @@
           "other_news": false
         },
         {
+          "title": "Two dozen species discovered in the ocean’s least explored habitat",
+          "link": "https://oceanographicmagazine.com/news/two-dozen-species-discovered-in-the-oceans-least-explored-habitat/",
+          "published": "2026-07-31T11:18:18+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Scientists aboard the Falkor (too) have discovered more than two dozen new species in the ocean's midwater off Brazil, using advanced imaging and gene",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Scientists discover that giant octopuses were top predators of ancient oceans",
           "link": "https://news.mongabay.com/short-article/2026/08/scientists-discover-that-giant-octopuses-were-top-predators-of-ancient-oceans/",
           "published": "2026-08-04T18:36:27+00:00",
@@ -171,6 +206,17 @@
           "other_news": false
         },
         {
+          "title": "Mid-Atlantic expedition a barreleye-opening moment for scientists",
+          "link": "https://oceanographicmagazine.com/news/mid-atlantic-expedition-a-barreleye-opening-moment-for-scientists/",
+          "published": "2026-08-05T17:18:54+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Two hydrothermal vent fields have been discovered in the mid-Atlantic's Doldrums Fracture Zone - rare hybrid systems combining volcanic venting and se",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "We Know the Moon Better Than the Deep Sea",
           "link": "https://oceanconservancy.org/blog/2026/07/17/we-know-the-moon-better-than-the-deep-sea/",
           "published": "2026-07-17T16:53:56+00:00",
@@ -191,6 +237,19 @@
           "type": "news",
           "language": "en",
           "summary": "Anti-immigration critics seized on Ceuta migrant situation as evidence of the failure of soft policies, but in reality the bloc has become far more re",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Australia eyes early 2030 ocean goal with 67-million hectare MPA expansion",
+          "link": "https://oceanographicmagazine.com/news/australia-eyes-early-2030-ocean-goal-with-67-million-hectare-mpa-expansion/",
+          "published": "2026-08-03T15:25:11+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The ‘once in a decade’ review invites Australians to have their say on how these areas should be protected, Greenpeace highlights concerns over curren",
           "image": null,
           "other_news": false
         }
@@ -436,6 +495,39 @@
           "language": "fr",
           "summary": "Alors que plus de la moitié des agriculteurs de Provence-Alpes-Côte d'Azur arrivent à l'âge de la retraite et que les canicules",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/pexels-fcpoppe-3910711-5827529_1_1_-89ba5.jpg?1785252784",
+          "other_news": false
+        },
+        {
+          "title": "British Risso’s dolphins are genetically unique, study finds",
+          "link": "https://oceanographicmagazine.com/news/british-risso-s-dolphins-are-genetically-unique-study-finds/",
+          "published": "2026-08-04T09:33:18+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new genetic study has found that Risso's dolphins around the British Isles form a distinct population, isolated from those in the Azores and Mediter",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Campaigners accuse ISA of enabling destructive deep-sea industry",
+          "link": "https://oceanographicmagazine.com/news/campaigners-accuse-isa-of-enabling-destructive-deep-sea-industry/",
+          "published": "2026-08-03T15:40:54+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The ISA's 31st Assembly ended in a crisis - rewarding a company tied to unlawful mining, opening its doors to industry observers, and leaving a US sta",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "From plankton to plate: Changing UK seas are shifting food webs",
+          "link": "https://oceanographicmagazine.com/news/from-plankton-to-plate-changing-uk-seas-are-shifting-food-webs/",
+          "published": "2026-07-31T08:38:02+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new MCCIP report, drawing on over 500 studies, reveals that climate change is already reshaping UK plankton communities - threatening food web effic",
+          "image": null,
           "other_news": false
         },
         {
@@ -1312,6 +1404,28 @@
           "language": "fr",
           "summary": "La Commission européenne entend réformer le système d'échange de quotas de CO2 en assouplissant progressivement ses contraintes.",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20230120__337g9aw__v1__highres__franceenergyoilindustrytotal_resized-3063a.jpg?1785301501",
+          "other_news": true
+        },
+        {
+          "title": "Offshore wind farms hold key to sustainable seaweed at scale",
+          "link": "https://oceanographicmagazine.com/news/offshore-wind-farms-hold-key-to-sustainable-seaweed-at-scale/",
+          "published": "2026-08-04T10:27:54+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Danish researchers have shown that offshore wind farms can double as seaweed cultivation sites, producing high-quality food biomass without farmland o",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Eclipse du 12 août : une baisse temporaire de la production d’électricité solaire attendue en Europe",
+          "link": "https://www.lemonde.fr/sciences/article/2026/08/06/eclipse-du-12-aout-une-baisse-temporaire-de-la-production-d-electricite-solaire-attendue-en-europe_6739722_1650684.html",
+          "published": "2026-08-06T09:07:15+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’éclipse, qui aura lieu entre 19 h 30 et 21 h 30, masquera jusqu’à 99 % du soleil dans certaines régions françaises, et intégralement dans le nord de",
+          "image": "https://img.lemde.fr/2026/08/06/500/0/6000/3000/644/322/60/0/d69f5b9_upload-1-fvcd0oevuz4a-000-47ma6kg.jpg",
           "other_news": true
         },
         {

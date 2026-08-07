@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T07:43:19.391064+00:00",
+  "generated_at": "2026-08-07T05:28:34.035570+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -17,13 +17,26 @@
       ],
       "Species Migration & Habitat Change": [
         {
-          "title": "Ceuta and Melilla: how the colonial legacies of these cities have shaped migration in the region",
-          "link": "https://theconversation.com/ceuta-and-melilla-how-the-colonial-legacies-of-these-cities-have-shaped-migration-in-the-region-288846",
-          "published": "2026-08-05T13:17:36+00:00",
+          "title": "The Ceuta border incident shows how EU migration can be ‘weaponised’ – but overall levels are declining",
+          "link": "https://theconversation.com/the-ceuta-border-incident-shows-how-eu-migration-can-be-weaponised-but-overall-levels-are-declining-288994",
+          "published": "2026-08-06T14:18:15+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "These cities occasionally sparks intense debates on undocumented migration to Spain, and hence to the EU.",
+          "summary": "The Ceuta crossing is just one part of the wider migration story in the Mediterranean.",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Indigenous-led MPA secures critical international backing",
+          "link": "https://oceanographicmagazine.com/news/indigenous-led-mpa-secures-critical-international-backing/",
+          "published": "2026-08-06T17:05:33+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The democratically elected council of Easter Island has signed new agreements to secure funding, research, and maritime patrols for one of the world's",
           "image": null,
           "other_news": false
         }
@@ -50,34 +63,12 @@
           "summary": "As governments turn to the ocean for jobs, growth and climate solutions, campaigners at the Our Ocean Conference in Mombasa warned coastal communities",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "How trains can transform Persian Gulf politics and global security",
-          "link": "https://theconversation.com/how-trains-can-transform-persian-gulf-politics-and-global-security-288055",
-          "published": "2026-08-05T12:32:46+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Once completed, the 2,177-kilometer GCC Railway will connect six Gulf kingdoms and provide alternative routes to Europe and Asia.",
-          "image": null,
-          "other_news": false
         }
       ]
     },
     "Research & Science": {},
     "General News": {
       "Plastic & Ocean Pollution": [
-        {
-          "title": "Billion-pellet plastic spill blights England’s north east coast",
-          "link": "https://oceanographicmagazine.com/news/billion-pellet-plastic-spill-blights-englands-north-east-coast/",
-          "published": "2026-07-31T14:10:26+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Private shipping firms face fury from local communities and the regional mayor over a sluggish response to the UK's worst-ever microplastic spill\nThe",
-          "image": null,
-          "other_news": false
-        },
         {
           "title": "Microplastiques, molécules toxiques… Comment limiter la pollution des pneus de voiture",
           "link": "https://vert.eco/label-vert/microplastiques-molecules-toxiques-comment-limiter-la-pollution-des-pneus-de-voiture/",
@@ -98,17 +89,6 @@
           "language": "en",
           "summary": "What do you think about when you hear the words “microplastic pollution?” Your mind may immediately go to imagery of colorful fragmented plastics brok",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Deep-sea snails and mussels in Indian and Pacific Oceans contain microplastics, study finds",
-          "link": "https://news.mongabay.com/2026/08/deep-sea-snails-and-mussels-in-indian-and-pacific-oceans-contain-microplastics-study-finds/",
-          "published": "2026-08-03T18:38:22+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Three days away from shore, in the darkened control room of a huge ship, all eyes are fixed on a glowing wall of screens. Live images of mussels and s",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/03111510/g.-BANNER-GP0STSJH72-768x512.jpg",
           "other_news": false
         }
       ],
@@ -158,14 +138,25 @@
           "other_news": false
         },
         {
-          "title": "Two dozen species discovered in the ocean’s least explored habitat",
-          "link": "https://oceanographicmagazine.com/news/two-dozen-species-discovered-in-the-oceans-least-explored-habitat/",
-          "published": "2026-07-31T11:18:18+00:00",
-          "source": "Oceanographic",
+          "title": "From radar blobs to bird species, AI helps transform migration tracking",
+          "link": "https://news.mongabay.com/2026/08/from-radar-blobs-to-bird-species-ai-helps-transform-migration-tracking/",
+          "published": "2026-08-06T16:56:14+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Scientists aboard the Falkor (too) have discovered more than two dozen new species in the ocean's midwater off Brazil, using advanced imaging and gene",
-          "image": null,
+          "summary": "How can we identify specific bird species as they undertake their annual migrations? In the U.S., scientists have long relied on weather radar data to",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/04/20150449/geese-768x512.jpg",
+          "other_news": false
+        },
+        {
+          "title": "What happens after a whale strands on a Mumbai beach?",
+          "link": "https://news.mongabay.com/short-article/2026/08/what-happens-after-a-whale-strands-on-a-mumbai-beach/",
+          "published": "2026-08-06T09:00:38+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "On the morning of June 27, a 7.6-meter (25-foot) blue whale calf washed ashore on a busy beach in Mumbai, India’s financial capital and the capital of",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/06085634/Stranded-blue-whale-Mumbai-June-2026-768x512.jpeg",
           "other_news": false
         },
         {
@@ -177,19 +168,6 @@
           "language": "en",
           "summary": "Finned octopus species alive today are all small, deep-sea animals that mostly live in pitch-black darkness thousands of meters beneath the surface of",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/04183546/2026_066_AA_Octopus_Banner-v3-768x512.jpg",
-          "other_news": false
-        }
-      ],
-      "Nature-Based Solutions & Restoration": [
-        {
-          "title": "The world’s mangrove forests are bouncing back. That’s good news for our coasts and climate",
-          "link": "https://theconversation.com/the-worlds-mangrove-forests-are-bouncing-back-thats-good-news-for-our-coasts-and-climate-288724",
-          "published": "2026-08-06T05:35:50+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "A new study suggests the world’s mangrove forests are expanding.",
-          "image": null,
           "other_news": false
         }
       ],
@@ -224,19 +202,6 @@
           "type": "news",
           "language": "en",
           "summary": "You may have heard: Scientists have more detailed maps of the moon than of the deep seafloor. This is because our moon is airless, waterless and direc",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Species Migration & Habitat Change": [
-        {
-          "title": "After Ceuta, Europe is once again mired in migration chaos of its own making",
-          "link": "https://theconversation.com/after-ceuta-europe-is-once-again-mired-in-migration-chaos-of-its-own-making-289017",
-          "published": "2026-08-05T20:30:50+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Anti-immigration critics seized on Ceuta migrant situation as evidence of the failure of soft policies, but in reality the bloc has become far more re",
           "image": null,
           "other_news": false
         }
@@ -319,17 +284,6 @@
           "language": "en",
           "summary": "‘Sea cures’ are not new but the idea that exposure to oceans, rivers and lakes can be medicine for the brain is gaining tractionWatching the waves bre",
           "image": "https://i.guim.co.uk/img/media/a2fa3f182a315cef54aec5e7c08a4670c14e5d3b/915_0_3749_3000/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=447e5eabcea114c650477493f2d82d27",
-          "other_news": false
-        },
-        {
-          "title": "Free diver, 21, wants to 'give back' to the ocean that has helped him",
-          "link": "https://www.bbc.co.uk/news/videos/c20e942zpd0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-01T12:50:03+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Iesetyn Morgan regularly free dives and shares the footage of marine life on social media.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f981/live/bdfc6960-8cd3-11f1-a7ab-8b30adf0800a.jpg",
           "other_news": false
         },
         {
@@ -432,6 +386,17 @@
           "other_news": false
         },
         {
+          "title": "When taps run dry in the Caribbean, it’s not enough to blame El Niño",
+          "link": "https://www.climatechangenews.com/2026/08/06/as-heatwave-hits-caribbean-its-not-just-el-nino-to-blame/",
+          "published": "2026-08-06T15:36:14+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Climate change means El Niño is heating already hotter land and sea, causing devastation across the region and the world\nThe post When taps run dry in",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "“Do we have the appetite?” – Shell’s fear of Niger Delta clean-up costs revealed",
           "link": "https://www.climatechangenews.com/2026/07/29/do-we-have-the-appetite-shells-fear-of-niger-delta-clean-up-costs-revealed/",
           "published": "2026-07-29T17:37:33+00:00",
@@ -487,14 +452,14 @@
           "other_news": false
         },
         {
-          "title": "Transmission des fermes : la région Paca coupe 100 000 euros de subvention",
-          "link": "https://reporterre.net/Transmission-des-fermes-la-region-Paca-coupe-100-000-euros-de-subvention",
-          "published": "2026-07-28T15:33:03+00:00",
-          "source": "Reporterre",
+          "title": "AI analysis reveals dramatic rise in global ocean algae blooms",
+          "link": "https://oceanographicmagazine.com/news/ai-analysis-reveals-dramatic-rise-in-global-ocean-algae-blooms/",
+          "published": "2026-08-06T16:56:14+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "language": "fr",
-          "summary": "Alors que plus de la moitié des agriculteurs de Provence-Alpes-Côte d'Azur arrivent à l'âge de la retraite et que les canicules",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/pexels-fcpoppe-3910711-5827529_1_1_-89ba5.jpg?1785252784",
+          "language": "en",
+          "summary": "The expansion of algal blooms worldwide benefits marine life in the open ocean, but closer to shore it's anticipated to harm local ecosystems and coas",
+          "image": null,
           "other_news": false
         },
         {
@@ -520,35 +485,24 @@
           "other_news": false
         },
         {
-          "title": "From plankton to plate: Changing UK seas are shifting food webs",
-          "link": "https://oceanographicmagazine.com/news/from-plankton-to-plate-changing-uk-seas-are-shifting-food-webs/",
-          "published": "2026-07-31T08:38:02+00:00",
-          "source": "Oceanographic",
+          "title": "«On voit disparaître des espèces» : en Guadeloupe, la célèbre réserve Cousteau peine à enrayer l’effondrement de sa biodiversité",
+          "link": "https://vert.eco/biodiversite/on-voit-disparaitre-des-especes-en-guadeloupe-la-celebre-reserve-cousteau-peine-a-enrayer-leffondrement-de-sa-biodiversite/",
+          "published": "2026-08-07T04:00:00+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
-          "language": "en",
-          "summary": "A new MCCIP report, drawing on over 500 studies, reveals that climate change is already reshaping UK plankton communities - threatening food web effic",
+          "language": "fr",
+          "summary": "La réserve Cousteau, en Guadeloupe, est depuis des décennies l’un des spots de plongée les plus populaires de France. Sa biodiversité sous-marine rend",
           "image": null,
           "other_news": false
         },
         {
-          "title": "L’Islande ordonne l’expulsion de 21 militants engagés contre la chasse à la baleine avec la fondation de Paul Watson",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/05/l-islande-ordonne-l-expulsion-de-21-militants-engages-contre-la-chasse-a-la-baleine-avec-la-fondation-de-paul-watson_6739414_3244.html",
-          "published": "2026-08-05T12:13:13+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les militants, qui se trouvaient à bord du « Bandero », arraisonné la semaine dernière après avoir tenté d’entraver un navire baleinier, se sont vu no",
-          "image": "https://img.lemde.fr/2026/08/01/640/0/5120/2560/644/322/60/0/5963567_ftp-1-f6yadzbjiw4y-5755203-01-06.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Europe’s stone age hunters made sea voyages to Malta – thousands of years before evidence of sails",
-          "link": "https://theconversation.com/europes-stone-age-hunters-made-sea-voyages-to-malta-thousands-of-years-before-evidence-of-sails-288969",
-          "published": "2026-08-05T12:41:35+00:00",
+          "title": "Australia has pledged to restore nature. But could we ever bring back lost ecosystems?",
+          "link": "https://theconversation.com/australia-has-pledged-to-restore-nature-but-could-we-ever-bring-back-lost-ecosystems-286141",
+          "published": "2026-08-06T20:08:46+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "People reached the Mediterranean island at least 8,500 years ago.",
+          "summary": "From oyster reefs to bandicoot grasslands, many Australian ecosystems no longer exist. Restoring nature is a good goal – but we cannot return to the p",
           "image": null,
           "other_news": false
         },
@@ -572,6 +526,17 @@
           "language": "en",
           "summary": "If you asked most people in America which states depend on the ocean, Kansas would probably not top the list. No beaches. No ports. No salt air. But t",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "On a Philippine beach, villagers are stepping up to save sea turtle nests",
+          "link": "https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/",
+          "published": "2026-08-06T09:20:11+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Beaches in San Vicente municipality in the Philippines’ Palawan province are crucial nesting grounds for olive ridley sea turtles. But the turtles and",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/06091859/patrol-e1786007984713-768x512.jpg",
           "other_news": false
         },
         {
@@ -606,17 +571,6 @@
           "summary": "MINAMISOMA, Japan — Kazuo Monma stepped out onto the small stage and looked at the large crowd with a sense of relief. The weather report had called f",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/07/31170238/tsunami-forests-7-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Four Pacific nations are planning one of the world’s largest ocean corridors",
-          "link": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
-          "published": "2026-08-04T02:58:50+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Founder&#8217;s Briefs: An occasional series where Mongabay founder Rhett Ayers Butler shares analysis, perspectives and story summaries. Four Melanes",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/07/17153111/NS122697065_PNGExpedition-UW-240920_Whitetip-reef-shark_ByOllieVelasco1-768x512.jpg",
-          "other_news": false
         }
       ]
     },
@@ -633,19 +587,6 @@
           "image": "https://i.guim.co.uk/img/media/cda8201e4304052090ff65585493ce8a50ea600e/332_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=7b85ab826ea895cfec04cbd3cebe06c7",
           "other_news": false
         }
-      ],
-      "Other Marine News": [
-        {
-          "title": "Documentary captures impacts of diamond mining along South Africa’s West Coast",
-          "link": "https://news.mongabay.com/2026/08/documentary-captures-impacts-of-diamond-mining-along-south-africas-west-coast/",
-          "published": "2026-08-03T15:27:00+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Stretching 450 kilometers (280 miles) from Cape Columbine, two hours north of Cape Town, to the Orange River which marks the country’s natural border",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/03110215/Photo-1-John-Yeld-Screenshot-2025-03-28-at-22.17.18-768x512.png",
-          "other_news": false
-        }
       ]
     },
     "Other News": {
@@ -658,17 +599,6 @@
           "type": "news",
           "language": "en",
           "summary": "Our whole system is built to reward recyclability. But what actually matters is how much we’re manufacturing in the first place.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "How ‘super’ enzymes can transform recycling",
-          "link": "https://theconversation.com/how-super-enzymes-can-transform-recycling-285732",
-          "published": "2026-07-22T09:50:40+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Enzyme proteins can be bred and trained to  digest plastics rather than their natural substrates.",
           "image": null,
           "other_news": true
         },
@@ -692,6 +622,28 @@
           "language": "en",
           "summary": "This summer has seen Europe suffer through a series of record-breaking heatwaves. Amid widespread media coverage of the number of&#8230;\nThe post Fact",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Flora Tristan, la révolutionnaire qui dénonçait déjà la pollution industrielle au XIXe siècle",
+          "link": "https://reporterre.net/Flora-Tristan-la-revolutionnaire-qui-denoncait-deja-la-pollution-industrielle-au-XIXe",
+          "published": "2026-08-06T12:30:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "[Ces précurseuses écolos et féministes 4/5] Critique du progrès industriel et pionnière du socialisme, Flora Tristan aura passé",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/flora_tristan-affc3.jpg?1786019401",
+          "other_news": true
+        },
+        {
+          "title": "Pollutions de l’eau : les inspections générales mandatées par le gouvernement s’accordent sur la gravité de la situation, mais divergent sur les réponses à apporter",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/06/pollutions-de-l-eau-les-inspections-generales-mandatees-par-le-gouvernement-s-accordent-sur-la-gravite-de-la-situation-mais-divergent-sur-les-reponses-a-apporter_6739977_3244.html",
+          "published": "2026-08-06T18:30:14+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Deux rapports distincts sur le financement de la décontamination de l’eau potable et la protection de la ressource ont été remis au gouvernement, en m",
+          "image": "https://img.lemde.fr/2026/07/28/416/0/5000/2500/644/322/60/0/3b75dc7_upload-1-i3wgoo2xnaam-eau-creuse-valerieteppe-hanslucas-44.jpg",
           "other_news": true
         },
         {
@@ -739,35 +691,66 @@
           "summary": "Global efforts to ensure AI does more good than harm must consider how it could fuel exploitation of biodiversity and ecosystems, conservationists say",
           "image": null,
           "other_news": true
-        }
-      ],
-      "Nature-Based Solutions & Restoration": [
+        },
         {
-          "title": "Most Americans support conservation – here’s how the Great Lakes Restoration Initiative got politicians from both parties on board too",
-          "link": "https://theconversation.com/most-americans-support-conservation-heres-how-the-great-lakes-restoration-initiative-got-politicians-from-both-parties-on-board-too-284887",
-          "published": "2026-07-20T12:25:27+00:00",
-          "source": "The Conversation US",
+          "title": "I feel deep sadness about bird flu and environmental loss. Is this normal?",
+          "link": "https://theconversation.com/i-feel-deep-sadness-about-bird-flu-and-environmental-loss-is-this-normal-289145",
+          "published": "2026-08-07T04:32:07+00:00",
+          "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "An analysis of one major effort shows how to get Democrats and Republicans to agree to spend billions of dollars on a decades-long environmental resto",
+          "summary": "Grief is an understandable response to witnessing harm to places and species that matter to us.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Protecting primates could protect thousands of other species, study finds",
+          "link": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "published": "2026-08-07T04:54:48+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "As biodiversity on Earth faces rapid decline, scientists are advocating for a new conservation approach: Save habitat for primates and protect countle",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/07044902/a.-banner-52396346838_bf4292ddd3_o-768x512.jpeg",
           "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
         {
-          "title": "Disabled people face greater climate change risks – and they can also help NZ adapt",
-          "link": "https://theconversation.com/disabled-people-face-greater-climate-change-risks-and-they-can-also-help-nz-adapt-289141",
-          "published": "2026-08-05T18:49:08+00:00",
+          "title": "Coalition leadership is hard. Luxon’s ‘nuclear option’ of electoral reform is not the answer",
+          "link": "https://theconversation.com/coalition-leadership-is-hard-luxons-nuclear-option-of-electoral-reform-is-not-the-answer-289223",
+          "published": "2026-08-07T00:27:42+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "New research shows disabled people remain overlooked in climate policy, despite lived experience that could help build more resilient communities.",
+          "summary": "The history of electoral reform in NZ is full of policy surprises. But the prime minister’s latest announcement still makes little political sense.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "What happens to elephants that stray from Kruger Park? South African policy needs a rewrite",
+          "link": "https://theconversation.com/what-happens-to-elephants-that-stray-from-kruger-park-south-african-policy-needs-a-rewrite-288099",
+          "published": "2026-08-06T12:51:12+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "When elephants leave Kruger National Park, they are sometimes killed and their meat is shared with nearby communities. This policy may have unintended",
           "image": null,
           "other_news": true
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
+          "link": "https://www.bbc.co.uk/news/videos/c89n8940vq8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-06T21:49:48+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a7/live/ae7b8b30-91e0-11f1-9bc8-c9e5b4077192.jpg",
+          "other_news": true
+        },
         {
           "title": "Where in the West Country to see the biggest solar eclipse since 1999",
           "link": "https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss",
@@ -897,17 +880,6 @@
           "type": "news",
           "language": "fr",
           "summary": "L’impact climatique du tourisme est largement imputable aux transports, en particulier aux véhicules individuels.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Interdiction des PFAS en France et en Europe : ce qui change en 2026",
-          "link": "https://theconversation.com/interdiction-des-pfas-en-france-et-en-europe-ce-qui-change-en-2026-285872",
-          "published": "2026-07-11T09:04:04+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "La France a interdit, début&nbsp;2026, une liste de produits contenant des PFAS, anticipant une probable évolution de la réglementation européenne, qu",
           "image": null,
           "other_news": true
         },
@@ -1121,6 +1093,17 @@
           "other_news": true
         },
         {
+          "title": "Q&A: What is in China’s new five-year plan for climate change?",
+          "link": "https://www.carbonbrief.org/qa-what-is-in-chinas-new-five-year-plan-for-climate-change",
+          "published": "2026-08-06T14:48:40+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "China has released a five-year plan dedicated to addressing climate change.&#160; The 15th five-year plan for a national response to&#8230;\nThe post Q",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Factcheck: How nuclear, gas, wind and solar power are affected during heatwaves",
           "link": "https://www.carbonbrief.org/factcheck-how-nuclear-gas-wind-and-solar-power-are-affected-during-heatwaves",
           "published": "2026-08-04T15:39:06+00:00",
@@ -1198,13 +1181,13 @@
           "other_news": true
         },
         {
-          "title": "State of the climate: Rapidly developing El Niño raises chance of record-warm 2026",
-          "link": "https://www.carbonbrief.org/state-of-the-climate-rapidly-developing-el-nino-raises-chance-of-record-warm-2026",
-          "published": "2026-07-24T10:59:37+00:00",
-          "source": "Carbonbrief",
+          "title": "Quarter of countries still missing UN climate plans 18 months after deadline",
+          "link": "https://www.climatechangenews.com/2026/08/06/quarter-of-countries-still-missing-un-climate-plans-18-months-after-deadline/",
+          "published": "2026-08-06T11:05:57+00:00",
+          "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "As 2026 passes its halfway point, the world is watching one of the most rapidly intensifying El Niño events in&#8230;\nThe post State of the climate: R",
+          "summary": "Egypt, Vietnam, Argentina and the Philippines are among the 45 nations which have breached the Paris Agreement by not submitting their climate plan to",
           "image": null,
           "other_news": true
         },
@@ -1396,14 +1379,14 @@
           "other_news": true
         },
         {
-          "title": "Réforme du marché carbone européen : encore du temps de gagné pour polluer",
-          "link": "https://reporterre.net/Reforme-du-marche-carbone-europeen-encore-du-temps-de-gagne-pour-polluer",
-          "published": "2026-07-29T05:05:00+00:00",
-          "source": "Reporterre",
+          "title": "El Niño threatens acute hunger for 50 million people, UN warns",
+          "link": "https://oceanographicmagazine.com/news/el-nino-threatens-acute-hunger-for-50-million-people-un-warns/",
+          "published": "2026-08-06T17:22:39+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "language": "fr",
-          "summary": "La Commission européenne entend réformer le système d'échange de quotas de CO2 en assouplissant progressivement ses contraintes.",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20230120__337g9aw__v1__highres__franceenergyoilindustrytotal_resized-3063a.jpg?1785301501",
+          "language": "en",
+          "summary": "A surging climate anomaly combined with skyrocketing energy and fertiliser prices linked to Middle East conflict risks pushing millions into a food cr",
+          "image": null,
           "other_news": true
         },
         {
@@ -1415,6 +1398,28 @@
           "language": "en",
           "summary": "Danish researchers have shown that offshore wind farms can double as seaweed cultivation sites, producing high-quality food biomass without farmland o",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Canicule : l’arrêt forcé de centrales à travers l’Europe met le réseau électrique sous tension",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/06/canicule-l-arret-force-de-centrales-a-travers-l-europe-met-le-reseau-electrique-sous-tension_6740047_3234.html",
+          "published": "2026-08-06T20:00:04+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Six pays de l’Union européenne ont dû mettre à l’arrêt certaines de leurs centrales électriques en raison d’une baisse du niveau des cours d’eau et d’",
+          "image": "https://img.lemde.fr/2026/08/06/1318/0/8256/4128/644/322/60/0/781bf26_upload-1-m9uudyrjf2gz-000-c3uw3g3.jpg",
+          "other_news": true
+        },
+        {
+          "title": "La Fresque du climat placée en procédure de sauvegarde",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/06/la-fresque-du-climat-placee-en-procedure-de-sauvegarde_6739951_3234.html",
+          "published": "2026-08-06T15:45:04+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La situation financière de l’association qui développe des ateliers de sensibilisation aux enjeux climatiques s’est fortement dégradée ces derniers mo",
+          "image": "https://img.lemde.fr/2026/08/06/84/0/4999/2499/644/322/60/0/076f991_upload-1-ue4lhyds3bg0-maxnewsspecialtwo637366.jpg",
           "other_news": true
         },
         {
@@ -1451,9 +1456,9 @@
           "other_news": true
         },
         {
-          "title": "Restaurer des tourbières pour freiner les chars russes : la Finlande se convertit au « réensauvagement défensif »",
+          "title": "La Finlande se convertit au « réensauvagement défensif » en restaurant des tourbières pour freiner les chars russes",
           "link": "https://www.lemonde.fr/international/article/2026/08/06/restaurer-des-tourbieres-pour-freiner-les-chars-russes-la-finlande-se-convertit-au-reensauvagement-defensif_6739570_3210.html",
-          "published": "2026-08-06T05:00:09+02:00",
+          "published": "2026-08-06T05:00:01+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1462,14 +1467,14 @@
           "other_news": true
         },
         {
-          "title": "« Les forêts ne brûlent pas à cause des écologistes, et encore moins à cause de la biodiversité »",
-          "link": "https://www.lemonde.fr/idees/article/2026/08/05/les-forets-ne-brulent-pas-a-cause-des-ecologistes-et-encore-moins-a-cause-de-la-biodiversite_6739420_3232.html",
-          "published": "2026-08-05T14:00:03+02:00",
-          "source": "Le Monde Planète",
+          "title": "«Si c’est pour qu’il naisse sur une planète en guerre et en feu, ce n’est pas la peine» : elles voulaient un enfant, mais leur vie a basculé cet été",
+          "link": "https://vert.eco/serie/si-cest-pour-quil-naisse-sur-une-planete-en-guerre-et-en-feu-ce-nest-pas-la-peine-elles-voulaient-un-enfant-mais-leur-vie-a-bascule-cet-ete/",
+          "published": "2026-08-06T10:04:49+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Le morcellement foncier de la forêt française et l’imprudence humaine sont les deux causes principales des feux, rappelle, dans une tribune au « Monde",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/0d46916_upload-1-slnbljri1xqm-frame-790.jpg",
+          "summary": "«2026, l’été de la bascule» (1/4). Elles et ils voulaient devenir parents ou avoir un nouvel enfant. Mais cet été infernal, annonciateur du climat qui",
+          "image": null,
           "other_news": true
         },
         {
@@ -1495,14 +1500,80 @@
           "other_news": true
         },
         {
-          "title": "Giant ice mountains on the other side of Earth once dictated Australia’s climate – new study",
-          "link": "https://theconversation.com/giant-ice-mountains-on-the-other-side-of-earth-once-dictated-australias-climate-new-study-287949",
-          "published": "2026-08-06T00:16:25+00:00",
+          "title": "You might be buying the wrong home battery. Here’s how to tell",
+          "link": "https://theconversation.com/you-might-be-buying-the-wrong-home-battery-heres-how-to-tell-288935",
+          "published": "2026-08-07T03:25:16+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Mountains of ice far away in the northern hemisphere surely couldn’t change rainfall in Australia – or could they?",
+          "summary": "Four experts explain why the design of your home matters more than the size of your home battery.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Zed Beats: how home studios reinvented Zambian pop music and gave young people a voice",
+          "link": "https://theconversation.com/zed-beats-how-home-studios-reinvented-zambian-pop-music-and-gave-young-people-a-voice-288438",
+          "published": "2026-08-06T14:35:30+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Zed Beats artists aren’t known for political songs, but they’ve become so popular that they’re used to mobilise voters during elections.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Solar eclipses are a source of fascination, legends and scientific discovery",
+          "link": "https://theconversation.com/solar-eclipses-are-a-source-of-fascination-legends-and-scientific-discovery-289008",
+          "published": "2026-08-06T13:07:07+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "What’s the most impressive natural phenomenon known to humankind? Probably a solar eclipse! Here’s a brief overview ahead of this summer’s big celesti",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Taxi drivers rarely die of Alzheimer’s – how complex mental maps and spatial reasoning protect your brain",
+          "link": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+          "published": "2026-08-06T12:35:37+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Working with and living in spatially complex environments may help delay cognitive decline, though more research is needed.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "What is emotional regulation? A child psychologist explains",
+          "link": "https://theconversation.com/what-is-emotional-regulation-a-child-psychologist-explains-280443",
+          "published": "2026-08-06T12:35:13+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The aim isn’t to get rid of difficult feelings, but to find ways of managing them effectively.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "On the front lines of conservation in Sumatra: Rangers safeguard Batutegi forest",
+          "link": "https://news.mongabay.com/2026/08/on-the-front-lines-of-conservation-in-sumatra-rangers-safeguard-batutegi-forest/",
+          "published": "2026-08-07T02:21:21+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "TANGGAMUS, Indonesia — For more than a decade and a half, forest ranger Wandi Harmoko has walked the ridges and valleys of Batutegi, a landscape in so",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/07021006/IMG_5641-copy-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Some free-roaming cats in New York City are parasite “super-shedders,” study shows",
+          "link": "https://news.mongabay.com/2026/08/some-free-roaming-cats-in-new-york-city-are-parasite-super-shedders-study-shows/",
+          "published": "2026-08-06T16:33:29+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "If you’ve ever strolled through New York City and felt like there were a lot of cats strutting the streets, you weren’t wrong. No one knows exactly ho",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/05030557/1-Neighborhood-Cats-768x512.jpg",
           "other_news": true
         },
         {
@@ -1547,39 +1618,6 @@
           "language": "en",
           "summary": "Following protests at a public meeting about a proposed nuclear power plant in Kenya, one person was shot and several residents were arrested. The Ken",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/10/07110644/52588707019_b1a83cb7a2_k-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "New ‘conservation deed’ aims to protect tree kangaroos, forests, people in Papua New Guinea",
-          "link": "https://news.mongabay.com/2026/08/new-conservation-deed-aims-to-protect-tree-kangaroos-forests-people-in-papua-new-guinea/",
-          "published": "2026-08-04T03:56:42+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "It happened with a few strokes of a pen on a hilltop in northwestern Papua New Guinea on June 30: The leaders of the Tenkile Conservation Alliance (TC",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/03125116/weimang-tree-kangaroo-Dendrolagus-pulcherrimus-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Carbon markets alone won’t keep Southeast Asia’s forests standing, study says",
-          "link": "https://news.mongabay.com/2026/08/carbon-markets-alone-wont-keep-southeast-asias-forests-standing-study-says/",
-          "published": "2026-08-04T02:00:36+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Lush, leafy and luxuriantly diverse, tropical forests are home to an immense array of plants, animals and fungi. They also provide humanity with water",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/02095503/Banner_Pied-hornbill_RAB-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "How rescued orangutans are rebuilding a new wild population in Sumatra",
-          "link": "https://news.mongabay.com/video/2026/08/how-rescued-orangutans-are-rebuilding-a-new-wild-population-in-sumatra/",
-          "published": "2026-08-03T10:09:20+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Sumatra — Fifteen years ago, Jantho Pine Forest Nature Reserve in Indonesia&#8217;s western Aceh province, on the island of Sumatra, had no orangutans",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/07/31150748/INFS2574-copy-768x512.jpg",
           "other_news": true
         }
       ]

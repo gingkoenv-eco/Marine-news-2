@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T06:11:06.817847+00:00",
+  "generated_at": "2026-08-08T04:48:09.876419+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -52,17 +52,6 @@
           "summary": "At annual talks in Kingston, the International Seabed Authority (ISA) launched legal processes to challenge a unilateral US push for deep-sea mining\nT",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "As blue economy gathers pace, communities must benefit from ocean boom, activists say",
-          "link": "https://www.climatechangenews.com/2026/07/08/blue-economy-coastal-communities-mombasa-ocean-finance/",
-          "published": "2026-07-08T14:58:57+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "As governments turn to the ocean for jobs, growth and climate solutions, campaigners at the Our Ocean Conference in Mombasa warned coastal communities",
-          "image": null,
-          "other_news": false
         }
       ]
     },
@@ -105,17 +94,6 @@
           "other_news": false
         },
         {
-          "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
-          "link": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
-          "published": "2026-07-08T11:13:33+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Experts warn that some marine species are at risk of ‘mass mortality events’ in ever-warming oceansUK waters are being hit with an “extreme” marine he",
-          "image": "https://i.guim.co.uk/img/media/03e45e8d59d2e7b985f7d2c51adc764f628b1ef7/86_0_4681_3744/master/4681.jpg?width=140&quality=85&auto=format&fit=max&s=cfb318705f27a6d16dbfb9f9536b6f7c",
-          "other_news": false
-        },
-        {
           "title": "Scuba divers underestimate how much damage they do to coral reefs – we’ve watched hundreds to find out why",
           "link": "https://theconversation.com/scuba-divers-underestimate-how-much-damage-they-do-to-coral-reefs-weve-watched-hundreds-to-find-out-why-287266",
           "published": "2026-07-23T11:44:41+00:00",
@@ -135,6 +113,28 @@
           "language": "en",
           "summary": "A new global assessment of the world’s migratory species finds reason for alarm, but also hope – and a road map for helping them survive.",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Tagging study reveals new insights into iconic humpback song",
+          "link": "https://oceanographicmagazine.com/news/humpback-whales-sing-most-complex-songs-at-deepest-points-of-dives/",
+          "published": "2026-08-07T15:18:56+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The study maps humpback whale songs to complete dive cycles for the first time, revealing how physical strain shapes vocal displays and opening new pa",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "As Canada’s captive belugas arrive in the US, questions linger about their future",
+          "link": "https://news.mongabay.com/2026/08/as-canadas-captive-belugas-arrive-in-the-us-questions-linger-about-their-future/",
+          "published": "2026-08-07T16:16:11+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Thirteen beluga whales, part of a pod of about 30 that were left languishing in a shuttered Canadian theme park, arrived in the U.S. The first transfe",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/07145954/%C2%A9Shedd-Aquarium-Brenna-Hernandez_Beluga-Rescue_1400_-768x512.jpg",
           "other_news": false
         },
         {
@@ -168,6 +168,32 @@
           "language": "en",
           "summary": "Finned octopus species alive today are all small, deep-sea animals that mostly live in pitch-black darkness thousands of meters beneath the surface of",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/04183546/2026_066_AA_Octopus_Banner-v3-768x512.jpg",
+          "other_news": false
+        }
+      ],
+      "Sustainable Fisheries": [
+        {
+          "title": "Decades after bottom trawling, Chilean seamounts remain degraded",
+          "link": "https://news.mongabay.com/2026/08/decades-after-bottom-trawling-chilean-seamounts-remain-degraded/",
+          "published": "2026-08-07T17:07:06+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The scars of bottom trawling are still visible on seamounts in Chile&#8217;s Juan Fernández Archipelago, even 25 years after the fishing practice took",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/07142747/e.-BANNER-%C2%A9-Marcelo-Andres-Rojas-Gonzalez-original-768x512.jpg",
+          "other_news": false
+        }
+      ],
+      "Nature-Based Solutions & Restoration": [
+        {
+          "title": "Resilient seagrass offers new hope for restoring degraded estuaries",
+          "link": "https://oceanographicmagazine.com/news/resilient-seagrass-offers-new-hope-for-restoring-damaged-ecosystems/",
+          "published": "2026-08-07T12:02:32+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Known for surviving fluctuating water and salt levels in man-made ponds, the hardy seagrass could jump-start the recovery of ecologically-depleted est",
+          "image": null,
           "other_news": false
         }
       ],
@@ -206,15 +232,15 @@
           "other_news": false
         }
       ],
-      "Marine Protected Areas & Policy": [
+      "Species Migration & Habitat Change": [
         {
-          "title": "Australia eyes early 2030 ocean goal with 67-million hectare MPA expansion",
-          "link": "https://oceanographicmagazine.com/news/australia-eyes-early-2030-ocean-goal-with-67-million-hectare-mpa-expansion/",
-          "published": "2026-08-03T15:25:11+00:00",
-          "source": "Oceanographic",
+          "title": "Dash for Ceuta adds heat to Europe’s migration debate",
+          "link": "https://theconversation.com/dash-for-ceuta-adds-heat-to-europes-migration-debate-289246",
+          "published": "2026-08-07T07:40:19+00:00",
+          "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "The ‘once in a decade’ review invites Australians to have their say on how these areas should be protected, Greenpeace highlights concerns over curren",
+          "summary": "The surge in irregular crossings at Ceuta has been seized on by the far right to criticise Spain’s liberal immigration policies.",
           "image": null,
           "other_news": false
         }
@@ -273,17 +299,6 @@
           "language": "en",
           "summary": "As the rights of nature are increasingly being recognised, the Scottish Association for Marine Science is the latest organisation to make the ocean a",
           "image": "https://i.guim.co.uk/img/media/fb2a8adb434c832228ebe75e47b983e6d85c14f3/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6c3b74b908b8ec7873bebbbf77fa0e7a",
-          "other_news": false
-        },
-        {
-          "title": "The rise of blue-space therapy: how the sea is helping people deal with trauma, anxiety and addiction",
-          "link": "https://www.theguardian.com/environment/2026/jul/08/blue-space-therapy-sea-helping-trauma-anxiety-addiction",
-          "published": "2026-07-08T09:00:25+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "‘Sea cures’ are not new but the idea that exposure to oceans, rivers and lakes can be medicine for the brain is gaining tractionWatching the waves bre",
-          "image": "https://i.guim.co.uk/img/media/a2fa3f182a315cef54aec5e7c08a4670c14e5d3b/915_0_3749_3000/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=447e5eabcea114c650477493f2d82d27",
           "other_news": false
         },
         {
@@ -474,14 +489,14 @@
           "other_news": false
         },
         {
-          "title": "Campaigners accuse ISA of enabling destructive deep-sea industry",
-          "link": "https://oceanographicmagazine.com/news/campaigners-accuse-isa-of-enabling-destructive-deep-sea-industry/",
-          "published": "2026-08-03T15:40:54+00:00",
-          "source": "Oceanographic",
+          "title": "Le dauphin-soldat, un auxiliaire de l’armée objet de nombreux fantasmes",
+          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/08/le-dauphin-soldat-un-auxiliaire-de-l-armee-objet-de-nombreux-fantasmes_6740641_3451060.html",
+          "published": "2026-08-08T04:30:14+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
-          "language": "en",
-          "summary": "The ISA's 31st Assembly ended in a crisis - rewarding a company tied to unlawful mining, opening its doors to industry observers, and leaving a US sta",
-          "image": null,
+          "language": "fr",
+          "summary": "« Animaux-soldats » (6/6). Dès les années 1960, l’armée américaine utilise les cétacés comme détecteurs de mines pour sécuriser l’espace maritime. Les",
+          "image": "https://img.lemde.fr/2026/07/30/0/0/1659/829/644/322/60/0/cb85d69_upload-1-cot6uhydixjc-dbd088.jpg",
           "other_news": false
         },
         {
@@ -548,28 +563,6 @@
           "language": "en",
           "summary": "JAKARTA — Raja Ampat, one of the world&#8217;s most biodiverse marine regions, remains under pressure from Indonesia&#8217;s expanding nickel industry",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/04142911/GP0SU7TV6-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Australia confirms first mass bird flu mortality in wildlife",
-          "link": "https://news.mongabay.com/short-article/2026/08/australia-confirms-first-mass-bird-flu-mortality-in-wildlife/",
-          "published": "2026-08-04T10:11:26+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Australia has confirmed the country’s first mass mortality of native seabirds from the deadly strain of avian influenza, H5N1. On Aug. 1, authorities",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/04101011/great-crested-tern-e1785838256963-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "In coastal Japan, one project is planting forests to stand against tsunamis",
-          "link": "https://news.mongabay.com/2026/08/in-coastal-japan-one-project-is-planting-forests-to-stand-against-tsunamis/",
-          "published": "2026-08-04T06:23:38+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "MINAMISOMA, Japan — Kazuo Monma stepped out onto the small stage and looked at the large crowd with a sense of relief. The weather report had called f",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/07/31170238/tsunami-forests-7-768x512.jpg",
           "other_news": false
         }
       ]
@@ -638,7 +631,7 @@
         {
           "title": "Pollutions de l’eau : les inspections générales mandatées par le gouvernement s’accordent sur la gravité de la situation, mais divergent sur les réponses à apporter",
           "link": "https://www.lemonde.fr/planete/article/2026/08/06/pollutions-de-l-eau-les-inspections-generales-mandatees-par-le-gouvernement-s-accordent-sur-la-gravite-de-la-situation-mais-divergent-sur-les-reponses-a-apporter_6739977_3244.html",
-          "published": "2026-08-06T18:30:14+02:00",
+          "published": "2026-08-06T18:30:07+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -682,17 +675,6 @@
           "other_news": true
         },
         {
-          "title": "AI governance debate silent on risks to nature, campaigners warn",
-          "link": "https://www.climatechangenews.com/2026/07/08/ai-governance-debate-silent-on-risks-to-nature-campaigners-warn/",
-          "published": "2026-07-08T14:13:42+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Global efforts to ensure AI does more good than harm must consider how it could fuel exploitation of biodiversity and ecosystems, conservationists say",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "I feel deep sadness about bird flu and environmental loss. Is this normal?",
           "link": "https://theconversation.com/i-feel-deep-sadness-about-bird-flu-and-environmental-loss-is-this-normal-289145",
           "published": "2026-08-07T04:32:07+00:00",
@@ -701,6 +683,17 @@
           "language": "en",
           "summary": "Grief is an understandable response to witnessing harm to places and species that matter to us.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Sacred places & living lands: How Indigenous Sámi peoples steward biodiversity (analysis)",
+          "link": "https://news.mongabay.com/2026/08/sacred-places-living-lands-how-indigenous-sami-peoples-steward-biodiversity-analysis/",
+          "published": "2026-08-07T17:00:58+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Modern conservation is often traced to the establishment of Yellowstone National Park in the U.S. in 1872. In Sweden, a similar milestone came with th",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/02/20210251/42563317632_160197344f_k-768x512.jpg",
           "other_news": true
         },
         {
@@ -726,20 +719,20 @@
           "summary": "The history of electoral reform in NZ is full of policy surprises. But the prime minister’s latest announcement still makes little political sense.",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "What happens to elephants that stray from Kruger Park? South African policy needs a rewrite",
-          "link": "https://theconversation.com/what-happens-to-elephants-that-stray-from-kruger-park-south-african-policy-needs-a-rewrite-288099",
-          "published": "2026-08-06T12:51:12+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "When elephants leave Kruger National Park, they are sometimes killed and their meat is shared with nearby communities. This policy may have unintended",
-          "image": null,
-          "other_news": true
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+          "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-07T13:32:41+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg",
+          "other_news": true
+        },
         {
           "title": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
           "link": "https://www.bbc.co.uk/news/videos/c89n8940vq8o?at_medium=RSS&at_campaign=rss",
@@ -752,28 +745,6 @@
           "other_news": true
         },
         {
-          "title": "Where in the West Country to see the biggest solar eclipse since 1999",
-          "link": "https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-04T12:19:55+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The UK's biggest solar eclipse since 1999 arrives on 12 August. Here's where to see it safely in the West Country.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0040/live/ba1ceac0-8b5e-11f1-b422-3b36120ef864.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Farm to become 'beacon of hope' nature reserve",
-          "link": "https://www.bbc.co.uk/news/articles/cpd76vep8yqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-05T12:12:27+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Avon Wildlife Trust says it will transform the 44-acre farm into a haven for birds, bats and newts.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e48f/live/389143f0-201d-11f0-93d4-c157523ad7ce.jpg",
-          "other_news": true
-        },
-        {
           "title": "BBC Inside Science",
           "link": "https://www.bbc.co.uk/sounds/play/w3ct977w?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-16T20:00:00+00:00",
@@ -782,6 +753,17 @@
           "language": "en",
           "summary": "What’s the point of having a treaty banning nukes in space if we can’t spot them?",
           "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Dans les forêts des Landes, le stockage de CO₂ atteint ses limites, et ce n’est pas seulement dû aux incendies",
+          "link": "https://theconversation.com/dans-les-forets-des-landes-le-stockage-de-co-atteint-ses-limites-et-ce-nest-pas-seulement-du-aux-incendies-289163",
+          "published": "2026-08-07T08:38:40+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le pouvoir de séquestration de carbone de la forêt landaise est mis à mal depuis le début des années&nbsp;2000.",
+          "image": null,
           "other_news": true
         },
         {
@@ -1181,6 +1163,17 @@
           "other_news": true
         },
         {
+          "title": "As fires burn and temperatures soar, it’s time to imagine a world beyond GDP",
+          "link": "https://www.climatechangenews.com/2026/08/07/as-fires-burn-and-temperatures-soar-its-time-to-imagine-a-world-beyond-gdp/",
+          "published": "2026-08-07T12:57:20+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Environmental destruction, like clear-cutting a forest, can boost gross domestic product but it reduces a country's real wealth\nThe post As fires burn",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Quarter of countries still missing UN climate plans 18 months after deadline",
           "link": "https://www.climatechangenews.com/2026/08/06/quarter-of-countries-still-missing-un-climate-plans-18-months-after-deadline/",
           "published": "2026-08-06T11:05:57+00:00",
@@ -1401,6 +1394,50 @@
           "other_news": true
         },
         {
+          "title": "Comment notre lente accommodation à une biodiversité dégradée nous fait glisser vers l’amnésie environnementale",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/08/comment-notre-lente-accommodation-a-une-biodiversite-degradee-nous-fait-glisser-vers-l-amnesie-environnementale_6740782_3232.html",
+          "published": "2026-08-08T06:00:29+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Si nous nous rappelons des pare-brise constellés d’insectes morts après un trajet en voiture, que sait-on des loups qui rôdaient dans les campagnes au",
+          "image": "https://img.lemde.fr/2026/07/30/323/0/3465/1732/644/322/60/0/32dbfad_upload-1-zaqsptk2c4xh-image0.jpeg",
+          "other_news": true
+        },
+        {
+          "title": "« S’il fait moche, on se met en mode “éco” » : comment les refuges de montagne expérimentent déjà la sobriété du futur",
+          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/08/s-il-fait-moche-on-se-met-en-mode-eco-comment-les-refuges-de-montagne-experimentent-deja-la-sobriete-du-futur_6740608_3451060.html",
+          "published": "2026-08-08T04:00:11+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "« Havres des cimes » (4/7). Du fait de leur situation isolée, coupés de tout réseau, les refuges de montagne ont fait de la frugalité une vertu cardin",
+          "image": "https://img.lemde.fr/2026/06/24/245/0/4249/2124/644/322/60/0/f26e1f7_upload-1-fdyhjf3ji05s-andia-andia-423140-refuge-de-campana-de-cloutou.JPG",
+          "other_news": true
+        },
+        {
+          "title": "Amazon fait construire au Texas la plus grande centrale à gaz des Etats-Unis pour alimenter ses centres de données",
+          "link": "https://www.lemonde.fr/international/article/2026/08/08/au-texas-amazon-fait-construire-la-plus-grande-centrale-a-gaz-des-etats-unis-pour-alimenter-ses-centres-de-donnees_6740607_3210.html",
+          "published": "2026-08-08T03:59:24+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La structure, qui devrait contenir 35 turbines pour une capacité totale de 7,65 gigawatts, pourrait devenir la plus importante source d’émission de ga",
+          "image": "https://img.lemde.fr/2026/03/24/568/0/4768/2384/644/322/60/0/1241af3_ftp-1-5vjjiu42yz0a-2026-03-24t061524z-1806268127-rc2w3ha1w7vc-rtrmadp-3-iran-crisis-amazon-com.JPG",
+          "other_news": true
+        },
+        {
+          "title": "Les lunettes d’observation de l’éclipse solaire déjà en rupture de stock chez certains revendeurs",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/07/les-lunettes-d-observation-de-l-eclipse-solaire-deja-en-rupture-de-stock-chez-certains-revendeurs_6740504_3234.html",
+          "published": "2026-08-07T16:00:08+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les achats de lunettes de protection individuelle, indispensable pour observer le phénomène, ont fortement augmenté à l’approche du 12 août. La répres",
+          "image": "https://img.lemde.fr/2026/08/05/360/0/5875/2937/644/322/60/0/6a3b6ee_ftp-1-y3uto1qkxq5r-5778529-01-06.jpg",
+          "other_news": true
+        },
+        {
           "title": "Canicule : l’arrêt forcé de centrales à travers l’Europe met le réseau électrique sous tension",
           "link": "https://www.lemonde.fr/economie/article/2026/08/06/canicule-l-arret-force-de-centrales-a-travers-l-europe-met-le-reseau-electrique-sous-tension_6740047_3234.html",
           "published": "2026-08-06T20:00:04+02:00",
@@ -1412,62 +1449,7 @@
           "other_news": true
         },
         {
-          "title": "La Fresque du climat placée en procédure de sauvegarde",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/06/la-fresque-du-climat-placee-en-procedure-de-sauvegarde_6739951_3234.html",
-          "published": "2026-08-06T15:45:04+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La situation financière de l’association qui développe des ateliers de sensibilisation aux enjeux climatiques s’est fortement dégradée ces derniers mo",
-          "image": "https://img.lemde.fr/2026/08/06/84/0/4999/2499/644/322/60/0/076f991_upload-1-ue4lhyds3bg0-maxnewsspecialtwo637366.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Eclipse du 12 août : une baisse temporaire de la production d’électricité solaire attendue en Europe",
-          "link": "https://www.lemonde.fr/sciences/article/2026/08/06/eclipse-du-12-aout-une-baisse-temporaire-de-la-production-d-electricite-solaire-attendue-en-europe_6739722_1650684.html",
-          "published": "2026-08-06T09:07:15+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "L’éclipse, qui aura lieu entre 19 h 30 et 21 h 30, masquera jusqu’à 99 % du soleil dans certaines régions françaises, et intégralement dans le nord de",
-          "image": "https://img.lemde.fr/2026/08/06/500/0/6000/3000/644/322/60/0/d69f5b9_upload-1-fvcd0oevuz4a-000-47ma6kg.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Pour adapter ses centrales au changement climatique, EDF prévoit d’investir près de 9 milliards d’euros sur quinze ans",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/06/pour-adapter-ses-centrales-au-changement-climatique-edf-prevoit-d-investir-pres-de-9-milliards-d-euros-sur-quinze-ans_6739675_3234.html",
-          "published": "2026-08-06T06:00:23+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les canicules et les faibles débits des fleuves engendrés par les sécheresses imposent ponctuellement l’arrêt ou le ralentissement de certains réacteu",
-          "image": "https://img.lemde.fr/2026/08/05/805/0/8256/4128/644/322/60/0/1ee4d09_upload-1-6yrgak2f2eil-000-b7yq2p9.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Près de Marseille, une forêt cobaye privée d’eau pour étudier les effets du changement climatique",
-          "link": "https://www.lemonde.fr/m-le-mag/article/2026/08/06/pres-de-marseille-une-foret-cobaye-privee-d-eau-pour-etudier-les-effets-du-changement-climatique_6739674_4500055.html",
-          "published": "2026-08-06T06:00:19+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans la forêt de Fontblanche, dans les Bouches-du-Rhône, des chercheurs pratiquent de nombreux tests sur des pins d’Alep et des chênes verts afin d’an",
-          "image": "https://img.lemde.fr/2026/08/04/593/0/6541/3270/644/322/60/0/6b795f1_upload-1-qmeeyjp5okc4-foret-font-blanche-inrae-gb-20.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "La Finlande se convertit au « réensauvagement défensif » en restaurant des tourbières pour freiner les chars russes",
-          "link": "https://www.lemonde.fr/international/article/2026/08/06/restaurer-des-tourbieres-pour-freiner-les-chars-russes-la-finlande-se-convertit-au-reensauvagement-defensif_6739570_3210.html",
-          "published": "2026-08-06T05:00:01+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le pays nordique a identifié 180 000 hectares de zones humides dont la restauration pourrait bénéficier aussi bien au climat et à la biodiversité qu’à",
-          "image": "https://img.lemde.fr/2026/07/07/479/0/2667/1333/644/322/60/0/9d9ffb1_upload-1-acktmyesi5uo-jew8177-final.JPG",
-          "other_news": true
-        },
-        {
-          "title": "«Si c’est pour qu’il naisse sur une planète en guerre et en feu, ce n’est pas la peine» : elles voulaient un enfant, mais leur vie a basculé cet été",
+          "title": "«Si c’est pour qu’il naisse sur une planète en guerre et en feu, ce n’est pas la peine» : elles et ils voulaient un enfant, mais leur vie a basculé cet été",
           "link": "https://vert.eco/serie/si-cest-pour-quil-naisse-sur-une-planete-en-guerre-et-en-feu-ce-nest-pas-la-peine-elles-voulaient-un-enfant-mais-leur-vie-a-bascule-cet-ete/",
           "published": "2026-08-06T10:04:49+00:00",
           "source": "Vert Eco Articles",
@@ -1500,6 +1482,28 @@
           "other_news": true
         },
         {
+          "title": "Eleven must-see comedy shows at the Edinburgh Fringe",
+          "link": "https://theconversation.com/eleven-must-see-comedy-shows-at-the-edinburgh-fringe-289280",
+          "published": "2026-08-07T15:18:08+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "When it comes to the best of the Fringe’s comedy lineup this year, we’ve done all the heavy lifting so you don’t have to.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "AI is making disinformation harder to spot – but we’ve found a new way to catch it",
+          "link": "https://theconversation.com/ai-is-making-disinformation-harder-to-spot-but-weve-found-a-new-way-to-catch-it-288671",
+          "published": "2026-08-07T13:34:17+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As AI-generated text becomes harder to identify, the real clues lie in how online conversations are being manipulated.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "You might be buying the wrong home battery. Here’s how to tell",
           "link": "https://theconversation.com/you-might-be-buying-the-wrong-home-battery-heres-how-to-tell-288935",
           "published": "2026-08-07T03:25:16+00:00",
@@ -1522,36 +1526,14 @@
           "other_news": true
         },
         {
-          "title": "Solar eclipses are a source of fascination, legends and scientific discovery",
-          "link": "https://theconversation.com/solar-eclipses-are-a-source-of-fascination-legends-and-scientific-discovery-289008",
-          "published": "2026-08-06T13:07:07+00:00",
-          "source": "The Conversation",
+          "title": "A banana byproduct transforms farm waste into profits in Bangladesh",
+          "link": "https://news.mongabay.com/2026/08/a-banana-byproduct-transforms-farm-waste-into-profits-in-bangladesh/",
+          "published": "2026-08-07T14:38:05+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "What’s the most impressive natural phenomenon known to humankind? Probably a solar eclipse! Here’s a brief overview ahead of this summer’s big celesti",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Taxi drivers rarely die of Alzheimer’s – how complex mental maps and spatial reasoning protect your brain",
-          "link": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-          "published": "2026-08-06T12:35:37+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Working with and living in spatially complex environments may help delay cognitive decline, though more research is needed.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "What is emotional regulation? A child psychologist explains",
-          "link": "https://theconversation.com/what-is-emotional-regulation-a-child-psychologist-explains-280443",
-          "published": "2026-08-06T12:35:13+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The aim isn’t to get rid of difficult feelings, but to find ways of managing them effectively.",
-          "image": null,
+          "summary": "Bananas make up 20% of all fruit crops grown in Bangladesh, and the country has begun to unlock the hidden potential of the plant’s agricultural bypro",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/07141336/banana-fiber-1-768x512.jpg",
           "other_news": true
         },
         {
@@ -1607,17 +1589,6 @@
           "language": "en",
           "summary": "In her upcoming book, My Wild City: Finding Nature, Meaning, and Hope in India’s Capital, conservation biologist Neha Sinha takes readers to the hidde",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/03041149/Parakeet_Delhi-ridge-e1785805820797-768x512.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "Kenyans protesting nuclear facility face terrorism investigation",
-          "link": "https://news.mongabay.com/short-article/2026/08/kenyans-protesting-nuclear-facility-face-terrorism-investigation/",
-          "published": "2026-08-04T04:04:49+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Following protests at a public meeting about a proposed nuclear power plant in Kenya, one person was shot and several residents were arrested. The Ken",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/10/07110644/52588707019_b1a83cb7a2_k-768x512.jpg",
           "other_news": true
         }
       ]

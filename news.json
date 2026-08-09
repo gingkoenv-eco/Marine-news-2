@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T04:56:39.962141+00:00",
+  "generated_at": "2026-08-09T05:49:51.188379+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -531,6 +531,17 @@
           "other_news": false
         },
         {
+          "title": "«Montrer qu’il y a d’autres modèles possibles» : face aux géants des mers, une initiative inédite aide les petits pêcheurs à se lancer",
+          "link": "https://vert.eco/biodiversite/montrer-quil-y-a-dautres-modeles-possibles-face-aux-geants-des-mers-une-initiative-inedite-aide-les-petits-pecheurs-a-se-lancer/",
+          "published": "2026-08-09T05:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Face à la concentration des navires et des droits de pêche aux mains de géants du secteur, Mer de liens achète des bateaux grâce à l'épargne citoyenne",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "«On voit disparaître des espèces» : en Guadeloupe, la célèbre réserve Cousteau peine à enrayer l’effondrement de sa biodiversité",
           "link": "https://vert.eco/biodiversite/on-voit-disparaitre-des-especes-en-guadeloupe-la-celebre-reserve-cousteau-peine-a-enrayer-leffondrement-de-sa-biodiversite/",
           "published": "2026-08-07T04:00:00+00:00",
@@ -658,6 +669,17 @@
           "summary": "Dans le quartier informel de Snake Park, à Soweto (Afrique du Sud), les habitant·es souffrent d’asthme chronique, de cancers du poumon et les enfants",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "Plastic waste is harming livestock in South Africa: smallholder farmers using communal land set out the support they need",
+          "link": "https://theconversation.com/plastic-waste-is-harming-livestock-in-south-africa-smallholder-farmers-using-communal-land-set-out-the-support-they-need-288414",
+          "published": "2026-08-09T04:28:43+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As plastic waste spreads across communal grazing land, smallholder farmers are losing livestock, income and an important source of food and security.",
+          "image": null,
+          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -732,6 +754,17 @@
       ],
       "Other Marine News": [
         {
+          "title": "Most of sun to be eclipsed across island of Ireland",
+          "link": "https://www.bbc.co.uk/news/articles/c39epmz7ex4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-09T05:19:17+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor show",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/5f6e90c0-91ac-11f1-9c12-47c0acd34ba6.png",
+          "other_news": true
+        },
+        {
           "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
           "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-07T13:32:41+00:00",
@@ -751,6 +784,28 @@
           "language": "en",
           "summary": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a7/live/ae7b8b30-91e0-11f1-9bc8-c9e5b4077192.jpg",
+          "other_news": true
+        },
+        {
+          "title": "'If we worry about erosion, we will never get any sleep'",
+          "link": "https://www.bbc.co.uk/news/articles/c8dnyqnz4yqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-09T05:41:30+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Derrick Bowler says even if he won the lottery he knows he would not be able to stop nature.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2246/live/fd655340-90c1-11f1-b8f3-bf6a2c059a9b.png",
+          "other_news": true
+        },
+        {
+          "title": "'I am a woman in a man's rubbish world'",
+          "link": "https://www.bbc.co.uk/news/articles/c89n8vde8n3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-09T05:09:47+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A woman who runs a waste collection firm says she was warned not to get involved in the industry.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a21/live/6328d020-90dc-11f1-9bd2-e326e95c9722.jpg",
           "other_news": true
         },
         {
@@ -1469,28 +1524,6 @@
           "other_news": true
         },
         {
-          "title": "« S’il fait moche, on se met en mode “éco” » : comment les refuges de montagne expérimentent déjà la sobriété du futur",
-          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/08/s-il-fait-moche-on-se-met-en-mode-eco-comment-les-refuges-de-montagne-experimentent-deja-la-sobriete-du-futur_6740608_3451060.html",
-          "published": "2026-08-08T04:00:04+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "« Havres des cimes » (4/7). Du fait de leur situation isolée, coupés de tout réseau, les refuges de montagne ont fait de la frugalité une vertu cardin",
-          "image": "https://img.lemde.fr/2026/06/24/245/0/4249/2124/644/322/60/0/f26e1f7_upload-1-fdyhjf3ji05s-andia-andia-423140-refuge-de-campana-de-cloutou.JPG",
-          "other_news": true
-        },
-        {
-          "title": "Amazon fait construire au Texas la plus grande centrale à gaz des Etats-Unis pour alimenter ses centres de données",
-          "link": "https://www.lemonde.fr/international/article/2026/08/08/au-texas-amazon-fait-construire-la-plus-grande-centrale-a-gaz-des-etats-unis-pour-alimenter-ses-centres-de-donnees_6740607_3210.html",
-          "published": "2026-08-08T03:59:24+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La structure, qui devrait contenir 35 turbines pour une capacité totale de 7,65 gigawatts, pourrait devenir la plus importante source d’émission de ga",
-          "image": "https://img.lemde.fr/2026/03/24/568/0/4768/2384/644/322/60/0/1241af3_ftp-1-5vjjiu42yz0a-2026-03-24t061524z-1806268127-rc2w3ha1w7vc-rtrmadp-3-iran-crisis-amazon-com.JPG",
-          "other_news": true
-        },
-        {
           "title": "«Si c’est pour qu’il naisse sur une planète en guerre et en feu, ce n’est pas la peine» : elles et ils voulaient un enfant, mais leur vie a basculé cet été",
           "link": "https://vert.eco/serie/si-cest-pour-quil-naisse-sur-une-planete-en-guerre-et-en-feu-ce-nest-pas-la-peine-elles-voulaient-un-enfant-mais-leur-vie-a-bascule-cet-ete/",
           "published": "2026-08-06T10:04:49+00:00",
@@ -1509,6 +1542,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Ce mardi, une pétition pour «un moratoire immédiat de la chasse» dans les espaces sinistrés par les incendies a dépassé les 380 000 signatures. Le gou",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Wind and solar projects in Kenya and South Africa don’t always benefit the communities that host them – study",
+          "link": "https://theconversation.com/wind-and-solar-projects-in-kenya-and-south-africa-dont-always-benefit-the-communities-that-host-them-study-285717",
+          "published": "2026-08-09T04:29:34+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "In South Africa and Kenya, some green energy projects have deprived local communities of land and livelihoods instead of sharing the benefits.",
           "image": null,
           "other_news": true
         },
@@ -1542,17 +1586,6 @@
           "type": "news",
           "language": "en",
           "summary": "Four experts explain why the design of your home matters more than the size of your home battery.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Zed Beats: how home studios reinvented Zambian pop music and gave young people a voice",
-          "link": "https://theconversation.com/zed-beats-how-home-studios-reinvented-zambian-pop-music-and-gave-young-people-a-voice-288438",
-          "published": "2026-08-06T14:35:30+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Zed Beats artists aren’t known for political songs, but they’ve become so popular that they’re used to mobilise voters during elections.",
           "image": null,
           "other_news": true
         },

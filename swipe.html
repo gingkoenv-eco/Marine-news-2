@@ -354,7 +354,7 @@
     </div>
 
     <script>
-        const MAX_CARDS = 10;
+        const MAX_CARDS = 13;
         const RANGE_DAYS = 1;
 
         let deck = [];
@@ -484,6 +484,21 @@
             }
 
             return shuffle(picks);
+        }
+
+        function buildDeck(candidates, max) {
+            // Prioritize genuine marine news first; only fill remaining
+            // slots with "other news" (broader environmental/climate
+            // articles that aren't specifically marine) if there aren't
+            // enough marine articles to fill the deck on their own.
+            const marine = candidates.filter((a) => !a.other_news);
+            const other = candidates.filter((a) => a.other_news);
+
+            const marinePicks = pickDiverseSample(marine, max);
+            const remaining = max - marinePicks.length;
+            const otherPicks = remaining > 0 ? pickDiverseSample(other, remaining) : [];
+
+            return marinePicks.concat(otherPicks);
         }
 
         function renderStack() {
@@ -661,7 +676,7 @@
             kept = [];
 
             const candidates = dedupeByTitle(window.__allArticles.filter((a) => withinRange(a) && isEnglish(a)));
-            deck = pickDiverseSample(candidates, MAX_CARDS);
+            deck = buildDeck(candidates, MAX_CARDS);
 
             if (!deck.length) {
                 gameEl.style.display = 'none';

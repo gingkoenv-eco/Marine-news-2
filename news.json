@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T05:49:51.188379+00:00",
+  "generated_at": "2026-08-10T05:17:42.325031+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -219,6 +219,19 @@
           "other_news": false
         }
       ],
+      "Polar & Reef Ecosystems & Resilience": [
+        {
+          "title": "World’s seas have hit hottest temperature on record for July, say scientists",
+          "link": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists",
+          "published": "2026-08-10T02:00:31+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023The world’s seas were hotter last m",
+          "image": "https://i.guim.co.uk/img/media/87c236446ba2900c4c834b9136187c04abcb7a9a/491_0_2916_2334/master/2916.jpg?width=140&quality=85&auto=format&fit=max&s=c0e7a10cf898639ddd8142642505e594",
+          "other_news": false
+        }
+      ],
       "Species Migration & Habitat Change": [
         {
           "title": "Dash for Ceuta adds heat to Europe’s migration debate",
@@ -289,9 +302,20 @@
           "other_news": false
         },
         {
+          "title": "China evacuates one million from homes as massive storm arrives",
+          "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T03:15:21+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce6/live/e2285ea0-945a-11f1-80f4-1baf774a4468.jpg",
+          "other_news": false
+        },
+        {
           "title": "Rare turtle to be sent back home in 5,000-mile 'incredibly emotional' trip",
           "link": "https://www.bbc.co.uk/news/articles/c62vd6j5llgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08T20:52:22+00:00",
+          "published": "2026-08-09T06:30:35+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -308,6 +332,39 @@
           "language": "en",
           "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb41/live/9cac3330-934a-11f1-a35f-039358cea467.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Forest funding boost as two million trees planted",
+          "link": "https://www.bbc.co.uk/news/articles/cq894dq252ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T05:14:31+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A tree planting scheme to boost climate resilience receives £8.7m of funding.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25e2/live/0b1bc610-93d6-11f1-870d-5d08c49babb2.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Work at National Trust site to prevent flooding",
+          "link": "https://www.bbc.co.uk/news/articles/c0kmez1x2yzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T05:11:31+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Flood prevention work is taking place, in a bid to use land as a sponge for the River Severn and River Tern.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c3/live/b634a4f0-926d-11f1-9f0c-8d4ddef91df6.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Ospreys hatch at nature reserve for first time",
+          "link": "https://www.bbc.co.uk/news/articles/c62e6n1607qo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T05:07:57+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Campfield Marsh, on the shore of Solway Firth in Cumbria, has a platform to attract ospreys.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7293/live/ff9028a0-93d9-11f1-8568-7dd649a743dc.jpg",
           "other_news": false
         },
         {
@@ -509,6 +566,39 @@
           "other_news": false
         },
         {
+          "title": "Le typhon Dolphin a touché terre dans l’est de la Chine ; des fortes pluies et des vents violents sur de larges portions du littoral",
+          "link": "https://www.lemonde.fr/international/article/2026/08/09/le-typhon-dolphin-a-touche-terre-dans-l-est-de-la-chine-fortes-pluies-et-vents-violents-sur-de-larges-portions-du-littoral_6742099_3211.html",
+          "published": "2026-08-09T12:23:46+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le Centre météorologique national de Chine a émis dimanche matin une alerte rouge au typhon – son niveau le plus élevé – prévoyant des « pluies torren",
+          "image": "https://img.lemde.fr/2026/08/09/470/0/5639/2819/644/322/60/0/654f3e0_ftp-1-zicr2acpjt7g-5802245-01-06.jpg",
+          "other_news": false
+        },
+        {
+          "title": "En images, la Chine, en alerte rouge, se prépare à l’arrivée du typhon Dolphin",
+          "link": "https://www.lemonde.fr/videos/video/2026/08/09/en-images-la-chine-se-prepare-a-l-arrivee-du-typhon-dolphin_6742335_1669088.html",
+          "published": "2026-08-09T12:04:14+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le Centre météorologique national de Chine a émis dimanche matin une alerte rouge au typhon – son niveau le plus élevé –, prévoyant des « pluies torre",
+          "image": "https://img.lemde.fr/2026/08/09/250/0/3000/1500/644/322/60/0/3e8c6be_ftp-1-xars0gp1ofnh-2026-08-09t073402z-1186824879-rc27umapj23p-rtrmadp-3-asia-weather-china.JPG",
+          "other_news": false
+        },
+        {
+          "title": "Hongkong bat son record de chaleur avec 36,9 °C",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/09/hongkong-bat-son-record-de-chaleur-avec-36-9-c_6742234_3244.html",
+          "published": "2026-08-09T11:18:22+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Ce record est en partie dû au typhon Dolphin, qui s’approche des côtes orientales de la Chine, selon l’observatoire météorologique de Hongkong.",
+          "image": "https://img.lemde.fr/2026/07/24/444/0/5318/2659/644/322/60/0/5a1005f_ftp-1-g6zpuisvw38o-2026-07-24t110451z-1673643577-rc28kma2nbvs-rtrmadp-3-asia-weather-hongkong.JPG",
+          "other_news": false
+        },
+        {
           "title": "Serge Tisseron, psychiatre : « Le réchauffement climatique oblige à penser la résilience autrement »",
           "link": "https://www.lemonde.fr/idees/article/2026/08/09/serge-tisseron-psychiatre-le-rechauffement-climatique-oblige-a-penser-la-resilience-autrement_6741920_3232.html",
           "published": "2026-08-09T06:00:12+02:00",
@@ -517,17 +607,6 @@
           "language": "fr",
           "summary": "Le concept, qui désigne à l’origine la capacité individuelle des individus à surmonter les traumatismes, a vu sa définition évoluer pour décrire un ph",
           "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/0d46916_upload-1-slnbljri1xqm-frame-790.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Les dauphins-soldats, des auxiliaires de l’armée objets de nombreux fantasmes",
-          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/08/le-dauphin-soldat-un-auxiliaire-de-l-armee-objet-de-nombreux-fantasmes_6740641_3451060.html",
-          "published": "2026-08-08T04:30:08+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "« Animaux-soldats » (6/6). Dès les années 1960, l’armée américaine utilise les cétacés comme détecteurs de mines pour sécuriser l’espace maritime. Les",
-          "image": "https://img.lemde.fr/2026/07/30/0/0/1659/829/644/322/60/0/cb85d69_upload-1-cot6uhydixjc-dbd088.jpg",
           "other_news": false
         },
         {
@@ -553,17 +632,6 @@
           "other_news": false
         },
         {
-          "title": "Australia has pledged to restore nature. But could we ever bring back lost ecosystems?",
-          "link": "https://theconversation.com/australia-has-pledged-to-restore-nature-but-could-we-ever-bring-back-lost-ecosystems-286141",
-          "published": "2026-08-06T20:08:46+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "From oyster reefs to bandicoot grasslands, many Australian ecosystems no longer exist. Restoring nature is a good goal – but we cannot return to the p",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "How Ocean Animals Beat the Heat—and the Cold",
           "link": "https://oceanconservancy.org/blog/2026/07/29/beat-the-heat/",
           "published": "2026-07-29T19:21:02+00:00",
@@ -583,6 +651,17 @@
           "language": "en",
           "summary": "If you asked most people in America which states depend on the ocean, Kansas would probably not top the list. No beaches. No ports. No salt air. But t",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Climate change doubled likelihood of Canada’s extreme fire weather, study finds",
+          "link": "https://news.mongabay.com/short-article/2026/08/climate-change-doubled-likelihood-of-canadas-extreme-fire-weather-study-finds/",
+          "published": "2026-08-10T04:44:17+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Human-induced climate change has more than doubled the likelihood of the extreme weather conditions that fueled Canada’s destructive 2026 wildfire sea",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/10044308/Toronto_wildfire_smoke_July_15_2026-scaled-e1786337032463-768x512.jpg",
           "other_news": false
         },
         {
@@ -741,13 +820,13 @@
       ],
       "Marine Protected Areas & Policy": [
         {
-          "title": "Coalition leadership is hard. Luxon’s ‘nuclear option’ of electoral reform is not the answer",
-          "link": "https://theconversation.com/coalition-leadership-is-hard-luxons-nuclear-option-of-electoral-reform-is-not-the-answer-289223",
-          "published": "2026-08-07T00:27:42+00:00",
+          "title": "Why the real test of Canada’s AI strategy is in university classrooms",
+          "link": "https://theconversation.com/why-the-real-test-of-canadas-ai-strategy-is-in-university-classrooms-259880",
+          "published": "2026-08-09T12:54:49+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "The history of electoral reform in NZ is full of policy surprises. But the prime minister’s latest announcement still makes little political sense.",
+          "summary": "AI policy guiding university learning and teacher education must address how technology changes the social and emotional conditions of teaching and le",
           "image": null,
           "other_news": true
         }
@@ -787,36 +866,25 @@
           "other_news": true
         },
         {
-          "title": "'If we worry about erosion, we will never get any sleep'",
-          "link": "https://www.bbc.co.uk/news/articles/c8dnyqnz4yqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-09T05:41:30+00:00",
+          "title": "When and where to see the solar eclipse in London",
+          "link": "https://www.bbc.co.uk/news/articles/c62x3pyrxrmo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T04:57:32+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Derrick Bowler says even if he won the lottery he knows he would not be able to stop nature.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2246/live/fd655340-90c1-11f1-b8f3-bf6a2c059a9b.png",
+          "summary": "What you need to know about the solar eclipse on 12 August and the best viewing spots in London.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e9/live/b656b440-925f-11f1-b9ff-37ae3aba3894.jpg",
           "other_news": true
         },
         {
-          "title": "'I am a woman in a man's rubbish world'",
-          "link": "https://www.bbc.co.uk/news/articles/c89n8vde8n3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-09T05:09:47+00:00",
+          "title": "1999: Solar eclipse experienced from Alderney",
+          "link": "https://www.bbc.co.uk/news/videos/c1e1v0q257jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-09T06:30:43+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "A woman who runs a waste collection firm says she was warned not to get involved in the industry.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a21/live/6328d020-90dc-11f1-9bd2-e326e95c9722.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Couple turning inherited farm into nature site",
-          "link": "https://www.bbc.co.uk/news/articles/czrj11rk46do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08T11:47:53+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The farm in Cockermouth is undergoing a 30-year project to boost wildlife there.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3f8/live/c1393d50-9193-11f1-9e9c-c71e84be4584.jpg",
+          "summary": "Footage of people in Alderney catching the best view in the British Isles of the solar eclipse.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca3a/live/15cdea30-9263-11f1-b2ab-0dd01740f9f6.jpg",
           "other_news": true
         },
         {
@@ -839,17 +907,6 @@
           "language": "en",
           "summary": "Ways to safely enjoy the partial solar eclipse on Wednesday evening.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6519/live/18b6bf10-91af-11f1-9c12-47c0acd34ba6.jpg",
-          "other_news": true
-        },
-        {
-          "title": "What you need to know about the solar eclipse over Yorkshire",
-          "link": "https://www.bbc.co.uk/news/articles/c980913yep8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08T06:12:59+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Yorkshire residents have a rare chance to see the best view of a solar eclipse since 1999 next week.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edac/live/84b66d40-90e3-11f1-bad1-37f8e0c246e3.jpg",
           "other_news": true
         },
         {
@@ -1491,6 +1548,17 @@
           "other_news": true
         },
         {
+          "title": "En Europe occidentale, une sécheresse exceptionnelle qui pèse sur les activités humaines et les écosystèmes",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/10/en-europe-occidentale-une-secheresse-exceptionnelle-qui-pese-sur-les-activites-humaines-et-les-ecosystemes_6743010_3244.html",
+          "published": "2026-08-10T05:30:19+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’ouest du continent est marqué par des niveaux d’humidité des sols très inférieurs à ceux de juillet 2022, le « dernier été marqué par une grave séch",
+          "image": "https://img.lemde.fr/2026/08/05/679/0/8149/4074/644/322/60/0/15b7c4a_ftp-1-qqyjgk28a3dx-f1804648958d41dd9f087de9ab47c462-0-f3788242e97b4b3c872b6773a6699626.jpg",
+          "other_news": true
+        },
+        {
           "title": "« Il coûtera toujours moins cher d’agir aujourd’hui contre le réchauffement climatique que de réparer les conséquences »",
           "link": "https://www.lemonde.fr/planete/article/2026/08/09/il-coutera-toujours-moins-cher-d-agir-aujourd-hui-contre-le-rechauffement-climatique-que-de-reparer-les-consequences_6741923_3244.html",
           "published": "2026-08-09T06:00:31+02:00",
@@ -1499,28 +1567,6 @@
           "language": "fr",
           "summary": "« Les entretiens de “Chaleur humaine” ». Le chercheur en santé publique Kévin Jean expliquait les bénéfices des politiques environnementales pour la s",
           "image": "https://img.lemde.fr/2026/07/22/0/0/4252/2126/644/322/60/0/7e720a5_upload-1-0i2skowhtwww-hd-rvb-web-se-rie-e-te-ep-3-chaleur-humaine.jpg",
-          "other_news": true
-        },
-        {
-          "title": "« Face aux effets du changement climatique, la culture biorégionaliste peut soigner le vivant dont nous avons la responsabilité en tant qu’humains »",
-          "link": "https://www.lemonde.fr/idees/article/2026/08/08/face-aux-effets-du-changement-climatique-la-culture-bioregionaliste-peut-soigner-le-vivant-dont-nous-avons-la-responsabilite-en-tant-qu-humains_6741409_3232.html",
-          "published": "2026-08-08T17:00:12+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans une tribune au « Monde », la directrice de l’Institut Momentum Agnès Sinaï estime que « l’habitabilité des territoires » devra se construire sur",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/0d46916_upload-1-slnbljri1xqm-frame-790.jpg",
-          "other_news": true
-        },
-        {
-          "title": "L’amnésie environnementale, ou comment notre lente accommodation à une biodiversité dégradée nous fait oublier la nature foisonnante d’antan",
-          "link": "https://www.lemonde.fr/idees/article/2026/08/08/comment-notre-lente-accommodation-a-une-biodiversite-degradee-nous-fait-glisser-vers-l-amnesie-environnementale_6740782_3232.html",
-          "published": "2026-08-08T06:00:20+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Si nous nous rappelons des pare-brise constellés d’insectes morts après un trajet en voiture, que sait-on des loups qui rôdaient dans les campagnes au",
-          "image": "https://img.lemde.fr/2026/07/30/323/0/3465/1732/644/322/60/0/32dbfad_upload-1-zaqsptk2c4xh-image0.jpeg",
           "other_news": true
         },
         {
@@ -1587,6 +1633,17 @@
           "language": "en",
           "summary": "Four experts explain why the design of your home matters more than the size of your home battery.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Mariano Cenamo, advocate for a sustainable Amazon bioeconomy, has died, aged 46",
+          "link": "https://news.mongabay.com/2026/08/mariano-cenamo-advocate-for-a-sustainable-amazon-bioeconomy-has-died-aged-46/",
+          "published": "2026-08-10T00:02:06+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "For people trying to protect the Amazon, one problem has persisted for decades. A hectare of intact forest stores carbon, regulates water, supports wi",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/09220720/Mariano_Cenamo_Renato-Stockler_FolhaPress-2-768x512.jpg",
           "other_news": true
         },
         {

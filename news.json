@@ -1,33 +1,7 @@
 {
-  "generated_at": "2026-08-10T06:13:37.215194+00:00",
+  "generated_at": "2026-08-11T04:59:41.348841+00:00",
   "categories": {
     "Politics & Policy": {
-      "Marine Biodiversity & Conservation": [
-        {
-          "title": "Current shark finning regulations inefficient at curbing global trade",
-          "link": "https://oceanographicmagazine.com/news/current-shark-finning-regulations-inefficient-at-curbing-global-trade/",
-          "published": "2026-08-05T14:08:09+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The new study reveals there has been no significant change in global trade flows, including export and import numbers, domestic consumption and active",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "Indigenous-led MPA secures critical international backing",
-          "link": "https://oceanographicmagazine.com/news/indigenous-led-mpa-secures-critical-international-backing/",
-          "published": "2026-08-06T17:05:33+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The democratically elected council of Easter Island has signed new agreements to secure funding, research, and maritime patrols for one of the world's",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Other Marine News": [
         {
           "title": "Fears of ‘catastrophic’ decline of giant Australian cuttlefish after only 44 counted in dive survey",
@@ -57,6 +31,17 @@
     "General News": {
       "Plastic & Ocean Pollution": [
         {
+          "title": "«C’est dangereux pour les fonds marins, les bateaux et les baigneurs» : la pollution invisible des vieux câbles internet sous-marins",
+          "link": "https://vert.eco/sante-environnement/cest-dangereux-pour-les-fonds-marins-les-bateaux-et-les-baigneurs-la-pollution-invisible-des-vieux-cables-internet-sous-marins/",
+          "published": "2026-08-10T14:45:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Entre un et deux millions de kilomètres de câbles sous-marins hors service jonchent les océans. Alors que leurs effets sur la faune et la flore sont b",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Microplastiques, molécules toxiques… Comment limiter la pollution des pneus de voiture",
           "link": "https://vert.eco/label-vert/microplastiques-molecules-toxiques-comment-limiter-la-pollution-des-pneus-de-voiture/",
           "published": "2026-08-02T05:00:00+00:00",
@@ -77,20 +62,20 @@
           "summary": "What do you think about when you hear the words “microplastic pollution?” Your mind may immediately go to imagery of colorful fragmented plastics brok",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "In Amazon rivers, fish breathe and ingest plastics",
+          "link": "https://news.mongabay.com/2026/08/in-amazon-rivers-fish-breathe-and-ingest-plastics/",
+          "published": "2026-08-10T10:36:51+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "For Amazon fish, oxygen now comes with microplastics.",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/07154836/AP23317052192860-768x512.jpg",
+          "other_news": false
         }
       ],
       "Marine Biodiversity & Conservation": [
-        {
-          "title": "In my years of spearfishing, I’ve never encountered more sharks than now. But I know where I stand in the underwater pecking order | Clarke Gayford",
-          "link": "https://www.theguardian.com/commentisfree/2026/jul/12/in-my-years-of-spearfishing-ive-never-encountered-more-sharks-than-now-but-i-know-where-i-stand-in-the-underwater-pecking-order",
-          "published": "2026-07-11T20:00:59+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Below the surface is one of the only places I can switch my brain off. Coming face to face with a shark comes with the territory – and we all have to",
-          "image": "https://i.guim.co.uk/img/media/ed03e187c934bf4ed089243e390e3a1f56c9bbcb/130_20_1020_816/master/1020.jpg?width=140&quality=85&auto=format&fit=max&s=c417c6e3af172d908a9ff334c5e7a4ab",
-          "other_news": false
-        },
         {
           "title": "Scuba divers underestimate how much damage they do to coral reefs – we’ve watched hundreds to find out why",
           "link": "https://theconversation.com/scuba-divers-underestimate-how-much-damage-they-do-to-coral-reefs-weve-watched-hundreds-to-find-out-why-287266",
@@ -110,17 +95,6 @@
           "type": "news",
           "language": "en",
           "summary": "A new global assessment of the world’s migratory species finds reason for alarm, but also hope – and a road map for helping them survive.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Tagging study reveals new insights into iconic humpback song",
-          "link": "https://oceanographicmagazine.com/news/humpback-whales-sing-most-complex-songs-at-deepest-points-of-dives/",
-          "published": "2026-08-07T15:18:56+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The study maps humpback whale songs to complete dive cycles for the first time, revealing how physical strain shapes vocal displays and opening new pa",
           "image": null,
           "other_news": false
         },
@@ -171,19 +145,6 @@
           "other_news": false
         }
       ],
-      "Nature-Based Solutions & Restoration": [
-        {
-          "title": "Resilient seagrass offers new hope for restoring degraded estuaries",
-          "link": "https://oceanographicmagazine.com/news/resilient-seagrass-offers-new-hope-for-restoring-damaged-ecosystems/",
-          "published": "2026-08-07T12:02:32+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Known for surviving fluctuating water and salt levels in man-made ponds, the hardy seagrass could jump-start the recovery of ecologically-depleted est",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Deep Ocean & Mesophotic Ecosystems": [
         {
           "title": "Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition",
@@ -194,17 +155,6 @@
           "language": "en",
           "summary": "Canadian scientists visit remains of polar exploration vessels in ‘golden era for shipwreck investigating’Moments after devouring the final glimmers o",
           "image": "https://i.guim.co.uk/img/media/361a4fe8ba748a28c2f7c2d8d3589c2494dc2b18/124_130_3892_3114/master/3892.jpg?width=140&quality=85&auto=format&fit=max&s=c776c283a3b0134608d3618ef375f038",
-          "other_news": false
-        },
-        {
-          "title": "Mid-Atlantic expedition a barreleye-opening moment for scientists",
-          "link": "https://oceanographicmagazine.com/news/mid-atlantic-expedition-a-barreleye-opening-moment-for-scientists/",
-          "published": "2026-08-05T17:18:54+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Two hydrothermal vent fields have been discovered in the mid-Atlantic's Doldrums Fracture Zone - rare hybrid systems combining volcanic venting and se",
-          "image": null,
           "other_news": false
         },
         {
@@ -234,18 +184,29 @@
       ],
       "Species Migration & Habitat Change": [
         {
-          "title": "Dash for Ceuta adds heat to Europe’s migration debate",
-          "link": "https://theconversation.com/dash-for-ceuta-adds-heat-to-europes-migration-debate-289246",
-          "published": "2026-08-07T07:40:19+00:00",
+          "title": "One Song: Kadir Karababa’s exhibition uses music to reimagine home",
+          "link": "https://theconversation.com/one-song-kadir-karababas-exhibition-uses-music-to-reimagine-home-287929",
+          "published": "2026-08-10T13:17:50+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "The surge in irregular crossings at Ceuta has been seized on by the far right to criticise Spain’s liberal immigration policies.",
+          "summary": "The show explores stories of migration through song.",
           "image": null,
           "other_news": false
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Can Florida’s ‘coastal corridor’ project safeguard wildlife and boost economy?",
+          "link": "https://www.theguardian.com/us-news/2026/aug/10/florida-coastal-corridor-marine-life",
+          "published": "2026-08-10T12:00:44+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Conservationists have created a ‘coastal corridor’ of ocean-based projects designed to preserve and nourish vulnerable marine lifeFrom disappearing ma",
+          "image": "https://i.guim.co.uk/img/media/d0e7e6345d9f9b027db5bcf11838734970196df6/573_0_3539_2832/master/3539.jpg?width=140&quality=85&auto=format&fit=max&s=d03f67b266dfa008ead6e5c1456cdd3c",
+          "other_news": false
+        },
         {
           "title": "Rite of Spring by Kris Kneen review – a woman’s sexual awakening lurks in the ocean’s depths",
           "link": "https://www.theguardian.com/books/2026/jul/31/rite-of-spring-by-kris-kneen-review-a-womans-sexual-awakening-lurks-in-the-oceans-depths",
@@ -302,36 +263,25 @@
           "other_news": false
         },
         {
+          "title": "World's oceans hit record-high July temperatures",
+          "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T10:24:46+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c200/live/ff20a010-94ac-11f1-b2ab-0dd01740f9f6.jpg",
+          "other_news": false
+        },
+        {
           "title": "China evacuates one million from homes as massive storm arrives",
           "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10T03:15:21+00:00",
+          "published": "2026-08-10T07:23:54+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
           "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce6/live/e2285ea0-945a-11f1-80f4-1baf774a4468.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Rare turtle to be sent back home in 5,000-mile 'incredibly emotional' trip",
-          "link": "https://www.bbc.co.uk/news/articles/c62vd6j5llgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-09T06:30:35+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A rare turtle is being flown home to the Caribbean Sea after being found washed up in Wales.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e81/live/4851bbe0-9249-11f1-a7ab-8b30adf0800a.png",
-          "other_news": false
-        },
-        {
-          "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-          "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08T15:15:17+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb41/live/9cac3330-934a-11f1-a35f-039358cea467.jpg",
           "other_news": false
         },
         {
@@ -343,28 +293,6 @@
           "language": "en",
           "summary": "A tree planting scheme to boost climate resilience receives £8.7m of funding.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25e2/live/0b1bc610-93d6-11f1-870d-5d08c49babb2.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Work at National Trust site to prevent flooding",
-          "link": "https://www.bbc.co.uk/news/articles/c0kmez1x2yzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10T05:11:31+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Flood prevention work is taking place, in a bid to use land as a sponge for the River Severn and River Tern.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c3/live/b634a4f0-926d-11f1-9f0c-8d4ddef91df6.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Ospreys hatch at nature reserve for first time",
-          "link": "https://www.bbc.co.uk/news/articles/c62e6n1607qo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10T05:07:57+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Campfield Marsh, on the shore of Solway Firth in Cumbria, has a platform to attract ospreys.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7293/live/ff9028a0-93d9-11f1-8568-7dd649a743dc.jpg",
           "other_news": false
         },
         {
@@ -419,6 +347,17 @@
           "type": "news",
           "language": "fr",
           "summary": "La Méditerranée est l’un des écosystèmes les plus vulnérables au monde. Une étude récente s’est intéressée aux déplacements des poissons.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "As severe drought hits, the UK’s food system faces crisis – here’s how to change that",
+          "link": "https://theconversation.com/as-severe-drought-hits-the-uks-food-system-faces-crisis-heres-how-to-change-that-289417",
+          "published": "2026-08-10T13:30:09+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Our entire food system needs a redesign to cope with increasing threats to resilience over the long haul.",
           "image": null,
           "other_news": false
         },
@@ -511,6 +450,17 @@
           "other_news": false
         },
         {
+          "title": "Groenland : une compagnie pétrolière liée à Trump se prépare à forer sans autorisation",
+          "link": "https://reporterre.net/Groenland-une-compagnie-petroliere-liee-a-Trump-debarque-du-materiel-de-forage-sans",
+          "published": "2026-08-10T11:45:42+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "La société texane Greenland Energy a acheminé du matériel de forage sur la côte est du Groenland sans avoir obtenu le feu vert d",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH465/31279296403_69f07bb855_4k_1_-c6d4b.jpg?1786362345",
+          "other_news": false
+        },
+        {
           "title": "« On a une responsabilité quand on écrit des chansons » : une après-midi avec Emily Loizeau",
           "link": "https://reporterre.net/On-a-une-responsabilite-quand-on-ecrit-des-chansons-une-apres-midi-avec-Emily-Loizeau",
           "published": "2026-08-08T06:00:00+00:00",
@@ -544,69 +494,25 @@
           "other_news": false
         },
         {
-          "title": "AI analysis reveals dramatic rise in global ocean algae blooms",
-          "link": "https://oceanographicmagazine.com/news/ai-analysis-reveals-dramatic-rise-in-global-ocean-algae-blooms/",
-          "published": "2026-08-06T16:56:14+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The expansion of algal blooms worldwide benefits marine life in the open ocean, but closer to shore it's anticipated to harm local ecosystems and coas",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "British Risso’s dolphins are genetically unique, study finds",
-          "link": "https://oceanographicmagazine.com/news/british-risso-s-dolphins-are-genetically-unique-study-finds/",
-          "published": "2026-08-04T09:33:18+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new genetic study has found that Risso's dolphins around the British Isles form a distinct population, isolated from those in the Azores and Mediter",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Le typhon Dolphin a touché terre dans l’est de la Chine ; des fortes pluies et des vents violents sur de larges portions du littoral",
-          "link": "https://www.lemonde.fr/international/article/2026/08/09/le-typhon-dolphin-a-touche-terre-dans-l-est-de-la-chine-fortes-pluies-et-vents-violents-sur-de-larges-portions-du-littoral_6742099_3211.html",
-          "published": "2026-08-09T12:23:46+02:00",
+          "title": "Maltraitance animale : enquête ouverte après une plainte de L214 visant un élevage porcin dans les Côtes-d’Armor",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/10/maltraitance-animale-enquete-ouverte-apres-une-plainte-de-l214-visant-un-elevage-porcin-dans-les-cotes-d-armor_6743419_3244.html",
+          "published": "2026-08-10T17:39:42+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Le Centre météorologique national de Chine a émis dimanche matin une alerte rouge au typhon – son niveau le plus élevé – prévoyant des « pluies torren",
-          "image": "https://img.lemde.fr/2026/08/09/470/0/5639/2819/644/322/60/0/654f3e0_ftp-1-zicr2acpjt7g-5802245-01-06.jpg",
+          "summary": "Selon un communiqué de L214, des images tournées les 3 et 4 août dans un élevage lié à la coopérative Eureden montrent plus de « 300 cadavres » de por",
+          "image": "https://img.lemde.fr/2026/08/10/120/0/3840/1920/644/322/60/0/3919554_upload-1-vdvdgzkr5v2d-capture-d-e-cran-2026-08-10-a-17-25-08.png",
           "other_news": false
         },
         {
-          "title": "En images, la Chine, en alerte rouge, se prépare à l’arrivée du typhon Dolphin",
-          "link": "https://www.lemonde.fr/videos/video/2026/08/09/en-images-la-chine-se-prepare-a-l-arrivee-du-typhon-dolphin_6742335_1669088.html",
-          "published": "2026-08-09T12:04:14+02:00",
+          "title": "En Chine, le typhon Dolphin provoque de fortes pluies dans l’est du pays mais perd en intensité",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/10/en-chine-le-typhon-dolphin-provoque-de-fortes-pluies-dans-l-est-du-pays-mais-perd-en-intensite_6743195_3244.html",
+          "published": "2026-08-10T10:54:37+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Le Centre météorologique national de Chine a émis dimanche matin une alerte rouge au typhon – son niveau le plus élevé –, prévoyant des « pluies torre",
-          "image": "https://img.lemde.fr/2026/08/09/250/0/3000/1500/644/322/60/0/3e8c6be_ftp-1-xars0gp1ofnh-2026-08-09t073402z-1186824879-rc27umapj23p-rtrmadp-3-asia-weather-china.JPG",
-          "other_news": false
-        },
-        {
-          "title": "Hongkong bat son record de chaleur avec 36,9 °C",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/09/hongkong-bat-son-record-de-chaleur-avec-36-9-c_6742234_3244.html",
-          "published": "2026-08-09T11:18:22+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Ce record est en partie dû au typhon Dolphin, qui s’approche des côtes orientales de la Chine, selon l’observatoire météorologique de Hongkong.",
-          "image": "https://img.lemde.fr/2026/07/24/444/0/5318/2659/644/322/60/0/5a1005f_ftp-1-g6zpuisvw38o-2026-07-24t110451z-1673643577-rc28kma2nbvs-rtrmadp-3-asia-weather-hongkong.JPG",
-          "other_news": false
-        },
-        {
-          "title": "Serge Tisseron, psychiatre : « Le réchauffement climatique oblige à penser la résilience autrement »",
-          "link": "https://www.lemonde.fr/idees/article/2026/08/09/serge-tisseron-psychiatre-le-rechauffement-climatique-oblige-a-penser-la-resilience-autrement_6741920_3232.html",
-          "published": "2026-08-09T06:00:12+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le concept, qui désigne à l’origine la capacité individuelle des individus à surmonter les traumatismes, a vu sa définition évoluer pour décrire un ph",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/0d46916_upload-1-slnbljri1xqm-frame-790.jpg",
+          "summary": "Les autorités ont déclenché le niveau le plus élevé d’alerte aux crues soudaines dans l’est et le sud de la province du Zhejiang lundi, bien que la te",
+          "image": "https://img.lemde.fr/2026/08/10/341/0/4096/2048/644/322/60/0/e4cb94d_ftp-1-v7kf8pfkt163-5807441-01-06.jpg",
           "other_news": false
         },
         {
@@ -628,6 +534,28 @@
           "type": "news",
           "language": "fr",
           "summary": "La réserve Cousteau, en Guadeloupe, est depuis des décennies l’un des spots de plongée les plus populaires de France. Sa biodiversité sous-marine rend",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Today’s Mediterranean diet leans on olive oil, vegies and fish. But the ancients mainly ate bread",
+          "link": "https://theconversation.com/todays-mediterranean-diet-leans-on-olive-oil-vegies-and-fish-but-the-ancients-mainly-ate-bread-288820",
+          "published": "2026-08-11T01:46:08+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The ancients ate mountains of bread and cheese, but you’d never know from today’s version of the Mediterranean diet.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Dolphins learn how to use tools to hunt for fish from their mothers",
+          "link": "https://theconversation.com/dolphins-learn-how-to-use-tools-to-hunt-for-fish-from-their-mothers-283268",
+          "published": "2026-08-10T20:10:50+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Tool use among non-human animals is more widespread than you might think.",
           "image": null,
           "other_news": false
         },
@@ -695,17 +623,6 @@
     "Other News": {
       "Plastic & Ocean Pollution": [
         {
-          "title": "Soft plastic recycling laws have been delayed – an expert explains why",
-          "link": "https://theconversation.com/soft-plastic-recycling-laws-have-been-delayed-an-expert-explains-why-287907",
-          "published": "2026-07-22T12:40:32+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Our whole system is built to reward recyclability. But what actually matters is how much we’re manufacturing in the first place.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Better guacamole? How avocado import rules helped cut Mexico’s water pollution – it holds lessons for future US trade deals",
           "link": "https://theconversation.com/better-guacamole-how-avocado-import-rules-helped-cut-mexicos-water-pollution-it-holds-lessons-for-future-us-trade-deals-287477",
           "published": "2026-07-29T12:16:23+00:00",
@@ -739,25 +656,14 @@
           "other_news": true
         },
         {
-          "title": "Cancers, handicaps… En Afrique du Sud, l’enfer des habitants de Snake Park face à la pollution des anciennes mines d’or",
-          "link": "https://vert.eco/international/cancers-handicaps-en-afrique-du-sud-lenfer-des-habitants-de-snake-park-face-a-la-pollution-des-anciennes-mines-dor/",
-          "published": "2026-08-01T05:00:00+00:00",
-          "source": "Vert Eco Articles",
+          "title": "La Guadeloupe et la Martinique en alerte rouge à la pollution aux particules fines à cause d’une brume de sable saharienne plus dense que prévu",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/10/la-guadeloupe-et-la-martinique-en-alerte-rouge-a-la-pollution-aux-particules-fines-a-cause-d-une-brume-de-sable-saharienne-plus-dense-que-prevu_6743434_3244.html",
+          "published": "2026-08-10T19:17:30+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Dans le quartier informel de Snake Park, à Soweto (Afrique du Sud), les habitant·es souffrent d’asthme chronique, de cancers du poumon et les enfants",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Plastic waste is harming livestock in South Africa: smallholder farmers using communal land set out the support they need",
-          "link": "https://theconversation.com/plastic-waste-is-harming-livestock-in-south-africa-smallholder-farmers-using-communal-land-set-out-the-support-they-need-288414",
-          "published": "2026-08-09T04:28:43+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "As plastic waste spreads across communal grazing land, smallholder farmers are losing livestock, income and an important source of food and security.",
-          "image": null,
+          "summary": "La procédure d’alerte ne concerne l’archipel tout entier que pour la seule journée de lundi, un retour à la normale étant attendu mardi. A la Martiniq",
+          "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/6e1a3e6_upload-1-z9ymfs2b9dyp-frame-250.jpg",
           "other_news": true
         }
       ],
@@ -785,17 +691,6 @@
           "other_news": true
         },
         {
-          "title": "I feel deep sadness about bird flu and environmental loss. Is this normal?",
-          "link": "https://theconversation.com/i-feel-deep-sadness-about-bird-flu-and-environmental-loss-is-this-normal-289145",
-          "published": "2026-08-07T04:32:07+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Grief is an understandable response to witnessing harm to places and species that matter to us.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Sacred places & living lands: How Indigenous Sámi peoples steward biodiversity (analysis)",
           "link": "https://news.mongabay.com/2026/08/sacred-places-living-lands-how-indigenous-sami-peoples-steward-biodiversity-analysis/",
           "published": "2026-08-07T17:00:58+00:00",
@@ -818,95 +713,82 @@
           "other_news": true
         }
       ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "Why the real test of Canada’s AI strategy is in university classrooms",
-          "link": "https://theconversation.com/why-the-real-test-of-canadas-ai-strategy-is-in-university-classrooms-259880",
-          "published": "2026-08-09T12:54:49+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "AI policy guiding university learning and teacher education must address how technology changes the social and emotional conditions of teaching and le",
-          "image": null,
-          "other_news": true
-        }
-      ],
       "Other Marine News": [
         {
-          "title": "Most of sun to be eclipsed across island of Ireland",
-          "link": "https://www.bbc.co.uk/news/articles/c39epmz7ex4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-09T05:19:17+00:00",
+          "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T19:17:11+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor show",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/5f6e90c0-91ac-11f1-9c12-47c0acd34ba6.png",
+          "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/561f/live/ef6387f0-94f2-11f1-b2ab-0dd01740f9f6.jpg",
           "other_news": true
         },
         {
-          "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-          "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-07T13:32:41+00:00",
+          "title": "When and where to see the solar eclipse in Scotland",
+          "link": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T15:29:51+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg",
+          "summary": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5175/live/e90a9c00-94c9-11f1-8dc4-8907761852f3.jpg",
           "other_news": true
         },
         {
-          "title": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
-          "link": "https://www.bbc.co.uk/news/videos/c89n8940vq8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-06T21:49:48+00:00",
+          "title": "Best places to see partial solar eclipse across England",
+          "link": "https://www.bbc.co.uk/news/articles/cdx7kzv5e3qo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T15:21:47+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a7/live/ae7b8b30-91e0-11f1-9bc8-c9e5b4077192.jpg",
+          "summary": "Some parts of England could see up to 96 per cent of the moon covering the sun on 12 August.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/285c/live/352e1ed0-94c1-11f1-adb5-bd19050a74a5.jpg",
           "other_news": true
         },
         {
-          "title": "When and where to see the solar eclipse in London",
-          "link": "https://www.bbc.co.uk/news/articles/c62x3pyrxrmo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10T04:57:32+00:00",
+          "title": "Lorry turns over as typhoon hits China",
+          "link": "https://www.bbc.co.uk/news/videos/cgmklm40k9go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T10:13:18+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "What you need to know about the solar eclipse on 12 August and the best viewing spots in London.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e9/live/b656b440-925f-11f1-b9ff-37ae3aba3894.jpg",
+          "summary": "Video shows a lorry being blown over after heavy rain and winds continued to batter Wenzhou, a city in China's eastern Zhejiang province.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/566f/live/00661b60-948c-11f1-a84f-1b27ca708b78.jpg",
           "other_news": true
         },
         {
-          "title": "1999: Solar eclipse experienced from Alderney",
-          "link": "https://www.bbc.co.uk/news/videos/c1e1v0q257jo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-09T06:30:43+00:00",
+          "title": "Blaze tackled at suspected illegal waste dump",
+          "link": "https://www.bbc.co.uk/news/articles/cd69l026j7po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T18:54:26+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Footage of people in Alderney catching the best view in the British Isles of the solar eclipse.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca3a/live/15cdea30-9263-11f1-b2ab-0dd01740f9f6.jpg",
+          "summary": "A fire broke out at a suspected illegal waste site near Carrington Spur in Trafford, Greater Manchester.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bce3/live/a463d760-94c9-11f1-8dc4-8907761852f3.jpg",
           "other_news": true
         },
         {
-          "title": "What it's like to chase solar eclipses around the world",
-          "link": "https://www.bbc.co.uk/news/articles/cd69wn5ny3eo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-09T01:31:41+00:00",
+          "title": "Who will be able to see the solar eclipse?",
+          "link": "https://www.bbc.co.uk/news/videos/c78gleevweno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T18:20:02+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "For many, a total solar eclipse is a once-in-a-lifetime experience. But for a dedicated few, it's a deep passion.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a4/live/22637860-9271-11f1-a7ab-8b30adf0800a.jpg",
+          "summary": "What you need to know about the UK and Europe's best eclipse in 27 years.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7da/live/90bdd0a0-94e0-11f1-b2ab-0dd01740f9f6.jpg",
           "other_news": true
         },
         {
-          "title": "What can we see during the partial solar eclipse?",
-          "link": "https://www.bbc.co.uk/news/articles/c86n5w392xjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08T06:26:21+00:00",
+          "title": "Solar eclipse: Where and when you can see it across North West England",
+          "link": "https://www.bbc.co.uk/news/articles/cx256nwl7lxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T13:41:26+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Ways to safely enjoy the partial solar eclipse on Wednesday evening.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6519/live/18b6bf10-91af-11f1-9c12-47c0acd34ba6.jpg",
+          "summary": "The partial eclipse is expected to be the most extensive since 1999, astronomers say.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65be/live/5e1e7ef0-94be-11f1-adb5-bd19050a74a5.jpg",
           "other_news": true
         },
         {
@@ -1152,6 +1034,17 @@
           "other_news": true
         },
         {
+          "title": "Cyclospora spreads through human waste – so how did it get on food?",
+          "link": "https://theconversation.com/cyclospora-spreads-through-human-waste-so-how-did-it-get-on-food-289020",
+          "published": "2026-08-10T12:35:17+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "US sewage treatment plants likely don’t get rid of all the disease-causing protozoa, and monitoring discharged wastewater for it is difficult.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Climate change may be making us lonelier: How heat waves and extreme weather disrupt social connections everyone relies on",
           "link": "https://theconversation.com/climate-change-may-be-making-us-lonelier-how-heat-waves-and-extreme-weather-disrupt-social-connections-everyone-relies-on-288678",
           "published": "2026-08-05T12:33:56+00:00",
@@ -1214,28 +1107,6 @@
           "type": "news",
           "language": "en",
           "summary": "What communities and businesses really need is information they can act on, with examples of what’s worked elsewhere and why – and what fails.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "5 lessons from 20 years of climate surveys: Political party matters, but it doesn’t explain everything",
-          "link": "https://theconversation.com/5-lessons-from-20-years-of-climate-surveys-political-party-matters-but-it-doesnt-explain-everything-287056",
-          "published": "2026-07-21T12:46:04+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Why would a young Republican back solar but reject a carbon tax? Twenty years of survey data shows climate opinion is more complex than party labels s",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "How hot does it get in the desert? A climate scientist explains its blazing heat",
-          "link": "https://theconversation.com/how-hot-does-it-get-in-the-desert-a-climate-scientist-explains-its-blazing-heat-284498",
-          "published": "2026-07-20T12:25:57+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Death Valley set a record when the temperature reached 134 degrees Fahrenheit. Here’s why deserts can reach such scorching temperatures – and also ver",
           "image": null,
           "other_news": true
         },
@@ -1345,7 +1216,7 @@
           "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Egypt, Vietnam, Argentina and the Philippines are among the 45 nations which have breached the Paris Agreement by not submitting their climate plan to",
+          "summary": "Egypt, Vietnam, Argentina and the Philippines are among the 45 nations that have breached the Paris Agreement by not submitting a new NDC to the UN\nTh",
           "image": null,
           "other_news": true
         },
@@ -1493,6 +1364,17 @@
           "other_news": true
         },
         {
+          "title": "Les « sept magnifiques », ces cimetières devenus îlots de biodiversité",
+          "link": "https://reporterre.net/Mesanges-tilleuls-renards-A-Londres-ces-cimetieres-abandonnes-qui-debordent-de-vie",
+          "published": "2026-08-10T05:05:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Construits au XIXe siècle, des cimetières londoniens surnommés les « Magnificent Seven » sont devenus des lieux de promenade où",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/_dsf4185_1_1_-21722.jpg?1786338301",
+          "other_news": true
+        },
+        {
           "title": "Partir seule, tracer sa route : ces livres féministes pour passer à l'acte",
           "link": "https://reporterre.net/Partir-seule-tracer-sa-route-ces-livres-feministes-pour-passer-a-l-acte",
           "published": "2026-08-08T05:10:00+00:00",
@@ -1526,47 +1408,14 @@
           "other_news": true
         },
         {
-          "title": "El Niño threatens acute hunger for 50 million people, UN warns",
-          "link": "https://oceanographicmagazine.com/news/el-nino-threatens-acute-hunger-for-50-million-people-un-warns/",
-          "published": "2026-08-06T17:22:39+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A surging climate anomaly combined with skyrocketing energy and fertiliser prices linked to Middle East conflict risks pushing millions into a food cr",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Offshore wind farms hold key to sustainable seaweed at scale",
-          "link": "https://oceanographicmagazine.com/news/offshore-wind-farms-hold-key-to-sustainable-seaweed-at-scale/",
-          "published": "2026-08-04T10:27:54+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Danish researchers have shown that offshore wind farms can double as seaweed cultivation sites, producing high-quality food biomass without farmland o",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "En Europe occidentale, une sécheresse exceptionnelle qui pèse sur les activités humaines et les écosystèmes",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/10/en-europe-occidentale-une-secheresse-exceptionnelle-qui-pese-sur-les-activites-humaines-et-les-ecosystemes_6743010_3244.html",
-          "published": "2026-08-10T05:30:16+02:00",
+          "title": "Camille Dormoy, sociologue : « L’économie circulaire demande de reprendre le temps qu’on nous a appris à ne plus perdre »",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/10/camille-dormoy-sociologue-l-economie-circulaire-demande-de-reprendre-le-temps-qu-on-nous-a-appris-a-ne-plus-perdre_6743267_3232.html",
+          "published": "2026-08-10T13:00:07+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "L’ouest du continent est marqué par des niveaux d’humidité des sols très inférieurs à ceux de juillet 2022, le « dernier été marqué par une grave séch",
-          "image": "https://img.lemde.fr/2026/07/30/400/0/4032/2016/644/322/60/0/8a900fb_ftp-1-ughz2qsjoqrb-2026-07-30t114658z-1080619484-rc2aoma1tcxa-rtrmadp-3-europe-weather-swiss-drought.JPG",
-          "other_news": true
-        },
-        {
-          "title": "« Il coûtera toujours moins cher d’agir aujourd’hui contre le réchauffement climatique que de réparer les conséquences »",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/09/il-coutera-toujours-moins-cher-d-agir-aujourd-hui-contre-le-rechauffement-climatique-que-de-reparer-les-consequences_6741923_3244.html",
-          "published": "2026-08-09T06:00:31+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "« Les entretiens de “Chaleur humaine” ». Le chercheur en santé publique Kévin Jean expliquait les bénéfices des politiques environnementales pour la s",
-          "image": "https://img.lemde.fr/2026/07/22/0/0/4252/2126/644/322/60/0/7e720a5_upload-1-0i2skowhtwww-hd-rvb-web-se-rie-e-te-ep-3-chaleur-humaine.jpg",
+          "summary": "Dans une société fondée sur la vitesse, l’injonction à trier, réparer et valoriser les objets se heurte au manque de temps. Un angle mort des politiqu",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/2abc471_upload-1-bxghsvckpxoj-frame-733.jpg",
           "other_news": true
         },
         {
@@ -1592,36 +1441,58 @@
           "other_news": true
         },
         {
-          "title": "Wind and solar projects in Kenya and South Africa don’t always benefit the communities that host them – study",
-          "link": "https://theconversation.com/wind-and-solar-projects-in-kenya-and-south-africa-dont-always-benefit-the-communities-that-host-them-study-285717",
-          "published": "2026-08-09T04:29:34+00:00",
+          "title": "Can the searing European summer put climate action back on the agenda – or will disaster response take over?",
+          "link": "https://theconversation.com/can-the-searing-european-summer-put-climate-action-back-on-the-agenda-or-will-disaster-response-take-over-289151",
+          "published": "2026-08-10T20:10:35+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "In South Africa and Kenya, some green energy projects have deprived local communities of land and livelihoods instead of sharing the benefits.",
+          "summary": "Wildfire, drought and heat have made climate change impossible to avoid this northern summer. But will authorities tackle the cause – or the symptoms?",
           "image": null,
           "other_news": true
         },
         {
-          "title": "Eleven must-see comedy shows at the Edinburgh Fringe",
-          "link": "https://theconversation.com/eleven-must-see-comedy-shows-at-the-edinburgh-fringe-289280",
-          "published": "2026-08-07T15:18:08+00:00",
+          "title": "Australians have said they have ‘no religion’ on every census we’ve had – and it is growing every year",
+          "link": "https://theconversation.com/australians-have-said-they-have-no-religion-on-every-census-weve-had-and-it-is-growing-every-year-289379",
+          "published": "2026-08-10T20:09:33+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "When it comes to the best of the Fringe’s comedy lineup this year, we’ve done all the heavy lifting so you don’t have to.",
+          "summary": "In Australia’s first census in 1911, only 0.4% of us said we had ‘no religion’. Now, ‘no religion’ is Australia’s biggest religious affiliation.",
           "image": null,
           "other_news": true
         },
         {
-          "title": "AI is making disinformation harder to spot – but we’ve found a new way to catch it",
-          "link": "https://theconversation.com/ai-is-making-disinformation-harder-to-spot-but-weve-found-a-new-way-to-catch-it-288671",
-          "published": "2026-08-07T13:34:17+00:00",
+          "title": "How a cosmic coincidence gives Earth its ‘perfect’ solar eclipses",
+          "link": "https://theconversation.com/how-a-cosmic-coincidence-gives-earth-its-perfect-solar-eclipses-289356",
+          "published": "2026-08-10T14:14:02+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "As AI-generated text becomes harder to identify, the real clues lie in how online conversations are being manipulated.",
+          "summary": "A solar eclipse’s appearance is wrapped up in the geometry of the bodies involved.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Government set for some compromise on gambling bill, with curb on inducements",
+          "link": "https://theconversation.com/government-set-for-some-compromise-on-gambling-bill-with-curb-on-inducements-288352",
+          "published": "2026-08-10T09:49:04+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Anthony Albanese will negotiate with both the Coalition and the Greens to try and pass crucial legislation this week.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Can a photo save orangutans?",
+          "link": "https://news.mongabay.com/short-article/2026/08/can-a-photo-save-orangutans-2/",
+          "published": "2026-08-10T11:02:16+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In Indonesian Borneo, conservation organization KehatiKu is testing a new approach: paying local people to photograph wildlife and upload the sighting",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/10105951/Mongabay_Thumbnail_SafeOrangutan_ShortWeb.jpg",
           "other_news": true
         },
         {
@@ -1677,28 +1548,6 @@
           "language": "en",
           "summary": "If you’ve ever strolled through New York City and felt like there were a lot of cats strutting the streets, you weren’t wrong. No one knows exactly ho",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/05030557/1-Neighborhood-Cats-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Environmental activists in Kenya concerned over billionaire’s planned oil refinery",
-          "link": "https://news.mongabay.com/2026/08/environmental-activists-in-kenya-concerned-over-billionaires-planned-oil-refinery/",
-          "published": "2026-08-05T11:06:34+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Billionaire Aliko Dangote’s choice of Lamu, Kenya, for his oil refinery project, estimated to cost $17 billion, has elicited mixed reactions, with env",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/05101433/Aliko-Dangote-768x441.png",
-          "other_news": true
-        },
-        {
-          "title": "Malaysia implements total e-waste import ban to curb toxic trade",
-          "link": "https://news.mongabay.com/short-article/2026/08/malaysia-implements-total-e-waste-import-ban-to-curb-toxic-trade/",
-          "published": "2026-08-05T09:22:32+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In April 2026, Malaysia enacted an absolute ban on the import of electronic waste, moving to end its role as a primary destination for the world’s haz",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/05092204/AKPS3-768x512.jpg",
           "other_news": true
         }
       ]

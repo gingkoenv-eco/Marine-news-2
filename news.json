@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-08-11T04:59:41.348841+00:00",
+  "generated_at": "2026-08-11T05:55:50.882906+00:00",
   "categories": {
     "Politics & Policy": {
+      "Marine Biodiversity & Conservation": [
+        {
+          "title": "Current shark finning regulations inefficient at curbing global trade",
+          "link": "https://oceanographicmagazine.com/news/current-shark-finning-regulations-inefficient-at-curbing-global-trade/",
+          "published": "2026-08-05T14:08:09+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The new study reveals there has been no significant change in global trade flows, including export and import numbers, domestic consumption and active",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Indigenous-led MPA secures critical international backing",
+          "link": "https://oceanographicmagazine.com/news/indigenous-led-mpa-secures-critical-international-backing/",
+          "published": "2026-08-06T17:05:33+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The democratically elected council of Easter Island has signed new agreements to secure funding, research, and maritime patrols for one of the world's",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Other Marine News": [
         {
           "title": "Fears of ‘catastrophic’ decline of giant Australian cuttlefish after only 44 counted in dive survey",
@@ -99,6 +125,28 @@
           "other_news": false
         },
         {
+          "title": "Pristine Seas lands in Samoa for MPA network survey",
+          "link": "https://oceanographicmagazine.com/news/pristine-seas-lands-in-samoa-for-mpa-network-survey/",
+          "published": "2026-08-10T16:20:29+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Samoa's newly established network of marine protected areas are home to nearly 1,000 recorded fish species, 200 species of coral, and critical habitat",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Tagging study reveals new insights into iconic humpback songs",
+          "link": "https://oceanographicmagazine.com/news/humpback-whales-sing-most-complex-songs-at-deepest-points-of-dives/",
+          "published": "2026-08-07T15:18:56+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The study maps humpback whale songs to complete dive cycles for the first time, revealing how physical strain shapes vocal displays and opening new pa",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "As Canada’s captive belugas arrive in the US, questions linger about their future",
           "link": "https://news.mongabay.com/2026/08/as-canadas-captive-belugas-arrive-in-the-us-questions-linger-about-their-future/",
           "published": "2026-08-07T16:16:11+00:00",
@@ -145,6 +193,19 @@
           "other_news": false
         }
       ],
+      "Nature-Based Solutions & Restoration": [
+        {
+          "title": "Resilient seagrass offers new hope for restoring degraded estuaries",
+          "link": "https://oceanographicmagazine.com/news/resilient-seagrass-offers-new-hope-for-restoring-damaged-ecosystems/",
+          "published": "2026-08-07T12:02:32+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Known for surviving fluctuating water and salt levels in man-made ponds, the hardy seagrass could jump-start the recovery of ecologically-depleted est",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Deep Ocean & Mesophotic Ecosystems": [
         {
           "title": "Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition",
@@ -155,6 +216,17 @@
           "language": "en",
           "summary": "Canadian scientists visit remains of polar exploration vessels in ‘golden era for shipwreck investigating’Moments after devouring the final glimmers o",
           "image": "https://i.guim.co.uk/img/media/361a4fe8ba748a28c2f7c2d8d3589c2494dc2b18/124_130_3892_3114/master/3892.jpg?width=140&quality=85&auto=format&fit=max&s=c776c283a3b0134608d3618ef375f038",
+          "other_news": false
+        },
+        {
+          "title": "Mid-Atlantic expedition a barreleye-opening moment for scientists",
+          "link": "https://oceanographicmagazine.com/news/mid-atlantic-expedition-a-barreleye-opening-moment-for-scientists/",
+          "published": "2026-08-05T17:18:54+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Two hydrothermal vent fields have been discovered in the mid-Atlantic's Doldrums Fracture Zone - rare hybrid systems combining volcanic venting and se",
+          "image": null,
           "other_news": false
         },
         {
@@ -282,17 +354,6 @@
           "language": "en",
           "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce6/live/e2285ea0-945a-11f1-80f4-1baf774a4468.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Forest funding boost as two million trees planted",
-          "link": "https://www.bbc.co.uk/news/articles/cq894dq252ko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10T05:14:31+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A tree planting scheme to boost climate resilience receives £8.7m of funding.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25e2/live/0b1bc610-93d6-11f1-870d-5d08c49babb2.jpg",
           "other_news": false
         },
         {
@@ -491,6 +552,39 @@
           "language": "fr",
           "summary": "Un singe qui peint, un poisson capable de faire de magnifiques rosaces, des abeilles qui dansent et un oiseau qui construit des",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/12_animauxgeniaux_jardiniersatine_couleur_rvb-736a3.jpg?1785561002",
+          "other_news": false
+        },
+        {
+          "title": "Phytoplankton dramatically decline following El Niño arrival",
+          "link": "https://oceanographicmagazine.com/news/phytoplankton-dramatically-decline-following-el-nino-arrival/",
+          "published": "2026-08-10T15:31:28+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "These tiny marine organisms form the bases of the marine food web, their decline will have a knock on effect across fisheries and wildlife worldwide –",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Ocean hits highest-ever-recorded temperature in July",
+          "link": "https://oceanographicmagazine.com/news/ocean-hits-highest-ever-recorded-temperature-in-july/",
+          "published": "2026-08-10T09:36:21+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Average sea surface temperatures surpassed the previous record set in 2023, during a powerful El Niño \nThe post Ocean hits highest-ever-recorded tempe",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "AI analysis reveals dramatic rise in global ocean algae blooms",
+          "link": "https://oceanographicmagazine.com/news/ai-analysis-reveals-dramatic-rise-in-global-ocean-algae-blooms/",
+          "published": "2026-08-06T16:56:14+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The expansion of algal blooms worldwide benefits marine life in the open ocean, but closer to shore it's anticipated to harm local ecosystems and coas",
+          "image": null,
           "other_news": false
         },
         {
@@ -759,6 +853,17 @@
           "other_news": true
         },
         {
+          "title": "Royal Golden Guernsey Goats join conservation herd",
+          "link": "https://www.bbc.co.uk/news/articles/ceqewxjjn5zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-11T05:12:47+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The six-month-old goats are welcomed by the Governor of Guernsey.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da30/live/4670a400-94b3-11f1-b2ab-0dd01740f9f6.jpg",
+          "other_news": true
+        },
+        {
           "title": "Blaze tackled at suspected illegal waste dump",
           "link": "https://www.bbc.co.uk/news/articles/cd69l026j7po?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-10T18:54:26+00:00",
@@ -770,6 +875,28 @@
           "other_news": true
         },
         {
+          "title": "Isle of Man 'very well placed' for solar eclipse",
+          "link": "https://www.bbc.co.uk/news/articles/c89n5lxp84wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-11T05:13:46+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The island is particularly well placed to see the celestial spectacle, sitting just outside the path of totality.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ba4/live/0155afe0-94aa-11f1-a4b1-4525e6527cc2.jpg",
+          "other_news": true
+        },
+        {
+          "title": "'Day turned into dusk' in 1999 total solar eclipse",
+          "link": "https://www.bbc.co.uk/news/articles/c0rdx87rgdgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-11T05:07:34+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Those who saw the eclipse describe the \"eerie\" moment birds stopped singing.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/759b/live/1bd36a20-94a9-11f1-afe9-fb1a837ec5d9.jpg",
+          "other_news": true
+        },
+        {
           "title": "Who will be able to see the solar eclipse?",
           "link": "https://www.bbc.co.uk/news/videos/c78gleevweno?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-10T18:20:02+00:00",
@@ -778,17 +905,6 @@
           "language": "en",
           "summary": "What you need to know about the UK and Europe's best eclipse in 27 years.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7da/live/90bdd0a0-94e0-11f1-b2ab-0dd01740f9f6.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Solar eclipse: Where and when you can see it across North West England",
-          "link": "https://www.bbc.co.uk/news/articles/cx256nwl7lxo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10T13:41:26+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The partial eclipse is expected to be the most extensive since 1999, astronomers say.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65be/live/5e1e7ef0-94be-11f1-adb5-bd19050a74a5.jpg",
           "other_news": true
         },
         {
@@ -1364,6 +1480,17 @@
           "other_news": true
         },
         {
+          "title": "« Ils savent qu'ils vont faire une différence » : en Espagne, des brigades citoyennes face aux incendies",
+          "link": "https://reporterre.net/Incendies-en-Espagne-les-citoyens-se-forment-pour-intervenir-avant-les-pompiers-Quand-les",
+          "published": "2026-08-11T05:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors que l'Espagne fait face à des incendies de plus en plus ravageurs, aggravés par le changement climatique, des citoyens se",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/img_2451_1_-8ac05.jpg?1786424403",
+          "other_news": true
+        },
+        {
           "title": "Les « sept magnifiques », ces cimetières devenus îlots de biodiversité",
           "link": "https://reporterre.net/Mesanges-tilleuls-renards-A-Londres-ces-cimetieres-abandonnes-qui-debordent-de-vie",
           "published": "2026-08-10T05:05:00+00:00",
@@ -1397,14 +1524,14 @@
           "other_news": true
         },
         {
-          "title": "Le changement climatique a bien favorisé les feux de forêt",
-          "link": "https://reporterre.net/Le-changement-climatique-a-bien-favorise-les-feux-de-foret",
-          "published": "2026-07-31T11:39:33+00:00",
-          "source": "Reporterre",
+          "title": "El Niño threatens acute hunger for 50 million people, UN warns",
+          "link": "https://oceanographicmagazine.com/news/el-nino-threatens-acute-hunger-for-50-million-people-un-warns/",
+          "published": "2026-08-06T17:22:39+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "language": "fr",
-          "summary": "Aucun doute possible. Selon une nouvelle étude du réseau scientifique World Weather Attribution (WWA), le changement climatique",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/chaleur_soleil_-49e1d.jpg?1785497975",
+          "language": "en",
+          "summary": "A surging climate anomaly combined with skyrocketing energy and fertiliser prices linked to Middle East conflict risks pushing millions into a food cr",
+          "image": null,
           "other_news": true
         },
         {
@@ -1482,6 +1609,17 @@
           "language": "en",
           "summary": "Anthony Albanese will negotiate with both the Coalition and the Greens to try and pass crucial legislation this week.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Uzbekistan’s houbara releases serve hunting, not conservation, expert says",
+          "link": "https://news.mongabay.com/short-article/2026/08/uzbekistans-houbara-releases-serve-hunting-not-conservation-expert-says/",
+          "published": "2026-08-11T05:31:07+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "There’s no conservation motive or benefit behind the Uzbekistan government’s recent releases of more than 2,000 captive-bred Asian houbara bustards ac",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/11053032/Houbara_Bustard_in_Talagang_tehsil_Punjab_Pakistan-768x480.jpg",
           "other_news": true
         },
         {

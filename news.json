@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-12T05:25:02.524291+00:00",
+  "generated_at": "2026-08-12T06:18:09.570927+00:00",
   "categories": {
     "Politics & Policy": {
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Indigenous-led MPA secures critical international backing",
+          "link": "https://oceanographicmagazine.com/news/indigenous-led-mpa-secures-critical-international-backing/",
+          "published": "2026-08-06T17:05:33+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The democratically elected council of Easter Island has signed new agreements to secure funding, research, and maritime patrols for one of the world's",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Other Marine News": [
         {
           "title": "Fears of ‘catastrophic’ decline of giant Australian cuttlefish after only 44 counted in dive survey",
@@ -88,6 +101,28 @@
           "other_news": false
         },
         {
+          "title": "Pristine Seas lands in Samoa for MPA network survey",
+          "link": "https://oceanographicmagazine.com/news/pristine-seas-lands-in-samoa-for-mpa-network-survey/",
+          "published": "2026-08-10T16:20:29+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Samoa's newly established network of marine protected areas are home to nearly 1,000 recorded fish species, 200 species of coral, and critical habitat",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Tagging study reveals new insights into iconic humpback songs",
+          "link": "https://oceanographicmagazine.com/news/humpback-whales-sing-most-complex-songs-at-deepest-points-of-dives/",
+          "published": "2026-08-07T15:18:56+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The study maps humpback whale songs to complete dive cycles for the first time, revealing how physical strain shapes vocal displays and opening new pa",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Iceland to deport antiwhaling protest ship’s crew after they interfered with whale hunt",
           "link": "https://news.mongabay.com/2026/08/iceland-to-deport-antiwhaling-protest-ships-crew-after-they-interfered-with-whale-hunt/",
           "published": "2026-08-11T18:39:31+00:00",
@@ -123,6 +158,19 @@
           "other_news": false
         }
       ],
+      "Nature-Based Solutions & Restoration": [
+        {
+          "title": "Resilient seagrass offers new hope for restoring degraded estuaries",
+          "link": "https://oceanographicmagazine.com/news/resilient-seagrass-offers-new-hope-for-restoring-damaged-ecosystems/",
+          "published": "2026-08-07T12:02:32+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Known for surviving fluctuating water and salt levels in man-made ponds, the hardy seagrass could jump-start the recovery of ecologically-depleted est",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Deep Ocean & Mesophotic Ecosystems": [
         {
           "title": "Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition",
@@ -133,6 +181,17 @@
           "language": "en",
           "summary": "Canadian scientists visit remains of polar exploration vessels in ‘golden era for shipwreck investigating’Moments after devouring the final glimmers o",
           "image": "https://i.guim.co.uk/img/media/361a4fe8ba748a28c2f7c2d8d3589c2494dc2b18/124_130_3892_3114/master/3892.jpg?width=140&quality=85&auto=format&fit=max&s=c776c283a3b0134608d3618ef375f038",
+          "other_news": false
+        },
+        {
+          "title": "Mid-Atlantic expedition a barreleye-opening moment for scientists",
+          "link": "https://oceanographicmagazine.com/news/mid-atlantic-expedition-a-barreleye-opening-moment-for-scientists/",
+          "published": "2026-08-05T17:18:54+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Two hydrothermal vent fields have been discovered in the mid-Atlantic's Doldrums Fracture Zone - rare hybrid systems combining volcanic venting and se",
+          "image": null,
           "other_news": false
         },
         {
@@ -470,6 +529,39 @@
           "other_news": false
         },
         {
+          "title": "Phytoplankton dramatically decline following El Niño arrival",
+          "link": "https://oceanographicmagazine.com/news/phytoplankton-dramatically-decline-following-el-nino-arrival/",
+          "published": "2026-08-10T15:31:28+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "These tiny marine organisms form the bases of the marine food web, their decline will have a knock on effect across fisheries and wildlife worldwide –",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Ocean hits highest-ever-recorded temperature in July",
+          "link": "https://oceanographicmagazine.com/news/ocean-hits-highest-ever-recorded-temperature-in-july/",
+          "published": "2026-08-10T09:36:21+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Average sea surface temperatures surpassed the previous record set in 2023, during a powerful El Niño \nThe post Ocean hits highest-ever-recorded tempe",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "AI analysis reveals dramatic rise in global ocean algae blooms",
+          "link": "https://oceanographicmagazine.com/news/ai-analysis-reveals-dramatic-rise-in-global-ocean-algae-blooms/",
+          "published": "2026-08-06T16:56:14+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The expansion of algal blooms worldwide benefits marine life in the open ocean, but closer to shore it's anticipated to harm local ecosystems and coas",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "En Grèce, la prolifération du poisson-ballon, invasif et toxique, est un fléau pour les pêcheurs",
           "link": "https://www.lemonde.fr/planete/article/2026/08/11/en-grece-la-proliferation-du-poisson-ballon-invasif-et-toxique-est-un-fleau-pour-les-pecheurs_6743833_3244.html",
           "published": "2026-08-11T15:00:01+02:00",
@@ -619,6 +711,17 @@
           "summary": "[Ces précurseuses écolos et féministes 4/5] Critique du progrès industriel et pionnière du socialisme, Flora Tristan aura passé",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/flora_tristan-affc3.jpg?1786019401",
           "other_news": true
+        },
+        {
+          "title": "One year on and the global plastics treaty ‘is going backwards’",
+          "link": "https://oceanographicmagazine.com/news/one-year-on-and-the-global-plastics-treaty-is-going-backwards/",
+          "published": "2026-08-11T08:21:25+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new Aid to Negotiations document for the Global Plastics Treaty has been released a year after Geneva's collapse, but campaigners warn it dilutes ke",
+          "image": null,
+          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -734,6 +837,17 @@
           "language": "en",
           "summary": "The six-month-old goats are welcomed by the Governor of Guernsey.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da30/live/4670a400-94b3-11f1-b2ab-0dd01740f9f6.jpg",
+          "other_news": true
+        },
+        {
+          "title": "No surge in bookings but eclipse 'boosts footfall'",
+          "link": "https://www.bbc.co.uk/news/articles/c7vgq9p04z9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-12T05:56:59+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Tourism chiefs say region can benefit from events like the partial solar eclipse.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/8a261b30-95ad-11f1-a7ab-8b30adf0800a.jpg",
           "other_news": true
         },
         {
@@ -1364,6 +1478,17 @@
           "other_news": true
         },
         {
+          "title": "El Niño threatens acute hunger for 50 million people, UN warns",
+          "link": "https://oceanographicmagazine.com/news/el-nino-threatens-acute-hunger-for-50-million-people-un-warns/",
+          "published": "2026-08-06T17:22:39+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A surging climate anomaly combined with skyrocketing energy and fertiliser prices linked to Middle East conflict risks pushing millions into a food cr",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Thibault Datry, écohydrologue : « Des rivières qui, de mémoire d’homme, ne s’étaient jamais asséchées ne coulent plus »",
           "link": "https://www.lemonde.fr/planete/article/2026/08/12/thibault-datry-ecohydrologue-des-rivieres-qui-de-memoire-d-homme-ne-s-etaient-jamais-assechees-ne-coulent-plus_6744601_3244.html",
           "published": "2026-08-12T06:00:19+02:00",
@@ -1375,17 +1500,6 @@
           "other_news": true
         },
         {
-          "title": "En Espagne, l’éclipse solaire totale tient tout le pays en haleine",
-          "link": "https://www.lemonde.fr/sciences/article/2026/08/12/en-espagne-l-eclipse-solaire-totale-tient-tout-le-pays-en-haleine_6744531_1650684.html",
-          "published": "2026-08-12T05:30:07+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Ce mercredi, les autorités du pays redoutent deux risques : les incendies, après les mégafeux de juillet, et le flux de déplacements, faisant craindre",
-          "image": "https://img.lemde.fr/2026/08/10/1133/0/6797/3398/644/322/60/0/c397e8b_ftp-1-svnk0xzj9t6h-5807781-01-06.jpg",
-          "other_news": true
-        },
-        {
           "title": "Cinquante ans après l’adoption de la loi fondatrice pour la protection de la nature, des avancées majeures aujourd’hui attaquées",
           "link": "https://www.lemonde.fr/planete/article/2026/08/12/cinquante-ans-apres-l-adoption-de-la-loi-fondatrice-pour-la-protection-de-la-nature-des-avancees-majeures-aujourd-hui-attaquees_6744530_3244.html",
           "published": "2026-08-12T05:30:06+02:00",
@@ -1394,6 +1508,17 @@
           "language": "fr",
           "summary": "Les flamants roses, le castor et de nombreux rapaces ont bénéficié du texte promulgué en juillet 1976, qui a notamment instauré un régime de protectio",
           "image": "https://img.lemde.fr/2026/08/10/472/0/3580/1790/644/322/60/0/7267008_upload-1-bsvml7zuy3am-000-94lg6zq.jpg",
+          "other_news": true
+        },
+        {
+          "title": "En Espagne, l’éclipse solaire totale tient tout le pays en haleine",
+          "link": "https://www.lemonde.fr/sciences/article/2026/08/12/en-espagne-l-eclipse-solaire-totale-tient-tout-le-pays-en-haleine_6744531_1650684.html",
+          "published": "2026-08-12T05:30:03+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Ce mercredi, les autorités du pays redoutent deux risques : les incendies, après les mégafeux de juillet, et le flux de déplacements, faisant craindre",
+          "image": "https://img.lemde.fr/2026/08/10/1133/0/6797/3398/644/322/60/0/c397e8b_ftp-1-svnk0xzj9t6h-5807781-01-06.jpg",
           "other_news": true
         },
         {
@@ -1592,17 +1717,6 @@
           "language": "en",
           "summary": "Eriberto throws his head back with a laugh and shakes it as he tills his plot of land in the Peruvian Amazon, near the Cordillera Azul National Park i",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/08172408/Mongabay-final-indigenous-people-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "A banana byproduct transforms farm waste into profits in Bangladesh",
-          "link": "https://news.mongabay.com/2026/08/a-banana-byproduct-transforms-farm-waste-into-profits-in-bangladesh/",
-          "published": "2026-08-07T14:38:05+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Bananas make up 20% of all fruit crops grown in Bangladesh, and the country has begun to unlock the hidden potential of the plant’s agricultural bypro",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/07141336/banana-fiber-1-768x512.jpg",
           "other_news": true
         }
       ]

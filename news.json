@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:28:09.567072+00:00",
+  "generated_at": "2026-08-13T06:20:41.303867+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
@@ -11,19 +11,6 @@
           "type": "news",
           "language": "en",
           "summary": "Effective migration policy is not about imposing new patterns of movement, but about making existing ones safer, fairer, and more beneficial for all.",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "Indigenous-led MPA secures critical international backing",
-          "link": "https://oceanographicmagazine.com/news/indigenous-led-mpa-secures-critical-international-backing/",
-          "published": "2026-08-06T17:05:33+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The democratically elected council of Easter Island has signed new agreements to secure funding, research, and maritime patrols for one of the world's",
           "image": null,
           "other_news": false
         }
@@ -125,28 +112,6 @@
           "other_news": false
         },
         {
-          "title": "Pristine Seas lands in Samoa for MPA network survey",
-          "link": "https://oceanographicmagazine.com/news/pristine-seas-lands-in-samoa-for-mpa-network-survey/",
-          "published": "2026-08-10T16:20:29+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Samoa's newly established network of marine protected areas are home to nearly 1,000 recorded fish species, 200 species of coral, and critical habitat",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Tagging study reveals new insights into iconic humpback songs",
-          "link": "https://oceanographicmagazine.com/news/humpback-whales-sing-most-complex-songs-at-deepest-points-of-dives/",
-          "published": "2026-08-07T15:18:56+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The study maps humpback whale songs to complete dive cycles for the first time, revealing how physical strain shapes vocal displays and opening new pa",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Marine heatwaves are cooking our ocean ecosystems – and will only become more common",
           "link": "https://theconversation.com/marine-heatwaves-are-cooking-our-ocean-ecosystems-and-will-only-become-more-common-288400",
           "published": "2026-08-12T20:10:00+00:00",
@@ -170,17 +135,6 @@
         }
       ],
       "Nature-Based Solutions & Restoration": [
-        {
-          "title": "Resilient seagrass offers new hope for restoring degraded estuaries",
-          "link": "https://oceanographicmagazine.com/news/resilient-seagrass-offers-new-hope-for-restoring-damaged-ecosystems/",
-          "published": "2026-08-07T12:02:32+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Known for surviving fluctuating water and salt levels in man-made ponds, the hardy seagrass could jump-start the recovery of ecologically-depleted est",
-          "image": null,
-          "other_news": false
-        },
         {
           "title": "On fragile Sumatran peatland, a farmer fights to bring back lost mangroves",
           "link": "https://news.mongabay.com/2026/08/on-fragile-sumatran-peatland-a-farmer-fights-to-bring-back-lost-mangroves/",
@@ -231,17 +185,6 @@
         }
       ],
       "Marine Protected Areas & Policy": [
-        {
-          "title": "Millions of kilograms of marine life caught in Australia’s marine parks annually",
-          "link": "https://oceanographicmagazine.com/news/millions-of-kilograms-of-marine-life-caught-in-australias-marine-parks-annually/",
-          "published": "2026-08-12T13:34:59+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A Freedom of Information request reveals over two million kilograms of marine life is extracted from Australia’s MPAs each year, increasing pressure o",
-          "image": null,
-          "other_news": false
-        },
         {
           "title": "Illegal mining threatens Ghana’s first marine protected area",
           "link": "https://news.mongabay.com/2026/08/illegal-mining-threatens-ghanas-first-marine-protected-area/",
@@ -319,17 +262,6 @@
           "language": "en",
           "summary": "Uncrewed systems are the future for armed forces and the Netherlands is leading the way ‘to keep people out of danger zones’On each side of the target",
           "image": "https://i.guim.co.uk/img/media/635c60273de57e773426a5ed282d9a494af8d887/894_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=cf49ab0659e031fd9e103c5ba3d0b0ac",
-          "other_news": false
-        },
-        {
-          "title": "Giving nature a say: why Scottish marine scientists appointed the ocean to their board",
-          "link": "https://www.theguardian.com/global-development/2026/jul/14/scottish-marine-scientists-ocean-board-trustees",
-          "published": "2026-07-14T06:00:23+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "As the rights of nature are increasingly being recognised, the Scottish Association for Marine Science is the latest organisation to make the ocean a",
-          "image": "https://i.guim.co.uk/img/media/fb2a8adb434c832228ebe75e47b983e6d85c14f3/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6c3b74b908b8ec7873bebbbf77fa0e7a",
           "other_news": false
         },
         {
@@ -542,39 +474,6 @@
           "other_news": false
         },
         {
-          "title": "Dolphins recorded using sea shells to catch fish for first time",
-          "link": "https://oceanographicmagazine.com/news/dolphins-recorded-using-sea-shells-to-catch-fish-for-first-time/",
-          "published": "2026-08-12T09:23:57+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Marine researchers in Hervey Bay have captured the first evidence of East Coast dolphins using empty shells as hunting tools, and passing the trick do",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Phytoplankton dramatically decline following El Niño arrival",
-          "link": "https://oceanographicmagazine.com/news/phytoplankton-dramatically-decline-following-el-nino-arrival/",
-          "published": "2026-08-10T15:31:28+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "These tiny marine organisms form the bases of the marine food web, their decline will have a knock on effect across fisheries and wildlife worldwide –",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Ocean hits highest-ever-recorded temperature in July",
-          "link": "https://oceanographicmagazine.com/news/ocean-hits-highest-ever-recorded-temperature-in-july/",
-          "published": "2026-08-10T09:36:21+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Average sea surface temperatures surpassed the previous record set in 2023, during a powerful El Niño \nThe post Ocean hits highest-ever-recorded tempe",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "L’administration Trump annule un rapport de référence sur l’Arctique, une nouvelle atteinte à la science du climat aux Etats-Unis",
           "link": "https://www.lemonde.fr/planete/article/2026/08/13/l-administration-trump-annule-un-rapport-de-reference-sur-l-arctique-une-nouvelle-atteinte-a-la-science-du-climat-aux-etats-unis_6745334_3244.html",
           "published": "2026-08-13T04:00:14+02:00",
@@ -735,17 +634,6 @@
           "summary": "[Ces précurseuses écolos et féministes 4/5] Critique du progrès industriel et pionnière du socialisme, Flora Tristan aura passé",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/flora_tristan-affc3.jpg?1786019401",
           "other_news": true
-        },
-        {
-          "title": "One year on and the global plastics treaty ‘is going backwards’",
-          "link": "https://oceanographicmagazine.com/news/one-year-on-and-the-global-plastics-treaty-is-going-backwards/",
-          "published": "2026-08-11T08:21:25+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new Aid to Negotiations document for the Global Plastics Treaty has been released a year after Geneva's collapse, but campaigners warn it dilutes ke",
-          "image": null,
-          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -809,6 +697,17 @@
       ],
       "Other Marine News": [
         {
+          "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
+          "link": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-13T05:40:24+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9be/live/904f3af0-968e-11f1-9854-73d5e7b83e3b.jpg",
+          "other_news": true
+        },
+        {
           "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
           "link": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-12T23:19:28+00:00",
@@ -828,17 +727,6 @@
           "language": "en",
           "summary": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/548e/live/e3a91030-9694-11f1-870d-5d08c49babb2.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
-          "link": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-12T21:55:17+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9be/live/904f3af0-968e-11f1-9854-73d5e7b83e3b.jpg",
           "other_news": true
         },
         {
@@ -1546,17 +1434,6 @@
           "other_news": true
         },
         {
-          "title": "El Niño threatens acute hunger for 50 million people, UN warns",
-          "link": "https://oceanographicmagazine.com/news/el-nino-threatens-acute-hunger-for-50-million-people-un-warns/",
-          "published": "2026-08-06T17:22:39+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A surging climate anomaly combined with skyrocketing energy and fertiliser prices linked to Middle East conflict risks pushing millions into a food cr",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Le recours à des outils d’IA pourrait doper l’extraction de pétrole dans le monde, augmentant encore les émissions de CO₂",
           "link": "https://www.lemonde.fr/economie/article/2026/08/13/le-recours-a-des-outils-d-ia-pourrait-doper-l-extraction-de-petrole-dans-le-monde-augmentant-encore-les-emissions-de-co_6745502_3234.html",
           "published": "2026-08-13T05:59:23+02:00",
@@ -1645,17 +1522,6 @@
           "other_news": true
         },
         {
-          "title": "How to enjoy the solar eclipse safely",
-          "link": "https://theconversation.com/how-to-enjoy-the-solar-eclipse-safely-289570",
-          "published": "2026-08-12T08:16:00+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Eclipse glasses, a colander or two pieces of card can all help you watch the 12 August eclipse safely. Ordinary sunglasses cannot.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Indigenous groups renew legal challenge to Indonesian conservation law",
           "link": "https://news.mongabay.com/2026/08/indigenous-groups-renew-legal-challenge-to-indonesian-conservation-law/",
           "published": "2026-08-13T01:20:54+00:00",
@@ -1730,17 +1596,6 @@
           "language": "en",
           "summary": "There’s no conservation motive or benefit behind the Uzbekistan government’s recent releases of more than 2,000 captive-bred Asian houbara bustards ac",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/11053032/Houbara_Bustard_in_Talagang_tehsil_Punjab_Pakistan-768x480.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Can a photo save orangutans?",
-          "link": "https://news.mongabay.com/short-article/2026/08/can-a-photo-save-orangutans-2/",
-          "published": "2026-08-10T11:02:16+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In Indonesian Borneo, conservation organization KehatiKu is testing a new approach: paying local people to photograph wildlife and upload the sighting",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/10105951/Mongabay_Thumbnail_SafeOrangutan_ShortWeb.jpg",
           "other_news": true
         }
       ]

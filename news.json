@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T05:32:23.321273+00:00",
+  "generated_at": "2026-08-17T04:33:09.092643+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -193,32 +193,6 @@
           "other_news": false
         }
       ],
-      "Fisheries & Climate Change Ecosystem": [
-        {
-          "title": "Russia is cutting off Ukraine’s grain exports again, threatening a critical harvest and global food security",
-          "link": "https://theconversation.com/russia-is-cutting-off-ukraines-grain-exports-again-threatening-a-critical-harvest-and-global-food-security-289718",
-          "published": "2026-08-14T02:28:01+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Ukraine has proposed a deal to halt attacks on civilian targets in the Black Sea – an effort to allow grain shipments to resume from both countries.",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Deep Ocean & Mesophotic Ecosystems": [
-        {
-          "title": "We Know the Moon Better Than the Deep Sea",
-          "link": "https://oceanconservancy.org/blog/2026/07/17/we-know-the-moon-better-than-the-deep-sea/",
-          "published": "2026-07-17T16:53:56+00:00",
-          "source": "Ocean Conservancy",
-          "type": "news",
-          "language": "en",
-          "summary": "You may have heard: Scientists have more detailed maps of the moon than of the deep seafloor. This is because our moon is airless, waterless and direc",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Polar & Reef Ecosystems & Resilience": [
         {
           "title": "World’s seas have hit hottest temperature on record for July, say scientists",
@@ -310,17 +284,6 @@
           "language": "en",
           "summary": "Ryder Williams, 16, saved a boy from drowning in Santa Cruz, California – the first rescue of his careerA rookie, teenage California lifeguard who sav",
           "image": "https://i.guim.co.uk/img/media/acf984544678e004a66e00f0d73db37590ad49af/0_139_1320_1056/master/1320.jpg?width=140&quality=85&auto=format&fit=max&s=3f87850ddc3a44d61cac767cbb6f3a1c",
-          "other_news": false
-        },
-        {
-          "title": "A pee in the sea is a drop in the ocean | Letters",
-          "link": "https://www.theguardian.com/lifeandstyle/2026/jul/17/a-pee-in-the-sea-is-a-drop-in-the-ocean",
-          "published": "2026-07-17T16:30:15+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Andreas Swadlo, Andrew Wardrop and Tony Coghan respond to an etiquette guide saying swimmers must dash ashore rather than relieve themselves in the wa",
-          "image": "https://i.guim.co.uk/img/media/8f2dddd2283d9a5f640b245d78f3784ee17e8f95/44_0_2352_1881/master/2352.jpg?width=140&quality=85&auto=format&fit=max&s=958eed4bb4fcea789e468fafb21cd9dc",
           "other_news": false
         },
         {
@@ -579,7 +542,7 @@
         {
           "title": "La flambée des températures se poursuit dans l’océan, qui se dirige vers un record historique",
           "link": "https://www.lemonde.fr/planete/article/2026/08/16/la-flambee-des-temperatures-se-poursuit-dans-l-ocean-qui-se-dirige-vers-un-record-historique_6747126_3244.html",
-          "published": "2026-08-16T06:00:37+02:00",
+          "published": "2026-08-16T06:00:21+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -654,6 +617,17 @@
           "other_news": false
         },
         {
+          "title": "South Africa’s top court blocks Shell oil exploration off country’s Wild Coast",
+          "link": "https://news.mongabay.com/short-article/2026/08/south-africas-top-court-blocks-shell-oil-exploration-off-countrys-wild-coast/",
+          "published": "2026-08-17T00:00:22+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In a landmark judgment on Aug. 14, South Africa’s Constitutional Court set aside exploration rights held by oil giant Shell and Impact Africa, a South",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/16235549/Fishermen-Silhouettes-PSJ-AH-768x512.jpeg",
+          "other_news": false
+        },
+        {
           "title": "Six African countries now support precautionary pause on deep-seabed mining",
           "link": "https://news.mongabay.com/short-article/2026/08/six-african-countries-now-support-precautionary-pause-on-deep-seabed-mining/",
           "published": "2026-08-13T05:18:26+00:00",
@@ -725,17 +699,6 @@
           "language": "en",
           "summary": "During troubled talks, fossil fuel-producing nations have pushed for a global pact to tackle only plastic waste rather than reducing the size of the p",
           "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Flora Tristan, la révolutionnaire qui dénonçait déjà la pollution industrielle au XIXe siècle",
-          "link": "https://reporterre.net/Flora-Tristan-la-revolutionnaire-qui-denoncait-deja-la-pollution-industrielle-au-XIXe",
-          "published": "2026-08-06T12:30:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "[Ces précurseuses écolos et féministes 4/5] Critique du progrès industriel et pionnière du socialisme, Flora Tristan aura passé",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/flora_tristan-affc3.jpg?1786019401",
           "other_news": true
         },
         {
@@ -831,27 +794,27 @@
           "other_news": true
         },
         {
-          "title": "‘A costly mistake’: new review finds giving WA billions in extra GST was unfair to other states",
-          "link": "https://theconversation.com/a-costly-mistake-new-review-finds-giving-wa-billions-in-extra-gst-was-unfair-to-other-states-289599",
-          "published": "2026-08-14T04:00:13+00:00",
+          "title": "Exclusive poll shows nearly half of respondents defecting from Victorian Labor. What do these voters care about?",
+          "link": "https://theconversation.com/exclusive-poll-shows-nearly-half-of-respondents-defecting-from-victorian-labor-what-do-these-voters-care-about-288946",
+          "published": "2026-08-16T20:05:09+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "The 2018 “reforms” were bad policy. The sooner they are unwound the better.",
+          "summary": "Victorian voters surveyed named cost of living, crime and health as their top three policy issues, with just over three months until the next state el",
           "image": null,
           "other_news": true
         }
       ],
       "Other Marine News": [
         {
-          "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+          "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
           "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-15T17:47:42+00:00",
+          "published": "2026-08-16T20:01:51+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "The fire burning through the major park was described as the country's worst in recent years.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f13/live/01221bd0-98d3-11f1-9687-fb984065014d.jpg",
+          "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8457/live/7c724440-999b-11f1-b2ab-0dd01740f9f6.jpg",
           "other_news": true
         },
         {
@@ -1449,17 +1412,6 @@
           "other_news": true
         },
         {
-          "title": "Most “zombie credits” locked out of new UN carbon market after China and India snub",
-          "link": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
-          "published": "2026-07-17T16:38:23+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Fears of a flood of environmentally-dubious carbon credits have faded, with most old projects not able to transition to new UN market\nThe post Most &#",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "« Nous ne capitulerons pas » : 30 ans de bataille contre les déchets nucléaires",
           "link": "https://reporterre.net/Nous-ne-capitulerons-pas-30-ans-de-bataille-contre-les-dechets-nucleaires",
           "published": "2026-08-15T06:00:00+00:00",
@@ -1570,57 +1522,57 @@
           "other_news": true
         },
         {
-          "title": "Royaume-Uni : face à des incendies inédits et une sécheresse historique, le premier ministre appelle à « faire face au changement climatique »",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/14/royaume-uni-face-a-des-incendies-inedits-et-une-secheresse-historique-le-premier-ministre-appelle-a-faire-face-au-changement-climatique_6746293_3244.html",
-          "published": "2026-08-14T21:59:07+02:00",
-          "source": "Le Monde Planète",
+          "title": "Dans le Doubs, l’alliance inattendue entre chasseurs, écolos et agriculteurs pour repenser le statut «nuisible» du renard",
+          "link": "https://vert.eco/biodiversite/dans-le-doubs-lalliance-inattendue-entre-chasseurs-ecolos-et-agriculteurs-pour-repenser-le-statut-nuisible-du-renard/",
+          "published": "2026-08-16T05:00:00+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "A Stourbridge, 19 maisons ont été complètement détruites et 18 endommagées dans l’incendie. Des habitants ont été évacués et 54 personnes traitées pou",
-          "image": "https://img.lemde.fr/2026/08/14/309/0/5000/2500/644/322/60/0/9122364_ftp-1-opanxzd5amsw-5837912-01-06.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Changement climatique : « L’agriculture dite “conventionnelle” est le seul secteur qui fait la sourde oreille aux recommandations scientifiques »",
-          "link": "https://www.lemonde.fr/idees/article/2026/08/14/changement-climatique-l-agriculture-dite-conventionnelle-est-le-seul-secteur-qui-fait-la-sourde-oreille-aux-recommandations-scientifiques_6746265_3232.html",
-          "published": "2026-08-14T16:30:08+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Il existe des scénarios pour sauver la filière, mais il faudrait que la FNSEA, premier syndicat agricole de France, les accepte et ne reste pas arc-bo",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/0d46916_upload-1-slnbljri1xqm-frame-790.jpg",
-          "other_news": true
-        },
-        {
-          "title": "ABBA’s Dancing Queen at 50: why we’ve spent half a century having the time of our lives",
-          "link": "https://theconversation.com/abbas-dancing-queen-at-50-why-weve-spent-half-a-century-having-the-time-of-our-lives-288092",
-          "published": "2026-08-14T03:21:36+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The Swedish pop song came out at a time when ABBA was trying to break into the American market. But it would go on to become a global anthem.",
+          "summary": "France nature environnement, la fédération de chasse du Doubs et la branche locale de la FNSEA participent depuis six ans à une étude sur l'efficacité",
           "image": null,
           "other_news": true
         },
         {
-          "title": "From sportswear to protest attire: the surprisingly political history of the hoodie",
-          "link": "https://theconversation.com/from-sportswear-to-protest-attire-the-surprisingly-political-history-of-the-hoodie-288913",
-          "published": "2026-08-13T23:15:15+00:00",
+          "title": "Hydrogen microgrids could help power remote communities – but beware the hype",
+          "link": "https://theconversation.com/hydrogen-microgrids-could-help-power-remote-communities-but-beware-the-hype-288095",
+          "published": "2026-08-17T01:33:02+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Hooded garments are nothing new – we’ve even got hoodies that date back to the Iron Age. But how did the modern garment come to be everywhere?",
+          "summary": "Hydrogen makes it possible to store renewable energy for longer – but has its limitations.",
           "image": null,
           "other_news": true
         },
         {
-          "title": "Storms of dust and sand are another sign our climate is changing. Two experts explain",
-          "link": "https://theconversation.com/storms-of-dust-and-sand-are-another-sign-our-climate-is-changing-two-experts-explain-288204",
-          "published": "2026-08-13T20:06:25+00:00",
+          "title": "Why most homeowners don’t need to lose sleep over negative equity",
+          "link": "https://theconversation.com/why-most-homeowners-dont-need-to-lose-sleep-over-negative-equity-289591",
+          "published": "2026-08-16T20:05:31+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "These fine particles can do significant harm to transport networks, farming and even human health.",
+          "summary": "Owing more to the bank than your home is worth is a daunting prospect. But if you’ve bought a place to live in, not as an investment, there’s little r",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "NZ creates remarkably valuable tech firms. How can it keep more of the benefits?",
+          "link": "https://theconversation.com/nz-creates-remarkably-valuable-tech-firms-how-can-it-keep-more-of-the-benefits-289789",
+          "published": "2026-08-16T19:04:11+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A new stocktake of the tech ecosystem shows NZ has grown companies now valued at more than $133 billion. But is it as good at retaining them?",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "South Africa is overlooking solar technology that can keep generating electricity after sunset",
+          "link": "https://theconversation.com/south-africa-is-overlooking-solar-technology-that-can-keep-generating-electricity-after-sunset-283857",
+          "published": "2026-08-16T06:17:57+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "South Africa is one of the best places in the world for concentrating solar power. So why has the country’s energy plan largely ignored it?",
           "image": null,
           "other_news": true
         },
@@ -1677,17 +1629,6 @@
           "language": "en",
           "summary": "Companies can, in theory, appear to cut the carbon footprint of their supply chains in half simply by changing how they calculate emissions, according",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/13140448/pexels-jakubzerdzicki-34287570x-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Indigenous groups renew legal challenge to Indonesian conservation law",
-          "link": "https://news.mongabay.com/2026/08/indigenous-groups-renew-legal-challenge-to-indonesian-conservation-law/",
-          "published": "2026-08-13T01:20:54+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "JAKARTA, Indonesia — Indigenous groups in Indonesia have made a legal challenge to parts of a new conservation law. The groups say it could allow the",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/12152721/Wanaparahita-Bali-Ardana-9-scaled-1-768x512.jpg",
           "other_news": true
         }
       ]

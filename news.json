@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:26:45.432927+00:00",
+  "generated_at": "2026-08-18T05:34:20.653399+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -135,17 +135,6 @@
           "language": "en",
           "summary": "With wing spans up to 3ft, the shy cownose ray species typically arrive in Long Island waters in the warmer monthsDrone footage of dozens of stingrays",
           "image": "https://i.guim.co.uk/img/media/270e456ae909f4949a8a4095a4288d6f24d57820/439_0_4393_3515/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=07398442656656e77b9ebeeef6cb6b9b",
-          "other_news": false
-        },
-        {
-          "title": "The influencers getting bitten while chasing the perfect shark shot",
-          "link": "https://www.bbc.co.uk/news/articles/c5yvrn7rpqpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-15T23:04:29+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Tayane Dalazen was on a shark-diving trip in Brazil when she was attacked.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c6/live/9c4c4980-9727-11f1-808c-532494fd22c7.png",
           "other_news": false
         },
         {
@@ -846,6 +835,17 @@
           "other_news": true
         },
         {
+          "title": "Solar panel complainer now 'supporter of plan'",
+          "link": "https://www.bbc.co.uk/news/articles/cx2dzjnzkqxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-18T05:19:43+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A dispute over a solar panel plan is resolved, with the complainant now a proponent for the site.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c4/live/6bc0c2f0-9a42-11f1-a86b-519b4d19bbee.jpg",
+          "other_news": true
+        },
+        {
           "title": "Solar eclipse inspires talk of Pac-man and Shinto myths",
           "link": "https://www.bbc.co.uk/news/articles/c33020jgyllo?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-15T06:08:29+00:00",
@@ -1513,6 +1513,17 @@
           "type": "news",
           "language": "fr",
           "summary": "France nature environnement, la fédération de chasse du Doubs et la branche locale de la FNSEA participent depuis six ans à une étude sur l'efficacité",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Want to fully electrify your house? Don’t start with a battery",
+          "link": "https://theconversation.com/want-to-fully-electrify-your-house-dont-start-with-a-battery-287963",
+          "published": "2026-08-18T04:46:56+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "It makes more sense to go solar and quit gas before getting a home battery.",
           "image": null,
           "other_news": true
         },

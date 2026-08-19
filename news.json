@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T04:29:05.137115+00:00",
+  "generated_at": "2026-08-19T05:34:39.180577+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -1469,6 +1469,17 @@
           "other_news": true
         },
         {
+          "title": "« L’usage des grands réservoirs artificiels témoigne d’une méconnaissance des cycles de l’eau et des causes de leur dégradation »",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/19/l-usage-des-grands-reservoirs-artificiels-temoigne-d-une-meconnaissance-des-cycles-de-l-eau-et-des-causes-de-leur-degradation_6749468_3232.html",
+          "published": "2026-08-19T06:30:25+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Face aux sécheresses intensifiées par le changement climatique, trois spécialistes de l’eau appellent, dans une tribune au « Monde », à renforcer la r",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/0d46916_upload-1-slnbljri1xqm-frame-790.jpg",
+          "other_news": true
+        },
+        {
           "title": "Loi d’urgence agricole : comment le Conseil constitutionnel donne le dernier mot à l’agence de sécurité sanitaire",
           "link": "https://www.lemonde.fr/planete/article/2026/08/18/loi-d-urgence-agricole-comment-le-conseil-constitutionnel-donne-le-dernier-mot-a-l-anses_6749070_3244.html",
           "published": "2026-08-18T17:30:02+02:00",
@@ -1532,6 +1543,17 @@
           "language": "en",
           "summary": "Microbial ecology helps explain how ecosystems respond to environmental pressures.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Why carbon markets alone won’t save Southeast Asia’s concessions forests",
+          "link": "https://news.mongabay.com/short-article/2026/08/why-carbon-markets-alone-wont-save-southeast-asias-concessions-forests/",
+          "published": "2026-08-19T05:25:05+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "New research suggests a “massive and untapped” opportunity for conservation within commercial concessions in Southeast Asia, reports Mongabay’s Caroly",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/19052242/Oil-palm-and-rubber-plantations-dominate-landscapes-across-many-parts-of-Southeast-Asia-as-photographed-here-in-Thailand.-Image-by-Carolyn-Cowan-Mongabay-scaled-1-768x512.jpg",
           "other_news": true
         },
         {

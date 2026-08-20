@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T04:28:35.860676+00:00",
+  "generated_at": "2026-08-20T05:35:12.614605+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -324,6 +324,17 @@
           "other_news": false
         },
         {
+          "title": "Zoo boss calls pipeline plan on site 'unacceptable'",
+          "link": "https://www.bbc.co.uk/news/articles/c0rdl5zg208o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-20T05:21:20+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Proposals for a pipeline to transport carbon emissions to the coast would cut through the zoo.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b1/live/ce162330-9bb1-11f1-ae8a-8d57110c5ba6.jpg",
+          "other_news": false
+        },
+        {
           "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
           "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-19T15:01:57+00:00",
@@ -541,17 +552,6 @@
           "language": "fr",
           "summary": "Lors des 14 jours les plus chauds de 2026, le réchauffement par rapport aux normales a atteint 3,1 °C en Méditerranée occidentale et 2,6 °C en Méditer",
           "image": "https://img.lemde.fr/2026/08/14/504/0/4032/2016/644/322/60/0/f252cb4_ftp-1-r7y8o2ovhewf-5836364-01-06.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Sur la Côte d’Azur, la surveillance des mouillages pour préserver les herbiers marins : « Nous sommes juste les photographes de la justice »",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/18/au-large-de-la-cote-d-azur-la-surveillance-des-mouillages-pour-preserver-les-herbiers-marins-nous-sommes-juste-les-photographes-de-la-justice_6748904_3244.html",
-          "published": "2026-08-18T11:00:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les herbiers de posidonie, une plante aquatique endémique des eaux méditerranéennes, sont menacés par les ancres des grands navires. Une bande littora",
-          "image": "https://img.lemde.fr/2026/08/10/422/190/3310/1655/644/322/60/0/d11bdc5_upload-1-tjj8ilfxnuv6-semaphore-affaires-maritimes241.jpg",
           "other_news": false
         },
         {
@@ -830,17 +830,6 @@
           "language": "en",
           "summary": "A charity says the nature reserve will be a \"very special thing\" for the town once complete.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11f6/live/deb0aad0-9aee-11f1-930b-57cfba7235f9.png",
-          "other_news": true
-        },
-        {
-          "title": "Solar panel critic now 'supporter of plan'",
-          "link": "https://www.bbc.co.uk/news/articles/cx2dzjnzkqxo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-18T05:19:43+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A dispute over a solar panel plan is resolved, with the complainant now a proponent for the site.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c4/live/6bc0c2f0-9a42-11f1-a86b-519b4d19bbee.jpg",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T05:34:39.180577+00:00",
+  "generated_at": "2026-08-20T04:28:35.860676+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -12,6 +12,19 @@
           "language": "en",
           "summary": "The species was found by an international team of researchers examining heaps of bycatch at Tuticorin harbour in southern India. Scientists had encoun",
           "image": null,
+          "other_news": false
+        }
+      ],
+      "Sustainable Fisheries": [
+        {
+          "title": "Philippine Supreme Court rules monitoring commercial fishing vessels is unconstitutional",
+          "link": "https://news.mongabay.com/2026/08/philippine-supreme-court-rules-monitoring-commercial-fishing-vessels-is-unconstitutional/",
+          "published": "2026-08-19T14:33:28+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Philippine Supreme Court has struck down a regulation requiring commercial fishing vessels to continuously transmit their locations and submit ele",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/19104201/4447483754_4a51b2e873_o-768x512.jpg",
           "other_news": false
         }
       ],
@@ -99,17 +112,6 @@
           "summary": "What do you think about when you hear the words “microplastic pollution?” Your mind may immediately go to imagery of colorful fragmented plastics brok",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "Aceh’s community fishers struggle to preserve tradition amid blooms of plastic pollution",
-          "link": "https://news.mongabay.com/2026/08/acehs-community-fishers-struggle-to-preserve-tradition-amid-blooms-of-plastic-pollution/",
-          "published": "2026-08-17T08:48:53+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "BANDA ACEH, Indonesia — Seven fishers moved in concert along the shore of Gampong Jawa Beach in Banda Aceh, Indonesia’s westernmost city, hauling in a",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/17083116/Gampong-Jawa-fishers-768x512.jpg",
-          "other_news": false
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -125,6 +127,39 @@
           "other_news": false
         },
         {
+          "title": "Giant whales move into Greenland waters as ice disappears",
+          "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-20T02:05:20+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1da/live/98b70b10-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Three quarters of Indo-Pacific coral reefs could drown as sea levels rise",
+          "link": "https://oceanographicmagazine.com/news/three-quarters-of-indo-pacific-coral-reefs-could-drown-as-sea-levels-rise/",
+          "published": "2026-08-19T20:28:31+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Rising seas could outpace most Indo-Pacific coral reefs within 35 years, a new study warns, threatening coastal protection for millions\nThe post Three",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Icelandic whaling company announces intent to create iron supplements from meat",
+          "link": "https://oceanographicmagazine.com/news/icelandic-whaling-company-announces-intent-to-create-iron-supplements-from-meat/",
+          "published": "2026-08-19T20:15:27+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Iron is one of the most abundant elements on Earth, but as Japanese demand for fin whale meat falters Loftsson is eyeing a new market\nThe post Iceland",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "AI exposes scale of bomb fishing devastating Coral Triangle reefs",
           "link": "https://oceanographicmagazine.com/news/ai-exposes-scale-of-bomb-fishing-devastating-coral-triangle-reefs/",
           "published": "2026-08-18T16:51:10+00:00",
@@ -136,14 +171,25 @@
           "other_news": false
         },
         {
-          "title": "How we found Haida Gwaii’s first marbled murrelet nest in more than 30 years",
-          "link": "https://theconversation.com/how-we-found-haida-gwaiis-first-marbled-murrelet-nest-in-more-than-30-years-288063",
-          "published": "2026-08-18T14:29:46+00:00",
-          "source": "The Conversation",
+          "title": "Dolphin mother and calf observed using shells to catch fish in Australia",
+          "link": "https://news.mongabay.com/short-article/2026/08/dolphin-mother-and-calf-observed-using-shells-to-catch-fish-in-australia/",
+          "published": "2026-08-19T23:16:32+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Facing pressures in both marine and terrestrial environments, the marbled murrelet is listed as threatened under Canada’s Species at Risk Act.",
-          "image": null,
+          "summary": "A small population of dolphins in Shark Bay in Western Australia have a documented history of using an unusual tool to help them catch fish: Large, em",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/19230807/dolphin-female-shelling-seashells-catch-fish_UniSC_2m-768x512.avif",
+          "other_news": false
+        },
+        {
+          "title": "Spotted by AI: seahorses and shark fins",
+          "link": "https://news.mongabay.com/short-article/2026/08/spotted-by-ai-seahorses-and-shark-fins/",
+          "published": "2026-08-19T10:13:36+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "While elephant ivory, rhino horns and pangolin scales get a lot of attention when it comes to illegal wildlife trade, marine wildlife are widely targe",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/19101535/Mongabay_Thumbnail_XRay_Web.jpg",
           "other_news": false
         },
         {
@@ -155,17 +201,6 @@
           "language": "en",
           "summary": "PERTH, Australia — “There’s this beautiful underwater garden out there,” says Mercy Singleton, referring to the vast network of colorful corals that m",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/18180055/a.-141891-2-768x512.jpeg",
-          "other_news": false
-        },
-        {
-          "title": "Global marine protected areas fail to safeguard most sharks and rays: Study",
-          "link": "https://news.mongabay.com/2026/08/global-marine-protected-areas-fail-to-safeguard-most-sharks-and-rays-study/",
-          "published": "2026-08-14T16:41:43+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In 2022, 196 countries agreed to the ambitious conservation goal of “30&#215;30”: setting aside 30% of the planet’s coastal and marine areas for conse",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/14141331/a.-BANNER-%C2%A9-Jonathan-Lavan-original-768x512.jpg",
           "other_news": false
         }
       ],
@@ -232,14 +267,14 @@
       ],
       "Marine Protected Areas & Policy": [
         {
-          "title": "Millions of kilograms of marine life caught in Australia’s marine parks annually",
-          "link": "https://oceanographicmagazine.com/news/millions-of-kilograms-of-marine-life-caught-in-australias-marine-parks-annually/",
-          "published": "2026-08-12T13:34:59+00:00",
-          "source": "Oceanographic",
+          "title": "New Zealand opens marine reserves with groundbreaking Māori co-management model",
+          "link": "https://news.mongabay.com/2026/08/new-zealand-opens-marine-reserves-with-groundbreaking-maori-co-management-model/",
+          "published": "2026-08-19T14:48:18+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "A Freedom of Information request reveals over two million kilograms of marine life is extracted from Australia’s MPAs each year, increasing pressure o",
-          "image": null,
+          "summary": "DUNEDIN, Aotearoa New Zealand — At a U.N. meeting in 2015, Aotearoa New Zealand’s then Prime Minister John Key made a major announcement that drew pra",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/18170638/2-Members-of-the-Kai-Tahu-marine-ranger-team-2-768x512.jpg",
           "other_news": false
         }
       ],
@@ -289,14 +324,14 @@
           "other_news": false
         },
         {
-          "title": "Heat and farming changes stop sea lettuce growth",
-          "link": "https://www.bbc.co.uk/news/articles/cm2gmex5883o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-17T11:14:16+00:00",
+          "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
+          "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-19T15:01:57+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "St Aubin's Bay enjoys a summer without the green sea lettuce that has previously caused problems.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c477/live/7f3998d0-9a23-11f1-bf12-b5882ef8968b.png",
+          "summary": "A SpaceX rocket that blasted off from Texas in July, and crashed into the Indian Ocean, made an unexpected appearance off Christmas Island.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32f8/live/0f3c86f0-9bef-11f1-a291-b542ee92de7c.jpg",
           "other_news": false
         },
         {
@@ -366,6 +401,17 @@
           "other_news": false
         },
         {
+          "title": "Q&A: What is ‘long-duration energy storage’ – and why does the UK need it?",
+          "link": "https://www.carbonbrief.org/qa-what-is-long-duration-energy-storage-and-why-does-the-uk-need-it",
+          "published": "2026-08-19T11:18:11+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "The UK is pioneering the use of “super batteries” that can store energy for long periods, smoothing the output from&#8230;\nThe post Q&amp;A: What is ‘",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Q&A: Does the world need ‘carbon capture and storage’ to reach net-zero?",
           "link": "https://www.carbonbrief.org/qa-does-the-world-need-carbon-capture-and-storage-to-reach-net-zero",
           "published": "2026-08-03T13:05:33+00:00",
@@ -399,14 +445,25 @@
           "other_news": false
         },
         {
-          "title": "Top maritime court rejects bid to halt UN deep-sea mining inquiry",
-          "link": "https://www.climatechangenews.com/2026/07/20/top-maritime-court-rejects-bid-to-halt-un-deep-sea-mining-inquiry/",
-          "published": "2026-07-20T18:12:46+00:00",
-          "source": "Climate change news",
+          "title": "Le réchauffement climatique, premier responsable de la surchauffe des mers européennes",
+          "link": "https://reporterre.net/Le-rechauffement-climatique-premier-responsable-de-la-surchauffe-des-mers-europeennes",
+          "published": "2026-08-19T11:42:28+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Two subsidiaries of The Metals Company sought to block the probe into potential contract breaches launched after the firm's application for US-sponsor",
-          "image": null,
+          "language": "fr",
+          "summary": "Une étude du collectif World Weather Attribution (WWA), parue le 19 août, alerte sur la surchauffe des mers européennes cet été,",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/landschap-rotskust-zeezicht-1669124401s5s_1_-96de6.jpg?1787139794",
+          "other_news": false
+        },
+        {
+          "title": "« Ils nous chassent de l'océan » : des pêcheurs menacés par l'industrie pétrolière",
+          "link": "https://reporterre.net/Ils-nous-chassent-de-l-ocean-en-Afrique-du-Sud-les-pecheurs-autochtones-menaces-par-l",
+          "published": "2026-08-19T07:52:04+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "À Port Nolloth, en Afrique du Sud, les pêcheurs autochtones avaient obtenu en 2012 une politique de pêche pionnière. Quatorze an",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/dscf9992-c4f0d.jpg?1787125936",
           "other_news": false
         },
         {
@@ -454,17 +511,6 @@
           "other_news": false
         },
         {
-          "title": "« Cocaïne des mers » : dans les rouages du trafic de vessies de poissons",
-          "link": "https://reporterre.net/Cocaine-des-mers-dans-les-rouages-du-trafic-de-vessies-de-poissons",
-          "published": "2026-08-11T06:13:42+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "[Les nouveaux visages de la criminalité environnementale 2/4] Depuis le plateau des Guyanes, les vessies d'acoupa, un déchet de",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/acoupa-c5049.jpg?1786428824",
-          "other_news": false
-        },
-        {
           "title": "Snooping robot reveals how dolphins use sound to hunt and socialise",
           "link": "https://oceanographicmagazine.com/news/snooping-robot-reveals-how-dolphins-use-sound-to-hunt-and-socialise/",
           "published": "2026-08-18T16:57:55+00:00",
@@ -487,14 +533,14 @@
           "other_news": false
         },
         {
-          "title": "Dolphins recorded using sea shells to catch fish for first time",
-          "link": "https://oceanographicmagazine.com/news/dolphins-recorded-using-sea-shells-to-catch-fish-for-first-time/",
-          "published": "2026-08-12T09:23:57+00:00",
-          "source": "Oceanographic",
+          "title": "Le changement climatique est le principal moteur de la surchauffe des mers européennes",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/19/le-changement-climatique-est-le-principal-moteur-de-la-surchauffe-des-mers-europeennes_6749704_3244.html",
+          "published": "2026-08-19T10:00:02+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
-          "language": "en",
-          "summary": "Marine researchers in Hervey Bay have captured the first evidence of East Coast dolphins using empty shells as hunting tools, and passing the trick do",
-          "image": null,
+          "language": "fr",
+          "summary": "Lors des 14 jours les plus chauds de 2026, le réchauffement par rapport aux normales a atteint 3,1 °C en Méditerranée occidentale et 2,6 °C en Méditer",
+          "image": "https://img.lemde.fr/2026/08/14/504/0/4032/2016/644/322/60/0/f252cb4_ftp-1-r7y8o2ovhewf-5836364-01-06.jpg",
           "other_news": false
         },
         {
@@ -506,17 +552,6 @@
           "language": "fr",
           "summary": "Les herbiers de posidonie, une plante aquatique endémique des eaux méditerranéennes, sont menacés par les ancres des grands navires. Une bande littora",
           "image": "https://img.lemde.fr/2026/08/10/422/190/3310/1655/644/322/60/0/d11bdc5_upload-1-tjj8ilfxnuv6-semaphore-affaires-maritimes241.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Les plages touristiques du Mexique touchées par le fléau des sargasses, que le pays tente de contenir",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/18/les-plages-touristiques-du-mexique-touchees-par-le-fleau-des-sargasses-que-le-pays-tente-de-contenir_6748716_3244.html",
-          "published": "2026-08-18T05:30:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "L’année 2026 présente des volumes sans précédent d’algues brunes sur les plages du Yucatan, quatre fois plus importants que ceux enregistrés à la même",
-          "image": "https://img.lemde.fr/2026/08/14/704/0/6500/3250/644/322/60/0/af28fe9_ftp-1-acy7o3dvm2zv-2026-08-14t211950z-2136414905-rc27tmaqx7w0-rtrmadp-3-mexico-environment-sargassum.JPG",
           "other_news": false
         },
         {
@@ -542,6 +577,17 @@
           "other_news": false
         },
         {
+          "title": "How we found a new transmissible cancer in bullhead catfish",
+          "link": "https://theconversation.com/how-we-found-a-new-transmissible-cancer-in-bullhead-catfish-289556",
+          "published": "2026-08-19T16:10:19+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Researchers found that tumours on different catfish were genetically similar, indicating the fish were catching the cancer from each other.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Parasite linked to ‘mushy fish’ could be much more widespread than thought",
           "link": "https://theconversation.com/parasite-linked-to-mushy-fish-could-be-much-more-widespread-than-thought-289212",
           "published": "2026-08-19T01:02:24+00:00",
@@ -549,17 +595,6 @@
           "type": "news",
           "language": "en",
           "summary": "Ordered kingfish sashimi recently? A parasite can infect some fish, yet they still look and taste the same when raw.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "South Africa’s top court blocked Shell’s Wild Coast oil search: why it matters for climate justice",
-          "link": "https://theconversation.com/south-africas-top-court-blocked-shells-wild-coast-oil-search-why-it-matters-for-climate-justice-289949",
-          "published": "2026-08-18T14:44:14+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "South Africa’s first climate case at the Constitutional Court has blocked Shell’s oil and gas exploration off the Wild Coast, protecting coastal commu",
           "image": null,
           "other_news": false
         },
@@ -594,17 +629,6 @@
           "language": "en",
           "summary": "On a Brazilian beach, a family gave seaweed new life.",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/18152140/IMG_2934-768x512.png",
-          "other_news": false
-        },
-        {
-          "title": "South Africa’s top court blocks Shell oil exploration off country’s Wild Coast",
-          "link": "https://news.mongabay.com/short-article/2026/08/south-africas-top-court-blocks-shell-oil-exploration-off-countrys-wild-coast/",
-          "published": "2026-08-17T00:00:22+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In a landmark judgment on Aug. 14, South Africa’s Constitutional Court set aside exploration rights held by oil giant Shell and Impact Africa, a South",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/16235549/Fishermen-Silhouettes-PSJ-AH-768x512.jpeg",
           "other_news": false
         }
       ]
@@ -672,6 +696,17 @@
         }
       ],
       "Marine Biodiversity & Conservation": [
+        {
+          "title": "Extreme drought is changing Britain’s wildlife – and some effects won’t be seen until next year",
+          "link": "https://theconversation.com/extreme-drought-is-changing-britains-wildlife-and-some-effects-wont-be-seen-until-next-year-289419",
+          "published": "2026-08-19T15:04:45+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Britain’s native species are adapted to a cool, wet climate. This summer is putting them under strain.",
+          "image": null,
+          "other_news": true
+        },
         {
           "title": "Are zoos ready for the changing climate?",
           "link": "https://theconversation.com/are-zoos-ready-for-the-changing-climate-289757",
@@ -750,28 +785,6 @@
           "summary": "Policy changes, climate disruption, staffing shortages and housing costs are reshaping the risks of owning or starting a gateway business.",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "The Opportunity Party’s Treaty policy is closer to Labour than National. But is it a bottom line?",
-          "link": "https://theconversation.com/the-opportunity-partys-treaty-policy-is-closer-to-labour-than-national-but-is-it-a-bottom-line-289589",
-          "published": "2026-08-18T18:18:26+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "If the Opportunity Party holds the balance of power after the election, its ‘honouring te Tiriti’ policy could be a deal maker – or breaker.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "If British voters seem impatient and angry, data shows they might have a point",
-          "link": "https://theconversation.com/if-british-voters-seem-impatient-and-angry-data-shows-they-might-have-a-point-289643",
-          "published": "2026-08-18T10:30:16+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Prime ministers aren’t lasting long in the job these days – and data shows that the UK is slipping on some measures of governance.",
-          "image": null,
-          "other_news": true
         }
       ],
       "Other Marine News": [
@@ -798,25 +811,14 @@
           "other_news": true
         },
         {
-          "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
-          "link": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-13T05:40:24+00:00",
+          "title": "Rare cows part of estate's rewilding project",
+          "link": "https://www.bbc.co.uk/news/articles/c8xnk2dgv5jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-19T06:13:27+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9be/live/904f3af0-968e-11f1-9854-73d5e7b83e3b.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-          "link": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-12T23:19:28+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cb5/live/5b6616a0-9577-11f1-870d-5d08c49babb2.jpg",
+          "summary": "White Park cattle arrive at the Castle Howard estate in North Yorkshire to support conservation.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c6a/live/95077a00-9afb-11f1-aed2-8d6da8d75094.jpg",
           "other_news": true
         },
         {
@@ -963,6 +965,28 @@
           "other_news": true
         },
         {
+          "title": "Wildfires and a summer of extreme heat mean Andy Burnham can’t stay quiet on climate any longer",
+          "link": "https://theconversation.com/wildfires-and-a-summer-of-extreme-heat-mean-andy-burnham-cant-stay-quiet-on-climate-any-longer-288465",
+          "published": "2026-08-19T16:04:12+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "The new prime minister may find that UK-China relations hold some answers to the climate challenge.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "What if our cities were designed for wildlife as well as people?",
+          "link": "https://theconversation.com/what-if-our-cities-were-designed-for-wildlife-as-well-as-people-288992",
+          "published": "2026-08-19T10:40:21+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "New research argues urban planning must recognise animals, plants and ecosystems as fellow inhabitants of our cities.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Can Britain’s railways cope with ever-more extreme heat? An expert Q&A",
           "link": "https://theconversation.com/can-britains-railways-cope-with-ever-more-extreme-heat-an-expert-qanda-289905",
           "published": "2026-08-18T15:26:19+00:00",
@@ -1051,28 +1075,6 @@
           "other_news": true
         },
         {
-          "title": "Confused about carbon capture? Experts explain why we need different types",
-          "link": "https://theconversation.com/confused-about-carbon-capture-experts-explain-why-we-need-different-types-284679",
-          "published": "2026-08-03T13:45:20+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Carbon dioxide removal is different to carbon capture, utilisation and storage. It’s easy to confuse the two processes but they tackle different probl",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "‘Was this heatwave caused by climate change?’ – we’re asking the wrong question",
-          "link": "https://theconversation.com/was-this-heatwave-caused-by-climate-change-were-asking-the-wrong-question-288637",
-          "published": "2026-07-31T13:04:49+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Instead of asking whether climate change caused a heatwave, we should ask how much hotter it became because of fossil fuel emissions.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Ancient forests took 100,000 years to recover from the last global warming period similar to today – Wyoming fossils reveal what happened",
           "link": "https://theconversation.com/ancient-forests-took-100-000-years-to-recover-from-the-last-global-warming-period-similar-to-today-wyoming-fossils-reveal-what-happened-289462",
           "published": "2026-08-13T18:01:27+00:00",
@@ -1113,17 +1115,6 @@
           "type": "news",
           "language": "en",
           "summary": "For decades, regular citizens and advocacy groups have filed suits that forced companies and the federal government to clean up the environment. Trump",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "French climate lawsuit offers a window into the next round of the global legal fight",
-          "link": "https://theconversation.com/french-climate-lawsuit-offers-a-window-into-the-next-round-of-the-global-legal-fight-287829",
-          "published": "2026-07-28T12:09:35+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "A court ruling expands the options for corporate accountability efforts against oil companies in France, and it may have repercussions in the US and e",
           "image": null,
           "other_news": true
         },
@@ -1201,17 +1192,6 @@
           "type": "news",
           "language": "en",
           "summary": "The global goal to halt and reverse nature loss by 2030 “will not be achieved” unless action by countries “accelerates&#8230;\nThe post World falling s",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Climate change is driving a ‘shift’ in childhood malaria risk across Africa",
-          "link": "https://www.carbonbrief.org/climate-change-is-driving-a-shift-in-childhood-malaria-risk-across-africa",
-          "published": "2026-07-29T15:00:09+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Rising temperatures are redistributing the risk of childhood malaria in sub-Saharan Africa, resulting in areas of “new risk” in the&#8230;\nThe post Cl",
           "image": null,
           "other_news": true
         },
@@ -1458,20 +1438,20 @@
           "other_news": true
         },
         {
-          "title": "En Espagne, contre les incendies, une « armée de bénévoles » qui « fait la différence »",
-          "link": "https://reporterre.net/Incendies-en-Espagne-les-citoyens-se-forment-pour-intervenir-avant-les-pompiers-Quand-les",
-          "published": "2026-08-11T05:00:00+00:00",
-          "source": "Reporterre",
+          "title": "En Allemagne, les sociaux-démocrates veulent inscrire l’adaptation au changement climatique dans la Constitution",
+          "link": "https://www.lemonde.fr/international/article/2026/08/19/en-allemagne-les-sociaux-democrates-veulent-inscrire-l-adaptation-au-changement-climatique-dans-la-constitution_6749934_3210.html",
+          "published": "2026-08-19T19:00:12+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Alors que l'Espagne fait face à des incendies de plus en plus ravageurs, aggravés par le changement climatique, des citoyens se",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/img_2451_1_-8ac05.jpg?1786424403",
+          "summary": "Alors que la lutte contre le réchauffement climatique relève, outre-Rhin, des Länder et des communes, les vagues de chaleur de cet été ont ravivé les",
+          "image": "https://img.lemde.fr/2026/08/19/584/0/7008/3504/644/322/60/0/d5665ae_upload-1-7pkwpws4fvya-20260724-ps-harz-lemonde-014.jpg",
           "other_news": true
         },
         {
           "title": "« L’usage des grands réservoirs artificiels témoigne d’une méconnaissance des cycles de l’eau et des causes de leur dégradation »",
           "link": "https://www.lemonde.fr/idees/article/2026/08/19/l-usage-des-grands-reservoirs-artificiels-temoigne-d-une-meconnaissance-des-cycles-de-l-eau-et-des-causes-de-leur-degradation_6749468_3232.html",
-          "published": "2026-08-19T06:30:25+02:00",
+          "published": "2026-08-19T06:30:15+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1491,39 +1471,6 @@
           "other_news": true
         },
         {
-          "title": "Emmanuel Macron effectue sa dernière rentrée politique comme président de la République en appelant à ne pas céder au « défaitisme »",
-          "link": "https://www.lemonde.fr/politique/article/2026/08/18/emmanuel-macron-effectue-sa-derniere-rentree-politique-comme-president-de-la-republique-en-appelant-a-ne-pas-ceder-au-defaitisme_6748727_823448.html",
-          "published": "2026-08-18T06:30:05+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le chef de l’Etat a participé, lundi 17 août, comme chaque année, à la cérémonie commémorant la libération de Bormes-les-Mimosas, dans un département",
-          "image": "https://img.lemde.fr/2026/08/17/572/0/3430/1715/644/322/60/0/2548565_ftp-1-2ctxnoxle91o-5863178-01-06.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Incendie en Belgique : le feu dans les Hautes-Fagnes provoque un débat sur l’impréparation du pays au changement climatique",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/17/en-belgique-l-incendie-des-fagnes-provoque-un-debat-sur-l-impreparation-du-pays-au-changement-climatique_6748411_3244.html",
-          "published": "2026-08-17T19:33:47+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le feu qui embrase depuis vendredi 14 août le plateau des Hautes-Fagnes, dans l’est de la Belgique, continue de progresser.",
-          "image": "https://img.lemde.fr/2026/08/17/238/0/2856/1428/644/322/60/0/64eab74_ftp-1-m2d4y42ddmsv-5862393-01-06.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Présidentielle 2027: pour Monique Barbut, ministre de l’écologie, Jean-Luc Mélenchon est le candidat « qui intègre le plus la question du climat dans ses propositions »",
-          "link": "https://www.lemonde.fr/politique/article/2026/08/17/presidentielle-pour-monique-barbut-ministre-de-l-ecologie-jean-luc-melenchon-est-le-candidat-qui-integre-le-plus-la-question-du-climat-dans-ses-propositions_6748291_823448.html",
-          "published": "2026-08-17T16:17:30+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Après avoir annoncé sa démission en juillet pour protester contre l’adoption de la loi d’urgence agricole, Monique Barbut était finalement restée à so",
-          "image": "https://img.lemde.fr/2026/07/22/365/0/2044/1022/644/322/60/0/a8686cd_ftp-1-tgwqq4jmpxl9-2026-07-22t100111z-2011837528-rc2yimakzjbl-rtrmadp-3-france-politics.JPG",
-          "other_news": true
-        },
-        {
           "title": "Dans le Doubs, l’alliance inattendue entre chasseurs, écolos et agriculteurs pour repenser le statut «nuisible» du renard",
           "link": "https://vert.eco/biodiversite/dans-le-doubs-lalliance-inattendue-entre-chasseurs-ecolos-et-agriculteurs-pour-repenser-le-statut-nuisible-du-renard/",
           "published": "2026-08-16T05:00:00+00:00",
@@ -1535,14 +1482,80 @@
           "other_news": true
         },
         {
-          "title": "The soil’s early warning system: microbes can predict desertification before plants start to die",
-          "link": "https://theconversation.com/the-soils-early-warning-system-microbes-can-predict-desertification-before-plants-start-to-die-289000",
-          "published": "2026-08-18T15:05:21+00:00",
+          "title": "Why is NZ spending far more on responding to climate disasters than on reducing future risk?",
+          "link": "https://theconversation.com/why-is-nz-spending-far-more-on-responding-to-climate-disasters-than-on-reducing-future-risk-289485",
+          "published": "2026-08-19T20:09:04+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Microbial ecology helps explain how ecosystems respond to environmental pressures.",
+          "summary": "Only 3% of spending on natural hazards focuses on reducing risk, allowing governments to shift liability but leaving communities unprepared.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Fertiliser prices and shortages are hamstringing our farmers. But we have other options",
+          "link": "https://theconversation.com/fertiliser-prices-and-shortages-are-hamstringing-our-farmers-but-we-have-other-options-289394",
+          "published": "2026-08-19T20:08:38+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Compost, manure and food waste can be turned into biofertilisers made from natural materials.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Homebuyers are choosing homes with much higher carbon footprints than they realize",
+          "link": "https://theconversation.com/homebuyers-are-choosing-homes-with-much-higher-carbon-footprints-than-they-realize-289588",
+          "published": "2026-08-19T19:02:05+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Clearer information about energy costs could help home buyers make lower-carbon choices without requiring them to compromise on affordability, space o",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Climate change is rewriting England’s ‘green and pleasant’ story",
+          "link": "https://theconversation.com/climate-change-is-rewriting-englands-green-and-pleasant-story-289911",
+          "published": "2026-08-19T10:49:12+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A country defined by verdancy and mildness is neither of those things as climate change makes England hotter.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "There’s a better way to cool data centres that cuts their huge thirst for water",
+          "link": "https://theconversation.com/theres-a-better-way-to-cool-data-centres-that-cuts-their-huge-thirst-for-water-289547",
+          "published": "2026-08-19T10:38:14+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Piping water into the server halls could be a much more efficient way to remove waste heat.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Egypt’s deserts show why ecological knowledge matters in conservation (commentary)",
+          "link": "https://news.mongabay.com/2026/08/egypts-deserts-show-why-ecological-knowledge-matters-in-conservation-commentary/",
+          "published": "2026-08-19T15:13:56+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Egypt&#8217;s deserts are often introduced to the world as empty: Wide horizons, silence, heat, sand and stone. In tourism brochures they become drama",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/19142501/Red_Sea_coastal_landscape-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "New leadership initiative carries on legacy of late Indonesian environmental activist",
+          "link": "https://news.mongabay.com/2026/08/new-leadership-initiative-carries-on-legacy-of-late-indonesian-environmental-activist/",
+          "published": "2026-08-19T10:26:16+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "JAKARTA — It had been 648 days since Nur Hidayati, an Indonesian environmental activist fondly known as Yaya or Mbak Yaya, died of cancer. Rukka Sombo",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/19101300/IMG20260814192437-1-768x512.jpg",
           "other_news": true
         },
         {
@@ -1587,17 +1600,6 @@
           "language": "en",
           "summary": "A recent investigation from Grist, a U.S.-based nonprofit media organization, raises questions about environmental activist Juan Mancias’ Indigenous c",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/17200313/AP37267075943-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "John Salehe helped shape Tanzania’s community conservation movement",
-          "link": "https://news.mongabay.com/short-article/2026/08/john-salehe-helped-shape-tanzanias-community-conservation-movement/",
-          "published": "2026-08-15T15:40:53+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "For wildlife moving between Lake Manyara and Tarangire, a line on a map was never enough. Elephants, wildebeest, and other animals crossed land used b",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/15153817/John-Salehe-16x9-1-768x512.jpg",
           "other_news": true
         }
       ]

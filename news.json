@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T04:29:54.789259+00:00",
+  "generated_at": "2026-08-21T05:36:28.925775+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -116,7 +116,7 @@
         {
           "title": "My family have fished this river for 300 years - now pollution has killed all the fish",
           "link": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-20T20:47:39+00:00",
+          "published": "2026-08-21T05:06:39+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -643,6 +643,17 @@
           "other_news": false
         },
         {
+          "title": "Hermit crabs and cockroaches emerge as unlikely seed dispersers on a Japanese island",
+          "link": "https://news.mongabay.com/short-article/2026/08/hermit-crabs-and-cockroaches-emerge-as-unlikely-seed-dispersers-on-a-japanese-island/",
+          "published": "2026-08-21T04:35:09+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In the humid, coastal forests of Japan’s Ishigaki Island, near Okinawa, a parasitic plant relies on some unusual allies to spread its seeds: land herm",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/21043435/20260811-press_suetsugu-en01-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "As an industry and a cooking ingredient, seaweed is gaining ground in Brazil",
           "link": "https://news.mongabay.com/2026/08/as-an-industry-and-a-cooking-ingredient-seaweed-is-gaining-ground-in-brazil/",
           "published": "2026-08-18T12:26:44+00:00",
@@ -789,6 +800,17 @@
           "other_news": true
         },
         {
+          "title": "Wildlife and ancient trees destroyed by A31 wildfire",
+          "link": "https://www.bbc.co.uk/news/articles/c9v4zw822d7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-21T05:09:08+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A Forestry England survey finds dead trees and wildlife, scorched bogs and areas devoid of plants.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc2/live/ad13b690-9c90-11f1-bd28-a9dd56c45ed7.jpg",
+          "other_news": true
+        },
+        {
           "title": "Rare cows part of estate's rewilding project",
           "link": "https://www.bbc.co.uk/news/articles/c8xnk2dgv5jo?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-19T06:13:27+00:00",
@@ -797,17 +819,6 @@
           "language": "en",
           "summary": "White Park cattle arrive at the Castle Howard estate in North Yorkshire to support conservation.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c6a/live/95077a00-9afb-11f1-aed2-8d6da8d75094.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Work on £1.5m nature reserve to start next month",
-          "link": "https://www.bbc.co.uk/news/articles/cyvlz215ye4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-18T13:25:43+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A charity says the nature reserve will be a \"very special thing\" for the town once complete.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11f6/live/deb0aad0-9aee-11f1-930b-57cfba7235f9.png",
           "other_news": true
         },
         {
@@ -1394,25 +1405,14 @@
           "other_news": true
         },
         {
-          "title": "Malgré un été de tous les records, le refus d’obstacle de la classe politique face à l’urgence climatique",
+          "title": "Malgré un été marqué par les canicules, les incendies et la sécheresse, les responsables politiques muets sur l’urgence climatique",
           "link": "https://www.lemonde.fr/politique/article/2026/08/21/malgre-un-ete-de-tous-les-records-le-refus-d-obstacle-de-la-classe-politique-face-a-l-urgence-climatique_6751533_823448.html",
-          "published": "2026-08-21T05:30:31+02:00",
+          "published": "2026-08-21T05:30:30+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Alors que la France subit une série d’événements extrêmes, ni l’exécutif ni les candidats à la présidentielle de 2027 n’ont jusqu’ici abordé frontalem",
+          "summary": "Alors que la France subit une série d’événements extrêmes, ni le gouvernement ni les candidats à la présidentielle de 2027 n’ont jusqu’ici abordé fron",
           "image": "https://img.lemde.fr/2026/08/18/482/0/4500/2250/644/322/60/0/165623e_upload-1-uvot9eo3qi0a-mfache-17082026-le-monde-deplacement-lecornu-en-gironde-france-ii-067.jpg",
-          "other_news": true
-        },
-        {
-          "title": "En Allemagne, les sociaux-démocrates veulent inscrire l’adaptation au changement climatique dans la Constitution",
-          "link": "https://www.lemonde.fr/international/article/2026/08/19/en-allemagne-les-sociaux-democrates-veulent-inscrire-l-adaptation-au-changement-climatique-dans-la-constitution_6749934_3210.html",
-          "published": "2026-08-19T19:00:12+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Alors que la lutte contre le réchauffement climatique relève, outre-Rhin, des Länder et des communes, les vagues de chaleur de cet été ont ravivé les",
-          "image": "https://img.lemde.fr/2026/08/19/584/0/7008/3504/644/322/60/0/d5665ae_upload-1-7pkwpws4fvya-20260724-ps-harz-lemonde-014.jpg",
           "other_news": true
         },
         {
@@ -1434,6 +1434,17 @@
           "type": "news",
           "language": "fr",
           "summary": "France nature environnement, la fédération de chasse du Doubs et la branche locale de la FNSEA participent depuis six ans à une étude sur l'efficacité",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "We’re building a New York-sized city every month. That’s worrying for our climate",
+          "link": "https://theconversation.com/were-building-a-new-york-sized-city-every-month-thats-worrying-for-our-climate-289702",
+          "published": "2026-08-21T04:45:52+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A new study reveals what unsustainable construction practices are costing our climate – and what must change.",
           "image": null,
           "other_news": true
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T05:36:28.925775+00:00",
+  "generated_at": "2026-08-22T04:24:07.738804+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -16,6 +16,17 @@
         }
       ],
       "Sustainable Fisheries": [
+        {
+          "title": "Antarctic krill fishing is now concentrated in the exact pattern conservation rules were designed to prevent",
+          "link": "https://theconversation.com/antarctic-krill-fishing-is-now-concentrated-in-the-exact-pattern-conservation-rules-were-designed-to-prevent-290019",
+          "published": "2026-08-21T12:35:44+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "With location regulations no longer in force, fishing boats are harvesting thousands of tons of krill from very few areas, increasing competition with",
+          "image": null,
+          "other_news": false
+        },
         {
           "title": "Philippine Supreme Court rules monitoring commercial fishing vessels is unconstitutional",
           "link": "https://news.mongabay.com/2026/08/philippine-supreme-court-rules-monitoring-commercial-fishing-vessels-is-unconstitutional/",
@@ -38,6 +49,17 @@
           "language": "en",
           "summary": "China has published a new five-year plan for coal, the latest in a slew of important policy documents for the&#8230;\nThe post Q&amp;A: What does China",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Spain proposes 23 new marine protected areas in the Canary Islands and Mediterranean",
+          "link": "https://news.mongabay.com/2026/08/spain-proposes-23-new-marine-protected-areas-in-the-canary-islands-and-mediterranean/",
+          "published": "2026-08-21T14:28:46+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Spanish government has launched a consultation process to establish 23 new marine protected areas (MPAs) in Canary Islands waters and the Mediterr",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/21130834/scarlet-sea-fan-768x512.jpg",
           "other_news": false
         }
       ],
@@ -111,17 +133,6 @@
           "language": "en",
           "summary": "Hottest periods this year in most sea regions would have been ‘virtually impossible’ in a preindustrial climateCarbon pollution has fuelled a “massive",
           "image": "https://i.guim.co.uk/img/media/bd72147bde43ba629cd3212aea27908b6b16b768/453_0_6521_5216/master/6521.jpg?width=140&quality=85&auto=format&fit=max&s=fe26860749de22b65e702614b0ba8e86",
-          "other_news": false
-        },
-        {
-          "title": "My family have fished this river for 300 years - now pollution has killed all the fish",
-          "link": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-21T05:06:39+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A tradition on a river once fished by US President Jimmy Carter could be coming to an end.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/785d/live/b7b0e340-9cb6-11f1-84cf-fd4cfd9d6c84.jpg",
           "other_news": false
         },
         {
@@ -204,6 +215,17 @@
           "other_news": false
         },
         {
+          "title": "Art and science must come together for coral reef conservation, biologists argue",
+          "link": "https://news.mongabay.com/short-article/2026/08/art-and-science-must-come-together-for-coral-reef-conservation-biologists-argue/",
+          "published": "2026-08-21T20:00:16+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Art and science can work together to raise public awareness and propel conservation efforts needed to safeguard coral reef ecosystems, a group of cora",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/21195447/indonesia_komodo_uw_170675-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Indigenous fishers rethink shark hunting & protect species on Colombia’s coast",
           "link": "https://news.mongabay.com/2026/08/indigenous-fishers-rethink-shark-hunting-protect-species-on-colombias-coast/",
           "published": "2026-08-20T06:00:42+00:00",
@@ -235,20 +257,20 @@
           "summary": "While elephant ivory, rhino horns and pangolin scales get a lot of attention when it comes to illegal wildlife trade, marine wildlife are widely targe",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/19101535/Mongabay_Thumbnail_XRay_Web.jpg",
           "other_news": false
-        },
-        {
-          "title": "On the Great Barrier Reef, management by Traditional Owners is growing",
-          "link": "https://news.mongabay.com/2026/08/on-the-great-barrier-reef-management-by-traditional-owners-is-growing/",
-          "published": "2026-08-18T18:35:11+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "PERTH, Australia — “There’s this beautiful underwater garden out there,” says Mercy Singleton, referring to the vast network of colorful corals that m",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/18180055/a.-141891-2-768x512.jpeg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
+        {
+          "title": "'I've caught one fish all season' - how a polluted river could end 300 years of coracle fishing",
+          "link": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-21T05:06:39+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The tradition on a Carmarthenshire river once fished by US President Jimmy Carter could be coming to an end.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e83e/live/6cf98890-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
+          "other_news": false
+        },
         {
           "title": "Antarctic krill fishery shuts early for second year running",
           "link": "https://oceanographicmagazine.com/news/antarctic-krill-fishery-shuts-early-for-second-year-running/",
@@ -306,6 +328,28 @@
           "language": "en",
           "summary": "With limited hunting grounds due to melting sea ice, polar bears have taken to raiding seabird nests, at a time when bird colonies are facing coastal",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "China opens new Arctic trade route – but obstacles will prevent its wider use",
+          "link": "https://theconversation.com/china-opens-new-arctic-trade-route-but-obstacles-will-prevent-its-wider-use-290117",
+          "published": "2026-08-21T14:42:35+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As geopolitical turmoil forces ships to find new trade routes, melting Arctic ice offers a tempting shortcut.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Reconnecting the skies: Linking flyways for migratory seabirds across continents",
+          "link": "https://news.mongabay.com/2026/08/reconnecting-the-skies-linking-flyways-for-migratory-seabirds-across-continents/",
+          "published": "2026-08-21T13:22:21+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Arctic terns make the longest migration of any creature on Earth, with some Sterna paradisaea clocking more than 80,000 kilometers (49,709 miles) a ye",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/20133036/banner-in-the-sea-and-in-the-skies-768x512.jpg",
           "other_news": false
         }
       ],
@@ -379,14 +423,25 @@
           "other_news": false
         },
         {
-          "title": "Zoo boss calls pipeline plan on site 'unacceptable'",
-          "link": "https://www.bbc.co.uk/news/articles/c0rdl5zg208o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-20T05:21:20+00:00",
+          "title": "Dog warning as suspected palm oil washes up on beach",
+          "link": "https://www.bbc.co.uk/news/articles/c0km61yeeero?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-21T18:30:10+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Proposals for a pipeline to transport carbon emissions to the coast would cut through the zoo.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b1/live/ce162330-9bb1-11f1-ae8a-8d57110c5ba6.jpg",
+          "summary": "Palm oil can be toxic to dogs who may be attracted to its smell.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4757/live/3d5fa130-9d83-11f1-adf5-2dc21c9cc109.jpg",
+          "other_news": false
+        },
+        {
+          "title": "King penguin chick hatches in UK heatwave",
+          "link": "https://www.bbc.co.uk/news/articles/clyj3yrerpeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-21T10:22:10+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The \"very important little penguin\" is the first of its kind to hatch in the UK in more than a decade.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd1/live/44c80b90-9c9f-11f1-a5a0-114ca9d4a1bc.jpg",
           "other_news": false
         },
         {
@@ -430,6 +485,17 @@
           "type": "news",
           "language": "en",
           "summary": "Our entire food system needs a redesign to cope with increasing threats to resilience over the long haul.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Using thunderquakes to X-ray Earth – a new study shows urban seismology in action",
+          "link": "https://theconversation.com/using-thunderquakes-to-x-ray-earth-a-new-study-shows-urban-seismology-in-action-289961",
+          "published": "2026-08-21T17:59:58+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "With the help of thunderstorms and everyday fiber-optic cables, these scientists are revealing a hidden world underground.",
           "image": null,
           "other_news": false
         },
@@ -500,7 +566,7 @@
           "other_news": false
         },
         {
-          "title": "Hydrocarbures dans les outre-mer : « l'attrait des ressources fossiles est en contradiction avec l'idée même d'une décolonisation »",
+          "title": "Pétrole dans les outre-mer : « l'extractivisme n'a jamais constitué un instrument d'émancipation des peuples »",
           "link": "https://reporterre.net/La-ruee-vers-les-energies-fossiles-prolonge-l-oeuvre-coloniale",
           "published": "2026-08-20T12:41:13+00:00",
           "source": "Reporterre",
@@ -555,28 +621,6 @@
           "other_news": false
         },
         {
-          "title": "Les États-Unis ont censuré un rapport sur l'état de l'Arctique",
-          "link": "https://reporterre.net/Les-Etats-Unis-ont-censure-un-rapport-sur-l-etat-de-l-Arctique",
-          "published": "2026-08-13T12:54:04+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Nouvelle censure trumpiste sur la science étasunienne. La Maison Blanche a reconnu, mardi 11 août, avoir annulé la publication d",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/afp__20260719__aa_19072026_2887430__v1__highres__teamofthe6thnationalarcticscientifi_1_1_-0f161.jpg?1786625646",
-          "other_news": false
-        },
-        {
-          "title": "Au Mont-Saint-Michel, des millions de touristes, un mariage d'ultrariches et des phoques en détresse",
-          "link": "https://reporterre.net/La-surfrequentation-du-Mont-Saint-Michel-met-en-danger-les-phoques-de-la-baie-3-millions",
-          "published": "2026-08-13T07:37:47+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "La surfréquentation du Mont-Saint-Michel, visité par près de 3 millions de personnes par an, perturbe les animaux qui vivent dan",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/img_0144-9e354.jpg?1786606785",
-          "other_news": false
-        },
-        {
           "title": "Snooping robot reveals how dolphins use sound to hunt and socialise",
           "link": "https://oceanographicmagazine.com/news/snooping-robot-reveals-how-dolphins-use-sound-to-hunt-and-socialise/",
           "published": "2026-08-18T16:57:55+00:00",
@@ -599,9 +643,20 @@
           "other_news": false
         },
         {
+          "title": "Cinq ans après, l’amer anniversaire de la loi Climat et résilience, inspirée par des propositions citoyennes : « presque toutes les mesures ont été détricotées »",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/22/cinq-ans-apres-l-amer-anniversaire-de-la-loi-climat-et-resilience-inspiree-par-des-propositions-citoyennes-presque-toutes-les-mesures-ont-ete-detricotees_6752625_3244.html",
+          "published": "2026-08-22T06:00:09+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le texte promulgué il y a cinq ans se voulait la traduction dans la loi des propositions de la convention citoyenne pour le climat visant à guider la",
+          "image": "https://img.lemde.fr/2026/08/21/0/0/5950/2975/644/322/60/0/5cf7974_upload-1-yf2yf3bkdyn0-000-399n4j2.jpg",
+          "other_news": false
+        },
+        {
           "title": "Dans le delta du Pô, l’invasion du crabe tueur de palourdes : « Sans “vongole”, plus d’économie. Tout le territoire meurt »",
           "link": "https://www.lemonde.fr/m-le-mag/article/2026/08/21/dans-le-delta-du-po-l-invasion-du-crabe-tueur-de-palourdes-sans-vongole-plus-d-economie-tout-le-territoire-meurt_6751572_4500055.html",
-          "published": "2026-08-21T06:00:23+02:00",
+          "published": "2026-08-21T06:00:19+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -610,13 +665,13 @@
           "other_news": false
         },
         {
-          "title": "Why salty food is so appetising when you’re by the sea",
-          "link": "https://theconversation.com/why-salty-food-is-so-appetising-when-youre-by-the-sea-290016",
-          "published": "2026-08-20T14:23:19+00:00",
-          "source": "The Conversation",
+          "title": "Lessons from Coastal Legends",
+          "link": "https://oceanconservancy.org/blog/2026/08/21/coastal-legends/",
+          "published": "2026-08-21T19:09:56+00:00",
+          "source": "Ocean Conservancy",
           "type": "news",
           "language": "en",
-          "summary": "Sense, sweat, memory and culture all play a part in our craving for salty food at the beach.",
+          "summary": "Storytelling is one of our oldest human behaviors. Across every culture and continent, people have used stories to share values, pass down knowledge a",
           "image": null,
           "other_news": false
         },
@@ -651,17 +706,6 @@
           "language": "en",
           "summary": "In the humid, coastal forests of Japan’s Ishigaki Island, near Okinawa, a parasitic plant relies on some unusual allies to spread its seeds: land herm",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/21043435/20260811-press_suetsugu-en01-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "As an industry and a cooking ingredient, seaweed is gaining ground in Brazil",
-          "link": "https://news.mongabay.com/2026/08/as-an-industry-and-a-cooking-ingredient-seaweed-is-gaining-ground-in-brazil/",
-          "published": "2026-08-18T12:26:44+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "On a Brazilian beach, a family gave seaweed new life.",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/18152140/IMG_2934-768x512.png",
           "other_news": false
         }
       ]
@@ -715,6 +759,17 @@
           "summary": "During troubled talks, fossil fuel-producing nations have pushed for a global pact to tackle only plastic waste rather than reducing the size of the p",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "Hands On: Stories that build change",
+          "link": "https://news.mongabay.com/specials/2026/08/hands-on-solutions/",
+          "published": "2026-08-21T13:59:47+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Communities across the globe are responding to environmental pressures like climate change, biodiversity loss and pollution with local knowledge and p",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/10/08100347/Cassandra-Garduno-1-768x512.jpg",
+          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -741,40 +796,18 @@
           "other_news": true
         },
         {
-          "title": "HOAs are often barriers to sustainable landscaping and solar energy – here’s how they could be bridges instead",
-          "link": "https://theconversation.com/hoas-are-often-barriers-to-sustainable-landscaping-and-solar-energy-heres-how-they-could-be-bridges-instead-288483",
-          "published": "2026-08-03T12:30:50+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Climate change, biodiversity loss and water conservation are often framed as problems in need of national policies. However, there is an often more im",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Indigenous food sovereignty is one of the most overlooked conservation strategies (commentary)",
-          "link": "https://news.mongabay.com/2026/08/indigenous-food-sovereignty-is-one-of-the-most-overlooked-conservation-strategies-commentary/",
-          "published": "2026-08-18T16:21:29+00:00",
+          "title": "How ‘gentle power’ can preserve traditional biodiversity in Tokyo",
+          "link": "https://news.mongabay.com/2026/08/how-gentle-power-can-preserve-traditional-biodiversity-in-tokyo/",
+          "published": "2026-08-21T15:58:20+00:00",
           "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "As governments and conservation organizations search for solutions to the interconnected crises of biodiversity loss, climate change and food insecuri",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/09/23081210/44366384701_940bc33dc5_k-768x512.jpg",
+          "summary": "The Zushi-Onoji Historical and Environmental Conservation Area nestles among Tokyo’s sprawling western suburbs. The area provides habitat for endanger",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/21153449/Cynops-pyrrhogaster-768x512.jpg",
           "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
-        {
-          "title": "Muir resignation demand is 'not personal' says UFU",
-          "link": "https://www.bbc.co.uk/news/articles/c5yvdglz962o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-17T11:06:39+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Ulster Farmers' Union rejects a claim that it is trying to dictate policy after a cattle cull.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc59/live/6fbd4990-9750-11f1-a7ab-8b30adf0800a.jpg",
-          "other_news": true
-        },
         {
           "title": "Small businesses at the gateways to America’s national parks face 4 big risks – including changing boundaries and extreme weather",
           "link": "https://theconversation.com/small-businesses-at-the-gateways-to-americas-national-parks-face-4-big-risks-including-changing-boundaries-and-extreme-weather-288676",
@@ -797,28 +830,6 @@
           "language": "en",
           "summary": "Exchange for Change is running the new recycling programmes across the UK and will also run Wales's.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea29/live/56eb4800-73b9-11f1-a8ee-df4f88a2912f.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Wildlife and ancient trees destroyed by A31 wildfire",
-          "link": "https://www.bbc.co.uk/news/articles/c9v4zw822d7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-21T05:09:08+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A Forestry England survey finds dead trees and wildlife, scorched bogs and areas devoid of plants.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc2/live/ad13b690-9c90-11f1-bd28-a9dd56c45ed7.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Rare cows part of estate's rewilding project",
-          "link": "https://www.bbc.co.uk/news/articles/c8xnk2dgv5jo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-19T06:13:27+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "White Park cattle arrive at the Castle Howard estate in North Yorkshire to support conservation.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c6a/live/95077a00-9afb-11f1-aed2-8d6da8d75094.jpg",
           "other_news": true
         },
         {
@@ -1038,17 +1049,6 @@
           "type": "news",
           "language": "en",
           "summary": "The amount of land occupied by a farming system does not necessarily reflect its importance to our food supply.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Smart clothes will soon be on sale. But regulations are needed to prevent a new waste mountain",
-          "link": "https://theconversation.com/smart-clothes-will-soon-be-on-sale-but-regulations-are-needed-to-prevent-a-new-waste-mountain-287269",
-          "published": "2026-08-05T13:00:39+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Clever clothing that can sense health issues are not far off, but they could prove hard to recycle or reuse.",
           "image": null,
           "other_news": true
         },
@@ -1339,17 +1339,6 @@
           "other_news": true
         },
         {
-          "title": "Will new UK PM’s green measures at home cause climate finance pain overseas?",
-          "link": "https://www.climatechangenews.com/2026/07/22/will-new-uk-pms-green-measures-at-home-cause-climate-finance-pain-overseas/",
-          "published": "2026-07-22T13:21:25+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Andy Burnham cuts bus fares and household electricity tax in a boost for climate action - some of it paid for by switching the UK's contribution to a",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Désertification : la COP17 s'ouvre sur fond de canicules à répétition",
           "link": "https://reporterre.net/Desertification-la-COP17-s-ouvre-sur-fond-de-canicules-a-repetition",
           "published": "2026-08-17T16:37:23+00:00",
@@ -1394,18 +1383,18 @@
           "other_news": true
         },
         {
-          "title": "Énergie solaire : une production en forte hausse durant les canicules",
-          "link": "https://reporterre.net/Energie-solaire-une-production-en-forte-hausse-durant-les-canicules",
-          "published": "2026-08-13T13:58:18+00:00",
-          "source": "Reporterre",
+          "title": "En Provence, les vagues de chaleur ont « mis sous contrainte » le réseau électrique",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/21/en-provence-les-vagues-de-chaleur-ont-mis-sous-contrainte-le-reseau-electrique_6752271_3244.html",
+          "published": "2026-08-21T17:59:56+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "La production d'énergie solaire a augmenté jusqu'à 17 % dans les pays européens lors des vagues de chaleur de juin et juillet, r",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/panososo-a0c40.jpg?1786629512",
+          "summary": "Entre le 13 et le 19 août, plusieurs milliers de clients ont subi des coupures à répétition dans les Bouches-du-Rhône et le Vaucluse.",
+          "image": "https://img.lemde.fr/2023/04/17/172/0/3000/1500/644/322/60/0/7f07c66_1681717634760-energie-05.jpg",
           "other_news": true
         },
         {
-          "title": "Malgré un été marqué par les canicules, les incendies et la sécheresse, les responsables politiques muets sur l’urgence climatique",
+          "title": "Malgré un été marqué par les canicules, les incendies et la sécheresse, les responsables politiques incapables de répondre à l’urgence climatique",
           "link": "https://www.lemonde.fr/politique/article/2026/08/21/malgre-un-ete-de-tous-les-records-le-refus-d-obstacle-de-la-classe-politique-face-a-l-urgence-climatique_6751533_823448.html",
           "published": "2026-08-21T05:30:30+02:00",
           "source": "Le Monde Planète",
@@ -1416,13 +1405,13 @@
           "other_news": true
         },
         {
-          "title": "«Chaque année, des plus gros morceaux de roche tombent de la montagne» : le massif du Mont Blanc éprouvé par le réchauffement climatique",
+          "title": "«Chaque année, des plus gros morceaux de roche tombent de la montagne» : le massif du Mont-Blanc éprouvé par le réchauffement climatique",
           "link": "https://vert.eco/serie/chaque-annee-des-plus-gros-morceaux-de-roche-tombent-de-la-montagne-le-massif-du-mont-blanc-eprouve-par-le-rechauffement-climatique/",
           "published": "2026-08-21T04:00:00+00:00",
           "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Le Mont Blanc n’échappe pas aux conséquences du changement climatique : les éboulements rocheux s’y multiplient avec la hausse des températures. Le 11",
+          "summary": "Le Mont-Blanc n’échappe pas aux conséquences du changement climatique : les éboulements rocheux s’y multiplient avec la hausse des températures. Le 11",
           "image": null,
           "other_news": true
         },
@@ -1512,28 +1501,6 @@
           "language": "en",
           "summary": "New research suggests a “massive and untapped” opportunity for conservation within commercial concessions in Southeast Asia, reports Mongabay’s Caroly",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/19052242/Oil-palm-and-rubber-plantations-dominate-landscapes-across-many-parts-of-Southeast-Asia-as-photographed-here-in-Thailand.-Image-by-Carolyn-Cowan-Mongabay-scaled-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Indonesia leads global tally of abuses linked to Chinese transition-mineral investments",
-          "link": "https://news.mongabay.com/2026/08/indonesia-leads-global-tally-of-abuses-linked-to-chinese-transition-mineral-investments/",
-          "published": "2026-08-18T10:59:25+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "JAKARTA — Indonesia recorded more allegations of human rights and environmental abuses linked to Chinese investments in transition minerals than any o",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/07/01140403/image_processing20240603-2-tg8aa4-768x512.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "Despite energy crisis, Bangladesh’s factories are slow to adopt solar power: Study",
-          "link": "https://news.mongabay.com/2026/08/despite-energy-crisis-bangladeshs-factories-are-slow-to-adopt-solar-power-study/",
-          "published": "2026-08-18T07:37:42+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Bangladesh’s energy system is facing intense pressure from the country’s ongoing fuel crisis and rising electricity bills. Yet thousands of garment fa",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/18072353/solar-power-energy-bangladesh-768x512.jpg",
           "other_news": true
         }
       ]

@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-08-22T05:31:48.949221+00:00",
+  "generated_at": "2026-08-23T04:28:38.061205+00:00",
   "categories": {
     "Politics & Policy": {
-      "Marine Biodiversity & Conservation": [
-        {
-          "title": "New species of seahorse had eluded scientists for over a century",
-          "link": "https://oceanographicmagazine.com/news/new-species-of-seahorse-had-eluded-scientists-for-over-a-century/",
-          "published": "2026-08-17T17:14:25+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The species was found by an international team of researchers examining heaps of bycatch at Tuticorin harbour in southern India. Scientists had encoun",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Sustainable Fisheries": [
         {
           "title": "Antarctic krill fishing is now concentrated in the exact pattern conservation rules were designed to prevent",
@@ -182,39 +169,6 @@
           "other_news": false
         },
         {
-          "title": "Three quarters of Indo-Pacific coral reefs could drown as sea levels rise",
-          "link": "https://oceanographicmagazine.com/news/three-quarters-of-indo-pacific-coral-reefs-could-drown-as-sea-levels-rise/",
-          "published": "2026-08-19T20:28:31+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Rising seas could outpace most Indo-Pacific coral reefs within 35 years, a new study warns, threatening coastal protection for millions\nThe post Three",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Icelandic whaling company announces intent to create iron supplements from meat",
-          "link": "https://oceanographicmagazine.com/news/icelandic-whaling-company-announces-intent-to-create-iron-supplements-from-meat/",
-          "published": "2026-08-19T20:15:27+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Iron is one of the most abundant elements on Earth, but as Japanese demand for fin whale meat falters Loftsson is eyeing a new market\nThe post Iceland",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "AI exposes scale of bomb fishing devastating Coral Triangle reefs",
-          "link": "https://oceanographicmagazine.com/news/ai-exposes-scale-of-bomb-fishing-devastating-coral-triangle-reefs/",
-          "published": "2026-08-18T16:51:10+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The study finds the illegal fishing practice occurs on Indonesian reefs almost hourly, causing 160,000-square-metres of damage\nThe post AI exposes sca",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Art and science must come together for coral reef conservation, biologists argue",
           "link": "https://news.mongabay.com/short-article/2026/08/art-and-science-must-come-together-for-coral-reef-conservation-biologists-argue/",
           "published": "2026-08-21T20:00:16+00:00",
@@ -270,17 +224,6 @@
           "summary": "The tradition on a Carmarthenshire river once fished by US President Jimmy Carter could be coming to an end.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e83e/live/6cf98890-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
           "other_news": false
-        },
-        {
-          "title": "Antarctic krill fishery shuts early for second year running",
-          "link": "https://oceanographicmagazine.com/news/antarctic-krill-fishery-shuts-early-for-second-year-running/",
-          "published": "2026-08-14T09:26:17+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Vessels have hit their catch limit in the Southern Ocean for the second consecutive year, triggering fresh calls for marine protection\nThe post Antarc",
-          "image": null,
-          "other_news": false
         }
       ],
       "Nature-Based Solutions & Restoration": [
@@ -306,28 +249,6 @@
           "language": "en",
           "summary": "Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023The world’s seas were hotter last m",
           "image": "https://i.guim.co.uk/img/media/87c236446ba2900c4c834b9136187c04abcb7a9a/491_0_2916_2334/master/2916.jpg?width=140&quality=85&auto=format&fit=max&s=c0e7a10cf898639ddd8142642505e594",
-          "other_news": false
-        },
-        {
-          "title": "Scotland’s seabird population halved since 1980s, new figures reveal",
-          "link": "https://oceanographicmagazine.com/news/scotlands-seabird-population-halved-since-1980s-new-figures-reveal/",
-          "published": "2026-08-14T12:49:26+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Arctic Skuas, little terns and common terns were hit the hardest, while black-headed gulls and gannets had stronger-than-average years\nThe post Scotla",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Polar bears devastating Arctic seabird colonies as sea ice vanishes",
-          "link": "https://oceanographicmagazine.com/news/polar-bears-devastating-arctic-seabird-colonies-as-sea-ice-vanishes/",
-          "published": "2026-08-13T09:24:22+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "With limited hunting grounds due to melting sea ice, polar bears have taken to raiding seabird nests, at a time when bird colonies are facing coastal",
-          "image": null,
           "other_news": false
         },
         {
@@ -367,6 +288,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "‘It’s pretty much a guarantee you’ll get stung’: jellyfish keep swimmers off Delaware beaches",
+          "link": "https://www.theguardian.com/us-news/2026/aug/22/jellyfish-sting-delaware-beaches",
+          "published": "2026-08-22T10:00:00+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Beach patrols report hundreds of stings a day as warmer waters and drought create favorable conditions for jellyfishAn unusually high number of jellyf",
+          "image": "https://i.guim.co.uk/img/media/1e2efb5ad77ec68e1d4778ce0444eea85a712e03/4_742_3759_3006/master/3759.jpg?width=140&quality=85&auto=format&fit=max&s=18896470af39a01ef13f7eb9a78c41df",
+          "other_news": false
+        },
         {
           "title": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
           "link": "https://www.theguardian.com/environment/2026/aug/20/environment-oceans-acidification-alkali-carbon-absorption-lobsters",
@@ -463,17 +395,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Leur robustesse, notamment du fait de la présence de sel dans les milieux, fait des plantes halophytes une ressource biologique intéressante à bien de",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "« Je ne peux plus participer à cette mascarade » : pourquoi des guides en Antarctique quittent le métier de leurs rêves",
-          "link": "https://theconversation.com/je-ne-peux-plus-participer-a-cette-mascarade-pourquoi-des-guides-en-antarctique-quittent-le-metier-de-leurs-reves-288207",
-          "published": "2026-07-24T09:50:49+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "L’Antarctique attire chaque année davantage de touristes. Mais pour certains guides, voir les glaciers fondre et les colonies de manchots se remplir d",
           "image": null,
           "other_news": false
         },
@@ -621,47 +542,36 @@
           "other_news": false
         },
         {
-          "title": "Snooping robot reveals how dolphins use sound to hunt and socialise",
-          "link": "https://oceanographicmagazine.com/news/snooping-robot-reveals-how-dolphins-use-sound-to-hunt-and-socialise/",
-          "published": "2026-08-18T16:57:55+00:00",
-          "source": "Oceanographic",
+          "title": "En Sierra Leone, les habitants des bidonvilles piégés par la montée de l’océan : « On est encerclés par la mer et par des torrents de pluie et d’eaux usées »",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/23/en-sierra-leone-les-habitants-des-bidonvilles-pieges-par-la-montee-de-l-ocean-on-est-encercles-par-la-mer-et-par-des-torrents-de-pluie-et-d-eaux-usees_6753758_3244.html",
+          "published": "2026-08-23T06:01:00+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
-          "language": "en",
-          "summary": "An underwater robot secretly listened to dolphins off Florida's coast for two months, revealing they switch their sounds between socialising and hunti",
-          "image": null,
+          "language": "fr",
+          "summary": "A Freetown, les précipitations et les marées transforment les quartiers proches de l’océan en vastes zones inondables. Faute d’équipements, des dizain",
+          "image": "https://img.lemde.fr/2026/08/05/907/0/6784/3392/644/322/60/0/9b2cc9a_upload-1-g6ml8cwlpodc-14.jpg",
           "other_news": false
         },
         {
-          "title": "Ocean photographer of the year 2026 finalists revealed",
-          "link": "https://oceanographicmagazine.com/news/ocean-photographer-of-the-year-2026-finalists-revealed/",
-          "published": "2026-08-13T15:16:33+00:00",
-          "source": "Oceanographic",
+          "title": "Un navire sud-coréen part vers l’Europe via l’Arctique, une première, alors que le blocage du détroit d’Ormuz perdure",
+          "link": "https://www.lemonde.fr/international/article/2026/08/22/un-navire-sud-coreen-part-vers-l-europe-par-la-route-maritime-de-l-arctique-une-premiere-alors-que-le-blocage-du-detroit-d-ormuz-perdure_6753371_3210.html",
+          "published": "2026-08-22T15:37:58+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
-          "language": "en",
-          "summary": "This year’s finalists include two orcas working together to carry away a humpback calf, a scorpion fish devouring a lizardfish and a male octopus exte",
-          "image": null,
+          "language": "fr",
+          "summary": "Bien que rendue plus navigable par le réchauffement climatique, la voie maritime de l’Arctique présente de nombreuses contraintes limitant son potenti",
+          "image": "https://img.lemde.fr/2026/08/22/19/0/4555/2277/644/322/60/0/613b405_ftp-1-wvyapmkq25hb-5893882-01-06.jpg",
           "other_news": false
         },
         {
-          "title": "Cinq ans après, l’amer anniversaire de la loi Climat et résilience, inspirée par des propositions citoyennes : « Presque toutes les mesures ont été détricotées »",
+          "title": "Pour la loi Climat et résilience, issue de propositions citoyennes, un cinquième et amer anniversaire : « Presque toutes les mesures ont été détricotées »",
           "link": "https://www.lemonde.fr/planete/article/2026/08/22/cinq-ans-apres-l-amer-anniversaire-de-la-loi-climat-et-resilience-inspiree-par-des-propositions-citoyennes-presque-toutes-les-mesures-ont-ete-detricotees_6752625_3244.html",
           "published": "2026-08-22T06:00:02+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Le texte promulgué il y a cinq ans se voulait la traduction dans la loi des propositions de la convention citoyenne pour le climat visant à guider la",
+          "summary": "Le texte promulgué en août 2021 ans se voulait la traduction dans la loi du travail de la convention citoyenne pour le climat visant à guider la Franc",
           "image": "https://img.lemde.fr/2026/08/21/0/0/5950/2975/644/322/60/0/5cf7974_upload-1-yf2yf3bkdyn0-000-399n4j2.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Dans le delta du Pô, l’invasion du crabe tueur de palourdes : « Sans “vongole”, plus d’économie. Tout le territoire meurt »",
-          "link": "https://www.lemonde.fr/m-le-mag/article/2026/08/21/dans-le-delta-du-po-l-invasion-du-crabe-tueur-de-palourdes-sans-vongole-plus-d-economie-tout-le-territoire-meurt_6751572_4500055.html",
-          "published": "2026-08-21T06:00:19+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Depuis la fin des années 1980, la palourde a fait la fortune de cette région pauvre du sud de la Vénétie. Elle est aujourd’hui décimée par un crabe bl",
-          "image": "https://img.lemde.fr/2026/08/17/447/0/1212/606/644/322/60/0/bf1898e_ftp-1-9vynoty62abo-438869-3493454.jpg",
           "other_news": false
         },
         {
@@ -683,17 +593,6 @@
           "type": "news",
           "language": "en",
           "summary": "While our ocean may seem like one giant body of water, its temperatures fluctuate widely. Temperatures can range from below freezing in the deep water",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "What Kansas Can Teach Us About NOAA",
-          "link": "https://oceanconservancy.org/blog/2026/07/23/kansas-teach-about-noaa/",
-          "published": "2026-07-23T18:06:07+00:00",
-          "source": "Ocean Conservancy",
-          "type": "news",
-          "language": "en",
-          "summary": "If you asked most people in America which states depend on the ocean, Kansas would probably not top the list. No beaches. No ports. No salt air. But t",
           "image": null,
           "other_news": false
         },
@@ -822,6 +721,17 @@
       ],
       "Other Marine News": [
         {
+          "title": "Welsh county becomes global hotspot for carbon emissions after wildfires",
+          "link": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-22T11:31:09+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93b6/live/b1859b10-9e0e-11f1-95e0-53a570c83624.jpg",
+          "other_news": true
+        },
+        {
           "title": "Glass deposit operator confirmed after months of wrangling",
           "link": "https://www.bbc.co.uk/news/articles/crk5yk1rynro?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-20T17:31:04+00:00",
@@ -830,6 +740,17 @@
           "language": "en",
           "summary": "Exchange for Change is running the new recycling programmes across the UK and will also run Wales's.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea29/live/56eb4800-73b9-11f1-a8ee-df4f88a2912f.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Council set to axe climate emergency declaration",
+          "link": "https://www.bbc.co.uk/news/articles/c1d1v63ngz1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-22T10:18:20+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Barnsley Council says a review is under way to asses climate and net zero-related activity.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf73/live/ee9a19c0-9d7f-11f1-8bc3-150f4c5f088b.jpg",
           "other_news": true
         },
         {
@@ -863,6 +784,17 @@
           "language": "en",
           "summary": "Solar specs are tricky to recycle because of their lenses, so here are three things to do instead.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e0/live/85ce4490-9733-11f1-870d-5d08c49babb2.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Quand les médias sous-informent et désinforment à propos de la crise environnementale",
+          "link": "https://theconversation.com/quand-les-medias-sous-informent-et-desinforment-a-propos-de-la-crise-environnementale-289563",
+          "published": "2026-08-22T08:35:29+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "En 2026, seuls 4&nbsp;% des articles de presse écrite et des sujets audiovisuels concernaient l’environnement. Une proportion montée à 10&nbsp;% au co",
+          "image": null,
           "other_news": true
         },
         {
@@ -1372,6 +1304,61 @@
           "other_news": true
         },
         {
+          "title": "« Une alimentation bio et plus végétale sera bonne à la fois pour l’environnement et pour la santé »",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/23/une-alimentation-bio-et-plus-vegetale-sera-bonne-a-la-fois-pour-l-environnement-et-pour-la-sante_6753751_3244.html",
+          "published": "2026-08-23T06:00:31+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "« Les entretiens de “Chaleur humaine” ». Pour la scientifique experte en nutrition Emmanuelle Kesse-Guyot, l’agriculture bio est un atout pour la tran",
+          "image": "https://img.lemde.fr/2026/07/23/389/0/4252/2126/644/322/60/0/3646af7_upload-1-mjrkdfzgwde4-hd-rvb-web-se-rie-e-te-ep-5-chaleur-humaine.jpg",
+          "other_news": true
+        },
+        {
+          "title": "« L’eau ne sert pas seulement à boire ou à produire, elle fait fonctionner les écosystèmes »",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/23/l-eau-ne-sert-pas-seulement-a-boire-ou-a-produire-elle-fait-fonctionner-les-ecosystemes_6753748_3232.html",
+          "published": "2026-08-23T06:00:25+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Face à la détresse de la faune sauvage liée aux fortes sécheresses de l’été, des gestes de solidarité et des mesures urgentes s’imposent pour préserve",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/f779229_upload-1-lowgn0pephhg-frame-1262.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Changement climatique : « Nous sommes entrés dans un monde fini et incertain, dans lequel les données du passé ne suffisent plus à penser le futur »",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/22/changement-climatique-nous-sommes-entres-dans-un-monde-fini-et-incertain-dans-lequel-les-donnees-du-passe-ne-suffisent-plus-a-penser-le-futur_6753508_3232.html",
+          "published": "2026-08-22T18:30:03+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Face à la sécheresse, l’anthropologue Agathe Euzen et le géographe Sébastien Velut s’interrogent, dans une tribune au « Monde », sur les modes de gouv",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/f779229_upload-1-lowgn0pephhg-frame-1262.jpg",
+          "other_news": true
+        },
+        {
+          "title": "En Grèce, l’île-prison de Gyaros est devenue un havre de biodiversité",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/22/en-grece-l-ile-prison-de-gyaros-est-devenue-un-havre-de-biodiversite_6753228_3244.html",
+          "published": "2026-08-22T12:18:15+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Au cœur de l’archipel des Cyclades, cette île qui fut longtemps terre de relégation s’est transformée en sanctuaire pour la faune sauvage, et notammen",
+          "image": "https://img.lemde.fr/2026/07/14/522/0/4820/2410/644/322/60/0/17c62f6_upload-1-ms0aliw9vcrl-ap25052626854935.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Climat : la nécessité d’une parole politique",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/22/climat-la-necessite-d-une-parole-politique_6753094_3232.html",
+          "published": "2026-08-22T11:00:01+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le silence des décideurs sur les conséquences de l’été caniculaire 2026 et les solutions à apporter ne peut se comprendre que comme une impuissance à",
+          "image": "https://img.lemde.fr/2026/07/27/806/0/7830/3915/644/322/60/0/5299f26_ftp-1-kmd578tpzpgj-5717175-01-06.jpg",
+          "other_news": true
+        },
+        {
           "title": "Un capitalisme sobre est-il possible ?",
           "link": "https://www.lemonde.fr/podcasts/article/2026/08/22/un-capitalisme-sobre-est-il-possible_6752761_5463015.html",
           "published": "2026-08-22T07:00:10+02:00",
@@ -1391,17 +1378,6 @@
           "language": "fr",
           "summary": "Entre le 13 et le 19 août, plusieurs milliers de clients ont subi des coupures à répétition dans les Bouches-du-Rhône et le Vaucluse.",
           "image": "https://img.lemde.fr/2023/04/17/172/0/3000/1500/644/322/60/0/7f07c66_1681717634760-energie-05.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Malgré un été marqué par les canicules, les incendies et la sécheresse, les responsables politiques incapables de répondre à l’urgence climatique",
-          "link": "https://www.lemonde.fr/politique/article/2026/08/21/malgre-un-ete-de-tous-les-records-le-refus-d-obstacle-de-la-classe-politique-face-a-l-urgence-climatique_6751533_823448.html",
-          "published": "2026-08-21T05:30:30+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Alors que la France subit une série d’événements extrêmes, ni le gouvernement ni les candidats à la présidentielle de 2027 n’ont jusqu’ici abordé fron",
-          "image": "https://img.lemde.fr/2026/08/18/482/0/4500/2250/644/322/60/0/165623e_upload-1-uvot9eo3qi0a-mfache-17082026-le-monde-deplacement-lecornu-en-gironde-france-ii-067.jpg",
           "other_news": true
         },
         {

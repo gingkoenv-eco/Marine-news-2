@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-23T04:28:38.061205+00:00",
+  "generated_at": "2026-08-23T05:33:39.096890+00:00",
   "categories": {
     "Politics & Policy": {
+      "Marine Biodiversity & Conservation": [
+        {
+          "title": "New species of seahorse had eluded scientists for over a century",
+          "link": "https://oceanographicmagazine.com/news/new-species-of-seahorse-had-eluded-scientists-for-over-a-century/",
+          "published": "2026-08-17T17:14:25+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The species was found by an international team of researchers examining heaps of bycatch at Tuticorin harbour in southern India. Scientists had encoun",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Sustainable Fisheries": [
         {
           "title": "Antarctic krill fishing is now concentrated in the exact pattern conservation rules were designed to prevent",
@@ -169,6 +182,39 @@
           "other_news": false
         },
         {
+          "title": "Three quarters of Indo-Pacific coral reefs could drown as sea levels rise",
+          "link": "https://oceanographicmagazine.com/news/three-quarters-of-indo-pacific-coral-reefs-could-drown-as-sea-levels-rise/",
+          "published": "2026-08-19T20:28:31+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Rising seas could outpace most Indo-Pacific coral reefs within 35 years, a new study warns, threatening coastal protection for millions\nThe post Three",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Icelandic whaling company announces intent to create iron supplements from meat",
+          "link": "https://oceanographicmagazine.com/news/icelandic-whaling-company-announces-intent-to-create-iron-supplements-from-meat/",
+          "published": "2026-08-19T20:15:27+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Iron is one of the most abundant elements on Earth, but as Japanese demand for fin whale meat falters Loftsson is eyeing a new market\nThe post Iceland",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "AI exposes scale of bomb fishing devastating Coral Triangle reefs",
+          "link": "https://oceanographicmagazine.com/news/ai-exposes-scale-of-bomb-fishing-devastating-coral-triangle-reefs/",
+          "published": "2026-08-18T16:51:10+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The study finds the illegal fishing practice occurs on Indonesian reefs almost hourly, causing 160,000-square-metres of damage\nThe post AI exposes sca",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Art and science must come together for coral reef conservation, biologists argue",
           "link": "https://news.mongabay.com/short-article/2026/08/art-and-science-must-come-together-for-coral-reef-conservation-biologists-argue/",
           "published": "2026-08-21T20:00:16+00:00",
@@ -224,6 +270,17 @@
           "summary": "The tradition on a Carmarthenshire river once fished by US President Jimmy Carter could be coming to an end.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e83e/live/6cf98890-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
           "other_news": false
+        },
+        {
+          "title": "Antarctic krill fishery shuts early for second year running",
+          "link": "https://oceanographicmagazine.com/news/antarctic-krill-fishery-shuts-early-for-second-year-running/",
+          "published": "2026-08-14T09:26:17+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Vessels have hit their catch limit in the Southern Ocean for the second consecutive year, triggering fresh calls for marine protection\nThe post Antarc",
+          "image": null,
+          "other_news": false
         }
       ],
       "Nature-Based Solutions & Restoration": [
@@ -249,6 +306,28 @@
           "language": "en",
           "summary": "Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023The world’s seas were hotter last m",
           "image": "https://i.guim.co.uk/img/media/87c236446ba2900c4c834b9136187c04abcb7a9a/491_0_2916_2334/master/2916.jpg?width=140&quality=85&auto=format&fit=max&s=c0e7a10cf898639ddd8142642505e594",
+          "other_news": false
+        },
+        {
+          "title": "Scotland’s seabird population halved since 1980s, new figures reveal",
+          "link": "https://oceanographicmagazine.com/news/scotlands-seabird-population-halved-since-1980s-new-figures-reveal/",
+          "published": "2026-08-14T12:49:26+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Arctic Skuas, little terns and common terns were hit the hardest, while black-headed gulls and gannets had stronger-than-average years\nThe post Scotla",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Polar bears devastating Arctic seabird colonies as sea ice vanishes",
+          "link": "https://oceanographicmagazine.com/news/polar-bears-devastating-arctic-seabird-colonies-as-sea-ice-vanishes/",
+          "published": "2026-08-13T09:24:22+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "With limited hunting grounds due to melting sea ice, polar bears have taken to raiding seabird nests, at a time when bird colonies are facing coastal",
+          "image": null,
           "other_news": false
         },
         {
@@ -539,6 +618,28 @@
           "language": "fr",
           "summary": "Le Dubai Tower, un porte-conteneurs chinois, est parti le 15 août pour l'Europe via une nouvelle route express à travers l'Arcti",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260816__c4rf49k__v3__highres__chinaarcticshipping-16e19.jpg?1787054258",
+          "other_news": false
+        },
+        {
+          "title": "Snooping robot reveals how dolphins use sound to hunt and socialise",
+          "link": "https://oceanographicmagazine.com/news/snooping-robot-reveals-how-dolphins-use-sound-to-hunt-and-socialise/",
+          "published": "2026-08-18T16:57:55+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "An underwater robot secretly listened to dolphins off Florida's coast for two months, revealing they switch their sounds between socialising and hunti",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Ocean photographer of the year 2026 finalists revealed",
+          "link": "https://oceanographicmagazine.com/news/ocean-photographer-of-the-year-2026-finalists-revealed/",
+          "published": "2026-08-13T15:16:33+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "This year’s finalists include two orcas working together to carry away a humpback calf, a scorpion fish devouring a lizardfish and a male octopus exte",
+          "image": null,
           "other_news": false
         },
         {
@@ -1381,6 +1482,17 @@
           "other_news": true
         },
         {
+          "title": "«Les avancées ne sont pas à la hauteur» : à l’UTMB, les paradoxes de l’adaptation de la grand-messe de l’ultra-trail",
+          "link": "https://vert.eco/culture/sports-et-loisirs/les-avancees-ne-sont-pas-a-la-hauteur-a-lutmb-les-paradoxes-de-ladaptation-de-la-grand-messe-de-lultra-trail/",
+          "published": "2026-08-23T05:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "En 2025, la mythique course de l’Ultra-trail du Mont-Blanc (UTMB) annonçait vouloir réduire de 20% ses émissions de gaz à effet de serre d’ici 2030. S",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "«Chaque année, des plus gros morceaux de roche tombent de la montagne» : le massif du Mont-Blanc éprouvé par le réchauffement climatique",
           "link": "https://vert.eco/serie/chaque-annee-des-plus-gros-morceaux-de-roche-tombent-de-la-montagne-le-massif-du-mont-blanc-eprouve-par-le-rechauffement-climatique/",
           "published": "2026-08-21T04:00:00+00:00",
@@ -1388,17 +1500,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Le Mont-Blanc n’échappe pas aux conséquences du changement climatique : les éboulements rocheux s’y multiplient avec la hausse des températures. Le 11",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Dans le Doubs, l’alliance inattendue entre chasseurs, écolos et agriculteurs pour repenser le statut «nuisible» du renard",
-          "link": "https://vert.eco/biodiversite/dans-le-doubs-lalliance-inattendue-entre-chasseurs-ecolos-et-agriculteurs-pour-repenser-le-statut-nuisible-du-renard/",
-          "published": "2026-08-16T05:00:00+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "France nature environnement, la fédération de chasse du Doubs et la branche locale de la FNSEA participent depuis six ans à une étude sur l'efficacité",
           "image": null,
           "other_news": true
         },

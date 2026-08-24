@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T05:33:39.096890+00:00",
+  "generated_at": "2026-08-24T04:37:03.794586+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -168,17 +168,6 @@
           "language": "en",
           "summary": "With wing spans up to 3ft, the shy cownose ray species typically arrive in Long Island waters in the warmer monthsDrone footage of dozens of stingrays",
           "image": "https://i.guim.co.uk/img/media/270e456ae909f4949a8a4095a4288d6f24d57820/439_0_4393_3515/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=07398442656656e77b9ebeeef6cb6b9b",
-          "other_news": false
-        },
-        {
-          "title": "Giant whales move into Greenland waters as ice disappears",
-          "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-20T02:05:20+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1da/live/98b70b10-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
           "other_news": false
         },
         {
@@ -367,6 +356,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile waters near the mainland, scientists say",
+          "link": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
+          "published": "2026-08-23T15:00:36+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystemsFollow our Australia new",
+          "image": "https://i.guim.co.uk/img/media/472bdde0a67fc8cb423f8306738cb3c5e60ebe82/367_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=61bcba4b08d36892cfc2c2c7a1789d2f",
+          "other_news": false
+        },
         {
           "title": "‘It’s pretty much a guarantee you’ll get stung’: jellyfish keep swimmers off Delaware beaches",
           "link": "https://www.theguardian.com/us-news/2026/aug/22/jellyfish-sting-delaware-beaches",
@@ -566,6 +566,17 @@
           "other_news": false
         },
         {
+          "title": "Comment les oiseaux migrateurs affrontent-ils la sécheresse ? Des naturalistes leur rendent visite en canoë",
+          "link": "https://reporterre.net/D-habitude-il-y-a-40-a-50-cm-d-eau-en-plus-les-oiseaux-migrateurs-a-l-epreuve-de-la",
+          "published": "2026-08-23T06:35:59+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Chaque année, une équipe recense et bague les oiseaux migrateurs de l'étang de Marcenay, en Côte-d'Or. Une mission délicate mais",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/20260811_baguage_secheresse_web_052-81b52.jpg?1787466985",
+          "other_news": false
+        },
+        {
           "title": "Pétrole dans les outre-mer : « l'extractivisme n'a jamais constitué un instrument d'émancipation des peuples »",
           "link": "https://reporterre.net/La-ruee-vers-les-energies-fossiles-prolonge-l-oeuvre-coloniale",
           "published": "2026-08-20T12:41:13+00:00",
@@ -643,9 +654,31 @@
           "other_news": false
         },
         {
+          "title": "Au Pays basque, la « pêche » aux déchets flottants au large de la côte : « Ce qu’on fait, ce n’est qu’une goutte d’eau »",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/24/au-pays-basque-la-peche-aux-dechets-flottants-au-large-de-la-cote-ce-qu-on-fait-ce-n-est-qu-une-goutte-d-eau_6754811_3244.html",
+          "published": "2026-08-24T05:30:11+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Depuis plus de vingt ans, le bateau « Itsas-Bellara » sillonne les eaux du Pays basque pour intercepter les détritus flottants. Chaque été, ses trois",
+          "image": "https://img.lemde.fr/2026/08/23/0/0/6000/3000/644/322/60/0/642766a_upload-1-ksz31n0l0lkt-reportage-peche-micro-plastique-stjeandeluz-3.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Quatre semaines à bord d’un brise-glace en vidéo : comment d’étranges organismes marins participent à la régulation du climat dans l’océan Arctique",
+          "link": "https://www.lemonde.fr/videos/video/2026/08/23/quatre-semaines-a-bord-d-un-brise-glace-en-video-comment-d-etranges-organismes-marins-participent-a-la-regulation-du-climat-dans-l-ocean-arctique_6754167_1669088.html",
+          "published": "2026-08-23T14:00:08+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "« Terre de glace » (2/4). Les organismes marins, fascinants par leur aspect et leur diversité, sont cruciaux pour modéliser les conséquences du réchau",
+          "image": "https://img.lemde.fr/2026/07/29/60/0/1920/960/644/322/60/0/7145ee3_upload-1-1cdtq0abtmve-tile-7.jpg",
+          "other_news": false
+        },
+        {
           "title": "En Sierra Leone, les habitants des bidonvilles piégés par la montée de l’océan : « On est encerclés par la mer et par des torrents de pluie et d’eaux usées »",
           "link": "https://www.lemonde.fr/planete/article/2026/08/23/en-sierra-leone-les-habitants-des-bidonvilles-pieges-par-la-montee-de-l-ocean-on-est-encercles-par-la-mer-et-par-des-torrents-de-pluie-et-d-eaux-usees_6753758_3244.html",
-          "published": "2026-08-23T06:01:00+02:00",
+          "published": "2026-08-23T06:00:51+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -665,14 +698,14 @@
           "other_news": false
         },
         {
-          "title": "Pour la loi Climat et résilience, issue de propositions citoyennes, un cinquième et amer anniversaire : « Presque toutes les mesures ont été détricotées »",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/22/cinq-ans-apres-l-amer-anniversaire-de-la-loi-climat-et-resilience-inspiree-par-des-propositions-citoyennes-presque-toutes-les-mesures-ont-ete-detricotees_6752625_3244.html",
-          "published": "2026-08-22T06:00:02+02:00",
-          "source": "Le Monde Planète",
+          "title": "First bird flu death in an Australian mainland mammal is a grim milestone. We know how bad this can get",
+          "link": "https://theconversation.com/first-bird-flu-death-in-an-australian-mainland-mammal-is-a-grim-milestone-we-know-how-bad-this-can-get-290305",
+          "published": "2026-08-23T08:16:21+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Le texte promulgué en août 2021 ans se voulait la traduction dans la loi du travail de la convention citoyenne pour le climat visant à guider la Franc",
-          "image": "https://img.lemde.fr/2026/08/21/0/0/5950/2975/644/322/60/0/5cf7974_upload-1-yf2yf3bkdyn0-000-399n4j2.jpg",
+          "language": "en",
+          "summary": "The Beachport seal is one animal – for now. But this virus has already shown us what can happen next. Australia should use that warning while we still",
+          "image": null,
           "other_news": false
         },
         {
@@ -1394,17 +1427,6 @@
           "other_news": true
         },
         {
-          "title": "Des étés toujours plus chauds : visualisez l'explosion des températures depuis 40 ans",
-          "link": "https://reporterre.net/Des-etes-toujours-plus-chauds-visualisez-l-explosion-des-temperatures-depuis-40-ans",
-          "published": "2026-08-14T14:19:18+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Sous l'effet du changement climatique, l'été 2026 est parti sur des bases record depuis le début des relevés de température, en",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/collage_-_format_site_web_22_-53858.png?1786717160",
-          "other_news": true
-        },
-        {
           "title": "« Une alimentation bio et plus végétale sera bonne à la fois pour l’environnement et pour la santé »",
           "link": "https://www.lemonde.fr/planete/article/2026/08/23/une-alimentation-bio-et-plus-vegetale-sera-bonne-a-la-fois-pour-l-environnement-et-pour-la-sante_6753751_3244.html",
           "published": "2026-08-23T06:00:31+02:00",
@@ -1462,23 +1484,12 @@
         {
           "title": "Un capitalisme sobre est-il possible ?",
           "link": "https://www.lemonde.fr/podcasts/article/2026/08/22/un-capitalisme-sobre-est-il-possible_6752761_5463015.html",
-          "published": "2026-08-22T07:00:10+02:00",
+          "published": "2026-08-22T07:00:09+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
           "summary": "« Festival international de journalisme » (6/6). Avec le changement climatique et l’accentuation des activités humaines, comme l’IA, les tensions s’ac",
           "image": "https://img.lemde.fr/2026/07/23/250/0/3000/1500/644/322/60/0/882dc7d_upload-1-vjtrp158gim1-festival.jpg",
-          "other_news": true
-        },
-        {
-          "title": "En Provence, les vagues de chaleur ont « mis sous contrainte » le réseau électrique",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/21/en-provence-les-vagues-de-chaleur-ont-mis-sous-contrainte-le-reseau-electrique_6752271_3244.html",
-          "published": "2026-08-21T17:59:56+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Entre le 13 et le 19 août, plusieurs milliers de clients ont subi des coupures à répétition dans les Bouches-du-Rhône et le Vaucluse.",
-          "image": "https://img.lemde.fr/2023/04/17/172/0/3000/1500/644/322/60/0/7f07c66_1681717634760-energie-05.jpg",
           "other_news": true
         },
         {
@@ -1504,35 +1515,13 @@
           "other_news": true
         },
         {
-          "title": "We’re building a New York-sized city every month. That’s worrying for our climate",
-          "link": "https://theconversation.com/were-building-a-new-york-sized-city-every-month-thats-worrying-for-our-climate-289702",
-          "published": "2026-08-21T04:45:52+00:00",
+          "title": "Air traffic control is becoming more automated. Is regulation keeping up?",
+          "link": "https://theconversation.com/air-traffic-control-is-becoming-more-automated-is-regulation-keeping-up-288444",
+          "published": "2026-08-23T06:05:43+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "A new study reveals what unsustainable construction practices are costing our climate – and what must change.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Australia’s EV sales are skyrocketing. Our charging infrastructure may soon struggle to keep up",
-          "link": "https://theconversation.com/australias-ev-sales-are-skyrocketing-our-charging-infrastructure-may-soon-struggle-to-keep-up-289403",
-          "published": "2026-08-20T20:08:00+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Tighter regulation and careful planning will ensure our public chargers actually work.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "China is launching a Moon mission to find water ice. It’s unlike anything NASA has done",
-          "link": "https://theconversation.com/china-is-launching-a-moon-mission-to-find-water-ice-its-unlike-anything-nasa-has-done-289710",
-          "published": "2026-08-20T20:07:35+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "We’ve known for a while now that the Moon has water. Accessing it will make it easier not just to visit, but to stay.",
+          "summary": "Automation is expected to make air traffic controllers’ jobs a bit easier. But instead it could add more work and lead to more mistakes being made.",
           "image": null,
           "other_news": true
         },
@@ -1567,17 +1556,6 @@
           "language": "en",
           "summary": "JAKARTA — It had been 648 days since Nur Hidayati, an Indonesian environmental activist fondly known as Yaya or Mbak Yaya, died of cancer. Rukka Sombo",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/19101300/IMG20260814192437-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Why carbon markets alone won’t save Southeast Asia’s concessions forests",
-          "link": "https://news.mongabay.com/short-article/2026/08/why-carbon-markets-alone-wont-save-southeast-asias-concessions-forests/",
-          "published": "2026-08-19T05:25:05+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "New research suggests a “massive and untapped” opportunity for conservation within commercial concessions in Southeast Asia, reports Mongabay’s Caroly",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/19052242/Oil-palm-and-rubber-plantations-dominate-landscapes-across-many-parts-of-Southeast-Asia-as-photographed-here-in-Thailand.-Image-by-Carolyn-Cowan-Mongabay-scaled-1-768x512.jpg",
           "other_news": true
         }
       ]

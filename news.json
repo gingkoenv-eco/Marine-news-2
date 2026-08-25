@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-08-25T04:30:59.454190+00:00",
+  "generated_at": "2026-08-25T05:35:51.319630+00:00",
   "categories": {
     "Politics & Policy": {
-      "Marine Biodiversity & Conservation": [
-        {
-          "title": "New species of seahorse had eluded scientists for over a century",
-          "link": "https://oceanographicmagazine.com/news/new-species-of-seahorse-had-eluded-scientists-for-over-a-century/",
-          "published": "2026-08-17T17:14:25+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The species was found by an international team of researchers examining heaps of bycatch at Tuticorin harbour in southern India. Scientists had encoun",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Sustainable Fisheries": [
         {
           "title": "Antarctic krill fishing is now concentrated in the exact pattern conservation rules were designed to prevent",
@@ -171,50 +158,6 @@
           "other_news": false
         },
         {
-          "title": "Scientists crack shark age using DNA for first time",
-          "link": "https://oceanographicmagazine.com/news/scientists-crack-shark-age-using-dna-for-first-time-using-dna-for-first-time/",
-          "published": "2026-08-24T11:13:36+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "UGA researchers have used epigenetic clocks to estimate shark age from DNA for the first time, accurately ageing zebra sharks without harm - a breakth",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Three quarters of Indo-Pacific coral reefs could drown as sea levels rise",
-          "link": "https://oceanographicmagazine.com/news/three-quarters-of-indo-pacific-coral-reefs-could-drown-as-sea-levels-rise/",
-          "published": "2026-08-19T20:28:31+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Rising seas could outpace most Indo-Pacific coral reefs within 35 years, a new study warns, threatening coastal protection for millions\nThe post Three",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Icelandic whaling company announces intent to create iron supplements from meat",
-          "link": "https://oceanographicmagazine.com/news/icelandic-whaling-company-announces-intent-to-create-iron-supplements-from-meat/",
-          "published": "2026-08-19T20:15:27+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Iron is one of the most abundant elements on Earth, but as Japanese demand for fin whale meat falters Loftsson is eyeing a new market\nThe post Iceland",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "AI exposes scale of bomb fishing devastating Coral Triangle reefs",
-          "link": "https://oceanographicmagazine.com/news/ai-exposes-scale-of-bomb-fishing-devastating-coral-triangle-reefs/",
-          "published": "2026-08-18T16:51:10+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The study finds the illegal fishing practice occurs on Indonesian reefs almost hourly, causing 160,000-square-metres of damage\nThe post AI exposes sca",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "In Raja Ampat, children learn that their knowledge can help protect their islands",
           "link": "https://news.mongabay.com/2026/08/in-raja-ampat-children-learn-that-their-knowledge-can-help-protect-their-islands/",
           "published": "2026-08-24T23:31:29+00:00",
@@ -284,17 +227,6 @@
           "language": "en",
           "summary": "Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023The world’s seas were hotter last m",
           "image": "https://i.guim.co.uk/img/media/87c236446ba2900c4c834b9136187c04abcb7a9a/491_0_2916_2334/master/2916.jpg?width=140&quality=85&auto=format&fit=max&s=c0e7a10cf898639ddd8142642505e594",
-          "other_news": false
-        },
-        {
-          "title": "Scotland’s seabird population halved since 1980s, new figures reveal",
-          "link": "https://oceanographicmagazine.com/news/scotlands-seabird-population-halved-since-1980s-new-figures-reveal/",
-          "published": "2026-08-14T12:49:26+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Arctic Skuas, little terns and common terns were hit the hardest, while black-headed gulls and gannets had stronger-than-average years\nThe post Scotla",
-          "image": null,
           "other_news": false
         },
         {
@@ -608,28 +540,6 @@
           "other_news": false
         },
         {
-          "title": "Daily global sea surface temperature hits record new high",
-          "link": "https://oceanographicmagazine.com/news/daily-global-sea-surface-temperature-hits-record-new-high/",
-          "published": "2026-08-24T14:41:16+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The global ocean has reached its highest ever recorded surface temperature - broken in August, months before the seasonal peak - as El Niño intensifie",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Snooping robot reveals how dolphins use sound to hunt and socialise",
-          "link": "https://oceanographicmagazine.com/news/snooping-robot-reveals-how-dolphins-use-sound-to-hunt-and-socialise/",
-          "published": "2026-08-18T16:57:55+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "An underwater robot secretly listened to dolphins off Florida's coast for two months, revealing they switch their sounds between socialising and hunti",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "L’océan a atteint un record de température moyenne journalière à 21,1 °C samedi, selon Copernicus",
           "link": "https://www.lemonde.fr/planete/article/2026/08/24/l-ocean-a-atteint-un-record-de-temperature-moyenne-journaliere-a-21-1-c-samedi-selon-copernicus_6755509_3244.html",
           "published": "2026-08-24T16:54:32+02:00",
@@ -660,17 +570,6 @@
           "language": "fr",
           "summary": "« Terre de glace » (2/4). Les organismes marins, fascinants par leur aspect et leur diversité, sont cruciaux pour modéliser les conséquences du réchau",
           "image": "https://img.lemde.fr/2026/07/29/60/0/1920/960/644/322/60/0/7145ee3_upload-1-1cdtq0abtmve-tile-7.jpg",
-          "other_news": false
-        },
-        {
-          "title": "En Sierra Leone, les habitants des bidonvilles piégés par la montée de l’océan : « On est encerclés par la mer et par des torrents de pluie et d’eaux usées »",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/23/en-sierra-leone-les-habitants-des-bidonvilles-pieges-par-la-montee-de-l-ocean-on-est-encercles-par-la-mer-et-par-des-torrents-de-pluie-et-d-eaux-usees_6753758_3244.html",
-          "published": "2026-08-23T06:00:51+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "A Freetown, les précipitations et les marées transforment les quartiers proches de l’océan en vastes zones inondables. Faute d’équipements, des dizain",
-          "image": "https://img.lemde.fr/2026/08/05/907/0/6784/3392/644/322/60/0/9b2cc9a_upload-1-g6ml8cwlpodc-14.jpg",
           "other_news": false
         },
         {

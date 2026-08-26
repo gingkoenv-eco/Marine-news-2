@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T04:31:42.115600+00:00",
+  "generated_at": "2026-08-26T05:38:19.727633+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -390,7 +390,7 @@
         {
           "title": "Does 'rewilded' land need better wildfire prevention measures?",
           "link": "https://www.bbc.co.uk/news/articles/cvgye1999n8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-25T22:07:29+00:00",
+          "published": "2026-08-26T05:25:20+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -605,17 +605,6 @@
           "language": "fr",
           "summary": "À Port Nolloth, en Afrique du Sud, les pêcheurs autochtones avaient obtenu en 2012 une politique de pêche pionnière. Quatorze an",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/dscf9992-c4f0d.jpg?1787125936",
-          "other_news": false
-        },
-        {
-          "title": "Depuis Gaza, cet écologue marin fait avancer la science",
-          "link": "https://reporterre.net/Depuis-Gaza-cet-ecologue-marin-fait-avancer-la-science",
-          "published": "2026-08-18T14:17:11+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Voilà trois ans que Mohammed Abu Daya n'a pas pu prendre la mer pour observer les diables de mer, ces raies géantes qui hivernen",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/photo_3_-9da99.jpg?1787062632",
           "other_news": false
         },
         {
@@ -842,25 +831,25 @@
       ],
       "Other Marine News": [
         {
-          "title": "Firms scramble for battery power in Spain and Portugal",
-          "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-25T23:09:31+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee02/live/d89808b0-a056-11f1-b109-879e35c24276.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Toxic waste sites exposed in Michael Sheen documentary 'tip of the iceberg'",
+          "title": "Toxic waste sites exposed in Michael Sheen documentary are 'tip of the iceberg'",
           "link": "https://www.bbc.co.uk/news/articles/c07r2l7rjpko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-25T21:53:24+00:00",
+          "published": "2026-08-26T05:14:36+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
           "summary": "One scientist says there are thousands of sites across the UK that need investigating.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6856/live/1ca732b0-a0cf-11f1-897d-3f2b3b8ed886.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Welsh county becomes global hotspot for carbon emissions after wildfires",
+          "link": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-22T11:31:09+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93b6/live/b1859b10-9e0e-11f1-95e0-53a570c83624.jpg",
           "other_news": true
         },
         {
@@ -872,17 +861,6 @@
           "language": "en",
           "summary": "A wildlife group says \"everyone can get involved with protecting nature\" by taking part in research.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a61/live/c4ce56e0-a079-11f1-bfeb-dfb02ea642ef.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Council set to axe climate emergency declaration",
-          "link": "https://www.bbc.co.uk/news/articles/c1d1v63ngz1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-22T10:18:20+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Barnsley Council says a review is under way to asses climate and net zero-related activity.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf73/live/ee9a19c0-9d7f-11f1-8bc3-150f4c5f088b.jpg",
           "other_news": true
         },
         {
@@ -1499,6 +1477,17 @@
           "language": "fr",
           "summary": "Judith Rainhorn, spécialiste de l’histoire environnementale, déplore, dans une tribune au « Monde », l’incapacité des responsables politiques à faire",
           "image": "https://img.lemde.fr/2026/08/02/476/0/9322/4661/644/322/60/0/b17c18e_upload-1-t9uhoemceyou-022-hlequeux-feux-gironde-dsc9975.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Après un été caniculaire, ces Français s’engagent pour l’écologie : «J’ai compris que l’action battait l’anxiété»",
+          "link": "https://vert.eco/serie/apres-un-ete-caniculaire-ces-francais-sengagent-pour-lecologie-jai-compris-que-laction-battait-lanxiete/",
+          "published": "2026-08-26T04:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Solidarité entre voisin·es, revirement politique, inscription dans une association ou un groupe militant... Après avoir vécu le réchauffement climatiq",
+          "image": null,
           "other_news": true
         },
         {

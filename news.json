@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T14:53:06.306531+00:00",
+  "generated_at": "2026-08-27T16:18:06.993841+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -224,25 +224,25 @@
           "other_news": false
         },
         {
-          "title": "Scientists crack shark age using DNA for first time",
-          "link": "https://oceanographicmagazine.com/news/scientists-crack-shark-age-using-dna-for-first-time-using-dna-for-first-time/",
-          "published": "2026-08-24T11:13:36+00:00",
+          "title": "2026 on track to be one of deadliest years for West Coast whales",
+          "link": "https://oceanographicmagazine.com/news/2026-on-track-to-be-one-of-deadliest-years-for-west-coast-whales/",
+          "published": "2026-08-27T15:06:20+00:00",
           "source": "Oceanographic",
           "type": "news",
           "language": "en",
-          "summary": "UGA researchers have used epigenetic clocks to estimate shark age from DNA for the first time, accurately ageing zebra sharks without harm - a breakth",
+          "summary": "At least 51 whales have died along the West Coast in 2026, with ship strikes and Arctic-driven starvation pushing the year toward becoming the second-",
           "image": null,
           "other_news": false
         },
         {
-          "title": "Three quarters of Indo-Pacific coral reefs could drown as sea levels rise",
-          "link": "https://oceanographicmagazine.com/news/three-quarters-of-indo-pacific-coral-reefs-could-drown-as-sea-levels-rise/",
-          "published": "2026-08-19T20:28:31+00:00",
-          "source": "Oceanographic",
+          "title": "US environmental groups plan to sue to relist gray whales under Endangered Species Act",
+          "link": "https://news.mongabay.com/short-article/2026/08/us-environmental-groups-plan-to-sue-to-relist-gray-whales-under-endangered-species-act/",
+          "published": "2026-08-27T15:51:59+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Rising seas could outpace most Indo-Pacific coral reefs within 35 years, a new study warns, threatening coastal protection for millions\nThe post Three",
-          "image": null,
+          "summary": "A group of environmental organizations announced their intent to sue the United States National Marine Fisheries Services (NMFS) for failing to consid",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/27154400/original-1-768x512.jpg",
           "other_news": false
         },
         {
@@ -348,6 +348,17 @@
           "language": "en",
           "summary": "The abrupt disappearance of a lake is one clear sign that the ice below is melting, and a clue to wider permafrost changes.",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "TotalEnergies réduit son exposition au gaz russe mais ne se désengage pas",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/27/totalenergies-reduit-son-exposition-au-gaz-russe-mais-ne-se-desengage-pas_6758481_3234.html",
+          "published": "2026-08-27T17:00:04+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La major française a cédé sa participation dans le projet Arctic LNG 2, mais elle reste actionnaire du groupe russe Novatek et de l’usine de liquéfact",
+          "image": "https://img.lemde.fr/2026/08/27/654/0/5568/2784/644/322/60/0/ce8b536_upload-1-iz40aobmtdce-000-9tr79c.jpg",
           "other_news": false
         }
       ],
@@ -701,6 +712,17 @@
           "type": "news",
           "language": "en",
           "summary": "The Japanese artist, acclaimed for infinity mirror rooms, sprawling seas of polka dots, and dancing pumpkins, has died at 97.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Do Sea Turtles Get Lost?",
+          "link": "https://oceanconservancy.org/blog/2026/08/27/do-sea-turtles-get-lost/",
+          "published": "2026-08-27T15:58:38+00:00",
+          "source": "Ocean Conservancy",
+          "type": "news",
+          "language": "en",
+          "summary": "Did you know some female sea turtles can travel hundreds—or even thousands—of miles through open ocean before returning to nest on or near the very be",
           "image": null,
           "other_news": false
         },
@@ -1478,7 +1500,7 @@
           "other_news": true
         },
         {
-          "title": "L'Arabie saoudite va créer trois parcs d'attraction près de Paris, Emmanuel Macron ravi",
+          "title": "L'Arabie saoudite va créer trois parcs d'attractions près de Paris, Emmanuel Macron ravi",
           "link": "https://reporterre.net/L-Arabie-saoudite-va-creer-trois-parcs-d-attraction-pres-de-Paris-Emmanuel-Macron-ravi",
           "published": "2026-08-25T12:52:48+00:00",
           "source": "Reporterre",
@@ -1610,17 +1632,6 @@
           "other_news": true
         },
         {
-          "title": "Working with nature can help NZ adapt to climate change. Where is the plan to do it?",
-          "link": "https://theconversation.com/working-with-nature-can-help-nz-adapt-to-climate-change-where-is-the-plan-to-do-it-289206",
-          "published": "2026-08-26T18:55:57+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "For nature-based climate adaptation, better data is only one part of the full system required to determine where to act, who decides and how action wi",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Cambodia defies UN call to free ‘arbitrarily jailed’ environmental activists",
           "link": "https://news.mongabay.com/2026/08/cambodia-defies-un-call-to-free-arbitrarily-jailed-environmental-activists/",
           "published": "2026-08-27T10:30:23+00:00",
@@ -1717,28 +1728,6 @@
           "language": "en",
           "summary": "A new 10-year plan for elephant conservation released by the Indonesian government places the country’s wild elephant population at an estimated 1,325",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/25160441/AP958512122711-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Inspiring young herpetologists in Sri Lanka: Interview with Anslem de Silva",
-          "link": "https://news.mongabay.com/2026/08/inspiring-young-herpetologists-in-sri-lanka-interview-with-anslem-de-silva/",
-          "published": "2026-08-25T14:53:33+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "COLOMBO — Sri Lankan-born conservation biologist and National Geographic explorer Ruchira Somaweera is internationally recognized for his award-winnin",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/25122934/3.-in-the-field-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Cambodia targets online wildlife trade on social media, but experts say it’s not enough",
-          "link": "https://news.mongabay.com/2026/08/cambodia-targets-online-wildlife-trade-on-social-media-but-experts-say-its-not-enough/",
-          "published": "2026-08-25T12:42:37+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Cambodia’s environment ministry has urged the public and social media content creators to stop making or sharing content that encourages the commerce,",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/21160626/2-elephant-tusk-offered-for-sale-768x512.jpg",
           "other_news": true
         }
       ]

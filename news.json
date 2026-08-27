@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T09:41:42.854986+00:00",
+  "generated_at": "2026-08-27T14:53:06.306531+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -242,17 +242,6 @@
           "type": "news",
           "language": "en",
           "summary": "Rising seas could outpace most Indo-Pacific coral reefs within 35 years, a new study warns, threatening coastal protection for millions\nThe post Three",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Icelandic whaling company announces intent to create iron supplements from meat",
-          "link": "https://oceanographicmagazine.com/news/icelandic-whaling-company-announces-intent-to-create-iron-supplements-from-meat/",
-          "published": "2026-08-19T20:15:27+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Iron is one of the most abundant elements on Earth, but as Japanese demand for fin whale meat falters Loftsson is eyeing a new market\nThe post Iceland",
           "image": null,
           "other_news": false
         },
@@ -562,17 +551,6 @@
           "other_news": false
         },
         {
-          "title": "« Poisson mordeur », crabe prédateur : comment le réchauffement bouleverse la Méditerranée",
-          "link": "https://reporterre.net/Le-rechauffement-bouleverse-la-repartition-des-especes-en-Mediterranee",
-          "published": "2026-08-27T06:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le réchauffement de la Méditerranée modifie l'aire de répartition de nombreuses espèces. Une « révolution » des écosystèmes dont",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/poisson-02809.jpg?1787810401",
-          "other_news": false
-        },
-        {
           "title": "Les dauphins du Marineland n'iront pas à Beauval qui renonce à son projet de delphinarium",
           "link": "https://reporterre.net/Le-zoo-de-Beauval-abandonne-son-projet-de-Delphinarium",
           "published": "2026-08-25T15:11:24+00:00",
@@ -650,6 +628,17 @@
           "other_news": false
         },
         {
+          "title": "Volcanoes and climate change behind Indian-Pacific breakdown",
+          "link": "https://oceanographicmagazine.com/news/volcanoes-and-climate-change-behind-indian-pacific-breakdown/",
+          "published": "2026-08-27T14:20:10+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new WHOI study shows human-caused emissions are driving an unprecedented breakdown in the Indian and Pacific Oceans' climate coupling, using four ce",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Fish catches in Indonesia’s Maluku decline as El Niño develops",
           "link": "https://oceanographicmagazine.com/news/fish-catches-in-indonesia-s-maluku-decline-as-el-nino-develops/",
           "published": "2026-08-26T17:27:07+00:00",
@@ -691,17 +680,6 @@
           "language": "fr",
           "summary": "Les projets d’oléoducs se précisent pour permettre aux puissances pétrolières de la région d’écouler leur production après six mois de vives tensions",
           "image": "https://img.lemde.fr/2026/08/19/0/0/3402/1701/644/322/60/0/653dc87_upload-1-vl9ppyvcy79s-gettyimages-2271540336.jpg",
-          "other_news": false
-        },
-        {
-          "title": "L’Australie vaccine 5 000 manchots pygmées pour les protéger d’un variant hautement pathogène de la grippe aviaire",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/26/l-australie-vaccine-5-000-manchots-pygmees-pour-les-proteger-d-un-variant-hautement-pathogene-de-la-grippe-aviaire_6757370_3244.html",
-          "published": "2026-08-26T14:00:01+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le pays mène une course contre la montre pour protéger sa faune exceptionnelle de l’influenza aviaire, qui menace de nombreuses espèces endémiques.",
-          "image": "https://img.lemde.fr/2026/08/20/467/0/5600/2800/644/322/60/0/775fbaf_ftp-1-g619eqs1jpy3-5877476-01-06.jpg",
           "other_news": false
         },
         {
@@ -889,17 +867,6 @@
           "summary": "Scientists are discovering previously unknown species in unexpected places, according to a new study.",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "Africa’s herbarium collections are a scientific treasure. They need to be digitised before more biodiversity is lost",
-          "link": "https://theconversation.com/africas-herbarium-collections-are-a-scientific-treasure-they-need-to-be-digitised-before-more-biodiversity-is-lost-288632",
-          "published": "2026-08-26T14:08:50+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Herbarium cabinets lock away valuable plant data that needs to be mobilised through digitisation.",
-          "image": null,
-          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -947,6 +914,17 @@
           "language": "en",
           "summary": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93b6/live/b1859b10-9e0e-11f1-95e0-53a570c83624.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Pourquoi il faut en finir avec le mythe de la forêt salvatrice",
+          "link": "https://theconversation.com/pourquoi-il-faut-en-finir-avec-le-mythe-de-la-foret-salvatrice-289909",
+          "published": "2026-08-27T09:59:42+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les forêts ne sont pas des boucliers miraculeux contre le changement climatique&nbsp;: leur capacité à stocker du carbone dépend de leur santé, de leu",
+          "image": null,
           "other_news": true
         },
         {
@@ -1045,6 +1023,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Le climat, les activités humaines et la végétation sont les trois grands facteurs qui contrôlent les feux et en modifient parfois le comportement, voi",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Climate disasters are ravaging government budgets – aid works best when paid upfront",
+          "link": "https://theconversation.com/climate-disasters-are-ravaging-government-budgets-aid-works-best-when-paid-upfront-289831",
+          "published": "2026-08-27T13:52:51+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Most climate aid arrives after the disaster. A handful of countries are proving it doesn’t have to.",
           "image": null,
           "other_news": true
         },
@@ -1148,13 +1137,13 @@
           "other_news": true
         },
         {
-          "title": "How healthier farm animals can cut greenhouse gas emissions",
-          "link": "https://theconversation.com/how-healthier-farm-animals-can-cut-greenhouse-gas-emissions-288751",
-          "published": "2026-08-14T11:49:20+00:00",
-          "source": "The Conversation UK",
+          "title": "Extreme heat is taking a toll on firefighters as wildfires stretch crews to the limit",
+          "link": "https://theconversation.com/extreme-heat-is-taking-a-toll-on-firefighters-as-wildfires-stretch-crews-to-the-limit-290571",
+          "published": "2026-08-27T12:04:04+00:00",
+          "source": "The Conversation US",
           "type": "news",
           "language": "en",
-          "summary": "Tackling livestock emissions involves more than just eating less meat.",
+          "summary": "Wildland firefighters face heat from the environment, the fire and their own bodies as they work long, exhausting hours. The head of Purdue’s fire lab",
           "image": null,
           "other_news": true
         },
@@ -1188,17 +1177,6 @@
           "type": "news",
           "language": "en",
           "summary": "Understanding what happened in these forests 56 million years ago may help humanity recognize similar thresholds before we cross them again, the lead",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Cyclospora spreads through human waste – so how did it get on food?",
-          "link": "https://theconversation.com/cyclospora-spreads-through-human-waste-so-how-did-it-get-on-food-289020",
-          "published": "2026-08-10T12:35:17+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "US sewage treatment plants likely don’t get rid of all the disease-causing protozoa, and monitoring discharged wastewater for it is difficult.",
           "image": null,
           "other_news": true
         },
@@ -1445,6 +1423,17 @@
           "other_news": true
         },
         {
+          "title": "Réchauffement de la Méditerranée : « Les écosystèmes marins se dirigent vers une révolution »",
+          "link": "https://reporterre.net/Le-rechauffement-bouleverse-la-repartition-des-especes-en-Mediterranee",
+          "published": "2026-08-27T06:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le réchauffement de la Méditerranée modifie l'aire de répartition de nombreuses espèces. Une « révolution » des écosystèmes dont",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/poisson-02809.jpg?1787810401",
+          "other_news": true
+        },
+        {
           "title": "L'éolien et le solaire au secours du système électrique",
           "link": "https://reporterre.net/Secheresse-et-chaleur-l-eolien-et-le-solaire-au-secours-du-systeme-electrique-Dans-cet",
           "published": "2026-08-26T15:51:30+00:00",
@@ -1544,17 +1533,6 @@
           "other_news": true
         },
         {
-          "title": "A cause des températures caniculaires, des œufs de crocodile ont éclos naturellement dans la Drôme",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/26/a-cause-des-temperatures-caniculaires-des-ufs-de-crocodile-ont-eclos-naturellement-dans-la-drome_6757378_3244.html",
-          "published": "2026-08-26T15:07:01+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Rendues possibles par les fortes chaleurs de l’été, ces naissances « inédites » sont avant tout « un marqueur du changement climatique », souligne le",
-          "image": "https://img.lemde.fr/2026/08/26/500/0/1080/540/644/322/60/0/a504b26_upload-1-canb7d1bfufv-on-ne-s-attendait-vraiment-pas-a-c-a-ce-week-end-une-surprise-nous-attendait-sur-notre-zone-ex.jpg",
-          "other_news": true
-        },
-        {
           "title": "Après un été brûlant, la rentrée s’annonce chaude : tour d’horizon des principales manifestations pour le climat et l’écologie",
           "link": "https://vert.eco/rapports-de-force/apres-un-ete-brulant-la-rentree-sannonce-chaude-tour-dhorizon-des-principales-manifestations-pour-le-climat-et-lecologie/",
           "published": "2026-08-27T04:00:00+00:00",
@@ -1584,17 +1562,6 @@
           "type": "news",
           "language": "fr",
           "summary": "En 2025, la mythique course de l’Ultra-trail du Mont-Blanc (UTMB) annonçait vouloir réduire de 20% ses émissions de gaz à effet de serre d’ici 2030. S",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "«Chaque année, des plus gros morceaux de roche tombent de la montagne» : le massif du Mont-Blanc éprouvé par le réchauffement climatique",
-          "link": "https://vert.eco/serie/chaque-annee-des-plus-gros-morceaux-de-roche-tombent-de-la-montagne-le-massif-du-mont-blanc-eprouve-par-le-rechauffement-climatique/",
-          "published": "2026-08-21T04:00:00+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le Mont-Blanc n’échappe pas aux conséquences du changement climatique : les éboulements rocheux s’y multiplient avec la hausse des températures. Le 11",
           "image": null,
           "other_news": true
         },
@@ -1651,6 +1618,17 @@
           "language": "en",
           "summary": "For nature-based climate adaptation, better data is only one part of the full system required to determine where to act, who decides and how action wi",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Cambodia defies UN call to free ‘arbitrarily jailed’ environmental activists",
+          "link": "https://news.mongabay.com/2026/08/cambodia-defies-un-call-to-free-arbitrarily-jailed-environmental-activists/",
+          "published": "2026-08-27T10:30:23+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "CHIANG MAI, Thailand — The Cambodian government has defended its continued imprisonment of five environmental activists, after the United Nations Work",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/07/02191929/Ly-Chandaravuth-addresses-Mother-Nature-Cambodia-supporters-before-the-court-issued-a-verdict-on-July-2-2024-768x512.jpeg",
           "other_news": true
         },
         {

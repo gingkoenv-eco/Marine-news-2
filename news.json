@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T15:48:33.881428+00:00",
+  "generated_at": "2026-08-28T17:13:27.713941+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -382,17 +382,6 @@
           "summary": "The abrupt disappearance of a lake is one clear sign that the ice below is melting, and a clue to wider permafrost changes.",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "TotalEnergies réduit son exposition au gaz russe mais ne se désengage pas",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/27/totalenergies-reduit-son-exposition-au-gaz-russe-mais-ne-se-desengage-pas_6758481_3234.html",
-          "published": "2026-08-27T17:00:04+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La major française a cédé sa participation dans le projet Arctic LNG 2 mais elle reste actionnaire du groupe russe Novatek et de l’usine de liquéfacti",
-          "image": "https://img.lemde.fr/2026/08/27/654/0/5568/2784/644/322/60/0/ce8b536_upload-1-iz40aobmtdce-000-9tr79c.jpg",
-          "other_news": false
         }
       ],
       "Other Marine News": [
@@ -650,6 +639,17 @@
           "other_news": false
         },
         {
+          "title": "Antarctica’s smallest marine life at risk as melting ice dilutes waters",
+          "link": "https://oceanographicmagazine.com/news/antarcticas-smallest-marine-life-at-risk-as-melting-ice-dilutes-waters/",
+          "published": "2026-08-28T15:49:45+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new study warns that \"freshening\" - falling salt levels driven by melting Antarctic ice - is damaging marine invertebrates' gills and salt regulatio",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Volcanoes and climate change behind Indian-Pacific breakdown",
           "link": "https://oceanographicmagazine.com/news/volcanoes-and-climate-change-behind-indian-pacific-breakdown/",
           "published": "2026-08-27T14:20:10+00:00",
@@ -679,17 +679,6 @@
           "type": "news",
           "language": "en",
           "summary": "The company Namibian Marine Phosphate has secured initial environmental clearance for the offshore Sandpiper Project – it would be the world’s first c",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Daily global sea surface temperature hits record new high",
-          "link": "https://oceanographicmagazine.com/news/daily-global-sea-surface-temperature-hits-record-new-high/",
-          "published": "2026-08-24T14:41:16+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The global ocean has reached its highest ever recorded surface temperature - broken in August, months before the seasonal peak - as El Niño intensifie",
           "image": null,
           "other_news": false
         },
@@ -1191,17 +1180,6 @@
           "other_news": true
         },
         {
-          "title": "Can Britain’s railways cope with ever-more extreme heat? An expert Q&A",
-          "link": "https://theconversation.com/can-britains-railways-cope-with-ever-more-extreme-heat-an-expert-qanda-289905",
-          "published": "2026-08-18T15:26:19+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Heatwaves can cause tracks to buckle, forcing speed restrictions or closures. An engineering expert explains how railways can adapt to a hotter climat",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Extreme heat is taking a toll on firefighters as wildfires stretch crews to the limit",
           "link": "https://theconversation.com/extreme-heat-is-taking-a-toll-on-firefighters-as-wildfires-stretch-crews-to-the-limit-290571",
           "published": "2026-08-27T12:04:04+00:00",
@@ -1308,6 +1286,17 @@
           "type": "news",
           "language": "en",
           "summary": "The general public often underestimate support for climate action, while overestimating the real-world actions taken by other people to address&#8230;",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Despite African walkout, fractious land COP ends without drought deal",
+          "link": "https://www.climatechangenews.com/2026/08/28/despite-african-walkout-fractious-land-cop-ends-without-drought-agreement/",
+          "published": "2026-08-28T16:32:26+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "A strong push for a drought protocol by African countries failed in contentious talks, with negotiations postponed for another two years\nThe post Desp",
           "image": null,
           "other_news": true
         },

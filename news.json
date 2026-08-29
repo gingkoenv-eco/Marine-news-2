@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T10:36:48.276877+00:00",
+  "generated_at": "2026-08-29T11:31:49.840004+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -846,6 +846,17 @@
       ],
       "Marine Biodiversity & Conservation": [
         {
+          "title": "Islanders asked to report sightings of rare eel",
+          "link": "https://www.bbc.co.uk/news/articles/cew91wykg2qo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-29T11:04:45+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Nature Commission asks people to record sightings of the critically endangered eels.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a496/live/abf8b1c0-a203-11f1-ac57-b5f31f9074ef.png",
+          "other_news": true
+        },
+        {
           "title": "Extreme drought is changing Britain’s wildlife – and some effects won’t be seen until next year",
           "link": "https://theconversation.com/extreme-drought-is-changing-britains-wildlife-and-some-effects-wont-be-seen-until-next-year-289419",
           "published": "2026-08-19T15:04:45+00:00",
@@ -909,7 +920,7 @@
         {
           "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
           "link": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-29T00:53:13+00:00",
+          "published": "2026-08-29T10:51:21+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -1591,11 +1602,11 @@
         {
           "title": "Du Royaume-Uni à la Hongrie, les conséquences politiques variables des canicules en Europe",
           "link": "https://www.lemonde.fr/planete/article/2026/08/29/du-royaume-uni-a-la-hongrie-les-consequences-politiques-variables-des-canicules-en-europe_6759853_3244.html",
-          "published": "2026-08-29T11:00:20+02:00",
+          "published": "2026-08-29T11:00:14+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Températures extrêmes, sécheresses et feux… Malgré les catastrophes de l’été, tous les courants politiques du continent ne sont pas convaincus de la n",
+          "summary": "Températures extrêmes, sécheresses et feux… Malgré les catastrophes de l’été 2026, tous les courants politiques du Vieux Continent ne sont pas convain",
           "image": "https://img.lemde.fr/2026/08/13/0/0/1888/944/644/322/60/0/a35ad38_ftp-1-keqofqz5muwf-2026-08-13t172022z-1072487778-rc2txma9li2e-rtrmadp-3-europe-weather-britain-thermal.JPG",
           "other_news": true
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:13:27.713941+00:00",
+  "generated_at": "2026-08-29T10:36:48.276877+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -277,17 +277,6 @@
           "summary": "A group of environmental organizations announced their intent to sue the United States National Marine Fisheries Services (NMFS) for failing to consid",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/27154400/original-1-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Scientists discover 149 new deep-sea species at remote Indian Ocean seamounts",
-          "link": "https://news.mongabay.com/2026/08/scientists-discover-149-new-deep-sea-species-at-remote-indian-ocean-seamounts/",
-          "published": "2026-08-26T11:53:09+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Indian Ocean accounts for about a fifth of global ocean area, with 90% of it reaching deeper than 1,000 meters (3,280 feet). Yet compared to the P",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/26081523/BANNER-IN2022-V08_170_Sponge-crab_Sphaerodromia-brizops_Museums-Victoria-Benjamin-Healley-768x512.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -384,6 +373,19 @@
           "other_news": false
         }
       ],
+      "Species Migration & Habitat Change": [
+        {
+          "title": "Le canal de Suez, un laissez-passer pour les espèces invasives en Méditerranée",
+          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/29/le-canal-de-suez-un-laissez-passer-pour-les-especes-invasives-en-mediterranee_6759537_3451060.html",
+          "published": "2026-08-29T06:00:29+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "« Suez, canal historique » (6/6). La création de l’axe maritime au XIXᵉ siècle a favorisé la migration d’espèces dites « lessepsiennes », d’après le n",
+          "image": "https://img.lemde.fr/2026/08/04/375/0/4500/2250/644/322/60/0/d5589f3_upload-1-iegrmaq12hmg-mh1-0114.jpg",
+          "other_news": false
+        }
+      ],
       "Other Marine News": [
         {
           "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile waters near the mainland, scientists say",
@@ -449,17 +451,6 @@
           "language": "en",
           "summary": "A couple sign up as lighthouse keepers on an isolated island off Tasmania. But Miranda is on the cusp of a transformation – and sex is everywhereTo de",
           "image": "https://i.guim.co.uk/img/media/dc7ef71cadb108a06a28376144401d10aa60070a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=cf7132cfaf4f7117ff44784be8052de3",
-          "other_news": false
-        },
-        {
-          "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
-          "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-19T15:01:57+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A SpaceX rocket that blasted off from Texas in July, and crashed into the Indian Ocean, made an unexpected appearance off Christmas Island.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32f8/live/0f3c86f0-9bef-11f1-a291-b542ee92de7c.jpg",
           "other_news": false
         },
         {
@@ -551,14 +542,14 @@
           "other_news": false
         },
         {
-          "title": "“Do we have the appetite?” – Shell’s fear of Niger Delta clean-up costs revealed",
-          "link": "https://www.climatechangenews.com/2026/07/29/do-we-have-the-appetite-shells-fear-of-niger-delta-clean-up-costs-revealed/",
-          "published": "2026-07-29T17:37:33+00:00",
-          "source": "Climate change news",
+          "title": "Manger de la terre, se frotter à des coraux... Comment les animaux se soignent",
+          "link": "https://reporterre.net/Manger-de-la-terre-se-frotter-a-des-coraux-Comment-les-animaux-se-soignent",
+          "published": "2026-08-29T05:20:00+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Before it passed on responsibility by selling off assets in Nigeria, internal documents show Shell's concerns about dealing with oil spills from its p",
-          "image": null,
+          "language": "fr",
+          "summary": "Des coraux pour la peau des dauphins, de la terre pour l'estomac des singes, de l'alcool pour les abeilles malades... Tour d'hor",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/13_animauxgeniaux_dauphinetgorgone_couleur_rvb-ad379.jpg?1787980801",
           "other_news": false
         },
         {
@@ -683,14 +674,25 @@
           "other_news": false
         },
         {
-          "title": "Qu’est-ce qu’une canicule marine ? Comprendre en trois minutes",
-          "link": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/08/28/qu-est-ce-qu-une-canicule-marine-comprendre-en-trois-minutes_6758844_6176282.html",
-          "published": "2026-08-28T06:00:05+02:00",
+          "title": "Les plages de Dakar, polluées et jonchées de plastique, victimes de la croissance de la ville",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/29/les-plages-de-dakar-polluees-et-jonchees-de-plastique-sont-victimes-de-la-croissance-de-la-ville_6759713_3212.html",
+          "published": "2026-08-29T09:00:06+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "La hausse exceptionnelle des températures estivales de 2026 s’est aussi fait ressentir dans les mers et les océans. Elle bouleverse les écosystèmes ma",
-          "image": "https://img.lemde.fr/2026/08/26/60/0/1920/960/644/322/60/0/051fba2_upload-1-6vb8xfn60xc7-00-tilehoriz-caniculesmer-00000.jpg",
+          "summary": "Alors que la période des chaleurs et des pluies court jusqu’à octobre, les plages de la capitale sénégalaise voient affluer familles et surfeurs mais",
+          "image": "https://img.lemde.fr/2026/07/02/264/0/3171/1585/644/322/60/0/89261fe_upload-1-7um9wuacwntu-000-962x9k3.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Les canicules et les incendies redessinent la carte des vacances d’été : « On a souffert de la chaleur, on ne voulait pas faire vivre ça aux enfants »",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/29/les-canicules-et-les-incendies-redessinent-la-carte-des-vacances-d-ete-on-a-souffert-de-la-chaleur-on-ne-voulait-pas-faire-vivre-ca-aux-enfants_6759536_3234.html",
+          "published": "2026-08-29T06:00:23+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Soumis aux crises climatiques et à la baisse du pouvoir d’achat, les Français n’ont pas renoncé à partir, mais ont changé leurs habitudes. Littoral de",
+          "image": "https://img.lemde.fr/2026/08/28/1032/0/6192/3096/644/322/60/0/d281989_upload-1-kfh4ktdu08im-maxnewsspecialtwo683713.jpg",
           "other_news": false
         },
         {
@@ -749,14 +751,14 @@
           "other_news": false
         },
         {
-          "title": "How Ocean Animals Beat the Heat—and the Cold",
-          "link": "https://oceanconservancy.org/blog/2026/07/29/beat-the-heat/",
-          "published": "2026-07-29T19:21:02+00:00",
-          "source": "Ocean Conservancy",
+          "title": "Global sea surface temperatures reach a record high, again",
+          "link": "https://news.mongabay.com/short-article/2026/08/global-sea-surface-temperatures-reach-a-record-high-again/",
+          "published": "2026-08-28T20:14:06+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "While our ocean may seem like one giant body of water, its temperatures fluctuate widely. Temperatures can range from below freezing in the deep water",
-          "image": null,
+          "summary": "Global sea surface temperatures have reached a record high, raising serious concerns for global Earth systems, according to new data released by the E",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/28200510/jan-15-2025-buffering.jpg",
           "other_news": false
         },
         {
@@ -855,17 +857,6 @@
           "other_news": true
         },
         {
-          "title": "Au Mexique, 135 animaux dont des lions, des tigres et des bisons découverts lors d’une perquisition chez des trafiquants de carburant",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/28/au-mexique-135-animaux-dont-des-lions-des-tigres-et-des-bisons-decouverts-lors-d-une-perquisition-chez-des-trafiquants-de-carburant_6758703_3244.html",
-          "published": "2026-08-28T02:55:21+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Parmi les animaux secourus lors de cette descente, 35 font partie d’espèces menacées d’extinction, tels des singes-araignées, des jaguars et un ara ve",
-          "image": "https://img.lemde.fr/2026/08/28/139/0/1186/593/644/322/60/0/5ffb118_upload-1-1xql0qcd2mh6-hqu-lifw4aaot6d.jpeg",
-          "other_news": true
-        },
-        {
           "title": "The conservation population of Australia’s endangered eastern quoll welcomes joeys",
           "link": "https://news.mongabay.com/2026/08/the-conservation-population-of-australias-endangered-eastern-quoll-welcomes-joeys/",
           "published": "2026-08-28T12:35:55+00:00",
@@ -916,6 +907,17 @@
       ],
       "Other Marine News": [
         {
+          "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
+          "link": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-29T00:53:13+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4196/live/2c190870-a2e3-11f1-a291-b542ee92de7c.jpg",
+          "other_news": true
+        },
+        {
           "title": "Clean-up of illegal waste supersite costs taxpayers £6m",
           "link": "https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-27T21:00:48+00:00",
@@ -935,17 +937,6 @@
           "language": "en",
           "summary": "Dozens of people contacted BBC Wales following coverage of Sheen's investigation into chemical giant Monsanto.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fee/live/da0b2dc0-a174-11f1-87d4-e91caee13898.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Food waste processing is 'worth the extra effort'",
-          "link": "https://www.bbc.co.uk/news/articles/c3dyyy5y0emo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-27T05:18:12+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Cornwall Council says about 36,000 tonnes of food waste has been recycled over two years.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f95/live/c88f2e30-7a13-11f1-9a04-4dc3c0eb4aeb.jpg",
           "other_news": true
         },
         {
@@ -1598,6 +1589,28 @@
           "other_news": true
         },
         {
+          "title": "Du Royaume-Uni à la Hongrie, les conséquences politiques variables des canicules en Europe",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/29/du-royaume-uni-a-la-hongrie-les-consequences-politiques-variables-des-canicules-en-europe_6759853_3244.html",
+          "published": "2026-08-29T11:00:20+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Températures extrêmes, sécheresses et feux… Malgré les catastrophes de l’été, tous les courants politiques du continent ne sont pas convaincus de la n",
+          "image": "https://img.lemde.fr/2026/08/13/0/0/1888/944/644/322/60/0/a35ad38_ftp-1-keqofqz5muwf-2026-08-13t172022z-1072487778-rc2txma9li2e-rtrmadp-3-europe-weather-britain-thermal.JPG",
+          "other_news": true
+        },
+        {
+          "title": "Les catastrophes climatiques de l’été 2026 feront-elles évoluer les comportements et les politiques en France ?",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/29/les-catastrophes-climatiques-de-l-ete-2026-feront-elles-evoluer-les-comportements-et-les-politiques-en-france_6759545_3244.html",
+          "published": "2026-08-29T06:00:56+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les vagues de chaleur, les incendies et la sécheresse, exacerbés par le réchauffement climatique, n’entraînent pas mécaniquement d’évolution des menta",
+          "image": "https://img.lemde.fr/2026/08/13/250/0/3000/1500/644/322/60/0/8baf219_upload-1-qxcwaq6j5gra-infirmier-canicule-asurp-108165.jpg",
+          "other_news": true
+        },
+        {
           "title": "Près de Lyon, ils apprennent à construire leur maison en paille et en bois : «C’est un choix politique, qui allie écologie et économie»",
           "link": "https://vert.eco/energie/pres-de-lyon-ils-apprennent-a-construire-leur-maison-en-paille-et-en-bois-cest-un-choix-politique-qui-allie-ecologie-et-economie/",
           "published": "2026-08-28T04:00:00+00:00",
@@ -1627,17 +1640,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Solidarité entre voisin·es, revirement politique, inscription dans une association ou un groupe militant... Après avoir vécu le réchauffement climatiq",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "«Les avancées ne sont pas à la hauteur» : à l’UTMB, les paradoxes de l’adaptation de la grand-messe de l’ultra-trail",
-          "link": "https://vert.eco/culture/sports-et-loisirs/les-avancees-ne-sont-pas-a-la-hauteur-a-lutmb-les-paradoxes-de-ladaptation-de-la-grand-messe-de-lultra-trail/",
-          "published": "2026-08-23T05:00:00+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "En 2025, la mythique course de l’Ultra-trail du Mont-Blanc (UTMB) annonçait vouloir réduire de 20% ses émissions de gaz à effet de serre d’ici 2030. S",
           "image": null,
           "other_news": true
         },
@@ -1727,28 +1729,6 @@
           "language": "en",
           "summary": "Kenya&#8217;s secondhand clothing trade, locally known as mitumba, clothes millions of people and supports an estimated 2 million livelihoods, making",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/26204347/Clothes_shop-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Kenyan investigators arrest 4 people linked to 18 Amboseli elephant deaths",
-          "link": "https://news.mongabay.com/short-article/2026/08/kenyan-investigators-arrest-4-people-linked-to-18-amboseli-elephant-deaths/",
-          "published": "2026-08-26T10:52:40+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "At least four suspects have been arrested in connection with the deaths of 18 elephants in the Amboseli ecosystem in southern Kenya, near the border w",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/26104641/Elephant-Amboseli-KWS-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "In South Africa, renewable energy latest part of timber industry’s green efforts",
-          "link": "https://news.mongabay.com/2026/08/in-south-africa-renewable-energy-latest-part-of-timber-industrys-green-efforts/",
-          "published": "2026-08-26T10:09:21+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "JOHANNESBURG, South Africa — York Timber Holdings signed a 10-year renewable electricity agreement with electricity trader Discovery Green for power f",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/26100828/HarvestingTimber_MpumalangaSouthAfrica_YorkTimbersFairUse-768x512.jpg",
           "other_news": true
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T11:31:49.840004+00:00",
+  "generated_at": "2026-08-30T09:36:28.199647+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -112,6 +112,17 @@
     "General News": {
       "Plastic & Ocean Pollution": [
         {
+          "title": "‘Tiny bit of rain and the sewage comes’: Brighton swimmers vent fury at sea pollution",
+          "link": "https://www.theguardian.com/environment/2026/aug/30/sewage-brighton-swimmers-condemn-sea-pollution",
+          "published": "2026-08-30T06:00:48+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Checking for sewage spills has become as normal as checking the weather forecast, say swimmers on East Sussex beachesSouth West Water has worst enviro",
+          "image": "https://i.guim.co.uk/img/media/3730cf51cdac8a025143cceea40830e401b1ae3e/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8f848896bc377b99fb5765ead795c5a8",
+          "other_news": false
+        },
+        {
           "title": "1.3m plastic bottles collected in a day in global volunteer ocean cleanup",
           "link": "https://www.theguardian.com/environment/2026/aug/26/plastic-bottles-coastal-cleanup-ocean-conservancy",
           "published": "2026-08-26T13:00:13+00:00",
@@ -131,17 +142,6 @@
           "language": "en",
           "summary": "Hottest periods this year in most sea regions would have been ‘virtually impossible’ in a preindustrial climateCarbon pollution has fuelled a “massive",
           "image": "https://i.guim.co.uk/img/media/bd72147bde43ba629cd3212aea27908b6b16b768/453_0_6521_5216/master/6521.jpg?width=140&quality=85&auto=format&fit=max&s=fe26860749de22b65e702614b0ba8e86",
-          "other_news": false
-        },
-        {
-          "title": "Wildfires can contaminate nearby homes and water systems – here’s what returning residents need to know",
-          "link": "https://theconversation.com/wildfires-can-contaminate-nearby-homes-and-water-systems-heres-what-returning-residents-need-to-know-289395",
-          "published": "2026-08-11T19:16:27+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "A home might appear fine, but toxic contamination isn’t always evident by sight or smell. An engineer share safety tips for the recovery.",
-          "image": null,
           "other_news": false
         },
         {
@@ -301,17 +301,6 @@
           "summary": "It’s thought to be the first recording to capture a by-catch event, informing future evidence-based bycatch solutions\nThe post Porpoise by-catch recor",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "Blast fishing destroys reefs. Underwater microphones can help detect it",
-          "link": "https://news.mongabay.com/2026/08/blast-fishing-destroys-reefs-underwater-microphones-can-help-detect-it/",
-          "published": "2026-08-26T14:22:37+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "When he went for a dive between the tiny islands off the coast of South Sulawesi, Indonesia, marine biologist and AI researcher Ben Williams could oft",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/26122700/Ben-deploys-a-hydrophone-credit-Tim-Lamont-768x512.jpg",
-          "other_news": false
         }
       ],
       "Nature-Based Solutions & Restoration": [
@@ -373,19 +362,6 @@
           "other_news": false
         }
       ],
-      "Species Migration & Habitat Change": [
-        {
-          "title": "Le canal de Suez, un laissez-passer pour les espèces invasives en Méditerranée",
-          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/29/le-canal-de-suez-un-laissez-passer-pour-les-especes-invasives-en-mediterranee_6759537_3451060.html",
-          "published": "2026-08-29T06:00:29+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "« Suez, canal historique » (6/6). La création de l’axe maritime au XIXᵉ siècle a favorisé la migration d’espèces dites « lessepsiennes », d’après le n",
-          "image": "https://img.lemde.fr/2026/08/04/375/0/4500/2250/644/322/60/0/d5589f3_upload-1-iegrmaq12hmg-mh1-0114.jpg",
-          "other_news": false
-        }
-      ],
       "Other Marine News": [
         {
           "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile waters near the mainland, scientists say",
@@ -440,17 +416,6 @@
           "language": "en",
           "summary": "Conservationists have created a ‘coastal corridor’ of ocean-based projects designed to preserve and nourish vulnerable marine lifeFrom disappearing ma",
           "image": "https://i.guim.co.uk/img/media/d0e7e6345d9f9b027db5bcf11838734970196df6/573_0_3539_2832/master/3539.jpg?width=140&quality=85&auto=format&fit=max&s=d03f67b266dfa008ead6e5c1456cdd3c",
-          "other_news": false
-        },
-        {
-          "title": "Rite of Spring by Kris Kneen review – a woman’s sexual awakening lurks in the ocean’s depths",
-          "link": "https://www.theguardian.com/books/2026/jul/31/rite-of-spring-by-kris-kneen-review-a-womans-sexual-awakening-lurks-in-the-oceans-depths",
-          "published": "2026-07-30T22:00:56+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A couple sign up as lighthouse keepers on an isolated island off Tasmania. But Miranda is on the cusp of a transformation – and sex is everywhereTo de",
-          "image": "https://i.guim.co.uk/img/media/dc7ef71cadb108a06a28376144401d10aa60070a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=cf7132cfaf4f7117ff44784be8052de3",
           "other_news": false
         },
         {
@@ -674,25 +639,14 @@
           "other_news": false
         },
         {
-          "title": "Les plages de Dakar, polluées et jonchées de plastique, victimes de la croissance de la ville",
-          "link": "https://www.lemonde.fr/afrique/article/2026/08/29/les-plages-de-dakar-polluees-et-jonchees-de-plastique-sont-victimes-de-la-croissance-de-la-ville_6759713_3212.html",
-          "published": "2026-08-29T09:00:06+02:00",
+          "title": "« Pour réussir, l’Etat doit prendre une partie de la charge mentale de la transition écologique »",
+          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/30/pour-reussir-l-etat-doit-prendre-une-partie-de-la-charge-mentale-de-la-transition-ecologique_6760668_3451060.html",
+          "published": "2026-08-30T06:00:11+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Alors que la période des chaleurs et des pluies court jusqu’à octobre, les plages de la capitale sénégalaise voient affluer familles et surfeurs mais",
-          "image": "https://img.lemde.fr/2026/07/02/264/0/3171/1585/644/322/60/0/89261fe_upload-1-7um9wuacwntu-000-962x9k3.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Les canicules et les incendies redessinent la carte des vacances d’été : « On a souffert de la chaleur, on ne voulait pas faire vivre ça aux enfants »",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/29/les-canicules-et-les-incendies-redessinent-la-carte-des-vacances-d-ete-on-a-souffert-de-la-chaleur-on-ne-voulait-pas-faire-vivre-ca-aux-enfants_6759536_3234.html",
-          "published": "2026-08-29T06:00:23+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Soumis aux crises climatiques et à la baisse du pouvoir d’achat, les Français n’ont pas renoncé à partir, mais ont changé leurs habitudes. Littoral de",
-          "image": "https://img.lemde.fr/2026/08/28/1032/0/6192/3096/644/322/60/0/d281989_upload-1-kfh4ktdu08im-maxnewsspecialtwo683713.jpg",
+          "summary": "« Les entretiens de “Chaleur humaine” ». Ancienne conseillère à l’Elysée et à Matignon, Marine Braud décortiquait, en mars 2026 pour « Le Monde », les",
+          "image": "https://img.lemde.fr/2026/07/23/708/0/2836/1418/644/322/60/0/fde6a14_upload-1-dc16hoe1z1ie-hd-rvb-web-carre-se-rie-e-te-ep-6-chaleur-humaine.jpg",
           "other_news": false
         },
         {
@@ -714,17 +668,6 @@
           "type": "news",
           "language": "en",
           "summary": "Bird flu now threatens more than birds. Early detection in both birds and marine mammals remains crucial, and management must adapt as new evidence em",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Why Woolworths and Coles are now selling thousands more ‘own brand’ products",
-          "link": "https://theconversation.com/why-woolworths-and-coles-are-now-selling-thousands-more-own-brand-products-286352",
-          "published": "2026-08-27T19:48:19+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Recent reports show Woolworths and Coles are managing to hold smaller competitors at bay – in part by adopting a strategy from their rival, Aldi.",
           "image": null,
           "other_news": false
         },
@@ -845,6 +788,17 @@
         }
       ],
       "Marine Biodiversity & Conservation": [
+        {
+          "title": "Nature reserves spot rare species during heatwaves",
+          "link": "https://www.bbc.co.uk/news/articles/cpve2123v71o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-30T05:08:05+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A wildlife trust says unusually hot weather and increased monitoring has led to interesting finds.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/551b/live/c7f237d0-a158-11f1-92f3-2381193e5eb4.jpg",
+          "other_news": true
+        },
         {
           "title": "Islanders asked to report sightings of rare eel",
           "link": "https://www.bbc.co.uk/news/articles/cew91wykg2qo?at_medium=RSS&at_campaign=rss",
@@ -1182,6 +1136,17 @@
           "other_news": true
         },
         {
+          "title": "When a mountain falls: How ice and rock triggered Nepal’s catastrophic flood – and why climate change is raising the risks",
+          "link": "https://theconversation.com/when-a-mountain-falls-how-ice-and-rock-triggered-nepals-catastrophic-flood-and-why-climate-change-is-raising-the-risks-290779",
+          "published": "2026-08-29T16:57:04+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "A geologist explains how thawing permafrost and melting ice are increasing the risk of destructive floods in the Himalayas and other high mountain reg",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Extreme heat is taking a toll on firefighters as wildfires stretch crews to the limit",
           "link": "https://theconversation.com/extreme-heat-is-taking-a-toll-on-firefighters-as-wildfires-stretch-crews-to-the-limit-290571",
           "published": "2026-08-27T12:04:04+00:00",
@@ -1277,17 +1242,6 @@
           "type": "news",
           "language": "en",
           "summary": "Heatwaves are becoming more likely and more intense due to climate change, impacting sources of power generation around the world&#8230;\nThe post Fact",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Correcting climate ‘misperceptions’ may not boost climate action",
-          "link": "https://www.carbonbrief.org/correcting-climate-misperceptions-may-not-boost-climate-action",
-          "published": "2026-07-30T15:30:11+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "The general public often underestimate support for climate action, while overestimating the real-world actions taken by other people to address&#8230;",
           "image": null,
           "other_news": true
         },
@@ -1490,6 +1444,17 @@
           "other_news": true
         },
         {
+          "title": "« Face à l'actualité dramatique, nos jardins peuvent nous aider à tenir »",
+          "link": "https://reporterre.net/Face-a-l-actualite-dramatique-nos-jardins-peuvent-nous-aider-a-tenir",
+          "published": "2026-08-30T04:30:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Après cet été terrible, du côté de la météo comme de l'actualité politique, il serait tentant de s'enfermer dans son potager. Po",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/chateau_bocaux2_1_-5549f.jpg?1788064201",
+          "other_news": true
+        },
+        {
           "title": "Réchauffement de la Méditerranée : « Les écosystèmes marins se dirigent vers une révolution »",
           "link": "https://reporterre.net/Le-rechauffement-bouleverse-la-repartition-des-especes-en-Mediterranee",
           "published": "2026-08-27T06:00:00+00:00",
@@ -1600,6 +1565,28 @@
           "other_news": true
         },
         {
+          "title": "Canicules, incendies, sécheresse : comprendre l’été exceptionnel de la France en graphiques",
+          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/08/30/canicules-incendies-secheresse-l-ete-exceptionnel-de-la-france-en-graphiques_6760743_4355770.html",
+          "published": "2026-08-30T06:17:52+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Avec des températures extrêmes, un important déficit en eau et des feux ravageurs, le climat de l’été 2026 s’est révélé hors norme, battant un nombre",
+          "image": "https://img.lemde.fr/2026/08/13/1376/0/8256/4128/644/322/60/0/3970c6c_upload-1-y4ebmr3xridv-canicule13aout-8.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Dans la Beauce, face à un projet de stockage d’énergie par batteries lithium, un maire menace de démissionner",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/29/dans-la-beauce-face-a-un-projet-de-stockage-d-energie-par-batteries-lithium-un-maire-menace-de-demissionner_6760029_3234.html",
+          "published": "2026-08-29T15:30:09+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le groupe allemand Enertrag projette d’installer 120 batteries stationnaires en Eure-et-Loir pour stocker l’énergie. Un projet qui suscite une vive op",
+          "image": "https://img.lemde.fr/2026/08/28/15/0/4000/2000/644/322/60/0/73ed764_upload-1-d1lgegkv4k3g-simulation-3d-enertrag-france.jpg",
+          "other_news": true
+        },
+        {
           "title": "Du Royaume-Uni à la Hongrie, les conséquences politiques variables des canicules en Europe",
           "link": "https://www.lemonde.fr/planete/article/2026/08/29/du-royaume-uni-a-la-hongrie-les-consequences-politiques-variables-des-canicules-en-europe_6759853_3244.html",
           "published": "2026-08-29T11:00:14+02:00",
@@ -1608,17 +1595,6 @@
           "language": "fr",
           "summary": "Températures extrêmes, sécheresses et feux… Malgré les catastrophes de l’été 2026, tous les courants politiques du Vieux Continent ne sont pas convain",
           "image": "https://img.lemde.fr/2026/08/13/0/0/1888/944/644/322/60/0/a35ad38_ftp-1-keqofqz5muwf-2026-08-13t172022z-1072487778-rc2txma9li2e-rtrmadp-3-europe-weather-britain-thermal.JPG",
-          "other_news": true
-        },
-        {
-          "title": "Les catastrophes climatiques de l’été 2026 feront-elles évoluer les comportements et les politiques en France ?",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/29/les-catastrophes-climatiques-de-l-ete-2026-feront-elles-evoluer-les-comportements-et-les-politiques-en-france_6759545_3244.html",
-          "published": "2026-08-29T06:00:56+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les vagues de chaleur, les incendies et la sécheresse, exacerbés par le réchauffement climatique, n’entraînent pas mécaniquement d’évolution des menta",
-          "image": "https://img.lemde.fr/2026/08/13/250/0/3000/1500/644/322/60/0/8baf219_upload-1-qxcwaq6j5gra-infirmier-canicule-asurp-108165.jpg",
           "other_news": true
         },
         {

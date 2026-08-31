@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T10:24:26.811123+00:00",
+  "generated_at": "2026-08-31T10:17:53.373475+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -152,17 +152,6 @@
           "type": "news",
           "language": "en",
           "summary": "The 120,000 tonnes of abandoned plastics could be contributing up to 500 tonnes of microplastic annually, adversely affecting marine life in the North",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "What are Tire Wear Particles?",
-          "link": "https://oceanconservancy.org/blog/2026/07/31/tire-wear-particles/",
-          "published": "2026-07-31T18:32:13+00:00",
-          "source": "Ocean Conservancy",
-          "type": "news",
-          "language": "en",
-          "summary": "What do you think about when you hear the words “microplastic pollution?” Your mind may immediately go to imagery of colorful fragmented plastics brok",
           "image": null,
           "other_news": false
         },
@@ -639,6 +628,17 @@
           "other_news": false
         },
         {
+          "title": "« El Niño aura des effets sur l’inflation en Europe »",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/31/el-nino-aura-des-effets-sur-l-inflation-en-europe_6761899_3232.html",
+          "published": "2026-08-31T06:00:05+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’intensité de ce phénomène climatique naturel de l’océan Pacifique, de retour en 2026, menace la production agricole mondiale et pourrait fait grimpe",
+          "image": "https://img.lemde.fr/2026/08/14/0/0/5976/2988/644/322/60/0/bf2274c_upload-1-uhtr5sxw6bqn-euge-nie-baccotl1006071.jpg",
+          "other_news": false
+        },
+        {
           "title": "« Pour réussir, l’Etat doit prendre une partie de la charge mentale de la transition écologique »",
           "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/30/pour-reussir-l-etat-doit-prendre-une-partie-de-la-charge-mentale-de-la-transition-ecologique_6760668_3451060.html",
           "published": "2026-08-30T06:00:11+02:00",
@@ -661,13 +661,24 @@
           "other_news": false
         },
         {
-          "title": "Bird flu is here to stay. NZ’s response must keep adapting as the virus takes hold",
-          "link": "https://theconversation.com/bird-flu-is-here-to-stay-nzs-response-must-keep-adapting-as-the-virus-takes-hold-290335",
-          "published": "2026-08-27T21:35:09+00:00",
+          "title": "Twins can have different parents. How is that possible? A fertility expert explains",
+          "link": "https://theconversation.com/twins-can-have-different-parents-how-is-that-possible-a-fertility-expert-explains-290711",
+          "published": "2026-08-31T02:42:52+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Bird flu now threatens more than birds. Early detection in both birds and marine mammals remains crucial, and management must adapt as new evidence em",
+          "summary": "A case in the Gold Coast is the first in Australia and only the third reported worldwide.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Sea-level rise, fuel shortages and missile tests top the agenda as Albanese heads to Palau for Pacific talks",
+          "link": "https://theconversation.com/sea-level-rise-fuel-shortages-and-missile-tests-top-the-agenda-as-albanese-heads-to-palau-for-pacific-talks-289979",
+          "published": "2026-08-30T20:17:21+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Pacific nations will want Albanese to address the world’s key security threat – climate change.",
           "image": null,
           "other_news": false
         },
@@ -725,21 +736,24 @@
           "summary": "Whenever coastal engineer Robert Nicholls looks outside one of his home’s windows, he can see the Hurst Castle Spit on the south coast of England slow",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/27161847/Flamants_roses_parc_des_oiseaux_du_Djoudj-2-768x512.jpg",
           "other_news": false
-        },
+        }
+      ]
+    },
+    "To Watch / Read / Listen": {
+      "Other Marine News": [
         {
-          "title": "Nigeria can build the new coastal highway and also protect natural areas (commentary)",
-          "link": "https://news.mongabay.com/2026/08/nigeria-can-build-the-new-coastal-highway-and-also-protect-natural-areas-commentary/",
-          "published": "2026-08-26T16:03:21+00:00",
+          "title": "‘You can’t protect what you don’t know:’ Interview with marine scientist Loyiso Dunga",
+          "link": "https://news.mongabay.com/2026/08/you-cant-protect-what-you-dont-know-interview-with-marine-scientist-loyiso-dunga/",
+          "published": "2026-08-31T08:00:48+00:00",
           "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Nigeria needs road infrastructure for improved living conditions. Anyone who has watched trucks crawl out of Lagos, farmers and fishermen struggle to",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/28203550/CrossRiverMonument_CalabarCrossRiverNigeria_KoutchikaLihouenouGaspardWikicommonsBYSA4.0-e1787757447155-768x512.jpg",
+          "summary": "CAPE TOWN — When scientist Loyiso Dunga began mapping the Great African Seaforest in 2016, he decided to go snorkeling. The South African section of t",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/28125637/3_Mapping_Loyiso-768x512.png",
           "other_news": false
         }
       ]
     },
-    "To Watch / Read / Listen": {},
     "Other News": {
       "Plastic & Ocean Pollution": [
         {
@@ -855,17 +869,6 @@
           "type": "news",
           "language": "en",
           "summary": "Policy changes, climate disruption, staffing shortages and housing costs are reshaping the risks of owning or starting a gateway business.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The fight over AI data centres is becoming Australia’s next Indigenous policy challenge",
-          "link": "https://theconversation.com/the-fight-over-ai-data-centres-is-becoming-australias-next-indigenous-policy-challenge-289623",
-          "published": "2026-08-27T19:49:24+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Decisions made now could shape Indigenous relations with the government around AI for years to come.",
           "image": null,
           "other_news": true
         }
@@ -1246,6 +1249,17 @@
           "other_news": true
         },
         {
+          "title": "India needs climate adaptation cash to be an investment, not a quick fix",
+          "link": "https://www.climatechangenews.com/2026/08/31/india-needs-climate-adaptation-cash-to-be-an-investment-not-a-quick-fix/",
+          "published": "2026-08-31T07:48:04+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "As governments look towards COP31, India must push not only for more adaptation finance, but for funds to arrive in time for projects that limit disas",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Despite African walkout, fractious land COP ends without drought deal",
           "link": "https://www.climatechangenews.com/2026/08/28/despite-african-walkout-fractious-land-cop-ends-without-drought-agreement/",
           "published": "2026-08-28T16:32:26+00:00",
@@ -1433,14 +1447,14 @@
           "other_news": true
         },
         {
-          "title": "UN chief warns climate crisis “in overdrive” as El Niño threatens to fuel the fire",
-          "link": "https://www.climatechangenews.com/2026/07/31/un-chief-warns-climate-crisis-in-overdrive-as-el-nino-threatens-to-fuel-the-fire/",
-          "published": "2026-07-31T16:51:00+00:00",
-          "source": "Climate change news",
+          "title": "Réchauffement climatique : comment les scientifiques prêchent dans le désert depuis 200 ans",
+          "link": "https://reporterre.net/Rechauffement-climatique-comment-les-scientifiques-prechent-dans-le-desert-depuis-200-ans",
+          "published": "2026-08-31T04:30:00+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Top politicians and scientists blamed the deadly fires on the climate crisis and said it should inspire more emissions reductions and adaptation measu",
-          "image": null,
+          "language": "fr",
+          "summary": "Les premières études scientifiques sur le lien entre émissions de CO₂ et réchauffement remontent aux années 1820 et se sont mult",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250702__64kw27b__v2__highres__colombiaeconomyenergy_1_-62f90.jpg?1788150603",
           "other_news": true
         },
         {
@@ -1571,30 +1585,8 @@
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Avec des températures extrêmes, un important déficit en eau et des feux ravageurs, le climat de l’été 2026 s’est révélé hors norme, battant un nombre",
+          "summary": "Avec des températures extrêmes, un important déficit en eau et des feux ravageurs, le climat de l’été 2026 s’est révélé hors norme, battant un nombre",
           "image": "https://img.lemde.fr/2026/08/13/1376/0/8256/4128/644/322/60/0/3970c6c_upload-1-y4ebmr3xridv-canicule13aout-8.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Dans la Beauce, face à un projet de stockage d’énergie par batteries lithium, un maire menace de démissionner",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/29/dans-la-beauce-face-a-un-projet-de-stockage-d-energie-par-batteries-lithium-un-maire-menace-de-demissionner_6760029_3234.html",
-          "published": "2026-08-29T15:30:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le groupe allemand Enertrag projette d’installer 120 batteries stationnaires en Eure-et-Loir pour stocker l’énergie. Un projet qui suscite une vive op",
-          "image": "https://img.lemde.fr/2026/08/28/15/0/4000/2000/644/322/60/0/73ed764_upload-1-d1lgegkv4k3g-simulation-3d-enertrag-france.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Du Royaume-Uni à la Hongrie, les conséquences politiques variables des canicules en Europe",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/29/du-royaume-uni-a-la-hongrie-les-consequences-politiques-variables-des-canicules-en-europe_6759853_3244.html",
-          "published": "2026-08-29T11:00:14+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Températures extrêmes, sécheresses et feux… Malgré les catastrophes de l’été 2026, tous les courants politiques du Vieux Continent ne sont pas convain",
-          "image": "https://img.lemde.fr/2026/08/13/0/0/1888/944/644/322/60/0/a35ad38_ftp-1-keqofqz5muwf-2026-08-13t172022z-1072487778-rc2txma9li2e-rtrmadp-3-europe-weather-britain-thermal.JPG",
           "other_news": true
         },
         {
@@ -1631,13 +1623,24 @@
           "other_news": true
         },
         {
-          "title": "Landmines and remnants of war pose a serious threat, and more needs to be done to solve it",
-          "link": "https://theconversation.com/landmines-and-remnants-of-war-pose-a-serious-threat-and-more-needs-to-be-done-to-solve-it-289154",
-          "published": "2026-08-28T02:44:59+00:00",
+          "title": "Where is AI headed? Two media theorists from the 1960s can help us figure it out",
+          "link": "https://theconversation.com/where-is-ai-headed-two-media-theorists-from-the-1960s-can-help-us-figure-it-out-290733",
+          "published": "2026-08-31T05:55:55+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Landmines from wars can stay hidden and a threat for decades. Climate change is making the risk even greater.",
+          "summary": "AI is a kind of media – and we’ve seen before what new media can do to society.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Your say: week beginning August 31",
+          "link": "https://theconversation.com/your-say-week-beginning-august-31-290803",
+          "published": "2026-08-30T21:21:28+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "On being prepared for climate disaster and teaching religion in schools: an edited selection of your views.",
           "image": null,
           "other_news": true
         },
@@ -1694,28 +1697,6 @@
           "language": "en",
           "summary": "Brazilian authorities have temporarily relaxed an environmental rule for the Belo Monte hydropower plant on the Xingu River in the northeastern Amazon",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/12/31094008/belo_monte090920214077-scaled-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Pastoralists in a Changing World",
-          "link": "https://news.mongabay.com/specials/2026/08/pastoralists-in-a-changing-world/",
-          "published": "2026-08-26T21:03:40+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Pastoralism is one of humanity’s oldest ways of life. Moving livestock across vast landscapes in rhythm with seasonal change and environmental conditi",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/03/21123337/pastoralists-kenya-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Kenya’s clothing waste raises concerns about potential public health risks",
-          "link": "https://news.mongabay.com/short-article/2026/08/kenyas-clothing-waste-raises-concerns-about-potential-public-health-risks/",
-          "published": "2026-08-26T17:57:24+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Kenya&#8217;s secondhand clothing trade, locally known as mitumba, clothes millions of people and supports an estimated 2 million livelihoods, making",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/26204347/Clothes_shop-768x512.jpg",
           "other_news": true
         }
       ]

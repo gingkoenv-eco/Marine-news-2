@@ -2,11 +2,16 @@ name: Update marine news
 
 on:
   schedule:
-    # 6am Paris time in winter (CET, UTC+1) = 05:00 UTC
-    - cron: "0 5 * * *"
-    # 6am Paris time in summer (CEST, UTC+2) = 04:00 UTC
-    - cron: "0 4 * * *"
+    # 7am UK time in winter (GMT, UTC+0)
+    - cron: "17 7 * * *"
+    # 7am UK time in summer (BST, UTC+1)
+    - cron: "17 6 * * *"
+    # 1pm UK time in winter (GMT, UTC+0)
+    - cron: "17 13 * * *"
+    # 1pm UK time in summer (BST, UTC+1)
+    - cron: "17 12 * * *"
   workflow_dispatch: {}
+    # ^ lets you trigger this manually from the "Actions" tab on GitHub, useful for testing
 
 permissions:
   contents: write

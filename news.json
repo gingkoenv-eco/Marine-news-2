@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:40:37.682697+00:00",
+  "generated_at": "2026-09-01T12:36:19.081192+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -158,17 +158,6 @@
           "other_news": false
         },
         {
-          "title": "Abandoned oil and gas pipes leak tonnes of microplastics annually",
-          "link": "https://oceanographicmagazine.com/news/abandoned-oil-and-gas-pipes-leak-tonnes-of-microplastics-annually/",
-          "published": "2026-08-25T12:00:52+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The 120,000 tonnes of abandoned plastics could be contributing up to 500 tonnes of microplastic annually, adversely affecting marine life in the North",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Failed environmental safeguards leave coastal Bangladesh facing coal pollution",
           "link": "https://news.mongabay.com/2026/08/failed-environmental-safeguards-leave-coastal-bangladesh-facing-coal-pollution/",
           "published": "2026-08-28T15:15:19+00:00",
@@ -244,6 +233,17 @@
           "type": "news",
           "language": "en",
           "summary": "A fish-finding expedition not only detects unexpected species but also uncovers a living link to Missouri’s geological past.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Recovery time between global coral bleaching events is shrinking",
+          "link": "https://oceanographicmagazine.com/news/recovery-time-between-global-coral-bleaching-events-is-shrinking/",
+          "published": "2026-09-01T12:08:46+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The largest global coral reef assessment yet finds a 9.5% decline in coral cover since 2009. Australia's reefs remain relatively healthy but face shri",
           "image": null,
           "other_news": false
         },
@@ -608,17 +608,6 @@
           "other_news": false
         },
         {
-          "title": "Yiddish’s ‘revival’ points to its resilience as a portable homeland – and a global reach, from Russia to Mexico to the US",
-          "link": "https://theconversation.com/yiddishs-revival-points-to-its-resilience-as-a-portable-homeland-and-a-global-reach-from-russia-to-mexico-to-the-us-287743",
-          "published": "2026-08-31T12:02:45+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Many Americans associate Yiddish strictly with Eastern Europe. But its horizons are much broader than that, especially amid today’s revival.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Do Sea Turtles Get Lost?",
           "link": "https://oceanconservancy.org/blog/2026/08/27/do-sea-turtles-get-lost/",
           "published": "2026-08-27T15:58:38+00:00",
@@ -825,6 +814,17 @@
           "type": "news",
           "language": "en",
           "summary": "Policy changes, climate disruption, staffing shortages and housing costs are reshaping the risks of owning or starting a gateway business.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "What is public interest technology? An expert on data and policy explains how it helps people in need",
+          "link": "https://theconversation.com/what-is-public-interest-technology-an-expert-on-data-and-policy-explains-how-it-helps-people-in-need-287761",
+          "published": "2026-09-01T12:05:54+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Public interest technology ensures that public policies are implemented in ways that change people’s lives.",
           "image": null,
           "other_news": true
         },
@@ -1535,6 +1535,17 @@
           "other_news": true
         },
         {
+          "title": "Les incendies de l’été 2026 en France sont responsables d’émissions de carbone d’une ampleur inédite",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/01/les-incendies-de-l-ete-2026-en-france-sont-responsables-d-emissions-de-carbone-d-une-ampleur-inedite_6763477_3244.html",
+          "published": "2026-09-01T14:00:06+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le service européen Copernicus fait état de plus de 1,5 million de tonnes relâchées, un chiffre jamais enregistré depuis 2003. Un défi, alors que la F",
+          "image": "https://img.lemde.fr/2026/08/01/849/0/9504/4752/644/322/60/0/096de33_upload-1-gir9ob1tubyc-19-hlequeux-feux-gironde-dsc9015.jpg",
+          "other_news": true
+        },
+        {
           "title": "« Pour financer la transition énergétique, la France a un droit économique parmi les plus sophistiqués du monde qu’elle n’exploite pas assez »",
           "link": "https://www.lemonde.fr/idees/article/2026/08/31/pour-financer-la-transition-energetique-la-france-a-un-droit-economique-parmi-les-plus-sophistiques-du-monde-qu-elle-n-exploite-pas-assez_6762610_3232.html",
           "published": "2026-08-31T18:30:07+02:00",
@@ -1564,6 +1575,28 @@
           "type": "news",
           "language": "fr",
           "summary": "La rentrée signe le retour des mobilisations partout en France. Associations, collectifs et syndicats réclament davantage de moyens pour s’adapter au",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Data center projects in Pennsylvania face stronger local scrutiny after Shapiro’s executive order",
+          "link": "https://theconversation.com/data-center-projects-in-pennsylvania-face-stronger-local-scrutiny-after-shapiros-executive-order-290136",
+          "published": "2026-09-01T12:06:36+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The Environmental Rights Amendment of the PA Constitution guarantees the right to clean air, pure water and to the preservation of the aesthetic value",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "The greenest building is the one still standing after a disaster",
+          "link": "https://theconversation.com/the-greenest-building-is-the-one-still-standing-after-a-disaster-290313",
+          "published": "2026-09-01T12:06:14+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A ‘green’ building has to last for its intentionally small carbon footprint to pay off. That includes surviving flood, storm or wildfire damage.",
           "image": null,
           "other_news": true
         },

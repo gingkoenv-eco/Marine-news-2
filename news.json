@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T12:36:19.081192+00:00",
+  "generated_at": "2026-09-01T16:40:23.868510+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -48,6 +48,17 @@
           "type": "news",
           "language": "en",
           "summary": "China has published a new five-year plan for coal, the latest in a slew of important policy documents for the&#8230;\nThe post Q&amp;A: What does China",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "From firefighting to future-proofing: Preventing wildfires must be the priority",
+          "link": "https://www.climatechangenews.com/2026/09/01/from-firefighting-to-future-proofing-preventing-wildfires-must-be-the-priority/",
+          "published": "2026-09-01T13:54:36+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "While many countries remain locked in a reactive cycle of disaster response, public policy can shift investment upstream to build resilience and cut r",
           "image": null,
           "other_news": false
         }
@@ -237,6 +248,17 @@
           "other_news": false
         },
         {
+          "title": "Blue whales are mapping the ocean’s temperature to find food",
+          "link": "https://oceanographicmagazine.com/news/blue-whales-are-mapping-the-oceans-temperature-to-find-food/",
+          "published": "2026-09-01T15:20:29+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Blue whales don't find krill swarms by chance - new research shows they track thermal fronts, narrow bands of sharp temperature change, using a sensor",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Recovery time between global coral bleaching events is shrinking",
           "link": "https://oceanographicmagazine.com/news/recovery-time-between-global-coral-bleaching-events-is-shrinking/",
           "published": "2026-09-01T12:08:46+00:00",
@@ -313,19 +335,6 @@
           "language": "en",
           "summary": "On a remote beach on Groote Eylandt, a large island in Australia&#8217;s Gulf of Carpentaria, Kirsten Eden and her colleagues found a fishing net that",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/31195439/aad44e0a-4b0b-4d7d-8261-c4daa88bad1d-768x512.jpg",
-          "other_news": false
-        }
-      ],
-      "Nature-Based Solutions & Restoration": [
-        {
-          "title": "Ecological collapse in the world’s largest mangrove forest is a preview of what’s to come",
-          "link": "https://theconversation.com/ecological-collapse-in-the-worlds-largest-mangrove-forest-is-a-preview-of-whats-to-come-289445",
-          "published": "2026-08-31T17:29:41+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Climate change is already leading to lasting damage to the Sundarbans mangrove forest and causing families and farmers to lose their livelihoods.",
-          "image": null,
           "other_news": false
         }
       ],
@@ -476,17 +485,6 @@
           "other_news": false
         },
         {
-          "title": "Flesh-eating bacteria are devouring limbs in warming waters worldwide − here’s how to protect yourself",
-          "link": "https://theconversation.com/flesh-eating-bacteria-are-devouring-limbs-in-warming-waters-worldwide-heres-how-to-protect-yourself-289554",
-          "published": "2026-08-11T21:07:21+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Warmer ocean waters are fueling the spread of the bacteria Vibrio vulnificus. Infections can lead to a rare but fatal condition called necrotizing fas",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Q&A: What is ‘long-duration energy storage’ – and why does the UK need it?",
           "link": "https://www.carbonbrief.org/qa-what-is-long-duration-energy-storage-and-why-does-the-uk-need-it",
           "published": "2026-08-19T11:18:11+00:00",
@@ -542,17 +540,6 @@
           "other_news": false
         },
         {
-          "title": "Présidentielle 2027 : et soudain, l'écologie est partout",
-          "link": "https://reporterre.net/Presidentielle-2027-de-Melenchon-a-Glucksmann-l-ecologie-a-toutes-les-sauces",
-          "published": "2026-08-25T07:32:37+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "De Jean-Luc Mélenchon à Raphaël Glucksmann en passant par Marine Tondelier, en cette rentrée politique qui succède à un été terr",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/candidats_presidentielles_gauche_montage-d5f5c.jpg?1787643159",
-          "other_news": false
-        },
-        {
           "title": "Antarctica’s smallest marine life at risk as melting ice dilutes waters",
           "link": "https://oceanographicmagazine.com/news/antarcticas-smallest-marine-life-at-risk-as-melting-ice-dilutes-waters/",
           "published": "2026-08-28T15:49:45+00:00",
@@ -586,20 +573,9 @@
           "other_news": false
         },
         {
-          "title": "Namibia greenlights controversial deep-sea phosphate mine project",
-          "link": "https://oceanographicmagazine.com/news/namibia-greenlights-controversial-deep-sea-phosphate-mine-project/",
-          "published": "2026-08-25T14:30:29+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The company Namibian Marine Phosphate has secured initial environmental clearance for the offshore Sandpiper Project – it would be the world’s first c",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "La fonte accélérée des glaces ouvre une nouvelle route commerciale dans l’Arctique",
           "link": "https://www.lemonde.fr/economie/article/2026/09/01/la-fonte-acceleree-des-glaces-ouvre-une-nouvelle-route-commerciale-dans-l-arctique_6763100_3234.html",
-          "published": "2026-09-01T06:00:10+02:00",
+          "published": "2026-09-01T06:00:06+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -792,17 +768,6 @@
           "summary": "When the sugary-sweet masuku plum is in season in Malawi, locals go wild over it. “They will eat it while traveling, in the bath, on the streets … the",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/31142708/3840px-Chacma_Baboon_Papio_ursinus_eating_marula_fruit_2-768x512.jpg",
           "other_news": true
-        },
-        {
-          "title": "The conservation population of Australia’s endangered eastern quoll welcomes joeys",
-          "link": "https://news.mongabay.com/2026/08/the-conservation-population-of-australias-endangered-eastern-quoll-welcomes-joeys/",
-          "published": "2026-08-28T12:35:55+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "SYDNEY — The endangered eastern quoll, one of Australia’s species of quoll, is a nocturnal carnivorous marsupial that is small in stature with a ferre",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/28015007/eastern-quolll-nighttime-768x512.jpeg",
-          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -814,6 +779,17 @@
           "type": "news",
           "language": "en",
           "summary": "Policy changes, climate disruption, staffing shortages and housing costs are reshaping the risks of owning or starting a gateway business.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How 1,200 Saskatchewan teachers have experienced the province’s pronoun policy",
+          "link": "https://theconversation.com/how-1-200-saskatchewan-teachers-have-experienced-the-provinces-pronoun-policy-289675",
+          "published": "2026-09-01T16:17:11+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Regardless of where they stand on the policy itself, many educators say Saskatchewan’s pronoun policy has diverted attention from other pressing chall",
           "image": null,
           "other_news": true
         },
@@ -850,17 +826,6 @@
           "language": "en",
           "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ef/live/040d5720-a453-11f1-b109-879e35c24276.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Clean-up of illegal waste supersite costs taxpayers £6m",
-          "link": "https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-27T21:00:48+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/58f232c0-a2a4-11f1-b109-879e35c24276.jpg",
           "other_news": true
         },
         {
@@ -948,17 +913,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Le pouvoir de séquestration de carbone de la forêt landaise est mis à mal depuis le début des années&nbsp;2000.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "En Gironde, les vulnérabilités des forêts ne disparaîtront pas avec la fumée des incendies",
-          "link": "https://theconversation.com/en-gironde-les-vulnerabilites-des-forets-ne-disparaitront-pas-avec-la-fumee-des-incendies-288956",
-          "published": "2026-08-04T14:07:14+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les incendies favorisés par le changement climatique déclenchent des perturbations en cascade qui se renforcement mutuellement et menacent les plantat",
           "image": null,
           "other_news": true
         },
@@ -1073,13 +1027,24 @@
           "other_news": true
         },
         {
-          "title": "What if our cities were designed for wildlife as well as people?",
-          "link": "https://theconversation.com/what-if-our-cities-were-designed-for-wildlife-as-well-as-people-288992",
-          "published": "2026-08-19T10:40:21+00:00",
-          "source": "The Conversation UK",
+          "title": "Data center projects in Pennsylvania face stronger local scrutiny after Shapiro’s executive order",
+          "link": "https://theconversation.com/data-center-projects-in-pennsylvania-face-stronger-local-scrutiny-after-shapiros-executive-order-290136",
+          "published": "2026-09-01T12:06:36+00:00",
+          "source": "The Conversation US",
           "type": "news",
           "language": "en",
-          "summary": "New research argues urban planning must recognise animals, plants and ecosystems as fellow inhabitants of our cities.",
+          "summary": "The Environmental Rights Amendment of the PA Constitution guarantees the right to clean air, pure water and to the preservation of the aesthetic value",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "The greenest building is the one still standing after a disaster",
+          "link": "https://theconversation.com/the-greenest-building-is-the-one-still-standing-after-a-disaster-290313",
+          "published": "2026-09-01T12:06:14+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "A ‘green’ building has to last for its intentionally small carbon footprint to pay off. That includes surviving flood, storm or wildfire damage.",
           "image": null,
           "other_news": true
         },
@@ -1502,42 +1467,20 @@
           "other_news": true
         },
         {
-          "title": "L'Arabie saoudite va créer trois parcs d'attractions près de Paris, Emmanuel Macron ravi",
-          "link": "https://reporterre.net/L-Arabie-saoudite-va-creer-trois-parcs-d-attraction-pres-de-Paris-Emmanuel-Macron-ravi",
-          "published": "2026-08-25T12:52:48+00:00",
-          "source": "Reporterre",
+          "title": "Dans le Gard, le premier TER à batteries de France prend son élan",
+          "link": "https://www.lemonde.fr/economie/article/2026/09/01/dans-le-gard-le-premier-ter-a-batteries-de-france-prend-son-elan_6763499_3234.html",
+          "published": "2026-09-01T17:30:03+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "« Du jamais vu depuis Disneyland Paris. » C'est par ces mots postés sur le réseau social X qu'Emmanuel Macron s'est enorgueilli",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260825__hl_bohier_3262615__v1__highres__francesaudiarabiapoliticsdiplomacypar-9b7a5.jpg?1787662373",
-          "other_news": true
-        },
-        {
-          "title": "Interdiction des pubs pour les énergies fossiles : l'ambition du décret revue à la baisse",
-          "link": "https://reporterre.net/Interdiction-des-pubs-pour-les-energies-fossiles-l-ambition-du-decret-revue-a-la-baisse",
-          "published": "2026-08-25T12:33:36+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Encore une proposition de la Convention citoyenne pour le climat qui risque de voir sa portée réduite. L'exécutif a ouvert une c",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20230114__hl_mrolland_1938306__v1__highres__franceenvironmentactivistshijackadv_1_-43ae8.jpg?1787661254",
-          "other_news": true
-        },
-        {
-          "title": "« C'est pas le trail qui fait fondre les glaciers » : chez les coureurs de l'Ultra trail du Mont-Blanc, la tentation du déni",
-          "link": "https://reporterre.net/Des-couloirs-de-la-peur-pour-les-chamois-et-les-marmottes-l-Ultra-trail-du-Mont-Blanc-face-a-ses-nuisances",
-          "published": "2026-08-25T09:43:39+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "L'Ultra trail du Mont-Blanc et ses milliers de participants fait redouter un dérangement massif pour l'environnement alpin. L'or",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/utmb_15_-53624.jpg?1787651021",
+          "summary": "La région Occitanie, la SNCF et Alstom vont tester pendant deux ans un TER à batteries lithium-ion sur une ligne de 21 kilomètres. Un premier test dan",
+          "image": "https://img.lemde.fr/2026/09/01/226/0/2050/1025/644/322/60/0/901505a_upload-1-ptcgg1xr9f4s-trainbatteries-bd004.jpg",
           "other_news": true
         },
         {
           "title": "Les incendies de l’été 2026 en France sont responsables d’émissions de carbone d’une ampleur inédite",
           "link": "https://www.lemonde.fr/planete/article/2026/09/01/les-incendies-de-l-ete-2026-en-france-sont-responsables-d-emissions-de-carbone-d-une-ampleur-inedite_6763477_3244.html",
-          "published": "2026-09-01T14:00:06+02:00",
+          "published": "2026-09-01T14:00:04+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1579,24 +1522,13 @@
           "other_news": true
         },
         {
-          "title": "Data center projects in Pennsylvania face stronger local scrutiny after Shapiro’s executive order",
-          "link": "https://theconversation.com/data-center-projects-in-pennsylvania-face-stronger-local-scrutiny-after-shapiros-executive-order-290136",
-          "published": "2026-09-01T12:06:36+00:00",
+          "title": "How algorithms are making our environments bland",
+          "link": "https://theconversation.com/how-algorithms-are-making-our-environments-bland-289917",
+          "published": "2026-09-01T14:00:05+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "The Environmental Rights Amendment of the PA Constitution guarantees the right to clean air, pure water and to the preservation of the aesthetic value",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The greenest building is the one still standing after a disaster",
-          "link": "https://theconversation.com/the-greenest-building-is-the-one-still-standing-after-a-disaster-290313",
-          "published": "2026-09-01T12:06:14+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "A ‘green’ building has to last for its intentionally small carbon footprint to pay off. That includes surviving flood, storm or wildfire damage.",
+          "summary": "Griege is dominating our landscape along with cookie-cutter design.",
           "image": null,
           "other_news": true
         },
@@ -1608,28 +1540,6 @@
           "type": "news",
           "language": "en",
           "summary": "Making sure big companies do their bit to reduce emissions is essential for Australia to meet its climate targets.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The private school market serving international secondary students in Ontario has grown",
-          "link": "https://theconversation.com/the-private-school-market-serving-international-secondary-students-in-ontario-has-grown-288590",
-          "published": "2026-08-31T17:36:53+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "A lack of regulation raises concern about educational quality as well as children’s safety.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The EU’s repair policies are changing the way tech is designed",
-          "link": "https://theconversation.com/the-eus-repair-policies-are-changing-the-way-tech-is-designed-288468",
-          "published": "2026-08-31T14:08:33+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "From phones and laptops to coffee machines and earbuds, new legislation is making it easier to fix tech products.",
           "image": null,
           "other_news": true
         },
@@ -1664,17 +1574,6 @@
           "language": "en",
           "summary": "High gold prices have fueled illegal mining across the Amazon. As Brazil tightened controls on the trade, criminal groups found another route through",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/28214737/daniela-Guainia-4-2026-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Community programs linked to lower forest loss in Indonesia’s Borneo during COVID-19",
-          "link": "https://news.mongabay.com/2026/08/community-programs-linked-to-lower-forest-loss-in-indonesias-borneo-during-covid-19/",
-          "published": "2026-08-28T02:03:34+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Villages in Indonesia’s West Kalimantan saw less forest loss during the COVID-19 pandemic when conservation groups provided health and livelihood supp",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2021/12/12215106/kalbar_drone_190946a_sungai_utik-768x512.jpg",
           "other_news": true
         }
       ]

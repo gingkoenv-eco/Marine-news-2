@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T17:20:34.435060+00:00",
+  "generated_at": "2026-09-02T11:19:58.403734+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -11,19 +11,6 @@
           "type": "news",
           "language": "en",
           "summary": "With location regulations no longer in force, fishing boats are harvesting thousands of tons of krill from very few areas, increasing competition with",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Species Migration & Habitat Change": [
-        {
-          "title": "Australia has spent 25 years ‘stopping the boats’, but that’s not the same as controlling migration",
-          "link": "https://theconversation.com/australia-has-spent-25-years-stopping-the-boats-but-thats-not-the-same-as-controlling-migration-290532",
-          "published": "2026-08-31T20:07:37+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Asylum seeker policy showed toughness in one small, but highly visible, part of the system while creating room to loosen policy everywhere else.",
           "image": null,
           "other_news": false
         }
@@ -167,17 +154,6 @@
           "summary": "Hottest periods this year in most sea regions would have been ‘virtually impossible’ in a preindustrial climateCarbon pollution has fuelled a “massive",
           "image": "https://i.guim.co.uk/img/media/bd72147bde43ba629cd3212aea27908b6b16b768/453_0_6521_5216/master/6521.jpg?width=140&quality=85&auto=format&fit=max&s=fe26860749de22b65e702614b0ba8e86",
           "other_news": false
-        },
-        {
-          "title": "Failed environmental safeguards leave coastal Bangladesh facing coal pollution",
-          "link": "https://news.mongabay.com/2026/08/failed-environmental-safeguards-leave-coastal-bangladesh-facing-coal-pollution/",
-          "published": "2026-08-28T15:15:19+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Riaz Panchayet used to farm papaya, cucumber, okra and bananas on his land in Madhupur village, located in southern Bangladesh’s coastal Patuakhali di",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/28151048/Payra-Power-Plant_1-768x512.jpg",
-          "other_news": false
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -248,36 +224,14 @@
           "other_news": false
         },
         {
-          "title": "Blue whales are mapping the ocean’s temperature to find food",
-          "link": "https://oceanographicmagazine.com/news/blue-whales-are-mapping-the-oceans-temperature-to-find-food/",
-          "published": "2026-09-01T15:20:29+00:00",
-          "source": "Oceanographic",
+          "title": "Togo cosponsors proposal to review commercial whaling ban",
+          "link": "https://news.mongabay.com/short-article/2026/09/togo-cosponsors-proposal-to-review-commercial-whaling-ban/",
+          "published": "2026-09-01T22:29:40+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Blue whales don't find krill swarms by chance - new research shows they track thermal fronts, narrow bands of sharp temperature change, using a sensor",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Recovery time between global coral bleaching events is shrinking",
-          "link": "https://oceanographicmagazine.com/news/recovery-time-between-global-coral-bleaching-events-is-shrinking/",
-          "published": "2026-09-01T12:08:46+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The largest global coral reef assessment yet finds a 9.5% decline in coral cover since 2009. Australia's reefs remain relatively healthy but face shri",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "2026 on track to be one of deadliest years for West Coast whales",
-          "link": "https://oceanographicmagazine.com/news/2026-on-track-to-be-one-of-deadliest-years-for-west-coast-whales/",
-          "published": "2026-08-27T15:06:20+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "At least 51 whales have died along the West Coast in 2026, with ship strikes and Arctic-driven starvation pushing the year toward becoming the second-",
-          "image": null,
+          "summary": "Togo is cosponsoring a proposal to review commercial whaling quotas, drawing criticism from whale conservation groups. The draft resolution was submit",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/01203305/AustralianCustoms-WhalingInTheSouthernOcean_3-768x512.jpg",
           "other_news": false
         },
         {
@@ -304,28 +258,6 @@
         }
       ],
       "Sustainable Fisheries": [
-        {
-          "title": "Global nutrient imbalance linked to industry exporting local catch from Africa",
-          "link": "https://oceanographicmagazine.com/news/global-nutrient-imbalance-linked-to-industry-exporting-local-catch-from-africa/",
-          "published": "2026-08-26T17:03:58+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Foreign fishing fleets are hauling nutrient-rich fish out of West African waters and shipping it abroad, a new study finds, leaving some of the world'",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Porpoise by-catch recording accidentally captured by researchers",
-          "link": "https://oceanographicmagazine.com/news/porpoise-by-catch-recording-accidentally-captured-by-researchers/",
-          "published": "2026-08-26T13:33:53+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "It’s thought to be the first recording to capture a by-catch event, informing future evidence-based bycatch solutions\nThe post Porpoise by-catch recor",
-          "image": null,
-          "other_news": false
-        },
         {
           "title": "Indigenous rangers pull killer ‘ghost nets’ from Australia’s northern coast",
           "link": "https://news.mongabay.com/2026/08/indigenous-rangers-pull-killer-ghost-nets-from-northern-australias-coast/",
@@ -540,39 +472,6 @@
           "other_news": false
         },
         {
-          "title": "Antarctica’s smallest marine life at risk as melting ice dilutes waters",
-          "link": "https://oceanographicmagazine.com/news/antarcticas-smallest-marine-life-at-risk-as-melting-ice-dilutes-waters/",
-          "published": "2026-08-28T15:49:45+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new study warns that \"freshening\" - falling salt levels driven by melting Antarctic ice - is damaging marine invertebrates' gills and salt regulatio",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Volcanoes and climate change behind Indian-Pacific breakdown",
-          "link": "https://oceanographicmagazine.com/news/volcanoes-and-climate-change-behind-indian-pacific-breakdown/",
-          "published": "2026-08-27T14:20:10+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new WHOI study shows human-caused emissions are driving an unprecedented breakdown in the Indian and Pacific Oceans' climate coupling, using four ce",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Fish catches in Indonesia’s Maluku decline as El Niño develops",
-          "link": "https://oceanographicmagazine.com/news/fish-catches-in-indonesia-s-maluku-decline-as-el-nino-develops/",
-          "published": "2026-08-26T17:27:07+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Fish catches in Indonesia's Maluku Islands have fallen by more than two thirds in two years, as strengthening El Niño conditions make seas too rough f",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "La fonte accélérée des glaces ouvre une nouvelle route commerciale dans l’Arctique",
           "link": "https://www.lemonde.fr/economie/article/2026/09/01/la-fonte-acceleree-des-glaces-ouvre-une-nouvelle-route-commerciale-dans-l-arctique_6763100_3234.html",
           "published": "2026-09-01T06:00:06+02:00",
@@ -581,6 +480,17 @@
           "language": "fr",
           "summary": "Un porte-conteneurs chinois a inauguré la première ligne maritime régulière Asie-Europe passant par le cercle polaire. Cette nouvelle route permet de",
           "image": "https://img.lemde.fr/2026/08/31/281/0/5074/2537/644/322/60/0/ba544f2_upload-1-2ymv3zfz6u6c-000-c4rf49k.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Before the infinity nets, there was ‘The Pacific Ocean’ – what origin stories focusing on Yayoi Kusama’s mental illness miss about her art",
+          "link": "https://theconversation.com/before-the-infinity-nets-there-was-the-pacific-ocean-what-origin-stories-focusing-on-yayoi-kusamas-mental-illness-miss-about-her-art-290760",
+          "published": "2026-09-01T20:02:40+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Retrospectives on Yayoi Kusama often point to mental illness as the source of her inspiration. But before she made it big, she was a young girl inspir",
+          "image": null,
           "other_news": false
         },
         {
@@ -636,17 +546,6 @@
           "language": "en",
           "summary": "MIAMI (AP) — The National Hurricane Center issued a tropical storm warning on Monday for the Gulf of Mexico coast from the Galveston and Houston, Texa",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/31195157/AP26243562165200-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Global sea surface temperatures reach a record high, again",
-          "link": "https://news.mongabay.com/short-article/2026/08/global-sea-surface-temperatures-reach-a-record-high-again/",
-          "published": "2026-08-28T20:14:06+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Global sea surface temperatures have reached a record high, raising serious concerns for global Earth systems, according to new data released by the E",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/28200510/jan-15-2025-buffering.jpg",
           "other_news": false
         }
       ]
@@ -711,6 +610,17 @@
           "summary": "During troubled talks, fossil fuel-producing nations have pushed for a global pact to tackle only plastic waste rather than reducing the size of the p",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "Biomass cooking fuels raise toxic metal exposure risks in Bangladesh, study finds",
+          "link": "https://news.mongabay.com/short-article/2026/09/biomass-cooking-fuels-raise-toxic-metal-exposure-risks-in-bangladesh-study-finds/",
+          "published": "2026-09-01T17:20:37+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Burning biomass fuels like dry wood and rice husk for cooking can produce air pollution and contribute to toxic heavy metals buildup inside rural kitc",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/01171501/Cooking_rice-768x512.jpg",
+          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -759,6 +669,30 @@
           "other_news": true
         }
       ],
+      "Nature-Based Solutions & Restoration": [
+        {
+          "title": "Rooting tree seed production in local knowledge boosts forest restoration outcomes (commentary)",
+          "link": "https://news.mongabay.com/2026/09/rooting-tree-seed-production-in-local-knowledge-boosts-forest-restoration-outcomes-commentary/",
+          "published": "2026-09-01T20:25:13+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Since the launch of global restoration initiatives such as the U.N. Decade on Ecosystem Restoration (2021-2030), large-scale tree planting has become",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/01200434/Selumo_planting_2-e1788293106470-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "South Africa’s new gold rush: Spekboom restoration speeds up, but it’s a bumpy road, insiders report",
+          "link": "https://news.mongabay.com/2026/09/south-africas-new-gold-rush-spekboom-restoration-speeds-up-but-its-a-bumpy-road-insiders-report/",
+          "published": "2026-09-01T19:09:33+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "This is the second article in Mongabay&#8217;s three-part investigation of spekboom-led ecosystem restoration in South Africa. It is part of an award-",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/01170242/a.-3-planting-hive-IMG_3143-768x512.jpg",
+          "other_news": true
+        }
+      ],
       "Marine Protected Areas & Policy": [
         {
           "title": "Small businesses at the gateways to America’s national parks face 4 big risks – including changing boundaries and extreme weather",
@@ -790,17 +724,6 @@
           "type": "news",
           "language": "en",
           "summary": "Public interest technology ensures that public policies are implemented in ways that change people’s lives.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Trump’s geopolitical aims, not economics, are behind his trade hostility towards Canada",
-          "link": "https://theconversation.com/trumps-geopolitical-aims-not-economics-are-behind-his-trade-hostility-towards-canada-290665",
-          "published": "2026-08-31T19:28:13+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "A seismic shift in American geopolitics explains the breakdown in U.S.-Canada trade relations. Understanding U.S. policy is critical as Canada faces s",
           "image": null,
           "other_news": true
         }
@@ -1170,6 +1093,28 @@
           "other_news": true
         },
         {
+          "title": "Keeping to 1.5C of warming is no longer possible – but we must still limit the overshoot",
+          "link": "https://www.climatechangenews.com/2026/09/02/keeping-to-1-5c-of-warming-is-no-longer-possible-but-we-must-still-limit-the-overshoot/",
+          "published": "2026-09-02T09:15:59+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "We need a strategy for navigating the huge risks to ecosystems and societies\nThe post Keeping to 1.5C of warming is no longer possible &#8211; but we",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "UN sets out narrow path back to 1.5C warming after inevitable overshoot",
+          "link": "https://www.climatechangenews.com/2026/09/02/un-sets-out-narrow-path-back-to-1-5c-warming-after-inevitable-overshoot/",
+          "published": "2026-09-02T04:15:00+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Leading scientists say warming must peak at 1.8C to be able to reverse course this century, but current government climate policies are way off track",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "India needs climate adaptation cash to be an investment, not a quick fix",
           "link": "https://www.climatechangenews.com/2026/08/31/india-needs-climate-adaptation-cash-to-be-an-investment-not-a-quick-fix/",
           "published": "2026-08-31T07:48:04+00:00",
@@ -1357,14 +1302,14 @@
           "other_news": true
         },
         {
-          "title": "Egypt seeks to unlock renewable potential to power regional clean energy hub",
-          "link": "https://www.climatechangenews.com/2026/08/03/egypt-seeks-to-unlock-renewable-riches-to-power-regional-clean-energy-hub/",
-          "published": "2026-08-03T10:14:16+00:00",
-          "source": "Climate change news",
+          "title": "Pesticides : environ 46 % des agriculteurs empoisonnés chaque année dans le monde",
+          "link": "https://reporterre.net/Pesticides-environ-46-des-agriculteurs-empoisonnes-chaque-annee-dans-le-monde",
+          "published": "2026-09-02T10:53:53+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Europe is investing in Egypt’s bid to position itself as a clean electricity exporter to reduce its emissions and generate a new source of income\nThe",
-          "image": null,
+          "language": "fr",
+          "summary": "Une étude commandée par le réseau Pesticide Action Network, relayée par The Guardian le 2 septembre, révèle qu'entre 402 et 433",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20240406__34mt6w8__v2__highres__burkinaagriculturestrawberries_1_-0140e.jpg?1788346435",
           "other_news": true
         },
         {
@@ -1445,14 +1390,47 @@
           "other_news": true
         },
         {
-          "title": "Avec leurs vidéos, deux frères dynamisent une lutte contre du gaz naturel liquéfié",
-          "link": "https://reporterre.net/Des-videos-TikTok-contre-une-multinationale-deux-freres-boostent-une-lutte-contre-un-projet-gazier",
-          "published": "2026-08-25T13:46:53+00:00",
-          "source": "Reporterre",
+          "title": "« Réduire la vulnérabilité ou l’exposition, telle est la question de l’adaptation au changement climatique »",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/02/reduire-la-vulnerabilite-ou-l-exposition-telle-est-la-question-de-l-adaptation-au-changement-climatique_6764368_3232.html",
+          "published": "2026-09-02T12:30:07+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "À Reichstett (Bas-Rhin), Colin et Brice Johner se battent contre un projet de stockage de gaz naturel liquéfié porté par Tepsa.",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/design_sans_titre_7_-3-e7d3b.jpg?1787665614",
+          "summary": "Trop investir dans la protection des territoires menacés risque, à terme, de rendre économiquement et politiquement difficile le déplacement des popul",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/dc0e248_upload-1-6oyyppysqvd6-frame-807.jpg",
+          "other_news": true
+        },
+        {
+          "title": "« Nos responsables politiques continuent à traiter le dérèglement climatique comme une succession de crises »",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/02/nos-responsables-politiques-continuent-a-traiter-le-dereglement-climatique-comme-une-succession-de-crises_6764145_3232.html",
+          "published": "2026-09-02T09:00:03+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Face aux feux de forêt, indemniser et reconstruire ne suffit plus, car le réchauffement climatique atteint notre capacité à nous nourrir, à nous loger",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/dc0e248_upload-1-6oyyppysqvd6-frame-807.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Le réseau électrique européen face aux menaces de sabotage et de cyberattaques : « Le scénario du pire n’a rien d’inéluctable, mais il faut s’y préparer »",
+          "link": "https://www.lemonde.fr/economie/article/2026/09/02/le-reseau-electrique-europeen-face-aux-menaces-de-sabotage-et-de-cyberattaques-le-scenario-du-pire-n-a-rien-d-ineluctable-mais-il-faut-s-y-preparer_6763909_3234.html",
+          "published": "2026-09-02T06:30:04+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans un contexte de conflictualité croissante avec la Russie, le risque d’un black-out majeur en Europe est pris au sérieux. La France veut organiser",
+          "image": "https://img.lemde.fr/2026/09/01/555/0/5636/2818/644/322/60/0/82d6037_upload-1-tzajg7zbz3ud-gettyimages-2279874258.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Le monde devra tout faire pour revenir sous le seuil de 1,5 °C de réchauffement après l’avoir dépassé, avertit l’ONU",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/02/le-monde-devra-tout-faire-pour-revenir-sous-le-seuil-de-1-5-c-de-rechauffement-apres-l-avoir-depasse-avertit-l-onu_6763865_3244.html",
+          "published": "2026-09-02T06:00:05+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le Programme des Nations unies pour l’environnement prend acte du dépassement prochain de l’objectif le plus ambitieux de l’accord de Paris, et dessin",
+          "image": "https://img.lemde.fr/2026/09/01/380/0/5391/2695/644/322/60/0/6a0acf9_upload-1-k4xfapjb7bxc-063-2293064883.jpg",
           "other_news": true
         },
         {
@@ -1478,17 +1456,6 @@
           "other_news": true
         },
         {
-          "title": "« Pour financer la transition énergétique, la France a un droit économique parmi les plus sophistiqués du monde qu’elle n’exploite pas assez »",
-          "link": "https://www.lemonde.fr/idees/article/2026/08/31/pour-financer-la-transition-energetique-la-france-a-un-droit-economique-parmi-les-plus-sophistiques-du-monde-qu-elle-n-exploite-pas-assez_6762610_3232.html",
-          "published": "2026-08-31T18:30:07+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Pour le juriste Fabien Bottini, la sortie des énergies fossiles est plus une question de lois que de volonté politique. Il appelle, dans une tribune a",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/7fc7f10_upload-1-8zvvoygjijdx-frame-774.jpg",
-          "other_news": true
-        },
-        {
           "title": "Près de Lyon, ils apprennent à construire leur maison en paille et en bois : «C’est un choix politique, qui allie écologie et économie»",
           "link": "https://vert.eco/energie/pres-de-lyon-ils-apprennent-a-construire-leur-maison-en-paille-et-en-bois-cest-un-choix-politique-qui-allie-ecologie-et-economie/",
           "published": "2026-08-28T04:00:00+00:00",
@@ -1500,13 +1467,35 @@
           "other_news": true
         },
         {
-          "title": "Après un été brûlant, la rentrée s’annonce chaude : tour d’horizon des principales manifestations pour le climat et l’écologie",
-          "link": "https://vert.eco/rapports-de-force/apres-un-ete-brulant-la-rentree-sannonce-chaude-tour-dhorizon-des-principales-manifestations-pour-le-climat-et-lecologie/",
-          "published": "2026-08-27T04:00:00+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Australia’s economy grows by 2.1%, but people’s living standards aren’t keeping pace",
+          "link": "https://theconversation.com/australias-economy-grows-by-2-1-but-peoples-living-standards-arent-keeping-pace-290822",
+          "published": "2026-09-02T04:22:34+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "La rentrée signe le retour des mobilisations partout en France. Associations, collectifs et syndicats réclament davantage de moyens pour s’adapter au",
+          "language": "en",
+          "summary": "The growth figures for June beat expectations – helped in part by record EV sales. But on a per-person basis, the economy is not doing so well.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "A landmark UN report says the world will overshoot the 1.5°C climate target. What happens now?",
+          "link": "https://theconversation.com/a-landmark-un-report-says-the-world-will-overshoot-the-1-5-c-climate-target-what-happens-now-290818",
+          "published": "2026-09-02T04:03:34+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "It’s no longer possible to hold climate change to 1.5. But it’s not game over – it’s game on.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Clear-cut logging is making floods worse. But it’s not just about how many trees are cut",
+          "link": "https://theconversation.com/clear-cut-logging-is-making-floods-worse-but-its-not-just-about-how-many-trees-are-cut-289955",
+          "published": "2026-09-01T17:57:57+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The proportion of a watershed that is logged isn’t the only factor that determines flood risk. The landscape and climate matter too.",
           "image": null,
           "other_news": true
         },
@@ -1522,14 +1511,14 @@
           "other_news": true
         },
         {
-          "title": "Some of Australia’s biggest companies are planning for an unbearable climate future",
-          "link": "https://theconversation.com/some-of-australias-biggest-companies-are-planning-for-an-unbearable-climate-future-290234",
-          "published": "2026-08-31T20:08:05+00:00",
-          "source": "The Conversation",
+          "title": "Christiana Figueres & Garik Israelian on Jane Goodall’s legacy and the search for truth",
+          "link": "https://news.mongabay.com/podcast/2026/09/christiana-figueres-garik-israelian-on-jane-goodalls-legacy-and-the-search-for-truth/",
+          "published": "2026-09-01T20:06:45+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Making sure big companies do their bit to reduce emissions is essential for Australia to meet its climate targets.",
-          "image": null,
+          "summary": "A new award has been created in honor of late conservation icon Jane Goodall by the board of the Starmus Festival, an international gathering of scien",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/24033630/amazon_200949-e1787890850428-768x512.jpg",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T12:08:29.000114+00:00",
+  "generated_at": "2026-09-02T16:34:52.586798+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -191,6 +191,17 @@
           "other_news": false
         },
         {
+          "title": "Using a radar satellite to track emperor penguins in winter is changing our understanding of the species",
+          "link": "https://theconversation.com/using-a-radar-satellite-to-track-emperor-penguins-in-winter-is-changing-our-understanding-of-the-species-290966",
+          "published": "2026-09-02T14:22:32+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "A breakthrough has helped researchers track down penguins living in the dark.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Narwhals are helping scientists map warm water hidden in Greenland’s fjords",
           "link": "https://theconversation.com/narwhals-are-helping-scientists-map-warm-water-hidden-in-greenlands-fjords-290545",
           "published": "2026-08-26T18:01:07+00:00",
@@ -257,6 +268,17 @@
           "other_news": false
         },
         {
+          "title": "Damselfish-assisted repair of wounded corals surprises scientists",
+          "link": "https://news.mongabay.com/2026/09/damselfish-assisted-repair-of-wounded-corals-surprises-scientists/",
+          "published": "2026-09-02T12:36:01+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Corals share a close bond with the fish dwelling among them and the algae living within them. According to a new study, that relationship could be eve",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02091808/Damselfish-closeup-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Togo cosponsors proposal to review commercial whaling ban",
           "link": "https://news.mongabay.com/short-article/2026/09/togo-cosponsors-proposal-to-review-commercial-whaling-ban/",
           "published": "2026-09-01T22:29:40+00:00",
@@ -277,42 +299,9 @@
           "summary": "ArtReef Rocks was an up-and-coming online shop offering aquarium accessories that made waves during the COVID-19 pandemic, offering hobbyists custom r",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/31165539/aa.-%C2%A9Georgia-Aquarium-Euphyllia-sp.-SS16-1-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Scientists use satellites to track whale strandings in remote places from space",
-          "link": "https://news.mongabay.com/2026/08/scientists-use-satellites-to-track-whale-strandings-in-remote-places-from-space/",
-          "published": "2026-08-31T13:33:25+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In 2015, the remote coastal fjords of southern Patagonia turned into a whale graveyard. That June, scientists found 337 dead and decomposing sei whale",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/31114533/1-Dead-sei-whales-Balaenoptera-borealis-768x512.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
-        {
-          "title": "Global nutrient imbalance linked to industry exporting local catch from Africa",
-          "link": "https://oceanographicmagazine.com/news/global-nutrient-imbalance-linked-to-industry-exporting-local-catch-from-africa/",
-          "published": "2026-08-26T17:03:58+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Foreign fishing fleets are hauling nutrient-rich fish out of West African waters and shipping it abroad, a new study finds, leaving some of the world'",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Porpoise by-catch recording accidentally captured by researchers",
-          "link": "https://oceanographicmagazine.com/news/porpoise-by-catch-recording-accidentally-captured-by-researchers/",
-          "published": "2026-08-26T13:33:53+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "It’s thought to be the first recording to capture a by-catch event, informing future evidence-based bycatch solutions\nThe post Porpoise by-catch recor",
-          "image": null,
-          "other_news": false
-        },
         {
           "title": "Indigenous rangers pull killer ‘ghost nets’ from Australia’s northern coast",
           "link": "https://news.mongabay.com/2026/08/indigenous-rangers-pull-killer-ghost-nets-from-northern-australias-coast/",
@@ -516,14 +505,25 @@
           "other_news": false
         },
         {
-          "title": "Les dauphins du Marineland n'iront pas à Beauval qui renonce à son projet de delphinarium",
-          "link": "https://reporterre.net/Le-zoo-de-Beauval-abandonne-son-projet-de-Delphinarium",
-          "published": "2026-08-25T15:11:24+00:00",
-          "source": "Reporterre",
+          "title": "Rare photo of octopus hitching a ride on dolphin",
+          "link": "https://oceanographicmagazine.com/news/rare-photo-of-octopus-hitching-a-ride-on-dolphin/",
+          "published": "2026-09-02T14:10:57+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "language": "fr",
-          "summary": "Les dauphins du Marineland d'Antibes n'iront finalement pas au zoo de Beauval, a annoncé le 25 août son directeur Rodolphe Delor",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20251127__86dg7we__v1__highres__franceparkanimals-591b7.jpg?1787670698",
+          "language": "en",
+          "summary": "Researchers say the image offers a rare glimpse into UK’s shifting ecosystems, as warmer waters bring octopus blooms, and new feeding activities.\nThe",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Trawling threatens huge carbon stores in Scotland’s iconic lochs",
+          "link": "https://oceanographicmagazine.com/news/trawling-threatens-huge-carbon-stores-in-scotlands-iconic-lochs/",
+          "published": "2026-09-02T14:08:55+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Campaigners have called on ministers to urgently act to protect Scotland's sea lochs' seabeds from carbon disturbance\nThe post Trawling threatens huge",
+          "image": null,
           "other_news": false
         },
         {
@@ -546,28 +546,6 @@
           "language": "en",
           "summary": "A new WHOI study shows human-caused emissions are driving an unprecedented breakdown in the Indian and Pacific Oceans' climate coupling, using four ce",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Fish catches in Indonesia’s Maluku decline as El Niño develops",
-          "link": "https://oceanographicmagazine.com/news/fish-catches-in-indonesia-s-maluku-decline-as-el-nino-develops/",
-          "published": "2026-08-26T17:27:07+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Fish catches in Indonesia's Maluku Islands have fallen by more than two thirds in two years, as strengthening El Niño conditions make seas too rough f",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "La fonte accélérée des glaces ouvre une nouvelle route commerciale dans l’Arctique",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/01/la-fonte-acceleree-des-glaces-ouvre-une-nouvelle-route-commerciale-dans-l-arctique_6763100_3234.html",
-          "published": "2026-09-01T06:00:06+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Un porte-conteneurs chinois a inauguré la première ligne maritime régulière Asie-Europe passant par le cercle polaire. Cette nouvelle route permet de",
-          "image": "https://img.lemde.fr/2026/08/31/281/0/5074/2537/644/322/60/0/ba544f2_upload-1-2ymv3zfz6u6c-000-c4rf49k.jpg",
           "other_news": false
         },
         {
@@ -638,21 +616,7 @@
         }
       ]
     },
-    "To Watch / Read / Listen": {
-      "Other Marine News": [
-        {
-          "title": "‘You can’t protect what you don’t know:’ Interview with marine scientist Loyiso Dunga",
-          "link": "https://news.mongabay.com/2026/08/you-cant-protect-what-you-dont-know-interview-with-marine-scientist-loyiso-dunga/",
-          "published": "2026-08-31T08:00:48+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "CAPE TOWN — When scientist Loyiso Dunga began mapping the Great African Seaforest in 2016, he decided to go snorkeling. The South African section of t",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/28125637/3_Mapping_Loyiso-768x512.png",
-          "other_news": false
-        }
-      ]
-    },
+    "To Watch / Read / Listen": {},
     "Other News": {
       "Plastic & Ocean Pollution": [
         {
@@ -696,6 +660,17 @@
           "type": "news",
           "language": "en",
           "summary": "During troubled talks, fossil fuel-producing nations have pushed for a global pact to tackle only plastic waste rather than reducing the size of the p",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Un «signal important» : poursuivie pour écocide, l’entreprise Locacil condamnée à remettre en état les sites qu’elle a pollués",
+          "link": "https://vert.eco/rapports-de-force/un-signal-important-poursuivie-pour-ecocide-lentreprise-locacil-condamnee-a-remettre-en-etat-les-sites-quelle-a-pollues/",
+          "published": "2026-09-02T15:30:56+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Cette société alsacienne spécialisée dans le recyclage de câbles en plastique a été condamnée pour pollution par le tribunal correctionnel de Strasbou",
           "image": null,
           "other_news": true
         },
@@ -783,25 +758,14 @@
           "other_news": true
         },
         {
-          "title": "How 1,200 Saskatchewan teachers have experienced the province’s pronoun policy",
-          "link": "https://theconversation.com/how-1-200-saskatchewan-teachers-have-experienced-the-provinces-pronoun-policy-289675",
-          "published": "2026-09-01T16:17:11+00:00",
-          "source": "The Conversation",
+          "title": "Nepal’s flood disaster puts its hydropower-first strategy, exports to the test",
+          "link": "https://news.mongabay.com/2026/09/nepals-flood-disaster-puts-its-hydropower-first-strategy-exports-to-the-test/",
+          "published": "2026-09-02T16:12:52+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Regardless of where they stand on the policy itself, many educators say Saskatchewan’s pronoun policy has diverted attention from other pressing chall",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "What is public interest technology? An expert on data and policy explains how it helps people in need",
-          "link": "https://theconversation.com/what-is-public-interest-technology-an-expert-on-data-and-policy-explains-how-it-helps-people-in-need-287761",
-          "published": "2026-09-01T12:05:54+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Public interest technology ensures that public policies are implemented in ways that change people’s lives.",
-          "image": null,
+          "summary": "KATHMANDU — Nepal&#8217;s long-held policy of harnessing hydroelectricity and using it for economic growth has met new challenges: potential catastrop",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02160152/nepal-flood-2026-2-768x512.jpg",
           "other_news": true
         }
       ],
@@ -815,6 +779,28 @@
           "language": "en",
           "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ef/live/040d5720-a453-11f1-b109-879e35c24276.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Pourquoi la transition écologique est-elle si difficile à gouverner ?",
+          "link": "https://theconversation.com/pourquoi-la-transition-ecologique-est-elle-si-difficile-a-gouverner-288778",
+          "published": "2026-09-02T14:04:49+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les actions mises en place pour faire face au changement climatique restent insuffisantes. Il est tentant de pointer le manque de volonté politique po",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Routes, stations de ski, permis de construire : quand les décideurs publics apprennent à dire stop",
+          "link": "https://theconversation.com/routes-stations-de-ski-permis-de-construire-quand-les-decideurs-publics-apprennent-a-dire-stop-285115",
+          "published": "2026-09-02T14:03:29+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Face au changement climatique, collectivités et pouvoirs publics commencent à renoncer à certains projets et infrastructures. Une évolution discrète q",
+          "image": null,
           "other_news": true
         },
         {
@@ -1001,17 +987,6 @@
           "type": "news",
           "language": "en",
           "summary": "Data beats greenwashing. How a simple QR code connects you to a massive European database that exposes fake sustainability claims in seconds.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Wildfires and a summer of extreme heat mean Andy Burnham can’t stay quiet on climate any longer",
-          "link": "https://theconversation.com/wildfires-and-a-summer-of-extreme-heat-mean-andy-burnham-cant-stay-quiet-on-climate-any-longer-288465",
-          "published": "2026-08-19T16:04:12+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "The new prime minister may find that UK-China relations hold some answers to the climate challenge.",
           "image": null,
           "other_news": true
         },
@@ -1456,14 +1431,36 @@
           "other_news": true
         },
         {
-          "title": "La guerre par les flammes : Israël brûle forêts et vergers au Sud-Liban",
-          "link": "https://reporterre.net/Vers-un-effondrement-des-ecosystemes-au-Liban-Israel-brule-forets-et-vergers-Israel",
-          "published": "2026-08-25T15:47:32+00:00",
-          "source": "Reporterre",
+          "title": "Earth set to blow past 1.5°C – but window of opportunity is still open",
+          "link": "https://oceanographicmagazine.com/news/earth-set-to-blow-past-1-5-c-but-window-of-opportunity-is-still-open/",
+          "published": "2026-09-02T13:08:22+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new UNEP report finds the world will likely breach 1.5°C within years, but a rapid \"overshoot, peak, and decline\" pathway - steep emissions cuts plu",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Changement climatique : « Les menaces à venir renforcent la peur du déclassement et les stratégies d’ascension sociale individuelles »",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/02/changement-climatique-les-menaces-a-venir-renforcent-la-peur-du-declassement-et-les-strategies-d-ascension-sociale-individuelles_6764465_3232.html",
+          "published": "2026-09-02T17:00:12+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "En plein cessez-le-feu, l'armée israélienne continue de bombarder le Liban, menaçant les écosystèmes d'un effondrement irréversi",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/alma_al_chaab_25_small_28.10_23_pernot-1c467.jpg?1787672856",
+          "summary": "Les chocs climatiques comme les incendies ne changent pas nécessairement les modes de vie, rappelle l’historienne Béatrice Cherrier dans sa chronique",
+          "image": "https://img.lemde.fr/2026/08/24/1040/0/6240/3120/644/322/60/0/bacc618_upload-1-7q7mog75wnix-36-le-porge-apres-hlequeux-dsc1135.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Présidentielle 2027 : Bruno Retailleau, une approche très libérale du dérèglement climatique",
+          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/02/presidentielle-2027-bruno-retailleau-defend-des-solutions-issues-du-progres-technologique-pour-lutter-contre-le-dereglement-climatique_6764452_4355770.html",
+          "published": "2026-09-02T16:00:08+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "« Les candidats et le climat ». Le président du parti Les Républicains dénonce des « normes paralysantes » qui empêchent l’adaptation au changement cl",
+          "image": "https://img.lemde.fr/2026/06/22/166/0/6048/3024/644/322/60/0/e9040fd_ftp-1-m9w133qvpk23-5406287-01-06.jpg",
           "other_news": true
         },
         {
@@ -1544,6 +1541,17 @@
           "other_news": true
         },
         {
+          "title": "Ancient fossil from China reveals animal-microbe partnerships dating back 550 million years",
+          "link": "https://theconversation.com/ancient-fossil-from-china-reveals-animal-microbe-partnerships-dating-back-550-million-years-290017",
+          "published": "2026-09-02T15:45:31+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A sulfur-oxidizing bacteria may have turned a hostile environment into an ecological opportunity for the ancient conotubus organism.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Australia’s economy grows by 2.1%, but people’s living standards aren’t keeping pace",
           "link": "https://theconversation.com/australias-economy-grows-by-2-1-but-peoples-living-standards-arent-keeping-pace-290822",
           "published": "2026-09-02T04:22:34+00:00",
@@ -1577,14 +1585,25 @@
           "other_news": true
         },
         {
-          "title": "How algorithms are making our environments bland",
-          "link": "https://theconversation.com/how-algorithms-are-making-our-environments-bland-289917",
-          "published": "2026-09-01T14:00:05+00:00",
-          "source": "The Conversation",
+          "title": "Philippines fast-tracks critical minerals, raising Indigenous, environmental concerns",
+          "link": "https://news.mongabay.com/2026/09/philippines-fast-tracks-critical-minerals-raising-indigenous-environmental-concerns/",
+          "published": "2026-09-02T16:01:32+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Griege is dominating our landscape along with cookie-cutter design.",
-          "image": null,
+          "summary": "The Philippines is moving to accelerate critical-mineral development across millions of hectares of land, raising concerns that expanded mining and fa",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02140321/8166319417_53fda9a02a_o-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Global warming will exceed limit, UN says in a report that maps path to get back below danger zone",
+          "link": "https://news.mongabay.com/short-article/2026/09/global-warming-will-exceed-limit-un-says-in-a-report-that-maps-path-to-get-back-below-danger-zone/",
+          "published": "2026-09-02T15:54:13+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In a strategic retreat, the United Nations concedes that Earth has lost its chance to prevent some of the worst impacts of global warming. A report re",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02155119/AP26241239660711-768x512.jpg",
           "other_news": true
         },
         {

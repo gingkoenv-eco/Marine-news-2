@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:19:58.403734+00:00",
+  "generated_at": "2026-09-02T12:08:29.000114+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -224,6 +224,39 @@
           "other_news": false
         },
         {
+          "title": "Blue whales are mapping the ocean’s temperature to find food",
+          "link": "https://oceanographicmagazine.com/news/blue-whales-are-mapping-the-oceans-temperature-to-find-food/",
+          "published": "2026-09-01T15:20:29+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Blue whales don't find krill swarms by chance - new research shows they track thermal fronts, narrow bands of sharp temperature change, using a sensor",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Recovery time between global coral bleaching events is shrinking",
+          "link": "https://oceanographicmagazine.com/news/recovery-time-between-global-coral-bleaching-events-is-shrinking/",
+          "published": "2026-09-01T12:08:46+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The largest global coral reef assessment yet finds a 9.5% decline in coral cover since 2009. Australia's reefs remain relatively healthy but face shri",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "2026 on track to be one of deadliest years for West Coast whales",
+          "link": "https://oceanographicmagazine.com/news/2026-on-track-to-be-one-of-deadliest-years-for-west-coast-whales/",
+          "published": "2026-08-27T15:06:20+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "At least 51 whales have died along the West Coast in 2026, with ship strikes and Arctic-driven starvation pushing the year toward becoming the second-",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Togo cosponsors proposal to review commercial whaling ban",
           "link": "https://news.mongabay.com/short-article/2026/09/togo-cosponsors-proposal-to-review-commercial-whaling-ban/",
           "published": "2026-09-01T22:29:40+00:00",
@@ -258,6 +291,28 @@
         }
       ],
       "Sustainable Fisheries": [
+        {
+          "title": "Global nutrient imbalance linked to industry exporting local catch from Africa",
+          "link": "https://oceanographicmagazine.com/news/global-nutrient-imbalance-linked-to-industry-exporting-local-catch-from-africa/",
+          "published": "2026-08-26T17:03:58+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Foreign fishing fleets are hauling nutrient-rich fish out of West African waters and shipping it abroad, a new study finds, leaving some of the world'",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Porpoise by-catch recording accidentally captured by researchers",
+          "link": "https://oceanographicmagazine.com/news/porpoise-by-catch-recording-accidentally-captured-by-researchers/",
+          "published": "2026-08-26T13:33:53+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "It’s thought to be the first recording to capture a by-catch event, informing future evidence-based bycatch solutions\nThe post Porpoise by-catch recor",
+          "image": null,
+          "other_news": false
+        },
         {
           "title": "Indigenous rangers pull killer ‘ghost nets’ from Australia’s northern coast",
           "link": "https://news.mongabay.com/2026/08/indigenous-rangers-pull-killer-ghost-nets-from-northern-australias-coast/",
@@ -472,6 +527,39 @@
           "other_news": false
         },
         {
+          "title": "Antarctica’s smallest marine life at risk as melting ice dilutes waters",
+          "link": "https://oceanographicmagazine.com/news/antarcticas-smallest-marine-life-at-risk-as-melting-ice-dilutes-waters/",
+          "published": "2026-08-28T15:49:45+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new study warns that \"freshening\" - falling salt levels driven by melting Antarctic ice - is damaging marine invertebrates' gills and salt regulatio",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Volcanoes and climate change behind Indian-Pacific breakdown",
+          "link": "https://oceanographicmagazine.com/news/volcanoes-and-climate-change-behind-indian-pacific-breakdown/",
+          "published": "2026-08-27T14:20:10+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new WHOI study shows human-caused emissions are driving an unprecedented breakdown in the Indian and Pacific Oceans' climate coupling, using four ce",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Fish catches in Indonesia’s Maluku decline as El Niño develops",
+          "link": "https://oceanographicmagazine.com/news/fish-catches-in-indonesia-s-maluku-decline-as-el-nino-develops/",
+          "published": "2026-08-26T17:27:07+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Fish catches in Indonesia's Maluku Islands have fallen by more than two thirds in two years, as strengthening El Niño conditions make seas too rough f",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "La fonte accélérée des glaces ouvre une nouvelle route commerciale dans l’Arctique",
           "link": "https://www.lemonde.fr/economie/article/2026/09/01/la-fonte-acceleree-des-glaces-ouvre-une-nouvelle-route-commerciale-dans-l-arctique_6763100_3234.html",
           "published": "2026-09-01T06:00:06+02:00",
@@ -633,17 +721,6 @@
           "language": "en",
           "summary": "A wildlife trust says unusually hot weather and increased monitoring has led to interesting finds.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/551b/live/c7f237d0-a158-11f1-92f3-2381193e5eb4.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Extreme drought is changing Britain’s wildlife – and some effects won’t be seen until next year",
-          "link": "https://theconversation.com/extreme-drought-is-changing-britains-wildlife-and-some-effects-wont-be-seen-until-next-year-289419",
-          "published": "2026-08-19T15:04:45+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Britain’s native species are adapted to a cool, wet climate. This summer is putting them under strain.",
-          "image": null,
           "other_news": true
         },
         {

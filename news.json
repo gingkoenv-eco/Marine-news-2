@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T16:34:52.586798+00:00",
+  "generated_at": "2026-09-02T17:11:37.744986+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -231,39 +231,6 @@
           "type": "news",
           "language": "en",
           "summary": "A fish-finding expedition not only detects unexpected species but also uncovers a living link to Missouri’s geological past.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Blue whales are mapping the ocean’s temperature to find food",
-          "link": "https://oceanographicmagazine.com/news/blue-whales-are-mapping-the-oceans-temperature-to-find-food/",
-          "published": "2026-09-01T15:20:29+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Blue whales don't find krill swarms by chance - new research shows they track thermal fronts, narrow bands of sharp temperature change, using a sensor",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Recovery time between global coral bleaching events is shrinking",
-          "link": "https://oceanographicmagazine.com/news/recovery-time-between-global-coral-bleaching-events-is-shrinking/",
-          "published": "2026-09-01T12:08:46+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The largest global coral reef assessment yet finds a 9.5% decline in coral cover since 2009. Australia's reefs remain relatively healthy but face shri",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "2026 on track to be one of deadliest years for West Coast whales",
-          "link": "https://oceanographicmagazine.com/news/2026-on-track-to-be-one-of-deadliest-years-for-west-coast-whales/",
-          "published": "2026-08-27T15:06:20+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "At least 51 whales have died along the West Coast in 2026, with ship strikes and Arctic-driven starvation pushing the year toward becoming the second-",
           "image": null,
           "other_news": false
         },
@@ -502,50 +469,6 @@
           "language": "fr",
           "summary": "En fin d'été, le Parc national des calanques a poussé un coup de gueule. « Voici l'état de l'arrière-plage à En-Vau en ce mois d",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/screenshot_2026-08-28_at_14-23-26_instagram-5177a.jpg?1787919996",
-          "other_news": false
-        },
-        {
-          "title": "Rare photo of octopus hitching a ride on dolphin",
-          "link": "https://oceanographicmagazine.com/news/rare-photo-of-octopus-hitching-a-ride-on-dolphin/",
-          "published": "2026-09-02T14:10:57+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Researchers say the image offers a rare glimpse into UK’s shifting ecosystems, as warmer waters bring octopus blooms, and new feeding activities.\nThe",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Trawling threatens huge carbon stores in Scotland’s iconic lochs",
-          "link": "https://oceanographicmagazine.com/news/trawling-threatens-huge-carbon-stores-in-scotlands-iconic-lochs/",
-          "published": "2026-09-02T14:08:55+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Campaigners have called on ministers to urgently act to protect Scotland's sea lochs' seabeds from carbon disturbance\nThe post Trawling threatens huge",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Antarctica’s smallest marine life at risk as melting ice dilutes waters",
-          "link": "https://oceanographicmagazine.com/news/antarcticas-smallest-marine-life-at-risk-as-melting-ice-dilutes-waters/",
-          "published": "2026-08-28T15:49:45+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new study warns that \"freshening\" - falling salt levels driven by melting Antarctic ice - is damaging marine invertebrates' gills and salt regulatio",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Volcanoes and climate change behind Indian-Pacific breakdown",
-          "link": "https://oceanographicmagazine.com/news/volcanoes-and-climate-change-behind-indian-pacific-breakdown/",
-          "published": "2026-08-27T14:20:10+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new WHOI study shows human-caused emissions are driving an unprecedented breakdown in the Indian and Pacific Oceans' climate coupling, using four ce",
-          "image": null,
           "other_news": false
         },
         {
@@ -1145,6 +1068,17 @@
           "other_news": true
         },
         {
+          "title": "Loss and damage fund urged to hold crisis meeting on Nepal",
+          "link": "https://www.climatechangenews.com/2026/09/02/loss-and-damage-fund-urged-to-hold-crisis-meeting-on-nepal/",
+          "published": "2026-09-02T16:53:55+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "The new fund is coming under pressure from developing nations to respond quickly to climate disasters rather than just financing longer-term projects",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Keeping to 1.5C of warming is no longer possible – but we must still limit the overshoot",
           "link": "https://www.climatechangenews.com/2026/09/02/keeping-to-1-5c-of-warming-is-no-longer-possible-but-we-must-still-limit-the-overshoot/",
           "published": "2026-09-02T09:15:59+00:00",
@@ -1428,17 +1362,6 @@
           "language": "fr",
           "summary": "C'est une lettre avec beaucoup de signataires. Plus de 200 ONG (Greenpeace, WWF, Réseau Action Climat…) et industriels (Eurosola",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260511__2275585514__v3__highres__economyministerreichevisitspckrefinery_1_-61e95.jpg?1787747713",
-          "other_news": true
-        },
-        {
-          "title": "Earth set to blow past 1.5°C – but window of opportunity is still open",
-          "link": "https://oceanographicmagazine.com/news/earth-set-to-blow-past-1-5-c-but-window-of-opportunity-is-still-open/",
-          "published": "2026-09-02T13:08:22+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new UNEP report finds the world will likely breach 1.5°C within years, but a rapid \"overshoot, peak, and decline\" pathway - steep emissions cuts plu",
-          "image": null,
           "other_news": true
         },
         {

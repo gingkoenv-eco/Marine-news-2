@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:25:49.300346+00:00",
+  "generated_at": "2026-09-03T17:03:57.738835+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -338,6 +338,17 @@
       ],
       "Other Marine News": [
         {
+          "title": "Grinding up fish to feed to fish is ‘absurd’: fears over UN fish farm plan",
+          "link": "https://www.theguardian.com/environment/2026/sep/03/un-fish-farms-food-oceans-aquaculture",
+          "published": "2026-09-03T16:59:01+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Huge rollout of farms could harm ecosystems and threaten food sources of vulnerable communities, say expertsNearly half of the world’s wild fish catch",
+          "image": "https://i.guim.co.uk/img/media/b8424e9644df5f51999ac792ca967e12e5611b71/440_0_2781_2225/master/2781.jpg?width=140&quality=85&auto=format&fit=max&s=70061dd5a941bf73a32d64e6743aa0d5",
+          "other_news": false
+        },
+        {
           "title": "Could this humble sea sponge clean up the world’s ports?",
           "link": "https://www.theguardian.com/environment/2026/sep/01/sea-chicken-liver-sponge-filter-pollutants-harbour-spain-costa-brava",
           "published": "2026-09-01T08:00:48+00:00",
@@ -532,17 +543,6 @@
           "type": "news",
           "language": "en",
           "summary": "A new study warns that \"freshening\" - falling salt levels driven by melting Antarctic ice - is damaging marine invertebrates' gills and salt regulatio",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Volcanoes and climate change behind Indian-Pacific breakdown",
-          "link": "https://oceanographicmagazine.com/news/volcanoes-and-climate-change-behind-indian-pacific-breakdown/",
-          "published": "2026-08-27T14:20:10+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new WHOI study shows human-caused emissions are driving an unprecedented breakdown in the Indian and Pacific Oceans' climate coupling, using four ce",
           "image": null,
           "other_news": false
         },
@@ -1330,18 +1330,7 @@
           "other_news": true
         },
         {
-          "title": "Is FOMO undermining climate diplomacy?",
-          "link": "https://www.climatechangenews.com/2026/08/04/is-fomo-undermining-climate-diplomacy/",
-          "published": "2026-08-04T16:55:01+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The negotiating community has not become 20 times larger, but the COP has - and the rising number of participants, from politicians to business execut",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Crues meurtrières : le Népal paie le prix fort d'un chaos climatique dont il n'est pas responsable",
+          "title": "Inondations au Népal : moins de 0,1 % des émissions mondiales, mais des milliers de morts et disparus",
           "link": "https://reporterre.net/Crues-meurtrieres-le-Nepal-paie-le-prix-fort-d-un-chaos-climatique-dont-il-n-est-pas",
           "published": "2026-09-03T14:00:00+00:00",
           "source": "Reporterre",
@@ -1462,14 +1451,14 @@
           "other_news": true
         },
         {
-          "title": "Sécheresse : les petits cours d’eau dans un état de dégradation « exceptionnel », selon l’Office français de la biodiversité",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/02/secheresse-les-petits-cours-d-eau-dans-un-etat-de-degradation-exceptionnel-selon-l-office-francais-de-la-biodiversite_6764532_3244.html",
-          "published": "2026-09-02T20:29:05+02:00",
-          "source": "Le Monde Planète",
+          "title": "L’été 2026 a été le plus chaud jamais mesuré en France : «Ça aurait été quasiment impossible sans le changement climatique»",
+          "link": "https://vert.eco/climat/lete-2026-a-ete-le-plus-chaud-jamais-mesure-en-france-ca-aurait-ete-quasiment-impossible-sans-le-changement-climatique/",
+          "published": "2026-09-03T16:15:49+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Cette dégradation est due au manque de pluie persistant et aux fortes chaleurs quasi ininterrompues depuis la fin du mois de mai, qui ont asséché les",
-          "image": "https://img.lemde.fr/2026/08/10/376/0/3730/1865/644/322/60/0/265987f_ftp-1-g4ddeu83d5r7-5809596-01-06.jpg",
+          "summary": "Avec 24 degrés en moyenne chaque jour (nuits comprises), le territoire hexagonal a connu son été le plus chaud devant 2003 et 2022. Une saison inédite",
+          "image": null,
           "other_news": true
         },
         {

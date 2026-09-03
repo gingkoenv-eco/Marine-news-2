@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T12:08:25.782209+00:00",
+  "generated_at": "2026-09-03T16:25:49.300346+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -92,17 +92,6 @@
           "type": "news",
           "language": "en",
           "summary": "Africa and the EU are leading a push for COP31 to deliver a roadmap that lays out measures to protect fast-warming oceans\nThe post As marine heat brea",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Governments weigh response to US going alone on deep-sea mining",
-          "link": "https://www.climatechangenews.com/2026/08/04/governments-weigh-response-to-us-going-alone-on-deep-sea-mining/",
-          "published": "2026-08-04T12:21:06+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "At annual talks in Kingston, the International Seabed Authority (ISA) launched legal processes to challenge a unilateral US push for deep-sea mining\nT",
           "image": null,
           "other_news": false
         }
@@ -322,6 +311,17 @@
           "language": "en",
           "summary": "Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023The world’s seas were hotter last m",
           "image": "https://i.guim.co.uk/img/media/87c236446ba2900c4c834b9136187c04abcb7a9a/491_0_2916_2334/master/2916.jpg?width=140&quality=85&auto=format&fit=max&s=c0e7a10cf898639ddd8142642505e594",
+          "other_news": false
+        },
+        {
+          "title": "Satellite images show how penguins’ diets are changing in response to Antarctic climate change",
+          "link": "https://theconversation.com/satellite-images-show-how-penguins-diets-are-changing-in-response-to-antarctic-climate-change-289754",
+          "published": "2026-09-03T12:12:24+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "When penguin colonies are surrounded by sea ice, the penguins tend to eat more fish, rather than krill. And colonies that eat more fish are more succe",
+          "image": null,
           "other_news": false
         },
         {
@@ -547,6 +547,17 @@
           "other_news": false
         },
         {
+          "title": "El Niño favorise l’émergence simultanée de trois cyclones dans le Pacifique",
+          "link": "https://www.lemonde.fr/climat/article/2026/09/03/trois-cyclones-simultanes-dans-le-pacifique-un-phenomene-rare-favorise-par-el-nino_6765160_1652612.html",
+          "published": "2026-09-03T15:49:44+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Lowell et Karina sont suivis par la tempête tropicale Marie, située à quelques centaines de kilomètres des côtes mexicaines et qui « devrait devenir u",
+          "image": "https://img.lemde.fr/2026/09/02/375/0/4500/2250/644/322/60/0/4ec21ba_ftp-1-k2tytqci8tgf-79f470002d654224ad0e1f867a16c957-0-fb42d8db38324a42a715ce71461c2d6d.jpg",
+          "other_news": false
+        },
+        {
           "title": "Do Sea Turtles Get Lost?",
           "link": "https://oceanconservancy.org/blog/2026/08/27/do-sea-turtles-get-lost/",
           "published": "2026-08-27T15:58:38+00:00",
@@ -577,17 +588,6 @@
           "language": "en",
           "summary": "On the island of Sumatra, Indonesia, in the buffer zone of a national park, a women-led farming group has come up with a solution to reduce encounters",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/03053019/Foto-3-Rahmi-Carolina-768x512.jpeg",
-          "other_news": false
-        },
-        {
-          "title": "Namibia greenlights controversial project to dredge phosphate from seabed",
-          "link": "https://news.mongabay.com/2026/09/namibia-greenlights-controversial-project-to-dredge-phosphate-from-seabed/",
-          "published": "2026-09-01T11:28:07+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Namibia has granted an environmental clearance to a controversial marine phosphate extraction project. The clearance allows the Sandpiper Project, ope",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/01094118/19393956375_9d683b0734_o-768x512.jpg",
           "other_news": false
         }
       ]
@@ -676,6 +676,17 @@
         }
       ],
       "Nature-Based Solutions & Restoration": [
+        {
+          "title": "South Africa’s new gold rush: Big promises, closed books in new carbon frontier",
+          "link": "https://news.mongabay.com/2026/09/south-africas-new-gold-rush-big-promises-closed-books-in-new-carbon-frontier/",
+          "published": "2026-09-03T16:10:58+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "This is the third article in Mongabay&#8217;s three-part investigation of spekboom-led ecosystem restoration in South Africa. This is part of an award",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02171203/southern-greater-kudu-Tragelaphus-strepsiceros-strepsiceros-768x512.jpg",
+          "other_news": true
+        },
         {
           "title": "Rooting tree seed production in local knowledge boosts forest restoration outcomes (commentary)",
           "link": "https://news.mongabay.com/2026/09/rooting-tree-seed-production-in-local-knowledge-boosts-forest-restoration-outcomes-commentary/",
@@ -824,13 +835,13 @@
           "other_news": true
         },
         {
-          "title": "Comment l’agriculture peut-elle s’adapter aux étés de plus en plus secs ?",
-          "link": "https://theconversation.com/comment-lagriculture-peut-elle-sadapter-aux-etes-de-plus-en-plus-secs-286702",
-          "published": "2026-08-11T14:29:38+00:00",
-          "source": "The Conversation FR",
+          "title": "Why the world can’t agree how to tackle drought",
+          "link": "https://theconversation.com/why-the-world-cant-agree-how-to-tackle-drought-290745",
+          "published": "2026-09-03T12:58:08+00:00",
+          "source": "The Conversation UK",
           "type": "news",
-          "language": "fr",
-          "summary": "Avec le changement climatique, les cultures auront de plus en plus besoin d’eau, mais celle-ci se raréfie dans les nappes phréatiques, les lacs et les",
+          "language": "en",
+          "summary": "Fighting drought and combating desertification are climate obligations.",
           "image": null,
           "other_news": true
         },
@@ -1088,6 +1099,17 @@
           "other_news": true
         },
         {
+          "title": "More support needed to power Africa’s food systems with renewables, experts say",
+          "link": "https://www.climatechangenews.com/2026/09/03/more-support-needed-to-power-africas-food-systems-with-renewables-experts-say/",
+          "published": "2026-09-03T12:50:44+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Renewable energy could help African food businesses boost productivity and competitiveness, but the upfront cost, fragmented markets and limited finan",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "UK’s budget juggling trick with rainforest loan for bus-fare cap needs transparency",
           "link": "https://www.climatechangenews.com/2026/09/03/uks-budget-juggling-trick-with-rainforest-loan-for-bus-fare-cap-needs-transparency/",
           "published": "2026-09-03T08:24:14+00:00",
@@ -1319,6 +1341,28 @@
           "other_news": true
         },
         {
+          "title": "Crues meurtrières : le Népal paie le prix fort d'un chaos climatique dont il n'est pas responsable",
+          "link": "https://reporterre.net/Crues-meurtrieres-le-Nepal-paie-le-prix-fort-d-un-chaos-climatique-dont-il-n-est-pas",
+          "published": "2026-09-03T14:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Au vu de la contribution microscopique du Népal aux émissions mondiales de CO2, la catastrophe climatique qu'il vient de vivre n",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260903__2293319607__v1__highres__nepalflashfloodleaveshundredsdeadandthousand-ad55f.jpg?1788444003",
+          "other_news": true
+        },
+        {
+          "title": "La Politique agricole commune épinglée par la Cour des comptes",
+          "link": "https://reporterre.net/La-Politique-agricole-commune-epinglee-par-la-Cour-des-comptes",
+          "published": "2026-09-03T13:45:22+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "La déclinaison française de la Politique agricole commune (PAC) ne permet pas d'atteindre les objectifs climatiques européens, d",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260708__b9fz8tt__v1__highres__franceagricultureanimalheatwave_1_-1b210.jpg?1788443123",
+          "other_news": true
+        },
+        {
           "title": "Pesticides : environ 46 % des agriculteurs empoisonnés chaque année dans le monde",
           "link": "https://reporterre.net/Pesticides-environ-46-des-agriculteurs-empoisonnes-chaque-annee-dans-le-monde",
           "published": "2026-09-02T10:53:53+00:00",
@@ -1363,28 +1407,6 @@
           "other_news": true
         },
         {
-          "title": "Réchauffement de la Méditerranée : « Les écosystèmes marins se dirigent vers une révolution »",
-          "link": "https://reporterre.net/Le-rechauffement-bouleverse-la-repartition-des-especes-en-Mediterranee",
-          "published": "2026-08-27T06:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le réchauffement de la Méditerranée modifie l'aire de répartition de nombreuses espèces. Une « révolution » des écosystèmes dont",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/poisson-02809.jpg?1787810401",
-          "other_news": true
-        },
-        {
-          "title": "L'éolien et le solaire au secours du système électrique",
-          "link": "https://reporterre.net/Secheresse-et-chaleur-l-eolien-et-le-solaire-au-secours-du-systeme-electrique-Dans-cet",
-          "published": "2026-08-26T15:51:30+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "En cet été caniculaire et sec, ce sont les éoliennes et surtout les panneaux solaires qui ont pallié les vulnérabilités du nuclé",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20211019__hl_ibigougilles_1563885__v1__highres__francewindturbinewithsolarpanel_1_-44ddd.jpg?1787759494",
-          "other_news": true
-        },
-        {
           "title": "Earth set to blow past 1.5°C – but window of opportunity is still open",
           "link": "https://oceanographicmagazine.com/news/earth-set-to-blow-past-1-5-c-but-window-of-opportunity-is-still-open/",
           "published": "2026-09-02T13:08:22+00:00",
@@ -1393,6 +1415,17 @@
           "language": "en",
           "summary": "A new UNEP report finds the world will likely breach 1.5°C within years, but a rapid \"overshoot, peak, and decline\" pathway - steep emissions cuts plu",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Présidentielle 2027 : Raphaël Glucksmann se pose en figure de la « révolution écologique » à gauche",
+          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/03/presidentielle-2027-raphael-glucksmann-se-pose-en-figure-de-la-revolution-ecologique-a-gauche_6765180_4355770.html",
+          "published": "2026-09-03T17:33:56+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "« Les candidats et le climat ». Se présentant comme le « président de la transformation écologique », l’eurodéputé prévoit notamment de faire de la dé",
+          "image": "https://img.lemde.fr/2026/08/23/549/0/6585/3292/644/322/60/0/4bef334_ftp-1-0zq5mzzt9hxq-5906047-01-06.jpg",
           "other_news": true
         },
         {
@@ -1440,39 +1473,6 @@
           "other_news": true
         },
         {
-          "title": "Autoroute A69 : la préfecture du Tarn exige une réduction des émissions dues à la fabrication du revêtement",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/02/autoroute-a69-la-prefecture-du-tarn-exige-une-reduction-des-emissions-dues-a-la-fabrication-du-revetement_6764490_3244.html",
-          "published": "2026-09-02T19:30:49+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le préfet a adressé une mise en demeure au concessionnaire Atosca et lui a donné jusqu’au 17 septembre pour corriger les réglages de la centrale à enr",
-          "image": "https://img.lemde.fr/2025/02/28/437/0/6987/3493/644/322/60/0/234b3c8_ftp-import-images-1-zkx0wc1hyzdk-5174741-01-06.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Changement climatique : « Les menaces à venir renforcent la peur du déclassement et les stratégies d’ascension sociale individuelles »",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/02/changement-climatique-les-menaces-a-venir-renforcent-la-peur-du-declassement-et-les-strategies-d-ascension-sociale-individuelles_6764465_3232.html",
-          "published": "2026-09-02T17:00:12+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les chocs climatiques comme les incendies ne changent pas nécessairement les modes de vie, rappelle l’historienne Béatrice Cherrier dans sa chronique",
-          "image": "https://img.lemde.fr/2026/08/24/1040/0/6240/3120/644/322/60/0/bacc618_upload-1-7q7mog75wnix-36-le-porge-apres-hlequeux-dsc1135.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Présidentielle 2027 : Bruno Retailleau, une approche très libérale du dérèglement climatique",
-          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/02/presidentielle-2027-bruno-retailleau-defend-des-solutions-issues-du-progres-technologique-pour-lutter-contre-le-dereglement-climatique_6764452_4355770.html",
-          "published": "2026-09-02T16:00:08+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "« Les candidats et le climat ». Le président du parti Les Républicains dénonce des « normes paralysantes » qui empêchent l’adaptation au changement cl",
-          "image": "https://img.lemde.fr/2026/06/22/166/0/6048/3024/644/322/60/0/e9040fd_ftp-1-m9w133qvpk23-5406287-01-06.jpg",
-          "other_news": true
-        },
-        {
           "title": "«Il pourrait être le plus puissant jamais observé» : l’Organisation météorologique mondiale alerte sur l’intensité d’El Niño",
           "link": "https://vert.eco/climat/il-pourrait-etre-le-plus-puissant-jamais-observe-lorganisation-meteorologique-mondiale-alerte-sur-lintensite-del-nino/",
           "published": "2026-09-03T10:04:18+00:00",
@@ -1495,14 +1495,14 @@
           "other_news": true
         },
         {
-          "title": "Ancient fossil from China reveals animal-microbe partnerships dating back 550 million years",
-          "link": "https://theconversation.com/ancient-fossil-from-china-reveals-animal-microbe-partnerships-dating-back-550-million-years-290017",
-          "published": "2026-09-02T15:45:31+00:00",
-          "source": "The Conversation",
+          "title": "On renewable energy, it’s time to debunk the ‘transition minerals’ narrative (commentary)",
+          "link": "https://news.mongabay.com/2026/09/on-renewable-energy-its-time-to-debunk-the-transition-minerals-narrative-commentary/",
+          "published": "2026-09-03T15:18:27+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "A sulfur-oxidizing bacteria may have turned a hostile environment into an ecological opportunity for the ancient conotubus organism.",
-          "image": null,
+          "summary": "There is an insidious lie that has taken root in the energy transition narrative pushed by the world’s most powerful financial, political, and environ",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/11/18094245/copper-bearing-ore-768x512.jpg",
           "other_news": true
         },
         {

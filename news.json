@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T17:03:57.738835+00:00",
+  "generated_at": "2026-09-04T11:19:23.103511+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -11,6 +11,17 @@
           "type": "news",
           "language": "en",
           "summary": "With location regulations no longer in force, fishing boats are harvesting thousands of tons of krill from very few areas, increasing competition with",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Dramatic decline in globally significant dugong population",
+          "link": "https://oceanographicmagazine.com/news/dramatic-decline-in-globally-significant-dugong-population/",
+          "published": "2026-09-03T17:05:15+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "An aerial survey found a 50% drop in the dugong population off the coast of Northern Australia, scientists are calling for stricter fishing regulation",
           "image": null,
           "other_news": false
         }
@@ -191,6 +202,17 @@
           "other_news": false
         },
         {
+          "title": "Is a whale fossil the leftovers of a Bronze Age Sunday roast?",
+          "link": "https://www.bbc.co.uk/news/articles/cly4zkpvl4wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-04T05:13:54+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A 10-year-old boy was out looking for fossils along the shore in Islandmagee when he spotted the back of the skull.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a19c/live/eae2b780-a6c9-11f1-ae1e-219da1d6451a.jpg",
+          "other_news": false
+        },
+        {
           "title": "Using a radar satellite to track emperor penguins in winter is changing our understanding of the species",
           "link": "https://theconversation.com/using-a-radar-satellite-to-track-emperor-penguins-in-winter-is-changing-our-understanding-of-the-species-290966",
           "published": "2026-09-02T14:22:32+00:00",
@@ -235,6 +257,28 @@
           "other_news": false
         },
         {
+          "title": "Probiotic treatments help heat-stressed corals survive, field trial finds",
+          "link": "https://oceanographicmagazine.com/news/probiotic-treatments-help-heat-stressed-corals-survive-field-trial-finds/",
+          "published": "2026-09-04T09:16:15+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A 15-day experiment during a real marine heat wave in the Red Sea has shown that both live probiotic and inactivated postbiotic treatments can improve",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Underwater meadows ‘lifeline’ for millions in poverty, study finds",
+          "link": "https://oceanographicmagazine.com/news/underwater-meadows-lifeline-for-millions-in-poverty-study-finds/",
+          "published": "2026-09-04T09:11:44+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "At least 18 million people living in extreme poverty across the Indo-Pacific rely on seagrass meadows to fish with the habitat acting as a safety net",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Blue whales are mapping the ocean’s temperature to find food",
           "link": "https://oceanographicmagazine.com/news/blue-whales-are-mapping-the-oceans-temperature-to-find-food/",
           "published": "2026-09-01T15:20:29+00:00",
@@ -257,14 +301,14 @@
           "other_news": false
         },
         {
-          "title": "2026 on track to be one of deadliest years for West Coast whales",
-          "link": "https://oceanographicmagazine.com/news/2026-on-track-to-be-one-of-deadliest-years-for-west-coast-whales/",
-          "published": "2026-08-27T15:06:20+00:00",
-          "source": "Oceanographic",
+          "title": "South Korea’s ‘sea women’ seek justice after marine habitat devastated by harbor work",
+          "link": "https://news.mongabay.com/2026/09/south-koreas-sea-women-seek-justice-after-marine-habitat-devastated-by-harbor-work/",
+          "published": "2026-09-04T10:30:42+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "At least 51 whales have died along the West Coast in 2026, with ship strikes and Arctic-driven starvation pushing the year toward becoming the second-",
-          "image": null,
+          "summary": "GUMAN-RI, South Korea — This fishing village, on the eastern coast of the Korean Peninsula, is filled with scars. Every summer, typhoons rumble in fro",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/04060654/Debris-768x512.jpeg",
           "other_news": false
         },
         {
@@ -276,17 +320,6 @@
           "language": "en",
           "summary": "Corals share a close bond with the fish dwelling among them and the algae living within them. According to a new study, that relationship could be eve",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02091808/Damselfish-closeup-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Togo cosponsors proposal to review commercial whaling ban",
-          "link": "https://news.mongabay.com/short-article/2026/09/togo-cosponsors-proposal-to-review-commercial-whaling-ban/",
-          "published": "2026-09-01T22:29:40+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Togo is cosponsoring a proposal to review commercial whaling quotas, drawing criticism from whale conservation groups. The draft resolution was submit",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/01203305/AustralianCustoms-WhalingInTheSouthernOcean_3-768x512.jpg",
           "other_news": false
         }
       ],
@@ -337,17 +370,6 @@
         }
       ],
       "Other Marine News": [
-        {
-          "title": "Grinding up fish to feed to fish is ‘absurd’: fears over UN fish farm plan",
-          "link": "https://www.theguardian.com/environment/2026/sep/03/un-fish-farms-food-oceans-aquaculture",
-          "published": "2026-09-03T16:59:01+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Huge rollout of farms could harm ecosystems and threaten food sources of vulnerable communities, say expertsNearly half of the world’s wild fish catch",
-          "image": "https://i.guim.co.uk/img/media/b8424e9644df5f51999ac792ca967e12e5611b71/440_0_2781_2225/master/2781.jpg?width=140&quality=85&auto=format&fit=max&s=70061dd5a941bf73a32d64e6743aa0d5",
-          "other_news": false
-        },
         {
           "title": "Could this humble sea sponge clean up the world’s ports?",
           "link": "https://www.theguardian.com/environment/2026/sep/01/sea-chicken-liver-sponge-filter-pollutants-harbour-spain-costa-brava",
@@ -412,6 +434,17 @@
           "language": "en",
           "summary": "Conservationists have created a ‘coastal corridor’ of ocean-based projects designed to preserve and nourish vulnerable marine lifeFrom disappearing ma",
           "image": "https://i.guim.co.uk/img/media/d0e7e6345d9f9b027db5bcf11838734970196df6/573_0_3539_2832/master/3539.jpg?width=140&quality=85&auto=format&fit=max&s=d03f67b266dfa008ead6e5c1456cdd3c",
+          "other_news": false
+        },
+        {
+          "title": "'Miracle' eagle with broken wing spotted back above Scottish coast",
+          "link": "https://www.bbc.co.uk/news/articles/crerw2nj81zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-04T00:46:54+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aa3/live/7c9c7810-a7be-11f1-aed2-8d6da8d75094.jpg",
           "other_news": false
         },
         {
@@ -558,6 +591,17 @@
           "other_news": false
         },
         {
+          "title": "How brainless sea sponges use sunset as a cue\nto prepare for metamorphosis",
+          "link": "https://theconversation.com/how-brainless-sea-sponges-use-sunset-as-a-cue-to-prepare-for-metamorphosis-290731",
+          "published": "2026-09-04T05:01:13+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Sea sponges are some of the world’s simplest animals – but even so, the rhythm of night and day kicks off a crucial stage of their life cycle.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Do Sea Turtles Get Lost?",
           "link": "https://oceanconservancy.org/blog/2026/08/27/do-sea-turtles-get-lost/",
           "published": "2026-08-27T15:58:38+00:00",
@@ -649,30 +693,6 @@
           "summary": "Cette société alsacienne spécialisée dans le recyclage de câbles en plastique a été condamnée pour pollution par le tribunal correctionnel de Strasbou",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "Biomass cooking fuels raise toxic metal exposure risks in Bangladesh, study finds",
-          "link": "https://news.mongabay.com/short-article/2026/09/biomass-cooking-fuels-raise-toxic-metal-exposure-risks-in-bangladesh-study-finds/",
-          "published": "2026-09-01T17:20:37+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Burning biomass fuels like dry wood and rice husk for cooking can produce air pollution and contribute to toxic heavy metals buildup inside rural kitc",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/01171501/Cooking_rice-768x512.jpg",
-          "other_news": true
-        }
-      ],
-      "Marine Biodiversity & Conservation": [
-        {
-          "title": "Nature reserves spot rare species during heatwaves",
-          "link": "https://www.bbc.co.uk/news/articles/cpve2123v71o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-30T05:08:05+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A wildlife trust says unusually hot weather and increased monitoring has led to interesting finds.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/551b/live/c7f237d0-a158-11f1-92f3-2381193e5eb4.jpg",
-          "other_news": true
         }
       ],
       "Nature-Based Solutions & Restoration": [
@@ -685,28 +705,6 @@
           "language": "en",
           "summary": "This is the third article in Mongabay&#8217;s three-part investigation of spekboom-led ecosystem restoration in South Africa. This is part of an award",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02171203/southern-greater-kudu-Tragelaphus-strepsiceros-strepsiceros-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Rooting tree seed production in local knowledge boosts forest restoration outcomes (commentary)",
-          "link": "https://news.mongabay.com/2026/09/rooting-tree-seed-production-in-local-knowledge-boosts-forest-restoration-outcomes-commentary/",
-          "published": "2026-09-01T20:25:13+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Since the launch of global restoration initiatives such as the U.N. Decade on Ecosystem Restoration (2021-2030), large-scale tree planting has become",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/01200434/Selumo_planting_2-e1788293106470-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "South Africa’s new gold rush: Spekboom restoration speeds up, but it’s a bumpy road, insiders report",
-          "link": "https://news.mongabay.com/2026/09/south-africas-new-gold-rush-spekboom-restoration-speeds-up-but-its-a-bumpy-road-insiders-report/",
-          "published": "2026-09-01T19:09:33+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "This is the second article in Mongabay&#8217;s three-part investigation of spekboom-led ecosystem restoration in South Africa. It is part of an award-",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/01170242/a.-3-planting-hive-IMG_3143-768x512.jpg",
           "other_news": true
         }
       ],
@@ -723,13 +721,13 @@
           "other_news": true
         },
         {
-          "title": "Arts Centre Melbourne workers face a battle between industrial and cultural policy",
-          "link": "https://theconversation.com/arts-centre-melbourne-workers-face-a-battle-between-industrial-and-cultural-policy-290853",
-          "published": "2026-09-02T20:09:33+00:00",
+          "title": "As global heating heads to 1.8C, is it time to consider the ‘Voldemort’ of climate policy?",
+          "link": "https://theconversation.com/as-global-heating-heads-to-1-8c-is-it-time-to-consider-the-voldemort-of-climate-policy-290427",
+          "published": "2026-09-04T01:32:57+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Disputes from 1944 to today trace the increasingly central role of government funding in shaping working conditions in the arts.",
+          "summary": "The case for large-scale technologies that reflect solar radiation back into space rests on global warming’s grim reality.",
           "image": null,
           "other_news": true
         },
@@ -746,6 +744,28 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Renewable energy in NI reaches record level",
+          "link": "https://www.bbc.co.uk/news/articles/ce3rql5rzx4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-04T05:11:45+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "And for the first time renewable generation has consistently exceeded non-renewable generation since January.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bcb/live/93328190-a7a1-11f1-a7ad-37a1f7dc081c.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Officer to combat homes pumping sewage into rivers",
+          "link": "https://www.bbc.co.uk/news/articles/c99dnk500vgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-04T05:15:24+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Misconnections happen when incorrectly installed plumbing allows waste water to be diverted to surface drains.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ca/live/500d4200-a6df-11f1-9e4c-79c1c0e340c6.jpg",
+          "other_news": true
+        },
         {
           "title": "Pourquoi la transition écologique est-elle si difficile à gouverner ?",
           "link": "https://theconversation.com/pourquoi-la-transition-ecologique-est-elle-si-difficile-a-gouverner-288778",
@@ -945,6 +965,17 @@
           "other_news": true
         },
         {
+          "title": "Hiking canyons can quickly turn deadly when storms hit – what you should know before going in",
+          "link": "https://theconversation.com/hiking-canyons-can-quickly-turn-deadly-when-storms-hit-what-you-should-know-before-going-in-291122",
+          "published": "2026-09-03T18:50:48+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "After the deadly Grand Canyon flood, a geologist and avid hiker explains what nature lovers need to prepare and watch for to stay safe.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Data center projects in Pennsylvania face stronger local scrutiny after Shapiro’s executive order",
           "link": "https://theconversation.com/data-center-projects-in-pennsylvania-face-stronger-local-scrutiny-after-shapiros-executive-order-290136",
           "published": "2026-09-01T12:06:36+00:00",
@@ -1011,17 +1042,6 @@
           "other_news": true
         },
         {
-          "title": "Ancient forests took 100,000 years to recover from the last global warming period similar to today – Wyoming fossils reveal what happened",
-          "link": "https://theconversation.com/ancient-forests-took-100-000-years-to-recover-from-the-last-global-warming-period-similar-to-today-wyoming-fossils-reveal-what-happened-289462",
-          "published": "2026-08-13T18:01:27+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Understanding what happened in these forests 56 million years ago may help humanity recognize similar thresholds before we cross them again, the lead",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Analysis: China’s CO2 emissions fall in Q2 2026 due to plummeting oil use",
           "link": "https://www.carbonbrief.org/analysis-chinas-co2-emissions-fall-in-q2-2026-due-to-plummeting-oil-use",
           "published": "2026-09-02T23:01:00+00:00",
@@ -1084,17 +1104,6 @@
           "type": "news",
           "language": "en",
           "summary": "An upcoming UK government consultation on weakening targets for electric vehicles (EVs) could cost consumers as much as £3bn a&#8230;\nThe post Analysi",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Q&A: What is in China’s new five-year plan for climate change?",
-          "link": "https://www.carbonbrief.org/qa-what-is-in-chinas-new-five-year-plan-for-climate-change",
-          "published": "2026-08-06T14:48:40+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "China has released a five-year plan dedicated to addressing climate change.&#160; The 15th five-year plan for a national response to&#8230;\nThe post Q",
           "image": null,
           "other_news": true
         },
@@ -1308,25 +1317,14 @@
           "other_news": true
         },
         {
-          "title": "Santa Marta coalition tested as co-chair Colombia turns back to fossil fuels",
-          "link": "https://www.climatechangenews.com/2026/08/05/santa-marta-coalition-tested-as-co-chair-colombia-turns-back-to-fossil-fuels/",
-          "published": "2026-08-05T10:35:18+00:00",
-          "source": "Climate change news",
+          "title": "Ivan Illich : ralentissons, la société d'abondance est un leurre",
+          "link": "https://reporterre.net/Ivan-Illich-ralentissons-la-societe-d-abondance-est-un-leurre",
+          "published": "2026-09-04T05:00:00+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Despite a leadership gap, outgoing environment minister Irene Vélez Torres says the anti-fossil fuel coalition can “live without Colombia” \nThe post S",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Southeast Asia’s fragile grids threaten billions in clean energy investment",
-          "link": "https://www.climatechangenews.com/2026/08/05/southeast-asia-fragile-grids-threaten-billions-in-clean-energy-investment/",
-          "published": "2026-08-05T10:10:51+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Renewables developers need reliable electricity infrastructure and stable policies to help the region meet climate goals and surging demand for power",
-          "image": null,
+          "language": "fr",
+          "summary": "Ivan Illich, critique du technocapitalisme, aurait eu 100 ans le 4 septembre. Ce penseur de l'écologie politique, opposé au cult",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/illich_1_1_-229d9.jpg?1788498001",
           "other_news": true
         },
         {
@@ -1407,6 +1405,17 @@
           "other_news": true
         },
         {
+          "title": "« L’agroécologie est un puissant levier d’adaptation de l’agriculture au changement climatique »",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/04/l-agroecologie-est-un-puissant-levier-d-adaptation-de-l-agriculture-au-changement-climatique_6765755_3232.html",
+          "published": "2026-09-04T11:16:17+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’agronome Philippe Pointereau démontre, dans une tribune au « Monde », comment il est possible, sans épuiser les sols, de préserver l’activité agrico",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/29e0f12_upload-1-upyybh9kyyvg-frame-778.jpg",
+          "other_news": true
+        },
+        {
           "title": "Présidentielle 2027 : Raphaël Glucksmann se pose en figure de la « révolution écologique » à gauche",
           "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/03/presidentielle-2027-raphael-glucksmann-se-pose-en-figure-de-la-revolution-ecologique-a-gauche_6765180_4355770.html",
           "published": "2026-09-03T17:33:56+02:00",
@@ -1415,39 +1424,6 @@
           "language": "fr",
           "summary": "« Les candidats et le climat ». Se présentant comme le « président de la transformation écologique », l’eurodéputé prévoit notamment de faire de la dé",
           "image": "https://img.lemde.fr/2026/08/23/549/0/6585/3292/644/322/60/0/4bef334_ftp-1-0zq5mzzt9hxq-5906047-01-06.jpg",
-          "other_news": true
-        },
-        {
-          "title": "« Nous proposons la création d’une autorité indépendante, dont la mission sera d’évaluer l’impact sanitaire des lois et des politiques publiques »",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/03/nous-proposons-la-creation-d-une-autorite-independante-dont-la-mission-sera-d-evaluer-l-impact-sanitaire-des-lois-et-des-politiques-publiques_6765130_3232.html",
-          "published": "2026-09-03T10:30:06+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Parce que la défense de la santé des citoyens entre souvent en tension avec d’autres intérêts, publics ou privés, un collectif de scientifiques et d’u",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/16725db_upload-1-fstl8ibx7rsh-frame-895.jpg",
-          "other_news": true
-        },
-        {
-          "title": "L’essor de l’IA freine les ambitions des acteurs du numérique en faveur du climat",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/03/l-essor-de-l-ia-freine-les-ambitions-des-acteurs-du-numerique-en-faveur-du-climat_6764639_3244.html",
-          "published": "2026-09-03T02:54:21+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Selon un rapport publié mercredi, les entreprises du secteur ne parviennent pas à réduire assez rapidement leurs émissions, dans un contexte de besoin",
-          "image": "https://img.lemde.fr/2026/08/27/2032/0/12192/6096/644/322/60/0/b61aaeb_ftp-1-6jvsqhwqetgg-5927678-01-06.jpg",
-          "other_news": true
-        },
-        {
-          "title": "La mise en œuvre de la politique agricole commune jugée « inadaptée » par la Cour des comptes",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/02/la-mise-en-uvre-de-la-politique-agricole-commune-jugee-inadaptee-par-la-cour-des-comptes_6764537_3244.html",
-          "published": "2026-09-02T21:38:04+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les magistrats déplorent, entre autres, la faiblesse des montants alloués aux mesures agro-environnementales et climatiques, « alors même que l’enjeu",
-          "image": "https://img.lemde.fr/2026/08/29/464/0/5568/2784/644/322/60/0/d94c237_ftp-1-wuwie0rybver-5949925-01-06.jpg",
           "other_news": true
         },
         {
@@ -1473,13 +1449,24 @@
           "other_news": true
         },
         {
-          "title": "Your house may be a haven for wildlife. It’s time we design homes with nature in mind",
-          "link": "https://theconversation.com/your-house-may-be-a-haven-for-wildlife-its-time-we-design-homes-with-nature-in-mind-289983",
-          "published": "2026-09-03T05:04:49+00:00",
+          "title": "A record-shattering El Niño is almost here. Here’s what that means for the world’s weather",
+          "link": "https://theconversation.com/a-record-shattering-el-nino-is-almost-here-heres-what-that-means-for-the-worlds-weather-291258",
+          "published": "2026-09-04T06:21:45+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "A new study reveals thousands of native animals are taking up residence in Australian homes.",
+          "summary": "It threatens to compound the worst effects of climate change.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Australia needs renewable energy fast – but building it is only half the battle",
+          "link": "https://theconversation.com/australia-needs-renewable-energy-fast-but-building-it-is-only-half-the-battle-290066",
+          "published": "2026-09-03T20:09:07+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Regional communities often don’t oppose renewables, but want a say in where they go and who foots the bill.",
           "image": null,
           "other_news": true
         },
@@ -1492,6 +1479,17 @@
           "language": "en",
           "summary": "There is an insidious lie that has taken root in the energy transition narrative pushed by the world’s most powerful financial, political, and environ",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/11/18094245/copper-bearing-ore-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Development banks are backing problematic mineral projects, report finds",
+          "link": "https://news.mongabay.com/short-article/2026/09/development-banks-are-backing-problematic-mineral-projects-report-finds/",
+          "published": "2026-09-03T13:10:24+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "“Development bank-backed transition minerals projects are frequently associated with significant environmental, social, and human rights risks.” This",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/13114300/06-salc-img-768x512.png",
           "other_news": true
         },
         {
@@ -1536,17 +1534,6 @@
           "language": "en",
           "summary": "In a strategic retreat, the United Nations concedes that Earth has lost its chance to prevent some of the worst impacts of global warming. A report re",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02155119/AP26241239660711-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Christiana Figueres & Garik Israelian on Jane Goodall’s legacy and the search for truth",
-          "link": "https://news.mongabay.com/podcast/2026/09/christiana-figueres-garik-israelian-on-jane-goodalls-legacy-and-the-search-for-truth/",
-          "published": "2026-09-01T20:06:45+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A new award has been created in honor of late conservation icon Jane Goodall by the board of the Starmus Festival, an international gathering of scien",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/24033630/amazon_200949-e1787890850428-768x512.jpg",
           "other_news": true
         }
       ]

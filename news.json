@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:21:32.705888+00:00",
+  "generated_at": "2026-09-04T16:53:19.331306+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -755,6 +755,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "At least 37 killed by toxic fumes during alleged petrol theft in Nigeria, reports say",
+          "link": "https://www.bbc.co.uk/news/articles/cde024l10dyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-04T15:44:05+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "An environmental group says those who died are suspected of stealing petrol from a pipeline in Nigeria's Rivers State.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c46/live/efad0420-a866-11f1-b109-879e35c24276.png",
+          "other_news": true
+        },
         {
           "title": "Renewable energy in NI reaches record level",
           "link": "https://www.bbc.co.uk/news/articles/ce3rql5rzx4o?at_medium=RSS&at_campaign=rss",

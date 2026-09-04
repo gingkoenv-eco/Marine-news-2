@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T11:19:23.103511+00:00",
+  "generated_at": "2026-09-04T12:09:28.325652+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -301,17 +301,6 @@
           "other_news": false
         },
         {
-          "title": "South Korea’s ‘sea women’ seek justice after marine habitat devastated by harbor work",
-          "link": "https://news.mongabay.com/2026/09/south-koreas-sea-women-seek-justice-after-marine-habitat-devastated-by-harbor-work/",
-          "published": "2026-09-04T10:30:42+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "GUMAN-RI, South Korea — This fishing village, on the eastern coast of the Korean Peninsula, is filled with scars. Every summer, typhoons rumble in fro",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/04060654/Debris-768x512.jpeg",
-          "other_news": false
-        },
-        {
           "title": "Damselfish-assisted repair of wounded corals surprises scientists",
           "link": "https://news.mongabay.com/2026/09/damselfish-assisted-repair-of-wounded-corals-surprises-scientists/",
           "published": "2026-09-02T12:36:01+00:00",
@@ -525,6 +514,17 @@
           "other_news": false
         },
         {
+          "title": "46 % des poissons pêchés pourraient servir à nourrir des poissons d'élevage d'ici 15 ans",
+          "link": "https://reporterre.net/46-des-poissons-peches-pourraient-servir-a-nourrir-des-poissons-d-elevage-d-ici-15-ans",
+          "published": "2026-09-04T12:05:14+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Piller l'océan, non pas pour nourrir des humains… mais des poissons d'élevage. Tel est l'horizon vers lequel le secteur de la pê",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH464/36473113002_9dd81f5976_k_2_1_-ccb04.jpg?1788523516",
+          "other_news": false
+        },
+        {
           "title": "Manger de la terre, se frotter à des coraux... Comment les animaux se soignent",
           "link": "https://reporterre.net/Manger-de-la-terre-se-frotter-a-des-coraux-Comment-les-animaux-se-soignent",
           "published": "2026-08-29T05:20:00+00:00",
@@ -681,6 +681,17 @@
           "language": "en",
           "summary": "During troubled talks, fossil fuel-producing nations have pushed for a global pact to tackle only plastic waste rather than reducing the size of the p",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Malaisie : l’état d’urgence aux fumées déclaré sur une large partie de l’île de Bornéo, en raison des gigantesques incendies qui sévissent toujours en Indonésie",
+          "link": "https://www.lemonde.fr/international/article/2026/09/04/malaisie-l-etat-d-urgence-aux-fumees-declare-sur-une-large-partie-de-l-ile-de-borneo-en-raison-des-gigantesques-incendies-qui-sevissent-toujours-en-indonesie_6765783_3210.html",
+          "published": "2026-09-04T13:55:53+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans l’Etat du Sarawak, la pollution de l’air causée par les feux entraîne la fermeture de près de 650 écoles de la région de Serian à partir de lundi",
+          "image": "https://img.lemde.fr/2026/09/04/401/0/4820/2410/644/322/60/0/15d8362_ftp-1-fsheyhozvrle-ee3cd48a21a54c4bbcb882fadd7f9e3c-0-a8e7bcebf3e049f0bda223f6f51219a3.jpg",
           "other_news": true
         },
         {
@@ -1042,6 +1053,17 @@
           "other_news": true
         },
         {
+          "title": "Analysis: UK solar power hits record high over summer 2026",
+          "link": "https://www.carbonbrief.org/analysis-uk-solar-power-hits-record-high-over-summer-2026",
+          "published": "2026-09-04T11:21:35+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Solar power generation in the UK reached a new record over the summer of 2026, as temperatures across the nation&#8230;\nThe post Analysis: UK solar po",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Analysis: China’s CO2 emissions fall in Q2 2026 due to plummeting oil use",
           "link": "https://www.carbonbrief.org/analysis-chinas-co2-emissions-fall-in-q2-2026-due-to-plummeting-oil-use",
           "published": "2026-09-02T23:01:00+00:00",
@@ -1093,17 +1115,6 @@
           "type": "news",
           "language": "en",
           "summary": "Emissions from land-use change – including deforestation, loss of peatland and forest degradation – have been falling over the course&#8230;\nThe post",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Analysis: Weaker EV targets could cost UK consumers £3bn a year by 2030",
-          "link": "https://www.carbonbrief.org/analysis-weaker-ev-targets-could-cost-uk-consumers-3bn-a-year-by-2030",
-          "published": "2026-08-12T14:50:39+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "An upcoming UK government consultation on weakening targets for electric vehicles (EVs) could cost consumers as much as £3bn a&#8230;\nThe post Analysi",
           "image": null,
           "other_news": true
         },
@@ -1302,17 +1313,6 @@
           "type": "news",
           "language": "en",
           "summary": "Long-term contracts guarantee coal plants buyers regardless of demand, crowding out renewables, report finds\nThe post China&#8217;s coal power rebound",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "A legal fiction blocking billions in climate finance will be challenged this week",
-          "link": "https://www.climatechangenews.com/2026/08/05/a-legal-fiction-blocking-billions-in-climate-finance-will-be-challenged-this-week/",
-          "published": "2026-08-05T12:05:21+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Governments will gather in New York for tax negotiations which could unlock $500 billion a year\nThe post A legal fiction blocking billions in climate",
           "image": null,
           "other_news": true
         },

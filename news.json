@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T12:09:28.325652+00:00",
+  "generated_at": "2026-09-04T16:21:32.705888+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -301,6 +301,28 @@
           "other_news": false
         },
         {
+          "title": "The Annual Migration to Clean Up Our Coasts",
+          "link": "https://oceanconservancy.org/blog/2026/09/04/clean-up-our-coasts/",
+          "published": "2026-09-04T14:18:13+00:00",
+          "source": "Ocean Conservancy",
+          "type": "news",
+          "language": "en",
+          "summary": "Annually, seasonally and sometimes even daily, amazing oceanic migrations are taking place. Humpback whales migrate thousands of miles to breeding gro",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "South Korea’s ‘sea women’ seek justice after marine habitat devastated by harbor work",
+          "link": "https://news.mongabay.com/2026/09/south-koreas-sea-women-seek-justice-after-marine-habitat-devastated-by-harbor-work/",
+          "published": "2026-09-04T10:30:42+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "GUMAN-RI, South Korea — This fishing village, on the eastern coast of the Korean Peninsula, is filled with scars. Every summer, typhoons rumble in fro",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/04060432/KimChoon-hee-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Damselfish-assisted repair of wounded corals surprises scientists",
           "link": "https://news.mongabay.com/2026/09/damselfish-assisted-repair-of-wounded-corals-surprises-scientists/",
           "published": "2026-09-02T12:36:01+00:00",
@@ -434,6 +456,17 @@
           "language": "en",
           "summary": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aa3/live/7c9c7810-a7be-11f1-aed2-8d6da8d75094.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Isle of May puffin numbers plummet after extreme weather",
+          "link": "https://www.bbc.co.uk/news/articles/c7837r4kd0xo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-04T12:41:18+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Researchers said numbers in one of the UK's most significant colonies of the seabirds may have fallen by 30%.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e95/live/e7f53df0-a85d-11f1-ae45-e9984fc27c77.jpg",
           "other_news": false
         },
         {
@@ -580,17 +613,6 @@
           "other_news": false
         },
         {
-          "title": "El Niño favorise l’émergence simultanée de trois cyclones dans le Pacifique",
-          "link": "https://www.lemonde.fr/climat/article/2026/09/03/trois-cyclones-simultanes-dans-le-pacifique-un-phenomene-rare-favorise-par-el-nino_6765160_1652612.html",
-          "published": "2026-09-03T15:49:44+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Lowell et Karina sont suivis par la tempête tropicale Marie, située à quelques centaines de kilomètres des côtes mexicaines et qui « devrait devenir u",
-          "image": "https://img.lemde.fr/2026/09/02/375/0/4500/2250/644/322/60/0/4ec21ba_ftp-1-k2tytqci8tgf-79f470002d654224ad0e1f867a16c957-0-fb42d8db38324a42a715ce71461c2d6d.jpg",
-          "other_news": false
-        },
-        {
           "title": "How brainless sea sponges use sunset as a cue\nto prepare for metamorphosis",
           "link": "https://theconversation.com/how-brainless-sea-sponges-use-sunset-as-a-cue-to-prepare-for-metamorphosis-290731",
           "published": "2026-09-04T05:01:13+00:00",
@@ -662,17 +684,6 @@
           "other_news": true
         },
         {
-          "title": "What live sewage spill data does (and doesn’t) tell us about water pollution",
-          "link": "https://theconversation.com/what-live-sewage-spill-data-does-and-doesnt-tell-us-about-water-pollution-288309",
-          "published": "2026-08-24T11:05:05+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "England’s event duration monitoring system records when a sewage overflow starts and stops. But duration alone tells us very little about the pollutio",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "“We’ve gone backwards” – new plastics treaty text dims hopes for production curbs",
           "link": "https://www.climatechangenews.com/2026/08/12/weve-gone-backwards-new-plastics-treaty-text-dims-hopes-for-production-curbs/",
           "published": "2026-08-12T14:11:10+00:00",
@@ -686,7 +697,7 @@
         {
           "title": "Malaisie : l’état d’urgence aux fumées déclaré sur une large partie de l’île de Bornéo, en raison des gigantesques incendies qui sévissent toujours en Indonésie",
           "link": "https://www.lemonde.fr/international/article/2026/09/04/malaisie-l-etat-d-urgence-aux-fumees-declare-sur-une-large-partie-de-l-ile-de-borneo-en-raison-des-gigantesques-incendies-qui-sevissent-toujours-en-indonesie_6765783_3210.html",
-          "published": "2026-09-04T13:55:53+02:00",
+          "published": "2026-09-04T13:55:47+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -720,17 +731,6 @@
         }
       ],
       "Marine Protected Areas & Policy": [
-        {
-          "title": "Small businesses at the gateways to America’s national parks face 4 big risks – including changing boundaries and extreme weather",
-          "link": "https://theconversation.com/small-businesses-at-the-gateways-to-americas-national-parks-face-4-big-risks-including-changing-boundaries-and-extreme-weather-288676",
-          "published": "2026-08-14T12:38:54+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Policy changes, climate disruption, staffing shortages and housing costs are reshaping the risks of owning or starting a gateway business.",
-          "image": null,
-          "other_news": true
-        },
         {
           "title": "As global heating heads to 1.8C, is it time to consider the ‘Voldemort’ of climate policy?",
           "link": "https://theconversation.com/as-global-heating-heads-to-1-8c-is-it-time-to-consider-the-voldemort-of-climate-policy-290427",
@@ -866,6 +866,17 @@
           "other_news": true
         },
         {
+          "title": "Climate change images are getting scarier – could fear help drive action?",
+          "link": "https://theconversation.com/climate-change-images-are-getting-scarier-could-fear-help-drive-action-290464",
+          "published": "2026-09-04T14:53:57+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "New research suggests negative or anxiety-inducing images might be more useful than once thought.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Why the world can’t agree how to tackle drought",
           "link": "https://theconversation.com/why-the-world-cant-agree-how-to-tackle-drought-290745",
           "published": "2026-09-03T12:58:08+00:00",
@@ -965,13 +976,13 @@
           "other_news": true
         },
         {
-          "title": "The free EU database that tells you if an appliance is actually green",
-          "link": "https://theconversation.com/the-free-eu-database-that-tells-you-if-an-appliance-is-actually-green-288558",
-          "published": "2026-08-24T11:09:42+00:00",
-          "source": "The Conversation UK",
+          "title": "Farmer-poet Wendell Berry’s environmental ethics were deeply rooted in his Christian faith and belief in caring for creation",
+          "link": "https://theconversation.com/farmer-poet-wendell-berrys-environmental-ethics-were-deeply-rooted-in-his-christian-faith-and-belief-in-caring-for-creation-291025",
+          "published": "2026-09-04T12:29:05+00:00",
+          "source": "The Conversation US",
           "type": "news",
           "language": "en",
-          "summary": "Data beats greenwashing. How a simple QR code connects you to a massive European database that exposes fake sustainability claims in seconds.",
+          "summary": "Berry’s belief that humans have a responsibility to care for God’s creation traces back to the Book of Genesis. So does an opposing argument for envir",
           "image": null,
           "other_news": true
         },
@@ -1115,6 +1126,17 @@
           "type": "news",
           "language": "en",
           "summary": "Emissions from land-use change – including deforestation, loss of peatland and forest degradation – have been falling over the course&#8230;\nThe post",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Palestine: Israel’s bombing has left Gaza vulnerable to climate change",
+          "link": "https://www.climatechangenews.com/2026/09/04/palestine-israels-bombing-has-left-gaza-vulnerable-to-climate-change/",
+          "published": "2026-09-04T14:18:35+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "With homes, hospitals and water storage destroyed, Palestine's government says that Gazans have little protection from climate impacts and sets condit",
           "image": null,
           "other_news": true
         },
@@ -1314,6 +1336,17 @@
           "language": "en",
           "summary": "Long-term contracts guarantee coal plants buyers regardless of demand, crowding out renewables, report finds\nThe post China&#8217;s coal power rebound",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Un patron alsacien condamné pour avoir pollué l'eau avec 30 000 tonnes de plastique",
+          "link": "https://reporterre.net/Un-patron-alsacien-condamne-pour-avoir-pollue-l-eau-avec-30-000-tonnes-de-plastique",
+          "published": "2026-09-04T13:20:08+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le gérant de l'entreprise de traitement de déchets Locacil, à Feldkirch (Haut-Rhin), a été condamné le 2 septembre à dix-huit mo",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/tengyart-alrcdq-ui_q-unsplash_1_-61dbb.jpg?1788528012",
           "other_news": true
         },
         {

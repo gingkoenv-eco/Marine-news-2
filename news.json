@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:53:19.331306+00:00",
+  "generated_at": "2026-09-05T10:36:43.763325+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -153,6 +153,17 @@
           "language": "fr",
           "summary": "Des chercheuses proposent un nouvel indicateur, l’empreinte plastique particulaire, pour mesurer la pollution plastique, invisible dans les bilans car",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Pollution marine : « Réduire la production de plastique est bien plus efficace que de chercher à nettoyer les océans »",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/05/pollution-marine-reduire-la-production-de-plastique-est-bien-plus-efficace-que-de-chercher-a-nettoyer-les-oceans_6766316_3232.html",
+          "published": "2026-09-05T10:00:09+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Différentes initiatives ont vu le jour pour retirer les déchets plastiques qui souillent les océans. Le financement de certaines d’entre elles est aus",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/b64daeb_upload-1-8jghv1bak7pa-frame-1280.jpg",
           "other_news": false
         }
       ],
@@ -312,6 +323,17 @@
           "other_news": false
         },
         {
+          "title": "Marine conservation collides with mining in Indonesia’s biodiversity-rich Moramo Bay",
+          "link": "https://news.mongabay.com/2026/09/marine-conservation-collides-with-mining-in-indonesias-biodiversity-rich-moramo-bay/",
+          "published": "2026-09-04T16:48:02+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "SOUTH KONAWE, Indonesia — A marine protected area in Indonesia’s Southeast Sulawesi province is home to a critically depleted population of humphead w",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/04163930/2.-Aktivitas-tambang-batu-gamping-berbatasan-langsung-dengan-KKD-Teluk-Moramo-2400x890-1-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "South Korea’s ‘sea women’ seek justice after marine habitat devastated by harbor work",
           "link": "https://news.mongabay.com/2026/09/south-koreas-sea-women-seek-justice-after-marine-habitat-devastated-by-harbor-work/",
           "published": "2026-09-04T10:30:42+00:00",
@@ -319,18 +341,7 @@
           "type": "news",
           "language": "en",
           "summary": "GUMAN-RI, South Korea — This fishing village, on the eastern coast of the Korean Peninsula, is filled with scars. Every summer, typhoons rumble in fro",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/04060432/KimChoon-hee-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Damselfish-assisted repair of wounded corals surprises scientists",
-          "link": "https://news.mongabay.com/2026/09/damselfish-assisted-repair-of-wounded-corals-surprises-scientists/",
-          "published": "2026-09-02T12:36:01+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Corals share a close bond with the fish dwelling among them and the algae living within them. According to a new study, that relationship could be eve",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02091808/Damselfish-closeup-768x512.jpg",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/05031044/KimChoon-hee-scaled-cropped-768x512.jpeg",
           "other_news": false
         }
       ],
@@ -459,25 +470,36 @@
           "other_news": false
         },
         {
+          "title": "Charity backs call for resting seal protection",
+          "link": "https://www.bbc.co.uk/news/articles/c4g58ylj735o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-05T08:37:26+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Seal Research Trust backs calls to make deliberate seal disturbance an offence.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eac/live/97b8a6a0-a8f9-11f1-86e0-d390c0605def.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Plea to give Thames seals space for everyone's safety",
+          "link": "https://www.bbc.co.uk/news/articles/c624x0l9dvgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-05T07:03:32+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Getting too close to the animals spotted along the River Thames can be harmful for both them and members of the public, a charity says.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d53c/live/559d9a60-a853-11f1-80f8-c33181935c5a.jpg",
+          "other_news": false
+        },
+        {
           "title": "Isle of May puffin numbers plummet after extreme weather",
           "link": "https://www.bbc.co.uk/news/articles/c7837r4kd0xo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-04T12:41:18+00:00",
+          "published": "2026-09-04T17:42:38+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
           "summary": "Researchers said numbers in one of the UK's most significant colonies of the seabirds may have fallen by 30%.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e95/live/e7f53df0-a85d-11f1-ae45-e9984fc27c77.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Fires still burn in charred landscape as focus turns to wildfire prevention",
-          "link": "https://www.bbc.co.uk/news/articles/cvgye1999n8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-26T05:25:20+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The RSPB is considering measures it can take to improve resilience in the wake of a five-week long fire in the Cairngorms.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c674/live/e75b9450-9fbd-11f1-8648-8d7b77845e6d.jpg",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee23/live/d9bb7b30-a887-11f1-aed2-8d6da8d75094.jpg",
           "other_news": false
         },
         {
@@ -569,17 +591,6 @@
           "other_news": false
         },
         {
-          "title": "Deux fois plus de déchets abandonnés dans les calanques de Marseille cet été",
-          "link": "https://reporterre.net/Deux-fois-plus-de-dechets-abandonnes-dans-les-calanques-de-Marseille-cet-ete",
-          "published": "2026-08-28T12:26:35+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "En fin d'été, le Parc national des calanques a poussé un coup de gueule. « Voici l'état de l'arrière-plage à En-Vau en ce mois d",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/screenshot_2026-08-28_at_14-23-26_instagram-5177a.jpg?1787919996",
-          "other_news": false
-        },
-        {
           "title": "Rare photo of octopus hitching a ride on dolphin",
           "link": "https://oceanographicmagazine.com/news/rare-photo-of-octopus-hitching-a-ride-on-dolphin/",
           "published": "2026-09-02T14:10:57+00:00",
@@ -643,6 +654,17 @@
           "language": "en",
           "summary": "Storytelling is one of our oldest human behaviors. Across every culture and continent, people have used stories to share values, pass down knowledge a",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Why are they killing this beautiful fish?",
+          "link": "https://news.mongabay.com/short-article/2026/09/why-are-they-killing-this-beautiful-fish/",
+          "published": "2026-09-05T07:11:52+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Lionfish are beautiful, venomous and devastating Caribbean reefs. In Honduras, divers are fighting back with homemade spears, hunting competitions and",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/05071051/Mongabay_Thumbnail_Honduras_FeaturedShort.jpg",
           "other_news": false
         },
         {
@@ -778,14 +800,14 @@
           "other_news": true
         },
         {
-          "title": "Officer to combat homes pumping sewage into rivers",
-          "link": "https://www.bbc.co.uk/news/articles/c99dnk500vgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-04T05:15:24+00:00",
+          "title": "Manx space group urges election candidates to back treaty",
+          "link": "https://www.bbc.co.uk/news/articles/cwyzgx1k5n7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-05T06:07:29+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Misconnections happen when incorrectly installed plumbing allows waste water to be diverted to surface drains.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ca/live/500d4200-a6df-11f1-9e4c-79c1c0e340c6.jpg",
+          "summary": "The Isle of Man Mars Society is urging politicians to sign an international space exploration agreement.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f53/live/a4381b30-a84b-11f1-80f8-c33181935c5a.jpg",
           "other_news": true
         },
         {
@@ -1339,17 +1361,6 @@
           "other_news": true
         },
         {
-          "title": "China’s coal power rebounds as record clean energy goes to waste",
-          "link": "https://www.climatechangenews.com/2026/08/06/china-wastes-clean-power-stopping-coal-use-from-falling/",
-          "published": "2026-08-06T00:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Long-term contracts guarantee coal plants buyers regardless of demand, crowding out renewables, report finds\nThe post China&#8217;s coal power rebound",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Un patron alsacien condamné pour avoir pollué l'eau avec 30 000 tonnes de plastique",
           "link": "https://reporterre.net/Un-patron-alsacien-condamne-pour-avoir-pollue-l-eau-avec-30-000-tonnes-de-plastique",
           "published": "2026-09-04T13:20:08+00:00",
@@ -1449,6 +1460,28 @@
           "other_news": true
         },
         {
+          "title": "Dominique Méda, sociologue : « Pour réussir la transition écologique, nous devons conditionner les aides publiques à la réduction des coûts sociaux »",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/05/dominique-meda-sociologue-pour-reussir-la-transition-ecologique-nous-devons-conditionner-les-aides-publiques-a-la-reduction-des-couts-sociaux_6766320_3232.html",
+          "published": "2026-09-05T11:00:10+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Face au dérèglement climatique et à ses conséquences, les dirigeants politiques ne peuvent plus tergiverser et doivent adopter les voies et moyens pou",
+          "image": "https://img.lemde.fr/2026/08/13/250/0/3000/1500/644/322/60/0/53551c2_upload-1-mrlbtuw1kgts-euge-nie-baccotl1005757.jpg",
+          "other_news": true
+        },
+        {
+          "title": "« Je ne vais pas rester assise à regarder des émissions à la télé » : les habitants s’accommodent du nouveau pic de chaleur à Toulouse",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/05/je-ne-vais-pas-rester-assise-a-regarder-des-emissions-a-la-tele-les-habitants-s-accommodent-du-nouveau-pic-de-chaleur-a-toulouse_6766310_3244.html",
+          "published": "2026-09-05T09:28:02+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "​Après un été marqué par des canicules à répétition, la chaleur a joué les prolongations vendredi à Toulouse, où Météo-France a relevé 37,2 °C, un rec",
+          "image": "https://img.lemde.fr/2026/09/05/819/0/6720/3360/644/322/60/0/daf63a3_upload-1-001lpgfpzotz-vn20260904-toulouse-chaleur-063.jpg",
+          "other_news": true
+        },
+        {
           "title": "« L’agroécologie est un puissant levier d’adaptation de l’agriculture au changement climatique »",
           "link": "https://www.lemonde.fr/idees/article/2026/09/04/l-agroecologie-est-un-puissant-levier-d-adaptation-de-l-agriculture-au-changement-climatique_6765755_3232.html",
           "published": "2026-09-04T11:16:17+02:00",
@@ -1457,17 +1490,6 @@
           "language": "fr",
           "summary": "L’agronome Philippe Pointereau démontre, dans une tribune au « Monde », comment il est possible, sans épuiser les sols, de préserver l’activité agrico",
           "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/29e0f12_upload-1-upyybh9kyyvg-frame-778.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Présidentielle 2027 : Raphaël Glucksmann se pose en figure de la « révolution écologique » à gauche",
-          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/03/presidentielle-2027-raphael-glucksmann-se-pose-en-figure-de-la-revolution-ecologique-a-gauche_6765180_4355770.html",
-          "published": "2026-09-03T17:33:56+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "« Les candidats et le climat ». Se présentant comme le « président de la transformation écologique », l’eurodéputé prévoit notamment de faire de la dé",
-          "image": "https://img.lemde.fr/2026/08/23/549/0/6585/3292/644/322/60/0/4bef334_ftp-1-0zq5mzzt9hxq-5906047-01-06.jpg",
           "other_news": true
         },
         {
@@ -1515,6 +1537,17 @@
           "other_news": true
         },
         {
+          "title": "Brazil’s Senate passes rare earth minerals regulation, paving the way for boosted exploration",
+          "link": "https://news.mongabay.com/short-article/2026/09/brazils-senate-passes-rare-earth-minerals-regulation-paving-the-way-for-boosted-exploration/",
+          "published": "2026-09-04T16:59:34+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "RIO DE JANEIRO (AP) — Brazil’s Senate has approved a bill to regulate the exploration of critical minerals, including rare earths, marking a step towa",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/04165511/AP26230663406368-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "On renewable energy, it’s time to debunk the ‘transition minerals’ narrative (commentary)",
           "link": "https://news.mongabay.com/2026/09/on-renewable-energy-its-time-to-debunk-the-transition-minerals-narrative-commentary/",
           "published": "2026-09-03T15:18:27+00:00",
@@ -1556,28 +1589,6 @@
           "language": "en",
           "summary": "In the Bolivian Chaco, the Isoceño Guaraní did not need conservationists to tell them that their land was under pressure. Agricultural settlement was",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/03014353/mike-painter-header-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Philippines fast-tracks critical minerals, raising Indigenous, environmental concerns",
-          "link": "https://news.mongabay.com/2026/09/philippines-fast-tracks-critical-minerals-raising-indigenous-environmental-concerns/",
-          "published": "2026-09-02T16:01:32+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Philippines is moving to accelerate critical-mineral development across millions of hectares of land, raising concerns that expanded mining and fa",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02140321/8166319417_53fda9a02a_o-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Global warming will exceed limit, UN says in a report that maps path to get back below danger zone",
-          "link": "https://news.mongabay.com/short-article/2026/09/global-warming-will-exceed-limit-un-says-in-a-report-that-maps-path-to-get-back-below-danger-zone/",
-          "published": "2026-09-02T15:54:13+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In a strategic retreat, the United Nations concedes that Earth has lost its chance to prevent some of the worst impacts of global warming. A report re",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02155119/AP26241239660711-768x512.jpg",
           "other_news": true
         }
       ]

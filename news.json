@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T15:13:52.040817+00:00",
+  "generated_at": "2026-09-05T16:06:32.460143+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -543,17 +543,6 @@
           "type": "news",
           "language": "en",
           "summary": "The UK is pioneering the use of “super batteries” that can store energy for long periods, smoothing the output from&#8230;\nThe post Q&amp;A: What is ‘",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "When taps run dry in the Caribbean, it’s not enough to blame El Niño",
-          "link": "https://www.climatechangenews.com/2026/08/06/as-heatwave-hits-caribbean-its-not-just-el-nino-to-blame/",
-          "published": "2026-08-06T15:36:14+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Climate change means El Niño is heating already hotter land and sea, causing devastation across the region and the world\nThe post When taps run dry in",
           "image": null,
           "other_news": false
         },
@@ -1449,6 +1438,17 @@
           "other_news": true
         },
         {
+          "title": "« On s’adapte à la situation » : à Laval, les terrains de football à l’épreuve de la sécheresse et du changement climatique",
+          "link": "https://www.lemonde.fr/sport/article/2026/09/05/on-s-adapte-a-la-situation-a-laval-les-terrains-de-football-a-l-epreuve-de-la-secheresse-et-du-changement-climatique_6766360_3242.html",
+          "published": "2026-09-05T17:30:20+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Avec les épisodes caniculaires de l’été, la Mayenne a instauré des restrictions d’usage de l’eau. Si le Stade lavallois, pensionnaire de Ligue 2, est",
+          "image": "https://img.lemde.fr/2026/09/05/732/0/4256/2128/644/322/60/0/8de8e37_upload-1-5vsps142zh10-vfeo-laval-040926-1471.jpg",
+          "other_news": true
+        },
+        {
           "title": "Dominique Méda, sociologue : « Pour réussir la transition écologique, nous devons conditionner les aides publiques à la réduction des coûts sociaux »",
           "link": "https://www.lemonde.fr/idees/article/2026/09/05/dominique-meda-sociologue-pour-reussir-la-transition-ecologique-nous-devons-conditionner-les-aides-publiques-a-la-reduction-des-couts-sociaux_6766320_3232.html",
           "published": "2026-09-05T11:00:10+02:00",
@@ -1468,17 +1468,6 @@
           "language": "fr",
           "summary": "​Après un été marqué par des canicules à répétition, la chaleur a joué les prolongations vendredi à Toulouse, où Météo-France a relevé 37,2 °C, un rec",
           "image": "https://img.lemde.fr/2026/09/05/819/0/6720/3360/644/322/60/0/daf63a3_upload-1-001lpgfpzotz-vn20260904-toulouse-chaleur-063.jpg",
-          "other_news": true
-        },
-        {
-          "title": "« L’agroécologie est un puissant levier d’adaptation de l’agriculture au changement climatique »",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/04/l-agroecologie-est-un-puissant-levier-d-adaptation-de-l-agriculture-au-changement-climatique_6765755_3232.html",
-          "published": "2026-09-04T11:16:17+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "L’agronome Philippe Pointereau démontre, dans une tribune au « Monde », comment il est possible, sans épuiser les sols, de préserver l’activité agrico",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/29e0f12_upload-1-upyybh9kyyvg-frame-778.jpg",
           "other_news": true
         },
         {

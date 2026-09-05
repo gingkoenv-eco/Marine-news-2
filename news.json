@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T10:36:43.763325+00:00",
+  "generated_at": "2026-09-05T11:17:28.878381+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -492,17 +492,6 @@
           "other_news": false
         },
         {
-          "title": "Isle of May puffin numbers plummet after extreme weather",
-          "link": "https://www.bbc.co.uk/news/articles/c7837r4kd0xo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-04T17:42:38+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Researchers said numbers in one of the UK's most significant colonies of the seabirds may have fallen by 30%.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee23/live/d9bb7b30-a887-11f1-aed2-8d6da8d75094.jpg",
-          "other_news": false
-        },
-        {
           "title": "Pourquoi mesurer les microplastiques est un véritable casse-tête",
           "link": "https://theconversation.com/pourquoi-mesurer-les-microplastiques-est-un-veritable-casse-tete-286201",
           "published": "2026-09-03T10:43:53+00:00",
@@ -797,6 +786,17 @@
           "language": "en",
           "summary": "And for the first time renewable generation has consistently exceeded non-renewable generation since January.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bcb/live/93328190-a7a1-11f1-a7ad-37a1f7dc081c.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Flourishing green communities are changing lives",
+          "link": "https://www.bbc.co.uk/news/articles/cq8j0vlznx4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-05T11:04:17+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Four projects have been nominated in the environmental category in Devon's Make a Difference Awards.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93ec/live/ef67a670-a855-11f1-ae45-e9984fc27c77.jpg",
           "other_news": true
         },
         {
@@ -1346,17 +1346,6 @@
           "type": "news",
           "language": "en",
           "summary": "Environmental destruction, like clear-cutting a forest, can boost gross domestic product but it reduces a country's real wealth\nThe post As fires burn",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Quarter of countries still missing UN climate plans 18 months after deadline",
-          "link": "https://www.climatechangenews.com/2026/08/06/quarter-of-countries-still-missing-un-climate-plans-18-months-after-deadline/",
-          "published": "2026-08-06T11:05:57+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Egypt, Vietnam, Argentina and the Philippines are among the 45 nations that have breached the Paris Agreement by not submitting a new NDC to the UN\nTh",
           "image": null,
           "other_news": true
         },

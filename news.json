@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T16:06:32.460143+00:00",
+  "generated_at": "2026-09-06T10:58:50.019689+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -345,6 +345,19 @@
           "other_news": false
         }
       ],
+      "Nature-Based Solutions & Restoration": [
+        {
+          "title": "Indigenous knowledge helps reveal the ties between reefs and mangroves",
+          "link": "https://news.mongabay.com/2026/09/indigenous-knowledge-helps-reveal-the-ties-between-reefs-and-mangroves/",
+          "published": "2026-09-06T07:00:38+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In a recent scientific article in the journal Ocean &#38; Coastal Management, alongside the list of scientist-authors were the Bardi Jawi and Oorany R",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/04165859/l.-Phillip-Bibido-McCarthy-%C2%A9ABC-Kimberley-768x512.png",
+          "other_news": false
+        }
+      ],
       "Polar & Reef Ecosystems & Resilience": [
         {
           "title": "World’s oceans hit hottest temperature on record in August",
@@ -470,28 +483,6 @@
           "other_news": false
         },
         {
-          "title": "Charity backs call for resting seal protection",
-          "link": "https://www.bbc.co.uk/news/articles/c4g58ylj735o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-05T08:37:26+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Seal Research Trust backs calls to make deliberate seal disturbance an offence.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eac/live/97b8a6a0-a8f9-11f1-86e0-d390c0605def.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Plea to give Thames seals space for everyone's safety",
-          "link": "https://www.bbc.co.uk/news/articles/c624x0l9dvgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-05T07:03:32+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Getting too close to the animals spotted along the River Thames can be harmful for both them and members of the public, a charity says.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d53c/live/559d9a60-a853-11f1-80f8-c33181935c5a.jpg",
-          "other_news": false
-        },
-        {
           "title": "Pourquoi mesurer les microplastiques est un véritable casse-tête",
           "link": "https://theconversation.com/pourquoi-mesurer-les-microplastiques-est-un-veritable-casse-tete-286201",
           "published": "2026-09-03T10:43:53+00:00",
@@ -602,6 +593,17 @@
           "other_news": false
         },
         {
+          "title": "Quatre semaines à bord d’un brise-glace : pourquoi le bruit des navires dans l’Arctique est-il dangereux pour les narvals ?",
+          "link": "https://www.lemonde.fr/videos/video/2026/09/06/quatre-semaines-a-bord-d-un-brise-glace-pourquoi-le-bruit-des-navires-dans-l-arctique-est-il-dangereux-pour-les-narvals_6767229_1669088.html",
+          "published": "2026-09-06T12:00:19+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "« Terre de glace » (4/4) Les narvals sont des mammifères profondément ancrés dans la culture des communautés inuites. Ils sont aussi particulièrement",
+          "image": "https://img.lemde.fr/2026/07/29/60/0/1920/960/644/322/60/0/7145ee3_upload-1-1cdtq0abtmve-tile-7.jpg",
+          "other_news": false
+        },
+        {
           "title": "How brainless sea sponges use sunset as a cue\nto prepare for metamorphosis",
           "link": "https://theconversation.com/how-brainless-sea-sponges-use-sunset-as-a-cue-to-prepare-for-metamorphosis-290731",
           "published": "2026-09-04T05:01:13+00:00",
@@ -695,17 +697,6 @@
           "other_news": true
         },
         {
-          "title": "Malaisie : l’état d’urgence aux fumées déclaré sur une large partie de l’île de Bornéo, en raison des gigantesques incendies qui sévissent toujours en Indonésie",
-          "link": "https://www.lemonde.fr/international/article/2026/09/04/malaisie-l-etat-d-urgence-aux-fumees-declare-sur-une-large-partie-de-l-ile-de-borneo-en-raison-des-gigantesques-incendies-qui-sevissent-toujours-en-indonesie_6765783_3210.html",
-          "published": "2026-09-04T13:55:47+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans l’Etat du Sarawak, la pollution de l’air causée par les feux entraîne la fermeture de près de 650 écoles de la région de Serian à partir de lundi",
-          "image": "https://img.lemde.fr/2026/09/04/401/0/4820/2410/644/322/60/0/15d8362_ftp-1-fsheyhozvrle-ee3cd48a21a54c4bbcb882fadd7f9e3c-0-a8e7bcebf3e049f0bda223f6f51219a3.jpg",
-          "other_news": true
-        },
-        {
           "title": "Un «signal important» : poursuivie pour écocide, l’entreprise Locacil condamnée à remettre en état les sites qu’elle a pollués",
           "link": "https://vert.eco/rapports-de-force/un-signal-important-poursuivie-pour-ecocide-lentreprise-locacil-condamnee-a-remettre-en-etat-les-sites-quelle-a-pollues/",
           "published": "2026-09-02T15:30:56+00:00",
@@ -741,20 +732,20 @@
           "summary": "The case for large-scale technologies that reflect solar radiation back into space rests on global warming’s grim reality.",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "Nepal’s flood disaster puts its hydropower-first strategy, exports to the test",
-          "link": "https://news.mongabay.com/2026/09/nepals-flood-disaster-puts-its-hydropower-first-strategy-exports-to-the-test/",
-          "published": "2026-09-02T16:12:52+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "KATHMANDU — Nepal&#8217;s long-held policy of harnessing hydroelectricity and using it for economic growth has met new challenges: potential catastrop",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02160152/nepal-flood-2026-2-768x512.jpg",
-          "other_news": true
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+          "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-05T23:20:00+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b63/live/c35016e0-a872-11f1-a291-b542ee92de7c.jpg",
+          "other_news": true
+        },
         {
           "title": "At least 37 killed by toxic fumes during alleged petrol theft in Nigeria, reports say",
           "link": "https://www.bbc.co.uk/news/articles/cde024l10dyo?at_medium=RSS&at_campaign=rss",
@@ -1438,9 +1429,20 @@
           "other_news": true
         },
         {
+          "title": "En Australie-Occidentale, le gouvernement prépare l’avenir après la fermeture annoncée des centrales à charbon publiques",
+          "link": "https://www.lemonde.fr/economie/article/2026/09/06/en-australie-occidentale-le-gouvernement-prepare-l-avenir-apres-la-fermeture-annoncee-des-centrales-a-charbon-publiques_6766772_3234.html",
+          "published": "2026-09-06T05:00:18+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La cité minière de Collie, où sont situées trois centrales thermiques, ambitionne d’être un modèle à une transition énergétique et économique réussie.",
+          "image": "https://img.lemde.fr/2026/08/24/0/0/8192/4096/644/322/60/0/063de4d_upload-1-y9wneh67zunr-collie-battery-energy-storage-system-t6a4865.JPG",
+          "other_news": true
+        },
+        {
           "title": "« On s’adapte à la situation » : à Laval, les terrains de football à l’épreuve de la sécheresse et du changement climatique",
           "link": "https://www.lemonde.fr/sport/article/2026/09/05/on-s-adapte-a-la-situation-a-laval-les-terrains-de-football-a-l-epreuve-de-la-secheresse-et-du-changement-climatique_6766360_3242.html",
-          "published": "2026-09-05T17:30:20+02:00",
+          "published": "2026-09-05T17:30:01+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1457,17 +1459,6 @@
           "language": "fr",
           "summary": "Face au dérèglement climatique et à ses conséquences, les dirigeants politiques ne peuvent plus tergiverser et doivent adopter les voies et moyens pou",
           "image": "https://img.lemde.fr/2026/08/13/250/0/3000/1500/644/322/60/0/53551c2_upload-1-mrlbtuw1kgts-euge-nie-baccotl1005757.jpg",
-          "other_news": true
-        },
-        {
-          "title": "« Je ne vais pas rester assise à regarder des émissions à la télé » : les habitants s’accommodent du nouveau pic de chaleur à Toulouse",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/05/je-ne-vais-pas-rester-assise-a-regarder-des-emissions-a-la-tele-les-habitants-s-accommodent-du-nouveau-pic-de-chaleur-a-toulouse_6766310_3244.html",
-          "published": "2026-09-05T09:28:00+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "​Après un été marqué par des canicules à répétition, la chaleur a joué les prolongations vendredi à Toulouse, où Météo-France a relevé 37,2 °C, un rec",
-          "image": "https://img.lemde.fr/2026/09/05/819/0/6720/3360/644/322/60/0/daf63a3_upload-1-001lpgfpzotz-vn20260904-toulouse-chaleur-063.jpg",
           "other_news": true
         },
         {
@@ -1489,6 +1480,17 @@
           "type": "news",
           "language": "fr",
           "summary": "El Niño, l’anomalie océanique naturelle et cyclique qui réchauffe le climat, s’annonce de très haute intensité en fin d’année, prévient ce jeudi matin",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Africa gets only 23% of the climate finance it needs – and pays too much for it",
+          "link": "https://theconversation.com/africa-gets-only-23-of-the-climate-finance-it-needs-and-pays-too-much-for-it-291103",
+          "published": "2026-09-06T05:35:35+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Climate finance should not be separated from development funding.",
           "image": null,
           "other_news": true
         },

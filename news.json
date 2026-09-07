@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T12:56:50.598289+00:00",
+  "generated_at": "2026-09-07T13:32:37.472122+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -503,17 +503,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Selon la méthode utilisée, la quantité de microplastiques détectée dans un échantillon peut augmenter jusqu’à des taux 15&nbsp;fois plus élevés.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Empty North Sea oil fields could store enough green hydrogen to power the country for seven years",
-          "link": "https://theconversation.com/empty-north-sea-oil-fields-could-store-enough-green-hydrogen-to-power-the-country-for-seven-years-289422",
-          "published": "2026-08-24T13:54:13+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Green hydrogen production is, in effect, a way of bottling renewable energy.",
           "image": null,
           "other_news": false
         },
@@ -1340,6 +1329,17 @@
           "language": "en",
           "summary": "With little regulation, the advertising industry continues to promote emissions-heavy activities like flying and meat-eating while making token green",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "100 000 morts par an : les fumées des mégafeux menacent la santé mondiale",
+          "link": "https://reporterre.net/100-000-morts-par-an-les-fumees-des-megafeux-menacent-la-sante-mondiale",
+          "published": "2026-09-07T13:29:11+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Selon le dernier bulletin sur la qualité de l'air et le climat de l'Organisation météorologique mondiale (OMM), les mégafeux — c",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/pixnio-2100x1576_1_1_-6c35c.jpg?1788787754",
           "other_news": true
         },
         {

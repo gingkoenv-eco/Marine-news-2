@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T16:19:23.763952+00:00",
+  "generated_at": "2026-09-07T12:34:38.018128+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -85,17 +85,6 @@
           "other_news": false
         },
         {
-          "title": "Fears of ‘catastrophic’ decline of giant Australian cuttlefish after only 44 counted in dive survey",
-          "link": "https://www.theguardian.com/environment/2026/aug/09/giant-australian-cuttlefish-population-catastrophic-decline",
-          "published": "2026-08-08T20:00:09+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Calls for South Australian government to release official estimates for cuttlefish, which once numbered in hundreds of thousands in upper Spencer Gulf",
-          "image": "https://i.guim.co.uk/img/media/901f669dce8387f63abeb584d0c8f9246cbf0724/170_1323_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=4fa003a12e7507b57f4eec1245a4f145",
-          "other_news": false
-        },
-        {
           "title": "As marine heat breaks records, countries seek ocean roadmap at COP31",
           "link": "https://www.climatechangenews.com/2026/08/20/marine-heat-records-countries-ocean-roadmap-australia-turkiye-cop31/",
           "published": "2026-08-20T15:07:29+00:00",
@@ -154,20 +143,20 @@
           "summary": "Des chercheuses proposent un nouvel indicateur, l’empreinte plastique particulaire, pour mesurer la pollution plastique, invisible dans les bilans car",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "Pollution marine : « Réduire la production de plastique est bien plus efficace que de chercher à nettoyer les océans »",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/05/pollution-marine-reduire-la-production-de-plastique-est-bien-plus-efficace-que-de-chercher-a-nettoyer-les-oceans_6766316_3232.html",
-          "published": "2026-09-05T10:00:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Différentes initiatives ont vu le jour pour retirer les déchets plastiques qui souillent les océans. Le financement de certaines d’entre elles est aus",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/b64daeb_upload-1-8jghv1bak7pa-frame-1280.jpg",
-          "other_news": false
         }
       ],
       "Marine Biodiversity & Conservation": [
+        {
+          "title": "‘Sharks are my film stars’: how the Jacques Cousteau of the North Sea finally unlocked its beauty",
+          "link": "https://www.theguardian.com/film/2026/sep/07/sharks-film-stars-jacques-cousteau-north-sea-nature-untamed",
+          "published": "2026-09-07T04:00:24+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Epic plankton blooms make filming in the North Sea notoriously difficult. But a new documentary gives a rare glimpse of the kaleidoscopic life – seals",
+          "image": "https://i.guim.co.uk/img/media/133cf01dccae88c5760a3bf553f4ee5572f3a55e/2404_906_4703_3762/master/4703.jpg?width=140&quality=85&auto=format&fit=max&s=8cda8c232809d104faa0b1370a0b8d27",
+          "other_news": false
+        },
         {
           "title": "The place that never freezes: the Arctic habitat where global heating threatens more ice, not less",
           "link": "https://www.theguardian.com/environment/2026/sep/03/the-place-that-never-freezes-the-arctic-habitat-where-global-heating-threatens-more-ice-not-less",
@@ -264,6 +253,17 @@
           "type": "news",
           "language": "en",
           "summary": "A fish-finding expedition not only detects unexpected species but also uncovers a living link to Missouri’s geological past.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Matters of the heart: what’s a blue whale’s heartbeat telling us?",
+          "link": "https://oceanographicmagazine.com/news/matters-of-the-heart-whats-a-blue-whales-heartbeat-telling-us/",
+          "published": "2026-09-07T11:40:11+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "New heart-rate data from blue and humpback whales shows their hearts behave like sprinters' during feeding lunges - a discovery that reveals how whale",
           "image": null,
           "other_news": false
         },
@@ -404,6 +404,19 @@
           "other_news": false
         }
       ],
+      "Species Migration & Habitat Change": [
+        {
+          "title": "Immigration in Sweden: how the country went from one of Europe’s most welcoming, to one of its most restrictive",
+          "link": "https://theconversation.com/immigration-in-sweden-how-the-country-went-from-one-of-europes-most-welcoming-to-one-of-its-most-restrictive-288995",
+          "published": "2026-09-07T08:57:32+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The 2015 refugee crisis fundamentally changed the political debate around migration.",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Other Marine News": [
         {
           "title": "Could this humble sea sponge clean up the world’s ports?",
@@ -538,6 +551,17 @@
           "other_news": false
         },
         {
+          "title": "At regional summit, Pacific islands ask for COP31 support for clean energy and finance",
+          "link": "https://www.climatechangenews.com/2026/09/07/pacific-islands-forum-cop31-clean-energy-finance-ocean-renewables/",
+          "published": "2026-09-07T10:00:34+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Pacific nations want the annual climate conference to deliver funding for renewables and ocean protection, as the UN warns of devastating sea level ri",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "46 % des poissons pêchés pourraient servir à nourrir des poissons d'élevage d'ici 15 ans",
           "link": "https://reporterre.net/46-des-poissons-peches-pourraient-servir-a-nourrir-des-poissons-d-elevage-d-ici-15-ans",
           "published": "2026-09-04T12:05:14+00:00",
@@ -582,17 +606,6 @@
           "other_news": false
         },
         {
-          "title": "Antarctica’s smallest marine life at risk as melting ice dilutes waters",
-          "link": "https://oceanographicmagazine.com/news/antarcticas-smallest-marine-life-at-risk-as-melting-ice-dilutes-waters/",
-          "published": "2026-08-28T15:49:45+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new study warns that \"freshening\" - falling salt levels driven by melting Antarctic ice - is damaging marine invertebrates' gills and salt regulatio",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Quatre semaines à bord d’un brise-glace : pourquoi le bruit des navires dans l’Arctique est-il dangereux pour les narvals ?",
           "link": "https://www.lemonde.fr/videos/video/2026/09/06/quatre-semaines-a-bord-d-un-brise-glace-pourquoi-le-bruit-des-navires-dans-l-arctique-est-il-dangereux-pour-les-narvals_6767229_1669088.html",
           "published": "2026-09-06T12:00:09+02:00",
@@ -601,17 +614,6 @@
           "language": "fr",
           "summary": "« Terre de glace » (4/4) Les narvals sont des mammifères profondément ancrés dans la culture des communautés inuites. Ils sont aussi particulièrement",
           "image": "https://img.lemde.fr/2026/07/29/60/0/1920/960/644/322/60/0/7145ee3_upload-1-1cdtq0abtmve-tile-7.jpg",
-          "other_news": false
-        },
-        {
-          "title": "How brainless sea sponges use sunset as a cue\nto prepare for metamorphosis",
-          "link": "https://theconversation.com/how-brainless-sea-sponges-use-sunset-as-a-cue-to-prepare-for-metamorphosis-290731",
-          "published": "2026-09-04T05:01:13+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Sea sponges are some of the world’s simplest animals – but even so, the rhythm of night and day kicks off a crucial stage of their life cycle.",
-          "image": null,
           "other_news": false
         },
         {
@@ -645,17 +647,6 @@
           "language": "en",
           "summary": "Lionfish are beautiful, venomous and devastating Caribbean reefs. In Honduras, divers are fighting back with homemade spears, hunting competitions and",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/05071051/Mongabay_Thumbnail_Honduras_FeaturedShort.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Women farmers in Sumatra find a gentler way to keep elephants at bay",
-          "link": "https://news.mongabay.com/short-article/2026/09/women-farmers-in-sumatra-find-a-gentler-way-to-keep-elephants-at-bay/",
-          "published": "2026-09-03T05:31:05+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "On the island of Sumatra, Indonesia, in the buffer zone of a national park, a women-led farming group has come up with a solution to reduce encounters",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/03053019/Foto-3-Rahmi-Carolina-768x512.jpeg",
           "other_news": false
         }
       ]
@@ -723,18 +714,51 @@
       ],
       "Marine Protected Areas & Policy": [
         {
-          "title": "As global heating heads to 1.8C, is it time to consider the ‘Voldemort’ of climate policy?",
-          "link": "https://theconversation.com/as-global-heating-heads-to-1-8c-is-it-time-to-consider-the-voldemort-of-climate-policy-290427",
-          "published": "2026-09-04T01:32:57+00:00",
+          "title": "View from The Hill: Pauline Hanson sets new hares running on super",
+          "link": "https://theconversation.com/view-from-the-hill-pauline-hanson-sets-new-hares-running-on-super-290827",
+          "published": "2026-09-07T07:46:13+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "The case for large-scale technologies that reflect solar radiation back into space rests on global warming’s grim reality.",
+          "summary": "Pauline Hanson’s attention-grabbing policy to give mortgage holders and renters is high populism while being – according to its many critics – low eco",
           "image": null,
           "other_news": true
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Public asked to have their say on proposed new renewable energy company",
+          "link": "https://www.bbc.co.uk/news/articles/c780n702pp4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-07T12:09:50+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The proposed plans aim to reduce the cost of energy in the long-term, but won't be able to set bills.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a64/live/bdcc0c50-aaa8-11f1-b109-879e35c24276.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Turning cooler with wet and windy weather forecast for UK this week",
+          "link": "https://www.bbc.co.uk/weather/articles/cvgynj49lzmo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-07T03:09:04+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Weekend warmth gives way to rain and strong winds for many into the start of the new week.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91a/live/6a011d30-aa8b-11f1-9e5d-f9e7792c40d7.jpg",
+          "other_news": true
+        },
+        {
+          "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+          "link": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-06T23:13:29+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082b/live/50dfea10-a839-11f1-b3a7-d5de760fef6e.jpg",
+          "other_news": true
+        },
         {
           "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
           "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
@@ -769,14 +793,14 @@
           "other_news": true
         },
         {
-          "title": "Flourishing green communities are changing lives",
-          "link": "https://www.bbc.co.uk/news/articles/cq8j0vlznx4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-05T11:04:17+00:00",
+          "title": "Study to reveal more about Guernsey's wild ferrets",
+          "link": "https://www.bbc.co.uk/news/articles/c770vv8r888o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-07T11:29:57+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Four projects have been nominated in the environmental category in Devon's Make a Difference Awards.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93ec/live/ef67a670-a855-11f1-ae45-e9984fc27c77.jpg",
+          "summary": "A conservation group has been spending a year studying wild ferrets after securing government funds.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/478f/live/2df4f720-aab4-11f1-bdcc-b5edf6495ed5.jpg",
           "other_news": true
         },
         {
@@ -1237,7 +1261,7 @@
           "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local commun",
+          "summary": "Pacific leaders will appeal for pledges to a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islan",
           "image": null,
           "other_news": true
         },
@@ -1316,6 +1340,17 @@
           "language": "en",
           "summary": "With little regulation, the advertising industry continues to promote emissions-heavy activities like flying and meat-eating while making token green",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Des « refuges climatiques » pour supporter la chaleur : le pari réussi de Barcelone",
+          "link": "https://reporterre.net/Des-refuges-climatiques-pour-supporter-la-chaleur-le-pari-reussi-de-Barcelone",
+          "published": "2026-09-07T05:05:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Barcelone mise sur un réseau de 500 refuges climatiques pour permettre à ses habitants de trouver gratuitement fraîcheur et lien",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/img_3171-ca1d8.jpg?1788757503",
           "other_news": true
         },
         {
@@ -1418,6 +1453,17 @@
           "other_news": true
         },
         {
+          "title": "Une majorité des fabricants de smartphones ne respectent pas leurs obligations d’information en matière de réparation et de durabilité",
+          "link": "https://www.lemonde.fr/pixels/article/2026/09/07/une-majorite-des-fabricants-de-smartphones-ne-respectent-pas-leurs-obligations-d-information-en-matiere-de-reparation-et-de-durabilite_6767810_4408996.html",
+          "published": "2026-09-07T07:00:15+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les notices de réparation obligatoires dans l’Union européenne depuis 2025 sont loin d’être toujours accessibles, pointe un rapport de Right to Repair",
+          "image": "https://img.lemde.fr/2026/09/04/171/0/2047/1023/644/322/60/0/e6c4d14_upload-1-ze6piunxkorv-45259347801-b9d847399b-k.jpg",
+          "other_news": true
+        },
+        {
           "title": "En Australie-Occidentale, le gouvernement prépare l’avenir après la fermeture annoncée des centrales à charbon publiques",
           "link": "https://www.lemonde.fr/economie/article/2026/09/06/en-australie-occidentale-le-gouvernement-prepare-l-avenir-apres-la-fermeture-annoncee-des-centrales-a-charbon-publiques_6766772_3234.html",
           "published": "2026-09-06T05:00:18+02:00",
@@ -1426,28 +1472,6 @@
           "language": "fr",
           "summary": "La cité minière de Collie, où sont situées trois centrales thermiques, ambitionne d’être un modèle à une transition énergétique et économique réussie.",
           "image": "https://img.lemde.fr/2026/08/24/0/0/8192/4096/644/322/60/0/063de4d_upload-1-y9wneh67zunr-collie-battery-energy-storage-system-t6a4865.JPG",
-          "other_news": true
-        },
-        {
-          "title": "« On s’adapte à la situation » : à Laval, les terrains de football à l’épreuve de la sécheresse et du changement climatique",
-          "link": "https://www.lemonde.fr/sport/article/2026/09/05/on-s-adapte-a-la-situation-a-laval-les-terrains-de-football-a-l-epreuve-de-la-secheresse-et-du-changement-climatique_6766360_3242.html",
-          "published": "2026-09-05T17:30:01+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Avec les épisodes caniculaires de l’été, la Mayenne a instauré des restrictions d’usage de l’eau. Si le Stade lavallois, pensionnaire de Ligue 2, est",
-          "image": "https://img.lemde.fr/2026/09/05/732/0/4256/2128/644/322/60/0/8de8e37_upload-1-5vsps142zh10-vfeo-laval-040926-1471.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Dominique Méda, sociologue : « Pour réussir la transition écologique, nous devons conditionner les aides publiques à la réduction des coûts sociaux »",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/05/dominique-meda-sociologue-pour-reussir-la-transition-ecologique-nous-devons-conditionner-les-aides-publiques-a-la-reduction-des-couts-sociaux_6766320_3232.html",
-          "published": "2026-09-05T11:00:10+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Face au dérèglement climatique et à ses conséquences, les dirigeants politiques ne peuvent plus tergiverser et doivent adopter les voies et moyens pou",
-          "image": "https://img.lemde.fr/2026/08/13/250/0/3000/1500/644/322/60/0/53551c2_upload-1-mrlbtuw1kgts-euge-nie-baccotl1005757.jpg",
           "other_news": true
         },
         {
@@ -1473,6 +1497,50 @@
           "other_news": true
         },
         {
+          "title": "Yes, passing 1.5 C of global warming is cause for alarm, but not despair",
+          "link": "https://theconversation.com/yes-passing-1-5-c-of-global-warming-is-cause-for-alarm-but-not-despair-291331",
+          "published": "2026-09-07T12:21:55+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Exceeding 1.5 C of global warming is a giant warning flag telling us not to give up, but to redouble our efforts to slam on the brakes on climate chan",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Gas from the Beetaloo Basin will only pour fuel on the climate change fire",
+          "link": "https://theconversation.com/gas-from-the-beetaloo-basin-will-only-pour-fuel-on-the-climate-change-fire-290535",
+          "published": "2026-09-07T01:31:10+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Gas is now flowing from the vast – and controversial – fossil fuel project.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Investments promising social or environmental benefits need tougher anti-greenwashing rules",
+          "link": "https://theconversation.com/investments-promising-social-or-environmental-benefits-need-tougher-anti-greenwashing-rules-291241",
+          "published": "2026-09-07T01:09:29+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Australia and New Zealand should introduce a mandatory impact-risk statement for funds making explicit claims about their environmental or social impa",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How Indigenous Protected Areas became a vital way to protect nature in Australia",
+          "link": "https://theconversation.com/how-indigenous-protected-areas-became-a-vital-way-to-protect-nature-in-australia-288394",
+          "published": "2026-09-06T20:09:58+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Since the first pilot program in 1998, Australia’s Indigenous Protected Areas have grown hugely. How can we strengthen them for the future?",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Africa gets only 23% of the climate finance it needs – and pays too much for it",
           "link": "https://theconversation.com/africa-gets-only-23-of-the-climate-finance-it-needs-and-pays-too-much-for-it-291103",
           "published": "2026-09-06T05:35:35+00:00",
@@ -1484,25 +1552,14 @@
           "other_news": true
         },
         {
-          "title": "A record-shattering El Niño is almost here. Here’s what that means for the world’s weather",
-          "link": "https://theconversation.com/a-record-shattering-el-nino-is-almost-here-heres-what-that-means-for-the-worlds-weather-291258",
-          "published": "2026-09-04T06:21:45+00:00",
-          "source": "The Conversation",
+          "title": "What conservation rumors reveal about climate projects in the Congo Basin (commentary)",
+          "link": "https://news.mongabay.com/2026/09/what-conservation-rumors-reveal-about-climate-projects-in-the-congo-basin-commentary/",
+          "published": "2026-09-07T07:00:27+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "It threatens to compound the worst effects of climate change.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Australia needs renewable energy fast – but building it is only half the battle",
-          "link": "https://theconversation.com/australia-needs-renewable-energy-fast-but-building-it-is-only-half-the-battle-290066",
-          "published": "2026-09-03T20:09:07+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Regional communities often don’t oppose renewables, but want a say in where they go and who foots the bill.",
-          "image": null,
+          "summary": "In 2020, a strange rumor began circulating in villages around the Yangambi Biosphere Reserve in the Democratic Republic of Congo’s Tshopo province. A",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02163523/50481042727_043f1b4572_k-768x512.jpg",
           "other_news": true
         },
         {
@@ -1547,17 +1604,6 @@
           "language": "en",
           "summary": "Environmental organizations have raised concerns that a recent partnership between the state petrochemical companies of Brazil and Mexico will commit",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/12/10060125/AP24088006980479-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Michael Painter put Indigenous land rights at the center of conservation",
-          "link": "https://news.mongabay.com/2026/09/michael-painter-put-indigenous-land-rights-at-the-center-of-conservation/",
-          "published": "2026-09-02T22:12:56+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In the Bolivian Chaco, the Isoceño Guaraní did not need conservationists to tell them that their land was under pressure. Agricultural settlement was",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/03014353/mike-painter-header-768x512.jpg",
           "other_news": true
         }
       ]

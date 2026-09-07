@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T13:32:37.472122+00:00",
+  "generated_at": "2026-09-07T17:45:02.566335+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -562,17 +562,6 @@
           "other_news": false
         },
         {
-          "title": "Manger de la terre, se frotter à des coraux... Comment les animaux se soignent",
-          "link": "https://reporterre.net/Manger-de-la-terre-se-frotter-a-des-coraux-Comment-les-animaux-se-soignent",
-          "published": "2026-08-29T05:20:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Des coraux pour la peau des dauphins, de la terre pour l'estomac des singes, de l'alcool pour les abeilles malades... Tour d'hor",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/13_animauxgeniaux_dauphinetgorgone_couleur_rvb-ad379.jpg?1787980801",
-          "other_news": false
-        },
-        {
           "title": "Rare photo of octopus hitching a ride on dolphin",
           "link": "https://oceanographicmagazine.com/news/rare-photo-of-octopus-hitching-a-ride-on-dolphin/",
           "published": "2026-09-02T14:10:57+00:00",
@@ -595,6 +584,17 @@
           "other_news": false
         },
         {
+          "title": "En Islande, la reprise de la chasse à la baleine relance les discussions sur son interdiction",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/07/en-islande-la-reprise-de-la-chasse-a-la-baleine-agite-la-societe_6767966_3244.html",
+          "published": "2026-09-07T18:00:03+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Faute de débouchés, le dernier baleinier encore en activité avait renoncé à utiliser ses quotas de pêche en 2024 et 2025. Mais durant l’été, la compag",
+          "image": "https://img.lemde.fr/2026/09/07/551/249/2669/1335/644/322/60/0/2105ea9_upload-1-wedftfzcxpth-000-b7zj49e.jpg",
+          "other_news": false
+        },
+        {
           "title": "Quatre semaines à bord d’un brise-glace : pourquoi le bruit des navires dans l’Arctique est-il dangereux pour les narvals ?",
           "link": "https://www.lemonde.fr/videos/video/2026/09/06/quatre-semaines-a-bord-d-un-brise-glace-pourquoi-le-bruit-des-navires-dans-l-arctique-est-il-dangereux-pour-les-narvals_6767229_1669088.html",
           "published": "2026-09-06T12:00:09+02:00",
@@ -603,6 +603,17 @@
           "language": "fr",
           "summary": "« Terre de glace » (4/4) Les narvals sont des mammifères profondément ancrés dans la culture des communautés inuites. Ils sont aussi particulièrement",
           "image": "https://img.lemde.fr/2026/07/29/60/0/1920/960/644/322/60/0/7145ee3_upload-1-1cdtq0abtmve-tile-7.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Fire and floods are usually treated as separate hazards. Portugal’s Pinhal Interior shows why they are part of the same cycle",
+          "link": "https://theconversation.com/fire-and-floods-are-usually-treated-as-separate-hazards-portugals-pinhal-interior-shows-why-they-are-part-of-the-same-cycle-290857",
+          "published": "2026-09-07T13:48:57+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As storms, wildfires, and floods strike in ever-closer succession, an architect with disaster risk science expertise explains why resilience is built",
+          "image": null,
           "other_news": false
         },
         {
@@ -675,17 +686,6 @@
           "summary": "During troubled talks, fossil fuel-producing nations have pushed for a global pact to tackle only plastic waste rather than reducing the size of the p",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "Un «signal important» : poursuivie pour écocide, l’entreprise Locacil condamnée à remettre en état les sites qu’elle a pollués",
-          "link": "https://vert.eco/rapports-de-force/un-signal-important-poursuivie-pour-ecocide-lentreprise-locacil-condamnee-a-remettre-en-etat-les-sites-quelle-a-pollues/",
-          "published": "2026-09-02T15:30:56+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Cette société alsacienne spécialisée dans le recyclage de câbles en plastique a été condamnée pour pollution par le tribunal correctionnel de Strasbou",
-          "image": null,
-          "other_news": true
         }
       ],
       "Nature-Based Solutions & Restoration": [
@@ -718,7 +718,7 @@
         {
           "title": "Public asked to have their say on proposed new renewable energy company",
           "link": "https://www.bbc.co.uk/news/articles/c780n702pp4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-07T12:09:50+00:00",
+          "published": "2026-09-07T14:35:38+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -881,17 +881,6 @@
           "other_news": true
         },
         {
-          "title": "Le séquencement des politiques climatiques : quand l’ordre des priorités devient une question de survie économique",
-          "link": "https://theconversation.com/le-sequencement-des-politiques-climatiques-quand-lordre-des-priorites-devient-une-question-de-survie-economique-288626",
-          "published": "2026-08-12T13:19:54+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Face au changement climatique, la question n’est pas tant de choisir entre l’adaptation ou l’atténuation, mais de déterminer dans quel ordre ces polit",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Climate change images are getting scarier – could fear help drive action?",
           "link": "https://theconversation.com/climate-change-images-are-getting-scarier-could-fear-help-drive-action-290464",
           "published": "2026-09-04T14:53:57+00:00",
@@ -987,17 +976,6 @@
           "type": "news",
           "language": "en",
           "summary": "Climate change does not affect every form of transport in the same way. And the result is more than just cancelled journeys.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Why poetry is a powerful form of climate communication",
-          "link": "https://theconversation.com/why-poetry-is-a-powerful-form-of-climate-communication-287116",
-          "published": "2026-08-25T12:44:27+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "In poetry, speculation might help us make sense of what it means to live with an uncertain climate future.",
           "image": null,
           "other_news": true
         },
@@ -1420,28 +1398,6 @@
           "other_news": true
         },
         {
-          "title": "Réchauffement climatique : comment les scientifiques prêchent dans le désert depuis 200 ans",
-          "link": "https://reporterre.net/Rechauffement-climatique-comment-les-scientifiques-prechent-dans-le-desert-depuis-200-ans",
-          "published": "2026-08-31T04:30:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les premières études scientifiques sur le lien entre émissions de CO₂ et réchauffement remontent aux années 1820 et se sont mult",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250702__64kw27b__v2__highres__colombiaeconomyenergy_1_-62f90.jpg?1788150603",
-          "other_news": true
-        },
-        {
-          "title": "« Face à l'actualité dramatique, nos jardins peuvent nous aider à tenir »",
-          "link": "https://reporterre.net/Face-a-l-actualite-dramatique-nos-jardins-peuvent-nous-aider-a-tenir",
-          "published": "2026-08-30T04:30:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Après cet été terrible, du côté de la météo comme de l'actualité politique, il serait tentant de s'enfermer dans son potager. Po",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/chateau_bocaux2_1_-5549f.jpg?1788064201",
-          "other_news": true
-        },
-        {
           "title": "Earth set to blow past 1.5°C – but window of opportunity is still open",
           "link": "https://oceanographicmagazine.com/news/earth-set-to-blow-past-1-5-c-but-window-of-opportunity-is-still-open/",
           "published": "2026-09-02T13:08:22+00:00",
@@ -1472,6 +1428,17 @@
           "language": "fr",
           "summary": "La cité minière de Collie, où sont situées trois centrales thermiques, ambitionne d’être un modèle à une transition énergétique et économique réussie.",
           "image": "https://img.lemde.fr/2026/08/24/0/0/8192/4096/644/322/60/0/063de4d_upload-1-y9wneh67zunr-collie-battery-energy-storage-system-t6a4865.JPG",
+          "other_news": true
+        },
+        {
+          "title": "Marche pour le climat du 26 septembre : la carte des manifestations près de chez vous",
+          "link": "https://vert.eco/rapports-de-force/marche-pour-le-climat-le-26-septembre-la-carte-des-manifestations-pres-de-chez-vous/",
+          "published": "2026-09-07T14:24:34+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Après l’été le plus chaud que la France ait jamais connu, citoyen·nes et associations appellent au rassemblement. Le 26 septembre, des cortèges s’élan",
+          "image": null,
           "other_news": true
         },
         {
@@ -1549,6 +1516,17 @@
           "language": "en",
           "summary": "Climate finance should not be separated from development funding.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "In Panama’s Darién, Indigenous communities test a new way to fund conservation",
+          "link": "https://news.mongabay.com/2026/09/in-panamas-darien-indigenous-communities-test-a-new-way-to-fund-conservation/",
+          "published": "2026-09-07T15:10:14+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "When Elsa Quiroz saw the spotted body of a jaguar appear on her son’s computer screen, she couldn’t believe her eyes. “I’d only seen them in books,” s",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/15163740/panama_240512162306_0722-e1768495168974-768x512.jpg",
           "other_news": true
         },
         {

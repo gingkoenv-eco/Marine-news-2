@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:20:36.904151+00:00",
+  "generated_at": "2026-09-08T12:10:27.184175+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -11,17 +11,6 @@
           "type": "news",
           "language": "en",
           "summary": "With location regulations no longer in force, fishing boats are harvesting thousands of tons of krill from very few areas, increasing competition with",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Dramatic decline in globally significant dugong population",
-          "link": "https://oceanographicmagazine.com/news/dramatic-decline-in-globally-significant-dugong-population/",
-          "published": "2026-09-03T17:05:15+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "An aerial survey found a 50% drop in the dugong population off the coast of Northern Australia, scientists are calling for stricter fishing regulation",
           "image": null,
           "other_news": false
         }
@@ -268,61 +257,6 @@
           "other_news": false
         },
         {
-          "title": "Matters of the heart: what’s a blue whale’s heartbeat telling us?",
-          "link": "https://oceanographicmagazine.com/news/matters-of-the-heart-whats-a-blue-whales-heartbeat-telling-us/",
-          "published": "2026-09-07T11:40:11+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "New heart-rate data from blue and humpback whales shows their hearts behave like sprinters' during feeding lunges - a discovery that reveals how whale",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Probiotic treatments help heat-stressed corals survive, field trial finds",
-          "link": "https://oceanographicmagazine.com/news/probiotic-treatments-help-heat-stressed-corals-survive-field-trial-finds/",
-          "published": "2026-09-04T09:16:15+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A 15-day experiment during a real marine heat wave in the Red Sea has shown that both live probiotic and inactivated postbiotic treatments can improve",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Underwater meadows ‘lifeline’ for millions in poverty, study finds",
-          "link": "https://oceanographicmagazine.com/news/underwater-meadows-lifeline-for-millions-in-poverty-study-finds/",
-          "published": "2026-09-04T09:11:44+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "At least 18 million people living in extreme poverty across the Indo-Pacific rely on seagrass meadows to fish with the habitat acting as a safety net",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Blue whales are mapping the ocean’s temperature to find food",
-          "link": "https://oceanographicmagazine.com/news/blue-whales-are-mapping-the-oceans-temperature-to-find-food/",
-          "published": "2026-09-01T15:20:29+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Blue whales don't find krill swarms by chance - new research shows they track thermal fronts, narrow bands of sharp temperature change, using a sensor",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Recovery time between global coral bleaching events is shrinking",
-          "link": "https://oceanographicmagazine.com/news/recovery-time-between-global-coral-bleaching-events-is-shrinking/",
-          "published": "2026-09-01T12:08:46+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The largest global coral reef assessment yet finds a 9.5% decline in coral cover since 2009. Australia's reefs remain relatively healthy but face shri",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "The Annual Migration to Clean Up Our Coasts",
           "link": "https://oceanconservancy.org/blog/2026/09/04/clean-up-our-coasts/",
           "published": "2026-09-04T14:18:13+00:00",
@@ -562,28 +496,6 @@
           "other_news": false
         },
         {
-          "title": "Rare photo of octopus hitching a ride on dolphin",
-          "link": "https://oceanographicmagazine.com/news/rare-photo-of-octopus-hitching-a-ride-on-dolphin/",
-          "published": "2026-09-02T14:10:57+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Researchers say the image offers a rare glimpse into UK’s shifting ecosystems, as warmer waters bring octopus blooms, and new feeding activities.\nThe",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Trawling threatens huge carbon stores in Scotland’s iconic lochs",
-          "link": "https://oceanographicmagazine.com/news/trawling-threatens-huge-carbon-stores-in-scotlands-iconic-lochs/",
-          "published": "2026-09-02T14:08:55+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Campaigners have called on ministers to urgently act to protect Scotland's sea lochs' seabeds from carbon disturbance\nThe post Trawling threatens huge",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Au Sri Lanka, la course folle aux concombres de mer",
           "link": "https://www.lemonde.fr/economie/article/2026/09/08/au-sri-lanka-la-course-folle-aux-concombres-de-mer_6768103_3234.html",
           "published": "2026-09-08T06:00:12+02:00",
@@ -799,6 +711,17 @@
           "language": "en",
           "summary": "And for the first time renewable generation has consistently exceeded non-renewable generation since January.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bcb/live/93328190-a7a1-11f1-a7ad-37a1f7dc081c.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Site investigated over medical waste dumping claims",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zg07x2y1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-08T11:30:03+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Environment Agency is leading an investigation into the site off Mill Lane, near Wadborough.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4732/live/d441c410-ab71-11f1-9712-a14d469bace4.jpg",
           "other_news": true
         },
         {
@@ -1459,17 +1382,6 @@
           "language": "fr",
           "summary": "C'est un point de bascule qui mérite d'être mis en lumière. Fin juillet, la Chine comptait plus de capacité installée en solaire",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20170623__800065704__v4__highres__floatingsolaraimstogaingroundinchinascoalcoun_1_-c681a.jpg?1788259882",
-          "other_news": true
-        },
-        {
-          "title": "Earth set to blow past 1.5°C – but window of opportunity is still open",
-          "link": "https://oceanographicmagazine.com/news/earth-set-to-blow-past-1-5-c-but-window-of-opportunity-is-still-open/",
-          "published": "2026-09-02T13:08:22+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new UNEP report finds the world will likely breach 1.5°C within years, but a rapid \"overshoot, peak, and decline\" pathway - steep emissions cuts plu",
-          "image": null,
           "other_news": true
         },
         {

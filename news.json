@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T18:16:23.429444+00:00",
+  "generated_at": "2026-09-08T09:16:59.225177+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -27,17 +27,6 @@
         }
       ],
       "Marine Protected Areas & Policy": [
-        {
-          "title": "Britain’s quarter century: crime falls, sea-levels rise and education yet to recover from COVID",
-          "link": "https://theconversation.com/britains-quarter-century-crime-falls-sea-levels-rise-and-education-yet-to-recover-from-covid-287427",
-          "published": "2026-08-25T12:48:05+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "How big policy areas like crime, education, transport and energy have changed.",
-          "image": null,
-          "other_news": false
-        },
         {
           "title": "Q&A: What does China’s 15th five-year plan for coal mean for climate action?",
           "link": "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-coal-mean-for-climate-action",
@@ -147,6 +136,17 @@
       ],
       "Marine Biodiversity & Conservation": [
         {
+          "title": "‘We have really cool sharks’: three-year project to lift lid on Britain’s little-understood species",
+          "link": "https://www.theguardian.com/environment/2026/sep/08/science-research-uk-vulnerable-sharks-anglers",
+          "published": "2026-09-08T04:00:27+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Anglers will help scientists investigate the porbeagle, tope and blue shark to boost knowledge and conservation‘We have really cool sharks,” says Dr L",
+          "image": "https://i.guim.co.uk/img/media/d82eb19faec4b7cad8a0cd69ec77485d7594e9c8/278_0_4222_3378/master/4222.jpg?width=140&quality=85&auto=format&fit=max&s=643e0df7c08eb32d322ce1275b8e3346",
+          "other_news": false
+        },
+        {
           "title": "‘Sharks are my film stars’: how the Jacques Cousteau of the North Sea finally unlocked its beauty",
           "link": "https://www.theguardian.com/film/2026/sep/07/sharks-film-stars-jacques-cousteau-north-sea-nature-untamed",
           "published": "2026-09-07T04:00:24+00:00",
@@ -210,6 +210,17 @@
           "language": "en",
           "summary": "A 10-year-old boy was out looking for fossils along the shore in Islandmagee when he spotted the back of the skull.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a19c/live/eae2b780-a6c9-11f1-ae1e-219da1d6451a.jpg",
+          "other_news": false
+        },
+        {
+          "title": "What anglers have taught me about saving England’s sharks",
+          "link": "https://theconversation.com/what-anglers-have-taught-me-about-saving-englands-sharks-288844",
+          "published": "2026-09-08T05:35:30+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Scientists are working closely with anglers to track the lives of sharks in English waters.",
+          "image": null,
           "other_news": false
         },
         {
@@ -345,6 +356,19 @@
           "other_news": false
         }
       ],
+      "Sustainable Fisheries": [
+        {
+          "title": "We’re not protecting our oceans as well as we think: new research",
+          "link": "https://theconversation.com/were-not-protecting-our-oceans-as-well-as-we-think-new-research-289791",
+          "published": "2026-09-07T20:11:33+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Overfishing and poor enforcement are just two reasons marine ecosystems are struggling to recover.",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Nature-Based Solutions & Restoration": [
         {
           "title": "Indigenous knowledge helps reveal the ties between reefs and mangroves",
@@ -368,17 +392,6 @@
           "language": "en",
           "summary": "Average sea surface temperature outside polar regions was 21.1C on Saturday, latest data findsThe world’s oceans were hotter than ever previously reco",
           "image": "https://i.guim.co.uk/img/media/3732d43fcda2d3d94ddfcd06214d810a007f6cf0/849_0_4550_3640/master/4550.jpg?width=140&quality=85&auto=format&fit=max&s=38bd1de7903eca0b60a576c3b7152aa4",
-          "other_news": false
-        },
-        {
-          "title": "World’s seas have hit hottest temperature on record for July, say scientists",
-          "link": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists",
-          "published": "2026-08-10T02:00:31+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023The world’s seas were hotter last m",
-          "image": "https://i.guim.co.uk/img/media/87c236446ba2900c4c834b9136187c04abcb7a9a/491_0_2916_2334/master/2916.jpg?width=140&quality=85&auto=format&fit=max&s=c0e7a10cf898639ddd8142642505e594",
           "other_news": false
         },
         {
@@ -584,6 +597,17 @@
           "other_news": false
         },
         {
+          "title": "Au Sri Lanka, la course folle aux concombres de mer",
+          "link": "https://www.lemonde.fr/economie/article/2026/09/08/au-sri-lanka-la-course-folle-aux-concombres-de-mer_6768103_3234.html",
+          "published": "2026-09-08T06:00:17+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans la péninsule de Jaffna, au nord du pays, l’élevage de l’holothurie, exportée à prix d’or vers l’Asie de l’Est, a sorti de la pauvreté une partie",
+          "image": "https://img.lemde.fr/2026/09/07/430/0/6000/3000/644/322/60/0/e0ed359_upload-1-7o5avslkkyyi-dsc-0146.JPG",
+          "other_news": false
+        },
+        {
           "title": "En Islande, la reprise de la chasse à la baleine relance les discussions sur son interdiction",
           "link": "https://www.lemonde.fr/planete/article/2026/09/07/en-islande-la-reprise-de-la-chasse-a-la-baleine-agite-la-societe_6767966_3244.html",
           "published": "2026-09-07T18:00:03+02:00",
@@ -603,6 +627,17 @@
           "language": "fr",
           "summary": "« Terre de glace » (4/4) Les narvals sont des mammifères profondément ancrés dans la culture des communautés inuites. Ils sont aussi particulièrement",
           "image": "https://img.lemde.fr/2026/07/29/60/0/1920/960/644/322/60/0/7145ee3_upload-1-1cdtq0abtmve-tile-7.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Why does microwaving fish smell so bad?",
+          "link": "https://theconversation.com/why-does-microwaving-fish-smell-so-bad-288488",
+          "published": "2026-09-08T00:21:01+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Next time your colleague funks up the break room, consider leaving a passive aggressive copy of this article nearby, so they can understand the chemis",
+          "image": null,
           "other_news": false
         },
         {
@@ -686,6 +721,17 @@
           "summary": "During troubled talks, fossil fuel-producing nations have pushed for a global pact to tackle only plastic waste rather than reducing the size of the p",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "« Fuck la planète » : comment les puissants ont fait le choix du réchauffement climatique",
+          "link": "https://reporterre.net/Fuck-la-planete-comment-les-puissants-ont-fait-le-choix-du-rechauffement-climatique",
+          "published": "2026-09-08T05:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Depuis le milieu du XXe siècle, la nocivité des pollutions industrielles sur le climat est clairement établie. Mais les sociétés",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/screenshot_2026-09-07_at_11-15-31_recherche_google-3be93.jpg?1788843601",
+          "other_news": true
         }
       ],
       "Nature-Based Solutions & Restoration": [
@@ -709,7 +755,7 @@
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Pauline Hanson’s attention-grabbing policy to give mortgage holders and renters is high populism while being – according to its many critics – low eco",
+          "summary": "One Nation’s attention-grabbing policy to give some people greater access to super is high populism but – according to its many critics – low economic",
           "image": null,
           "other_news": true
         }
@@ -779,6 +825,17 @@
           "language": "en",
           "summary": "And for the first time renewable generation has consistently exceeded non-renewable generation since January.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bcb/live/93328190-a7a1-11f1-a7ad-37a1f7dc081c.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Wildlife and access boost planned for city park",
+          "link": "https://www.bbc.co.uk/news/articles/cd947jkqvk9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-08T04:56:17+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Coventry City Council will use developers' money to make the improvements to Longford Nature Park.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9348/live/42357b40-aac0-11f1-b109-879e35c24276.jpg",
           "other_news": true
         },
         {
@@ -991,8 +1048,8 @@
           "other_news": true
         },
         {
-          "title": "Hiking canyons can quickly turn deadly when storms hit – what you should know before going in",
-          "link": "https://theconversation.com/hiking-canyons-can-quickly-turn-deadly-when-storms-hit-what-you-should-know-before-going-in-291122",
+          "title": "Hiking canyons can be dangerous when storms hit – what you need to know to stay safe",
+          "link": "https://theconversation.com/hiking-canyons-can-be-dangerous-when-storms-hit-what-you-need-to-know-to-stay-safe-291122",
           "published": "2026-09-03T18:50:48+00:00",
           "source": "The Conversation US",
           "type": "news",
@@ -1310,6 +1367,17 @@
           "other_news": true
         },
         {
+          "title": "Réparer son smartphone : trop de fabricants ne respectent pas la réglementation",
+          "link": "https://reporterre.net/Reparer-son-smartphone-trop-de-fabricants-ne-respectent-pas-la-reglementation",
+          "published": "2026-09-08T08:18:09+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Mon téléphone est-il résistant, facilement réparable et à quel prix ? En théorie, depuis le 20 juin 2025, tout consommateur de l",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/dimitri-karastelev-rcz4fwhnicw-unsplash_1_-6dc6d.jpg?1788855493",
+          "other_news": true
+        },
+        {
           "title": "100 000 morts par an : les fumées des mégafeux menacent la santé mondiale",
           "link": "https://reporterre.net/100-000-morts-par-an-les-fumees-des-megafeux-menacent-la-sante-mondiale",
           "published": "2026-09-07T13:29:11+00:00",
@@ -1420,17 +1488,6 @@
           "other_news": true
         },
         {
-          "title": "En Australie-Occidentale, le gouvernement prépare l’avenir après la fermeture annoncée des centrales à charbon publiques",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/06/en-australie-occidentale-le-gouvernement-prepare-l-avenir-apres-la-fermeture-annoncee-des-centrales-a-charbon-publiques_6766772_3234.html",
-          "published": "2026-09-06T05:00:18+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La cité minière de Collie, où sont situées trois centrales thermiques, ambitionne d’être un modèle à une transition énergétique et économique réussie.",
-          "image": "https://img.lemde.fr/2026/08/24/0/0/8192/4096/644/322/60/0/063de4d_upload-1-y9wneh67zunr-collie-battery-energy-storage-system-t6a4865.JPG",
-          "other_news": true
-        },
-        {
           "title": "Marche pour le climat du 26 septembre : la carte des manifestations près de chez vous",
           "link": "https://vert.eco/rapports-de-force/marche-pour-le-climat-le-26-septembre-la-carte-des-manifestations-pres-de-chez-vous/",
           "published": "2026-09-07T14:24:34+00:00",
@@ -1471,50 +1528,6 @@
           "type": "news",
           "language": "en",
           "summary": "Exceeding 1.5 C of global warming is a giant warning flag telling us not to give up, but to redouble our efforts to slam on the brakes on climate chan",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Gas from the Beetaloo Basin will only pour fuel on the climate change fire",
-          "link": "https://theconversation.com/gas-from-the-beetaloo-basin-will-only-pour-fuel-on-the-climate-change-fire-290535",
-          "published": "2026-09-07T01:31:10+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Gas is now flowing from the vast – and controversial – fossil fuel project.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Investments promising social or environmental benefits need tougher anti-greenwashing rules",
-          "link": "https://theconversation.com/investments-promising-social-or-environmental-benefits-need-tougher-anti-greenwashing-rules-291241",
-          "published": "2026-09-07T01:09:29+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Australia and New Zealand should introduce a mandatory impact-risk statement for funds making explicit claims about their environmental or social impa",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "How Indigenous Protected Areas became a vital way to protect nature in Australia",
-          "link": "https://theconversation.com/how-indigenous-protected-areas-became-a-vital-way-to-protect-nature-in-australia-288394",
-          "published": "2026-09-06T20:09:58+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Since the first pilot program in 1998, Australia’s Indigenous Protected Areas have grown hugely. How can we strengthen them for the future?",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Africa gets only 23% of the climate finance it needs – and pays too much for it",
-          "link": "https://theconversation.com/africa-gets-only-23-of-the-climate-finance-it-needs-and-pays-too-much-for-it-291103",
-          "published": "2026-09-06T05:35:35+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Climate finance should not be separated from development funding.",
           "image": null,
           "other_news": true
         },

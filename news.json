@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T09:16:59.225177+00:00",
+  "generated_at": "2026-09-08T11:20:36.904151+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -417,19 +417,6 @@
           "other_news": false
         }
       ],
-      "Species Migration & Habitat Change": [
-        {
-          "title": "Immigration in Sweden: how the country went from one of Europe’s most welcoming, to one of its most restrictive",
-          "link": "https://theconversation.com/immigration-in-sweden-how-the-country-went-from-one-of-europes-most-welcoming-to-one-of-its-most-restrictive-288995",
-          "published": "2026-09-07T08:57:32+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The 2015 refugee crisis fundamentally changed the political debate around migration.",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Other Marine News": [
         {
           "title": "Could this humble sea sponge clean up the world’s ports?",
@@ -599,7 +586,7 @@
         {
           "title": "Au Sri Lanka, la course folle aux concombres de mer",
           "link": "https://www.lemonde.fr/economie/article/2026/09/08/au-sri-lanka-la-course-folle-aux-concombres-de-mer_6768103_3234.html",
-          "published": "2026-09-08T06:00:17+02:00",
+          "published": "2026-09-08T06:00:12+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -744,19 +731,6 @@
           "language": "en",
           "summary": "This is the third article in Mongabay&#8217;s three-part investigation of spekboom-led ecosystem restoration in South Africa. This is part of an award",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02171203/southern-greater-kudu-Tragelaphus-strepsiceros-strepsiceros-768x512.jpg",
-          "other_news": true
-        }
-      ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "View from The Hill: Pauline Hanson sets new hares running on super",
-          "link": "https://theconversation.com/view-from-the-hill-pauline-hanson-sets-new-hares-running-on-super-290827",
-          "published": "2026-09-07T07:46:13+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "One Nation’s attention-grabbing policy to give some people greater access to super is high populism but – according to its many critics – low economic",
-          "image": null,
           "other_news": true
         }
       ],
@@ -934,6 +908,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Le montant de la facture dépendra avant tout des arbitrages que nous réaliserons, tant aux niveaux national que local.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Why should we care if there aren’t any squished insects on our windscreens?",
+          "link": "https://theconversation.com/why-should-we-care-if-there-arent-any-squished-insects-on-our-windscreens-290581",
+          "published": "2026-09-08T10:32:16+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Insects are under threat partly because of man-made climate change, heatwaves and intensive farming.",
           "image": null,
           "other_news": true
         },
@@ -1367,6 +1352,17 @@
           "other_news": true
         },
         {
+          "title": "Insultes, jets d'œufs... FNE porte plainte contre la Coordination rurale",
+          "link": "https://reporterre.net/Insultes-jets-d-oeufs-FNE-porte-plainte-contre-la-Coordination-rurale",
+          "published": "2026-09-08T10:24:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "« J'ai dû représenter FNE dans des conditions anormales », fustige Anne Roques. La juriste de France Nature Environnement (FNE)",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/7-68-bd208.jpg?1788863041",
+          "other_news": true
+        },
+        {
           "title": "Réparer son smartphone : trop de fabricants ne respectent pas la réglementation",
           "link": "https://reporterre.net/Reparer-son-smartphone-trop-de-fabricants-ne-respectent-pas-la-reglementation",
           "published": "2026-09-08T08:18:09+00:00",
@@ -1495,28 +1491,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Après l’été le plus chaud que la France ait jamais connu, citoyen·nes et associations appellent au rassemblement. Le 26 septembre, des cortèges s’élan",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "L’été 2026 a été le plus chaud jamais mesuré en France : «Ça aurait été quasiment impossible sans le changement climatique»",
-          "link": "https://vert.eco/climat/lete-2026-a-ete-le-plus-chaud-jamais-mesure-en-france-ca-aurait-ete-quasiment-impossible-sans-le-changement-climatique/",
-          "published": "2026-09-03T16:15:49+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Avec 24 degrés en moyenne chaque jour (nuits comprises), le territoire hexagonal a connu son été le plus chaud devant 2003 et 2022. Une saison inédite",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "«Il pourrait être le plus puissant jamais observé» : l’Organisation météorologique mondiale alerte sur l’intensité d’El Niño",
-          "link": "https://vert.eco/climat/il-pourrait-etre-le-plus-puissant-jamais-observe-lorganisation-meteorologique-mondiale-alerte-sur-lintensite-del-nino/",
-          "published": "2026-09-03T10:04:18+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "El Niño, l’anomalie océanique naturelle et cyclique qui réchauffe le climat, s’annonce de très haute intensité en fin d’année, prévient ce jeudi matin",
           "image": null,
           "other_news": true
         },

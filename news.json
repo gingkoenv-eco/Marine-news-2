@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T12:10:27.184175+00:00",
+  "generated_at": "2026-09-08T16:38:14.309656+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -16,17 +16,6 @@
         }
       ],
       "Marine Protected Areas & Policy": [
-        {
-          "title": "Q&A: What does China’s 15th five-year plan for coal mean for climate action?",
-          "link": "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-coal-mean-for-climate-action",
-          "published": "2026-08-14T14:09:31+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "China has published a new five-year plan for coal, the latest in a slew of important policy documents for the&#8230;\nThe post Q&amp;A: What does China",
-          "image": null,
-          "other_news": false
-        },
         {
           "title": "From firefighting to future-proofing: Preventing wildfires must be the priority",
           "link": "https://www.climatechangenews.com/2026/09/01/from-firefighting-to-future-proofing-preventing-wildfires-must-be-the-priority/",
@@ -120,6 +109,17 @@
           "language": "fr",
           "summary": "Des chercheuses proposent un nouvel indicateur, l’empreinte plastique particulaire, pour mesurer la pollution plastique, invisible dans les bilans car",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "‘Plastic pollution hotspots’ spawn a public health crisis across Latin America",
+          "link": "https://news.mongabay.com/2026/09/plastic-pollution-hotspots-spawn-a-public-health-crisis-across-latin-america/",
+          "published": "2026-09-08T13:33:36+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Since China banned the import of plastic waste in 2018, plastic pollution has been having a growing impact on the people and ecosystems of Latin Ameri",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/08133303/AP21097556420581-1-768x512.jpg",
           "other_news": false
         }
       ],
@@ -351,6 +351,19 @@
           "other_news": false
         }
       ],
+      "Species Migration & Habitat Change": [
+        {
+          "title": "Tiny backpacks reveal the secret, sometimes circuitous migrations of small songbirds",
+          "link": "https://theconversation.com/tiny-backpacks-reveal-the-secret-sometimes-circuitous-migrations-of-small-songbirds-284016",
+          "published": "2026-09-08T12:38:27+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Tiny geolocators measure light levels and atmospheric pressure to reveal the migrations of small songbirds – including the yellow-rumped warbler, also",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Other Marine News": [
         {
           "title": "Could this humble sea sponge clean up the world’s ports?",
@@ -463,6 +476,17 @@
           "other_news": false
         },
         {
+          "title": "Q&A: What can – and cannot – be said about global warming’s role in the 2026 Himalayan floods",
+          "link": "https://www.carbonbrief.org/qa-what-can-and-cannot-be-said-about-global-warmings-role-in-the-2026-himalayan-floods",
+          "published": "2026-09-08T16:03:25+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "On the morning of 26 August, flash floods surged through a Himalayan border region of Nepal and the Chinese region&#8230;\nThe post Q&amp;A: What can –",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Q&A: What is ‘long-duration energy storage’ – and why does the UK need it?",
           "link": "https://www.carbonbrief.org/qa-what-is-long-duration-energy-storage-and-why-does-the-uk-need-it",
           "published": "2026-08-19T11:18:11+00:00",
@@ -536,17 +560,6 @@
           "type": "news",
           "language": "en",
           "summary": "Next time your colleague funks up the break room, consider leaving a passive aggressive copy of this article nearby, so they can understand the chemis",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Fire and floods are usually treated as separate hazards. Portugal’s Pinhal Interior shows why they are part of the same cycle",
-          "link": "https://theconversation.com/fire-and-floods-are-usually-treated-as-separate-hazards-portugals-pinhal-interior-shows-why-they-are-part-of-the-same-cycle-290857",
-          "published": "2026-09-07T13:48:57+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "As storms, wildfires, and floods strike in ever-closer succession, an architect with disaster risk science expertise explains why resilience is built",
           "image": null,
           "other_news": false
         },
@@ -643,6 +656,19 @@
           "language": "en",
           "summary": "This is the third article in Mongabay&#8217;s three-part investigation of spekboom-led ecosystem restoration in South Africa. This is part of an award",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02171203/southern-greater-kudu-Tragelaphus-strepsiceros-strepsiceros-768x512.jpg",
+          "other_news": true
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "South Africa has new electricity pricing rules after 18 years: what it gets right and wrong",
+          "link": "https://theconversation.com/south-africa-has-new-electricity-pricing-rules-after-18-years-what-it-gets-right-and-wrong-291214",
+          "published": "2026-09-08T13:41:00+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "South Africa’s new electricity pricing policy reflects some changes but fails to guarantee more free power for millions who need it.",
+          "image": null,
           "other_news": true
         }
       ],
@@ -758,6 +784,17 @@
           "other_news": true
         },
         {
+          "title": "Les coulées de boues meurtrières du Népal pourraient-elles advenir en France ?",
+          "link": "https://theconversation.com/les-coulees-de-boues-meurtrieres-du-nepal-pourraient-elles-advenir-en-france-291097",
+          "published": "2026-09-08T14:11:02+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le changement climatique ne peut que favoriser ce type d’événements, déjà survenus en Europe.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Pourquoi la transition écologique est-elle si difficile à gouverner ?",
           "link": "https://theconversation.com/pourquoi-la-transition-ecologique-est-elle-si-difficile-a-gouverner-288778",
           "published": "2026-09-02T14:04:49+00:00",
@@ -824,13 +861,13 @@
           "other_news": true
         },
         {
-          "title": "Un « mur d’investissements » pour l’adaptation au changement climatique, vraiment ?",
-          "link": "https://theconversation.com/un-mur-dinvestissements-pour-ladaptation-au-changement-climatique-vraiment-288564",
-          "published": "2026-08-12T13:21:11+00:00",
-          "source": "The Conversation FR",
+          "title": "Too hot to learn: how climate change hurts children’s chances from birth",
+          "link": "https://theconversation.com/too-hot-to-learn-how-climate-change-hurts-childrens-chances-from-birth-289773",
+          "published": "2026-09-08T15:19:53+00:00",
+          "source": "The Conversation UK",
           "type": "news",
-          "language": "fr",
-          "summary": "Le montant de la facture dépendra avant tout des arbitrages que nous réaliserons, tant aux niveaux national que local.",
+          "language": "en",
+          "summary": "Floods, droughts and extreme heat can disrupt nutrition and healthcare in early life, with consequences that may last for years.",
           "image": null,
           "other_news": true
         },
@@ -1099,6 +1136,28 @@
           "other_news": true
         },
         {
+          "title": "China’s industrial engine starts to break its fossil fuel habit",
+          "link": "https://www.climatechangenews.com/2026/09/08/chinas-industrial-engine-starts-to-break-its-fossil-fuel-habit/",
+          "published": "2026-09-08T15:30:15+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Despite a rebound in coal generation this year, clean energy from wind and solar is gaining ground on the fossil fuels that have powered decades of in",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Industry and NGOs lobby to weaken UN carbon credit rules in “coordinated” push",
+          "link": "https://www.climatechangenews.com/2026/09/08/industry-and-ngos-lobby-to-weaken-un-carbon-credit-rules-in-coordinated-push/",
+          "published": "2026-09-08T12:56:26+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "In copycat submissions and a private briefing to government officials, the groups have opposed a proposal to tighten safeguards for emissions offsets",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Palestine: Israel’s bombing has left Gaza vulnerable to climate change",
           "link": "https://www.climatechangenews.com/2026/09/04/palestine-israels-bombing-has-left-gaza-vulnerable-to-climate-change/",
           "published": "2026-09-04T14:18:35+00:00",
@@ -1275,6 +1334,17 @@
           "other_news": true
         },
         {
+          "title": "Interdiction de chasse : le grand tétras et le lagopède alpin désormais protégés",
+          "link": "https://reporterre.net/Interdiction-de-chasse-le-grand-tetras-et-le-lagopede-alpin-desormais-proteges",
+          "published": "2026-09-08T12:37:04+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "La Ligue pour la protection des oiseaux (LPO) salue une « excellente nouvelle » pour la biodiversité de montagne. Le lagopède al",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/rock_ptarmigan__lagopus_muta_1_-29cfa.jpg?1788871151",
+          "other_news": true
+        },
+        {
           "title": "Insultes, jets d'œufs... FNE porte plainte contre la Coordination rurale",
           "link": "https://reporterre.net/Insultes-jets-d-oeufs-FNE-porte-plainte-contre-la-Coordination-rurale",
           "published": "2026-09-08T10:24:00+00:00",
@@ -1396,6 +1466,17 @@
           "other_news": true
         },
         {
+          "title": "Vert recrute : journaliste politique/écologie en CDD",
+          "link": "https://vert.eco/vert-vous-parle/vert-recrute-journaliste-politique-ecologie-en-cdd/",
+          "published": "2026-09-08T15:50:51+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Vert recrute un·e journaliste politique/écologie en contrat à durée déterminée d’octobre 2026 à juillet 2027 pour couvrir la campagne présidentielle e",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Marche pour le climat du 26 septembre : la carte des manifestations près de chez vous",
           "link": "https://vert.eco/rapports-de-force/marche-pour-le-climat-le-26-septembre-la-carte-des-manifestations-pres-de-chez-vous/",
           "published": "2026-09-07T14:24:34+00:00",
@@ -1403,17 +1484,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Après l’été le plus chaud que la France ait jamais connu, citoyen·nes et associations appellent au rassemblement. Le 26 septembre, des cortèges s’élan",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Yes, passing 1.5 C of global warming is cause for alarm, but not despair",
-          "link": "https://theconversation.com/yes-passing-1-5-c-of-global-warming-is-cause-for-alarm-but-not-despair-291331",
-          "published": "2026-09-07T12:21:55+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Exceeding 1.5 C of global warming is a giant warning flag telling us not to give up, but to redouble our efforts to slam on the brakes on climate chan",
           "image": null,
           "other_news": true
         },
@@ -1459,28 +1529,6 @@
           "language": "en",
           "summary": "There is an insidious lie that has taken root in the energy transition narrative pushed by the world’s most powerful financial, political, and environ",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/11/18094245/copper-bearing-ore-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Development banks are backing problematic mineral projects, report finds",
-          "link": "https://news.mongabay.com/short-article/2026/09/development-banks-are-backing-problematic-mineral-projects-report-finds/",
-          "published": "2026-09-03T13:10:24+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "“Development bank-backed transition minerals projects are frequently associated with significant environmental, social, and human rights risks.” This",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/13114300/06-salc-img-768x512.png",
-          "other_news": true
-        },
-        {
-          "title": "Mexico-Brazil oil deal raises concern for ecosystems and energy transition",
-          "link": "https://news.mongabay.com/2026/09/mexico-brazil-oil-deal-raises-concern-for-ecosystems-and-energy-transition/",
-          "published": "2026-09-03T10:02:21+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Environmental organizations have raised concerns that a recent partnership between the state petrochemical companies of Brazil and Mexico will commit",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/12/10060125/AP24088006980479-768x512.jpg",
           "other_news": true
         }
       ]

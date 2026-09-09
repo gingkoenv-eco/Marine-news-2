@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T12:22:11.477826+00:00",
+  "generated_at": "2026-09-09T16:38:17.896148+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -323,6 +323,19 @@
           "other_news": false
         }
       ],
+      "Sustainable Fisheries": [
+        {
+          "title": "New Zealand put fishing boats under camera surveillance. Will it stay the course?",
+          "link": "https://news.mongabay.com/2026/09/new-zealand-put-fishing-boats-under-camera-surveillance-will-it-stay-the-course/",
+          "published": "2026-09-09T14:59:58+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "NAPIER/DUNEDIN, Aotearoa New Zealand — In 2016, a scandal engulfed Aotearoa New Zealand’s fisheries regulator. Leaked documents showed that the Minist",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09073936/6-Fishing-vessels-in-Dunedin-768x512.jpg",
+          "other_news": false
+        }
+      ],
       "Nature-Based Solutions & Restoration": [
         {
           "title": "Indigenous knowledge helps reveal the ties between reefs and mangroves",
@@ -367,19 +380,6 @@
           "type": "news",
           "language": "en",
           "summary": "The abrupt disappearance of a lake is one clear sign that the ice below is melting, and a clue to wider permafrost changes.",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Species Migration & Habitat Change": [
-        {
-          "title": "Tiny backpacks reveal the secret, sometimes circuitous migrations of small songbirds",
-          "link": "https://theconversation.com/tiny-backpacks-reveal-the-secret-sometimes-circuitous-migrations-of-small-songbirds-284016",
-          "published": "2026-09-08T12:38:27+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Tiny geolocators measure light levels and atmospheric pressure to reveal the migrations of small songbirds – including the yellow-rumped warbler, also",
           "image": null,
           "other_news": false
         }
@@ -465,6 +465,17 @@
           "other_news": false
         },
         {
+          "title": "A second hurricane just sideswiped Hawaii – why the islands’ usual force field seems to be down in 2026",
+          "link": "https://theconversation.com/a-second-hurricane-just-sideswiped-hawaii-why-the-islands-usual-force-field-seems-to-be-down-in-2026-291524",
+          "published": "2026-09-09T12:49:00+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "Cooler ocean temperatures east of the islands typically keep major hurricanes away, but El Niño is helping fuel this year’s risks.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Using thunderquakes to X-ray Earth – a new study shows urban seismology in action",
           "link": "https://theconversation.com/using-thunderquakes-to-x-ray-earth-a-new-study-shows-urban-seismology-in-action-289961",
           "published": "2026-08-21T17:59:58+00:00",
@@ -472,17 +483,6 @@
           "type": "news",
           "language": "en",
           "summary": "With the help of thunderstorms and everyday fiber-optic cables, these scientists are revealing a hidden world underground.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "AI companies look to the ocean as a place to put more data centers",
-          "link": "https://theconversation.com/ai-companies-look-to-the-ocean-as-a-place-to-put-more-data-centers-289180",
-          "published": "2026-08-17T12:37:12+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Moving servers into the ocean does not make underlying environmental challenges disappear. And it creates new concerns as well.",
           "image": null,
           "other_news": false
         },
@@ -517,6 +517,17 @@
           "language": "en",
           "summary": "Pacific nations want the annual climate conference to deliver funding for renewables and ocean protection, as the UN warns of devastating sea level ri",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Marine Tondelier : « Ce qui se passe est trop grave pour abdiquer »",
+          "link": "https://reporterre.net/Marine-Tondelier-Nous-menons-une-double-campagne-pour-l-ecologie-et-pour-l-union",
+          "published": "2026-09-09T14:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Estimant qu'il « est grand temps d'abolir les privilèges climatiques », la cheffe de file des Écologistes candidate à la préside",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/2026-09-03_cha_gonzalez-6162-59183.jpg?1788962403",
           "other_news": false
         },
         {
@@ -608,6 +619,17 @@
           "other_news": false
         },
         {
+          "title": "Caribbean scientists document uncharted deep-sea waters in Trinidad and Tobago",
+          "link": "https://news.mongabay.com/2026/09/caribbean-scientists-document-uncharted-deep-sea-waters-in-trinidad-and-tobago/",
+          "published": "2026-09-09T15:45:47+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "During a recent monthlong expedition, a team of scientists conducted one of the most comprehensive surveys ever undertaken in the deep waters of Trini",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09151211/FKt260629-S0941-20260707T175802Z-305-scicam-SOIOctoZoom-SS-0509-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Riverside families in the Amazon change meals as mercury poisons staple fish",
           "link": "https://news.mongabay.com/2026/09/riverside-families-in-the-amazon-change-meals-as-mercury-poisons-staple-fish/",
           "published": "2026-09-08T18:59:32+00:00",
@@ -679,6 +701,17 @@
           "other_news": true
         },
         {
+          "title": "Pig farm vs power station: South African court tells state-owned Eskom to clean up its pollution",
+          "link": "https://theconversation.com/pig-farm-vs-power-station-south-african-court-tells-state-owned-eskom-to-clean-up-its-pollution-291317",
+          "published": "2026-09-09T13:46:02+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "South Africa’s Supreme Court of Appeal has held electricity utility Eskom and state regulators responsible for water pollution from a coal fired power",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Auckland has an overlooked traffic pollution problem – and it’s not from exhausts",
           "link": "https://theconversation.com/auckland-has-an-overlooked-traffic-pollution-problem-and-its-not-from-exhausts-291266",
           "published": "2026-09-08T23:53:15+00:00",
@@ -723,17 +756,6 @@
           "summary": "Premier Ben Carroll’s new laws, along with the building royal commission, are vital in ensuring accountability and restoring good governance in Victor",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "South Africa has new electricity pricing rules after 18 years: what it gets right and wrong",
-          "link": "https://theconversation.com/south-africa-has-new-electricity-pricing-rules-after-18-years-what-it-gets-right-and-wrong-291214",
-          "published": "2026-09-08T13:41:00+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "South Africa’s new electricity pricing policy reflects some changes but fails to guarantee more free power for millions who need it.",
-          "image": null,
-          "other_news": true
         }
       ],
       "Other Marine News": [
@@ -749,7 +771,7 @@
           "other_news": true
         },
         {
-          "title": "The trail of clues that suggest our planet might be heating faster than we realised",
+          "title": "How cleaning up the air is speeding up global warming - and revealing a bigger problem",
           "link": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-08T23:11:52+00:00",
           "source": "BBC Ocean & Marine",
@@ -859,6 +881,17 @@
           "other_news": true
         },
         {
+          "title": "Un chasseur qui ne chasse plus : portrait d’un policier de l’environnement",
+          "link": "https://theconversation.com/un-chasseur-qui-ne-chasse-plus-portrait-dun-policier-de-lenvironnement-291305",
+          "published": "2026-09-09T14:11:26+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Avec la fusion, en 2020, de l’Office national de la chasse et de la faune sauvage et de l’Agence française pour la biodiversité, d’anciens gardes-chas",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Les coulées de boues meurtrières du Népal pourraient-elles advenir en France ?",
           "link": "https://theconversation.com/les-coulees-de-boues-meurtrieres-du-nepal-pourraient-elles-advenir-en-france-291097",
           "published": "2026-09-08T14:11:02+00:00",
@@ -932,6 +965,17 @@
           "type": "news",
           "language": "fr",
           "summary": "En 2026, seuls 4&nbsp;% des articles de presse écrite et des sujets audiovisuels concernaient l’environnement. Une proportion montée à 10&nbsp;% au co",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Virtually trying on clothes using AI can help cut fast-fashion waste, study reveals",
+          "link": "https://theconversation.com/virtually-trying-on-clothes-using-ai-can-help-cut-fast-fashion-waste-study-reveals-275367",
+          "published": "2026-09-09T13:43:27+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Virtually trying on clothes could persuade more people to experiment with renting clothes.",
           "image": null,
           "other_news": true
         },
@@ -1031,17 +1075,6 @@
           "type": "news",
           "language": "en",
           "summary": "Most climate aid arrives after the disaster. A handful of countries are proving it doesn’t have to.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Nepal-Tibet floods: when disaster strikes before communities recover from previous climate extremes, crisis escalates",
-          "link": "https://theconversation.com/nepal-tibet-floods-when-disaster-strikes-before-communities-recover-from-previous-climate-extremes-crisis-escalates-290484",
-          "published": "2026-08-26T15:28:53+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Recovery time between climate disasters makes a huge difference to the consequences affecting local people.",
           "image": null,
           "other_news": true
         },
@@ -1398,6 +1431,17 @@
           "other_news": true
         },
         {
+          "title": "« Une véritable arnaque » : les voitures hybrides rechargeables émettent six fois plus de CO2 que les tests officiels",
+          "link": "https://reporterre.net/Les-voitures-hybrides-rechargeables-emettent-six-fois-plus-de-CO2-que-les-tests-officiels",
+          "published": "2026-09-09T14:35:31+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "L'Union européenne a publié, début septembre, une estimation des émissions de CO2 réelles des véhicules hybrides rechargeables,",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/technology-car-automobile-driving-transportation-environment-604185-pxhere_com-2-7dd83.jpg?1788964636",
+          "other_news": true
+        },
+        {
           "title": "Interdiction de chasse : le grand tétras et le lagopède alpin désormais protégés",
           "link": "https://reporterre.net/Interdiction-de-chasse-le-grand-tetras-et-le-lagopede-alpin-desormais-proteges",
           "published": "2026-09-08T12:37:04+00:00",
@@ -1508,28 +1552,6 @@
           "other_news": true
         },
         {
-          "title": "En Chine, encore plus de solaire... mais toujours beaucoup de charbon",
-          "link": "https://reporterre.net/En-Chine-encore-plus-de-solaire-mais-toujours-beaucoup-de-charbon",
-          "published": "2026-09-01T10:46:03+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "C'est un point de bascule qui mérite d'être mis en lumière. Fin juillet, la Chine comptait plus de capacité installée en solaire",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20170623__800065704__v4__highres__floatingsolaraimstogaingroundinchinascoalcoun_1_-c681a.jpg?1788259882",
-          "other_news": true
-        },
-        {
-          "title": "Une majorité des fabricants de smartphones ne respectent pas leurs obligations d’information en matière de réparation et de durabilité",
-          "link": "https://www.lemonde.fr/pixels/article/2026/09/07/une-majorite-des-fabricants-de-smartphones-ne-respectent-pas-leurs-obligations-d-information-en-matiere-de-reparation-et-de-durabilite_6767810_4408996.html",
-          "published": "2026-09-07T07:00:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les notices de réparation obligatoires dans l’Union européenne depuis 2025 sont loin d’être toujours accessibles, selon un rapport de Right to Repair.",
-          "image": "https://img.lemde.fr/2026/09/04/171/0/2047/1023/644/322/60/0/e6c4d14_upload-1-ze6piunxkorv-45259347801-b9d847399b-k.jpg",
-          "other_news": true
-        },
-        {
           "title": "Vert recrute : journaliste politique/écologie en CDD",
           "link": "https://vert.eco/vert-vous-parle/vert-recrute-journaliste-politique-ecologie-en-cdd/",
           "published": "2026-09-08T15:50:51+00:00",
@@ -1552,6 +1574,17 @@
           "other_news": true
         },
         {
+          "title": "Space weather can cause both beautiful auroras and infrastructure challenges – 5 essential reads on protecting life and technology",
+          "link": "https://theconversation.com/space-weather-can-cause-both-beautiful-auroras-and-infrastructure-challenges-5-essential-reads-on-protecting-life-and-technology-273176",
+          "published": "2026-09-09T12:46:58+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A massive solar flare could seriously disrupt life on Earth – but new NASA missions and others in development will help monitor the Sun.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Skepticism around green ride-hailing: How to gain riders’ trust",
           "link": "https://theconversation.com/skepticism-around-green-ride-hailing-how-to-gain-riders-trust-289360",
           "published": "2026-09-09T10:30:49+00:00",
@@ -1570,28 +1603,6 @@
           "type": "news",
           "language": "en",
           "summary": "The environment minister has fought back against criticisms that very few world leaders will attend the pre-COP meeting in the Pacific.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Reform wasn’t meant to be easy. Here’s how the battles for Medicare and child support defeated vested interests",
-          "link": "https://theconversation.com/reform-wasnt-meant-to-be-easy-heres-how-the-battles-for-medicare-and-child-support-defeated-vested-interests-290249",
-          "published": "2026-09-08T20:08:29+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Ideas are cheap. Getting major reforms through is the hard part, but we’ve done it before.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Picking up garbage less often could help Canadians recycle more",
-          "link": "https://theconversation.com/picking-up-garbage-less-often-could-help-canadians-recycle-more-289852",
-          "published": "2026-09-08T17:57:48+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "New research suggests municipalities could improve recycling and composting rates by changing how often they collect garbage and organics.",
           "image": null,
           "other_news": true
         },
@@ -1659,17 +1670,6 @@
           "language": "en",
           "summary": "In 2020, a strange rumor began circulating in villages around the Yangambi Biosphere Reserve in the Democratic Republic of Congo’s Tshopo province. A",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02163523/50481042727_043f1b4572_k-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Brazil’s Senate passes rare earth minerals regulation, paving the way for boosted exploration",
-          "link": "https://news.mongabay.com/short-article/2026/09/brazils-senate-passes-rare-earth-minerals-regulation-paving-the-way-for-boosted-exploration/",
-          "published": "2026-09-04T16:59:34+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "RIO DE JANEIRO (AP) — Brazil’s Senate has approved a bill to regulate the exploration of critical minerals, including rare earths, marking a step towa",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/04165511/AP26230663406368-768x512.jpg",
           "other_news": true
         }
       ]

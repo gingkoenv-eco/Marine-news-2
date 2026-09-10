@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:10:44.643338+00:00",
+  "generated_at": "2026-09-10T11:21:16.392044+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -22,6 +22,19 @@
           "type": "news",
           "language": "en",
           "summary": "An aerial survey found a 50% drop in the dugong population off the coast of Northern Australia, scientists are calling for stricter fishing regulation",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Species Migration & Habitat Change": [
+        {
+          "title": "View from The Hill: Let’s make the argument for, not against, migration: Malinauskas",
+          "link": "https://theconversation.com/view-from-the-hill-lets-make-the-argument-for-not-against-migration-malinauskas-291557",
+          "published": "2026-09-10T08:53:19+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As the Albanese government continues to agonise over how to rejig it’s immigration policy, Peter Malinauskas gives a rare defence of migration",
           "image": null,
           "other_news": false
         }
@@ -325,6 +338,17 @@
       ],
       "Sustainable Fisheries": [
         {
+          "title": "How to enhance ocean health and resilience with marine rewilding",
+          "link": "https://news.mongabay.com/short-article/2026/09/how-to-enhance-ocean-health-and-resilience-with-marine-rewilding/",
+          "published": "2026-09-09T18:59:02+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Ocean ecosystems are under extreme stress on several fronts including overfishing, ocean acidification, climate change and marine warming. While ocean",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/04/08165417/53136313528_87b636bb79_c-e1788980315350-768x482.jpg",
+          "other_news": false
+        },
+        {
           "title": "New Zealand put fishing boats under camera surveillance. Will it stay the course?",
           "link": "https://news.mongabay.com/2026/09/new-zealand-put-fishing-boats-under-camera-surveillance-will-it-stay-the-course/",
           "published": "2026-09-09T14:59:58+00:00",
@@ -333,19 +357,6 @@
           "language": "en",
           "summary": "NAPIER/DUNEDIN, Aotearoa New Zealand — In 2016, a scandal engulfed Aotearoa New Zealand’s fisheries regulator. Leaked documents showed that the Minist",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09073936/6-Fishing-vessels-in-Dunedin-768x512.jpg",
-          "other_news": false
-        }
-      ],
-      "Nature-Based Solutions & Restoration": [
-        {
-          "title": "Indigenous knowledge helps reveal the ties between reefs and mangroves",
-          "link": "https://news.mongabay.com/2026/09/indigenous-knowledge-helps-reveal-the-ties-between-reefs-and-mangroves/",
-          "published": "2026-09-06T07:00:38+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In a recent scientific article in the journal Ocean &#38; Coastal Management, alongside the list of scientist-authors were the Bardi Jawi and Oorany R",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/04165859/l.-Phillip-Bibido-McCarthy-%C2%A9ABC-Kimberley-768x512.png",
           "other_news": false
         }
       ],
@@ -542,6 +553,17 @@
           "other_news": false
         },
         {
+          "title": "Ocean Photographer of the Year 2026 winners announced",
+          "link": "https://oceanographicmagazine.com/news/ocean-photographer-of-the-year-winners-announced/",
+          "published": "2026-09-09T18:05:34+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The winners of the Ocean Photographer of the Year 2026, presented by Oceanographic and Blancpain, have been revealed. From the seabed to the surface,",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "US court upholds rule to save sea turtles from shrimp trawlers",
           "link": "https://oceanographicmagazine.com/news/us-court-upholds-rule-to-save-sea-turtles-from-shrimp-trawlers/",
           "published": "2026-09-08T13:00:33+00:00",
@@ -564,36 +586,14 @@
           "other_news": false
         },
         {
-          "title": "Trawling threatens huge carbon stores in Scotland’s iconic lochs",
-          "link": "https://oceanographicmagazine.com/news/trawling-threatens-huge-carbon-stores-in-scotlands-iconic-lochs/",
-          "published": "2026-09-02T14:08:55+00:00",
-          "source": "Oceanographic",
+          "title": "France: the far-right’s proposed headscarf ban in public places breaches religious freedom and anti-discrimination principles",
+          "link": "https://theconversation.com/france-the-far-rights-proposed-headscarf-ban-in-public-places-breaches-religious-freedom-and-anti-discrimination-principles-291498",
+          "published": "2026-09-10T09:12:14+00:00",
+          "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Campaigners have called on ministers to urgently act to protect Scotland's sea lochs' seabeds from carbon disturbance\nThe post Trawling threatens huge",
+          "summary": "The fight against Islamism is the rationale behind Marine Le Pen’s RN party, but research data suggests that head-covering in keeping with Islamic tra",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Au Sri Lanka, la course folle aux concombres de mer",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/08/au-sri-lanka-la-course-folle-aux-concombres-de-mer_6768103_3234.html",
-          "published": "2026-09-08T06:00:12+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans la péninsule de Jaffna, au nord du pays, l’élevage de l’holothurie, exportée à prix d’or vers l’Asie de l’Est, a sorti de la pauvreté une partie",
-          "image": "https://img.lemde.fr/2026/09/07/430/0/6000/3000/644/322/60/0/e0ed359_upload-1-7o5avslkkyyi-dsc-0146.JPG",
-          "other_news": false
-        },
-        {
-          "title": "En Islande, la reprise de la chasse à la baleine relance les discussions sur son interdiction",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/07/en-islande-la-reprise-de-la-chasse-a-la-baleine-agite-la-societe_6767966_3244.html",
-          "published": "2026-09-07T18:00:03+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Faute de débouchés, le dernier baleinier encore en activité avait renoncé à utiliser ses quotas de pêche en 2024 et 2025. Mais durant l’été, la compag",
-          "image": "https://img.lemde.fr/2026/09/07/551/249/2669/1335/644/322/60/0/2105ea9_upload-1-wedftfzcxpth-000-b7zj49e.jpg",
           "other_news": false
         },
         {
@@ -638,17 +638,6 @@
           "language": "en",
           "summary": "A database built by Mongabay Latam, based on the analysis of scientific studies that gathered more than 7,000 samples from humans and 5,900 from fish,",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/26162833/BANNER-Karla_Renata-Guacebe-PXL_20250518_143520458.jpg.00_00_03_13.Still001-1-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Why are they killing this beautiful fish?",
-          "link": "https://news.mongabay.com/short-article/2026/09/why-are-they-killing-this-beautiful-fish/",
-          "published": "2026-09-05T07:11:52+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Lionfish are beautiful, venomous and devastating Caribbean reefs. In Honduras, divers are fighting back with homemade spears, hunting competitions and",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/05071051/Mongabay_Thumbnail_Honduras_FeaturedShort.jpg",
           "other_news": false
         }
       ]
@@ -710,17 +699,6 @@
           "summary": "South Africa’s Supreme Court of Appeal has held electricity utility Eskom and state regulators responsible for water pollution from a coal fired power",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "Auckland has an overlooked traffic pollution problem – and it’s not from exhausts",
-          "link": "https://theconversation.com/auckland-has-an-overlooked-traffic-pollution-problem-and-its-not-from-exhausts-291266",
-          "published": "2026-09-08T23:53:15+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "New research highlights the overlooked role of road dust in Auckland’s air pollution, with heavy vehicles having an outsized impact.",
-          "image": null,
-          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -736,29 +714,29 @@
           "other_news": true
         },
         {
-          "title": "UK plan to sanction Israel’s illegal West Bank settlements is a historic shift in tone and policy",
-          "link": "https://theconversation.com/uk-plan-to-sanction-israels-illegal-west-bank-settlements-is-a-historic-shift-in-tone-and-policy-291577",
-          "published": "2026-09-09T11:42:19+00:00",
+          "title": "Did the government back down on its gas reservation policy? No – most changes make sense",
+          "link": "https://theconversation.com/did-the-government-back-down-on-its-gas-reservation-policy-no-most-changes-make-sense-291665",
+          "published": "2026-09-10T06:19:39+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "The government’s move is a direct cricitism of the Netanyahu government.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The Victorian government’s new integrity laws are not perfect. But they are vital for restoring good governance in the state",
-          "link": "https://theconversation.com/the-victorian-governments-new-integrity-laws-are-not-perfect-but-they-are-vital-for-restoring-good-governance-in-the-state-291456",
-          "published": "2026-09-09T03:22:30+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Premier Ben Carroll’s new laws, along with the building royal commission, are vital in ensuring accountability and restoring good governance in Victor",
+          "summary": "Are the federal government’s draft gas reservation laws really a backdown? No –  today’s changes are sensible.",
           "image": null,
           "other_news": true
         }
       ],
       "Other Marine News": [
+        {
+          "title": "August joint-hottest month on record as climate change and El Niño drive heat",
+          "link": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-10T02:05:47+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7e3/live/9e323aa0-aceb-11f1-8d69-858c9dcdf738.jpg",
+          "other_news": true
+        },
         {
           "title": "Watch: Downed trees and flooding as Hurricane Lowell batters western Hawaii",
           "link": "https://www.bbc.co.uk/news/videos/c2079ne1xx6o?at_medium=RSS&at_campaign=rss",
@@ -834,17 +812,6 @@
           "language": "en",
           "summary": "An environmental group says those who died are suspected of stealing petrol from a pipeline in Nigeria's Rivers State.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c46/live/efad0420-a866-11f1-b109-879e35c24276.png",
-          "other_news": true
-        },
-        {
-          "title": "Renewable energy in NI reaches record level",
-          "link": "https://www.bbc.co.uk/news/articles/ce3rql5rzx4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-04T05:11:45+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "And for the first time renewable generation has consistently exceeded non-renewable generation since January.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bcb/live/93328190-a7a1-11f1-a7ad-37a1f7dc081c.jpg",
           "other_news": true
         },
         {
@@ -1167,6 +1134,17 @@
           "other_news": true
         },
         {
+          "title": "UK aviation emissions to be 50% higher than thought by 2050, government admits",
+          "link": "https://www.carbonbrief.org/uk-aviation-emissions-to-be-50-higher-than-thought-by-2050-government-admits",
+          "published": "2026-09-10T10:42:50+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "The UK government has slashed its hopes for electric planes and “sustainable aviation fuels” (SAFs), ahead of giving the green&#8230;\nThe post UK avia",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Analysis: UK solar power hits record high over summer 2026",
           "link": "https://www.carbonbrief.org/analysis-uk-solar-power-hits-record-high-over-summer-2026",
           "published": "2026-09-04T11:21:35+00:00",
@@ -1222,13 +1200,13 @@
           "other_news": true
         },
         {
-          "title": "Why land-use emissions have fallen by a third this century – in six charts",
-          "link": "https://www.carbonbrief.org/why-land-use-emissions-have-fallen-by-a-third-this-century-in-six-charts",
-          "published": "2026-08-17T12:45:51+00:00",
-          "source": "Carbonbrief",
+          "title": "Foreign minister: Nepal needs “meaningful” international support to face climate threats",
+          "link": "https://www.climatechangenews.com/2026/09/09/foreign-minister-nepal-meaningful-international-support-climate-flood-glacier/",
+          "published": "2026-09-09T21:00:00+00:00",
+          "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Emissions from land-use change – including deforestation, loss of peatland and forest degradation – have been falling over the course&#8230;\nThe post",
+          "summary": "Following its recent Himalayan flooding disaster, the South Asian nation is seeking urgent help from a new UN climate fund, appealing for \"stronger gl",
           "image": null,
           "other_news": true
         },
@@ -1431,6 +1409,28 @@
           "other_news": true
         },
         {
+          "title": "Le réchauffement climatique à venir pourrait avoir été sous-estimé de 0,4 °C",
+          "link": "https://reporterre.net/Le-rechauffement-climatique-a-venir-pourrait-avoir-ete-sous-estime-de-0-4-oC",
+          "published": "2026-09-10T09:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Pergélisol, feux de forêt... Des sources d'émission de carbone peu prises en compte dans les modèles actuels pourraient alourdir",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20240226__2570869__v1__highres__fasticebreakingupsvalbardarctic-a16c9.jpg?1789030803",
+          "other_news": true
+        },
+        {
+          "title": "Vêtements d'occasion : acheter sur internet émet jusqu'à 5 fois plus de CO2 qu'en boutique",
+          "link": "https://reporterre.net/Vetements-d-occasion-acheter-sur-internet-emet-jusqu-a-5-fois-plus-de-CO2-qu-en-boutique",
+          "published": "2026-09-09T22:01:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "L'ONG Oxfam a comparé l'impact environnemental des différentes filières de seconde main qui prennent leur essor en France. Le ré",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/compagnons-mertcmdguem-unsplash_1_-877a1.jpg?1788991261",
+          "other_news": true
+        },
+        {
           "title": "« Une véritable arnaque » : les voitures hybrides rechargeables émettent six fois plus de CO2 que les tests officiels",
           "link": "https://reporterre.net/Les-voitures-hybrides-rechargeables-emettent-six-fois-plus-de-CO2-que-les-tests-officiels",
           "published": "2026-09-09T14:35:31+00:00",
@@ -1541,14 +1541,36 @@
           "other_news": true
         },
         {
-          "title": "Pesticides : environ 46 % des agriculteurs empoisonnés chaque année dans le monde",
-          "link": "https://reporterre.net/Pesticides-environ-46-des-agriculteurs-empoisonnes-chaque-annee-dans-le-monde",
-          "published": "2026-09-02T10:53:53+00:00",
-          "source": "Reporterre",
+          "title": "Pour Oxfam France, les plateformes de revente en ligne des vêtements sabordent l’effet vertueux de la seconde main pour l’environnement",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/10/pour-oxfam-france-les-plateformes-de-revente-en-ligne-des-vetements-sabordent-l-effet-vertueux-de-la-seconde-main-pour-l-environnement_6769295_3244.html",
+          "published": "2026-09-10T05:15:05+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Une étude commandée par le réseau Pesticide Action Network, relayée par The Guardian le 2 septembre, révèle qu'entre 402 et 433",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20240406__34mt6w8__v2__highres__burkinaagriculturestrawberries_1_-0140e.jpg?1788346435",
+          "summary": "Dans un rapport publié jeudi, l’ONG spécialisée dans la lutte contre les inégalités et la pauvreté alerte sur l’impact environnemental et social de la",
+          "image": "https://img.lemde.fr/2026/09/09/43/0/3000/1500/644/322/60/0/c9c4b2f_upload-1-kpalsnhuciff-000-a9fn863.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Le traitement subi par des militants de Greenpeace pour une action à la centrale de Gravelines jugé « profondément préoccupant » par l’ONU",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/09/le-traitement-subi-par-des-militants-de-greenpeace-pour-une-action-a-la-centrale-de-gravelines-juge-profondement-preoccupant-par-l-onu_6768953_3244.html",
+          "published": "2026-09-09T19:15:38+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans son courrier, Michel Forst, rapporteur spécial des Nations unies sur les défenseurs de l’environnement, alerte sur l’arrestation, le traitement a",
+          "image": "https://img.lemde.fr/2026/09/09/943/0/5660/2830/644/322/60/0/5972a55_upload-1-uwfeu5psxsor-000-36kz96r.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Electricité : le développement des énergies renouvelables profite aux consommateurs, assure la Commission de régulation de l’énergie",
+          "link": "https://www.lemonde.fr/economie/article/2026/09/09/electricite-le-developpement-des-energies-renouvelables-profite-aux-consommateurs-assure-la-commission-de-regulation-de-l-energie_6768952_3234.html",
+          "published": "2026-09-09T19:14:07+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’autorité administrative indépendante a présenté mercredi un document permettant de comprendre l’économie du système électrique hexagonal.",
+          "image": "https://img.lemde.fr/2026/09/09/71/0/7850/3925/644/322/60/0/bfa94d3_upload-1-hei5kftvnrre-000-48wz4np-1.jpg",
           "other_news": true
         },
         {
@@ -1563,47 +1585,91 @@
           "other_news": true
         },
         {
-          "title": "Marche pour le climat du 26 septembre : la carte des manifestations près de chez vous",
-          "link": "https://vert.eco/rapports-de-force/marche-pour-le-climat-le-26-septembre-la-carte-des-manifestations-pres-de-chez-vous/",
-          "published": "2026-09-07T14:24:34+00:00",
-          "source": "Vert Eco Articles",
+          "title": "The government has proposed new laws for tackling illegal tobacco, but they likely won’t do much",
+          "link": "https://theconversation.com/the-government-has-proposed-new-laws-for-tackling-illegal-tobacco-but-they-likely-wont-do-much-291651",
+          "published": "2026-09-10T06:04:14+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Après l’été le plus chaud que la France ait jamais connu, citoyen·nes et associations appellent au rassemblement. Le 26 septembre, des cortèges s’élan",
+          "language": "en",
+          "summary": "The legislation, which aims to make it easier to prosecute those involved in the illicit tobacco trade, is more of the same: punitive, but still not e",
           "image": null,
           "other_news": true
         },
         {
-          "title": "Space weather can cause both beautiful auroras and infrastructure challenges – 5 essential reads on protecting life and technology",
-          "link": "https://theconversation.com/space-weather-can-cause-both-beautiful-auroras-and-infrastructure-challenges-5-essential-reads-on-protecting-life-and-technology-273176",
-          "published": "2026-09-09T12:46:58+00:00",
+          "title": "5 great 9/11 novels grapple with grief, trauma and the ‘American dream’",
+          "link": "https://theconversation.com/5-great-9-11-novels-grapple-with-grief-trauma-and-the-american-dream-289974",
+          "published": "2026-09-09T20:07:51+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "A massive solar flare could seriously disrupt life on Earth – but new NASA missions and others in development will help monitor the Sun.",
+          "summary": "We’ve been telling stories about 9/11 since it happened. The really great ones helped shape how we feel about the attacks and their aftermath.",
           "image": null,
           "other_news": true
         },
         {
-          "title": "Skepticism around green ride-hailing: How to gain riders’ trust",
-          "link": "https://theconversation.com/skepticism-around-green-ride-hailing-how-to-gain-riders-trust-289360",
-          "published": "2026-09-09T10:30:49+00:00",
-          "source": "The Conversation",
+          "title": "The EU approved an antideforestation law. The US paper lobby sought to weaken it",
+          "link": "https://news.mongabay.com/2026/09/the-eu-approved-an-antideforestation-law-the-us-paper-lobby-sought-to-weaken-it/",
+          "published": "2026-09-10T06:00:12+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Without clear standards, it will be difficult for users to distinguish between serious environmental commitments and superficial green promotion.",
-          "image": null,
+          "summary": "When the European Union’s new anti-deforestation law threatened to expose the environmental costs of logging in North America’s forests, the American",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09015429/i.-28446630302_ff0e9a7172_o-1-768x477.jpg",
           "other_news": true
         },
         {
-          "title": "Politics with Michelle Grattan: Chris Bowen on co-hosting COP and Australia’s renewables target",
-          "link": "https://theconversation.com/politics-with-michelle-grattan-chris-bowen-on-co-hosting-cop-and-australias-renewables-target-291551",
-          "published": "2026-09-09T07:06:17+00:00",
-          "source": "The Conversation",
+          "title": "Nepal’s high-altitude wildernesses & wildlife are increasingly under threat (commentary)",
+          "link": "https://news.mongabay.com/2026/09/nepals-high-altitude-wildernesses-wildlife-are-increasingly-under-threat-commentary/",
+          "published": "2026-09-09T19:49:22+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "The environment minister has fought back against criticisms that very few world leaders will attend the pre-COP meeting in the Pacific.",
-          "image": null,
+          "summary": "Changes like increasing geological and glacial instability driven by the warming climate are a growing concern across the Himalayas. Our hearts go out",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/07/08101747/10-Pallass-cat-kittens-in-Mongolia-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Indigenous land back in Chile brings mixed bag of environmental outcomes: Study",
+          "link": "https://news.mongabay.com/2026/09/indigenous-land-back-in-chile-brings-mixed-bag-of-environmental-outcomes-study/",
+          "published": "2026-09-09T18:59:33+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Indigenous land restitution in Chile came with a mixed bag of environmental outcomes and did not boost natural forest cover, according to a new study",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09154250/Pictures-of-the-Week-Latin-America-and-Caribbean-Photo-Gallery-768x512.jpeg",
+          "other_news": true
+        },
+        {
+          "title": "In North Carolina, a race is on to restore critical peatland before it dries up or is destroyed",
+          "link": "https://news.mongabay.com/short-article/2026/09/in-north-carolina-a-race-is-on-to-restore-critical-peatland-before-it-dries-up-or-is-destroyed/",
+          "published": "2026-09-09T18:02:53+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "BELHAVEN, N.C. (AP) — Scientists and investors are restoring a 23-square-mile tract of peatland in North Carolina to help curb climate-warming emissio",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09174544/AP26240569401427-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Kashmir’s water bodies have declined for decades. Is conservation keeping pace?",
+          "link": "https://news.mongabay.com/2026/09/kashmirs-water-bodies-have-declined-for-decades-is-conservation-keeping-pace/",
+          "published": "2026-09-09T17:58:32+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "For generations, Kashmir’s wetlands, lakes and rivers have been woven into the landscape around its towns and villages. Paddy fields once stretched ac",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09082340/Wular-Lake-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "When climate-related hazards rise, so do barriers for people with disabilities",
+          "link": "https://news.mongabay.com/2026/09/when-climate-related-hazards-rise-so-do-barriers-for-people-with-disabilities/",
+          "published": "2026-09-09T17:32:47+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "When climate-related hazards like floods, storms, extreme heat and landslides strike, roads can become impassable, homes unsafe and communities begin",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09121045/2.Sierra-Leone-wheelchair-768x512.jpg",
           "other_news": true
         },
         {
@@ -1648,28 +1714,6 @@
           "language": "en",
           "summary": "NAIROBI, Kenya (AP) — Carbon credit financing is helping to drive Africa’s clean cooking transition by making cleaner stoves affordable for millions o",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/07174011/AP26240399641888-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "In Panama’s Darién, Indigenous communities test a new way to fund conservation",
-          "link": "https://news.mongabay.com/2026/09/in-panamas-darien-indigenous-communities-test-a-new-way-to-fund-conservation/",
-          "published": "2026-09-07T15:10:14+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "When Elsa Quiroz saw the spotted body of a jaguar appear on her son’s computer screen, she couldn’t believe her eyes. “I’d only seen them in books,” s",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/15163740/panama_240512162306_0722-e1768495168974-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "What conservation rumors reveal about climate projects in the Congo Basin (commentary)",
-          "link": "https://news.mongabay.com/2026/09/what-conservation-rumors-reveal-about-climate-projects-in-the-congo-basin-commentary/",
-          "published": "2026-09-07T07:00:27+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In 2020, a strange rumor began circulating in villages around the Yangambi Biosphere Reserve in the Democratic Republic of Congo’s Tshopo province. A",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/02163523/50481042727_043f1b4572_k-768x512.jpg",
           "other_news": true
         }
       ]

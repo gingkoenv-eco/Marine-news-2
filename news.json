@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T12:15:39.052866+00:00",
+  "generated_at": "2026-09-10T16:24:14.449636+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -11,6 +11,17 @@
           "type": "news",
           "language": "en",
           "summary": "With location regulations no longer in force, fishing boats are harvesting thousands of tons of krill from very few areas, increasing competition with",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Dramatic decline in globally significant dugong population",
+          "link": "https://oceanographicmagazine.com/news/dramatic-decline-in-globally-significant-dugong-population/",
+          "published": "2026-09-03T17:05:15+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "An aerial survey found a 50% drop in the dugong population off the coast of Northern Australia, scientists are calling for stricter fishing regulation",
           "image": null,
           "other_news": false
         }
@@ -123,17 +134,6 @@
           "summary": "Des chercheuses proposent un nouvel indicateur, l’empreinte plastique particulaire, pour mesurer la pollution plastique, invisible dans les bilans car",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "‘Plastic pollution hotspots’ spawn a public health crisis across Latin America",
-          "link": "https://news.mongabay.com/2026/09/plastic-pollution-hotspots-spawn-a-public-health-crisis-across-latin-america/",
-          "published": "2026-09-08T13:33:36+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Since China banned the import of plastic waste in 2018, plastic pollution has been having a growing impact on the people and ecosystems of Latin Ameri",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/08133303/AP21097556420581-1-768x512.jpg",
-          "other_news": false
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -226,17 +226,6 @@
           "other_news": false
         },
         {
-          "title": "Narwhals are helping scientists map warm water hidden in Greenland’s fjords",
-          "link": "https://theconversation.com/narwhals-are-helping-scientists-map-warm-water-hidden-in-greenlands-fjords-290545",
-          "published": "2026-08-26T18:01:07+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Tags on these deep-diving whales are providing vital data from places research ships struggle to reach.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Galápagos corals show El Niño events are more extreme now than in past 1,000 years – here’s how my team made the discovery",
           "link": "https://theconversation.com/galapagos-corals-show-el-nino-events-are-more-extreme-now-than-in-past-1-000-years-heres-how-my-team-made-the-discovery-272318",
           "published": "2026-08-27T18:00:39+00:00",
@@ -259,6 +248,50 @@
           "other_news": false
         },
         {
+          "title": "“We’re rebuilding”: Four nights to shape future of Florida’s reef",
+          "link": "https://oceanographicmagazine.com/news/were-rebuilding-four-nights-to-shape-future-of-floridas-reef/",
+          "published": "2026-09-08T17:34:20+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Florida conservationists captured elkhorn coral's annual spawning to fertilise and raise juvenile corals for reef restoration, as new global data reve",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Matters of the heart: what’s a blue whale’s heartbeat telling us?",
+          "link": "https://oceanographicmagazine.com/news/matters-of-the-heart-whats-a-blue-whales-heartbeat-telling-us/",
+          "published": "2026-09-07T11:40:11+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "New heart-rate data from blue and humpback whales shows their hearts behave like sprinters' during feeding lunges - a discovery that reveals how whale",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Probiotic treatments help heat-stressed corals survive, field trial finds",
+          "link": "https://oceanographicmagazine.com/news/probiotic-treatments-help-heat-stressed-corals-survive-field-trial-finds/",
+          "published": "2026-09-04T09:16:15+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A 15-day experiment during a real marine heat wave in the Red Sea has shown that both live probiotic and inactivated postbiotic treatments can improve",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Underwater meadows ‘lifeline’ for millions in poverty, study finds",
+          "link": "https://oceanographicmagazine.com/news/underwater-meadows-lifeline-for-millions-in-poverty-study-finds/",
+          "published": "2026-09-04T09:11:44+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "At least 18 million people living in extreme poverty across the Indo-Pacific rely on seagrass meadows to fish with the habitat acting as a safety net",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "The Annual Migration to Clean Up Our Coasts",
           "link": "https://oceanconservancy.org/blog/2026/09/04/clean-up-our-coasts/",
           "published": "2026-09-04T14:18:13+00:00",
@@ -267,6 +300,17 @@
           "language": "en",
           "summary": "Annually, seasonally and sometimes even daily, amazing oceanic migrations are taking place. Humpback whales migrate thousands of miles to breeding gro",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "‘Forgotten fauna’: Little known river sharks and rays face increased extinction risk",
+          "link": "https://news.mongabay.com/2026/09/forgotten-fauna-little-known-river-sharks-and-rays-face-increased-extinction-risk/",
+          "published": "2026-09-10T15:48:31+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Vashishti River, originating in the biodiversity-rich Western Ghats and flowing into the Arabian Sea along India’s western coast, has long support",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/10135017/BANNER-e-Xingu-River-Stingray-031-768x512.jpg",
           "other_news": false
         }
       ],
@@ -325,6 +369,19 @@
           "type": "news",
           "language": "en",
           "summary": "The abrupt disappearance of a lake is one clear sign that the ice below is melting, and a clue to wider permafrost changes.",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Italy faces legal action over bottom trawling in ‘paper park’ MPAs",
+          "link": "https://oceanographicmagazine.com/news/italy-faces-legal-action-over-bottom-trawling-in-paper-park-mpas/",
+          "published": "2026-09-09T08:23:45+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "ClientEarth and Legambiente - with the support of Blue Marine Foundation - have launched the latest in a series of legal actions targeting ineffective",
           "image": null,
           "other_news": false
         }
@@ -397,6 +454,17 @@
           "other_news": false
         },
         {
+          "title": "2026’s El Niño is shaping up to be a doozy – it’s already affecting global shipping, fish behavior and heat",
+          "link": "https://theconversation.com/2026s-el-nino-is-shaping-up-to-be-a-doozy-its-already-affecting-global-shipping-fish-behavior-and-heat-291490",
+          "published": "2026-09-10T12:49:08+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "El Niño can affect agriculture, marine life and economies in profound ways, including slowing commerce at the Panama Canal. This El Niño is likely to",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "A second hurricane just sideswiped Hawaii – why the islands’ usual force field seems to be down in 2026",
           "link": "https://theconversation.com/a-second-hurricane-just-sideswiped-hawaii-why-the-islands-usual-force-field-seems-to-be-down-in-2026-291524",
           "published": "2026-09-09T12:49:00+00:00",
@@ -452,6 +520,17 @@
           "other_news": false
         },
         {
+          "title": "Record de température : l'océan est en surchauffe depuis 100 jours",
+          "link": "https://reporterre.net/Record-de-temperature-l-ocean-est-en-surchauffe-depuis-100-jours",
+          "published": "2026-09-10T13:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "L'océan global a franchi le 10 septembre un cap symbolique et alarmant : cela fait maintenant 100 jours qu'il est en surchauffe.",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/hiroko-yoshii-9y7y26c-l4y-unsplash_1_-6e605.jpg?1789045201",
+          "other_news": false
+        },
+        {
           "title": "Marine Tondelier : « Ce qui se passe est trop grave pour abdiquer »",
           "link": "https://reporterre.net/Marine-Tondelier-Nous-menons-une-double-campagne-pour-l-ecologie-et-pour-l-union",
           "published": "2026-09-09T14:00:00+00:00",
@@ -471,6 +550,50 @@
           "language": "fr",
           "summary": "Piller l'océan, non pas pour nourrir des humains… mais des poissons d'élevage. Tel est l'horizon vers lequel le secteur de la pê",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH464/36473113002_9dd81f5976_k_2_1_-ccb04.jpg?1788523516",
+          "other_news": false
+        },
+        {
+          "title": "Ocean Photographer of the Year 2026 winners announced",
+          "link": "https://oceanographicmagazine.com/news/ocean-photographer-of-the-year-winners-announced/",
+          "published": "2026-09-09T18:05:34+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The winners of the Ocean Photographer of the Year 2026, presented by Oceanographic and Blancpain, have been revealed. From the seabed to the surface,",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "US court upholds rule to save sea turtles from shrimp trawlers",
+          "link": "https://oceanographicmagazine.com/news/us-court-upholds-rule-to-save-sea-turtles-from-shrimp-trawlers/",
+          "published": "2026-09-08T13:00:33+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A federal appeals court has upheld a rule requiring turtle excluder devices on larger skimmer trawl shrimp boats, rejecting an industry challenge and",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Rare photo of octopus hitching a ride on dolphin",
+          "link": "https://oceanographicmagazine.com/news/rare-photo-of-octopus-hitching-a-ride-on-dolphin/",
+          "published": "2026-09-02T14:10:57+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Researchers say the image offers a rare glimpse into UK’s shifting ecosystems, as warmer waters bring octopus blooms, and new feeding activities.\nThe",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Après cet été caniculaire, allez-vous payer vos aliments plus cher dans les supermarchés ?",
+          "link": "https://vert.eco/agriculture/apres-cet-ete-caniculaire-allez-vous-payer-vos-aliments-plus-cher-dans-les-supermarches/",
+          "published": "2026-09-10T15:55:51+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le prix des produits frais (fruits, légumes, poissons…) a augmenté de 5,8% sur un an en août, selon les estimations de l’Insee ce jeudi. La conséquenc",
+          "image": null,
           "other_news": false
         },
         {
@@ -556,13 +679,13 @@
           "other_news": true
         },
         {
-          "title": "Dans les mines d’or de Guyane, le bilan mitigé de la réhabilitation des sols",
-          "link": "https://theconversation.com/dans-les-mines-dor-de-guyane-le-bilan-mitige-de-la-rehabilitation-des-sols-285959",
-          "published": "2026-08-14T11:08:58+00:00",
-          "source": "The Conversation FR",
+          "title": "Heatwaves are making toxic algae worse, but the real problem is what we are putting into our rivers and lakes",
+          "link": "https://theconversation.com/heatwaves-are-making-toxic-algae-worse-but-the-real-problem-is-what-we-are-putting-into-our-rivers-and-lakes-290653",
+          "published": "2026-09-10T15:04:46+00:00",
+          "source": "The Conversation UK",
           "type": "news",
-          "language": "fr",
-          "summary": "Si les méthodes de réhabilitation des anciennes mines d’or en Guyane française parviennent à freiner l’érosion pour limiter la pollution, elles peinen",
+          "language": "en",
+          "summary": "Hot weather accelerates toxic algal blooms, but nutrient pollution provides the fuel.",
           "image": null,
           "other_news": true
         },
@@ -586,17 +709,6 @@
           "language": "fr",
           "summary": "Depuis le milieu du XXe siècle, la nocivité des pollutions industrielles sur le climat est clairement établie. Mais les sociétés",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/screenshot_2026-09-07_at_11-15-31_recherche_google-3be93.jpg?1788843601",
-          "other_news": true
-        },
-        {
-          "title": "Pig farm vs power station: South African court tells state-owned Eskom to clean up its pollution",
-          "link": "https://theconversation.com/pig-farm-vs-power-station-south-african-court-tells-state-owned-eskom-to-clean-up-its-pollution-291317",
-          "published": "2026-09-09T13:46:02+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "South Africa’s Supreme Court of Appeal has held electricity utility Eskom and state regulators responsible for water pollution from a coal fired power",
-          "image": null,
           "other_news": true
         }
       ],
@@ -744,6 +856,17 @@
           "language": "en",
           "summary": "The Isle of Man Mars Society is urging politicians to sign an international space exploration agreement.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f53/live/a4381b30-a84b-11f1-80f8-c33181935c5a.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Climat : Séparer adaptation et atténuation freine-t-il l’action ?",
+          "link": "https://theconversation.com/climat-separer-adaptation-et-attenuation-freine-t-il-laction-291206",
+          "published": "2026-09-10T14:59:04+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Depuis les années 1990, on distingue l’atténuation, qui s’attaque aux causes des changements climatiques, de l’adaptation, qui vise à en prévenir les",
+          "image": null,
           "other_news": true
         },
         {
@@ -934,17 +1057,6 @@
           "other_news": true
         },
         {
-          "title": "Climate disasters are ravaging government budgets – aid works best when paid upfront",
-          "link": "https://theconversation.com/climate-disasters-are-ravaging-government-budgets-aid-works-best-when-paid-upfront-289831",
-          "published": "2026-08-27T13:52:51+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Most climate aid arrives after the disaster. A handful of countries are proving it doesn’t have to.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Farmer-poet Wendell Berry’s environmental ethics were deeply rooted in his Christian faith and belief in caring for creation",
           "link": "https://theconversation.com/farmer-poet-wendell-berrys-environmental-ethics-were-deeply-rooted-in-his-christian-faith-and-belief-in-caring-for-creation-291025",
           "published": "2026-09-04T12:29:05+00:00",
@@ -1022,13 +1134,13 @@
           "other_news": true
         },
         {
-          "title": "Colorado River water conservation efforts get only halfway to a solution",
-          "link": "https://theconversation.com/colorado-river-water-conservation-efforts-get-only-halfway-to-a-solution-288758",
-          "published": "2026-08-20T12:39:39+00:00",
-          "source": "The Conversation US",
+          "title": "Guest post: How extreme heat is ‘creeping’ from summer into autumn and spring",
+          "link": "https://www.carbonbrief.org/guest-post-how-extreme-heat-is-creeping-from-summer-into-autumn-and-spring",
+          "published": "2026-09-10T13:00:00+00:00",
+          "source": "Carbonbrief",
           "type": "news",
           "language": "en",
-          "summary": "The existing plans and commitments to reduce water use don’t add up to even half of the savings that are needed to keep the river flowing.",
+          "summary": "Extreme heat is one of the deadliest climate hazards, but no two heatwaves are the same. Heat extremes that happen&#8230;\nThe post Guest post: How ext",
           "image": null,
           "other_news": true
         },
@@ -1308,7 +1420,18 @@
           "other_news": true
         },
         {
-          "title": "Le réchauffement climatique à venir pourrait avoir été sous-estimé",
+          "title": "Répression : le traitement de militants de Greenpeace jugé « préoccupant » par un rapporteur de l'ONU",
+          "link": "https://reporterre.net/L-ONU-juge-profondement-preoccupant-le-traitement-subi-par-des-militants-de-Greenpeace",
+          "published": "2026-09-10T13:20:38+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le rapporteur spécial des Nations unies sur les défenseurs de l'environnement, Michel Forst, a alerté les autorités françaises s",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20241028__36ky4bf__v1__highres__franceenergynucleargreenpeacedemo-01d9b.jpg?1789046441",
+          "other_news": true
+        },
+        {
+          "title": "Incendies, pergélisol... Ces émissions de CO₂ vont réchauffer le climat au-delà de nos prévisions",
           "link": "https://reporterre.net/Le-rechauffement-climatique-a-venir-pourrait-avoir-ete-sous-estime-de-0-4-oC",
           "published": "2026-09-10T09:00:00+00:00",
           "source": "Reporterre",
@@ -1484,6 +1607,39 @@
           "other_news": true
         },
         {
+          "title": "New report on climate ‘overshoot’: what it means for Africa and how faster action can limit the damage",
+          "link": "https://theconversation.com/new-report-on-climate-overshoot-what-it-means-for-africa-and-how-faster-action-can-limit-the-damage-291567",
+          "published": "2026-09-10T14:06:56+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The world is likely to pass 1.5°C of warming. Africa faces worse heat, drought and floods, but faster cuts to emissions can still limit the overshoot",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Six ways people have used magic to protect their homes throughout history – from witch bottles to ‘hag stones’",
+          "link": "https://theconversation.com/six-ways-people-have-used-magic-to-protect-their-homes-throughout-history-from-witch-bottles-to-hag-stones-290188",
+          "published": "2026-09-10T13:24:33+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "If you’ve got problem neighbours, or your house and garden seem to suffer from bad luck, perhaps it’s time to try a magical solution.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "I’m a pediatrician in Michigan who created Rx Kids, one of the nation’s largest anti-poverty programs – here’s what I’ve learned about how medical schools can improve community health",
+          "link": "https://theconversation.com/im-a-pediatrician-in-michigan-who-created-rx-kids-one-of-the-nations-largest-anti-poverty-programs-heres-what-ive-learned-about-how-medical-schools-can-improve-community-health-277064",
+          "published": "2026-09-10T12:44:21+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "More than 15,000 families in Michigan have received cash support from Rx Kids. Participants say the program helps them pay bills and maintain their he",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "The government has proposed new laws for tackling illegal tobacco, but they likely won’t do much",
           "link": "https://theconversation.com/the-government-has-proposed-new-laws-for-tackling-illegal-tobacco-but-they-likely-wont-do-much-291651",
           "published": "2026-09-10T06:04:14+00:00",
@@ -1491,17 +1647,6 @@
           "type": "news",
           "language": "en",
           "summary": "The legislation, which aims to make it easier to prosecute those involved in the illicit tobacco trade, is more of the same: punitive, but still not e",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "5 great 9/11 novels grapple with grief, trauma and the ‘American dream’",
-          "link": "https://theconversation.com/5-great-9-11-novels-grapple-with-grief-trauma-and-the-american-dream-289974",
-          "published": "2026-09-09T20:07:51+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "We’ve been telling stories about 9/11 since it happened. The really great ones helped shape how we feel about the attacks and their aftermath.",
           "image": null,
           "other_news": true
         },

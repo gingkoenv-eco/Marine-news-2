@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:01:32.471113+00:00",
+  "generated_at": "2026-09-11T11:22:46.865885+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -13,17 +13,15 @@
           "summary": "With location regulations no longer in force, fishing boats are harvesting thousands of tons of krill from very few areas, increasing competition with",
           "image": null,
           "other_news": false
-        }
-      ],
-      "Species Migration & Habitat Change": [
+        },
         {
-          "title": "View from The Hill: Let’s make the argument for, not against, migration: Malinauskas",
-          "link": "https://theconversation.com/view-from-the-hill-lets-make-the-argument-for-not-against-migration-malinauskas-291557",
-          "published": "2026-09-10T08:53:19+00:00",
-          "source": "The Conversation",
+          "title": "Dramatic decline in globally significant dugong population",
+          "link": "https://oceanographicmagazine.com/news/dramatic-decline-in-globally-significant-dugong-population/",
+          "published": "2026-09-03T17:05:15+00:00",
+          "source": "Oceanographic",
           "type": "news",
           "language": "en",
-          "summary": "As the Albanese government continues to agonise over how to rejig it’s immigration policy, Peter Malinauskas gives a rare defence of migration",
+          "summary": "An aerial survey found a 50% drop in the dugong population off the coast of Northern Australia, scientists are calling for stricter fishing regulation",
           "image": null,
           "other_news": false
         }
@@ -182,17 +180,6 @@
           "other_news": false
         },
         {
-          "title": "Drone footage shows rare bird’s-eye view of stingrays off New York coast",
-          "link": "https://www.theguardian.com/us-news/2026/aug/12/new-york-stingrays-drone-footage",
-          "published": "2026-08-12T10:00:27+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "With wing spans up to 3ft, the shy cownose ray species typically arrive in Long Island waters in the warmer monthsDrone footage of dozens of stingrays",
-          "image": "https://i.guim.co.uk/img/media/270e456ae909f4949a8a4095a4288d6f24d57820/439_0_4393_3515/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=07398442656656e77b9ebeeef6cb6b9b",
-          "other_news": false
-        },
-        {
           "title": "What anglers have taught me about saving England’s sharks",
           "link": "https://theconversation.com/what-anglers-have-taught-me-about-saving-englands-sharks-288844",
           "published": "2026-09-08T05:35:30+00:00",
@@ -233,6 +220,50 @@
           "type": "news",
           "language": "en",
           "summary": "A fish-finding expedition not only detects unexpected species but also uncovers a living link to Missouri’s geological past.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "“We’re rebuilding”: Four nights to shape future of Florida’s reef",
+          "link": "https://oceanographicmagazine.com/news/were-rebuilding-four-nights-to-shape-future-of-floridas-reef/",
+          "published": "2026-09-08T17:34:20+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Florida conservationists captured elkhorn coral's annual spawning to fertilise and raise juvenile corals for reef restoration, as new global data reve",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Matters of the heart: what’s a blue whale’s heartbeat telling us?",
+          "link": "https://oceanographicmagazine.com/news/matters-of-the-heart-whats-a-blue-whales-heartbeat-telling-us/",
+          "published": "2026-09-07T11:40:11+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "New heart-rate data from blue and humpback whales shows their hearts behave like sprinters' during feeding lunges - a discovery that reveals how whale",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Probiotic treatments help heat-stressed corals survive, field trial finds",
+          "link": "https://oceanographicmagazine.com/news/probiotic-treatments-help-heat-stressed-corals-survive-field-trial-finds/",
+          "published": "2026-09-04T09:16:15+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A 15-day experiment during a real marine heat wave in the Red Sea has shown that both live probiotic and inactivated postbiotic treatments can improve",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Underwater meadows ‘lifeline’ for millions in poverty, study finds",
+          "link": "https://oceanographicmagazine.com/news/underwater-meadows-lifeline-for-millions-in-poverty-study-finds/",
+          "published": "2026-09-04T09:11:44+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "At least 18 million people living in extreme poverty across the Indo-Pacific rely on seagrass meadows to fish with the habitat acting as a safety net",
           "image": null,
           "other_news": false
         },
@@ -318,6 +349,32 @@
           "other_news": false
         }
       ],
+      "Species Migration & Habitat Change": [
+        {
+          "title": "Albanese and Taylor explore possibility of deal on migration reforms",
+          "link": "https://theconversation.com/albanese-and-taylor-explore-possibility-of-deal-on-migration-reforms-291556",
+          "published": "2026-09-11T09:01:34+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The discussions between the two leaders reflect a desire by both sides to reduce the heat around the migration issue, which is being fuelled by One Na",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Italy faces legal action over bottom trawling in ‘paper park’ MPAs",
+          "link": "https://oceanographicmagazine.com/news/italy-faces-legal-action-over-bottom-trawling-in-paper-park-mpas/",
+          "published": "2026-09-09T08:23:45+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "ClientEarth and Legambiente - with the support of Blue Marine Foundation - have launched the latest in a series of legal actions targeting ineffective",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Other Marine News": [
         {
           "title": "Could this humble sea sponge clean up the world’s ports?",
@@ -361,17 +418,6 @@
           "language": "en",
           "summary": "Crustaceans are the subject of tests to see if alkalis added to seawater, so it absorbs more CO2, harm marine life. But Trump’s halt to funding threat",
           "image": "https://i.guim.co.uk/img/media/c5d8e574d2a6be0067606206ed1b286ce94319be/0_0_4016_3213/master/4016.jpg?width=140&quality=85&auto=format&fit=max&s=154118993bb8d384e4bf3f65f6b24e4a",
-          "other_news": false
-        },
-        {
-          "title": "‘Like an alien invasion’: the neon flying squid that can fly in formation above the ocean",
-          "link": "https://www.theguardian.com/environment/2026/aug/12/like-an-alien-invasion-the-neon-flying-squid-that-can-fly-in-formation-above-the-ocean",
-          "published": "2026-08-12T11:00:28+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Smart, sociable squid use funnel-like organ to force water to jet propel themselves along in and out of seaRevealed: the top 10 invertebrates of the y",
-          "image": "https://i.guim.co.uk/img/media/06f96b2fdf9d2f3daa154bf8a137257a85a440e2/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ca763dfd231db18ca73b2d0e88d3b8b8",
           "other_news": false
         },
         {
@@ -441,17 +487,6 @@
           "other_news": false
         },
         {
-          "title": "Q&A: What is ‘long-duration energy storage’ – and why does the UK need it?",
-          "link": "https://www.carbonbrief.org/qa-what-is-long-duration-energy-storage-and-why-does-the-uk-need-it",
-          "published": "2026-08-19T11:18:11+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "The UK is pioneering the use of “super batteries” that can store energy for long periods, smoothing the output from&#8230;\nThe post Q&amp;A: What is ‘",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "At regional summit, Pacific islands ask for COP31 support for clean energy and finance",
           "link": "https://www.climatechangenews.com/2026/09/07/pacific-islands-forum-cop31-clean-energy-finance-ocean-renewables/",
           "published": "2026-09-07T10:00:34+00:00",
@@ -493,6 +528,39 @@
           "language": "fr",
           "summary": "Piller l'océan, non pas pour nourrir des humains… mais des poissons d'élevage. Tel est l'horizon vers lequel le secteur de la pê",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH464/36473113002_9dd81f5976_k_2_1_-ccb04.jpg?1788523516",
+          "other_news": false
+        },
+        {
+          "title": "Ocean Photographer of the Year 2026 winners announced",
+          "link": "https://oceanographicmagazine.com/news/ocean-photographer-of-the-year-winners-announced/",
+          "published": "2026-09-09T18:05:34+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The winners of the Ocean Photographer of the Year 2026, presented by Oceanographic and Blancpain, have been revealed. From the seabed to the surface,",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "US court upholds rule to save sea turtles from shrimp trawlers",
+          "link": "https://oceanographicmagazine.com/news/us-court-upholds-rule-to-save-sea-turtles-from-shrimp-trawlers/",
+          "published": "2026-09-08T13:00:33+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A federal appeals court has upheld a rule requiring turtle excluder devices on larger skimmer trawl shrimp boats, rejecting an industry challenge and",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Protection des dauphins : début 2027, un mois sans pêche dans le golfe de Gascogne, pour la quatrième année d’affilée",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/11/protection-des-dauphins-debut-2027-un-mois-sans-peche-dans-le-golfe-de-gascogne-pour-la-quatrieme-annee-d-affilee_6770549_3244.html",
+          "published": "2026-09-11T10:38:34+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le gouvernement avait déjà pris une mesure d’interdiction temporaire identique en 2024, 2025 et 2026. Selon une étude menée durant l’hiver 2024-2025,",
+          "image": "https://img.lemde.fr/2026/09/11/500/0/6000/3000/644/322/60/0/d6b745a_upload-1-tizdmhsx0a67-000-34ja78g.jpg",
           "other_news": false
         },
         {
@@ -571,23 +639,23 @@
           "summary": "During a recent monthlong expedition, a team of scientists conducted one of the most comprehensive surveys ever undertaken in the deep waters of Trini",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09151211/FKt260629-S0941-20260707T175802Z-305-scicam-SOIOctoZoom-SS-0509-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Riverside families in the Amazon change meals as mercury poisons staple fish",
-          "link": "https://news.mongabay.com/2026/09/riverside-families-in-the-amazon-change-meals-as-mercury-poisons-staple-fish/",
-          "published": "2026-09-08T18:59:32+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A database built by Mongabay Latam, based on the analysis of scientific studies that gathered more than 7,000 samples from humans and 5,900 from fish,",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/26162833/BANNER-Karla_Renata-Guacebe-PXL_20250518_143520458.jpg.00_00_03_13.Still001-1-768x512.jpg",
-          "other_news": false
         }
       ]
     },
     "To Watch / Read / Listen": {},
     "Other News": {
       "Plastic & Ocean Pollution": [
+        {
+          "title": "Sheen says he was snubbed by FM over pollution claims",
+          "link": "https://www.bbc.co.uk/news/videos/cm2q8pp8epro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-11T10:29:19+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b421/live/1c9c3620-adc8-11f1-bc1f-3f186ca4140c.jpg",
+          "other_news": true
+        },
         {
           "title": "Canicules et pollution : quelle évolution entre 2003 et 2026 ?",
           "link": "https://theconversation.com/canicules-et-pollution-quelle-evolution-entre-2003-et-2026-290185",
@@ -646,14 +714,25 @@
           "other_news": true
         },
         {
-          "title": "Did the government back down on its gas reservation policy? No – most changes make sense",
-          "link": "https://theconversation.com/did-the-government-back-down-on-its-gas-reservation-policy-no-most-changes-make-sense-291665",
-          "published": "2026-09-10T06:19:39+00:00",
+          "title": "The long shadow of 9/11 and the retreat of an independent New Zealand foreign policy",
+          "link": "https://theconversation.com/the-long-shadow-of-9-11-and-the-retreat-of-an-independent-new-zealand-foreign-policy-291648",
+          "published": "2026-09-10T18:10:04+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Are the federal government’s draft gas reservation laws really a backdown? No –  today’s changes are sensible.",
+          "summary": "On the 25th anniversary of 9/11, many of the forces now shaping NZ foreign policy can be traced back to how the US responded to the terror attacks.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Amazon Fund grantees fear a new funding freeze after Brazil’s election",
+          "link": "https://news.mongabay.com/2026/09/amazon-fund-grantees-fear-a-new-funding-freeze-after-brazils-election/",
+          "published": "2026-09-10T17:34:37+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The fund helped Brazil reach a 10-year low in deforestation, but conservationists are bracing for a potential sharp policy U-turn.",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/10150522/1_Ricardo-Oliveira-_Instituto-Mamiraua-pirarucu-768x512.jpeg",
           "other_news": true
         }
       ],
@@ -725,28 +804,6 @@
           "other_news": true
         },
         {
-          "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-          "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-05T23:20:00+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b63/live/c35016e0-a872-11f1-a291-b542ee92de7c.jpg",
-          "other_news": true
-        },
-        {
-          "title": "At least 37 killed by toxic fumes during alleged petrol theft in Nigeria, reports say",
-          "link": "https://www.bbc.co.uk/news/articles/cde024l10dyo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-04T15:44:05+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "An environmental group says those who died are suspected of stealing petrol from a pipeline in Nigeria's Rivers State.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c46/live/efad0420-a866-11f1-b109-879e35c24276.png",
-          "other_news": true
-        },
-        {
           "title": "Douglas Head designated a Conservation Area",
           "link": "https://www.bbc.co.uk/news/articles/ckg0jmpv31jo?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-09T05:16:38+00:00",
@@ -758,17 +815,6 @@
           "other_news": true
         },
         {
-          "title": "Backshall backs calls for natural history GCSE",
-          "link": "https://www.bbc.co.uk/news/articles/c9w41wje5v4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-09T05:05:33+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Steve Backshall calls for nature education as a survey says 55% of children have not climbed a tree.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/521f/live/2b88a770-ab77-11f1-9823-01a7469535d5.jpg",
-          "other_news": true
-        },
-        {
           "title": "Manx space group urges election candidates to back treaty",
           "link": "https://www.bbc.co.uk/news/articles/cwyzgx1k5n7o?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-05T06:07:29+00:00",
@@ -777,6 +823,17 @@
           "language": "en",
           "summary": "The Isle of Man Mars Society is urging politicians to sign an international space exploration agreement.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f53/live/a4381b30-a84b-11f1-80f8-c33181935c5a.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+          "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-05T23:20:00+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b63/live/c35016e0-a872-11f1-a291-b542ee92de7c.jpg",
           "other_news": true
         },
         {
@@ -1051,6 +1108,17 @@
           "type": "news",
           "language": "en",
           "summary": "Extended producer responsibility policies are gaining steam in the US, but what they entail can differ widely from state to state.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Factcheck: Reform UK’s 45 false or misleading claims about climate and energy",
+          "link": "https://www.carbonbrief.org/factcheck-reform-uks-45-false-or-misleading-claims-about-climate-and-energy",
+          "published": "2026-09-11T10:12:49+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Reform UK, led by Nigel Farage, has emerged as a major force in UK politics in recent years – pushing&#8230;\nThe post Factcheck: Reform UK’s 45 false",
           "image": null,
           "other_news": true
         },
@@ -1484,6 +1552,28 @@
           "other_news": true
         },
         {
+          "title": "Comment l’olivier, ce champion de la sobriété en eau, résiste à la sécheresse",
+          "link": "https://www.lemonde.fr/sciences/article/2026/09/11/comment-l-olivier-ce-champion-de-la-sobriete-en-eau-resiste-a-la-secheresse_6770331_1650684.html",
+          "published": "2026-09-11T06:25:06+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "« La vie cachée des plantes ». Cet arbre emblématique du bassin méditerranéen a développé une multitude de caractères d’adaptation aux climats arides,",
+          "image": "https://img.lemde.fr/2026/09/09/1000/0/6000/3000/644/322/60/0/5300985_upload-1-bzsogrkntmlz-000-b8xq6lv.jpg",
+          "other_news": true
+        },
+        {
+          "title": "El Niño : tout comprendre au phénomène qui déstabilise le climat et pourrait être cette année « le plus puissant jamais enregistré »",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/10/qu-est-ce-que-le-phenomene-el-nino-qui-destabilise-le-climat-et-pourrait-etre-le-plus-puissant-jamais-enregistre_6769968_3244.html",
+          "published": "2026-09-10T19:00:19+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Cette anomalie climatique, qui se produit tous les deux à sept ans dans le Pacifique, provoque sécheresses et inondations, bouleverse des pans entiers",
+          "image": "https://img.lemde.fr/2026/09/02/500/0/6048/3024/644/322/60/0/e04aa1c_ftp-1-blkbq515uolk-5980715-01-06.jpg",
+          "other_news": true
+        },
+        {
           "title": "Pour Oxfam France, les plateformes de revente en ligne des vêtements sabordent l’effet vertueux de la seconde main pour l’environnement",
           "link": "https://www.lemonde.fr/planete/article/2026/09/10/pour-oxfam-france-les-plateformes-de-revente-en-ligne-des-vetements-sabordent-l-effet-vertueux-de-la-seconde-main-pour-l-environnement_6769295_3244.html",
           "published": "2026-09-10T05:15:05+02:00",
@@ -1495,28 +1585,6 @@
           "other_news": true
         },
         {
-          "title": "Le traitement subi par des militants de Greenpeace pour une action à la centrale de Gravelines jugé « profondément préoccupant » par l’ONU",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/09/le-traitement-subi-par-des-militants-de-greenpeace-pour-une-action-a-la-centrale-de-gravelines-juge-profondement-preoccupant-par-l-onu_6768953_3244.html",
-          "published": "2026-09-09T19:15:38+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans son courrier, Michel Forst, rapporteur spécial des Nations unies sur les défenseurs de l’environnement, alerte sur l’arrestation, le traitement a",
-          "image": "https://img.lemde.fr/2026/09/09/943/0/5660/2830/644/322/60/0/5972a55_upload-1-uwfeu5psxsor-000-36kz96r.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Electricité : le développement des énergies renouvelables profite aux consommateurs, assure la Commission de régulation de l’énergie",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/09/electricite-le-developpement-des-energies-renouvelables-profite-aux-consommateurs-assure-la-commission-de-regulation-de-l-energie_6768952_3234.html",
-          "published": "2026-09-09T19:14:07+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "L’autorité administrative indépendante a présenté mercredi un document permettant de comprendre l’économie du système électrique hexagonal.",
-          "image": "https://img.lemde.fr/2026/09/09/71/0/7850/3925/644/322/60/0/bfa94d3_upload-1-hei5kftvnrre-000-48wz4np-1.jpg",
-          "other_news": true
-        },
-        {
           "title": "Vert recrute : journaliste politique/écologie en CDD",
           "link": "https://vert.eco/vert-vous-parle/vert-recrute-journaliste-politique-ecologie-en-cdd/",
           "published": "2026-09-08T15:50:51+00:00",
@@ -1524,6 +1592,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Vert recrute un·e journaliste politique/écologie en contrat à durée déterminée d’octobre 2026 à juillet 2027 pour couvrir la campagne présidentielle e",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How western consumption becomes the Global South’s environmental nightmare",
+          "link": "https://theconversation.com/how-western-consumption-becomes-the-global-souths-environmental-nightmare-288056",
+          "published": "2026-09-10T19:38:21+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Industrialized countries send millions of metric tonnes of used clothing, electronic equipment and other products to the Global South, and with them,",
           "image": null,
           "other_news": true
         },
@@ -1557,17 +1636,6 @@
           "type": "news",
           "language": "en",
           "summary": "More than 15,000 families in Michigan have received cash support from Rx Kids. Participants say the program helps them pay bills and maintain their he",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The government has proposed new laws for tackling illegal tobacco, but they likely won’t do much",
-          "link": "https://theconversation.com/the-government-has-proposed-new-laws-for-tackling-illegal-tobacco-but-they-likely-wont-do-much-291651",
-          "published": "2026-09-10T06:04:14+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The legislation, which aims to make it easier to prosecute those involved in the illicit tobacco trade, is more of the same: punitive, but still not e",
           "image": null,
           "other_news": true
         },
@@ -1646,39 +1714,6 @@
           "language": "en",
           "summary": "GOMA, Democratic Republic of Congo — High above the lush forests of protected areas in the Congo Basin in eastern Congo, the calls of endemic birds an",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/08204653/image1__20648409894_e4b04e9e1b_o-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Singkil peat swamp: The embattled orangutan capital of the world",
-          "link": "https://news.mongabay.com/2026/09/singkil-peat-swamp-the-embattled-orangutan-capital-of-the-world/",
-          "published": "2026-09-08T19:04:25+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Deep within Indonesia’s Leuser Ecosystem, one of the most important peat swamp forests left on Earth is being cleared, drained, and burned. The Singki",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/04195723/AM8I3043-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Indigenous territories maintain Amazon forest just as well as protected areas, study finds",
-          "link": "https://news.mongabay.com/short-article/2026/09/indigenous-territories-maintain-amazon-forest-just-as-well-as-protected-areas-study-finds/",
-          "published": "2026-09-08T18:45:07+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A new study has found that in Ecuador’s Amazon, Indigenous territories without formal conservation contracts maintained forest conditions just as well",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/08184434/AP26072466873564-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Carbon credit financing emerges as Africa’s biggest bet for expanding clean cooking",
-          "link": "https://news.mongabay.com/short-article/2026/09/carbon-credit-financing-emerges-as-africas-biggest-bet-for-expanding-clean-cooking/",
-          "published": "2026-09-08T17:19:10+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "NAIROBI, Kenya (AP) — Carbon credit financing is helping to drive Africa’s clean cooking transition by making cleaner stoves affordable for millions o",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/07174011/AP26240399641888-768x512.jpg",
           "other_news": true
         }
       ]

@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-09-11T12:14:06.203268+00:00",
+  "generated_at": "2026-09-11T16:28:24.951356+00:00",
   "categories": {
     "Politics & Policy": {
+      "Sustainable Fisheries": [
+        {
+          "title": "Dramatic decline in globally significant dugong population",
+          "link": "https://oceanographicmagazine.com/news/dramatic-decline-in-globally-significant-dugong-population/",
+          "published": "2026-09-03T17:05:15+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "An aerial survey found a 50% drop in the dugong population off the coast of Northern Australia, scientists are calling for stricter fishing regulation",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Marine Protected Areas & Policy": [
         {
           "title": "From firefighting to future-proofing: Preventing wildfires must be the priority",
@@ -200,6 +213,50 @@
           "other_news": false
         },
         {
+          "title": "“We’re rebuilding”: Four nights to shape future of Florida’s reef",
+          "link": "https://oceanographicmagazine.com/news/were-rebuilding-four-nights-to-shape-future-of-floridas-reef/",
+          "published": "2026-09-08T17:34:20+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Florida conservationists captured elkhorn coral's annual spawning to fertilise and raise juvenile corals for reef restoration, as new global data reve",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Matters of the heart: what’s a blue whale’s heartbeat telling us?",
+          "link": "https://oceanographicmagazine.com/news/matters-of-the-heart-whats-a-blue-whales-heartbeat-telling-us/",
+          "published": "2026-09-07T11:40:11+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "New heart-rate data from blue and humpback whales shows their hearts behave like sprinters' during feeding lunges - a discovery that reveals how whale",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Probiotic treatments help heat-stressed corals survive, field trial finds",
+          "link": "https://oceanographicmagazine.com/news/probiotic-treatments-help-heat-stressed-corals-survive-field-trial-finds/",
+          "published": "2026-09-04T09:16:15+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A 15-day experiment during a real marine heat wave in the Red Sea has shown that both live probiotic and inactivated postbiotic treatments can improve",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Underwater meadows ‘lifeline’ for millions in poverty, study finds",
+          "link": "https://oceanographicmagazine.com/news/underwater-meadows-lifeline-for-millions-in-poverty-study-finds/",
+          "published": "2026-09-04T09:11:44+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "At least 18 million people living in extreme poverty across the Indo-Pacific rely on seagrass meadows to fish with the habitat acting as a safety net",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "The Annual Migration to Clean Up Our Coasts",
           "link": "https://oceanconservancy.org/blog/2026/09/04/clean-up-our-coasts/",
           "published": "2026-09-04T14:18:13+00:00",
@@ -208,6 +265,17 @@
           "language": "en",
           "summary": "Annually, seasonally and sometimes even daily, amazing oceanic migrations are taking place. Humpback whales migrate thousands of miles to breeding gro",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "World Dolphin Day: Reporting unusual behavior, threats and increased protections",
+          "link": "https://news.mongabay.com/short-article/2026/09/world-dolphin-day-reporting-unusual-behavior-threats-and-increased-protections/",
+          "published": "2026-09-11T13:24:33+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Nine dolphin species, and several more subspecies and local populations, are currently critically endangered or endangered, according to the most rece",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/07/08160916/a.-BANNER-GP0156K-768x512.jpg",
           "other_news": false
         },
         {
@@ -290,6 +358,19 @@
           "type": "news",
           "language": "en",
           "summary": "The discussions between the two leaders reflect a desire by both sides to reduce the heat around the migration issue, which is being fuelled by One Na",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Italy faces legal action over bottom trawling in ‘paper park’ MPAs",
+          "link": "https://oceanographicmagazine.com/news/italy-faces-legal-action-over-bottom-trawling-in-paper-park-mpas/",
+          "published": "2026-09-09T08:23:45+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "ClientEarth and Legambiente - with the support of Blue Marine Foundation - have launched the latest in a series of legal actions targeting ineffective",
           "image": null,
           "other_news": false
         }
@@ -450,6 +531,28 @@
           "other_news": false
         },
         {
+          "title": "Ocean Photographer of the Year 2026 winners announced",
+          "link": "https://oceanographicmagazine.com/news/ocean-photographer-of-the-year-winners-announced/",
+          "published": "2026-09-09T18:05:34+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The winners of the Ocean Photographer of the Year 2026, presented by Oceanographic and Blancpain, have been revealed. From the seabed to the surface,",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "US court upholds rule to save sea turtles from shrimp trawlers",
+          "link": "https://oceanographicmagazine.com/news/us-court-upholds-rule-to-save-sea-turtles-from-shrimp-trawlers/",
+          "published": "2026-09-08T13:00:33+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A federal appeals court has upheld a rule requiring turtle excluder devices on larger skimmer trawl shrimp boats, rejecting an industry challenge and",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Protection des dauphins : début 2027, un mois sans pêche dans le golfe de Gascogne, pour la quatrième année d’affilée",
           "link": "https://www.lemonde.fr/planete/article/2026/09/11/protection-des-dauphins-debut-2027-un-mois-sans-peche-dans-le-golfe-de-gascogne-pour-la-quatrieme-annee-d-affilee_6770549_3244.html",
           "published": "2026-09-11T10:38:34+02:00",
@@ -550,17 +653,6 @@
           "type": "news",
           "language": "en",
           "summary": "Hot weather accelerates toxic algal blooms, but nutrient pollution provides the fuel.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "“We’ve gone backwards” – new plastics treaty text dims hopes for production curbs",
-          "link": "https://www.climatechangenews.com/2026/08/12/weve-gone-backwards-new-plastics-treaty-text-dims-hopes-for-production-curbs/",
-          "published": "2026-08-12T14:11:10+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "During troubled talks, fossil fuel-producing nations have pushed for a global pact to tackle only plastic waste rather than reducing the size of the p",
           "image": null,
           "other_news": true
         },
@@ -965,6 +1057,17 @@
           "other_news": true
         },
         {
+          "title": "El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century",
+          "link": "https://www.carbonbrief.org/el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century",
+          "published": "2026-09-11T14:06:49+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Wildfires currently burning large swathes of land in Indonesia are on track to produce emissions on a par with the&#8230;\nThe post El Niño: Indonesia",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Factcheck: Reform UK’s 45 false or misleading claims about climate and energy",
           "link": "https://www.carbonbrief.org/factcheck-reform-uks-45-false-or-misleading-claims-about-climate-and-energy",
           "published": "2026-09-11T10:12:49+00:00",
@@ -1049,6 +1152,17 @@
           "type": "news",
           "language": "en",
           "summary": "More than 40% of children under the age of 10 globally are already experiencing at least 20 additional “heat-stress days”&#8230;\nThe post Climate chan",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Made in Nigeria: The race to build an African solar industry from scratch",
+          "link": "https://www.climatechangenews.com/2026/09/11/made-in-nigeria-the-race-to-build-an-african-solar-industry-from-scratch/",
+          "published": "2026-09-11T13:00:00+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "A solar power revolution is gathering pace in Africa and Nigeria wants a slice of the fast-growing industry, but competing with Chinese imports won’t",
           "image": null,
           "other_news": true
         },
@@ -1394,28 +1508,6 @@
           "other_news": true
         },
         {
-          "title": "Inondations au Népal : moins de 0,1 % des émissions mondiales, mais des milliers de morts et disparus",
-          "link": "https://reporterre.net/Crues-meurtrieres-le-Nepal-paie-le-prix-fort-d-un-chaos-climatique-dont-il-n-est-pas",
-          "published": "2026-09-03T14:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Au vu de la contribution microscopique du Népal aux émissions mondiales de CO2, la catastrophe climatique qu'il vient de vivre n",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260903__2293319607__v1__highres__nepalflashfloodleaveshundredsdeadandthousand-ad55f.jpg?1788444003",
-          "other_news": true
-        },
-        {
-          "title": "La Politique agricole commune épinglée par la Cour des comptes",
-          "link": "https://reporterre.net/La-Politique-agricole-commune-epinglee-par-la-Cour-des-comptes",
-          "published": "2026-09-03T13:45:22+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "La déclinaison française de la Politique agricole commune (PAC) ne permet pas d'atteindre les objectifs climatiques européens, d",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260708__b9fz8tt__v1__highres__franceagricultureanimalheatwave_1_-1b210.jpg?1788443123",
-          "other_news": true
-        },
-        {
           "title": "Comment l’olivier, ce champion de la sobriété en eau, résiste à la sécheresse",
           "link": "https://www.lemonde.fr/sciences/article/2026/09/11/comment-l-olivier-ce-champion-de-la-sobriete-en-eau-resiste-a-la-secheresse_6770331_1650684.html",
           "published": "2026-09-11T06:25:06+02:00",
@@ -1435,17 +1527,6 @@
           "language": "fr",
           "summary": "Cette anomalie climatique, qui se produit tous les deux à sept ans dans le Pacifique, provoque sécheresses et inondations, bouleverse des pans entiers",
           "image": "https://img.lemde.fr/2026/09/02/500/0/6048/3024/644/322/60/0/e04aa1c_ftp-1-blkbq515uolk-5980715-01-06.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Pour Oxfam France, les plateformes de revente en ligne des vêtements sabordent l’effet vertueux de la seconde main pour l’environnement",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/10/pour-oxfam-france-les-plateformes-de-revente-en-ligne-des-vetements-sabordent-l-effet-vertueux-de-la-seconde-main-pour-l-environnement_6769295_3244.html",
-          "published": "2026-09-10T05:15:05+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans un rapport publié jeudi, l’ONG spécialisée dans la lutte contre les inégalités et la pauvreté alerte sur l’impact environnemental et social de la",
-          "image": "https://img.lemde.fr/2026/09/09/43/0/3000/1500/644/322/60/0/c9c4b2f_upload-1-kpalsnhuciff-000-a9fn863.jpg",
           "other_news": true
         },
         {
@@ -1478,28 +1559,6 @@
           "type": "news",
           "language": "en",
           "summary": "The world is likely to pass 1.5°C of warming. Africa faces worse heat, drought and floods, but faster cuts to emissions can still limit the overshoot",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Six ways people have used magic to protect their homes throughout history – from witch bottles to ‘hag stones’",
-          "link": "https://theconversation.com/six-ways-people-have-used-magic-to-protect-their-homes-throughout-history-from-witch-bottles-to-hag-stones-290188",
-          "published": "2026-09-10T13:24:33+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "If you’ve got problem neighbours, or your house and garden seem to suffer from bad luck, perhaps it’s time to try a magical solution.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "I’m a pediatrician in Michigan who created Rx Kids, one of the nation’s largest anti-poverty programs – here’s what I’ve learned about how medical schools can improve community health",
-          "link": "https://theconversation.com/im-a-pediatrician-in-michigan-who-created-rx-kids-one-of-the-nations-largest-anti-poverty-programs-heres-what-ive-learned-about-how-medical-schools-can-improve-community-health-277064",
-          "published": "2026-09-10T12:44:21+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "More than 15,000 families in Michigan have received cash support from Rx Kids. Participants say the program helps them pay bills and maintain their he",
           "image": null,
           "other_news": true
         },
@@ -1578,17 +1637,6 @@
           "language": "en",
           "summary": "When climate-related hazards like floods, storms, extreme heat and landslides strike, roads can become impassable, homes unsafe and communities begin",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09121045/2.Sierra-Leone-wheelchair-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Indigenous peoples near Congo parks propose diverse solutions for the future of conservation",
-          "link": "https://news.mongabay.com/2026/09/indigenous-peoples-near-congo-parks-propose-diverse-solutions-for-the-future-of-conservation/",
-          "published": "2026-09-08T20:50:48+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "GOMA, Democratic Republic of Congo — High above the lush forests of protected areas in the Congo Basin in eastern Congo, the calls of endemic birds an",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/08204653/image1__20648409894_e4b04e9e1b_o-768x512.jpg",
           "other_news": true
         }
       ]

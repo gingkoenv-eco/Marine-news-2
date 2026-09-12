@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T11:38:25.763185+00:00",
+  "generated_at": "2026-09-12T15:31:41.825211+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -301,17 +301,6 @@
           "summary": "Ocean ecosystems are under extreme stress on several fronts including overfishing, ocean acidification, climate change and marine warming. While ocean",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/04/08165417/53136313528_87b636bb79_c-e1788980315350-768x482.jpg",
           "other_news": false
-        },
-        {
-          "title": "New Zealand put fishing boats under camera surveillance. Will it stay the course?",
-          "link": "https://news.mongabay.com/2026/09/new-zealand-put-fishing-boats-under-camera-surveillance-will-it-stay-the-course/",
-          "published": "2026-09-09T14:59:58+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "NAPIER/DUNEDIN, Aotearoa New Zealand — In 2016, a scandal engulfed Aotearoa New Zealand’s fisheries regulator. Leaked documents showed that the Minist",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09073936/6-Fishing-vessels-in-Dunedin-768x512.jpg",
-          "other_news": false
         }
       ],
       "Polar & Reef Ecosystems & Resilience": [
@@ -566,11 +555,11 @@
         {
           "title": "L’Arabie saoudite ferme le pipeline qui lui sert à contourner le détroit d’Ormuz après des frappes de drones en provenance d’Irak",
           "link": "https://www.lemonde.fr/international/article/2026/09/12/l-arabie-saoudite-ferme-le-pipeline-qui-lui-sert-a-contourner-le-detroit-d-ormuz-apres-des-frappes-de-drones-en-provenance-d-irak_6771330_3210.html",
-          "published": "2026-09-12T12:30:06+02:00",
+          "published": "2026-09-12T12:30:03+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Alors que houthistes yéménites contrôlent l’accès à la mer Rouge, l’oléoduc Est-Ouest, seule alternative terrestre au détroit d’Ormuz, a été visé le 1",
+          "summary": "Alors que houthistes yéménites contrôlent l’accès à la mer Rouge, l’oléoduc Est-Ouest, seule option terrestre au blocage du détroit d’Ormuz, a été vis",
           "image": "https://img.lemde.fr/2026/09/12/2301/0/3102/1551/644/322/60/0/f852278_upload-1-6f4rynjmj9gn-000-c82x2we.jpg",
           "other_news": false
         },
@@ -793,17 +782,6 @@
           "other_news": true
         },
         {
-          "title": "Turning cooler with wet and windy weather forecast for UK this week",
-          "link": "https://www.bbc.co.uk/weather/articles/cvgynj49lzmo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-07T03:09:04+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Weekend warmth gives way to rain and strong winds for many into the start of the new week.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91a/live/6a011d30-aa8b-11f1-9e5d-f9e7792c40d7.jpg",
-          "other_news": true
-        },
-        {
           "title": "Manx space group urges election candidates to back treaty",
           "link": "https://www.bbc.co.uk/news/articles/cwyzgx1k5n7o?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-05T06:07:29+00:00",
@@ -812,28 +790,6 @@
           "language": "en",
           "summary": "The Isle of Man Mars Society is urging politicians to sign an international space exploration agreement.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f53/live/a4381b30-a84b-11f1-80f8-c33181935c5a.jpg",
-          "other_news": true
-        },
-        {
-          "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
-          "link": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-06T23:13:29+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082b/live/50dfea10-a839-11f1-b3a7-d5de760fef6e.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-          "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-05T23:20:00+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b63/live/c35016e0-a872-11f1-a291-b542ee92de7c.jpg",
           "other_news": true
         },
         {
@@ -1570,6 +1526,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Vert recrute un·e journaliste politique/écologie en contrat à durée déterminée d’octobre 2026 à juillet 2027 pour couvrir la campagne présidentielle e",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Your memories of how you heard about 9/11 may well be wrong – we’ve been asking the same people what they remember for 25 years",
+          "link": "https://theconversation.com/your-memories-of-how-you-heard-about-9-11-may-well-be-wrong-weve-been-asking-the-same-people-what-they-remember-for-25-years-291820",
+          "published": "2026-09-12T14:04:13+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Memories are dynamic, not fixed. Even if what you’re remembering about your own experience isn’t quite how it all happened, those memories serve impor",
           "image": null,
           "other_news": true
         },

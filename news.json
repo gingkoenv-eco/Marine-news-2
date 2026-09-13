@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-09-13T11:55:06.184975+00:00",
+  "generated_at": "2026-09-13T12:45:23.902223+00:00",
   "categories": {
     "Politics & Policy": {
-      "Sustainable Fisheries": [
-        {
-          "title": "Dramatic decline in globally significant dugong population",
-          "link": "https://oceanographicmagazine.com/news/dramatic-decline-in-globally-significant-dugong-population/",
-          "published": "2026-09-03T17:05:15+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "An aerial survey found a 50% drop in the dugong population off the coast of Northern Australia, scientists are calling for stricter fishing regulation",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Marine Protected Areas & Policy": [
         {
           "title": "From firefighting to future-proofing: Preventing wildfires must be the priority",
@@ -202,50 +189,6 @@
           "other_news": false
         },
         {
-          "title": "“We’re rebuilding”: Four nights to shape future of Florida’s reef",
-          "link": "https://oceanographicmagazine.com/news/were-rebuilding-four-nights-to-shape-future-of-floridas-reef/",
-          "published": "2026-09-08T17:34:20+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Florida conservationists captured elkhorn coral's annual spawning to fertilise and raise juvenile corals for reef restoration, as new global data reve",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Matters of the heart: what’s a blue whale’s heartbeat telling us?",
-          "link": "https://oceanographicmagazine.com/news/matters-of-the-heart-whats-a-blue-whales-heartbeat-telling-us/",
-          "published": "2026-09-07T11:40:11+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "New heart-rate data from blue and humpback whales shows their hearts behave like sprinters' during feeding lunges - a discovery that reveals how whale",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Probiotic treatments help heat-stressed corals survive, field trial finds",
-          "link": "https://oceanographicmagazine.com/news/probiotic-treatments-help-heat-stressed-corals-survive-field-trial-finds/",
-          "published": "2026-09-04T09:16:15+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A 15-day experiment during a real marine heat wave in the Red Sea has shown that both live probiotic and inactivated postbiotic treatments can improve",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Underwater meadows ‘lifeline’ for millions in poverty, study finds",
-          "link": "https://oceanographicmagazine.com/news/underwater-meadows-lifeline-for-millions-in-poverty-study-finds/",
-          "published": "2026-09-04T09:11:44+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "At least 18 million people living in extreme poverty across the Indo-Pacific rely on seagrass meadows to fish with the habitat acting as a safety net",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "The Annual Migration to Clean Up Our Coasts",
           "link": "https://oceanconservancy.org/blog/2026/09/04/clean-up-our-coasts/",
           "published": "2026-09-04T14:18:13+00:00",
@@ -348,19 +291,6 @@
           "language": "en",
           "summary": "Several years of severe drought are forcing people to leave their homes in Angola to search for water and food in neighboring Namibia. “There is real",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/11195335/IMG_0532-1-1-768x512.jpg",
-          "other_news": false
-        }
-      ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "Italy faces legal action over bottom trawling in ‘paper park’ MPAs",
-          "link": "https://oceanographicmagazine.com/news/italy-faces-legal-action-over-bottom-trawling-in-paper-park-mpas/",
-          "published": "2026-09-09T08:23:45+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "ClientEarth and Legambiente - with the support of Blue Marine Foundation - have launched the latest in a series of legal actions targeting ineffective",
-          "image": null,
           "other_news": false
         }
       ],
@@ -528,28 +458,6 @@
           "language": "fr",
           "summary": "Piller l'océan, non pas pour nourrir des humains… mais des poissons d'élevage. Tel est l'horizon vers lequel le secteur de la pê",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH464/36473113002_9dd81f5976_k_2_1_-ccb04.jpg?1788523516",
-          "other_news": false
-        },
-        {
-          "title": "Ocean Photographer of the Year 2026 winners announced",
-          "link": "https://oceanographicmagazine.com/news/ocean-photographer-of-the-year-winners-announced/",
-          "published": "2026-09-09T18:05:34+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The winners of the Ocean Photographer of the Year 2026, presented by Oceanographic and Blancpain, have been revealed. From the seabed to the surface,",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "US court upholds rule to save sea turtles from shrimp trawlers",
-          "link": "https://oceanographicmagazine.com/news/us-court-upholds-rule-to-save-sea-turtles-from-shrimp-trawlers/",
-          "published": "2026-09-08T13:00:33+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A federal appeals court has upheld a rule requiring turtle excluder devices on larger skimmer trawl shrimp boats, rejecting an industry challenge and",
-          "image": null,
           "other_news": false
         },
         {

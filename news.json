@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:21:36.262276+00:00",
+  "generated_at": "2026-09-13T09:08:21.491101+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -38,17 +38,6 @@
           "language": "en",
           "summary": "Britain and other signatories to the UN convention on the law of the sea should protest against US proposal to lease seabed for mining, says Guy Stand",
           "image": "https://i.guim.co.uk/img/media/34a14c0286111b5b6e68287f1efff1473306c0de/51_0_5769_4616/master/5769.jpg?width=140&quality=85&auto=format&fit=max&s=42a74dba7a955c5683d24802ff3e25b5",
-          "other_news": false
-        },
-        {
-          "title": "Ukraine ‘offering Russia deal to halt attacks on civilian ships in Black Sea’",
-          "link": "https://www.theguardian.com/world/2026/aug/13/ukraine-proposes-deal-with-russia-to-halt-attacks-on-civilian-ships-in-black-sea",
-          "published": "2026-08-13T17:13:33+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Kyiv reportedly suggested mutual agreement in attempt to reopen crucial grain corridor Ukraine has proposed a deal with Russia for both sides to halt",
-          "image": "https://i.guim.co.uk/img/media/4f39b05dc2e02dc24b685212c82673e1ecbdbd99/376_0_3991_3193/master/3991.jpg?width=140&quality=85&auto=format&fit=max&s=41b32dc678a5dd5a26f0a6b68d0d904a",
           "other_news": false
         },
         {
@@ -421,6 +410,17 @@
           "other_news": false
         },
         {
+          "title": "Residents and officials meet on dredging concerns",
+          "link": "https://www.bbc.co.uk/news/articles/c9v9143318ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-13T08:54:47+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Officers plan to meet with a complainant in the coming days over the dredging at St Aubin's  Bay.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88a2/live/61816a90-af4d-11f1-99f7-0d91ad00290d.jpg",
+          "other_news": false
+        },
+        {
           "title": "Pourquoi mesurer les microplastiques est un véritable casse-tête",
           "link": "https://theconversation.com/pourquoi-mesurer-les-microplastiques-est-un-veritable-casse-tete-286201",
           "published": "2026-09-03T10:43:53+00:00",
@@ -586,17 +586,6 @@
           "other_news": false
         },
         {
-          "title": "Protection des dauphins : début 2027, un mois sans pêche dans le golfe de Gascogne, pour la quatrième année d’affilée",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/11/protection-des-dauphins-debut-2027-un-mois-sans-peche-dans-le-golfe-de-gascogne-pour-la-quatrieme-annee-d-affilee_6770549_3244.html",
-          "published": "2026-09-11T10:38:34+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le gouvernement avait déjà pris une mesure d’interdiction temporaire identique en 2024, 2025 et 2026. Selon une étude menée durant l’hiver 2024-2025,",
-          "image": "https://img.lemde.fr/2026/09/11/500/0/6000/3000/644/322/60/0/d6b745a_upload-1-tizdmhsx0a67-000-34ja78g.jpg",
-          "other_news": false
-        },
-        {
           "title": "Après cet été caniculaire, allez-vous payer vos aliments plus cher dans les supermarchés ?",
           "link": "https://vert.eco/agriculture/apres-cet-ete-caniculaire-allez-vous-payer-vos-aliments-plus-cher-dans-les-supermarches/",
           "published": "2026-09-10T15:55:51+00:00",
@@ -714,13 +703,13 @@
           "other_news": true
         },
         {
-          "title": "The long shadow of 9/11 and the retreat of an independent New Zealand foreign policy",
-          "link": "https://theconversation.com/the-long-shadow-of-9-11-and-the-retreat-of-an-independent-new-zealand-foreign-policy-291648",
-          "published": "2026-09-10T18:10:04+00:00",
+          "title": "South Africa has good water laws but bad services. What’s stopping fair access",
+          "link": "https://theconversation.com/south-africa-has-good-water-laws-but-bad-services-whats-stopping-fair-access-284505",
+          "published": "2026-09-13T06:56:29+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "On the 25th anniversary of 9/11, many of the forces now shaping NZ foreign policy can be traced back to how the US responded to the terror attacks.",
+          "summary": "South Africa’s water law promises fairness, but ageing infrastructure, weak governance and unequal power leave many without reliable water.",
           "image": null,
           "other_news": true
         },
@@ -1365,6 +1354,17 @@
           "other_news": true
         },
         {
+          "title": "« Protéger la nature en étant nourri et logé » : chaque été, des milliers d'Allemands prennent soin de leurs forêts",
+          "link": "https://reporterre.net/Proteger-la-nature-en-etant-nourri-et-loge-chaque-ete-des-milliers-d-Allemands-prennent",
+          "published": "2026-09-13T06:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les chantiers participatifs du Bergwaldprojekt sont une institution en Allemagne, où ils mobilisent chaque année des milliers de",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/bwp_-travaux_d_extension_de_tourbieres__lichtenau_en_rhenanie-ce94d.jpg?1789279201",
+          "other_news": true
+        },
+        {
           "title": "Répression : le traitement de militants de Greenpeace jugé « préoccupant » par un rapporteur de l'ONU",
           "link": "https://reporterre.net/L-ONU-juge-profondement-preoccupant-le-traitement-subi-par-des-militants-de-Greenpeace",
           "published": "2026-09-10T13:20:38+00:00",
@@ -1475,6 +1475,39 @@
           "other_news": true
         },
         {
+          "title": "« L’écoanxiété n’est pas que le fruit de la crise environnementale, elle est aussi provoquée par l’inaction politique devant le désastre »",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/13/l-ecoanxiete-n-est-pas-que-le-fruit-de-la-crise-environnementale-elle-est-aussi-provoquee-par-l-inaction-politique-devant-le-desastre_6772400_3232.html",
+          "published": "2026-09-13T10:30:08+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Au moment des incendies dantesques, cet été, le gouvernement lançait une campagne pour aider les écoanxieux à gérer leurs émotions. Or, psychiatriser",
+          "image": "https://img.lemde.fr/2026/09/12/792/0/9504/4752/644/322/60/0/d476ce7_upload-1-ta79lpz5j6rd-14-hlequeux-feux-gironde-dsc0899.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Pourquoi la capacité d’absorption de carbone des forêts françaises diminue, alors que leur surface augmente ?",
+          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/13/pourquoi-la-capacite-d-absorption-de-carbone-des-forets-francaises-diminue-alors-que-leur-surface-augmente_6772194_4355770.html",
+          "published": "2026-09-13T06:15:06+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "EN GRAPHIQUES | Planter des arbres : une bonne solution pour lutter contre le réchauffement climatique. Mais eux aussi dépérissent et, dans le même te",
+          "image": "https://img.lemde.fr/2026/09/04/1100/0/8256/4128/644/322/60/0/a30d931_upload-1-zvbjejfgtmrp-foretexper-45.jpg",
+          "other_news": true
+        },
+        {
+          "title": "En Ethiopie, le changement climatique pousse les éleveurs pastoraux à se convertir à l’agriculture vivrière : « C’est loin d’être une solution miracle »",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/13/en-ethiopie-le-changement-climatique-pousse-les-eleveurs-pastoraux-a-se-convertir-a-l-agriculture-vivriere-c-est-loin-d-etre-une-solution-miracle_6772185_3244.html",
+          "published": "2026-09-13T05:45:09+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans le sud-est du pays, les épisodes de sécheresse, toujours plus intenses, menacent l’existence des pasteurs nomades. Certains ont choisi de se séde",
+          "image": "https://img.lemde.fr/2026/09/11/504/0/4032/2016/644/322/60/0/6623700_upload-1-jl4ayf04a6tz-ferdusa1.jpg",
+          "other_news": true
+        },
+        {
           "title": "Dans le Vercors, la mort d’une soixantaine de brebis attribuée à des loups soulève des interrogations",
           "link": "https://www.lemonde.fr/planete/article/2026/09/12/dans-le-vercors-la-mort-d-une-soixantaine-de-brebis-attribuee-a-des-loups-souleve-des-interrogations_6771123_3244.html",
           "published": "2026-09-12T09:00:05+02:00",
@@ -1508,17 +1541,6 @@
           "other_news": true
         },
         {
-          "title": "Comment l’olivier, ce champion de la sobriété en eau, résiste à la sécheresse",
-          "link": "https://www.lemonde.fr/sciences/article/2026/09/11/comment-l-olivier-ce-champion-de-la-sobriete-en-eau-resiste-a-la-secheresse_6770331_1650684.html",
-          "published": "2026-09-11T06:25:06+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "« La vie cachée des plantes ». Cet arbre emblématique du bassin méditerranéen a développé une multitude de caractères d’adaptation aux climats arides,",
-          "image": "https://img.lemde.fr/2026/09/09/1000/0/6000/3000/644/322/60/0/5300985_upload-1-bzsogrkntmlz-000-b8xq6lv.jpg",
-          "other_news": true
-        },
-        {
           "title": "Vert recrute : journaliste politique/écologie en CDD",
           "link": "https://vert.eco/vert-vous-parle/vert-recrute-journaliste-politique-ecologie-en-cdd/",
           "published": "2026-09-08T15:50:51+00:00",
@@ -1530,6 +1552,17 @@
           "other_news": true
         },
         {
+          "title": "Africa’s climate services need local detail and knowledge, say people who use the information",
+          "link": "https://theconversation.com/africas-climate-services-need-local-detail-and-knowledge-say-people-who-use-the-information-290108",
+          "published": "2026-09-13T06:56:52+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "People restoring Africa’s ecosystems need climate services that combine forecasts with Indigenous knowledge and information about land, water and live",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Your memories of how you heard about 9/11 may well be wrong – we’ve been asking the same people what they remember for 25 years",
           "link": "https://theconversation.com/your-memories-of-how-you-heard-about-9-11-may-well-be-wrong-weve-been-asking-the-same-people-what-they-remember-for-25-years-291820",
           "published": "2026-09-12T14:04:13+00:00",
@@ -1537,17 +1570,6 @@
           "type": "news",
           "language": "en",
           "summary": "Memories are dynamic, not fixed. Even if what you’re remembering about your own experience isn’t quite how it all happened, those memories serve impor",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "How western consumption becomes the Global South’s environmental nightmare",
-          "link": "https://theconversation.com/how-western-consumption-becomes-the-global-souths-environmental-nightmare-288056",
-          "published": "2026-09-10T19:38:21+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Industrialized countries send millions of metric tonnes of used clothing, electronic equipment and other products to the Global South, and with them,",
           "image": null,
           "other_news": true
         },

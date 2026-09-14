@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T05:01:11.979476+00:00",
+  "generated_at": "2026-09-14T12:49:21.647924+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -158,6 +158,17 @@
           "other_news": false
         },
         {
+          "title": "Kent's shark secrets discovered in new project",
+          "link": "https://www.bbc.co.uk/news/articles/ce8xg23zze1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-14T05:06:08+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The project involves sharks in Kent's waters being tagged so that scientists can gain vital data.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3429/live/d4f4a6d0-ae86-11f1-bc1f-3f186ca4140c.jpg",
+          "other_news": false
+        },
+        {
           "title": "What anglers have taught me about saving England’s sharks",
           "link": "https://theconversation.com/what-anglers-have-taught-me-about-saving-englands-sharks-288844",
           "published": "2026-09-08T05:35:30+00:00",
@@ -198,6 +209,17 @@
           "type": "news",
           "language": "en",
           "summary": "A fish-finding expedition not only detects unexpected species but also uncovers a living link to Missouri’s geological past.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Native oysters make encouraging comeback on restored North Sea reef",
+          "link": "https://oceanographicmagazine.com/news/native-oysters-make-encouraging-comeback-on-restored-north-sea-reef/",
+          "published": "2026-09-14T12:22:16+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The majority of adult and juvenile oysters were found to be alive and in healthy condition, providing habitats for fish, shrimp and squat lobsters\nThe",
           "image": null,
           "other_news": false
         },
@@ -257,6 +279,28 @@
           "other_news": false
         },
         {
+          "title": "Panama looks to science, fishers, and the law to protect its sharks and rays",
+          "link": "https://news.mongabay.com/2026/09/panama-looks-to-science-fishers-and-the-law-to-protect-its-sharks-and-rays/",
+          "published": "2026-09-14T11:47:51+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "PUERTO CAIMITO, Panama — It’s a late April morning and the Tabor, an industrial fishing boat, is sailing around Chepillo Island in Panama Bay. Under t",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/14102837/4-1-768x512.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Against the odds, endangered dolphins survive in Bangladesh’s polluted river",
+          "link": "https://news.mongabay.com/2026/09/against-the-odds-endangered-dolphins-survive-in-bangladeshs-polluted-river/",
+          "published": "2026-09-14T10:11:16+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Buriganga River, which flows by Dhaka city, is one of Bangladesh’s most polluted waterways and ranks among the most contaminated urban rivers in t",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/14095844/ganges-river-dolphin-bangladesh-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "A clownfish’s last stand",
           "link": "https://news.mongabay.com/2026/09/a-clownfishs-last-stand/",
           "published": "2026-09-14T00:11:51+00:00",
@@ -287,19 +331,6 @@
           "language": "en",
           "summary": "The Vashishti River, originating in the biodiversity-rich Western Ghats and flowing into the Arabian Sea along India’s western coast, has long support",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/10135017/BANNER-e-Xingu-River-Stingray-031-768x512.jpg",
-          "other_news": false
-        }
-      ],
-      "Sustainable Fisheries": [
-        {
-          "title": "How to enhance ocean health and resilience with marine rewilding",
-          "link": "https://news.mongabay.com/short-article/2026/09/how-to-enhance-ocean-health-and-resilience-with-marine-rewilding/",
-          "published": "2026-09-09T18:59:02+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Ocean ecosystems are under extreme stress on several fronts including overfishing, ocean acidification, climate change and marine warming. While ocean",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/04/08165417/53136313528_87b636bb79_c-e1788980315350-768x482.jpg",
           "other_news": false
         }
       ],
@@ -410,17 +441,6 @@
           "other_news": false
         },
         {
-          "title": "Residents and officials meet on dredging concerns",
-          "link": "https://www.bbc.co.uk/news/articles/c9v9143318ro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-13T08:54:47+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Officers plan to meet with a complainant in the coming days over the dredging at St Aubin's  Bay.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88a2/live/61816a90-af4d-11f1-99f7-0d91ad00290d.jpg",
-          "other_news": false
-        },
-        {
           "title": "Pourquoi mesurer les microplastiques est un véritable casse-tête",
           "link": "https://theconversation.com/pourquoi-mesurer-les-microplastiques-est-un-veritable-casse-tete-286201",
           "published": "2026-09-03T10:43:53+00:00",
@@ -520,17 +540,6 @@
           "other_news": false
         },
         {
-          "title": "46 % des poissons pêchés pourraient servir à nourrir des poissons d'élevage d'ici 15 ans",
-          "link": "https://reporterre.net/46-des-poissons-peches-pourraient-servir-a-nourrir-des-poissons-d-elevage-d-ici-15-ans",
-          "published": "2026-09-04T12:05:14+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Piller l'océan, non pas pour nourrir des humains… mais des poissons d'élevage. Tel est l'horizon vers lequel le secteur de la pê",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH464/36473113002_9dd81f5976_k_2_1_-ccb04.jpg?1788523516",
-          "other_news": false
-        },
-        {
           "title": "Ocean Photographer of the Year 2026 winners announced",
           "link": "https://oceanographicmagazine.com/news/ocean-photographer-of-the-year-winners-announced/",
           "published": "2026-09-09T18:05:34+00:00",
@@ -575,17 +584,6 @@
           "other_news": false
         },
         {
-          "title": "L’Arabie saoudite ferme l’oléoduc Est-Ouest, voie de contournement au blocage du détroit d’Ormuz, après des attaques de drones tirés d’Irak",
-          "link": "https://www.lemonde.fr/international/article/2026/09/12/l-arabie-saoudite-ferme-l-oleoduc-est-ouest-voie-de-contournement-au-blocage-du-detroit-d-ormuz-apres-des-attaques-de-drones-tires-d-irak_6770637_3211.html",
-          "published": "2026-09-12T04:23:16+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Depuis le début de la guerre au Moyen-Orient, Riyad a augmenté les volumes de brut transportés par cet oléoduc, qui relie Abqaïq, près du Golfe, au po",
-          "image": "https://img.lemde.fr/2026/09/11/179/0/4000/2000/644/322/60/0/e655a3a_upload-1-4p0sgofkmoqh-000-c82r6nq.jpg",
-          "other_news": false
-        },
-        {
           "title": "Après cet été caniculaire, allez-vous payer vos aliments plus cher dans les supermarchés ?",
           "link": "https://vert.eco/agriculture/apres-cet-ete-caniculaire-allez-vous-payer-vos-aliments-plus-cher-dans-les-supermarches/",
           "published": "2026-09-10T15:55:51+00:00",
@@ -593,6 +591,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Le prix des produits frais (fruits, légumes, poissons…) a augmenté de 5,8% sur un an en août, selon les estimations de l’Insee ce jeudi. La conséquenc",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Employers look for resilient staff – then leave them to burn out",
+          "link": "https://theconversation.com/employers-look-for-resilient-staff-then-leave-them-to-burn-out-290463",
+          "published": "2026-09-14T11:29:14+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Resilience in the workplace is valued in a crisis, but how many firms do anything to develop resilient workers?",
           "image": null,
           "other_news": false
         },
@@ -681,6 +690,17 @@
       ],
       "Marine Biodiversity & Conservation": [
         {
+          "title": "Conservationist honoured for protecting rare animals",
+          "link": "https://www.bbc.co.uk/news/articles/cy5z0v60910o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-14T05:35:25+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Tullis Matson runs Nature's SAFE, a charity that has been freezing cells from some of the world's most endangered animals",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f8a/live/802a5610-adda-11f1-8b98-35ffe039e825.png",
+          "other_news": true
+        },
+        {
           "title": "Biodiversity corridor payments boost household incomes in Vietnam’s Annamite mountains",
           "link": "https://news.mongabay.com/2026/09/biodiversity-corridor-payments-boost-household-incomes-in-vietnams-annamite-mountains/",
           "published": "2026-09-14T02:00:47+00:00",
@@ -762,14 +782,14 @@
           "other_news": true
         },
         {
-          "title": "How cleaning up the air is speeding up global warming - and revealing a bigger problem",
-          "link": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-08T23:11:52+00:00",
+          "title": "How this summer may have been when climate change felt real",
+          "link": "https://www.bbc.co.uk/news/articles/c0lrk5lx96po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-14T05:22:40+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c3/live/6d5a64f0-ac39-11f1-bc1f-3f186ca4140c.jpg",
+          "summary": "This summer has seen hot weather records broken, drought and major damage from fires.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3a5/live/12ed2440-adf5-11f1-ad53-0d91a06f3150.jpg",
           "other_news": true
         },
         {
@@ -781,6 +801,17 @@
           "language": "en",
           "summary": "The Isle of Man Mars Society is urging politicians to sign an international space exploration agreement.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f53/live/a4381b30-a84b-11f1-80f8-c33181935c5a.jpg",
+          "other_news": true
+        },
+        {
+          "title": "How cleaning up the air is speeding up global warming - and revealing a bigger problem",
+          "link": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-08T23:11:52+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c3/live/6d5a64f0-ac39-11f1-bc1f-3f186ca4140c.jpg",
           "other_news": true
         },
         {
@@ -879,6 +910,17 @@
           "type": "news",
           "language": "fr",
           "summary": "En 2026, seuls 4&nbsp;% des articles de presse écrite et des sujets audiovisuels concernaient l’environnement. Une proportion montée à 10&nbsp;% au co",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How to build climate-resilient transport systems",
+          "link": "https://theconversation.com/how-to-build-climate-resilient-transport-systems-290089",
+          "published": "2026-09-14T09:25:43+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Our transport infrastructure and logistics supply chains were built for a stable environmental and energy baseline that no longer exists.",
           "image": null,
           "other_news": true
         },
@@ -1125,17 +1167,6 @@
           "other_news": true
         },
         {
-          "title": "Climate change exposes 580 million children to 20 extra ‘heat-stress days’ every year",
-          "link": "https://www.carbonbrief.org/climate-change-exposes-580-million-children-to-20-extra-heat-stress-days-every-year",
-          "published": "2026-08-26T18:00:00+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "More than 40% of children under the age of 10 globally are already experiencing at least 20 additional “heat-stress days”&#8230;\nThe post Climate chan",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Made in Nigeria: The race to build an African solar industry from scratch",
           "link": "https://www.climatechangenews.com/2026/09/11/made-in-nigeria-the-race-to-build-an-african-solar-industry-from-scratch/",
           "published": "2026-09-11T13:00:00+00:00",
@@ -1345,6 +1376,28 @@
           "other_news": true
         },
         {
+          "title": "Allonger la durée de conservation des médicaments : la bonne idée antigaspi qui irrite les labos",
+          "link": "https://reporterre.net/Medicaments-leur-date-de-peremption-pourrait-etre-enfin-repoussee",
+          "published": "2026-09-14T07:40:51+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "L'Agence du médicament française a lancé une phase de tests pour déterminer s'il est possible de prolonger la durée de conservat",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/reporterre-dlc5-36870.jpg?1789371654",
+          "other_news": true
+        },
+        {
+          "title": "« Une guerre culturelle » : des livres censurés et des cours sur le climat menacés aux États-Unis",
+          "link": "https://reporterre.net/Manuels-censures-cours-menaces-l-enseignement-du-climat-en-peril-sous-Trump",
+          "published": "2026-09-14T06:36:54+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Du Texas à l'Oklahoma, les attaques contre l'enseignement du réchauffement climatique se multiplient, entre manuels censurés, pr",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/livre-scolaire-e1291.jpg?1789367818",
+          "other_news": true
+        },
+        {
           "title": "« Protéger la nature en étant nourri et logé » : chaque été, des milliers d'Allemands prennent soin de leurs forêts",
           "link": "https://reporterre.net/Proteger-la-nature-en-etant-nourri-et-loge-chaque-ete-des-milliers-d-Allemands-prennent",
           "published": "2026-09-13T06:00:00+00:00",
@@ -1455,14 +1508,14 @@
           "other_news": true
         },
         {
-          "title": "Un patron alsacien condamné pour avoir pollué l'eau avec 30 000 tonnes de plastique",
-          "link": "https://reporterre.net/Un-patron-alsacien-condamne-pour-avoir-pollue-l-eau-avec-30-000-tonnes-de-plastique",
-          "published": "2026-09-04T13:20:08+00:00",
-          "source": "Reporterre",
+          "title": "La Finlande va rejoindre la dissuasion nucléaire « avancée » proposée par la France aux pays européens",
+          "link": "https://www.lemonde.fr/international/article/2026/09/14/la-finlande-va-rejoindre-la-dissuasion-nucleaire-avancee-proposee-par-la-france-aux-pays-europeens_6773746_3210.html",
+          "published": "2026-09-14T11:51:30+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Le gérant de l'entreprise de traitement de déchets Locacil, à Feldkirch (Haut-Rhin), a été condamné le 2 septembre à dix-huit mo",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/tengyart-alrcdq-ui_q-unsplash_1_-61dbb.jpg?1788528012",
+          "summary": "Le président finlandais, Alexander Stubb, a estimé sur le réseau social X que l’initiative française visait « avant tout à renforcer la sécurité europ",
+          "image": "https://img.lemde.fr/2026/09/14/239/0/8065/4032/644/322/60/0/5838c0f_upload-1-cubshiygt4dz-000-c7vm7vz.jpg",
           "other_news": true
         },
         {
@@ -1543,6 +1596,17 @@
           "other_news": true
         },
         {
+          "title": "AI is supercharging money scams – here’s what you can do to protect yourself",
+          "link": "https://theconversation.com/ai-is-supercharging-money-scams-heres-what-you-can-do-to-protect-yourself-291326",
+          "published": "2026-09-14T12:38:15+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Good habits by consumers can stymie scams, but  US regulations have fallen behind the technology.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Australia must double down to meet our climate targets. Our new study shows how",
           "link": "https://theconversation.com/australia-must-double-down-to-meet-our-climate-targets-our-new-study-shows-how-291668",
           "published": "2026-09-13T20:11:23+00:00",
@@ -1606,50 +1670,6 @@
           "language": "en",
           "summary": "When the European Union’s new anti-deforestation law threatened to expose the environmental costs of logging in North America’s forests, the American",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09015429/i.-28446630302_ff0e9a7172_o-1-768x477.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Nepal’s high-altitude wildernesses & wildlife are increasingly under threat (commentary)",
-          "link": "https://news.mongabay.com/2026/09/nepals-high-altitude-wildernesses-wildlife-are-increasingly-under-threat-commentary/",
-          "published": "2026-09-09T19:49:22+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Changes like increasing geological and glacial instability driven by the warming climate are a growing concern across the Himalayas. Our hearts go out",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/07/08101747/10-Pallass-cat-kittens-in-Mongolia-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Indigenous land back in Chile brings mixed bag of environmental outcomes: Study",
-          "link": "https://news.mongabay.com/2026/09/indigenous-land-back-in-chile-brings-mixed-bag-of-environmental-outcomes-study/",
-          "published": "2026-09-09T18:59:33+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Indigenous land restitution in Chile came with a mixed bag of environmental outcomes and did not boost natural forest cover, according to a new study",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09154250/Pictures-of-the-Week-Latin-America-and-Caribbean-Photo-Gallery-768x512.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "In North Carolina, a race is on to restore critical peatland before it dries up or is destroyed",
-          "link": "https://news.mongabay.com/short-article/2026/09/in-north-carolina-a-race-is-on-to-restore-critical-peatland-before-it-dries-up-or-is-destroyed/",
-          "published": "2026-09-09T18:02:53+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "BELHAVEN, N.C. (AP) — Scientists and investors are restoring a 23-square-mile tract of peatland in North Carolina to help curb climate-warming emissio",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09174544/AP26240569401427-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Kashmir’s water bodies have declined for decades. Is conservation keeping pace?",
-          "link": "https://news.mongabay.com/2026/09/kashmirs-water-bodies-have-declined-for-decades-is-conservation-keeping-pace/",
-          "published": "2026-09-09T17:58:32+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "For generations, Kashmir’s wetlands, lakes and rivers have been woven into the landscape around its towns and villages. Paddy fields once stretched ac",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09082340/Wular-Lake-768x512.jpg",
           "other_news": true
         }
       ]

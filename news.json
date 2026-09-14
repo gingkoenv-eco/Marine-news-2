@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-09-13T16:59:06.933796+00:00",
+  "generated_at": "2026-09-14T05:01:11.979476+00:00",
   "categories": {
     "Politics & Policy": {
+      "Sustainable Fisheries": [
+        {
+          "title": "Dramatic decline in globally significant dugong population",
+          "link": "https://oceanographicmagazine.com/news/dramatic-decline-in-globally-significant-dugong-population/",
+          "published": "2026-09-03T17:05:15+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "An aerial survey found a 50% drop in the dugong population off the coast of Northern Australia, scientists are calling for stricter fishing regulation",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Marine Protected Areas & Policy": [
         {
           "title": "From firefighting to future-proofing: Preventing wildfires must be the priority",
@@ -189,6 +202,50 @@
           "other_news": false
         },
         {
+          "title": "“We’re rebuilding”: Four nights to shape future of Florida’s reef",
+          "link": "https://oceanographicmagazine.com/news/were-rebuilding-four-nights-to-shape-future-of-floridas-reef/",
+          "published": "2026-09-08T17:34:20+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Florida conservationists captured elkhorn coral's annual spawning to fertilise and raise juvenile corals for reef restoration, as new global data reve",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Matters of the heart: what’s a blue whale’s heartbeat telling us?",
+          "link": "https://oceanographicmagazine.com/news/matters-of-the-heart-whats-a-blue-whales-heartbeat-telling-us/",
+          "published": "2026-09-07T11:40:11+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "New heart-rate data from blue and humpback whales shows their hearts behave like sprinters' during feeding lunges - a discovery that reveals how whale",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Probiotic treatments help heat-stressed corals survive, field trial finds",
+          "link": "https://oceanographicmagazine.com/news/probiotic-treatments-help-heat-stressed-corals-survive-field-trial-finds/",
+          "published": "2026-09-04T09:16:15+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A 15-day experiment during a real marine heat wave in the Red Sea has shown that both live probiotic and inactivated postbiotic treatments can improve",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Underwater meadows ‘lifeline’ for millions in poverty, study finds",
+          "link": "https://oceanographicmagazine.com/news/underwater-meadows-lifeline-for-millions-in-poverty-study-finds/",
+          "published": "2026-09-04T09:11:44+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "At least 18 million people living in extreme poverty across the Indo-Pacific rely on seagrass meadows to fish with the habitat acting as a safety net",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "The Annual Migration to Clean Up Our Coasts",
           "link": "https://oceanconservancy.org/blog/2026/09/04/clean-up-our-coasts/",
           "published": "2026-09-04T14:18:13+00:00",
@@ -197,6 +254,17 @@
           "language": "en",
           "summary": "Annually, seasonally and sometimes even daily, amazing oceanic migrations are taking place. Humpback whales migrate thousands of miles to breeding gro",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "A clownfish’s last stand",
+          "link": "https://news.mongabay.com/2026/09/a-clownfishs-last-stand/",
+          "published": "2026-09-14T00:11:51+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Twenty years ago, scientist and Mongabay board member Debby Ng joined a team documenting life at Terumbu Bayan, a coral reef south of Singapore that w",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/13221234/clownfish-illustration-16x9-1-768x512.jpg",
           "other_news": false
         },
         {
@@ -272,17 +340,6 @@
       ],
       "Species Migration & Habitat Change": [
         {
-          "title": "Albanese and Taylor explore possibility of deal on migration reforms",
-          "link": "https://theconversation.com/albanese-and-taylor-explore-possibility-of-deal-on-migration-reforms-291556",
-          "published": "2026-09-11T09:01:34+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The discussions between the two leaders reflect a desire by both sides to reduce the heat around the migration issue, which is being fuelled by One Na",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Angolan communities return to seasonal migration amid severe drought",
           "link": "https://news.mongabay.com/short-article/2026/09/angolan-communities-return-to-seasonal-migration-amid-severe-drought/",
           "published": "2026-09-11T19:54:36+00:00",
@@ -291,6 +348,19 @@
           "language": "en",
           "summary": "Several years of severe drought are forcing people to leave their homes in Angola to search for water and food in neighboring Namibia. “There is real",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/11195335/IMG_0532-1-1-768x512.jpg",
+          "other_news": false
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Italy faces legal action over bottom trawling in ‘paper park’ MPAs",
+          "link": "https://oceanographicmagazine.com/news/italy-faces-legal-action-over-bottom-trawling-in-paper-park-mpas/",
+          "published": "2026-09-09T08:23:45+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "ClientEarth and Legambiente - with the support of Blue Marine Foundation - have launched the latest in a series of legal actions targeting ineffective",
+          "image": null,
           "other_news": false
         }
       ],
@@ -461,6 +531,28 @@
           "other_news": false
         },
         {
+          "title": "Ocean Photographer of the Year 2026 winners announced",
+          "link": "https://oceanographicmagazine.com/news/ocean-photographer-of-the-year-winners-announced/",
+          "published": "2026-09-09T18:05:34+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The winners of the Ocean Photographer of the Year 2026, presented by Oceanographic and Blancpain, have been revealed. From the seabed to the surface,",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "US court upholds rule to save sea turtles from shrimp trawlers",
+          "link": "https://oceanographicmagazine.com/news/us-court-upholds-rule-to-save-sea-turtles-from-shrimp-trawlers/",
+          "published": "2026-09-08T13:00:33+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A federal appeals court has upheld a rule requiring turtle excluder devices on larger skimmer trawl shrimp boats, rejecting an industry challenge and",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "L’Arabie saoudite ferme le pipeline qui lui sert à contourner le détroit d’Ormuz après des frappes de drones en provenance d’Irak",
           "link": "https://www.lemonde.fr/international/article/2026/09/12/l-arabie-saoudite-ferme-le-pipeline-qui-lui-sert-a-contourner-le-detroit-d-ormuz-apres-des-frappes-de-drones-en-provenance-d-irak_6771330_3210.html",
           "published": "2026-09-12T12:30:03+02:00",
@@ -536,17 +628,6 @@
           "summary": "This is Part Three in a Mongabay series about trends in the offshore wind industry. Part One describes the sector’s untapped potential and gaps betwee",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/08151406/1-Greater-Gabbard-offshore-wind-farm-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Caribbean scientists document uncharted deep-sea waters in Trinidad and Tobago",
-          "link": "https://news.mongabay.com/2026/09/caribbean-scientists-document-uncharted-deep-sea-waters-in-trinidad-and-tobago/",
-          "published": "2026-09-09T15:45:47+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "During a recent monthlong expedition, a team of scientists conducted one of the most comprehensive surveys ever undertaken in the deep waters of Trini",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09151211/FKt260629-S0941-20260707T175802Z-305-scicam-SOIOctoZoom-SS-0509-768x512.jpg",
-          "other_news": false
         }
       ]
     },
@@ -598,6 +679,19 @@
           "other_news": true
         }
       ],
+      "Marine Biodiversity & Conservation": [
+        {
+          "title": "Biodiversity corridor payments boost household incomes in Vietnam’s Annamite mountains",
+          "link": "https://news.mongabay.com/2026/09/biodiversity-corridor-payments-boost-household-incomes-in-vietnams-annamite-mountains/",
+          "published": "2026-09-14T02:00:47+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Conservationists say connecting existing protected areas through biodiversity corridors is vital in many landscapes to prevent further loss of species",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/13113754/Banner_Original_WW1304086-768x512.jpg",
+          "other_news": true
+        }
+      ],
       "Marine Protected Areas & Policy": [
         {
           "title": "As science comes under attack at UN talks, climate movement splits over how to respond",
@@ -607,6 +701,17 @@
           "type": "news",
           "language": "en",
           "summary": "A rift over how IPCC messages are produced and turned into policy is creating tensions in the world's most influential coalition of climate NGOs\nThe p",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "View from The Hill: One Nation would have more people leaving than entering Australia over three years",
+          "link": "https://theconversation.com/view-from-the-hill-one-nation-would-have-more-people-leaving-than-entering-australia-over-three-years-291558",
+          "published": "2026-09-14T03:53:16+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "One Nation has released a  radical policy that  would see Australia reduce its temporary migrant population by 750,000.",
           "image": null,
           "other_news": true
         },
@@ -1240,17 +1345,6 @@
           "other_news": true
         },
         {
-          "title": "South Africa’s top court blocks Shell’s offshore oil exploration right",
-          "link": "https://www.climatechangenews.com/2026/08/14/south-africas-top-court-blocks-shells-offshore-oil-exploration-right/",
-          "published": "2026-08-14T17:18:04+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Constitutional Court rules that Shell and its partners failed to consult affected communities and did not properly consider environmental risks\nThe po",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "« Protéger la nature en étant nourri et logé » : chaque été, des milliers d'Allemands prennent soin de leurs forêts",
           "link": "https://reporterre.net/Proteger-la-nature-en-etant-nourri-et-loge-chaque-ete-des-milliers-d-Allemands-prennent",
           "published": "2026-09-13T06:00:00+00:00",
@@ -1449,6 +1543,28 @@
           "other_news": true
         },
         {
+          "title": "Australia must double down to meet our climate targets. Our new study shows how",
+          "link": "https://theconversation.com/australia-must-double-down-to-meet-our-climate-targets-our-new-study-shows-how-291668",
+          "published": "2026-09-13T20:11:23+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Global warming is set to surpass the 1.5°C limit if governments worldwide fail to act.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "We may be able to turn off the algorithm, but we can’t escape the misogyny of the manosphere",
+          "link": "https://theconversation.com/we-may-be-able-to-turn-off-the-algorithm-but-we-cant-escape-the-misogyny-of-the-manosphere-291552",
+          "published": "2026-09-13T20:11:11+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Important as it is, no amount of social media regulation will meaningfully address the manosphere unless we also dismantle the misogyny that underpins",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Africa’s climate services need local detail and knowledge, say people who use the information",
           "link": "https://theconversation.com/africas-climate-services-need-local-detail-and-knowledge-say-people-who-use-the-information-290108",
           "published": "2026-09-13T06:56:52+00:00",
@@ -1534,17 +1650,6 @@
           "language": "en",
           "summary": "For generations, Kashmir’s wetlands, lakes and rivers have been woven into the landscape around its towns and villages. Paddy fields once stretched ac",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09082340/Wular-Lake-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "When climate-related hazards rise, so do barriers for people with disabilities",
-          "link": "https://news.mongabay.com/2026/09/when-climate-related-hazards-rise-so-do-barriers-for-people-with-disabilities/",
-          "published": "2026-09-09T17:32:47+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "When climate-related hazards like floods, storms, extreme heat and landslides strike, roads can become impassable, homes unsafe and communities begin",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09121045/2.Sierra-Leone-wheelchair-768x512.jpg",
           "other_news": true
         }
       ]

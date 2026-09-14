@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T14:09:28.145276+00:00",
+  "generated_at": "2026-09-14T18:05:02.936700+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -461,6 +461,17 @@
           "other_news": false
         },
         {
+          "title": "North Sea drilling is a distraction: low-carbon transition hinges on prioritising people and jobs",
+          "link": "https://theconversation.com/north-sea-drilling-is-a-distraction-low-carbon-transition-hinges-on-prioritising-people-and-jobs-290771",
+          "published": "2026-09-14T15:29:17+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Industrial renewal coupled with social reforms could support a green transition away from carbon-intensive industries while narrowing social inequalit",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "How heat on the Tibetan Plateau fuels powerful storms in California, half a world away",
           "link": "https://theconversation.com/how-heat-on-the-tibetan-plateau-fuels-powerful-storms-in-california-half-a-world-away-291438",
           "published": "2026-09-10T16:15:09+00:00",
@@ -732,6 +743,17 @@
           "other_news": true
         },
         {
+          "title": "Katmandu Resolution calls for Asia-wide leadership on conservation (commentary)",
+          "link": "https://news.mongabay.com/2026/09/katmandu-resolution-calls-for-asia-wide-leadership-on-conservation-commentary/",
+          "published": "2026-09-14T17:29:21+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "There is perhaps no other continent on earth that possesses as diverse an ecosystem, biodiversity and cultural diversity as Asia. Yet, biodiversity co",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2021/12/09151101/Image-1.image_jpeg-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "Biodiversity corridor payments boost household incomes in Vietnam’s Annamite mountains",
           "link": "https://news.mongabay.com/2026/09/biodiversity-corridor-payments-boost-household-incomes-in-vietnams-annamite-mountains/",
           "published": "2026-09-14T02:00:47+00:00",
@@ -740,6 +762,32 @@
           "language": "en",
           "summary": "Conservationists say connecting existing protected areas through biodiversity corridors is vital in many landscapes to prevent further loss of species",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/13113754/Banner_Original_WW1304086-768x512.jpg",
+          "other_news": true
+        }
+      ],
+      "Nature-Based Solutions & Restoration": [
+        {
+          "title": "Planting trees in the wrong places is not a climate solution",
+          "link": "https://theconversation.com/planting-trees-in-the-wrong-places-is-not-a-climate-solution-290796",
+          "published": "2026-09-14T17:50:05+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Global tree-planting campaigns can harm natural drylands. Effective climate restoration must work within dryland ecosystems, not seek to replace them.",
+          "image": null,
+          "other_news": true
+        }
+      ],
+      "Species Migration & Habitat Change": [
+        {
+          "title": "Decline of migratory birds spurs calls for coordinated conservation",
+          "link": "https://news.mongabay.com/2026/09/decline-of-migratory-birds-spurs-calls-for-coordinated-conservation/",
+          "published": "2026-09-14T14:09:40+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "NAIROBI — The decline of many migratory bird populations is a red flag that ecosystems around the world are under increasing pressure, conservation ex",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/14122724/Bar-headedGoose.Anser_.indicus_-%C2%A9NejibAhmedShutterstock-768x512.jpg",
           "other_news": true
         }
       ],
@@ -791,18 +839,7 @@
       ],
       "Other Marine News": [
         {
-          "title": "August joint-hottest month on record as climate change and El Niño drive heat",
-          "link": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-10T02:05:47+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7e3/live/9e323aa0-aceb-11f1-8d69-858c9dcdf738.jpg",
-          "other_news": true
-        },
-        {
-          "title": "How this summer may have been when climate change felt real",
+          "title": "Was this summer the moment climate change felt real for the first time?",
           "link": "https://www.bbc.co.uk/news/articles/c0lrk5lx96po?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-14T05:22:40+00:00",
           "source": "BBC Ocean & Marine",
@@ -1007,17 +1044,6 @@
           "type": "news",
           "language": "en",
           "summary": "Glacier melt is partly responsible for the disaster along the border with Tibet and Nepal. An expert explains why this is a growing issue for the worl",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Fly-tipping: here’s what is missing from Andy Burnham’s plan to tackle waste dumpers",
-          "link": "https://theconversation.com/fly-tipping-heres-what-is-missing-from-andy-burnhams-plan-to-tackle-waste-dumpers-290548",
-          "published": "2026-08-28T10:37:53+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Burnham’s plan to tackle criminal fly-tipping gangs needs to go further.",
           "image": null,
           "other_news": true
         },
@@ -1517,17 +1543,6 @@
           "other_news": true
         },
         {
-          "title": "La Finlande va rejoindre la dissuasion nucléaire « avancée » proposée par la France aux pays européens",
-          "link": "https://www.lemonde.fr/international/article/2026/09/14/la-finlande-va-rejoindre-la-dissuasion-nucleaire-avancee-proposee-par-la-france-aux-pays-europeens_6773746_3210.html",
-          "published": "2026-09-14T11:51:30+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le président finlandais, Alexander Stubb, a estimé sur le réseau social X que l’initiative française visait « avant tout à renforcer la sécurité europ",
-          "image": "https://img.lemde.fr/2026/09/14/239/0/8065/4032/644/322/60/0/5838c0f_upload-1-cubshiygt4dz-000-c7vm7vz.jpg",
-          "other_news": true
-        },
-        {
           "title": "« L’écoanxiété n’est pas que le fruit de la crise environnementale, elle est aussi provoquée par l’inaction politique devant le désastre »",
           "link": "https://www.lemonde.fr/idees/article/2026/09/13/l-ecoanxiete-n-est-pas-que-le-fruit-de-la-crise-environnementale-elle-est-aussi-provoquee-par-l-inaction-politique-devant-le-desastre_6772400_3232.html",
           "published": "2026-09-13T10:30:08+02:00",
@@ -1583,17 +1598,6 @@
           "other_news": true
         },
         {
-          "title": "Quand l’extrême droite française brandit le spectre du « grand remplacement » culinaire",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/12/quand-l-extreme-droite-francaise-brandit-le-spectre-du-grand-remplacement-culinaire_6770982_3232.html",
-          "published": "2026-09-12T06:30:08+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans une France qui porte sa gastronomie comme un étendard, l’alimentation, longtemps restée un impensé politique, est désormais récupérée par des mou",
-          "image": "https://img.lemde.fr/2026/09/08/887/88/2742/1371/644/322/60/0/9a06e9f_upload-1-9tprk06kgss4-82-l-corvaisier-08-09-26-2.jpg",
-          "other_news": true
-        },
-        {
           "title": "Vert recrute : journaliste politique/écologie en CDD",
           "link": "https://vert.eco/vert-vous-parle/vert-recrute-journaliste-politique-ecologie-en-cdd/",
           "published": "2026-09-08T15:50:51+00:00",
@@ -1627,25 +1631,14 @@
           "other_news": true
         },
         {
-          "title": "Australia must double down to meet our climate targets. Our new study shows how",
-          "link": "https://theconversation.com/australia-must-double-down-to-meet-our-climate-targets-our-new-study-shows-how-291668",
-          "published": "2026-09-13T20:11:23+00:00",
-          "source": "The Conversation",
+          "title": "EPA eliminates rule that limits planet-warming greenhouse gas emissions from power plants",
+          "link": "https://news.mongabay.com/short-article/2026/09/epa-eliminates-rule-that-limits-planet-warming-greenhouse-gas-emissions-from-power-plants/",
+          "published": "2026-09-14T17:41:13+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Global warming is set to surpass the 1.5°C limit if governments worldwide fail to act.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "We may be able to turn off the algorithm, but we can’t escape the misogyny of the manosphere",
-          "link": "https://theconversation.com/we-may-be-able-to-turn-off-the-algorithm-but-we-cant-escape-the-misogyny-of-the-manosphere-291552",
-          "published": "2026-09-13T20:11:11+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Important as it is, no amount of social media regulation will meaningfully address the manosphere unless we also dismantle the misogyny that underpins",
-          "image": null,
+          "summary": "WASHINGTON (AP) — The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled b",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/14173645/AP26257540442676-768x512.jpg",
           "other_news": true
         },
         {
@@ -1657,17 +1650,6 @@
           "language": "en",
           "summary": "Angola faces severe environmental challenges, and the govern has signed international commitments, such as the Montreal Protocol and the Kigali Amendm",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/11072035/image2_DesmatamentoAngola1.CreditoAcervoEcoAngola-768x512.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "The EU approved an antideforestation law. The US paper lobby sought to weaken it",
-          "link": "https://news.mongabay.com/2026/09/the-eu-approved-an-antideforestation-law-the-us-paper-lobby-sought-to-weaken-it/",
-          "published": "2026-09-10T06:00:12+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "When the European Union’s new anti-deforestation law threatened to expose the environmental costs of logging in North America’s forests, the American",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09015429/i.-28446630302_ff0e9a7172_o-1-768x477.jpg",
           "other_news": true
         }
       ]

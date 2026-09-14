@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-09-14T12:49:21.647924+00:00",
+  "generated_at": "2026-09-14T14:09:28.145276+00:00",
   "categories": {
     "Politics & Policy": {
-      "Sustainable Fisheries": [
-        {
-          "title": "Dramatic decline in globally significant dugong population",
-          "link": "https://oceanographicmagazine.com/news/dramatic-decline-in-globally-significant-dugong-population/",
-          "published": "2026-09-03T17:05:15+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "An aerial survey found a 50% drop in the dugong population off the coast of Northern Australia, scientists are calling for stricter fishing regulation",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Marine Protected Areas & Policy": [
         {
           "title": "From firefighting to future-proofing: Preventing wildfires must be the priority",
@@ -48,6 +35,17 @@
           "type": "news",
           "language": "en",
           "summary": "Africa and the EU are leading a push for COP31 to deliver a roadmap that lays out measures to protect fast-warming oceans\nThe post As marine heat brea",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Africa’s air travel is reliant on distant hubs: why it’s time to fix this",
+          "link": "https://theconversation.com/africas-air-travel-is-reliant-on-distant-hubs-why-its-time-to-fix-this-288049",
+          "published": "2026-09-14T13:55:38+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The war against Iran has exposed Africa’s dependence on external transit hubs for international and even intra-African connectivity.",
           "image": null,
           "other_news": false
         }
@@ -158,17 +156,6 @@
           "other_news": false
         },
         {
-          "title": "Kent's shark secrets discovered in new project",
-          "link": "https://www.bbc.co.uk/news/articles/ce8xg23zze1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-14T05:06:08+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The project involves sharks in Kent's waters being tagged so that scientists can gain vital data.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3429/live/d4f4a6d0-ae86-11f1-bc1f-3f186ca4140c.jpg",
-          "other_news": false
-        },
-        {
           "title": "What anglers have taught me about saving England’s sharks",
           "link": "https://theconversation.com/what-anglers-have-taught-me-about-saving-englands-sharks-288844",
           "published": "2026-09-08T05:35:30+00:00",
@@ -209,6 +196,17 @@
           "type": "news",
           "language": "en",
           "summary": "A fish-finding expedition not only detects unexpected species but also uncovers a living link to Missouri’s geological past.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Culling coral-killing starfish generates $20 million for Queensland",
+          "link": "https://oceanographicmagazine.com/news/culling-coral-killing-starfish-generates-20-million-for-queensland/",
+          "published": "2026-09-14T13:47:32+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A $5.5 million program culling coral-killing crown-of-thorns starfish in Far North Queensland generated $20 million in economic output and 61 local jo",
           "image": null,
           "other_news": false
         },
@@ -276,6 +274,17 @@
           "language": "en",
           "summary": "Annually, seasonally and sometimes even daily, amazing oceanic migrations are taking place. Humpback whales migrate thousands of miles to breeding gro",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Can we stop ships from killing the Mediterranean’s last great whales?",
+          "link": "https://news.mongabay.com/custom-story/2026/09/can-we-stop-ships-from-killing-the-mediterraneans-last-great-whales/",
+          "published": "2026-09-14T13:44:45+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Collisions with ships are a leading anthropogenic killer of the Mediterranean’s two endangered large-bodied cetacean species, sperm and fin whales. In",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/08134319/Codamozza-whale-768x512.jpg",
           "other_news": false
         },
         {
@@ -485,17 +494,6 @@
           "other_news": false
         },
         {
-          "title": "Using thunderquakes to X-ray Earth – a new study shows urban seismology in action",
-          "link": "https://theconversation.com/using-thunderquakes-to-x-ray-earth-a-new-study-shows-urban-seismology-in-action-289961",
-          "published": "2026-08-21T17:59:58+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "With the help of thunderstorms and everyday fiber-optic cables, these scientists are revealing a hidden world underground.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Q&A: What can – and cannot – be said about global warming’s role in the 2026 Himalayan floods",
           "link": "https://www.carbonbrief.org/qa-what-can-and-cannot-be-said-about-global-warmings-role-in-the-2026-himalayan-floods",
           "published": "2026-09-08T16:03:25+00:00",
@@ -591,6 +589,39 @@
           "type": "news",
           "language": "fr",
           "summary": "Le prix des produits frais (fruits, légumes, poissons…) a augmenté de 5,8% sur un an en août, selon les estimations de l’Insee ce jeudi. La conséquenc",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Ghana’s local architecture has adapted to change for centuries. It can teach us about climate resilience",
+          "link": "https://theconversation.com/ghanas-local-architecture-has-adapted-to-change-for-centuries-it-can-teach-us-about-climate-resilience-290552",
+          "published": "2026-09-14T13:55:00+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Modern styles of architecture can learn from traditional approaches to building.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Physicists zoom into the birth of cosmic rainstorms with new CERN study",
+          "link": "https://theconversation.com/physicists-zoom-into-the-birth-of-cosmic-rainstorms-with-new-cern-study-280890",
+          "published": "2026-09-14T13:07:51+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Scientists recreated cosmic rays in a massive underground particle collider.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Houthi rebels’ control of Red Sea oil chokepoint exposes deep divisions in Brics",
+          "link": "https://theconversation.com/houthi-rebels-control-of-red-sea-oil-chokepoint-exposes-deep-divisions-in-brics-291576",
+          "published": "2026-09-14T12:54:46+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Rapid expansion of the bloc means that its 21 members have deeply divergent interests, particularly in the Middle East.",
           "image": null,
           "other_news": false
         },
@@ -725,6 +756,17 @@
           "other_news": true
         },
         {
+          "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
+          "link": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572",
+          "published": "2026-09-14T12:40:16+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Portugal’s remarkable public health strides after changing its approach to drugs may not be replicable in other countries absent broader systemic refo",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "View from The Hill: One Nation would have more people leaving than entering Australia over three years",
           "link": "https://theconversation.com/view-from-the-hill-one-nation-would-have-more-people-leaving-than-entering-australia-over-three-years-291558",
           "published": "2026-09-14T03:53:16+00:00",
@@ -732,17 +774,6 @@
           "type": "news",
           "language": "en",
           "summary": "One Nation has released a  radical policy that  would see Australia reduce its temporary migrant population by 750,000.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "South Africa has good water laws but bad services. What’s stopping fair access",
-          "link": "https://theconversation.com/south-africa-has-good-water-laws-but-bad-services-whats-stopping-fair-access-284505",
-          "published": "2026-09-13T06:56:29+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "South Africa’s water law promises fairness, but ageing infrastructure, weak governance and unequal power leave many without reliable water.",
           "image": null,
           "other_news": true
         },
@@ -768,17 +799,6 @@
           "language": "en",
           "summary": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7e3/live/9e323aa0-aceb-11f1-8d69-858c9dcdf738.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Watch: Downed trees and flooding as Hurricane Lowell batters western Hawaii",
-          "link": "https://www.bbc.co.uk/news/videos/c2079ne1xx6o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-09T01:11:44+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The storm brought damaging winds and torrential rain to parts of the island on Monday and Tuesday, triggering concerns about flash flooding and mudsli",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc8e/live/be05e3b0-abea-11f1-9d91-376486f9e679.jpg",
           "other_news": true
         },
         {
@@ -1376,17 +1396,6 @@
           "other_news": true
         },
         {
-          "title": "Allonger la durée de conservation des médicaments : la bonne idée antigaspi qui irrite les labos",
-          "link": "https://reporterre.net/Medicaments-leur-date-de-peremption-pourrait-etre-enfin-repoussee",
-          "published": "2026-09-14T07:40:51+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "L'Agence du médicament française a lancé une phase de tests pour déterminer s'il est possible de prolonger la durée de conservat",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/reporterre-dlc5-36870.jpg?1789371654",
-          "other_news": true
-        },
-        {
           "title": "« Une guerre culturelle » : des livres censurés et des cours sur le climat menacés aux États-Unis",
           "link": "https://reporterre.net/Manuels-censures-cours-menaces-l-enseignement-du-climat-en-peril-sous-Trump",
           "published": "2026-09-14T06:36:54+00:00",
@@ -1596,6 +1605,17 @@
           "other_news": true
         },
         {
+          "title": "School choice proponents say it offers families more options – but those don’t always extend to immigrant students",
+          "link": "https://theconversation.com/school-choice-proponents-say-it-offers-families-more-options-but-those-dont-always-extend-to-immigrant-students-289117",
+          "published": "2026-09-14T12:41:48+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "School choice heavily influences immigrant students’ experiences in Charleston schools and can leave them in segregated academic environments, new fin",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "AI is supercharging money scams – here’s what you can do to protect yourself",
           "link": "https://theconversation.com/ai-is-supercharging-money-scams-heres-what-you-can-do-to-protect-yourself-291326",
           "published": "2026-09-14T12:38:15+00:00",
@@ -1625,28 +1645,6 @@
           "type": "news",
           "language": "en",
           "summary": "Important as it is, no amount of social media regulation will meaningfully address the manosphere unless we also dismantle the misogyny that underpins",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Africa’s climate services need local detail and knowledge, say people who use the information",
-          "link": "https://theconversation.com/africas-climate-services-need-local-detail-and-knowledge-say-people-who-use-the-information-290108",
-          "published": "2026-09-13T06:56:52+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "People restoring Africa’s ecosystems need climate services that combine forecasts with Indigenous knowledge and information about land, water and live",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Your memories of how you heard about 9/11 may well be wrong – we’ve been asking the same people what they remember for 25 years",
-          "link": "https://theconversation.com/your-memories-of-how-you-heard-about-9-11-may-well-be-wrong-weve-been-asking-the-same-people-what-they-remember-for-25-years-291820",
-          "published": "2026-09-12T14:04:13+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Memories are dynamic, not fixed. Even if what you’re remembering about your own experience isn’t quite how it all happened, those memories serve impor",
           "image": null,
           "other_news": true
         },

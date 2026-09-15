@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T18:39:47.664059+00:00",
+  "generated_at": "2026-09-15T05:01:02.635298+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -25,6 +25,17 @@
           "language": "en",
           "summary": "Britain and other signatories to the UN convention on the law of the sea should protest against US proposal to lease seabed for mining, says Guy Stand",
           "image": "https://i.guim.co.uk/img/media/34a14c0286111b5b6e68287f1efff1473306c0de/51_0_5769_4616/master/5769.jpg?width=140&quality=85&auto=format&fit=max&s=42a74dba7a955c5683d24802ff3e25b5",
+          "other_news": false
+        },
+        {
+          "title": "UK could 'unlock' 100 more oil and gas projects, say North Sea bosses",
+          "link": "https://www.bbc.co.uk/news/articles/c65ym93p73xmo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-14T21:59:02+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The UK could supply half of its oil and gas needs without imports if the government showed more support for the sector, an OEUK report claims.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5137/live/e8988d50-b075-11f1-a905-bfcd9db6b414.jpg",
           "other_news": false
         },
         {
@@ -450,6 +461,28 @@
           "other_news": false
         },
         {
+          "title": "Mass nesting brings swarms of turtles to Mexican beach",
+          "link": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-15T01:08:55+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2069/live/6f3c6140-b0a0-11f1-9e7d-cb2f675dfcb0.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Giant jellyfish with '40ft tentacles' captured on camera off coast",
+          "link": "https://www.bbc.co.uk/news/articles/cvgynz9qz00o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-14T22:03:17+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Iestyn Morgan has set out to make Welsh aquatic life \"more accessible\" for people to see.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1bb/live/84fac5b0-b052-11f1-89e4-0bbff5cb7e23.jpg",
+          "other_news": false
+        },
+        {
           "title": "Pourquoi mesurer les microplastiques est un véritable casse-tête",
           "link": "https://theconversation.com/pourquoi-mesurer-les-microplastiques-est-un-veritable-casse-tete-286201",
           "published": "2026-09-03T10:43:53+00:00",
@@ -571,25 +604,14 @@
           "other_news": false
         },
         {
-          "title": "L’Arabie saoudite ferme le pipeline qui lui sert à contourner le détroit d’Ormuz après des frappes de drones en provenance d’Irak",
-          "link": "https://www.lemonde.fr/international/article/2026/09/12/l-arabie-saoudite-ferme-le-pipeline-qui-lui-sert-a-contourner-le-detroit-d-ormuz-apres-des-frappes-de-drones-en-provenance-d-irak_6771330_3210.html",
-          "published": "2026-09-12T12:30:03+02:00",
-          "source": "Le Monde Planète",
+          "title": "«Le climat est devenu une épée de Damoclès» : après un été catastrophique, cet agriculteur du Poitou jette l’éponge",
+          "link": "https://vert.eco/agriculture/le-climat-est-devenu-une-epee-de-damocles-apres-un-ete-catastrophique-cet-agriculteur-du-poitou-jette-leponge/",
+          "published": "2026-09-15T04:00:00+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Alors que houthistes yéménites contrôlent l’accès à la mer Rouge, l’oléoduc Est-Ouest, seule option terrestre au blocage du détroit d’Ormuz, a été vis",
-          "image": "https://img.lemde.fr/2026/09/12/2301/0/3102/1551/644/322/60/0/f852278_upload-1-6f4rynjmj9gn-000-c82x2we.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Les premiers effets d’El Niño se font sentir au Pérou, touché par des températures record et une surmortalité d’espèces marines",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/12/les-premiers-effets-d-el-nino-se-font-sentir-au-perou-touche-par-des-temperatures-record-et-une-surmortalite-d-especes-marines_6771296_3244.html",
-          "published": "2026-09-12T12:00:12+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le réchauffement anormal des eaux de surface du Pacifique a profondément modifié les conditions de l’écosystème marin le long du littoral, affectant n",
-          "image": "https://img.lemde.fr/2026/08/17/458/0/5500/2750/644/322/60/0/48c21f6_ftp-1-wwcitqi213nu-2026-08-17t151147z-1961870555-rc2c0nanwjf9-rtrmadp-3-peru-weather-floods.JPG",
+          "summary": "Après cet été brûlant, 64% des responsables d’exploitation de Charente-Maritime et des Deux-Sèvres envisagent de changer de métier, selon un sondage d",
+          "image": null,
           "other_news": false
         },
         {
@@ -637,17 +659,6 @@
           "other_news": false
         },
         {
-          "title": "Employers look for resilient staff – then leave them to burn out",
-          "link": "https://theconversation.com/employers-look-for-resilient-staff-then-leave-them-to-burn-out-290463",
-          "published": "2026-09-14T11:29:14+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Resilience in the workplace is valued in a crisis, but how many firms do anything to develop resilient workers?",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Do Sea Turtles Get Lost?",
           "link": "https://oceanconservancy.org/blog/2026/08/27/do-sea-turtles-get-lost/",
           "published": "2026-08-27T15:58:38+00:00",
@@ -686,17 +697,6 @@
     "Other News": {
       "Plastic & Ocean Pollution": [
         {
-          "title": "Sheen says he was snubbed by FM over pollution claims",
-          "link": "https://www.bbc.co.uk/news/videos/cm2q8pp8epro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-11T10:29:19+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b421/live/1c9c3620-adc8-11f1-bc1f-3f186ca4140c.jpg",
-          "other_news": true
-        },
-        {
           "title": "Canicules et pollution : quelle évolution entre 2003 et 2026 ?",
           "link": "https://theconversation.com/canicules-et-pollution-quelle-evolution-entre-2003-et-2026-290185",
           "published": "2026-08-26T13:27:17+00:00",
@@ -728,6 +728,28 @@
           "summary": "Depuis le milieu du XXe siècle, la nocivité des pollutions industrielles sur le climat est clairement établie. Mais les sociétés",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/screenshot_2026-09-07_at_11-15-31_recherche_google-3be93.jpg?1788843601",
           "other_news": true
+        },
+        {
+          "title": "Au Venezuela, l’agonie du plus grand lac d’Amérique du Sud, pollué par les hydrocarbures",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/15/au-venezuela-l-agonie-du-plus-grand-lac-d-amerique-du-sud-pollue-par-les-hydrocarbures_6774184_3244.html",
+          "published": "2026-09-15T03:30:11+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le lac de Maracaibo, berceau de l’industrie pétrolière du pays, subit une pollution « chronique » due aux marées noires et à l’inaction des autorités",
+          "image": "https://img.lemde.fr/2026/09/14/470/0/5500/2750/644/322/60/0/6534f27_upload-1-allxsaeicgzf-2026-02-06t133014z-2136491447-rc2a9ja9y1t2-rtrmadp-3-usa-venezuela-maracaibo-fishing.JPG",
+          "other_news": true
+        },
+        {
+          "title": "La pollution de l’air contribuerait à creuser les inégalités scolaires",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/15/la-pollution-de-l-air-contribuerait-a-creuser-les-inegalites-scolaires_6773950_3244.html",
+          "published": "2026-09-15T00:01:09+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Une étude du Laboratoire sur les inégalités mondiales suggère que la pollution de l’air peut expliquer jusqu’à 25 % de l’écart de réussite aux examens",
+          "image": "https://img.lemde.fr/2026/09/14/675/0/8104/4052/644/322/60/0/6a4a690_upload-1-85pcggd34f9g-000-36tv9a8.jpg",
+          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -743,7 +765,7 @@
           "other_news": true
         },
         {
-          "title": "Katmandu Resolution calls for Asia-wide leadership on conservation (commentary)",
+          "title": "Kathmandu Resolution calls for Asia-wide leadership on conservation (commentary)",
           "link": "https://news.mongabay.com/2026/09/katmandu-resolution-calls-for-asia-wide-leadership-on-conservation-commentary/",
           "published": "2026-09-14T17:29:21+00:00",
           "source": "Mongabay Marine",
@@ -804,24 +826,13 @@
           "other_news": true
         },
         {
-          "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
-          "link": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572",
-          "published": "2026-09-14T12:40:16+00:00",
+          "title": "How does unthinkable policy become inevitable? The ‘Overton window’ is one possible answer",
+          "link": "https://theconversation.com/how-does-unthinkable-policy-become-inevitable-the-overton-window-is-one-possible-answer-289033",
+          "published": "2026-09-15T03:40:09+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Portugal’s remarkable public health strides after changing its approach to drugs may not be replicable in other countries absent broader systemic refo",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "View from The Hill: One Nation would have more people leaving than entering Australia over three years",
-          "link": "https://theconversation.com/view-from-the-hill-one-nation-would-have-more-people-leaving-than-entering-australia-over-three-years-291558",
-          "published": "2026-09-14T03:53:16+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "One Nation has released a  radical policy that  would see Australia reduce its temporary migrant population by 750,000.",
+          "summary": "It was once deemed crazy to get rid of protective tariffs. Privatising state banks was inconceivable. Both are now commonplace, but how does this happ",
           "image": null,
           "other_news": true
         },
@@ -838,6 +849,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "US scraps limits on emissions from coal and gas power plants",
+          "link": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-14T22:04:14+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9e/live/16cf4830-b0ad-11f1-9c5d-0dd6cc52f198.jpg",
+          "other_news": true
+        },
         {
           "title": "Was this summer the moment climate change felt real for the first time?",
           "link": "https://www.bbc.co.uk/news/articles/c0lrk5lx96po?at_medium=RSS&at_campaign=rss",
@@ -1422,6 +1444,17 @@
           "other_news": true
         },
         {
+          "title": "« Un signal pour dire stop » : les Hauts-de-France réaffirment leur hostilité à l'éolien terrestre",
+          "link": "https://reporterre.net/Un-signal-pour-dire-stop-les-Hauts-de-France-reaffirment-leur-hostilite-a-l-eolien",
+          "published": "2026-09-15T04:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le Comité régional de l'énergie des Hauts-de-France s'est prononcé contre tout nouveau projet éolien terrestre d'ici 2035. Un vo",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/eoledanslenord-b37a3.jpg?1789444801",
+          "other_news": true
+        },
+        {
           "title": "« Une guerre culturelle » : des livres censurés et des cours sur le climat menacés aux États-Unis",
           "link": "https://reporterre.net/Manuels-censures-cours-menaces-l-enseignement-du-climat-en-peril-sous-Trump",
           "published": "2026-09-14T06:36:54+00:00",
@@ -1532,14 +1565,36 @@
           "other_news": true
         },
         {
-          "title": "Des « refuges climatiques » pour supporter la chaleur : le pari réussi de Barcelone",
-          "link": "https://reporterre.net/Des-refuges-climatiques-pour-supporter-la-chaleur-le-pari-reussi-de-Barcelone",
-          "published": "2026-09-07T05:05:00+00:00",
-          "source": "Reporterre",
+          "title": "Climat : après un été de canicules et de sécheresse sans précédent, les militants écologistes espèrent remobiliser",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/15/climat-apres-un-ete-de-canicules-et-de-secheresse-sans-precedent-les-militants-ecologistes-esperent-remobiliser_6774283_3244.html",
+          "published": "2026-09-15T05:00:12+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Barcelone mise sur un réseau de 500 refuges climatiques pour permettre à ses habitants de trouver gratuitement fraîcheur et lien",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/img_3171-ca1d8.jpg?1788757503",
+          "summary": "Des ONG et des syndicats appellent à un rassemblement, mardi, devant le ministère de l’économie et des finances, pour demander des mesures d’urgence c",
+          "image": "https://img.lemde.fr/2026/09/14/201/0/5683/2841/644/322/60/0/3c61646_upload-1-4yggdf3mlbbh-000-77276py.jpg",
+          "other_news": true
+        },
+        {
+          "title": "La fusée Vega-C s’envole de Kourou avec deux satellites européens",
+          "link": "https://www.lemonde.fr/sciences/article/2026/09/15/la-fusee-vega-c-s-envole-de-kourou-avec-deux-satellites-europeens_6774250_1650684.html",
+          "published": "2026-09-15T04:42:11+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Opéré par l’italien Avio, ce vol a pour mission de placer deux satellites visant à surveiller le climat et la santé des plantes depuis l’espace.",
+          "image": "https://img.lemde.fr/2026/09/15/205/0/4892/2446/644/322/60/0/8fb37d5_ftp-1-rghi06xbobq1-5092485-01-06.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Les Etats-Unis mettent fin aux limites d’émissions polluantes imposées aux centrales électriques",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/15/les-etats-unis-mettent-fin-aux-limites-d-emissions-polluantes-imposees-aux-centrales-electriques_6773984_3244.html",
+          "published": "2026-09-15T00:16:07+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La décision de l’administration Trump va à l’encontre des recommandations dans la lutte contre le changement climatique, et suscite l’inquiétude des e",
+          "image": "https://img.lemde.fr/2026/08/24/1440/0/8640/4320/644/322/60/0/897e825_ftp-1-tcbxqioz5iz5-3c0a8f69e0074ebb97ebe4af4330729b-2-734797f230b345a7b972301c636ec9b0.jpg",
           "other_news": true
         },
         {
@@ -1576,24 +1631,35 @@
           "other_news": true
         },
         {
-          "title": "Dans le Vercors, la mort d’une soixantaine de brebis attribuée à des loups soulève des interrogations",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/12/dans-le-vercors-la-mort-d-une-soixantaine-de-brebis-attribuee-a-des-loups-souleve-des-interrogations_6771123_3244.html",
-          "published": "2026-09-12T09:00:05+02:00",
-          "source": "Le Monde Planète",
+          "title": "It’s been one year since Australia assessed its national climate risk. But have we listened?",
+          "link": "https://theconversation.com/its-been-one-year-since-australia-assessed-its-national-climate-risk-but-have-we-listened-291364",
+          "published": "2026-09-14T20:11:27+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Une attaque très meurtrière dans un pâturage de la Drôme, le 30 août, a été imputée au loup par l’Office français de la biodiversité. Un avis que des",
-          "image": "https://img.lemde.fr/2026/09/11/540/0/6476/3238/644/322/60/0/c800773_upload-1-m7a12vwoeg6t-rea9226386.jpg",
+          "language": "en",
+          "summary": "Over the past 12 months, the federal government has approved multiple fossil fuel projects and cut climate science funding.",
+          "image": null,
           "other_news": true
         },
         {
-          "title": "Vert recrute : journaliste politique/écologie en CDD",
-          "link": "https://vert.eco/vert-vous-parle/vert-recrute-journaliste-politique-ecologie-en-cdd/",
-          "published": "2026-09-08T15:50:51+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Unsustainable – or manageable? We don’t yet know how data centres will impact Australia’s environment",
+          "link": "https://theconversation.com/unsustainable-or-manageable-we-dont-yet-know-how-data-centres-will-impact-australias-environment-290423",
+          "published": "2026-09-14T20:10:37+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Vert recrute un·e journaliste politique/écologie en contrat à durée déterminée d’octobre 2026 à juillet 2027 pour couvrir la campagne présidentielle e",
+          "language": "en",
+          "summary": "The data centre boom will mean more energy and water use. The real question is how the energy is produced – and where the water comes from.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Five years into AUKUS, what do we have to show for it? We’ve measured progress on three key metrics",
+          "link": "https://theconversation.com/five-years-into-aukus-what-do-we-have-to-show-for-it-weve-measured-progress-on-three-key-metrics-289885",
+          "published": "2026-09-14T20:10:19+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Though reliably measuring progress is difficult, it would be disingenuous to say Australia has nothing to show for its investments to date.",
           "image": null,
           "other_news": true
         },
@@ -1605,17 +1671,6 @@
           "type": "news",
           "language": "en",
           "summary": "School choice heavily influences immigrant students’ experiences in Charleston schools and can leave them in segregated academic environments, new fin",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "AI is supercharging money scams – here’s what you can do to protect yourself",
-          "link": "https://theconversation.com/ai-is-supercharging-money-scams-heres-what-you-can-do-to-protect-yourself-291326",
-          "published": "2026-09-14T12:38:15+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Good habits by consumers can stymie scams, but  US regulations have fallen behind the technology.",
           "image": null,
           "other_news": true
         },

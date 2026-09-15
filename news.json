@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T12:43:02.965659+00:00",
+  "generated_at": "2026-09-15T16:59:02.867270+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -46,17 +46,6 @@
           "type": "news",
           "language": "en",
           "summary": "Africa and the EU are leading a push for COP31 to deliver a roadmap that lays out measures to protect fast-warming oceans\nThe post As marine heat brea",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Africa’s air travel is reliant on distant hubs: why it’s time to fix this",
-          "link": "https://theconversation.com/africas-air-travel-is-reliant-on-distant-hubs-why-its-time-to-fix-this-288049",
-          "published": "2026-09-14T13:55:38+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The war against Iran has exposed Africa’s dependence on external transit hubs for international and even intra-African connectivity.",
           "image": null,
           "other_news": false
         }
@@ -406,6 +395,17 @@
       ],
       "Other Marine News": [
         {
+          "title": "The love of her life died at sea hunting shipwrecks. Now she’s taking the helm",
+          "link": "https://www.theguardian.com/environment/ng-interactive/2026/sep/15/shipwreck-diver-jennifer-sellitti",
+          "published": "2026-09-15T13:00:43+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "After Jennifer Sellitti lost her partner Joe Mazraani, she thought everything was over. Then she inherited his shipAfter Joe died, Jennifer Sellitti f",
+          "image": "https://i.guim.co.uk/img/media/5b837af8f978c3ac3a27d23196ed8a0f85e3d363/103_81_2795_2235/master/2795.jpg?width=140&quality=85&auto=format&fit=max&s=b73a122587d3877c8dc271f56ddc9aa4",
+          "other_news": false
+        },
+        {
           "title": "Could this humble sea sponge clean up the world’s ports?",
           "link": "https://www.theguardian.com/environment/2026/sep/01/sea-chicken-liver-sponge-filter-pollutants-harbour-spain-costa-brava",
           "published": "2026-09-01T08:00:48+00:00",
@@ -637,17 +637,6 @@
           "other_news": false
         },
         {
-          "title": "Ghana’s local architecture has adapted to change for centuries. It can teach us about climate resilience",
-          "link": "https://theconversation.com/ghanas-local-architecture-has-adapted-to-change-for-centuries-it-can-teach-us-about-climate-resilience-290552",
-          "published": "2026-09-14T13:55:00+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Modern styles of architecture can learn from traditional approaches to building.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Do Sea Turtles Get Lost?",
           "link": "https://oceanconservancy.org/blog/2026/08/27/do-sea-turtles-get-lost/",
           "published": "2026-08-27T15:58:38+00:00",
@@ -671,7 +660,21 @@
         }
       ]
     },
-    "To Watch / Read / Listen": {},
+    "To Watch / Read / Listen": {
+      "Species Migration & Habitat Change": [
+        {
+          "title": "Thousands of sea turtles reach Mexico in yearly migration threatened by climate crisis – video",
+          "link": "https://www.theguardian.com/environment/video/2026/sep/15/thousands-of-sea-turtles-reach-mexico-in-yearly-migration-threatened-by-climate-crisis-video",
+          "published": "2026-09-15T15:39:26+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "More than 330,000 sea turtles arrived in southern Mexico in a mass nesting phenomenon known as an ‘arribada’.The sixth arribada of the season, which b",
+          "image": "https://i.guim.co.uk/img/media/cc1bd4fa09ba7f5f49796f92c877ad5d1be2c16b/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=7ac95c323557914761449c0efb74dbea",
+          "other_news": false
+        }
+      ]
+    },
     "Other News": {
       "Plastic & Ocean Pollution": [
         {
@@ -694,6 +697,17 @@
           "language": "en",
           "summary": "Hot weather accelerates toxic algal blooms, but nutrient pollution provides the fuel.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Pesticides dans l'eau : le gouvernement cède aux pressions de l'agro-industrie",
+          "link": "https://reporterre.net/Pesticides-dans-l-eau-le-gouvernement-cede-aux-pressions-de-l-agro-industrie",
+          "published": "2026-09-15T13:55:47+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le gouvernement veut réduire drastiquement le nombre de captages d'eau considérés comme prioritaires face aux pollutions agricol",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/water-road-glass-cup-drink-sink-1186781-pxhere.com_resized-aca60.jpg?1789480557",
           "other_news": true
         },
         {
@@ -727,6 +741,17 @@
           "language": "fr",
           "summary": "Une étude du Laboratoire sur les inégalités mondiales suggère que la pollution de l’air peut expliquer jusqu’à 25 % de l’écart de réussite aux examens",
           "image": "https://img.lemde.fr/2026/09/14/675/0/8104/4052/644/322/60/0/6a4a690_upload-1-85pcggd34f9g-000-36tv9a8.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Dhaka’s waste-to-energy project faces opposition from pollution-weary residents",
+          "link": "https://news.mongabay.com/2026/09/dhakas-waste-to-energy-project-faces-opposition-from-pollution-weary-residents/",
+          "published": "2026-09-15T16:30:44+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "At years old, Yeasmin Begum has lived near the Amin Bazar landfill on the outskirts of Dhaka her whole life. She says the stench often triggers allerg",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/15152846/Aminbazar-landfill-Photo-07-1-768x512.jpg",
           "other_news": true
         }
       ],
@@ -765,19 +790,6 @@
           "other_news": true
         }
       ],
-      "Nature-Based Solutions & Restoration": [
-        {
-          "title": "Planting trees in the wrong places is not a climate solution",
-          "link": "https://theconversation.com/planting-trees-in-the-wrong-places-is-not-a-climate-solution-290796",
-          "published": "2026-09-14T17:50:05+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Global tree-planting campaigns can harm natural drylands. Effective climate restoration must work within dryland ecosystems, not seek to replace them.",
-          "image": null,
-          "other_news": true
-        }
-      ],
       "Species Migration & Habitat Change": [
         {
           "title": "Decline of migratory birds spurs calls for coordinated conservation",
@@ -804,6 +816,17 @@
           "other_news": true
         },
         {
+          "title": "How war and sanctions are reshaping how Russia governs its vast territory",
+          "link": "https://theconversation.com/how-war-and-sanctions-are-reshaping-how-russia-governs-its-vast-territory-290987",
+          "published": "2026-09-15T15:33:37+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Support settlements are now at the forefront of Russian federal spatial policy and they tell us a lot about how the land lies in Russia today.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "How does unthinkable policy become inevitable? The ‘Overton window’ is one possible answer",
           "link": "https://theconversation.com/how-does-unthinkable-policy-become-inevitable-the-overton-window-is-one-possible-answer-289033",
           "published": "2026-09-15T03:40:09+00:00",
@@ -825,28 +848,6 @@
           "language": "en",
           "summary": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9e/live/16cf4830-b0ad-11f1-9c5d-0dd6cc52f198.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Was this summer the moment climate change felt real for the first time?",
-          "link": "https://www.bbc.co.uk/news/articles/c0lrk5lx96po?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-14T05:22:40+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "This summer has seen hot weather records broken, drought and major damage from fires.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3a5/live/12ed2440-adf5-11f1-ad53-0d91a06f3150.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Manx space group urges election candidates to back treaty",
-          "link": "https://www.bbc.co.uk/news/articles/cwyzgx1k5n7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-05T06:07:29+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Isle of Man Mars Society is urging politicians to sign an international space exploration agreement.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f53/live/a4381b30-a84b-11f1-80f8-c33181935c5a.jpg",
           "other_news": true
         },
         {
@@ -1422,8 +1423,30 @@
           "other_news": true
         },
         {
-          "title": "« Ce n'est pas qu'une catastrophe naturelle » : au Népal, la jeunesse veut faire du climat une question politique",
-          "link": "https://reporterre.net/Ce-n-est-pas-qu-une-catastrophe-naturelle-au-Nepal-la-jeunesse-veut-faire-du-climat-une",
+          "title": "« Une vaste fumisterie démocratique » : les opposants à l'enfouissement des déchets nucléaires dénoncent une procédure à marche forcée",
+          "link": "https://reporterre.net/Dechets-nucleaires-malgre-le-feu-vert-au-projet-Cigeo-la-lutte-ne-fait-que-commencer",
+          "published": "2026-09-15T15:15:02+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Malgré l'avis favorable de la commission d'enquête sur le projet d'enfouissement de déchets radioactifs Cigéo, Juliette Geoffroy",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250920__768g2nq__v1__highres__odh61_resized-72206.jpg?1789485303",
+          "other_news": true
+        },
+        {
+          "title": "Une mairie RN prive France Nature Environnement Vaucluse de local",
+          "link": "https://reporterre.net/Une-mairie-RN-prive-France-Nature-Environnement-Vaucluse-de-local",
+          "published": "2026-09-15T13:38:31+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "France Nature Environnement Vaucluse (FNE 84) se retrouve sans local. La nouvelle municipalité de Carpentras (Rassemblement nati",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20230217__339g2g3__v1__highres__franceagriculturedemo_1_-19f6a.jpg?1789479513",
+          "other_news": true
+        },
+        {
+          "title": "Après la crue dévastatrice, la jeunesse du Népal réclame la justice climatique contre les « grands pays émetteurs »",
+          "link": "https://reporterre.net/Au-Nepal-la-jeunesse-reclame-la-justice-climatique",
           "published": "2026-09-15T12:11:21+00:00",
           "source": "Reporterre",
           "type": "news",
@@ -1433,7 +1456,7 @@
           "other_news": true
         },
         {
-          "title": "Chez Xavier Bertrand, coup d'arrêt sur l'éolien : les écologistes « pris en étau »",
+          "title": "Coup d'arrêt sur l'éolien chez Xavier Bertrand : les écologistes partagés",
           "link": "https://reporterre.net/Un-signal-pour-dire-stop-les-Hauts-de-France-reaffirment-leur-hostilite-a-l-eolien",
           "published": "2026-09-15T04:00:00+00:00",
           "source": "Reporterre",
@@ -1543,17 +1566,6 @@
           "other_news": true
         },
         {
-          "title": "100 000 morts par an : les fumées des mégafeux menacent la santé mondiale",
-          "link": "https://reporterre.net/100-000-morts-par-an-les-fumees-des-megafeux-menacent-la-sante-mondiale",
-          "published": "2026-09-07T13:29:11+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Selon le dernier bulletin sur la qualité de l'air et le climat de l'Organisation météorologique mondiale (OMM), les mégafeux — c",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/pixnio-2100x1576_1_1_-6c35c.jpg?1788787754",
-          "other_news": true
-        },
-        {
           "title": "Les Etats-Unis annoncent depuis le G20 l’abrogation de limites d’émissions polluantes imposées aux centrales électriques",
           "link": "https://www.lemonde.fr/planete/video/2026/09/15/les-etats-unis-annoncent-au-g20-l-abrogation-de-limites-d-emissions-polluantes-imposees-aux-centrales-electriques_6774360_3244.html",
           "published": "2026-09-15T10:58:14+02:00",
@@ -1638,28 +1650,6 @@
           "type": "news",
           "language": "en",
           "summary": "Over the past 12 months, the federal government has approved multiple fossil fuel projects and cut climate science funding.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Unsustainable – or manageable? We don’t yet know how data centres will impact Australia’s environment",
-          "link": "https://theconversation.com/unsustainable-or-manageable-we-dont-yet-know-how-data-centres-will-impact-australias-environment-290423",
-          "published": "2026-09-14T20:10:37+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The data centre boom will mean more energy and water use. The real question is how the energy is produced – and where the water comes from.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Five years into AUKUS, what do we have to show for it? We’ve measured progress on three key metrics",
-          "link": "https://theconversation.com/five-years-into-aukus-what-do-we-have-to-show-for-it-weve-measured-progress-on-three-key-metrics-289885",
-          "published": "2026-09-14T20:10:19+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Though reliably measuring progress is difficult, it would be disingenuous to say Australia has nothing to show for its investments to date.",
           "image": null,
           "other_news": true
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:59:02.867270+00:00",
+  "generated_at": "2026-09-15T17:41:12.844001+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -957,6 +957,17 @@
           "type": "news",
           "language": "fr",
           "summary": "En 2026, seuls 4&nbsp;% des articles de presse écrite et des sujets audiovisuels concernaient l’environnement. Une proportion montée à 10&nbsp;% au co",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Plans to artificially dim the sun have divided scientists – here’s what they’re actually arguing about",
+          "link": "https://theconversation.com/plans-to-artificially-dim-the-sun-have-divided-scientists-heres-what-theyre-actually-arguing-about-291316",
+          "published": "2026-09-15T15:03:36+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Solar geoengineering experiments are being funded, but researchers disagree over what they can tell us – and whether they should happen at all.",
           "image": null,
           "other_news": true
         },

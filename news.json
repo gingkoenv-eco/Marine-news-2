@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:01:02.635298+00:00",
+  "generated_at": "2026-09-15T11:45:26.089932+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -30,7 +30,7 @@
         {
           "title": "UK could 'unlock' 100 more oil and gas projects, say North Sea bosses",
           "link": "https://www.bbc.co.uk/news/articles/c65ym93p73xmo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-14T21:59:02+00:00",
+          "published": "2026-09-15T06:45:12+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -266,17 +266,6 @@
           "other_news": false
         },
         {
-          "title": "Underwater meadows ‘lifeline’ for millions in poverty, study finds",
-          "link": "https://oceanographicmagazine.com/news/underwater-meadows-lifeline-for-millions-in-poverty-study-finds/",
-          "published": "2026-09-04T09:11:44+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "At least 18 million people living in extreme poverty across the Indo-Pacific rely on seagrass meadows to fish with the habitat acting as a safety net",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "The Annual Migration to Clean Up Our Coasts",
           "link": "https://oceanconservancy.org/blog/2026/09/04/clean-up-our-coasts/",
           "published": "2026-09-04T14:18:13+00:00",
@@ -341,17 +330,6 @@
           "summary": "Nine dolphin species, and several more subspecies and local populations, are currently critically endangered or endangered, according to the most rece",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/07/08160916/a.-BANNER-GP0156K-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "‘Forgotten fauna’: Little known river sharks and rays face increased extinction risk",
-          "link": "https://news.mongabay.com/2026/09/forgotten-fauna-little-known-river-sharks-and-rays-face-increased-extinction-risk/",
-          "published": "2026-09-10T15:48:31+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Vashishti River, originating in the biodiversity-rich Western Ghats and flowing into the Arabian Sea along India’s western coast, has long support",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/10135017/BANNER-e-Xingu-River-Stingray-031-768x512.jpg",
-          "other_news": false
         }
       ],
       "Polar & Reef Ecosystems & Resilience": [
@@ -403,6 +381,17 @@
         }
       ],
       "Marine Protected Areas & Policy": [
+        {
+          "title": "95% of Scotland’s seas open to trawling… but things could change",
+          "link": "https://oceanographicmagazine.com/news/95-of-scotlands-seas-open-to-trawling-but-things-could-change/",
+          "published": "2026-09-15T11:10:56+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Scotland has opened a consultation on fisheries management for 76 MPAs and 90 proposed PMF areas, as campaigners note that 95% of its inshore seas rem",
+          "image": null,
+          "other_news": false
+        },
         {
           "title": "Italy faces legal action over bottom trawling in ‘paper park’ MPAs",
           "link": "https://oceanographicmagazine.com/news/italy-faces-legal-action-over-bottom-trawling-in-paper-park-mpas/",
@@ -461,6 +450,17 @@
           "other_news": false
         },
         {
+          "title": "Giant jellyfish with '40ft tentacles' captured on camera",
+          "link": "https://www.bbc.co.uk/news/articles/cvgynz9qz00o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-15T05:18:42+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Iestyn Morgan has set out to make Welsh aquatic life \"more accessible\" for people to see.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1bb/live/84fac5b0-b052-11f1-89e4-0bbff5cb7e23.jpg",
+          "other_news": false
+        },
+        {
           "title": "Mass nesting brings swarms of turtles to Mexican beach",
           "link": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-15T01:08:55+00:00",
@@ -468,18 +468,7 @@
           "type": "news",
           "language": "en",
           "summary": "Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2069/live/6f3c6140-b0a0-11f1-9e7d-cb2f675dfcb0.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Giant jellyfish with '40ft tentacles' captured on camera off coast",
-          "link": "https://www.bbc.co.uk/news/articles/cvgynz9qz00o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-14T22:03:17+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Iestyn Morgan has set out to make Welsh aquatic life \"more accessible\" for people to see.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1bb/live/84fac5b0-b052-11f1-89e4-0bbff5cb7e23.jpg",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b84a/live/65e24f60-b0dc-11f1-bc1f-3f186ca4140c.jpg",
           "other_news": false
         },
         {
@@ -604,6 +593,17 @@
           "other_news": false
         },
         {
+          "title": "Prix des carburants : le dépôt pétrolier de Fos-sur-Mer de nouveau accessible, après un blocage des pêcheurs",
+          "link": "https://www.lemonde.fr/societe/article/2026/09/15/prix-des-carburants-des-pecheurs-bloquent-l-acces-a-un-depot-petrolier-de-fos-sur-mer_6774346_3224.html",
+          "published": "2026-09-15T09:03:38+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les comités régionaux des pêches du sud de la France, les organisations de producteurs de Méditerranée et des syndicats de la profession ont lancé lun",
+          "image": "https://img.lemde.fr/2026/09/15/295/0/6000/3000/644/322/60/0/4994ab0_ftp-1-jbdx9ob1wzjk-5094433-01-06.jpg",
+          "other_news": false
+        },
+        {
           "title": "«Le climat est devenu une épée de Damoclès» : après un été catastrophique, cet agriculteur du Poitou jette l’éponge",
           "link": "https://vert.eco/agriculture/le-climat-est-devenu-une-epee-de-damocles-apres-un-ete-catastrophique-cet-agriculteur-du-poitou-jette-leponge/",
           "published": "2026-09-15T04:00:00+00:00",
@@ -648,17 +648,6 @@
           "other_news": false
         },
         {
-          "title": "Houthi rebels’ control of Red Sea oil chokepoint exposes deep divisions in Brics",
-          "link": "https://theconversation.com/houthi-rebels-control-of-red-sea-oil-chokepoint-exposes-deep-divisions-in-brics-291576",
-          "published": "2026-09-14T12:54:46+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Rapid expansion of the bloc means that its 21 members have deeply divergent interests, particularly in the Middle East.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Do Sea Turtles Get Lost?",
           "link": "https://oceanconservancy.org/blog/2026/08/27/do-sea-turtles-get-lost/",
           "published": "2026-08-27T15:58:38+00:00",
@@ -678,17 +667,6 @@
           "language": "en",
           "summary": "Storytelling is one of our oldest human behaviors. Across every culture and continent, people have used stories to share values, pass down knowledge a",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Offshore wind may be good for the climate but can it be good for the ocean, too?",
-          "link": "https://news.mongabay.com/2026/09/offshore-wind-may-be-good-for-the-climate-but-can-it-be-good-for-the-ocean-too/",
-          "published": "2026-09-10T16:38:53+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "This is Part Three in a Mongabay series about trends in the offshore wind industry. Part One describes the sector’s untapped potential and gaps betwee",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/08151406/1-Greater-Gabbard-offshore-wind-farm-768x512.jpg",
           "other_news": false
         }
       ]
@@ -743,7 +721,7 @@
         {
           "title": "La pollution de l’air contribuerait à creuser les inégalités scolaires",
           "link": "https://www.lemonde.fr/planete/article/2026/09/15/la-pollution-de-l-air-contribuerait-a-creuser-les-inegalites-scolaires_6773950_3244.html",
-          "published": "2026-09-15T00:01:09+02:00",
+          "published": "2026-09-15T00:01:05+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -993,6 +971,17 @@
           "other_news": true
         },
         {
+          "title": "Europe’s e-waste is a valuable resource – let’s not throw it away",
+          "link": "https://theconversation.com/europes-e-waste-is-a-valuable-resource-lets-not-throw-it-away-290453",
+          "published": "2026-09-15T09:54:38+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Europe is not facing a scarcity problem but a recovery challenge, and one that can be solved.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "How to build climate-resilient transport systems",
           "link": "https://theconversation.com/how-to-build-climate-resilient-transport-systems-290089",
           "published": "2026-09-14T09:25:43+00:00",
@@ -1055,17 +1044,6 @@
           "type": "news",
           "language": "en",
           "summary": "Fighting drought and combating desertification are climate obligations.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Nepal-Tibet disaster linked to climate change – a glaciologist explains",
-          "link": "https://theconversation.com/nepal-tibet-disaster-linked-to-climate-change-a-glaciologist-explains-290656",
-          "published": "2026-08-28T11:35:56+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Glacier melt is partly responsible for the disaster along the border with Tibet and Nepal. An expert explains why this is a growing issue for the worl",
           "image": null,
           "other_news": true
         },
@@ -1231,6 +1209,17 @@
           "type": "news",
           "language": "en",
           "summary": "Every six to seven years, climate modelling groups around the world run a coordinated set of simulations that explore how&#8230;\nThe post Explainer: T",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "International trade linked to 20% of global emissions – but imports ignored",
+          "link": "https://www.climatechangenews.com/2026/09/15/international-trade-global-emissions-study-europe-china-us-imports/",
+          "published": "2026-09-15T08:19:17+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Researchers say governments should discuss how to tackle emissions linked to globally traded goods and services, especially in large importing countri",
           "image": null,
           "other_news": true
         },
@@ -1444,7 +1433,7 @@
           "other_news": true
         },
         {
-          "title": "« Un signal pour dire stop » : les Hauts-de-France réaffirment leur hostilité à l'éolien terrestre",
+          "title": "Chez Xavier Bertrand, coup d'arrêt sur l'éolien : les écologistes « pris en étau »",
           "link": "https://reporterre.net/Un-signal-pour-dire-stop-les-Hauts-de-France-reaffirment-leur-hostilite-a-l-eolien",
           "published": "2026-09-15T04:00:00+00:00",
           "source": "Reporterre",
@@ -1456,7 +1445,7 @@
         },
         {
           "title": "« Une guerre culturelle » : des livres censurés et des cours sur le climat menacés aux États-Unis",
-          "link": "https://reporterre.net/Manuels-censures-cours-menaces-l-enseignement-du-climat-en-peril-sous-Trump",
+          "link": "https://reporterre.net/Une-guerre-culturelle-des-livres-censures-et-des-cours-sur-le-climat-menaces-aux-Etats",
           "published": "2026-09-14T06:36:54+00:00",
           "source": "Reporterre",
           "type": "news",
@@ -1565,9 +1554,20 @@
           "other_news": true
         },
         {
-          "title": "Climat : après un été de canicules et de sécheresse sans précédent, les militants écologistes espèrent remobiliser",
+          "title": "Les Etats-Unis annoncent depuis le G20 l’abrogation de limites d’émissions polluantes imposées aux centrales électriques",
+          "link": "https://www.lemonde.fr/planete/video/2026/09/15/les-etats-unis-annoncent-au-g20-l-abrogation-de-limites-d-emissions-polluantes-imposees-aux-centrales-electriques_6774360_3244.html",
+          "published": "2026-09-15T10:58:14+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La décision de l’administration Trump va à l’encontre des recommandations pour lutter contre le changement climatique et suscite l’inquiétude des expe",
+          "image": "https://img.lemde.fr/2026/09/14/688/0/8256/4128/644/322/60/0/1673d96_ftp-1-vu3sixpbdq7r-5089833-01-06.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Après un été de canicules et de sécheresse sans précédent, les militants écologistes veulent relancer le mouvement pour le climat",
           "link": "https://www.lemonde.fr/planete/article/2026/09/15/climat-apres-un-ete-de-canicules-et-de-secheresse-sans-precedent-les-militants-ecologistes-esperent-remobiliser_6774283_3244.html",
-          "published": "2026-09-15T05:00:12+02:00",
+          "published": "2026-09-15T05:00:09+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1578,11 +1578,11 @@
         {
           "title": "La fusée Vega-C s’envole de Kourou avec deux satellites européens",
           "link": "https://www.lemonde.fr/sciences/article/2026/09/15/la-fusee-vega-c-s-envole-de-kourou-avec-deux-satellites-europeens_6774250_1650684.html",
-          "published": "2026-09-15T04:42:11+02:00",
+          "published": "2026-09-15T04:42:08+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Opéré par l’italien Avio, ce vol a pour mission de placer deux satellites visant à surveiller le climat et la santé des plantes depuis l’espace.",
+          "summary": "Opéré par l’italien Avio, ce vol a pour mission de les mettre en orbite pour surveiller le climat et la santé des plantes depuis l’espace.",
           "image": "https://img.lemde.fr/2026/09/15/205/0/4892/2446/644/322/60/0/8fb37d5_ftp-1-rghi06xbobq1-5092485-01-06.jpg",
           "other_news": true
         },
@@ -1593,7 +1593,7 @@
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "La décision de l’administration Trump va à l’encontre des recommandations dans la lutte contre le changement climatique, et suscite l’inquiétude des e",
+          "summary": "La décision de l’administration Trump va à l’encontre des recommandations pour lutter contre le changement climatique et suscite l’inquiétude des expe",
           "image": "https://img.lemde.fr/2026/08/24/1440/0/8640/4320/644/322/60/0/897e825_ftp-1-tcbxqioz5iz5-3c0a8f69e0074ebb97ebe4af4330729b-2-734797f230b345a7b972301c636ec9b0.jpg",
           "other_news": true
         },
@@ -1609,25 +1609,36 @@
           "other_news": true
         },
         {
-          "title": "Pourquoi la capacité d’absorption de carbone des forêts françaises diminue, alors que leur surface augmente ?",
-          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/13/pourquoi-la-capacite-d-absorption-de-carbone-des-forets-francaises-diminue-alors-que-leur-surface-augmente_6772194_4355770.html",
-          "published": "2026-09-13T06:15:06+02:00",
-          "source": "Le Monde Planète",
+          "title": "«Ce rassemblement est inédit» : pompiers, infirmiers et associations écolos marchent ensemble pour le climat",
+          "link": "https://vert.eco/rapports-de-force/ce-rassemblement-est-inedit-pompiers-infirmiers-et-associations-ecolos-marchent-ensemble-pour-le-climat/",
+          "published": "2026-09-15T10:01:11+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "EN GRAPHIQUES | Planter des arbres : une bonne solution pour lutter contre le réchauffement climatique. Mais eux aussi dépérissent et, dans le même te",
-          "image": "https://img.lemde.fr/2026/09/04/1100/0/8256/4128/644/322/60/0/a30d931_upload-1-zvbjejfgtmrp-foretexper-45.jpg",
+          "summary": "Ce mardi soir, une grande coalition d’associations environnementales, de collectifs, syndicats et citoyen·nes se rassemble devant le ministère de l’éc",
+          "image": null,
           "other_news": true
         },
         {
-          "title": "En Ethiopie, le changement climatique pousse les éleveurs pastoraux à se convertir à l’agriculture vivrière : « C’est loin d’être une solution miracle »",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/13/en-ethiopie-le-changement-climatique-pousse-les-eleveurs-pastoraux-a-se-convertir-a-l-agriculture-vivriere-c-est-loin-d-etre-une-solution-miracle_6772185_3244.html",
-          "published": "2026-09-13T05:45:09+02:00",
-          "source": "Le Monde Planète",
+          "title": "Vert recrute : journaliste politique en CDD sur l’extrême droite et l’écologie",
+          "link": "https://vert.eco/vert-vous-parle/vert-recrute-journaliste-politique-en-cdd-sur-lextreme-droite-et-lecologie/",
+          "published": "2026-09-15T08:17:15+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Dans le sud-est du pays, les épisodes de sécheresse, toujours plus intenses, menacent l’existence des pasteurs nomades. Certains ont choisi de se séde",
-          "image": "https://img.lemde.fr/2026/09/11/504/0/4032/2016/644/322/60/0/6623700_upload-1-jl4ayf04a6tz-ferdusa1.jpg",
+          "summary": "Vert recrute un·e journaliste sur l’extrême droite et l’écologie en contrat à durée déterminée d’octobre 2026 à juillet 2027 pour couvrir la campagne",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "More than 2 million Indigenous people lived in Australia in 1788: new research",
+          "link": "https://theconversation.com/more-than-2-million-indigenous-people-lived-in-australia-in-1788-new-research-291278",
+          "published": "2026-09-15T09:00:49+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Genetic, archaeological and environmental evidence suggest the Indigenous population fell by more than 90% In the 70 years after the British invaded.",
+          "image": null,
           "other_news": true
         },
         {
@@ -1664,14 +1675,14 @@
           "other_news": true
         },
         {
-          "title": "School choice proponents say it offers families more options – but those don’t always extend to immigrant students",
-          "link": "https://theconversation.com/school-choice-proponents-say-it-offers-families-more-options-but-those-dont-always-extend-to-immigrant-students-289117",
-          "published": "2026-09-14T12:41:48+00:00",
-          "source": "The Conversation",
+          "title": "10 promising ways to ‘green’ offshore wind",
+          "link": "https://news.mongabay.com/2026/09/10-promising-ways-to-green-offshore-wind/",
+          "published": "2026-09-15T09:00:34+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "School choice heavily influences immigrant students’ experiences in Charleston schools and can leave them in segregated academic environments, new fin",
-          "image": null,
+          "summary": "Read the stories in Mongabay&#8217;s series on offshore wind energy: Part One, Part Two and Part Three. Offshore wind has enormous potential as a sour",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/14162042/Image_1_Offshore_wind_farms_photographed_at_the_Port_of_Noshiro_at_sunset_20220728-768x512.jpg",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:38:10.560571+00:00",
+  "generated_at": "2026-09-16T16:55:05.472476+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
@@ -123,6 +123,28 @@
           "other_news": false
         },
         {
+          "title": "Sac, botte... Du plastique retrouvé à près de 4 000 m de profondeur",
+          "link": "https://reporterre.net/Sac-botte-Du-plastique-retrouve-a-pres-de-4-000-m-de-profondeur",
+          "published": "2026-09-16T16:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Même l'océan profond n'échappe pas à la pollution plastique. Dans une étude publiée le 16 septembre dans la revue scientifique P",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/journal.pone.0357098_g002-a629e.png?1789574402",
+          "other_news": false
+        },
+        {
+          "title": "Sacred springs of South Africa: pure waters or polluted? We found tiny bits of plastic in the samples we tested",
+          "link": "https://theconversation.com/sacred-springs-of-south-africa-pure-waters-or-polluted-we-found-tiny-bits-of-plastic-in-the-samples-we-tested-290268",
+          "published": "2026-09-16T13:30:36+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Even South Africa’s remote sacred springs are not untouched: research found microplastics in all nine tested, including waters used for healing and dr",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Fishers bear deep costs of plastic pollution in Vietnam, but could help turn the tide",
           "link": "https://news.mongabay.com/2026/09/fishers-bear-deep-costs-of-plastic-pollution-in-vietnam-but-could-help-turn-the-tide/",
           "published": "2026-09-16T08:40:27+00:00",
@@ -224,6 +246,61 @@
           "other_news": false
         },
         {
+          "title": "Do whales grieve? Rare humpback observation offers first clue",
+          "link": "https://oceanographicmagazine.com/news/do-whales-grieve-rare-humpback-observation-offers-first-clue/",
+          "published": "2026-09-16T14:41:46+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Griffith University and Sea World Foundation researchers document a humpback whale mother's prolonged attendance to her deceased calf off the Gold Coa",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Mapping shark migration will be key to their survival, says study",
+          "link": "https://oceanographicmagazine.com/news/mapping-shark-migration-will-be-key-to-their-survival-says-study/",
+          "published": "2026-09-16T11:56:20+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "New University of Queensland research maps migratory pathways of Australian sharks and rays for the first time, revealing significant data gaps and th",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Culling coral-killing starfish generates $20 million for Queensland",
+          "link": "https://oceanographicmagazine.com/news/culling-coral-killing-starfish-generates-20-million-for-queensland/",
+          "published": "2026-09-14T13:47:32+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A $5.5 million program culling coral-killing crown-of-thorns starfish in Far North Queensland generated $20 million in economic output and 61 local jo",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Native oysters make encouraging comeback on restored North Sea reef",
+          "link": "https://oceanographicmagazine.com/news/native-oysters-make-encouraging-comeback-on-restored-north-sea-reef/",
+          "published": "2026-09-14T12:22:16+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The majority of adult and juvenile oysters were found to be alive and in healthy condition, providing habitats for fish, shrimp and squat lobsters\nThe",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "“We’re rebuilding”: Four nights to shape future of Florida’s reef",
+          "link": "https://oceanographicmagazine.com/news/were-rebuilding-four-nights-to-shape-future-of-floridas-reef/",
+          "published": "2026-09-08T17:34:20+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Florida conservationists captured elkhorn coral's annual spawning to fertilise and raise juvenile corals for reef restoration, as new global data reve",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "The Annual Migration to Clean Up Our Coasts",
           "link": "https://oceanconservancy.org/blog/2026/09/04/clean-up-our-coasts/",
           "published": "2026-09-04T14:18:13+00:00",
@@ -290,6 +367,19 @@
           "other_news": false
         }
       ],
+      "Sustainable Fisheries": [
+        {
+          "title": "Ministers accused of ‘choosing’ to run down Britain’s fish stocks",
+          "link": "https://oceanographicmagazine.com/news/ministers-accused-of-choosing-to-run-down-britains-fish-stocks/",
+          "published": "2026-09-16T15:25:59+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "More than 40% of UK fish stocks have declined in the last ten years, with a new report claiming most catch quotas are still being set above scientific",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Polar & Reef Ecosystems & Resilience": [
         {
           "title": "World’s oceans hit hottest temperature on record in August",
@@ -346,6 +436,30 @@
           "language": "en",
           "summary": "Several years of severe drought are forcing people to leave their homes in Angola to search for water and food in neighboring Namibia. “There is real",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/11195335/IMG_0532-1-1-768x512.jpg",
+          "other_news": false
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "95% of Scotland’s seas open to trawling… but things could change",
+          "link": "https://oceanographicmagazine.com/news/95-of-scotlands-seas-open-to-trawling-but-things-could-change/",
+          "published": "2026-09-15T11:10:56+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Scotland has opened a consultation on fisheries management for 76 MPAs and 90 proposed PMF areas, as campaigners note that 95% of its inshore seas rem",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Italy faces legal action over bottom trawling in ‘paper park’ MPAs",
+          "link": "https://oceanographicmagazine.com/news/italy-faces-legal-action-over-bottom-trawling-in-paper-park-mpas/",
+          "published": "2026-09-09T08:23:45+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "ClientEarth and Legambiente - with the support of Blue Marine Foundation - have launched the latest in a series of legal actions targeting ineffective",
+          "image": null,
           "other_news": false
         }
       ],
@@ -516,6 +630,28 @@
           "other_news": false
         },
         {
+          "title": "Canards maltraités : Carrefour épinglé par L214",
+          "link": "https://reporterre.net/Canards-maltraites-Carrefour-epingle-par-L214",
+          "published": "2026-09-16T14:10:39+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Des oiseaux aquatiques qui passent leur vie sans jamais piquer une tête dans un bassin. Voilà le sort qui est réservé aux 11 500",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/screenshot_2026-09-16_at_16-01-43_ni_mare_ni_ciel_ni_terre_pour_les_canards_de_carrefour_l214-2f215.jpg?1789567843",
+          "other_news": false
+        },
+        {
+          "title": "La Méditerranée se réchauffe 2 à 3 fois plus vite que la moyenne des océans",
+          "link": "https://reporterre.net/La-Mediterranee-se-rechauffe-2-a-3-fois-plus-vite-que-la-moyenne-des-oceans",
+          "published": "2026-09-16T13:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "La canicule marine qui a frappé la Méditerranée cet été, avec des températures frôlant localement 30 °C en juillet, n'était pas",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/cote-dazur-mer-mediterranee_1_1_-2cd52.jpg?1789563601",
+          "other_news": false
+        },
+        {
           "title": "Record de température : l'océan est en surchauffe depuis 100 jours",
           "link": "https://reporterre.net/Record-de-temperature-l-ocean-est-en-surchauffe-depuis-100-jours",
           "published": "2026-09-10T13:00:00+00:00",
@@ -535,6 +671,17 @@
           "language": "fr",
           "summary": "Estimant qu'il « est grand temps d'abolir les privilèges climatiques », la cheffe de file des Écologistes candidate à la préside",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/2026-09-03_cha_gonzalez-6162-59183.jpg?1788962403",
+          "other_news": false
+        },
+        {
+          "title": "Ocean Photographer of the Year 2026 winners announced",
+          "link": "https://oceanographicmagazine.com/news/ocean-photographer-of-the-year-winners-announced/",
+          "published": "2026-09-09T18:05:34+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The winners of the Ocean Photographer of the Year 2026, presented by Oceanographic and Blancpain, have been revealed. From the seabed to the surface,",
+          "image": null,
           "other_news": false
         },
         {
@@ -611,17 +758,6 @@
           "type": "news",
           "language": "en",
           "summary": "How does a dolphin or seal even get bird flu? Most likely through contact with sick birds – or eating their carcasses.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Iran’s threat to cut undersea cables in Strait of Hormuz poses a serious threat to Gulf states",
-          "link": "https://theconversation.com/irans-threat-to-cut-undersea-cables-in-strait-of-hormuz-poses-a-serious-threat-to-gulf-states-291618",
-          "published": "2026-09-15T11:25:16+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "On the Strait of Hormuz seabed are vital communication cables linking Gulf states with the rest of the world.",
           "image": null,
           "other_news": false
         },
@@ -724,17 +860,6 @@
           "other_news": true
         },
         {
-          "title": "La pollution de l’air contribuerait à creuser les inégalités scolaires",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/15/la-pollution-de-l-air-contribuerait-a-creuser-les-inegalites-scolaires_6773950_3244.html",
-          "published": "2026-09-15T00:01:05+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Une étude du Laboratoire sur les inégalités mondiales suggère que la pollution de l’air peut expliquer jusqu’à 25 % de l’écart de réussite aux examens",
-          "image": "https://img.lemde.fr/2026/09/14/675/0/8104/4052/644/322/60/0/6a4a690_upload-1-85pcggd34f9g-000-36tv9a8.jpg",
-          "other_news": true
-        },
-        {
           "title": "Dhaka’s waste-to-energy project faces opposition from pollution-weary residents",
           "link": "https://news.mongabay.com/2026/09/dhakas-waste-to-energy-project-faces-opposition-from-pollution-weary-residents/",
           "published": "2026-09-15T16:30:44+00:00",
@@ -792,6 +917,28 @@
           "type": "news",
           "language": "en",
           "summary": "A rift over how IPCC messages are produced and turned into policy is creating tensions in the world's most influential coalition of climate NGOs\nThe p",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "UK government’s new ‘class unit’ promises to tackle inequalities – but it’s a risky strategy",
+          "link": "https://theconversation.com/uk-governments-new-class-unit-promises-to-tackle-inequalities-but-its-a-risky-strategy-291939",
+          "published": "2026-09-16T14:14:04+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A new government class unit has been set up with a change of emphasis in policy.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How Canada’s immigration caps are trapping its own graduate students",
+          "link": "https://theconversation.com/how-canadas-immigration-caps-are-trapping-its-own-graduate-students-285032",
+          "published": "2026-09-16T13:56:20+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The federal government built an explicit “study-work-stay” pathway that it’s now unraveling through abrupt, poorly-sequenced policy changes.",
           "image": null,
           "other_news": true
         },
@@ -1139,6 +1286,17 @@
           "other_news": true
         },
         {
+          "title": "Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis",
+          "link": "https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis",
+          "published": "2026-09-16T13:34:02+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Global fossil-fuel emissions are set to fall by around 0.5% in 2026 amid the fallout from the Hormuz crisis, according&#8230;\nThe post Analysis: Globa",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "CCC: Heathrow expansion could push flights to ‘80% of UK emissions by 2050’",
           "link": "https://www.carbonbrief.org/ccc-heathrow-expansion-could-push-flights-to-80-of-uk-emissions-by-2050",
           "published": "2026-09-15T23:01:00+00:00",
@@ -1212,17 +1370,6 @@
           "type": "news",
           "language": "en",
           "summary": "China’s carbon dioxide (CO2) emissions fell by 1% in the second quarter of 2026, as oil consumption plummeted amid the&#8230;\nThe post Analysis: China",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Guest post: Why tough methane cuts are crucial for keeping warming ‘well-below’ 2C",
-          "link": "https://www.carbonbrief.org/guest-post-why-tough-methane-cuts-are-crucial-for-keeping-warming-well-below-2c",
-          "published": "2026-09-01T09:00:00+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Methane is a powerful greenhouse gas and the second-largest contributor to global warming after carbon dioxide (CO2). Methane traps heat&#8230;\nThe po",
           "image": null,
           "other_news": true
         },
@@ -1436,14 +1583,14 @@
           "other_news": true
         },
         {
-          "title": "“Dangerous consequences” – how AI’s climate framing lets Big Tech off the hook",
-          "link": "https://www.climatechangenews.com/2026/08/17/dangerous-consequences-how-ais-climate-framing-lets-big-tech-off-the-hook/",
-          "published": "2026-08-17T14:09:40+00:00",
-          "source": "Climate change news",
+          "title": "« Politique de la terre brûlée » : la feuille de route anti-écologique d'Ursula von der Leyen pour l'Europe",
+          "link": "https://reporterre.net/La-deregulation-avant-le-climat-la-feuille-de-route-anti-ecologique-d-Ursula-von-der",
+          "published": "2026-09-16T13:33:20+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Former Microsoft manager Holly Alpine explains why AI's climate danger isn't just data centres but also its unchecked use across the fossil fuel indus",
-          "image": null,
+          "language": "fr",
+          "summary": "Devant le Parlement européen, Ursula von der Leyen a défendu, mercredi 16 septembre, la trajectoire climatique de l'UE sans reno",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260916__c8fn4bw__v2__highres__franceeuparliamentpoliticsdiplomacy-63f7d.jpg?1789565605",
           "other_news": true
         },
         {
@@ -1568,39 +1715,6 @@
           "other_news": true
         },
         {
-          "title": "Interdiction de chasse : le grand tétras et le lagopède alpin désormais protégés",
-          "link": "https://reporterre.net/Interdiction-de-chasse-le-grand-tetras-et-le-lagopede-alpin-desormais-proteges",
-          "published": "2026-09-08T12:37:04+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "La Ligue pour la protection des oiseaux (LPO) salue une « excellente nouvelle » pour la biodiversité de montagne. Le lagopède al",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/rock_ptarmigan__lagopus_muta_1_-29cfa.jpg?1788871151",
-          "other_news": true
-        },
-        {
-          "title": "Insultes, jets d'œufs... FNE porte plainte contre la Coordination rurale",
-          "link": "https://reporterre.net/Insultes-jets-d-oeufs-FNE-porte-plainte-contre-la-Coordination-rurale",
-          "published": "2026-09-08T10:24:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "« J'ai dû représenter FNE dans des conditions anormales », fustige Anne Roques. La juriste de France Nature Environnement (FNE)",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/7-68-bd208.jpg?1788863041",
-          "other_news": true
-        },
-        {
-          "title": "Réparer son smartphone : trop de fabricants ne respectent pas la réglementation",
-          "link": "https://reporterre.net/Reparer-son-smartphone-trop-de-fabricants-ne-respectent-pas-la-reglementation",
-          "published": "2026-09-08T08:18:09+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Mon téléphone est-il résistant, facilement réparable et à quel prix ? En théorie, depuis le 20 juin 2025, tout consommateur de l",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/dimitri-karastelev-rcz4fwhnicw-unsplash_1_-6dc6d.jpg?1788855493",
-          "other_news": true
-        },
-        {
           "title": "Au moins 124 défenseurs de l’environnement ont été tués dans le monde en 2025",
           "link": "https://www.lemonde.fr/planete/article/2026/09/16/au-moins-124-defenseurs-de-l-environnement-ont-ete-tues-dans-le-monde-en-2025_6774746_3244.html",
           "published": "2026-09-16T05:00:05+02:00",
@@ -1653,6 +1767,17 @@
           "language": "fr",
           "summary": "La décision de l’administration Trump va à l’encontre des recommandations pour lutter contre le changement climatique et suscite l’inquiétude des expe",
           "image": "https://img.lemde.fr/2026/08/24/1440/0/8640/4320/644/322/60/0/897e825_ftp-1-tcbxqioz5iz5-3c0a8f69e0074ebb97ebe4af4330729b-2-734797f230b345a7b972301c636ec9b0.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Plus de 8 000 morts pendant les canicules : «C’est le résultat de réactions politiques trop lentes et d’un manque d’adaptation»",
+          "link": "https://vert.eco/climat/plus-de-8-000-morts-pendant-les-canicules-cest-le-resultat-de-reactions-politiques-trop-lentes-et-dun-manque-dadaptation/",
+          "published": "2026-09-16T15:14:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "De mai jusqu’à fin août, Santé publique France a mis en évidence une surmortalité de 8 124 décès pendant les épisodes de fortes chaleurs. Logement, pr",
+          "image": null,
           "other_news": true
         },
         {

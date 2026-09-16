@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T16:55:05.472476+00:00",
+  "generated_at": "2026-09-16T17:38:54.412138+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
@@ -297,6 +297,17 @@
           "type": "news",
           "language": "en",
           "summary": "Florida conservationists captured elkhorn coral's annual spawning to fertilise and raise juvenile corals for reef restoration, as new global data reve",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Climate change is making it easier for invasive species to succeed",
+          "link": "https://theconversation.com/climate-change-is-making-it-easier-for-invasive-species-to-succeed-288583",
+          "published": "2026-09-16T16:12:57+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "More common extreme weather events can create opportunities for invasive species to spread.",
           "image": null,
           "other_news": false
         },
@@ -849,17 +860,6 @@
           "other_news": true
         },
         {
-          "title": "Au Venezuela, l’agonie du plus grand lac d’Amérique du Sud, pollué par les hydrocarbures",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/15/au-venezuela-l-agonie-du-plus-grand-lac-d-amerique-du-sud-pollue-par-les-hydrocarbures_6774184_3244.html",
-          "published": "2026-09-15T03:30:11+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le lac de Maracaibo, berceau de l’industrie pétrolière du pays, subit une pollution « chronique » due aux marées noires et à l’inaction des autorités",
-          "image": "https://img.lemde.fr/2026/09/14/470/0/5500/2750/644/322/60/0/6534f27_upload-1-allxsaeicgzf-2026-02-06t133014z-2136491447-rc2a9ja9y1t2-rtrmadp-3-usa-venezuela-maracaibo-fishing.JPG",
-          "other_news": true
-        },
-        {
           "title": "Dhaka’s waste-to-energy project faces opposition from pollution-weary residents",
           "link": "https://news.mongabay.com/2026/09/dhakas-waste-to-energy-project-faces-opposition-from-pollution-weary-residents/",
           "published": "2026-09-15T16:30:44+00:00",
@@ -939,17 +939,6 @@
           "type": "news",
           "language": "en",
           "summary": "The federal government built an explicit “study-work-stay” pathway that it’s now unraveling through abrupt, poorly-sequenced policy changes.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "How war and sanctions are reshaping how Russia governs its vast territory",
-          "link": "https://theconversation.com/how-war-and-sanctions-are-reshaping-how-russia-governs-its-vast-territory-290987",
-          "published": "2026-09-15T15:33:37+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Support settlements are at the forefront of Russian spatial policy. What does the development of these administrative service hubs tell us about how t",
           "image": null,
           "other_news": true
         }
@@ -1737,39 +1726,6 @@
           "other_news": true
         },
         {
-          "title": "Après un été de canicules et de sécheresse sans précédent, les militants écologistes veulent relancer le mouvement pour le climat",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/15/climat-apres-un-ete-de-canicules-et-de-secheresse-sans-precedent-les-militants-ecologistes-esperent-remobiliser_6774283_3244.html",
-          "published": "2026-09-15T05:00:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Des ONG et des syndicats appellent à un rassemblement, mardi, devant le ministère de l’économie et des finances, pour demander des mesures d’urgence c",
-          "image": "https://img.lemde.fr/2026/09/14/201/0/5683/2841/644/322/60/0/3c61646_upload-1-4yggdf3mlbbh-000-77276py.jpg",
-          "other_news": true
-        },
-        {
-          "title": "La fusée Vega-C s’envole de Kourou avec deux satellites européens",
-          "link": "https://www.lemonde.fr/sciences/article/2026/09/15/la-fusee-vega-c-s-envole-de-kourou-avec-deux-satellites-europeens_6774250_1650684.html",
-          "published": "2026-09-15T04:42:08+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Opéré par l’italien Avio, ce vol a pour mission de les mettre en orbite pour surveiller le climat et la santé des plantes depuis l’espace.",
-          "image": "https://img.lemde.fr/2026/09/15/205/0/4892/2446/644/322/60/0/8fb37d5_ftp-1-rghi06xbobq1-5092485-01-06.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Les Etats-Unis mettent fin aux limites d’émissions polluantes imposées aux centrales électriques",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/15/les-etats-unis-mettent-fin-aux-limites-d-emissions-polluantes-imposees-aux-centrales-electriques_6773984_3244.html",
-          "published": "2026-09-15T00:16:07+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La décision de l’administration Trump va à l’encontre des recommandations pour lutter contre le changement climatique et suscite l’inquiétude des expe",
-          "image": "https://img.lemde.fr/2026/08/24/1440/0/8640/4320/644/322/60/0/897e825_ftp-1-tcbxqioz5iz5-3c0a8f69e0074ebb97ebe4af4330729b-2-734797f230b345a7b972301c636ec9b0.jpg",
-          "other_news": true
-        },
-        {
           "title": "Plus de 8 000 morts pendant les canicules : «C’est le résultat de réactions politiques trop lentes et d’un manque d’adaptation»",
           "link": "https://vert.eco/climat/plus-de-8-000-morts-pendant-les-canicules-cest-le-resultat-de-reactions-politiques-trop-lentes-et-dun-manque-dadaptation/",
           "published": "2026-09-16T15:14:00+00:00",
@@ -1799,6 +1755,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Vert recrute un·e journaliste sur l’extrême droite et l’écologie en contrat à durée déterminée d’octobre 2026 à juillet 2027 pour couvrir la campagne",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Could victory for the AfD spell the end of wind farms in Germany?",
+          "link": "https://theconversation.com/could-victory-for-the-afd-spell-the-end-of-wind-farms-in-germany-291815",
+          "published": "2026-09-16T16:03:52+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The AfD has put the fight against wind turbines at the core of its election strategy. Could a win in the eastern state of Saxony-Anhalt slow down Germ",
           "image": null,
           "other_news": true
         },

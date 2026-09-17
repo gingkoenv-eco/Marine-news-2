@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T12:37:30.317587+00:00",
+  "generated_at": "2026-09-17T17:00:02.214674+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
@@ -11,19 +11,6 @@
           "type": "news",
           "language": "en",
           "summary": "The government will be wedged between those who think the changes don’t go far enough and critics who believe they’re draconian.",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "Rapid Houthi advances in Yemen pose massive strategic risks for Saudi Arabia in the Gulf",
-          "link": "https://theconversation.com/rapid-houthi-advances-in-yemen-pose-massive-strategic-risks-for-saudi-arabia-in-the-gulf-292070",
-          "published": "2026-09-16T17:48:20+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The resumption of fighting, paired with the ongoing closure of the Strait of Hormuz, complicates regional strategy and energy policy for the Gulf powe",
           "image": null,
           "other_news": false
         }
@@ -108,6 +95,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Des chercheuses proposent un nouvel indicateur, l’empreinte plastique particulaire, pour mesurer la pollution plastique, invisible dans les bilans car",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Tons of fishing gear and plastic are washing up on  Seychelles beaches. We tracked where it was coming from",
+          "link": "https://theconversation.com/tons-of-fishing-gear-and-plastic-are-washing-up-on-seychelles-beaches-we-tracked-where-it-was-coming-from-287138",
+          "published": "2026-09-17T14:50:19+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Satellite tracking data was used to look at which ships and boats were active in the Seychelles waters.",
           "image": null,
           "other_news": false
         },
@@ -213,35 +211,57 @@
           "other_news": false
         },
         {
-          "title": "Fish DNA in Ozark streams reveals region’s complex geologic history",
-          "link": "https://theconversation.com/fish-dna-in-ozark-streams-reveals-regions-complex-geologic-history-289351",
-          "published": "2026-08-24T12:44:07+00:00",
-          "source": "The Conversation US",
+          "title": "Deep-sea expedition reveals new life and old litter 4,000 metres down",
+          "link": "https://oceanographicmagazine.com/news/deep-sea-expedition-reveals-new-life-and-old-litter-4000-metres-down/",
+          "published": "2026-09-17T14:05:38+00:00",
+          "source": "Oceanographic",
           "type": "news",
           "language": "en",
-          "summary": "A fish-finding expedition not only detects unexpected species but also uncovers a living link to Missouri’s geological past.",
+          "summary": "Despite being delighted by the discovery of roughly 40 new species, researchers were troubled by what else they found nearly 4,000 metres down: plasti",
           "image": null,
           "other_news": false
         },
         {
-          "title": "Weeping whales: why one humpback whale mother stayed beside her dead newborn",
-          "link": "https://theconversation.com/weeping-whales-why-one-humpback-whale-mother-stayed-beside-her-dead-newborn-288910",
-          "published": "2026-09-16T20:07:22+00:00",
-          "source": "The Conversation",
+          "title": "Do whales grieve? Rare humpback observation offers first clue",
+          "link": "https://oceanographicmagazine.com/news/do-whales-grieve-rare-humpback-observation-offers-first-clue/",
+          "published": "2026-09-16T14:41:46+00:00",
+          "source": "Oceanographic",
           "type": "news",
           "language": "en",
-          "summary": "Our latest study takes a closer look at the emotional lives of humpback whales.",
+          "summary": "Griffith University and Sea World Foundation researchers document a humpback whale mother's prolonged attendance to her deceased calf off the Gold Coa",
           "image": null,
           "other_news": false
         },
         {
-          "title": "Climate change is making it easier for invasive species to succeed",
-          "link": "https://theconversation.com/climate-change-is-making-it-easier-for-invasive-species-to-succeed-288583",
-          "published": "2026-09-16T16:12:57+00:00",
-          "source": "The Conversation",
+          "title": "Mapping shark migration will be key to their survival, says study",
+          "link": "https://oceanographicmagazine.com/news/mapping-shark-migration-will-be-key-to-their-survival-says-study/",
+          "published": "2026-09-16T11:56:20+00:00",
+          "source": "Oceanographic",
           "type": "news",
           "language": "en",
-          "summary": "More common extreme weather events can create opportunities for invasive species to spread.",
+          "summary": "New University of Queensland research maps migratory pathways of Australian sharks and rays for the first time, revealing significant data gaps and th",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Culling coral-killing starfish generates $20 million for Queensland",
+          "link": "https://oceanographicmagazine.com/news/culling-coral-killing-starfish-generates-20-million-for-queensland/",
+          "published": "2026-09-14T13:47:32+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A $5.5 million program culling coral-killing crown-of-thorns starfish in Far North Queensland generated $20 million in economic output and 61 local jo",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Native oysters make encouraging comeback on restored North Sea reef",
+          "link": "https://oceanographicmagazine.com/news/native-oysters-make-encouraging-comeback-on-restored-north-sea-reef/",
+          "published": "2026-09-14T12:22:16+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The majority of adult and juvenile oysters were found to be alive and in healthy condition, providing habitats for fish, shrimp and squat lobsters\nThe",
           "image": null,
           "other_news": false
         },
@@ -266,16 +286,18 @@
           "summary": "Roughly a decade ago, a marine heatwave in the northeastern Pacific Ocean caused a dramatic decline in populations of forage fish and krill, the base",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/15211402/AP23074823398722-768x512.jpg",
           "other_news": false
-        },
+        }
+      ],
+      "Sustainable Fisheries": [
         {
-          "title": "Can we stop ships from killing the Mediterranean’s last great whales?",
-          "link": "https://news.mongabay.com/custom-story/2026/09/can-we-stop-ships-from-killing-the-mediterraneans-last-great-whales/",
-          "published": "2026-09-14T13:44:45+00:00",
-          "source": "Mongabay Marine",
+          "title": "Ministers accused of ‘choosing’ to run down Britain’s fish stocks",
+          "link": "https://oceanographicmagazine.com/news/ministers-accused-of-choosing-to-run-down-britains-fish-stocks/",
+          "published": "2026-09-16T15:25:59+00:00",
+          "source": "Oceanographic",
           "type": "news",
           "language": "en",
-          "summary": "Collisions with ships are a leading anthropogenic killer of the Mediterranean’s two endangered large-bodied cetacean species, sperm and fin whales. In",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/08134319/Codamozza-whale-768x512.jpg",
+          "summary": "More than 40% of UK fish stocks have declined in the last ten years, with a new report claiming most catch quotas are still being set above scientific",
+          "image": null,
           "other_news": false
         }
       ],
@@ -323,6 +345,30 @@
           "type": "news",
           "language": "en",
           "summary": "The long awaited overhaul of the migration system comes as new figures show Net Overseas Migration continuing to decline.",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "95% of Scotland’s seas open to trawling… but things could change",
+          "link": "https://oceanographicmagazine.com/news/95-of-scotlands-seas-open-to-trawling-but-things-could-change/",
+          "published": "2026-09-15T11:10:56+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Scotland has opened a consultation on fisheries management for 76 MPAs and 90 proposed PMF areas, as campaigners note that 95% of its inshore seas rem",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Italy faces legal action over bottom trawling in ‘paper park’ MPAs",
+          "link": "https://oceanographicmagazine.com/news/italy-faces-legal-action-over-bottom-trawling-in-paper-park-mpas/",
+          "published": "2026-09-09T08:23:45+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "ClientEarth and Legambiente - with the support of Blue Marine Foundation - have launched the latest in a series of legal actions targeting ineffective",
           "image": null,
           "other_news": false
         }
@@ -527,18 +573,40 @@
           "other_news": false
         },
         {
-          "title": "Prix des carburants : des pêcheurs bloquent l’accès du port de Nice et d’un dépôt pétrolier dans l’Hérault",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/17/prix-des-carburants-nouveau-blocage-d-un-depot-petrolier-dans-l-herault_6776050_3244.html",
-          "published": "2026-09-17T08:16:45+02:00",
+          "title": "Ocean Photographer of the Year 2026 winners announced",
+          "link": "https://oceanographicmagazine.com/news/ocean-photographer-of-the-year-winners-announced/",
+          "published": "2026-09-09T18:05:34+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The winners of the Ocean Photographer of the Year 2026, presented by Oceanographic and Blancpain, have been revealed. From the seabed to the surface,",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Prix des carburants : les aides pour les pêcheurs suivront « la variation des cours du carburant », annonce la ministre de la mer et de la pêche, Catherine Chabaud ; les blocages levés à Nice et dans l’Hérault",
+          "link": "https://www.lemonde.fr/politique/article/2026/09/17/prix-des-carburants-les-aides-pour-les-pecheurs-suivront-la-variation-des-cours-du-carburant-annonce-la-ministre-de-la-mer-et-de-la-peche-catherine-chabaud-les-blocages-leves-a-nice-et-dans-l-herault_6776459_823448.html",
+          "published": "2026-09-17T18:10:24+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Ces blocages sont décrits comme une action « symbolique » avant une rencontre prévue avec la ministre déléguée chargée de la pêche et de la mer.",
+          "summary": "Jeudi, les pêcheurs méditerranéens avaient bloqué le port de Nice et un dépôt pétrolier situé à Frontignan, dans l’Hérault.",
+          "image": "https://img.lemde.fr/2026/09/17/464/0/5568/2784/644/322/60/0/d1ddf2d_ftp-1-6go0uy3s11b8-5110131-01-06.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Prix des carburants : les pêcheurs lèvent les blocages du port de Nice et d’un dépôt pétrolier dans l’Hérault",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/17/prix-des-carburants-les-pecheurs-levent-les-blocages-du-port-de-nice-et-d-un-depot-petrolier-dans-l-herault_6776050_3245.html",
+          "published": "2026-09-17T16:21:08+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La ministre de la mer et de la pêche, Catherine Chabaud, a rencontré les représentants des pêcheurs méditerranéens dans l’après-midi. Sans avancées co",
           "image": "https://img.lemde.fr/2026/09/17/607/0/4176/2088/644/322/60/0/79da6de_ftp-1-5vp9o2auuiu3-5109783-01-06.jpg",
           "other_news": false
         },
         {
-          "title": "Stéphane François, politiste : «Le Rassemblement national n’a toujours pas de réel volet écologiste dans son programme»",
+          "title": "Stéphane François, politiste : «Le Rassemblement national n’a toujours pas de réel volet écologique dans son programme»",
           "link": "https://vert.eco/chaleurs-actuelles/stephane-francois-politiste-le-rassemblement-national-na-toujours-pas-de-reel-volet-ecologiste-dans-son-programme/",
           "published": "2026-09-17T04:30:00+00:00",
           "source": "Vert Eco Articles",
@@ -560,13 +628,24 @@
           "other_news": false
         },
         {
-          "title": "«Le climat est devenu une épée de Damoclès» : après un été catastrophique, cet agriculteur du Poitou jette l’éponge",
-          "link": "https://vert.eco/agriculture/le-climat-est-devenu-une-epee-de-damocles-apres-un-ete-catastrophique-cet-agriculteur-du-poitou-jette-leponge/",
-          "published": "2026-09-15T04:00:00+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Imagine newsletter: penguins, satellites and pink poo",
+          "link": "https://theconversation.com/imagine-newsletter-penguins-satellites-and-pink-poo-292158",
+          "published": "2026-09-17T16:28:51+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Après cet été brûlant, 64% des responsables d’exploitation de Charente-Maritime et des Deux-Sèvres envisagent de changer de métier, selon un sondage d",
+          "language": "en",
+          "summary": "New satellite methods can track penguin colonies in winter –&nbsp;and can judge their health based on the colour of their guano.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Africa’s Red Sea states face growing risks as Houthi rebels expand their reach",
+          "link": "https://theconversation.com/africas-red-sea-states-face-growing-risks-as-houthi-rebels-expand-their-reach-292160",
+          "published": "2026-09-17T16:15:07+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The African shoreline is now much more valuable to outsiders who want to monitor, contain or outflank the waterway opposite them.",
           "image": null,
           "other_news": false
         },
@@ -680,6 +759,17 @@
           "other_news": true
         },
         {
+          "title": "At an old steel site in Pittsburgh, bacteria evolved to survive – and eat – industrial pollution",
+          "link": "https://theconversation.com/at-an-old-steel-site-in-pittsburgh-bacteria-evolved-to-survive-and-eat-industrial-pollution-289264",
+          "published": "2026-09-17T12:22:09+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "Decades of pollution at Pittsburgh brownfields left bacteria that evolved to survive it – and maybe help clean up contaminated soil.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Pesticides dans l'eau : le gouvernement cède aux pressions de l'agro-industrie",
           "link": "https://reporterre.net/Pesticides-dans-l-eau-le-gouvernement-cede-aux-pressions-de-l-agro-industrie",
           "published": "2026-09-15T13:55:47+00:00",
@@ -688,17 +778,6 @@
           "language": "fr",
           "summary": "Le gouvernement veut réduire drastiquement le nombre de captages d'eau considérés comme prioritaires face aux pollutions agricol",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/water-road-glass-cup-drink-sink-1186781-pxhere.com_resized-aca60.jpg?1789480557",
-          "other_news": true
-        },
-        {
-          "title": "At an old steel site in Pittsburgh, bacteria evolved to survive – and eat – industrial pollution",
-          "link": "https://theconversation.com/at-an-old-steel-site-in-pittsburgh-bacteria-evolved-to-survive-and-eat-industrial-pollution-289264",
-          "published": "2026-09-17T12:22:09+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Decades of pollution at Pittsburgh brownfields left bacteria that evolved to survive it – and maybe help clean up contaminated soil.",
-          "image": null,
           "other_news": true
         },
         {
@@ -715,6 +794,17 @@
       ],
       "Marine Biodiversity & Conservation": [
         {
+          "title": "B.C.’s militarized wolf cull is a misguided approach to a complex issue",
+          "link": "https://theconversation.com/b-c-s-militarized-wolf-cull-is-a-misguided-approach-to-a-complex-issue-290905",
+          "published": "2026-09-17T15:01:51+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Wolves are a vital part of Canada’s rich biodiversity and are a culturally important species. Killing them to protect caribou repackages the colonial",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Kathmandu Resolution calls for Asia-wide leadership on conservation (commentary)",
           "link": "https://news.mongabay.com/2026/09/katmandu-resolution-calls-for-asia-wide-leadership-on-conservation-commentary/",
           "published": "2026-09-14T17:29:21+00:00",
@@ -726,20 +816,18 @@
           "other_news": true
         }
       ],
-      "Species Migration & Habitat Change": [
+      "Other Marine News": [
         {
-          "title": "Decline of migratory birds spurs calls for coordinated conservation",
-          "link": "https://news.mongabay.com/2026/09/decline-of-migratory-birds-spurs-calls-for-coordinated-conservation/",
-          "published": "2026-09-14T14:09:40+00:00",
-          "source": "Mongabay Marine",
+          "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-17T10:31:35+00:00",
+          "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "NAIROBI — The decline of many migratory bird populations is a red flag that ecosystems around the world are under increasing pressure, conservation ex",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/14122724/Bar-headedGoose.Anser_.indicus_-%C2%A9NejibAhmedShutterstock-768x512.jpg",
+          "summary": "A new study says climate change was a likely factor in the massive flood on the Nepal-Tibet border last month.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7364/live/ed40ce00-b249-11f1-a45e-d7e94b0e7f98.jpg",
           "other_news": true
-        }
-      ],
-      "Other Marine News": [
+        },
         {
           "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
           "link": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
@@ -961,17 +1049,6 @@
           "other_news": true
         },
         {
-          "title": "Why the world can’t agree how to tackle drought",
-          "link": "https://theconversation.com/why-the-world-cant-agree-how-to-tackle-drought-290745",
-          "published": "2026-09-03T12:58:08+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Fighting drought and combating desertification are climate obligations.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Farmer-poet Wendell Berry’s environmental ethics were deeply rooted in his Christian faith and belief in caring for creation",
           "link": "https://theconversation.com/farmer-poet-wendell-berrys-environmental-ethics-were-deeply-rooted-in-his-christian-faith-and-belief-in-caring-for-creation-291025",
           "published": "2026-09-04T12:29:05+00:00",
@@ -1137,6 +1214,17 @@
           "other_news": true
         },
         {
+          "title": "Plus de 120 défenseurs de l'environnement tués dans le monde en 2025, dont le Corse Pierre Alessandri",
+          "link": "https://reporterre.net/Plus-de-120-defenseurs-de-l-environnement-tues-dans-le-monde-en-2025-dont-le-Francais",
+          "published": "2026-09-17T12:42:40+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Selon le bilan annuel de l'ONG Global Witness, publié le 16 septembre, au moins 124 personnes sont mortes en 2025 pour avoir déf",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260318__hl_gbeyson_3099916__v2__highres__francecorsicaalessandriassassination_1_-7df9a.jpg?1789648962",
+          "other_news": true
+        },
+        {
           "title": "« Politique de la terre brûlée » : la feuille de route anti-écologique d'Ursula von der Leyen pour l'Europe",
           "link": "https://reporterre.net/La-deregulation-avant-le-climat-la-feuille-de-route-anti-ecologique-d-Ursula-von-der",
           "published": "2026-09-16T13:33:20+00:00",
@@ -1247,14 +1335,25 @@
           "other_news": true
         },
         {
-          "title": "Vêtements d'occasion : acheter sur internet émet jusqu'à 5 fois plus de CO2 qu'en boutique",
-          "link": "https://reporterre.net/Vetements-d-occasion-acheter-sur-internet-emet-jusqu-a-5-fois-plus-de-CO2-qu-en-boutique",
-          "published": "2026-09-09T22:01:00+00:00",
-          "source": "Reporterre",
+          "title": "Décharges sauvages : la justice renvoie Nestlé devant le tribunal correctionnel de Nancy",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/17/decharges-sauvages-la-justice-renvoie-nestle-devant-le-tribunal-correctionnel-de-nancy_6776431_3244.html",
+          "published": "2026-09-17T15:39:09+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "L'ONG Oxfam a comparé l'impact environnemental des différentes filières de seconde main qui prennent leur essor en France. Le ré",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/compagnons-mertcmdguem-unsplash_1_-877a1.jpg?1788991261",
+          "summary": "La cour d’appel de Nancy relance le dossier Nestlé, ouvrant la voie à de nouvelles expertises sur l’impact environnemental des décharges sauvages près",
+          "image": "https://img.lemde.fr/2026/09/17/416/0/5000/2500/644/322/60/0/cc2eb68_ftp-1-nv4kwh5uswie-5111596-01-06.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Vert recrute : journaliste politique-écologie, journaliste extrême droite, journaliste carto-data… rejoignez notre équipe !",
+          "link": "https://vert.eco/vert-vous-parle/vert-recrute-journaliste-politique-ecologie-journaliste-extreme-droite-journaliste-carto-data-rejoignez-notre-equipe/",
+          "published": "2026-09-17T12:21:35+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Après cet été apocalyptique, la campagne présidentielle redémarre comme si rien ne s’était passé. Face à l’urgence absolue et avant un scrutin décisif",
+          "image": null,
           "other_news": true
         },
         {
@@ -1302,14 +1401,14 @@
           "other_news": true
         },
         {
-          "title": "Could victory for the AfD spell the end of wind farms in Germany?",
-          "link": "https://theconversation.com/could-victory-for-the-afd-spell-the-end-of-wind-farms-in-germany-291815",
-          "published": "2026-09-16T16:03:52+00:00",
-          "source": "The Conversation",
+          "title": "Community-based conservation is a good climate investment in Brazil & beyond (commentary)",
+          "link": "https://news.mongabay.com/2026/09/community-based-conservation-is-a-good-climate-investment-in-brazil-beyond-commentary/",
+          "published": "2026-09-17T14:39:13+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "The AfD has put the fight against wind turbines at the core of its election strategy. Could a win in the eastern state of Saxony-Anhalt slow down Germ",
-          "image": null,
+          "summary": "More than half a century has passed since Garrett Hardin published The Tragedy of the Commons in Science in 1968. In that influential article, he argu",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/29122935/Fisher-768x512.png",
           "other_news": true
         },
         {

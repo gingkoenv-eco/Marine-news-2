@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-09-17T05:01:07.859999+00:00",
+  "generated_at": "2026-09-17T11:42:48.794090+00:00",
   "categories": {
     "Politics & Policy": {
-      "Marine Protected Areas & Policy": [
+      "Species Migration & Habitat Change": [
         {
-          "title": "From firefighting to future-proofing: Preventing wildfires must be the priority",
-          "link": "https://www.climatechangenews.com/2026/09/01/from-firefighting-to-future-proofing-preventing-wildfires-must-be-the-priority/",
-          "published": "2026-09-01T13:54:36+00:00",
-          "source": "Climate change news",
+          "title": "Grattan on Friday: Burke delivers overdue migration baby, but is it sturdy enough to withstand the critics?",
+          "link": "https://theconversation.com/grattan-on-friday-burke-delivers-overdue-migration-baby-but-is-it-sturdy-enough-to-withstand-the-critics-291994",
+          "published": "2026-09-17T07:00:18+00:00",
+          "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "While many countries remain locked in a reactive cycle of disaster response, public policy can shift investment upstream to build resilience and cut r",
+          "summary": "The government will be wedged between those who think the changes don’t go far enough and critics who believe they’re draconian.",
           "image": null,
           "other_news": false
-        },
+        }
+      ],
+      "Marine Protected Areas & Policy": [
         {
           "title": "Rapid Houthi advances in Yemen pose massive strategic risks for Saudi Arabia in the Gulf",
           "link": "https://theconversation.com/rapid-houthi-advances-in-yemen-pose-massive-strategic-risks-for-saudi-arabia-in-the-gulf-292070",
@@ -47,17 +49,6 @@
           "language": "en",
           "summary": "The UK could supply half of its oil and gas needs without imports if the government showed more support for the sector, an OEUK report claims.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5137/live/e8988d50-b075-11f1-a905-bfcd9db6b414.jpg",
-          "other_news": false
-        },
-        {
-          "title": "As marine heat breaks records, countries seek ocean roadmap at COP31",
-          "link": "https://www.climatechangenews.com/2026/08/20/marine-heat-records-countries-ocean-roadmap-australia-turkiye-cop31/",
-          "published": "2026-08-20T15:07:29+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Africa and the EU are leading a push for COP31 to deliver a roadmap that lays out measures to protect fast-warming oceans\nThe post As marine heat brea",
-          "image": null,
           "other_news": false
         },
         {
@@ -352,28 +343,6 @@
           "summary": "Collisions with ships are a leading anthropogenic killer of the Mediterranean’s two endangered large-bodied cetacean species, sperm and fin whales. In",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/08134319/Codamozza-whale-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Panama looks to science, fishers, and the law to protect its sharks and rays",
-          "link": "https://news.mongabay.com/2026/09/panama-looks-to-science-fishers-and-the-law-to-protect-its-sharks-and-rays/",
-          "published": "2026-09-14T11:47:51+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "PUERTO CAIMITO, Panama — It’s a late April morning and the Tabor, an industrial fishing boat, is sailing around Chepillo Island in Panama Bay. Under t",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/14102837/4-1-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Against the odds, endangered dolphins survive in Bangladesh’s polluted river",
-          "link": "https://news.mongabay.com/2026/09/against-the-odds-endangered-dolphins-survive-in-bangladeshs-polluted-river/",
-          "published": "2026-09-14T10:11:16+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Buriganga River, which flows by Dhaka city, is one of Bangladesh’s most polluted waterways and ranks among the most contaminated urban rivers in t",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/14095844/ganges-river-dolphin-bangladesh-768x512.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -540,6 +509,17 @@
           "other_news": false
         },
         {
+          "title": "Comment les « avalanches » sous-marines transportent les plastiques jusqu’aux abysses",
+          "link": "https://theconversation.com/comment-les-avalanches-sous-marines-transportent-les-plastiques-jusquaux-abysses-289738",
+          "published": "2026-09-17T09:30:25+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Où est passé le plastique manquant des océans&nbsp;? Les courants de turbidité liés à l’écoulement des sédiments côtiers les transportent vers les fon",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Pourquoi mesurer les microplastiques est un véritable casse-tête",
           "link": "https://theconversation.com/pourquoi-mesurer-les-microplastiques-est-un-veritable-casse-tete-286201",
           "published": "2026-09-03T10:43:53+00:00",
@@ -617,17 +597,6 @@
           "other_news": false
         },
         {
-          "title": "At regional summit, Pacific islands ask for COP31 support for clean energy and finance",
-          "link": "https://www.climatechangenews.com/2026/09/07/pacific-islands-forum-cop31-clean-energy-finance-ocean-renewables/",
-          "published": "2026-09-07T10:00:34+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Pacific nations want the annual climate conference to deliver funding for renewables and ocean protection, as the UN warns of devastating sea level ri",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Canards maltraités : Carrefour épinglé par L214",
           "link": "https://reporterre.net/Canards-maltraites-Carrefour-epingle-par-L214",
           "published": "2026-09-16T14:10:39+00:00",
@@ -661,17 +630,6 @@
           "other_news": false
         },
         {
-          "title": "Marine Tondelier : « Ce qui se passe est trop grave pour abdiquer »",
-          "link": "https://reporterre.net/Marine-Tondelier-Nous-menons-une-double-campagne-pour-l-ecologie-et-pour-l-union",
-          "published": "2026-09-09T14:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Estimant qu'il « est grand temps d'abolir les privilèges climatiques », la cheffe de file des Écologistes candidate à la préside",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/2026-09-03_cha_gonzalez-6162-59183.jpg?1788962403",
-          "other_news": false
-        },
-        {
           "title": "Ocean Photographer of the Year 2026 winners announced",
           "link": "https://oceanographicmagazine.com/news/ocean-photographer-of-the-year-winners-announced/",
           "published": "2026-09-09T18:05:34+00:00",
@@ -683,14 +641,14 @@
           "other_news": false
         },
         {
-          "title": "Prix des carburants : levée du blocage d’un dépôt pétrolier dans l’Hérault",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/16/prix-des-carburants-nouveau-blocage-d-un-depot-petrolier-dans-l-herault-par-une-centaine-de-pecheurs_6775142_3244.html",
-          "published": "2026-09-16T10:05:18+02:00",
+          "title": "Prix des carburants : des pêcheurs bloquent l’accès du port de Nice et d’un dépôt pétrolier dans l’Hérault",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/17/prix-des-carburants-nouveau-blocage-d-un-depot-petrolier-dans-l-herault_6776050_3244.html",
+          "published": "2026-09-17T08:16:45+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "En pleine crise, les pêcheurs méditerranéens menacent de durcir leur mouvement si la rencontre avec la ministre de la pêche ne débouche pas sur des av",
-          "image": "https://img.lemde.fr/2026/09/16/711/0/8256/4128/644/322/60/0/933a152_ftp-1-x0igq6zp5ibx-5102151-01-06.jpg",
+          "summary": "Ces blocages sont décrits comme une action « symbolique » avant une rencontre prévue avec la ministre déléguée chargée de la pêche et de la mer.",
+          "image": "https://img.lemde.fr/2026/09/17/607/0/4176/2088/644/322/60/0/79da6de_ftp-1-5vp9o2auuiu3-5109783-01-06.jpg",
           "other_news": false
         },
         {
@@ -727,6 +685,17 @@
           "other_news": false
         },
         {
+          "title": "Why the story of urchin barrens and kelp forests is more complex than we thought",
+          "link": "https://theconversation.com/why-the-story-of-urchin-barrens-and-kelp-forests-is-more-complex-than-we-thought-288720",
+          "published": "2026-09-17T05:16:03+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Sea urchins eat kelp – but new research shows their diets and relationships with kelp forests are more complex than commonly thought.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "This sponge has holes. Some find that truly disgusting",
           "link": "https://theconversation.com/this-sponge-has-holes-some-find-that-truly-disgusting-291263",
           "published": "2026-09-17T02:26:12+00:00",
@@ -757,6 +726,17 @@
           "language": "en",
           "summary": "Storytelling is one of our oldest human behaviors. Across every culture and continent, people have used stories to share values, pass down knowledge a",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "World’s smallest crocodile in high demand for bushmeat trade in Nigeria",
+          "link": "https://news.mongabay.com/2026/09/worlds-smallest-crocodile-in-high-demand-for-bushmeat-trade-in-nigeria/",
+          "published": "2026-09-17T11:07:25+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The African dwarf crocodile is the world’s smallest living crocodile. These reptiles, nocturnal predators of crabs, gastropods and the occasional fish",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/17103100/DwarfCrocodileOsteolaemus.tetraspis_EricDeRedelijkheid-768x512.jpg",
           "other_news": false
         }
       ]
@@ -864,17 +844,6 @@
       ],
       "Marine Protected Areas & Policy": [
         {
-          "title": "As science comes under attack at UN talks, climate movement splits over how to respond",
-          "link": "https://www.climatechangenews.com/2026/09/09/as-science-comes-under-attack-at-un-talks-climate-movement-splits-over-how-to-respond/",
-          "published": "2026-09-09T11:34:35+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "A rift over how IPCC messages are produced and turned into policy is creating tensions in the world's most influential coalition of climate NGOs\nThe p",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "UK government’s new ‘class unit’ promises to tackle inequalities – but it’s a risky strategy",
           "link": "https://theconversation.com/uk-governments-new-class-unit-promises-to-tackle-inequalities-but-its-a-risky-strategy-291939",
           "published": "2026-09-16T14:14:04+00:00",
@@ -929,17 +898,6 @@
           "language": "en",
           "summary": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9e/live/16cf4830-b0ad-11f1-9c5d-0dd6cc52f198.jpg",
-          "other_news": true
-        },
-        {
-          "title": "White-tailed eagle chicks fledge for fourth year",
-          "link": "https://www.bbc.co.uk/news/articles/cm9dwvngy808o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-16T10:23:24+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Forestry England and the Roy Dennis Wildlife Foundation reintroduction project began in 2019.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5498/live/662bae30-b1bd-11f1-bdcf-d393eb724fa3.jpg",
           "other_news": true
         },
         {
@@ -1038,17 +996,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Sur fond de canicules et d’incendies, la COP sur la désertification se réunit pour lutter contre la dégradation des terres, qui accentue les pressions",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Quand les médias sous-informent et désinforment à propos de la crise environnementale",
-          "link": "https://theconversation.com/quand-les-medias-sous-informent-et-desinforment-a-propos-de-la-crise-environnementale-289563",
-          "published": "2026-08-22T08:35:29+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "En 2026, seuls 4&nbsp;% des articles de presse écrite et des sujets audiovisuels concernaient l’environnement. Une proportion montée à 10&nbsp;% au co",
           "image": null,
           "other_news": true
         },
@@ -1317,215 +1264,6 @@
           "other_news": true
         },
         {
-          "title": "International trade linked to 20% of global emissions – but imports ignored",
-          "link": "https://www.climatechangenews.com/2026/09/15/international-trade-global-emissions-study-europe-china-us-imports/",
-          "published": "2026-09-15T08:19:17+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Researchers say governments should discuss how to tackle emissions linked to globally traded goods and services, especially in large importing countri",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Made in Nigeria: The race to build an African solar industry from scratch",
-          "link": "https://www.climatechangenews.com/2026/09/11/made-in-nigeria-the-race-to-build-an-african-solar-industry-from-scratch/",
-          "published": "2026-09-11T13:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "A solar power revolution is gathering pace in Africa and Nigeria wants a slice of the fast-growing industry, but competing with Chinese imports won’t",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "With multilateralism in crisis, what’s next for climate philanthropy?",
-          "link": "https://www.climatechangenews.com/2026/09/11/with-multilateralism-in-crisis-whats-next-for-climate-philanthropy/",
-          "published": "2026-09-11T11:46:17+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Climate philanthropy must do more than fill the gaps left by retreating governments and find new ways to support climate action in a fragmented global",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Foreign minister: Nepal needs “meaningful” international support to face climate threats",
-          "link": "https://www.climatechangenews.com/2026/09/09/foreign-minister-nepal-meaningful-international-support-climate-flood-glacier/",
-          "published": "2026-09-09T21:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Following its recent Himalayan flooding disaster, the South Asian nation is seeking urgent help from a new UN climate fund, appealing for \"stronger gl",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "China’s industrial engine starts to break its fossil fuel habit",
-          "link": "https://www.climatechangenews.com/2026/09/08/chinas-industrial-engine-starts-to-break-its-fossil-fuel-habit/",
-          "published": "2026-09-08T15:30:15+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Despite a rebound in coal generation this year, clean energy from wind and solar is gaining ground on the fossil fuels that have powered decades of in",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Industry and NGOs lobby to weaken UN carbon credit rules in “coordinated” push",
-          "link": "https://www.climatechangenews.com/2026/09/08/industry-and-ngos-lobby-to-weaken-un-carbon-credit-rules-in-coordinated-push/",
-          "published": "2026-09-08T12:56:26+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "In copycat submissions and a private briefing to government officials, the groups have opposed a proposal to tighten safeguards for emissions offsets",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Palestine: Israel’s bombing has left Gaza vulnerable to climate change",
-          "link": "https://www.climatechangenews.com/2026/09/04/palestine-israels-bombing-has-left-gaza-vulnerable-to-climate-change/",
-          "published": "2026-09-04T14:18:35+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "With homes, hospitals and water storage destroyed, Palestine's government says that Gazans have little protection from climate impacts and sets condit",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "More support needed to power Africa’s food systems with renewables, experts say",
-          "link": "https://www.climatechangenews.com/2026/09/03/more-support-needed-to-power-africas-food-systems-with-renewables-experts-say/",
-          "published": "2026-09-03T12:50:44+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Renewable energy could help African food businesses boost productivity and competitiveness, but the upfront cost, fragmented markets and limited finan",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "UK’s budget juggling trick with rainforest loan for bus-fare cap needs transparency",
-          "link": "https://www.climatechangenews.com/2026/09/03/uks-budget-juggling-trick-with-rainforest-loan-for-bus-fare-cap-needs-transparency/",
-          "published": "2026-09-03T08:24:14+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "A recent announcement by Britain’s new government raises questions about the impact on climate aid of swapping grants for loans\nThe post UK&#8217;s bu",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Loss and damage fund urged to hold crisis meeting on Nepal",
-          "link": "https://www.climatechangenews.com/2026/09/02/loss-and-damage-fund-urged-to-hold-crisis-meeting-on-nepal/",
-          "published": "2026-09-02T16:53:55+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The new fund is coming under pressure from developing nations to respond quickly to climate disasters rather than just financing longer-term projects",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Keeping to 1.5C of warming is no longer possible – but we must still limit the overshoot",
-          "link": "https://www.climatechangenews.com/2026/09/02/keeping-to-1-5c-of-warming-is-no-longer-possible-but-we-must-still-limit-the-overshoot/",
-          "published": "2026-09-02T09:15:59+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "We need a strategy for navigating the huge risks to ecosystems and societies\nThe post Keeping to 1.5C of warming is no longer possible &#8211; but we",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "UN sets out narrow path back to 1.5C warming after inevitable overshoot",
-          "link": "https://www.climatechangenews.com/2026/09/02/un-sets-out-narrow-path-back-to-1-5c-warming-after-inevitable-overshoot/",
-          "published": "2026-09-02T04:15:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Leading scientists say warming must peak at 1.8C to be able to reverse course this century, but current government climate policies are way off track",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "India needs climate adaptation cash to be an investment, not a quick fix",
-          "link": "https://www.climatechangenews.com/2026/08/31/india-needs-climate-adaptation-cash-to-be-an-investment-not-a-quick-fix/",
-          "published": "2026-08-31T07:48:04+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "As governments look towards COP31, India must push not only for more adaptation finance, but for funds to arrive in time for projects that limit disas",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Despite African walkout, fractious land COP ends without drought deal",
-          "link": "https://www.climatechangenews.com/2026/08/28/despite-african-walkout-fractious-land-cop-ends-without-drought-agreement/",
-          "published": "2026-08-28T16:32:26+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "A strong push for a drought protocol by African countries failed in contentious talks, with negotiations postponed for another two years\nThe post Desp",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Pacific islands seek backing for new regional fund ahead of COP31",
-          "link": "https://www.climatechangenews.com/2026/08/28/pacific-islands-new-regional-fund-climate-finance-cop31-australia-prf/",
-          "published": "2026-08-28T09:10:28+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Pacific leaders will appeal for pledges to a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islan",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "New Zealand moves to protect business with law curtailing climate litigation",
-          "link": "https://www.climatechangenews.com/2026/08/24/new-zealand-moves-to-protect-business-with-law-curtailing-climate-litigation/",
-          "published": "2026-08-24T12:05:01+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "A new bill prevents corporations being sued for the climate damage their emissions cause, as the government says climate action should be handled at t",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Collective global roadmap can boost Cambodia’s energy transition goals",
-          "link": "https://www.climatechangenews.com/2026/08/20/collective-global-roadmap-can-boost-cambodias-energy-transition-goals/",
-          "published": "2026-08-20T08:09:05+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The kingdom aims to source 70% of its power capacity from renewables by 2030 - to get there, it needs international support and cooperation\nThe post C",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "China keeps Indonesia’s battery dream afloat but future less certain",
-          "link": "https://www.climatechangenews.com/2026/08/20/china-keeps-indonesias-battery-dream-afloat-but-future-less-certain/",
-          "published": "2026-08-20T05:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Chinese capital and technology turned Indonesia into the world’s top nickel supplier, but its dependence on China and the rise of nickel-free batterie",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Every country needs a model to help optimise its energy transition",
-          "link": "https://www.climatechangenews.com/2026/08/18/every-country-needs-a-model-to-help-optimise-its-energy-transition/",
-          "published": "2026-08-18T17:24:55+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "National pledges and platforms alone won’t lead to secure and affordable decarbonised energy systems\nThe post Every country needs a model to help opti",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "« Politique de la terre brûlée » : la feuille de route anti-écologique d'Ursula von der Leyen pour l'Europe",
           "link": "https://reporterre.net/La-deregulation-avant-le-climat-la-feuille-de-route-anti-ecologique-d-Ursula-von-der",
           "published": "2026-09-16T13:33:20+00:00",
@@ -1658,14 +1396,14 @@
           "other_news": true
         },
         {
-          "title": "Au moins 124 défenseurs de l’environnement ont été tués dans le monde en 2025",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/16/au-moins-124-defenseurs-de-l-environnement-ont-ete-tues-dans-le-monde-en-2025_6774746_3244.html",
-          "published": "2026-09-16T05:00:05+02:00",
-          "source": "Le Monde Planète",
+          "title": "Laurence Huc, toxicologue : «Il y a une responsabilité collective dans chaque cas de cancer lié à l’environnement»",
+          "link": "https://vert.eco/sante-environnement/laurence-huc-toxicologue-il-y-a-une-responsabilite-collective-dans-chaque-cas-de-cancer-lie-a-lenvironnement/",
+          "published": "2026-09-17T09:30:18+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Pour la première fois depuis la mort de Rémi Fraisse en 2014, un Français figure dans ce décompte de l’ONG Global Witness. Il s’agit de l’agriculteur",
-          "image": "https://img.lemde.fr/2026/09/15/346/0/4160/2080/644/322/60/0/d37380c_upload-1-vn9o4dwh9n3j-000-36yx2wh.jpg",
+          "summary": "Dans la bande dessinée «Pesticides, leurs ravages sur la santé des enfants» parue ce jeudi, la chercheuse en toxicologie Laurence Huc raconte son enga",
+          "image": null,
           "other_news": true
         },
         {
@@ -1710,6 +1448,17 @@
           "language": "en",
           "summary": "The AfD has put the fight against wind turbines at the core of its election strategy. Could a win in the eastern state of Saxony-Anhalt slow down Germ",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "A giant anteater’s return in Argentina offers a case for letting nature restore itself",
+          "link": "https://news.mongabay.com/2026/09/a-giant-anteaters-return-in-argentina-offers-a-case-for-letting-nature-restore-itself/",
+          "published": "2026-09-17T09:55:38+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In 2025, a giant anteater returned to the Alma Guaraní reserve in Argentina’s Corrientes province. It marked the first sighting of this vulnerable and",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/15094610/Image_1_Osa-hormiguero-sobre-Bermejo-Foto-Veronica-Quiroga-1-768x512.jpg",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T17:00:02.214674+00:00",
+  "generated_at": "2026-09-17T17:38:45.649303+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
@@ -474,6 +474,17 @@
           "other_news": false
         },
         {
+          "title": "Imagine newsletter: penguins, satellites and pink poo",
+          "link": "https://theconversation.com/imagine-newsletter-penguins-satellites-and-pink-poo-292158",
+          "published": "2026-09-17T16:28:51+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "New satellite methods can track penguin colonies in winter –&nbsp;and can judge their health based on the colour of their guano.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Britain’s most artificial landscape may not survive climate change",
           "link": "https://theconversation.com/britains-most-artificial-landscape-may-not-survive-climate-change-286876",
           "published": "2026-09-16T11:17:08+00:00",
@@ -624,17 +635,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Plante aquatique menacée, la posidonie est essentielle à la bonne santé des écosystèmes méditerranéens, mais elle souffre des dégâts des ancres de bat",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Imagine newsletter: penguins, satellites and pink poo",
-          "link": "https://theconversation.com/imagine-newsletter-penguins-satellites-and-pink-poo-292158",
-          "published": "2026-09-17T16:28:51+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "New satellite methods can track penguin colonies in winter –&nbsp;and can judge their health based on the colour of their guano.",
           "image": null,
           "other_news": false
         },

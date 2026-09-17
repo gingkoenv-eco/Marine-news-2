@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-09-16T17:38:54.412138+00:00",
+  "generated_at": "2026-09-17T05:01:07.859999+00:00",
   "categories": {
     "Politics & Policy": {
-      "Species Migration & Habitat Change": [
-        {
-          "title": "The government might strip some asylum seekers of their work rights. Here’s why it shouldn’t",
-          "link": "https://theconversation.com/the-government-might-strip-some-asylum-seekers-of-their-work-rights-heres-why-it-shouldnt-291283",
-          "published": "2026-09-16T01:42:06+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The government is reportedly considering restricting the work rights of asylum seekers as part of its plan to decrease migration. But it’s not a good",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Marine Protected Areas & Policy": [
         {
           "title": "From firefighting to future-proofing: Preventing wildfires must be the priority",
@@ -24,6 +11,17 @@
           "type": "news",
           "language": "en",
           "summary": "While many countries remain locked in a reactive cycle of disaster response, public policy can shift investment upstream to build resilience and cut r",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Rapid Houthi advances in Yemen pose massive strategic risks for Saudi Arabia in the Gulf",
+          "link": "https://theconversation.com/rapid-houthi-advances-in-yemen-pose-massive-strategic-risks-for-saudi-arabia-in-the-gulf-292070",
+          "published": "2026-09-16T17:48:20+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The resumption of fighting, paired with the ongoing closure of the Strait of Hormuz, complicates regional strategy and energy policy for the Gulf powe",
           "image": null,
           "other_news": false
         }
@@ -301,6 +299,17 @@
           "other_news": false
         },
         {
+          "title": "Weeping whales: why one humpback whale mother stayed beside her dead newborn",
+          "link": "https://theconversation.com/weeping-whales-why-one-humpback-whale-mother-stayed-beside-her-dead-newborn-288910",
+          "published": "2026-09-16T20:07:22+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Our latest study takes a closer look at the emotional lives of humpback whales.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Climate change is making it easier for invasive species to succeed",
           "link": "https://theconversation.com/climate-change-is-making-it-easier-for-invasive-species-to-succeed-288583",
           "published": "2026-09-16T16:12:57+00:00",
@@ -365,17 +374,6 @@
           "summary": "The Buriganga River, which flows by Dhaka city, is one of Bangladesh’s most polluted waterways and ranks among the most contaminated urban rivers in t",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/14095844/ganges-river-dolphin-bangladesh-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "A clownfish’s last stand",
-          "link": "https://news.mongabay.com/2026/09/a-clownfishs-last-stand/",
-          "published": "2026-09-14T00:11:51+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Twenty years ago, scientist and Mongabay board member Debby Ng joined a team documenting life at Terumbu Bayan, a coral reef south of Singapore that w",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/13221234/clownfish-illustration-16x9-1-768x512.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -428,25 +426,14 @@
       ],
       "Species Migration & Habitat Change": [
         {
-          "title": "How would One Nation’s immigration plan affect the labour market and economy?",
-          "link": "https://theconversation.com/how-would-one-nations-immigration-plan-affect-the-labour-market-and-economy-291986",
-          "published": "2026-09-15T20:12:42+00:00",
+          "title": "Migration changes to hit students’ families and working holiday makers",
+          "link": "https://theconversation.com/migration-changes-to-hit-students-families-and-working-holiday-makers-291997",
+          "published": "2026-09-17T04:24:47+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Reducing the number of people on student and graduate visas may reduce migration numbers, but it could also weaken demand for Australian goods and ser",
+          "summary": "The long awaited overhaul of the migration system comes as new figures show Net Overseas Migration continuing to decline.",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Angolan communities return to seasonal migration amid severe drought",
-          "link": "https://news.mongabay.com/short-article/2026/09/angolan-communities-return-to-seasonal-migration-amid-severe-drought/",
-          "published": "2026-09-11T19:54:36+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Several years of severe drought are forcing people to leave their homes in Angola to search for water and food in neighboring Namibia. “There is real",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/11195335/IMG_0532-1-1-768x512.jpg",
           "other_news": false
         }
       ],
@@ -707,14 +694,14 @@
           "other_news": false
         },
         {
-          "title": "Prix des carburants : le dépôt pétrolier de Fos-sur-Mer de nouveau accessible, après un blocage des pêcheurs",
-          "link": "https://www.lemonde.fr/societe/article/2026/09/15/prix-des-carburants-des-pecheurs-bloquent-l-acces-a-un-depot-petrolier-de-fos-sur-mer_6774346_3224.html",
-          "published": "2026-09-15T09:03:38+02:00",
-          "source": "Le Monde Planète",
+          "title": "Stéphane François, politiste : «Le Rassemblement national n’a toujours pas de réel volet écologiste dans son programme»",
+          "link": "https://vert.eco/chaleurs-actuelles/stephane-francois-politiste-le-rassemblement-national-na-toujours-pas-de-reel-volet-ecologiste-dans-son-programme/",
+          "published": "2026-09-17T04:30:00+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Les comités régionaux des pêches du sud de la France, les organisations de producteurs de Méditerranée et des syndicats de la profession ont lancé lun",
-          "image": "https://img.lemde.fr/2026/09/15/295/0/6000/3000/644/322/60/0/4994ab0_ftp-1-jbdx9ob1wzjk-5094433-01-06.jpg",
+          "summary": "Dimanche dernier, Marine Le Pen a lancé sa campagne présidentielle à Hénin-Beaumont et a déjà promis plusieurs mesures anti-écologiques. Bien loin des",
+          "image": null,
           "other_news": false
         },
         {
@@ -740,35 +727,13 @@
           "other_news": false
         },
         {
-          "title": "Après cet été caniculaire, allez-vous payer vos aliments plus cher dans les supermarchés ?",
-          "link": "https://vert.eco/agriculture/apres-cet-ete-caniculaire-allez-vous-payer-vos-aliments-plus-cher-dans-les-supermarches/",
-          "published": "2026-09-10T15:55:51+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le prix des produits frais (fruits, légumes, poissons…) a augmenté de 5,8% sur un an en août, selon les estimations de l’Insee ce jeudi. La conséquenc",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "The Houthis have further tightened their grip on the Red Sea. Here’s what it could mean for the world",
-          "link": "https://theconversation.com/the-houthis-have-further-tightened-their-grip-on-the-red-sea-heres-what-it-could-mean-for-the-world-291983",
-          "published": "2026-09-16T04:30:32+00:00",
+          "title": "This sponge has holes. Some find that truly disgusting",
+          "link": "https://theconversation.com/this-sponge-has-holes-some-find-that-truly-disgusting-291263",
+          "published": "2026-09-17T02:26:12+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "The move suggests Iran and its allies are settling in for a long war. That could mean pain for the global economy.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Bird flu has claimed its first Australian sea lion and dolphin. How does the virus get into these animals?",
-          "link": "https://theconversation.com/bird-flu-has-claimed-its-first-australian-sea-lion-and-dolphin-how-does-the-virus-get-into-these-animals-291871",
-          "published": "2026-09-15T20:13:11+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "How does a dolphin or seal even get bird flu? Most likely through contact with sick birds – or eating their carcasses.",
+          "summary": "Trypophobia is more than an internet meme. It is a genuine psychological experience that can range from mild discomfort to significant distress.",
           "image": null,
           "other_news": false
         },
@@ -881,17 +846,6 @@
           "language": "en",
           "summary": "There is perhaps no other continent on earth that possesses as diverse an ecosystem, biodiversity and cultural diversity as Asia. Yet, biodiversity co",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2021/12/09151101/Image-1.image_jpeg-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Biodiversity corridor payments boost household incomes in Vietnam’s Annamite mountains",
-          "link": "https://news.mongabay.com/2026/09/biodiversity-corridor-payments-boost-household-incomes-in-vietnams-annamite-mountains/",
-          "published": "2026-09-14T02:00:47+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Conservationists say connecting existing protected areas through biodiversity corridors is vital in many landscapes to prevent further loss of species",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/13113754/Banner_Original_WW1304086-768x512.jpg",
           "other_news": true
         }
       ],
@@ -1275,6 +1229,17 @@
           "other_news": true
         },
         {
+          "title": "Analysis: India’s power-sector emissions flat for two years due to clean-energy surge",
+          "link": "https://www.carbonbrief.org/analysis-indias-power-sector-emissions-flat-for-two-years-due-to-clean-energy-surge",
+          "published": "2026-09-16T23:01:00+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "A surge in clean energy has kept carbon dioxide (CO2) emissions in check across India’s power sector, with no growth&#8230;\nThe post Analysis: India’s",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis",
           "link": "https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis",
           "published": "2026-09-16T13:34:02+00:00",
@@ -1348,17 +1313,6 @@
           "type": "news",
           "language": "en",
           "summary": "Solar power generation in the UK reached a new record over the summer of 2026, as temperatures across the nation&#8230;\nThe post Analysis: UK solar po",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Analysis: China’s CO2 emissions fall in Q2 2026 due to plummeting oil use",
-          "link": "https://www.carbonbrief.org/analysis-chinas-co2-emissions-fall-in-q2-2026-due-to-plummeting-oil-use",
-          "published": "2026-09-02T23:01:00+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "China’s carbon dioxide (CO2) emissions fell by 1% in the second quarter of 2026, as oil consumption plummeted amid the&#8230;\nThe post Analysis: China",
           "image": null,
           "other_news": true
         },
@@ -1715,17 +1669,6 @@
           "other_news": true
         },
         {
-          "title": "Les Etats-Unis annoncent depuis le G20 l’abrogation de limites d’émissions polluantes imposées aux centrales électriques",
-          "link": "https://www.lemonde.fr/planete/video/2026/09/15/les-etats-unis-annoncent-au-g20-l-abrogation-de-limites-d-emissions-polluantes-imposees-aux-centrales-electriques_6774360_3244.html",
-          "published": "2026-09-15T10:58:14+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La décision de l’administration Trump va à l’encontre des recommandations pour lutter contre le changement climatique et suscite l’inquiétude des expe",
-          "image": "https://img.lemde.fr/2026/09/14/688/0/8256/4128/644/322/60/0/1673d96_ftp-1-vu3sixpbdq7r-5089833-01-06.jpg",
-          "other_news": true
-        },
-        {
           "title": "Plus de 8 000 morts pendant les canicules : «C’est le résultat de réactions politiques trop lentes et d’un manque d’adaptation»",
           "link": "https://vert.eco/climat/plus-de-8-000-morts-pendant-les-canicules-cest-le-resultat-de-reactions-politiques-trop-lentes-et-dun-manque-dadaptation/",
           "published": "2026-09-16T15:14:00+00:00",
@@ -1770,14 +1713,25 @@
           "other_news": true
         },
         {
-          "title": "Climate change is putting the squeeze on the world’s grapegrowers: new research",
-          "link": "https://theconversation.com/climate-change-is-putting-the-squeeze-on-the-worlds-grapegrowers-new-research-289699",
-          "published": "2026-09-16T03:21:38+00:00",
-          "source": "The Conversation",
+          "title": "‘Don’t shoot. Listen’: The AI-aided quest to understand Yellowstone’s wolves",
+          "link": "https://news.mongabay.com/2026/09/dont-shoot-listen-the-ai-aided-quest-to-understand-yellowstones-wolves/",
+          "published": "2026-09-16T21:53:20+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Renowned wine regions from Australia to South Africa are battling increasingly fierce fire seasons.",
-          "image": null,
+          "summary": "Jeff Reed wasn’t raised to hate wolves. But as a child he bought into the Little Red Riding Hood myth regarding their villainous nature. You see one,",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/16130943/1-Wolf-907-Evan-Stout-BANNER-PHOTO-768x512.png",
+          "other_news": true
+        },
+        {
+          "title": "Bolivia’s mining law overhaul raises environmental and community concerns",
+          "link": "https://news.mongabay.com/short-article/2026/09/bolivias-mining-law-overhaul-raises-environmental-and-community-concerns/",
+          "published": "2026-09-16T20:09:57+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Bolivia recently began overhauling one of its principal mining laws, with the goal of modernizing the industry and improving oversight. Civil society",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/16194926/AP25261679853086-2-1-768x512.jpg",
           "other_news": true
         },
         {

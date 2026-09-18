@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:24:08.203492+00:00",
+  "generated_at": "2026-09-18T17:06:04.133282+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
@@ -560,7 +560,7 @@
           "other_news": false
         },
         {
-          "title": "Pêche : l'État joue la montre et laisse les navires-usines piller les côtes",
+          "title": "Pêche : l'État joue la montre et laisse les navires-usines piller le littoral",
           "link": "https://reporterre.net/Des-monstres-des-mers-pres-des-cotes-l-Etat-laisse-le-champ-libre-aux-navires-usines",
           "published": "2026-09-18T12:30:00+00:00",
           "source": "Reporterre",
@@ -1473,6 +1473,17 @@
           "language": "en",
           "summary": "People who have extra funds, suitable homes and a desire to be self-sufficient may consider disconnecting from the grid.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Britain’s Prince William reveals finalists for Earthshot environmental prize",
+          "link": "https://news.mongabay.com/short-article/2026/09/britains-prince-william-reveals-finalists-for-earthshot-environmental-prize/",
+          "published": "2026-09-18T16:43:34+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "LONDON (AP) — How does a grizzly bear cross the road? With the help of Indigenous people, ranchers and governments. That’s the idea behind the Yellows",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/05/11001326/ecuador_236248-reverse-768x512.jpg",
           "other_news": true
         },
         {

@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-17T17:38:45.649303+00:00",
+  "generated_at": "2026-09-18T05:01:10.908799+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
         {
-          "title": "Grattan on Friday: Burke delivers overdue migration baby, but is it sturdy enough to withstand the critics?",
-          "link": "https://theconversation.com/grattan-on-friday-burke-delivers-overdue-migration-baby-but-is-it-sturdy-enough-to-withstand-the-critics-291994",
-          "published": "2026-09-17T07:00:18+00:00",
+          "title": "The government’s migration policy prioritises knee-jerk politics over careful planning",
+          "link": "https://theconversation.com/the-governments-migration-policy-prioritises-knee-jerk-politics-over-careful-planning-292137",
+          "published": "2026-09-18T02:49:14+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "The government will be wedged between those who think the changes don’t go far enough and critics who believe they’re draconian.",
+          "summary": "The government’s migration policy announcement was long-awaited, but the contents ultimately fell short of expectations.",
           "image": null,
           "other_news": false
         }
@@ -74,17 +74,6 @@
           "language": "en",
           "summary": "Ocean Conservancy says last year’s cleanup collected 13.9m pieces of rubbish from beaches and rivers worldwideMore than 1.3m plastic bottles were coll",
           "image": "https://i.guim.co.uk/img/media/6af81746e114e6ffd949c81ac765fc3a33a58837/802_0_4445_3556/master/4445.jpg?width=140&quality=85&auto=format&fit=max&s=f9f292975f3c639d2530f6c9cb1ce91a",
-          "other_news": false
-        },
-        {
-          "title": "Carbon pollution has fuelled ‘massive expansion’ of marine heatwaves in Europe, study finds",
-          "link": "https://www.theguardian.com/environment/2026/aug/19/carbon-pollution-massive-expansion-marine-heatwaves-europe",
-          "published": "2026-08-19T04:00:05+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Hottest periods this year in most sea regions would have been ‘virtually impossible’ in a preindustrial climateCarbon pollution has fuelled a “massive",
-          "image": "https://i.guim.co.uk/img/media/bd72147bde43ba629cd3212aea27908b6b16b768/453_0_6521_5216/master/6521.jpg?width=140&quality=85&auto=format&fit=max&s=fe26860749de22b65e702614b0ba8e86",
           "other_news": false
         },
         {
@@ -332,19 +321,6 @@
           "type": "news",
           "language": "en",
           "summary": "The abrupt disappearance of a lake is one clear sign that the ice below is melting, and a clue to wider permafrost changes.",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Species Migration & Habitat Change": [
-        {
-          "title": "Migration changes to hit students’ families and working holiday makers",
-          "link": "https://theconversation.com/migration-changes-to-hit-students-families-and-working-holiday-makers-291997",
-          "published": "2026-09-17T04:24:47+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The long awaited overhaul of the migration system comes as new figures show Net Overseas Migration continuing to decline.",
           "image": null,
           "other_news": false
         }
@@ -617,6 +593,17 @@
           "other_news": false
         },
         {
+          "title": "À Miquelon, les habitants contraints de déménager face à la submersion marine : «Ça fait mal de me dire que cet endroit disparaîtra sous l’eau un jour»",
+          "link": "https://vert.eco/climat/a-miquelon-les-habitants-contraints-de-demenager-face-a-la-submersion-marine-ca-fait-mal-de-me-dire-que-cet-endroit-disparaitra-sous-leau-un-jour/",
+          "published": "2026-09-18T04:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Village français de 600 âmes situé au large du Canada, Miquelon sombrera sous les eaux dans les prochaines décennies à cause du réchauffement climatiq",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Stéphane François, politiste : «Le Rassemblement national n’a toujours pas de réel volet écologique dans son programme»",
           "link": "https://vert.eco/chaleurs-actuelles/stephane-francois-politiste-le-rassemblement-national-na-toujours-pas-de-reel-volet-ecologiste-dans-son-programme/",
           "published": "2026-09-17T04:30:00+00:00",
@@ -639,6 +626,17 @@
           "other_news": false
         },
         {
+          "title": "Houthi advance boosts Iran’s leverage over the US and Saudi Arabia – but may cost rebel group its legitimacy back in Yemen",
+          "link": "https://theconversation.com/houthi-advance-boosts-irans-leverage-over-the-us-and-saudi-arabia-but-may-cost-rebel-group-its-legitimacy-back-in-yemen-291930",
+          "published": "2026-09-17T18:08:20+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Seizure of the Bab el-Mandeb Strait complicates a widening conflict in the Persian Gulf. It also risks reigniting Yemen’s civil war.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Africa’s Red Sea states face growing risks as Houthi rebels expand their reach",
           "link": "https://theconversation.com/africas-red-sea-states-face-growing-risks-as-houthi-rebels-expand-their-reach-292160",
           "published": "2026-09-17T16:15:07+00:00",
@@ -646,28 +644,6 @@
           "type": "news",
           "language": "en",
           "summary": "The African shoreline is now much more valuable to outsiders who want to monitor, contain or outflank the waterway opposite them.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Why the story of urchin barrens and kelp forests is more complex than we thought",
-          "link": "https://theconversation.com/why-the-story-of-urchin-barrens-and-kelp-forests-is-more-complex-than-we-thought-288720",
-          "published": "2026-09-17T05:16:03+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Sea urchins eat kelp – but new research shows their diets and relationships with kelp forests are more complex than commonly thought.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "This sponge has holes. Some find that truly disgusting",
-          "link": "https://theconversation.com/this-sponge-has-holes-some-find-that-truly-disgusting-291263",
-          "published": "2026-09-17T02:26:12+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Trypophobia is more than an internet meme. It is a genuine psychological experience that can range from mild discomfort to significant distress.",
           "image": null,
           "other_news": false
         },
@@ -691,6 +667,17 @@
           "language": "en",
           "summary": "Storytelling is one of our oldest human behaviors. Across every culture and continent, people have used stories to share values, pass down knowledge a",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Mekong’s Irrawaddy dolphins find cautious hope amid a river in crisis",
+          "link": "https://news.mongabay.com/2026/09/mekongs-irrawaddy-dolphins-find-cautious-hope-amid-a-river-in-crisis/",
+          "published": "2026-09-17T20:59:19+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "KAMPI, Cambodia — At nine in the morning, the sun beats down on the Mekong River as Heang Koeurn turns off the motor of his boat and bobs on the water",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/17123401/WWF-Cambodia01-dolphin-768x512.jpg",
           "other_news": false
         },
         {
@@ -803,17 +790,6 @@
           "summary": "Wolves are a vital part of Canada’s rich biodiversity and are a culturally important species. Killing them to protect caribou repackages the colonial",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "Kathmandu Resolution calls for Asia-wide leadership on conservation (commentary)",
-          "link": "https://news.mongabay.com/2026/09/katmandu-resolution-calls-for-asia-wide-leadership-on-conservation-commentary/",
-          "published": "2026-09-14T17:29:21+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "There is perhaps no other continent on earth that possesses as diverse an ecosystem, biodiversity and cultural diversity as Asia. Yet, biodiversity co",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2021/12/09151101/Image-1.image_jpeg-768x512.jpg",
-          "other_news": true
         }
       ],
       "Other Marine News": [
@@ -848,17 +824,6 @@
           "language": "en",
           "summary": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af1f/live/e6dc9eb0-b134-11f1-a430-4d16ee157c41.jpg",
-          "other_news": true
-        },
-        {
-          "title": "US scraps limits on emissions from coal and gas power plants",
-          "link": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-14T22:04:14+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9e/live/16cf4830-b0ad-11f1-9c5d-0dd6cc52f198.jpg",
           "other_news": true
         },
         {
@@ -1324,14 +1289,25 @@
           "other_news": true
         },
         {
-          "title": "Incendies, pergélisol... Ces émissions de CO₂ vont réchauffer le climat au-delà de nos prévisions",
-          "link": "https://reporterre.net/Le-rechauffement-climatique-a-venir-pourrait-avoir-ete-sous-estime-de-0-4-oC",
-          "published": "2026-09-10T09:00:00+00:00",
-          "source": "Reporterre",
+          "title": "Climat : Pourquoi le kérosène des avions n’est-il pas taxé ?",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/18/climat-pourquoi-le-kerosene-des-avions-n-est-il-pas-taxe_6776705_3244.html",
+          "published": "2026-09-18T06:30:08+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Pergélisol, feux de forêt... Des sources d'émission de carbone peu prises en compte dans les modèles actuels pourraient alourdir",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20240226__2570869__v1__highres__fasticebreakingupsvalbardarctic-a16c9.jpg?1789030803",
+          "summary": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
+          "image": "https://img.lemde.fr/2025/10/23/250/0/3000/1500/644/322/60/0/269a2c5_upload-1-unixw4s49jcr-frame-70.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Présidentielle 2027 : Edouard Philippe défend sa vision libérale de l’écologie et prône une « politique de sécurité climatique »",
+          "link": "https://www.lemonde.fr/politique/article/2026/09/18/presidentielle-2027-edouard-philippe-defend-sa-vision-liberale-de-l-ecologie-et-prone-une-politique-de-securite-climatique_6776657_823448.html",
+          "published": "2026-09-18T05:15:10+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Jeudi, le candidat de droite a esquissé un pan de sa vision en matière environnementale en assumant sa philosophie. « On ne réussira pas l’adaptation",
+          "image": "https://img.lemde.fr/2026/09/17/448/0/5392/2696/644/322/60/0/a48a1c0_upload-1-9ykjwq7plycu-000-c8md3b6.jpg",
           "other_news": true
         },
         {
@@ -1386,17 +1362,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Ce mardi soir, une grande coalition d’associations environnementales, de collectifs, syndicats et citoyen·nes se rassemble devant le ministère de l’éc",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Vert recrute : journaliste politique en CDD sur l’extrême droite et l’écologie",
-          "link": "https://vert.eco/vert-vous-parle/vert-recrute-journaliste-politique-en-cdd-sur-lextreme-droite-et-lecologie/",
-          "published": "2026-09-15T08:17:15+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Vert recrute un·e journaliste sur l’extrême droite et l’écologie en contrat à durée déterminée d’octobre 2026 à juillet 2027 pour couvrir la campagne",
           "image": null,
           "other_news": true
         },
@@ -1475,17 +1440,6 @@
           "language": "en",
           "summary": "Read the stories in Mongabay&#8217;s series on offshore wind energy: Part One, Part Two and Part Three. Offshore wind has enormous potential as a sour",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/14162042/Image_1_Offshore_wind_farms_photographed_at_the_Port_of_Noshiro_at_sunset_20220728-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "EPA eliminates rule that limits planet-warming greenhouse gas emissions from power plants",
-          "link": "https://news.mongabay.com/short-article/2026/09/epa-eliminates-rule-that-limits-planet-warming-greenhouse-gas-emissions-from-power-plants/",
-          "published": "2026-09-14T17:41:13+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "WASHINGTON (AP) — The Environmental Protection Agency is repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled b",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/14173645/AP26257540442676-768x512.jpg",
           "other_news": true
         }
       ]

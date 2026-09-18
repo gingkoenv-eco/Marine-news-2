@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T12:15:38.685374+00:00",
+  "generated_at": "2026-09-18T16:24:08.203492+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
@@ -207,6 +207,17 @@
           "type": "news",
           "language": "en",
           "summary": "Scientists went to the heart of the El Niño pattern to learn from living and fossil corals. The results show El Niño’s intensifying coincides with glo",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Seven new viruses discovered in threatened sea turtle populations",
+          "link": "https://oceanographicmagazine.com/news/seven-new-viruses-discovered-in-threatened-sea-turtle-populations/",
+          "published": "2026-09-18T14:54:38+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Using genetic sequencing, scientists have identified 19 viruses - including seven never seen before in any species – in Atlantic and Pacific sea turtl",
           "image": null,
           "other_news": false
         },
@@ -549,6 +560,17 @@
           "other_news": false
         },
         {
+          "title": "Pêche : l'État joue la montre et laisse les navires-usines piller les côtes",
+          "link": "https://reporterre.net/Des-monstres-des-mers-pres-des-cotes-l-Etat-laisse-le-champ-libre-aux-navires-usines",
+          "published": "2026-09-18T12:30:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Malgré des annonces encourageantes et l'accord de la filière, le gouvernement se refuse à interdire la présence des navires-usin",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/23-12-14_sea_shepherd_006-5badc.jpg?1789734600",
+          "other_news": false
+        },
+        {
           "title": "Donald Trump affaiblit la protection des espèces menacées",
           "link": "https://reporterre.net/Donald-Trump-affaiblit-la-protection-des-especes-menacees",
           "published": "2026-09-18T09:56:36+00:00",
@@ -589,17 +611,6 @@
           "type": "news",
           "language": "en",
           "summary": "Niue Ocean Wide Trust and the City of Barcelona have both been named 2026 Earthshot Prize finalists in the Revive Our Oceans category, for pioneering",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Ocean Photographer of the Year 2026 winners announced",
-          "link": "https://oceanographicmagazine.com/news/ocean-photographer-of-the-year-winners-announced/",
-          "published": "2026-09-09T18:05:34+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The winners of the Ocean Photographer of the Year 2026, presented by Oceanographic and Blancpain, have been revealed. From the seabed to the surface,",
           "image": null,
           "other_news": false
         },
@@ -810,30 +821,6 @@
           "summary": "Le gouvernement veut réduire drastiquement le nombre de captages d'eau considérés comme prioritaires face aux pollutions agricol",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/water-road-glass-cup-drink-sink-1186781-pxhere.com_resized-aca60.jpg?1789480557",
           "other_news": true
-        },
-        {
-          "title": "Dhaka’s waste-to-energy project faces opposition from pollution-weary residents",
-          "link": "https://news.mongabay.com/2026/09/dhakas-waste-to-energy-project-faces-opposition-from-pollution-weary-residents/",
-          "published": "2026-09-15T16:30:44+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "At years old, Yeasmin Begum has lived near the Amin Bazar landfill on the outskirts of Dhaka her whole life. She says the stench often triggers allerg",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/15152846/Aminbazar-landfill-Photo-07-1-768x512.jpg",
-          "other_news": true
-        }
-      ],
-      "Marine Biodiversity & Conservation": [
-        {
-          "title": "B.C.’s militarized wolf cull is a misguided approach to a complex issue",
-          "link": "https://theconversation.com/b-c-s-militarized-wolf-cull-is-a-misguided-approach-to-a-complex-issue-290905",
-          "published": "2026-09-17T15:01:51+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Wolves are a vital part of Canada’s rich biodiversity and are a culturally important species. Killing them to protect caribou repackages the colonial",
-          "image": null,
-          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -994,6 +981,17 @@
           "other_news": true
         },
         {
+          "title": "Granting a new gasfield licence does not guarantee energy security",
+          "link": "https://theconversation.com/granting-a-new-gasfield-licence-does-not-guarantee-energy-security-291324",
+          "published": "2026-09-18T13:26:43+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Any additional emissions from a UK gasfield are incompatible with climate targets.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Earthshot and the science of positive tipping points: how environmental progress can become unstoppable",
           "link": "https://theconversation.com/earthshot-and-the-science-of-positive-tipping-points-how-environmental-progress-can-become-unstoppable-291491",
           "published": "2026-09-16T10:45:37+00:00",
@@ -1078,6 +1076,17 @@
           "type": "news",
           "language": "en",
           "summary": "New research suggests negative or anxiety-inducing images might be more useful than once thought.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Flood-damaged Nepal wants help from the global climate Loss and Damage Fund – but it’s waiting, along with 118 other countries",
+          "link": "https://theconversation.com/flood-damaged-nepal-wants-help-from-the-global-climate-loss-and-damage-fund-but-its-waiting-along-with-118-other-countries-291264",
+          "published": "2026-09-18T12:39:03+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "Getting Loss and Damage Fund money would be worth a lot more than the $20 million Nepal is asking for. The foreign minister calls it a demand for just",
           "image": null,
           "other_news": true
         },
@@ -1346,14 +1355,14 @@
           "other_news": true
         },
         {
-          "title": "Répression : le traitement de militants de Greenpeace jugé « préoccupant » par un rapporteur de l'ONU",
-          "link": "https://reporterre.net/L-ONU-juge-profondement-preoccupant-le-traitement-subi-par-des-militants-de-Greenpeace",
-          "published": "2026-09-10T13:20:38+00:00",
-          "source": "Reporterre",
+          "title": "L’Etat dénonce « l’incurie » du liquidateur et reprend en main la sécurité de l’usine de pâte à papier de Tarascon",
+          "link": "https://www.lemonde.fr/economie/article/2026/09/18/fibre-excellence-l-etat-denonce-l-incurie-du-liquidateur-et-reprend-en-main-la-securite-de-l-usine-de-pate-a-papier-de-tarascon-classee-seveso_6776797_3234.html",
+          "published": "2026-09-18T15:19:26+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Le rapporteur spécial des Nations unies sur les défenseurs de l'environnement, Michel Forst, a alerté les autorités françaises s",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20241028__36ky4bf__v1__highres__franceenergynucleargreenpeacedemo-01d9b.jpg?1789046441",
+          "summary": "« L’Etat a décidé de faire intervenir l’Agence de l’environnement et de la maîtrise de l’énergie en urgence impérieuse afin de prévenir les risques d’",
+          "image": "https://img.lemde.fr/2026/09/18/475/0/5706/2853/644/322/60/0/d18150e_upload-1-ii5s4vz42k6z-000-a7q73yp.jpg",
           "other_news": true
         },
         {
@@ -1379,9 +1388,9 @@
           "other_news": true
         },
         {
-          "title": "Décharges sauvages : la justice renvoie Nestlé devant le tribunal correctionnel de Nancy",
+          "title": "Nestlé renvoyé devant le tribunal correctionnel de Nancy pour des décharges sauvages près de ses usines d’eau en bouteille",
           "link": "https://www.lemonde.fr/planete/article/2026/09/17/decharges-sauvages-la-justice-renvoie-nestle-devant-le-tribunal-correctionnel-de-nancy_6776431_3244.html",
-          "published": "2026-09-17T15:39:09+02:00",
+          "published": "2026-09-17T15:39:08+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",

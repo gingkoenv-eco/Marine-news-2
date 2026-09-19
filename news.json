@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T17:06:04.133282+00:00",
+  "generated_at": "2026-09-19T05:01:04.685858+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
@@ -439,17 +439,6 @@
           "other_news": false
         },
         {
-          "title": "Giant jellyfish with '40ft tentacles' captured on camera",
-          "link": "https://www.bbc.co.uk/news/articles/cvgynz9qz00o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-15T05:18:42+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Iestyn Morgan has set out to make Welsh aquatic life \"more accessible\" for people to see.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1bb/live/84fac5b0-b052-11f1-89e4-0bbff5cb7e23.jpg",
-          "other_news": false
-        },
-        {
           "title": "En Antarctique, le guano des manchots devient rose, et ce n’est pas une bonne nouvelle",
           "link": "https://theconversation.com/en-antarctique-le-guano-des-manchots-devient-rose-et-ce-nest-pas-une-bonne-nouvelle-292258",
           "published": "2026-09-18T09:08:26+00:00",
@@ -749,19 +738,6 @@
       ]
     },
     "To Watch / Read / Listen": {
-      "Marine Biodiversity & Conservation": [
-        {
-          "title": "Report links fishmeal production to decline in key species for Guinea-Bissau communities",
-          "link": "https://news.mongabay.com/short-article/2026/09/report-links-fishmeal-production-to-decline-in-key-species-for-guinea-bissau-communities/",
-          "published": "2026-09-15T19:23:47+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Populations of sardinella, an important protein-rich fish, are in rapid decline in the waters off Guinea-Bissau in West Africa. The decline appears to",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/15192106/7347123450_369d79c376_k-768x512.jpg",
-          "other_news": false
-        }
-      ],
       "Species Migration & Habitat Change": [
         {
           "title": "Thousands of sea turtles reach Mexico in yearly migration threatened by climate crisis – video",
@@ -1256,6 +1232,17 @@
           "other_news": true
         },
         {
+          "title": "Un Commun accord : comment Jean-Marc Jancovici réinvente la Convention citoyenne pour le climat",
+          "link": "https://reporterre.net/Un-Commun-accord-comment-Jean-Marc-Jancovici-reinvente-la-Convention-citoyenne-pour-le",
+          "published": "2026-09-19T04:30:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "L'assemblée citoyenne « Un Commun accord » lancée par Jean-Marc Jancovici se réunira pour la première fois à Paris les 19 et 20",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/janco2027-34464.jpg?1789792201",
+          "other_news": true
+        },
+        {
           "title": "Plus de 120 défenseurs de l'environnement tués dans le monde en 2025, dont le Corse Pierre Alessandri",
           "link": "https://reporterre.net/Plus-de-120-defenseurs-de-l-environnement-tues-dans-le-monde-en-2025-dont-le-Francais",
           "published": "2026-09-17T12:42:40+00:00",
@@ -1355,6 +1342,17 @@
           "other_news": true
         },
         {
+          "title": "De la « journée cruellement chaude » au « globocide », comment l’évolution du climat impose la création d’un nouveau vocabulaire",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/19/de-la-journee-cruellement-chaude-au-globocide-comment-l-evolution-du-climat-impose-la-creation-d-un-nouveau-vocabulaire_6777226_3244.html",
+          "published": "2026-09-19T06:30:17+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les débats autour de la manière de nommer la crise climatique et ses effets n’ont cessé de se renouveler au cours des dernières décennies. A la fois p",
+          "image": "https://img.lemde.fr/2026/09/05/0/0/6720/3360/644/322/60/0/828c54e_upload-1-2unnnp2pfhgi-vn20260904-toulouse-chaleur-053.jpg",
+          "other_news": true
+        },
+        {
           "title": "L’Etat dénonce « l’incurie » du liquidateur et reprend en main la sécurité de l’usine de pâte à papier de Tarascon",
           "link": "https://www.lemonde.fr/economie/article/2026/09/18/fibre-excellence-l-etat-denonce-l-incurie-du-liquidateur-et-reprend-en-main-la-securite-de-l-usine-de-pate-a-papier-de-tarascon-classee-seveso_6776797_3234.html",
           "published": "2026-09-18T15:19:26+02:00",
@@ -1385,17 +1383,6 @@
           "language": "fr",
           "summary": "Jeudi, le candidat Horizons a esquissé un pan de sa vision en matière environnementale en assumant sa philosophie. « On ne réussira pas l’adaptation c",
           "image": "https://img.lemde.fr/2026/09/17/448/0/5392/2696/644/322/60/0/a48a1c0_upload-1-9ykjwq7plycu-000-c8md3b6.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Nestlé renvoyé devant le tribunal correctionnel de Nancy pour des décharges sauvages près de ses usines d’eau en bouteille",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/17/decharges-sauvages-la-justice-renvoie-nestle-devant-le-tribunal-correctionnel-de-nancy_6776431_3244.html",
-          "published": "2026-09-17T15:39:08+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La cour d’appel de Nancy relance le dossier Nestlé, ouvrant la voie à de nouvelles expertises sur l’impact environnemental des décharges sauvages près",
-          "image": "https://img.lemde.fr/2026/09/17/416/0/5000/2500/644/322/60/0/cc2eb68_ftp-1-nv4kwh5uswie-5111596-01-06.jpg",
           "other_news": true
         },
         {

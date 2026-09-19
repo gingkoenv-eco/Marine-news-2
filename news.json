@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T11:56:57.184768+00:00",
+  "generated_at": "2026-09-19T15:53:51.914553+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
@@ -49,17 +49,6 @@
           "language": "en",
           "summary": "The UK could supply half of its oil and gas needs without imports if the government showed more support for the sector, an OEUK report claims.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5137/live/e8988d50-b075-11f1-a905-bfcd9db6b414.jpg",
-          "other_news": false
-        },
-        {
-          "title": "As marine heat breaks records, countries seek ocean roadmap at COP31",
-          "link": "https://www.climatechangenews.com/2026/08/20/marine-heat-records-countries-ocean-roadmap-australia-turkiye-cop31/",
-          "published": "2026-08-20T15:07:29+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Africa and the EU are leading a push for COP31 to deliver a roadmap that lays out measures to protect fast-warming oceans\nThe post As marine heat brea",
-          "image": null,
           "other_news": false
         },
         {
@@ -452,17 +441,6 @@
           "other_news": false
         },
         {
-          "title": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
-          "link": "https://www.theguardian.com/environment/2026/aug/20/environment-oceans-acidification-alkali-carbon-absorption-lobsters",
-          "published": "2026-08-20T14:00:52+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Crustaceans are the subject of tests to see if alkalis added to seawater, so it absorbs more CO2, harm marine life. But Trump’s halt to funding threat",
-          "image": "https://i.guim.co.uk/img/media/c5d8e574d2a6be0067606206ed1b286ce94319be/0_0_4016_3213/master/4016.jpg?width=140&quality=85&auto=format&fit=max&s=154118993bb8d384e4bf3f65f6b24e4a",
-          "other_news": false
-        },
-        {
           "title": "En Antarctique, le guano des manchots devient rose, et ce n’est pas une bonne nouvelle",
           "link": "https://theconversation.com/en-antarctique-le-guano-des-manchots-devient-rose-et-ce-nest-pas-une-bonne-nouvelle-292258",
           "published": "2026-09-18T09:08:26+00:00",
@@ -647,17 +625,6 @@
           "language": "fr",
           "summary": "Jeudi, les pêcheurs méditerranéens avaient bloqué le port de Nice et un dépôt pétrolier situé à Frontignan, dans l’Hérault.",
           "image": "https://img.lemde.fr/2026/09/17/464/0/5568/2784/644/322/60/0/d1ddf2d_ftp-1-6go0uy3s11b8-5110131-01-06.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Prix des carburants : les pêcheurs lèvent les blocages du port de Nice et d’un dépôt pétrolier dans l’Hérault",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/17/prix-des-carburants-les-pecheurs-levent-les-blocages-du-port-de-nice-et-d-un-depot-petrolier-dans-l-herault_6776050_3245.html",
-          "published": "2026-09-17T16:21:08+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La ministre de la mer et de la pêche, Catherine Chabaud, a rencontré les représentants des pêcheurs méditerranéens dans l’après-midi. Sans avancées co",
-          "image": "https://img.lemde.fr/2026/09/17/607/0/4176/2088/644/322/60/0/79da6de_ftp-1-5vp9o2auuiu3-5109783-01-06.jpg",
           "other_news": false
         },
         {
@@ -879,6 +846,17 @@
           "language": "en",
           "summary": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af1f/live/e6dc9eb0-b134-11f1-a430-4d16ee157c41.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Nature reserve to double in size, thanks to gift",
+          "link": "https://www.bbc.co.uk/news/articles/c6kgw0kx0540o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-19T14:37:07+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Staffordshire Wildlife Trust acquires an area of wet woodland, marsh and pastureland due to the will.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5cc/live/63e7f860-b431-11f1-9fa0-111a12dcb7b0.jpg",
           "other_news": true
         },
         {

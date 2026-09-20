@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T16:32:10.102072+00:00",
+  "generated_at": "2026-09-20T05:01:06.427615+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
@@ -49,17 +49,6 @@
           "language": "en",
           "summary": "The UK could supply half of its oil and gas needs without imports if the government showed more support for the sector, an OEUK report claims.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5137/live/e8988d50-b075-11f1-a905-bfcd9db6b414.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Brazil election could put 95% of the Amazon under right-wing governments",
-          "link": "https://news.mongabay.com/2026/09/right-wing-leaders-could-rule-95-of-the-amazon-by-2027-experts-warn/",
-          "published": "2026-09-15T19:27:06+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "With 60% of the rainforest hanging in the balance, Brazil’s upcoming election could seal the Amazon's fate.",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/15182022/AP26237589746151-768x512.jpg",
           "other_news": false
         }
       ]
@@ -1451,6 +1440,17 @@
           "language": "en",
           "summary": "A new bill prevents corporations being sued for the climate damage their emissions cause, as the government says climate action should be handled at t",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "« J'y ai passé 12 000 heures » : il a construit sa propre voiture à énergie solaire",
+          "link": "https://reporterre.net/J-y-ai-passe-12-000-heures-il-a-construit-sa-propre-voiture-a-energie-solaire",
+          "published": "2026-09-20T05:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Après plusieurs années de recherche, Denis Baulier a créé une voiture solaire faite maison, avec jusqu'à 120 km d'autonomie. Ave",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/la_scaramobile_-46-cc7b2.jpg?1789880401",
           "other_news": true
         },
         {

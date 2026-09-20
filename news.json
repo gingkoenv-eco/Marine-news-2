@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T05:01:06.427615+00:00",
+  "generated_at": "2026-09-20T11:25:49.505766+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
@@ -302,6 +302,17 @@
         }
       ],
       "Sustainable Fisheries": [
+        {
+          "title": "'You never quite know what you're going to pull out'",
+          "link": "https://www.bbc.co.uk/news/articles/c5y4zgdd3ny3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-20T06:38:44+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The group is marking a decade of fishing everything from an inflatable doll to a Nintendo out of the harbour.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b84/live/69f84dd0-b342-11f1-91a3-393282eb9f17.jpg",
+          "other_news": false
+        },
         {
           "title": "Ministers accused of ‘choosing’ to run down Britain’s fish stocks",
           "link": "https://oceanographicmagazine.com/news/ministers-accused-of-choosing-to-run-down-britains-fish-stocks/",
@@ -639,28 +650,6 @@
           "other_news": false
         },
         {
-          "title": "Houthi advance boosts Iran’s leverage over the US and Saudi Arabia – but may cost rebel group its legitimacy back in Yemen",
-          "link": "https://theconversation.com/houthi-advance-boosts-irans-leverage-over-the-us-and-saudi-arabia-but-may-cost-rebel-group-its-legitimacy-back-in-yemen-291930",
-          "published": "2026-09-17T18:08:20+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Seizure of the Bab el-Mandeb Strait complicates a widening conflict in the Persian Gulf. It also risks reigniting Yemen’s civil war.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Africa’s Red Sea states face growing risks as Houthi rebels expand their reach",
-          "link": "https://theconversation.com/africas-red-sea-states-face-growing-risks-as-houthi-rebels-expand-their-reach-292160",
-          "published": "2026-09-17T16:15:07+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The African shoreline is now much more valuable to outsiders who want to monitor, contain or outflank the waterway opposite them.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Do Sea Turtles Get Lost?",
           "link": "https://oceanconservancy.org/blog/2026/08/27/do-sea-turtles-get-lost/",
           "published": "2026-08-27T15:58:38+00:00",
@@ -835,28 +824,6 @@
           "language": "en",
           "summary": "Staffordshire Wildlife Trust acquires an area of wet woodland, marsh and pastureland due to the will.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5cc/live/63e7f860-b431-11f1-9fa0-111a12dcb7b0.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Move faster to solve climate challenges, Prince William says",
-          "link": "https://www.bbc.co.uk/news/articles/cwe8e2j5xxy3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-18T10:12:32+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Prince of Wales tells the BBC we need to \"accelerate\" in finding solutions to climate challenges as Earthshot nominees are unveiled.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe22/live/5d5c8370-b347-11f1-91a3-393282eb9f17.png",
-          "other_news": true
-        },
-        {
-          "title": "Burst pipe floods wildlife meadow for fourth time",
-          "link": "https://www.bbc.co.uk/news/articles/cjp302kq62elo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-18T07:56:23+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Repeated flooding of a key conservation site in Oxfordshire leaves a charity frustrated.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/5b85fe70-b336-11f1-910c-69bc1dc40919.jpg",
           "other_news": true
         },
         {
@@ -1652,13 +1619,13 @@
           "other_news": true
         },
         {
-          "title": "Plus de 8 000 morts pendant les canicules : «C’est le résultat de réactions politiques trop lentes et d’un manque d’adaptation»",
-          "link": "https://vert.eco/climat/plus-de-8-000-morts-pendant-les-canicules-cest-le-resultat-de-reactions-politiques-trop-lentes-et-dun-manque-dadaptation/",
-          "published": "2026-09-16T15:14:00+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Demolishing Lagos informal settlements also destroys the city’s best defences against climate change",
+          "link": "https://theconversation.com/demolishing-lagos-informal-settlements-also-destroys-the-citys-best-defences-against-climate-change-291071",
+          "published": "2026-09-20T05:03:56+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "De mai jusqu’à fin août, Santé publique France a mis en évidence une surmortalité de 8 124 décès pendant les épisodes de fortes chaleurs. Logement, pr",
+          "language": "en",
+          "summary": "Residents whose homes cluster along waterways, canals and shorelines have built organised systems for living with climate change.",
           "image": null,
           "other_news": true
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T05:01:10.092238+00:00",
+  "generated_at": "2026-09-21T12:50:05.276166+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
@@ -11,17 +11,6 @@
           "type": "news",
           "language": "en",
           "summary": "As the debate over migration policy continues, it’s not too late for the government to address the pitfalls of its plan by looking to its Canadian cou",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "The government’s migration policy prioritises knee-jerk politics over careful planning",
-          "link": "https://theconversation.com/the-governments-migration-policy-prioritises-knee-jerk-politics-over-careful-planning-292137",
-          "published": "2026-09-18T02:49:14+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The government’s migration policy announcement was long-awaited, but the contents ultimately fell short of expectations.",
           "image": null,
           "other_news": false
         }
@@ -224,72 +213,6 @@
           "other_news": false
         },
         {
-          "title": "Seven new viruses discovered in threatened sea turtle populations",
-          "link": "https://oceanographicmagazine.com/news/seven-new-viruses-discovered-in-threatened-sea-turtle-populations/",
-          "published": "2026-09-18T14:54:38+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Using genetic sequencing, scientists have identified 19 viruses - including seven never seen before in any species – in Atlantic and Pacific sea turtl",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Deep-sea expedition reveals new life and old litter 4,000 metres down",
-          "link": "https://oceanographicmagazine.com/news/deep-sea-expedition-reveals-new-life-and-old-litter-4000-metres-down/",
-          "published": "2026-09-17T14:05:38+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Despite being delighted by the discovery of roughly 40 new species, researchers were troubled by what else they found nearly 4,000 metres down: plasti",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Do whales grieve? Rare humpback observation offers first clue",
-          "link": "https://oceanographicmagazine.com/news/do-whales-grieve-rare-humpback-observation-offers-first-clue/",
-          "published": "2026-09-16T14:41:46+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Griffith University and Sea World Foundation researchers document a humpback whale mother's prolonged attendance to her deceased calf off the Gold Coa",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Mapping shark migration will be key to their survival, says study",
-          "link": "https://oceanographicmagazine.com/news/mapping-shark-migration-will-be-key-to-their-survival-says-study/",
-          "published": "2026-09-16T11:56:20+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "New University of Queensland research maps migratory pathways of Australian sharks and rays for the first time, revealing significant data gaps and th",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Culling coral-killing starfish generates $20 million for Queensland",
-          "link": "https://oceanographicmagazine.com/news/culling-coral-killing-starfish-generates-20-million-for-queensland/",
-          "published": "2026-09-14T13:47:32+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A $5.5 million program culling coral-killing crown-of-thorns starfish in Far North Queensland generated $20 million in economic output and 61 local jo",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Native oysters make encouraging comeback on restored North Sea reef",
-          "link": "https://oceanographicmagazine.com/news/native-oysters-make-encouraging-comeback-on-restored-north-sea-reef/",
-          "published": "2026-09-14T12:22:16+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The majority of adult and juvenile oysters were found to be alive and in healthy condition, providing habitats for fish, shrimp and squat lobsters\nThe",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "The Annual Migration to Clean Up Our Coasts",
           "link": "https://oceanconservancy.org/blog/2026/09/04/clean-up-our-coasts/",
           "published": "2026-09-04T14:18:13+00:00",
@@ -301,14 +224,14 @@
           "other_news": false
         },
         {
-          "title": "Marine heatwave likely caused sharp decline in Hawaiian humpback whales, study finds",
-          "link": "https://news.mongabay.com/short-article/2026/09/marine-heatwave-likely-caused-sharp-decline-in-hawaiian-humpback-whales-study-finds/",
-          "published": "2026-09-15T21:38:13+00:00",
+          "title": "H5N1 bird flu jumps to marine mammals and wildlife in Australia",
+          "link": "https://news.mongabay.com/short-article/2026/09/h5n1-bird-flu-jumps-to-marine-mammals-and-wildlife-in-australia/",
+          "published": "2026-09-21T05:16:22+00:00",
           "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Roughly a decade ago, a marine heatwave in the northeastern Pacific Ocean caused a dramatic decline in populations of forage fish and krill, the base",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/15211402/AP23074823398722-768x512.jpg",
+          "summary": "H5N1 avian influenza is spreading rapidly across southeastern Australia owing to infected wild bird species, including little penguins, magpies, crest",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/21051504/Common_Dolphin_23716626394_optimized_4000-768x512.jpg",
           "other_news": false
         }
       ],
@@ -322,17 +245,6 @@
           "language": "en",
           "summary": "The group is marking a decade of fishing everything from an inflatable doll to a Nintendo out of the harbour.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b84/live/69f84dd0-b342-11f1-91a3-393282eb9f17.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Ministers accused of ‘choosing’ to run down Britain’s fish stocks",
-          "link": "https://oceanographicmagazine.com/news/ministers-accused-of-choosing-to-run-down-britains-fish-stocks/",
-          "published": "2026-09-16T15:25:59+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "More than 40% of UK fish stocks have declined in the last ten years, with a new report claiming most catch quotas are still being set above scientific",
-          "image": null,
           "other_news": false
         },
         {
@@ -393,19 +305,6 @@
           "other_news": false
         }
       ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "95% of Scotland’s seas open to trawling… but things could change",
-          "link": "https://oceanographicmagazine.com/news/95-of-scotlands-seas-open-to-trawling-but-things-could-change/",
-          "published": "2026-09-15T11:10:56+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Scotland has opened a consultation on fisheries management for 76 MPAs and 90 proposed PMF areas, as campaigners note that 95% of its inshore seas rem",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Other Marine News": [
         {
           "title": "The love of her life died at sea hunting shipwrecks. Now she’s taking the helm",
@@ -438,17 +337,6 @@
           "language": "en",
           "summary": "Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystemsSign up for climate and",
           "image": "https://i.guim.co.uk/img/media/472bdde0a67fc8cb423f8306738cb3c5e60ebe82/367_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=61bcba4b08d36892cfc2c2c7a1789d2f",
-          "other_news": false
-        },
-        {
-          "title": "‘It’s pretty much a guarantee you’ll get stung’: jellyfish keep swimmers off Delaware beaches",
-          "link": "https://www.theguardian.com/us-news/2026/aug/22/jellyfish-sting-delaware-beaches",
-          "published": "2026-08-22T10:00:00+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Beach patrols report hundreds of stings a day as warmer waters and drought create favorable conditions for jellyfishAn unusually high number of jellyf",
-          "image": "https://i.guim.co.uk/img/media/1e2efb5ad77ec68e1d4778ce0444eea85a712e03/4_742_3759_3006/master/3759.jpg?width=140&quality=85&auto=format&fit=max&s=18896470af39a01ef13f7eb9a78c41df",
           "other_news": false
         },
         {
@@ -617,18 +505,7 @@
           "other_news": false
         },
         {
-          "title": "Niue and Barcelona 2026 Earthshot Prize Finalists for ocean work",
-          "link": "https://oceanographicmagazine.com/news/niue-and-barcelona-2026-earthshot-prize-finalists-for-ocean-work/",
-          "published": "2026-09-18T11:59:43+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Niue Ocean Wide Trust and the City of Barcelona have both been named 2026 Earthshot Prize finalists in the Revive Our Oceans category, for pioneering",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Face au blocus d’Ormuz, l’Iran mise sur la mer Caspienne",
+          "title": "Face au blocus d’Ormuz, l’Iran mise sur la mer Caspienne",
           "link": "https://www.lemonde.fr/economie/article/2026/09/20/face-au-blocus-d-ormuz-l-iran-mise-sur-la-mer-caspienne_6778396_3234.html",
           "published": "2026-09-20T18:00:00+02:00",
           "source": "Le Monde Planète",
@@ -657,17 +534,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Village français de 600 âmes situé au large du Canada, Miquelon sombrera sous les eaux dans les prochaines décennies à cause du réchauffement climatiq",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Stéphane François, politiste : «Le Rassemblement national n’a toujours pas de réel volet écologique dans son programme»",
-          "link": "https://vert.eco/chaleurs-actuelles/stephane-francois-politiste-le-rassemblement-national-na-toujours-pas-de-reel-volet-ecologiste-dans-son-programme/",
-          "published": "2026-09-17T04:30:00+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dimanche dernier, Marine Le Pen a lancé sa campagne présidentielle à Hénin-Beaumont et a déjà promis plusieurs mesures anti-écologiques. Bien loin des",
           "image": null,
           "other_news": false
         },
@@ -777,6 +643,17 @@
           "summary": "Au Festival du Monde, samedi 19 septembre, Fleur Breteau, fondatrice du collectif Cancer Colère, s’exprimait parmi d’autres personnalités qui militent",
           "image": "https://img.lemde.fr/2026/09/20/160/0/1280/640/644/322/60/0/255019d_upload-1-pldnvrkq30zm-photo-2026-09-20-14-22-32.jpg",
           "other_news": true
+        },
+        {
+          "title": "Noise pollution is a serious but often forgotten public health problem",
+          "link": "https://theconversation.com/noise-pollution-is-a-serious-but-often-forgotten-public-health-problem-290223",
+          "published": "2026-09-21T12:38:49+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Creating a quieter environment can improve your health – but you have to know what you’re listening for.",
+          "image": null,
+          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -799,17 +676,6 @@
           "type": "news",
           "language": "en",
           "summary": "Opportunity’s ‘citizens income’ policy would do the least for the worst off, and retains many of the current system’s targeting complexities.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "How the government’s new immigration policy will cause more trauma for victim-survivors of domestic violence",
-          "link": "https://theconversation.com/how-the-governments-new-immigration-policy-will-cause-more-trauma-for-victim-survivors-of-domestic-violence-292352",
-          "published": "2026-09-18T05:05:50+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The changes run the risk that more women will remain silent and be forced to remain in violent and dangerous situations.",
           "image": null,
           "other_news": true
         }
@@ -1443,6 +1309,17 @@
           "other_news": true
         },
         {
+          "title": "« Pourquoi tous ces enfants tombent-ils malades ? » : à La Rochelle, des citoyens mobilisés face aux cancers pédiatriques",
+          "link": "https://reporterre.net/Pourquoi-tous-ces-enfants-tombent-ils-malades-a-La-Rochelle-des-citoyens-mobilises-face",
+          "published": "2026-09-21T07:31:28+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "L'association Avenir Santé Environnement a manifesté le 19 septembre à La Rochelle contre les cancers pédiatriques, nombreux dan",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH465/appel_de_la_rochelle_credit_amelia_blanchot_photo_1-70d3a.jpg?1789975891",
+          "other_news": true
+        },
+        {
           "title": "« J'y ai passé 12 000 heures » : il a construit sa propre voiture à énergie solaire",
           "link": "https://reporterre.net/J-y-ai-passe-12-000-heures-il-a-construit-sa-propre-voiture-a-energie-solaire",
           "published": "2026-09-20T05:00:00+00:00",
@@ -1564,9 +1441,20 @@
           "other_news": true
         },
         {
-          "title": "L’appel de Yann Arthus-Bertrand, Jean Jouzel, Noël Mamère, Laurence Tubiana… : « Nous demandons au premier ministre et aux candidats à la présidentielle de s’engager à décréter l’urgence climatique »",
+          "title": "« Les choix économiques dépendent bien souvent des échéances électorales. Or, les politiques le savent, il n’y a jamais loin de la pompe aux urnes »",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/21/les-choix-economiques-dependent-bien-souvent-des-echeances-electorales-or-les-politiques-le-savent-il-n-y-a-jamais-loin-de-la-pompe-aux-urnes_6778908_3232.html",
+          "published": "2026-09-21T10:39:44+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La hausse des prix du carburant suscite le ressentiment des consommateurs et un dilemme chez les autorités qui peuvent prendre des mesures de soutien,",
+          "image": "https://img.lemde.fr/2026/09/18/696/0/4176/2088/644/322/60/0/c5aeadb_ftp-1-vp1agifmm5hw-5119001-01-06.jpg",
+          "other_news": true
+        },
+        {
+          "title": "« Nous demandons au premier ministre et aux candidats à la présidentielle de s’engager à décréter l’urgence climatique » : l’appel de Yann Arthus-Bertrand, Pierre Hurmic, Jean Jouzel, Laurence Tubiana",
           "link": "https://www.lemonde.fr/idees/article/2026/09/21/l-appel-de-yann-arthus-bertrand-jean-jouzel-noel-mamere-laurence-tubiana-nous-demandons-au-premier-ministre-et-aux-candidats-a-la-presidentielle-de-s-engager-a-decreter-l-urgence-climatique_6778697_3232.html",
-          "published": "2026-09-21T06:30:10+02:00",
+          "published": "2026-09-21T06:30:05+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1588,7 +1476,7 @@
         {
           "title": "De la « journée cruellement chaude » au « globocide », comment l’évolution du climat impose la création d’un nouveau vocabulaire",
           "link": "https://www.lemonde.fr/planete/article/2026/09/19/de-la-journee-cruellement-chaude-au-globocide-comment-l-evolution-du-climat-impose-la-creation-d-un-nouveau-vocabulaire_6777226_3244.html",
-          "published": "2026-09-19T06:30:17+02:00",
+          "published": "2026-09-19T06:30:07+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1597,18 +1485,18 @@
           "other_news": true
         },
         {
-          "title": "L’Etat dénonce « l’incurie » du liquidateur et reprend en main la sécurité de l’usine de pâte à papier de Tarascon",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/18/fibre-excellence-l-etat-denonce-l-incurie-du-liquidateur-et-reprend-en-main-la-securite-de-l-usine-de-pate-a-papier-de-tarascon-classee-seveso_6776797_3234.html",
-          "published": "2026-09-18T15:19:26+02:00",
-          "source": "Le Monde Planète",
+          "title": "«L’urgence climatique nous oblige, c’est notre futur très proche qui est en jeu» : l’appel de la jeunesse à manifester le 26 septembre",
+          "link": "https://vert.eco/rapports-de-force/lurgence-climatique-nous-oblige-cest-notre-futur-tres-proche-qui-est-en-jeu-lappel-de-la-jeunesse-a-manifester-le-26-septembre/",
+          "published": "2026-09-21T12:47:26+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "« L’Etat a décidé de faire intervenir l’Agence de l’environnement et de la maîtrise de l’énergie en urgence impérieuse afin de prévenir les risques d’",
-          "image": "https://img.lemde.fr/2026/09/18/475/0/5706/2853/644/322/60/0/d18150e_upload-1-ii5s4vz42k6z-000-a7q73yp.jpg",
+          "summary": "Une mobilisation nationale pour le climat, le vivant et la justice sociale aura lieu partout en France, le 26 septembre. Dans cette tribune, collégien",
+          "image": null,
           "other_news": true
         },
         {
-          "title": "«On sait très bien que le RN n’aime pas l’écologie» : à Carpentras, France nature environnement lâchée par la mairie d’extrême droite",
+          "title": "«Le RN n’aime pas l’écologie» : à Carpentras, le maire d’extrême droite met France nature environnement à la porte",
           "link": "https://vert.eco/chaleurs-actuelles/on-sait-tres-bien-que-le-rn-naime-pas-lecologie-a-carpentras-france-nature-environnement-lachee-par-la-mairie-dextreme-droite/",
           "published": "2026-09-19T05:00:00+00:00",
           "source": "Vert Eco Articles",
@@ -1652,6 +1540,17 @@
           "other_news": true
         },
         {
+          "title": "As renewed chaos grips the oil market, one country is keeping global prices down – by reducing demand",
+          "link": "https://theconversation.com/as-renewed-chaos-grips-the-oil-market-one-country-is-keeping-global-prices-down-by-reducing-demand-292218",
+          "published": "2026-09-21T05:55:16+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As renewed chaos grips the oil market, China is reaping the benefits of electric vehicles. But Australia’s reliance on diesel leaves it exposed",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Australia in the 2060s: an optimistic outlook dominates budget forecasts in the Intergenerational Report",
           "link": "https://theconversation.com/australia-in-the-2060s-an-optimistic-outlook-dominates-budget-forecasts-in-the-intergenerational-report-291458",
           "published": "2026-09-21T02:31:46+00:00",
@@ -1674,36 +1573,14 @@
           "other_news": true
         },
         {
-          "title": "When disaster crosses borders, Indonesia’s credibility is tested twice",
-          "link": "https://theconversation.com/when-disaster-crosses-borders-indonesias-credibility-is-tested-twice-291772",
-          "published": "2026-09-18T10:04:56+00:00",
-          "source": "The Conversation",
+          "title": "Tight Brazil election challenges fragile gains for Amazon conservation",
+          "link": "https://news.mongabay.com/2026/09/tight-brazil-election-challenges-fragile-gains-for-amazon-conservation/",
+          "published": "2026-09-21T07:00:36+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "When environmental crises cross borders, government communication become crucial to managing their impacts and protecting Indonesia’s international re",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The long fascinating history of food additives – and why we’re stuck with them",
-          "link": "https://theconversation.com/the-long-fascinating-history-of-food-additives-and-why-were-stuck-with-them-283094",
-          "published": "2026-09-18T09:27:32+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "We’ve gone from celebrating foods with additives to despising them, but living without them seems an impossibility.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "It’s getting easier to live off-grid – but it comes with certain costs",
-          "link": "https://theconversation.com/its-getting-easier-to-live-off-grid-but-it-comes-with-certain-costs-288494",
-          "published": "2026-09-18T04:34:36+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "People who have extra funds, suitable homes and a desire to be self-sufficient may consider disconnecting from the grid.",
-          "image": null,
+          "summary": "As South America turns right, Brazil’s vote could leave the Amazon without conservation leaders.",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/18210229/Curvas_do_Parque_Nacional_de_Anavilhanas-768x512.jpg",
           "other_news": true
         },
         {
@@ -1770,17 +1647,6 @@
           "language": "en",
           "summary": "Bolivia recently began overhauling one of its principal mining laws, with the goal of modernizing the industry and improving oversight. Civil society",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/16194926/AP25261679853086-2-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Venezuela’s historic oil deal with the US reignites environmental, human rights concerns",
-          "link": "https://news.mongabay.com/2026/09/venezuelas-historic-oil-deal-with-the-us-reignites-environmental-human-rights-concerns/",
-          "published": "2026-09-16T08:30:37+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In late August, the U.S. announced a historic oil deal that gives it access to more than 65 billion barrels of proven reserves in Venezuela, with inve",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/15175444/Clouds-form-over-pumpjacks-and-power-transmission-towers-on-Lake-Maracaibo-in-Cabimas-Venezuela-Tuesday-Sept.-1-2026.-AP-PhotoAriana-Cubillos-768x512.jpg",
           "other_news": true
         }
       ]

@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-09-20T16:50:24.419922+00:00",
+  "generated_at": "2026-09-21T05:01:10.092238+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
+        {
+          "title": "Canada is managing migration without taking a sledgehammer approach. Here’s how Australia can, too",
+          "link": "https://theconversation.com/canada-is-managing-migration-without-taking-a-sledgehammer-approach-heres-how-australia-can-too-292114",
+          "published": "2026-09-20T20:12:58+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As the debate over migration policy continues, it’s not too late for the government to address the pitfalls of its plan by looking to its Canadian cou",
+          "image": null,
+          "other_news": false
+        },
         {
           "title": "The government’s migration policy prioritises knee-jerk politics over careful planning",
           "link": "https://theconversation.com/the-governments-migration-policy-prioritises-knee-jerk-politics-over-careful-planning-292137",
@@ -619,7 +630,7 @@
         {
           "title": "Face au blocus d’Ormuz, l’Iran mise sur la mer Caspienne",
           "link": "https://www.lemonde.fr/economie/article/2026/09/20/face-au-blocus-d-ormuz-l-iran-mise-sur-la-mer-caspienne_6778396_3234.html",
-          "published": "2026-09-20T18:00:01+02:00",
+          "published": "2026-09-20T18:00:00+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -668,17 +679,6 @@
           "type": "news",
           "language": "en",
           "summary": "Did you know some female sea turtles can travel hundreds—or even thousands—of miles through open ocean before returning to nest on or near the very be",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Lessons from Coastal Legends",
-          "link": "https://oceanconservancy.org/blog/2026/08/21/coastal-legends/",
-          "published": "2026-08-21T19:09:56+00:00",
-          "source": "Ocean Conservancy",
-          "type": "news",
-          "language": "en",
-          "summary": "Storytelling is one of our oldest human behaviors. Across every culture and continent, people have used stories to share values, pass down knowledge a",
           "image": null,
           "other_news": false
         },
@@ -788,6 +788,17 @@
           "type": "news",
           "language": "en",
           "summary": "A rift over how IPCC messages are produced and turned into policy is creating tensions in the world's most influential coalition of climate NGOs\nThe p",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Opportunity’s ‘tax reset’ could benefit many households – but does little for the poorest",
+          "link": "https://theconversation.com/opportunitys-tax-reset-could-benefit-many-households-but-does-little-for-the-poorest-291537",
+          "published": "2026-09-20T22:25:36+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Opportunity’s ‘citizens income’ policy would do the least for the worst off, and retains many of the current system’s targeting complexities.",
           "image": null,
           "other_news": true
         },
@@ -1036,13 +1047,13 @@
           "other_news": true
         },
         {
-          "title": "Flood-damaged Nepal wants help from the global climate Loss and Damage Fund – but it’s waiting, along with 118 other countries",
-          "link": "https://theconversation.com/flood-damaged-nepal-wants-help-from-the-global-climate-loss-and-damage-fund-but-its-waiting-along-with-118-other-countries-291264",
+          "title": "Nepal isn’t the only disaster-struck country waiting for money from the global climate Loss and Damage Fund",
+          "link": "https://theconversation.com/nepal-isnt-the-only-disaster-struck-country-waiting-for-money-from-the-global-climate-loss-and-damage-fund-291264",
           "published": "2026-09-18T12:39:03+00:00",
           "source": "The Conversation US",
           "type": "news",
           "language": "en",
-          "summary": "Getting Loss and Damage Fund money would be worth a lot more than the $20 million Nepal is asking for. The foreign minister calls it a demand for just",
+          "summary": "At least 119 countries have asked for aid from the fund set by major greenhouse gas emitting nations four years before the deadly Nepal flood. It has",
           "image": null,
           "other_news": true
         },
@@ -1553,6 +1564,17 @@
           "other_news": true
         },
         {
+          "title": "L’appel de Yann Arthus-Bertrand, Jean Jouzel, Noël Mamère, Laurence Tubiana… : « Nous demandons au premier ministre et aux candidats à la présidentielle de s’engager à décréter l’urgence climatique »",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/21/l-appel-de-yann-arthus-bertrand-jean-jouzel-noel-mamere-laurence-tubiana-nous-demandons-au-premier-ministre-et-aux-candidats-a-la-presidentielle-de-s-engager-a-decreter-l-urgence-climatique_6778697_3232.html",
+          "published": "2026-09-21T06:30:10+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le climat doit devenir une priorité de l’Etat, et cette priorité doit être traduite dans l’ensemble des politiques publiques, soutient, dans une tribu",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/dc0e248_upload-1-6oyyppysqvd6-frame-807.jpg",
+          "other_news": true
+        },
+        {
           "title": "Climat : « Renoncer à la fiction du retour sous le seuil de 1,5 ºC n’est pas renoncer à agir, mais poser enfin les vraies questions »",
           "link": "https://www.lemonde.fr/idees/article/2026/09/20/climat-renoncer-a-la-fiction-du-retour-sous-le-seuil-de-1-5-c-n-est-pas-renoncer-a-agir-mais-poser-enfin-les-vraies-questions_6778397_3232.html",
           "published": "2026-09-20T18:00:04+02:00",
@@ -1583,17 +1605,6 @@
           "language": "fr",
           "summary": "« L’Etat a décidé de faire intervenir l’Agence de l’environnement et de la maîtrise de l’énergie en urgence impérieuse afin de prévenir les risques d’",
           "image": "https://img.lemde.fr/2026/09/18/475/0/5706/2853/644/322/60/0/d18150e_upload-1-ii5s4vz42k6z-000-a7q73yp.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Le Danemark inaugure l’un des premiers sites de stockage de CO₂ « à grande échelle » en Europe",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/18/le-danemark-inaugure-l-un-des-premiers-sites-de-stockage-europeen-de-co_6776757_3244.html",
-          "published": "2026-09-18T10:40:45+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans sa première phase, le projet doit permettre de stocker 400 000 tonnes de CO₂ par an. Ensuite, Ineos prévoit d’injecter 4 à 8 millions de tonnes a",
-          "image": "https://img.lemde.fr/2026/09/18/664/0/7971/3985/644/322/60/0/d7d01de_upload-1-i2akygcls2jx-000-87fe8eh.jpg",
           "other_news": true
         },
         {
@@ -1637,6 +1648,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Dans la bande dessinée «Pesticides, leurs ravages sur la santé des enfants» parue ce jeudi, la chercheuse en toxicologie Laurence Huc raconte son enga",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Australia in the 2060s: an optimistic outlook dominates budget forecasts in the Intergenerational Report",
+          "link": "https://theconversation.com/australia-in-the-2060s-an-optimistic-outlook-dominates-budget-forecasts-in-the-intergenerational-report-291458",
+          "published": "2026-09-21T02:31:46+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The report counts on a lot of factors turning out for the best: AI boosting economic growth and global warming meeting the Paris goals for a start.",
           "image": null,
           "other_news": true
         },

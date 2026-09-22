@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:01:08.489867+00:00",
+  "generated_at": "2026-09-22T11:40:02.033843+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -255,17 +255,6 @@
           "other_news": false
         },
         {
-          "title": "Culling coral-killing starfish generates $20 million for Queensland",
-          "link": "https://oceanographicmagazine.com/news/culling-coral-killing-starfish-generates-20-million-for-queensland/",
-          "published": "2026-09-14T13:47:32+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A $5.5 million program culling coral-killing crown-of-thorns starfish in Far North Queensland generated $20 million in economic output and 61 local jo",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "The Annual Migration to Clean Up Our Coasts",
           "link": "https://oceanconservancy.org/blog/2026/09/04/clean-up-our-coasts/",
           "published": "2026-09-04T14:18:13+00:00",
@@ -277,7 +266,7 @@
           "other_news": false
         },
         {
-          "title": "Tourism has potential to slow coral decline at Bali travel hotspot: Study",
+          "title": "Tourism has the potential to reverse coral decline at Bali travel hotspot: Study",
           "link": "https://news.mongabay.com/2026/09/tourism-has-potential-to-slow-coral-decline-at-bali-travel-hotspot-study/",
           "published": "2026-09-22T02:01:37+00:00",
           "source": "Mongabay Marine",
@@ -637,6 +626,17 @@
           "other_news": false
         },
         {
+          "title": "Modular reefs turn Dutch sea wall into a marine life haven",
+          "link": "https://oceanographicmagazine.com/news/modular-reefs-turn-dutch-sea-wall-into-a-marine-life-haven/",
+          "published": "2026-09-22T10:40:08+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "100 modular reefs and 66 tidal pools by ReefSystems are transforming a stretch of the Lauwersmeerdijk in the Netherlands, turning coastal defence infr",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Seven of nine Planetary Boundaries now at record breach levels",
           "link": "https://oceanographicmagazine.com/news/seven-of-nine-planetary-boundaries-now-at-record-breach-levels/",
           "published": "2026-09-21T15:15:39+00:00",
@@ -814,7 +814,7 @@
         {
           "title": "Comment on a incité des gens à moins utiliser leur voiture pour aller au travail",
           "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/09/22/comment-on-a-incite-des-gens-a-moins-utiliser-leur-voiture-pour-aller-au-travail_6779745_6125299.html",
-          "published": "2026-09-22T05:40:14+02:00",
+          "published": "2026-09-22T05:40:09+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -906,6 +906,17 @@
           "other_news": true
         },
         {
+          "title": "Spain battles climate change on several fronts",
+          "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-22T09:11:48+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f5f/live/45cbd1b0-b271-11f1-b1d1-571ed4d7ff2c.jpg",
+          "other_news": true
+        },
+        {
           "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
           "link": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-17T10:31:35+00:00",
@@ -917,25 +928,14 @@
           "other_news": true
         },
         {
-          "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
-          "link": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-16T11:02:54+00:00",
+          "title": "Divers spend six hours clearing river of waste",
+          "link": "https://www.bbc.co.uk/news/articles/ckj06p16q2eyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-22T05:37:20+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4caa/live/cd958e40-b1ba-11f1-bdcf-d393eb724fa3.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
-          "link": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-16T00:05:51+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af1f/live/e6dc9eb0-b134-11f1-a430-4d16ee157c41.jpg",
+          "summary": "Divers from the Northampton Scuba School team up with other local organisations for a clean-up.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55bf/live/88f99fb0-b647-11f1-86fb-87849d077614.jpg",
           "other_news": true
         },
         {
@@ -947,6 +947,17 @@
           "language": "en",
           "summary": "Staffordshire Wildlife Trust acquires an area of wet woodland, marsh and pastureland due to the will.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5cc/live/63e7f860-b431-11f1-9fa0-111a12dcb7b0.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+          "link": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-16T00:05:51+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af1f/live/e6dc9eb0-b134-11f1-a430-4d16ee157c41.jpg",
           "other_news": true
         },
         {
@@ -1038,13 +1049,13 @@
           "other_news": true
         },
         {
-          "title": "Pourquoi il faut en finir avec le mythe de la forêt salvatrice",
-          "link": "https://theconversation.com/pourquoi-il-faut-en-finir-avec-le-mythe-de-la-foret-salvatrice-289909",
-          "published": "2026-08-27T09:59:42+00:00",
-          "source": "The Conversation FR",
+          "title": "Five foods that could cost even more this winter – and why",
+          "link": "https://theconversation.com/five-foods-that-could-cost-even-more-this-winter-and-why-292419",
+          "published": "2026-09-22T10:15:56+00:00",
+          "source": "The Conversation UK",
           "type": "news",
-          "language": "fr",
-          "summary": "Les forêts ne sont pas des boucliers miraculeux contre le changement climatique&nbsp;: leur capacité à stocker du carbone dépend de leur santé, de leu",
+          "language": "en",
+          "summary": "Conflicts, energy shocks, climate change and El Niño are combining to squeeze food prices upwards. Five familiar foods illustrate what’s going on.",
           "image": null,
           "other_news": true
         },
@@ -1676,6 +1687,28 @@
           "other_news": true
         },
         {
+          "title": "L’armée peut-elle faire face au réchauffement climatique ?",
+          "link": "https://www.lemonde.fr/podcasts/article/2026/09/22/l-armee-peut-elle-faire-face-au-rechauffement-climatique_6780081_5463015.html",
+          "published": "2026-09-22T11:54:31+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les militaires sont en première ligne face aux effets du changement climatique, explique la chercheuse Julia Tasse dans cet épisode du podcast « Chale",
+          "image": "https://img.lemde.fr/2026/09/21/55/0/1778/889/644/322/60/0/7a4476d_upload-1-nzpsh2yq5tvg-01-09-juliatasse.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Gabrielle Bouleau, chercheuse : « Il est important de repolitiser la question de l’eau, mais il y a des manières de s’y employer qui ne font pas tellement avancer le débat »",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/22/gabrielle-bouleau-chercheuse-il-est-important-de-repolitiser-la-question-de-l-eau-mais-il-y-a-des-manieres-de-s-y-employer-qui-ne-font-pas-tellement-avancer-le-debat_6779968_3244.html",
+          "published": "2026-09-22T09:32:55+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La spécialiste des politiques publiques environnementales et de la gestion de l’eau estime que la sécheresse de 2026 doit conduire à repenser collecti",
+          "image": "https://img.lemde.fr/2026/09/16/3615/0/6095/3047/644/322/60/0/edfff32_upload-1-qxz9koxcs30t-qbassetti-lemonde08-09-26-paysdauge-14.jpg",
+          "other_news": true
+        },
+        {
           "title": "« On avance » : sur le terrain, des initiatives pour le climat et la biodiversité racontées par « Le Monde »",
           "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/22/on-avance-sur-le-terrain-des-initiatives-pour-le-climat-et-la-biodiversite-racontees-par-le-monde_6779711_6065879.html",
           "published": "2026-09-22T05:30:14+02:00",
@@ -1698,18 +1731,7 @@
           "other_news": true
         },
         {
-          "title": "« Nous demandons au premier ministre et aux candidats à la présidentielle de s’engager à décréter l’urgence climatique » : l’appel de Yann Arthus-Bertrand, Pierre Hurmic, Jean Jouzel, Laurence Tubiana",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/21/l-appel-de-yann-arthus-bertrand-jean-jouzel-noel-mamere-laurence-tubiana-nous-demandons-au-premier-ministre-et-aux-candidats-a-la-presidentielle-de-s-engager-a-decreter-l-urgence-climatique_6778697_3232.html",
-          "published": "2026-09-21T06:30:05+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le climat doit devenir une priorité de l’Etat, et cette priorité doit être traduite dans l’ensemble des politiques publiques, soutient, dans une tribu",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/dc0e248_upload-1-6oyyppysqvd6-frame-807.jpg",
-          "other_news": true
-        },
-        {
-          "title": "«L’urgence climatique nous oblige, c’est notre futur très proche qui est en jeu» : l’appel de la jeunesse à manifester le 26 septembre",
+          "title": "«Nous avons droit à un avenir, mais aussi de vivre maintenant» : l’appel de la jeunesse à manifester le 26 septembre pour le climat, le vivant et la justice sociale",
           "link": "https://vert.eco/rapports-de-force/lurgence-climatique-nous-oblige-cest-notre-futur-tres-proche-qui-est-en-jeu-lappel-de-la-jeunesse-a-manifester-le-26-septembre/",
           "published": "2026-09-21T12:47:26+00:00",
           "source": "Vert Eco Articles",
@@ -1738,17 +1760,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Dans son nouveau livre, «Racisme environnemental, penser la convergence depuis la lutte contre l’antitsiganisme», le juriste et délégué général de l’A",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Vert recrute : journaliste politique-écologie, journaliste extrême droite, journaliste carto-data… rejoignez notre équipe !",
-          "link": "https://vert.eco/vert-vous-parle/vert-recrute-journaliste-politique-ecologie-journaliste-extreme-droite-journaliste-carto-data-rejoignez-notre-equipe/",
-          "published": "2026-09-17T12:21:35+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Après cet été apocalyptique, la campagne présidentielle redémarre comme si rien ne s’était passé. Face à l’urgence absolue et avant un scrutin décisif",
           "image": null,
           "other_news": true
         },
@@ -1797,14 +1808,25 @@
           "other_news": true
         },
         {
-          "title": "As renewed chaos grips the oil market, one country is keeping global prices down – by reducing demand",
-          "link": "https://theconversation.com/as-renewed-chaos-grips-the-oil-market-one-country-is-keeping-global-prices-down-by-reducing-demand-292218",
-          "published": "2026-09-21T05:55:16+00:00",
-          "source": "The Conversation",
+          "title": "Honoring Jane Goodall’s conservation legacy and combatting misinformation",
+          "link": "https://news.mongabay.com/short-article/2026/09/honoring-jane-goodalls-conservation-legacy-and-combatting-misinformation/",
+          "published": "2026-09-22T10:21:05+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "As renewed chaos grips the oil market, China is reaping the benefits of electric vehicles. But Australia’s reliance on diesel leaves it exposed.",
-          "image": null,
+          "summary": "Former United Nations climate chief Christiana Figueres has been named the recipient of the inaugural Jane Goodall Earth Medal, which honors those who",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22102030/Jane-Goodall-Hopecast-2560-2048x1152-1-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Drought and state neglect deepen health crisis for Peru’s recently contacted Matsés",
+          "link": "https://news.mongabay.com/short-article/2026/09/drought-and-state-neglect-deepen-health-crisis-for-perus-recently-contacted-matses/",
+          "published": "2026-09-22T04:54:17+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A worsening convergence of drought driven by climate change, epidemic disease, and state neglect is creating a severe health emergency for the Indigen",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22045335/contacted-Indigenous-Matses-7-1-768x512.jpg",
           "other_news": true
         },
         {

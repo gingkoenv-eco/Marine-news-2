@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:57:26.244258+00:00",
+  "generated_at": "2026-09-22T17:39:31.976699+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -244,17 +244,6 @@
           "other_news": false
         },
         {
-          "title": "Mapping shark migration will be key to their survival, says study",
-          "link": "https://oceanographicmagazine.com/news/mapping-shark-migration-will-be-key-to-their-survival-says-study/",
-          "published": "2026-09-16T11:56:20+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "New University of Queensland research maps migratory pathways of Australian sharks and rays for the first time, revealing significant data gaps and th",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "The Annual Migration to Clean Up Our Coasts",
           "link": "https://oceanconservancy.org/blog/2026/09/04/clean-up-our-coasts/",
           "published": "2026-09-04T14:18:13+00:00",
@@ -388,19 +377,6 @@
           "language": "en",
           "summary": "For 100 consecutive days between June 2 and Sept. 10, the global ocean outside of polar regions sustained record high average sea surface temperatures",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/18091828/a.-%C2%A9-BANNER-Grigory-Heaton-original-768x512.jpg",
-          "other_news": false
-        }
-      ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "95% of Scotland’s seas open to trawling… but things could change",
-          "link": "https://oceanographicmagazine.com/news/95-of-scotlands-seas-open-to-trawling-but-things-could-change/",
-          "published": "2026-09-15T11:10:56+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Scotland has opened a consultation on fisheries management for 76 MPAs and 90 proposed PMF areas, as campaigners note that 95% of its inshore seas rem",
-          "image": null,
           "other_news": false
         }
       ],
@@ -604,6 +580,17 @@
           "other_news": false
         },
         {
+          "title": "Sylvia Earle, IUCN unveil One Ocean Partnership at Climate Week",
+          "link": "https://oceanographicmagazine.com/news/sylvia-earle-iucn-unveil-one-ocean-partnership-at-climate-week/",
+          "published": "2026-09-22T17:22:45+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Mission Blue and IUCN have launched the One Ocean Partnership, announced by Sylvia Earle and Razan Al Mubarak at Climate Week NYC, linking Hope Spots",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Modular reefs turn Dutch sea wall into a marine life haven",
           "link": "https://oceanographicmagazine.com/news/modular-reefs-turn-dutch-sea-wall-into-a-marine-life-haven/",
           "published": "2026-09-22T10:40:08+00:00",
@@ -637,14 +624,14 @@
           "other_news": false
         },
         {
-          "title": "Le Pays basque et Suez mis en examen pour des rejets illicites d’eaux usées dans l’océan Atlantique",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/21/le-pays-basque-et-suez-mis-en-examen-pour-des-rejets-illicites-d-eaux-usees-dans-l-ocean-atlantique_6779176_3244.html",
-          "published": "2026-09-21T16:15:34+02:00",
+          "title": "Où habiter ? Comment l’été caniculaire nous oblige à réinventer nos rapports avec le territoire",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/22/ou-habiter-comment-l-ete-caniculaire-nous-oblige-a-reinventer-nos-rapports-avec-le-territoire_6780271_3232.html",
+          "published": "2026-09-22T19:00:08+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Le pôle régional environnemental du tribunal de Bayonne avait été saisi de plaintes d’associations environnementales et de pêcheurs, qui s’inquiétaien",
-          "image": "https://img.lemde.fr/2022/10/27/336/0/4029/2014/644/322/60/0/2790235_3f9ce12e127d43e68f23ee9ee149426c-3f9ce12e127d43e68f23ee9ee149426c-0.jpg",
+          "summary": "Chaleur excessive, manque d’eau, élévation du niveau de la mer… L’habitabilité d’un lieu est d’abord conditionnée par des seuils physiques, mais dépen",
+          "image": "https://img.lemde.fr/2026/09/21/388/0/4272/2136/644/322/60/0/73eb418_upload-1-oeso0xheu7nx-image0.jpeg",
           "other_news": false
         },
         {
@@ -716,6 +703,19 @@
       ]
     },
     "To Watch / Read / Listen": {
+      "Sustainable Fisheries": [
+        {
+          "title": "New report exposes Europe’s hidden bycatch crisis",
+          "link": "https://oceanographicmagazine.com/news/new-report-exposes-europes-hidden-bycatch-crisis/",
+          "published": "2026-09-22T16:58:16+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new EJF and Oceana report reveals Europe's landing obligation has failed to curb bycatch, and sets out a three-part fix: avoidance, verified monitor",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Species Migration & Habitat Change": [
         {
           "title": "Thousands of sea turtles reach Mexico in yearly migration threatened by climate crisis – video",

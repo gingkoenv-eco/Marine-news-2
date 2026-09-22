@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-09-21T18:44:57.816205+00:00",
+  "generated_at": "2026-09-22T05:01:08.489867+00:00",
   "categories": {
     "Politics & Policy": {
-      "Species Migration & Habitat Change": [
-        {
-          "title": "Canada is managing migration without taking a sledgehammer approach. Here’s how Australia can, too",
-          "link": "https://theconversation.com/canada-is-managing-migration-without-taking-a-sledgehammer-approach-heres-how-australia-can-too-292114",
-          "published": "2026-09-20T20:12:58+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "As the debate over migration policy continues, it’s not too late for the government to address the pitfalls of its plan by looking to its Canadian cou",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Marine Protected Areas & Policy": [
         {
           "title": "From firefighting to future-proofing: Preventing wildfires must be the priority",
@@ -49,6 +36,17 @@
           "language": "en",
           "summary": "The UK could supply half of its oil and gas needs without imports if the government showed more support for the sector, an OEUK report claims.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5137/live/e8988d50-b075-11f1-a905-bfcd9db6b414.jpg",
+          "other_news": false
+        },
+        {
+          "title": "After Hormuz, Nepal and wildfires, people want action to make polluters pay",
+          "link": "https://www.climatechangenews.com/2026/09/22/after-hormuz-nepal-and-wildfires-people-demand-action-to-make-polluters-pay/",
+          "published": "2026-09-22T02:50:41+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "If governments are serious about boosting resilience and energy security, they must make the companies profiting from the fossil-fuel economy help foo",
+          "image": null,
           "other_news": false
         }
       ]
@@ -276,6 +274,17 @@
           "language": "en",
           "summary": "Annually, seasonally and sometimes even daily, amazing oceanic migrations are taking place. Humpback whales migrate thousands of miles to breeding gro",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Tourism has potential to slow coral decline at Bali travel hotspot: Study",
+          "link": "https://news.mongabay.com/2026/09/tourism-has-potential-to-slow-coral-decline-at-bali-travel-hotspot-study/",
+          "published": "2026-09-22T02:01:37+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Sanur is where tourism took off in Bali. A coastal town overlooking the Lombok Strait where the Pacific Ocean flows into the Indian Ocean, artists and",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/21153916/Image-by-Anett-SzasziOcean-Image-Bank-768x512.jpg",
           "other_news": false
         },
         {
@@ -661,14 +670,14 @@
           "other_news": false
         },
         {
-          "title": "Face au blocus d’Ormuz, l’Iran mise sur la mer Caspienne",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/20/face-au-blocus-d-ormuz-l-iran-mise-sur-la-mer-caspienne_6778396_3234.html",
-          "published": "2026-09-20T18:00:00+02:00",
-          "source": "Le Monde Planète",
+          "title": "Dans la Manche, les pêcheurs français font monter la pression pour interdire les plus gros chalutiers de la bande côtière",
+          "link": "https://vert.eco/agriculture/dans-la-manche-les-pecheurs-francais-font-monter-la-pression-pour-interdire-les-plus-gros-chalutiers-de-la-bande-cotiere/",
+          "published": "2026-09-22T04:00:00+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Cette mer fermée, devenue un carrefour commercial en plein essor, notamment grâce à la nouvelle route dite « du Middle Corridor » qui relie l’Asie à l",
-          "image": "https://img.lemde.fr/2026/09/20/37/0/1500/750/644/322/60/0/97e83e1_upload-1-po8mjfoyj4nk-2025-07-23t103250z-1225701115-mt1zuma0000eqke5-rtrmadp-3-zuma.JPG",
+          "summary": "Début septembre, la commission Manche-mer du Nord du Comité national des pêches a voté pour l’exclusion des navires de plus de 25 mètres des eaux terr",
+          "image": null,
           "other_news": false
         },
         {
@@ -690,6 +699,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Village français de 600 âmes situé au large du Canada, Miquelon sombrera sous les eaux dans les prochaines décennies à cause du réchauffement climatiq",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Two native turtles are vying to survive in a coastal Australian river. One doesn’t belong there",
+          "link": "https://theconversation.com/two-native-turtles-are-vying-to-survive-in-a-coastal-australian-river-one-doesnt-belong-there-292111",
+          "published": "2026-09-22T02:32:56+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Not all conservation threats come from overseas. Some are our own native animals.",
           "image": null,
           "other_news": false
         },
@@ -792,14 +812,14 @@
           "other_news": true
         },
         {
-          "title": "Au Festival du Monde, ces femmes en première ligne contre la pollution : « Etre en colère, c’est rationnel »",
-          "link": "https://www.lemonde.fr/festival/article/2026/09/20/au-festival-du-monde-ces-femmes-en-premiere-ligne-contre-la-pollution-etre-en-colere-c-est-rationnel_6778394_4415198.html",
-          "published": "2026-09-20T17:30:09+02:00",
+          "title": "Comment on a incité des gens à moins utiliser leur voiture pour aller au travail",
+          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/09/22/comment-on-a-incite-des-gens-a-moins-utiliser-leur-voiture-pour-aller-au-travail_6779745_6125299.html",
+          "published": "2026-09-22T05:40:14+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Au Festival du Monde, samedi 19 septembre, Fleur Breteau, fondatrice du collectif Cancer Colère, s’exprimait parmi d’autres personnalités qui militent",
-          "image": "https://img.lemde.fr/2026/09/20/160/0/1280/640/644/322/60/0/255019d_upload-1-pldnvrkq30zm-photo-2026-09-20-14-22-32.jpg",
+          "summary": "Limiter les bouchons et la pollution en faisant le trajet avec des voisins sympas, c’est le pari des lignes de covoiturage dans la métropole de Grenob",
+          "image": "https://img.lemde.fr/2026/09/09/118/0/6772/3386/644/322/60/0/670c97c_upload-1-d5t02lbtura4-sophie-rodriguez-m-covoit-grenoble-le-monde-3.jpg",
           "other_news": true
         },
         {
@@ -869,17 +889,6 @@
           "type": "news",
           "language": "en",
           "summary": "Moving can change the conditions that shape health, so health and social policy must plan for a mobile population.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Opportunity’s ‘tax reset’ could benefit many households – but does little for the poorest",
-          "link": "https://theconversation.com/opportunitys-tax-reset-could-benefit-many-households-but-does-little-for-the-poorest-291537",
-          "published": "2026-09-20T22:25:36+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Opportunity’s ‘citizens income’ policy would do the least for the worst off, and retains many of the current system’s targeting complexities.",
           "image": null,
           "other_news": true
         }
@@ -1293,6 +1302,17 @@
           "other_news": true
         },
         {
+          "title": "Climate change and energy transition rise up national security agenda",
+          "link": "https://www.climatechangenews.com/2026/09/22/new-york-climate-week-energy-transition-security-leaders/",
+          "published": "2026-09-21T23:53:17+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Leaders highlighted the national security risks posed by global warming and fossil fuel dependency at New York Climate Week\nThe post Climate change an",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "COP31 presidency announces AI pledge as UN climate chief says Big Tech ‘on thin ice’",
           "link": "https://www.climatechangenews.com/2026/09/21/cop31-presidency-announces-ai-pledge-as-un-climate-chief-says-big-tech-on-thin-ice/",
           "published": "2026-09-21T13:54:48+00:00",
@@ -1656,6 +1676,17 @@
           "other_news": true
         },
         {
+          "title": "« On avance » : sur le terrain, des initiatives pour le climat et la biodiversité racontées par « Le Monde »",
+          "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/22/on-avance-sur-le-terrain-des-initiatives-pour-le-climat-et-la-biodiversite-racontees-par-le-monde_6779711_6065879.html",
+          "published": "2026-09-22T05:30:14+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Tous les mardis, dans l’application La Matinale et sur le site du « Monde », des reportages explorent des projets collectifs visant à faire avancer la",
+          "image": "https://img.lemde.fr/2026/07/14/412/0/5000/2500/644/322/60/0/029174a_upload-1-r8wy8clgg913-bg-30mai26-france-lpo-15-005.JPG",
+          "other_news": true
+        },
+        {
           "title": "Prix des carburants : « Les choix économiques dépendent bien souvent des échéances électorales. Or, les politiques le savent, il n’y a jamais loin de la pompe aux urnes »",
           "link": "https://www.lemonde.fr/idees/article/2026/09/21/les-choix-economiques-dependent-bien-souvent-des-echeances-electorales-or-les-politiques-le-savent-il-n-y-a-jamais-loin-de-la-pompe-aux-urnes_6778908_3232.html",
           "published": "2026-09-21T10:39:40+02:00",
@@ -1674,17 +1705,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Le climat doit devenir une priorité de l’Etat, et cette priorité doit être traduite dans l’ensemble des politiques publiques, soutient, dans une tribu",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/dc0e248_upload-1-6oyyppysqvd6-frame-807.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Climat : « Renoncer à la fiction du retour sous le seuil de 1,5 ºC n’est pas renoncer à agir, mais poser enfin les vraies questions »",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/20/climat-renoncer-a-la-fiction-du-retour-sous-le-seuil-de-1-5-c-n-est-pas-renoncer-a-agir-mais-poser-enfin-les-vraies-questions_6778397_3232.html",
-          "published": "2026-09-20T18:00:04+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les scénarios qui serviront de repères au prochain rapport du Groupe d’experts intergouvernemental sur l’évolution du climat sont scientifiquement int",
           "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/dc0e248_upload-1-6oyyppysqvd6-frame-807.jpg",
           "other_news": true
         },
@@ -1733,13 +1753,24 @@
           "other_news": true
         },
         {
-          "title": "Laurence Huc, toxicologue : «Il y a une responsabilité collective dans chaque cas de cancer lié à l’environnement»",
-          "link": "https://vert.eco/sante-environnement/laurence-huc-toxicologue-il-y-a-une-responsabilite-collective-dans-chaque-cas-de-cancer-lie-a-lenvironnement/",
-          "published": "2026-09-17T09:30:18+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Calls for global regulation of AI are growing. What exactly could it look like?",
+          "link": "https://theconversation.com/calls-for-global-regulation-of-ai-are-growing-what-exactly-could-it-look-like-292243",
+          "published": "2026-09-21T20:09:34+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Dans la bande dessinée «Pesticides, leurs ravages sur la santé des enfants» parue ce jeudi, la chercheuse en toxicologie Laurence Huc raconte son enga",
+          "language": "en",
+          "summary": "AI is a global technology. A global approach to regulating it is urgently needed.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Brazil has made gains against Amazon deforestation, but lasting protection is a challenge",
+          "link": "https://theconversation.com/brazil-has-made-gains-against-amazon-deforestation-but-lasting-protection-is-a-challenge-290494",
+          "published": "2026-09-21T18:49:09+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Sustaining Brazil’s recent deforestation gains will require stronger environmental enforcement beyond the rainforest and resistance to political effor",
           "image": null,
           "other_news": true
         },
@@ -1761,7 +1792,7 @@
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Chinese and American leaders meet amid growing urgency over the issue of AI regulation",
+          "summary": "Chinese and American leaders meet amid growing urgency over the issue of AI regulation.",
           "image": null,
           "other_news": true
         },
@@ -1772,18 +1803,7 @@
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "As renewed chaos grips the oil market, China is reaping the benefits of electric vehicles. But Australia’s reliance on diesel leaves it exposed",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Australia in the 2060s: an optimistic outlook dominates budget forecasts in the Intergenerational Report",
-          "link": "https://theconversation.com/australia-in-the-2060s-an-optimistic-outlook-dominates-budget-forecasts-in-the-intergenerational-report-291458",
-          "published": "2026-09-21T02:31:46+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The report counts on a lot of factors turning out for the best: AI boosting economic growth and global warming meeting the Paris goals for a start.",
+          "summary": "As renewed chaos grips the oil market, China is reaping the benefits of electric vehicles. But Australia’s reliance on diesel leaves it exposed.",
           "image": null,
           "other_news": true
         },
@@ -1840,28 +1860,6 @@
           "language": "en",
           "summary": "In 2025, a giant anteater returned to the Alma Guaraní reserve in Argentina’s Corrientes province. It marked the first sighting of this vulnerable and",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/15094610/Image_1_Osa-hormiguero-sobre-Bermejo-Foto-Veronica-Quiroga-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "‘Don’t shoot. Listen’: The AI-aided quest to understand Yellowstone’s wolves",
-          "link": "https://news.mongabay.com/2026/09/dont-shoot-listen-the-ai-aided-quest-to-understand-yellowstones-wolves/",
-          "published": "2026-09-16T21:53:20+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Jeff Reed wasn’t raised to hate wolves. But as a child he bought into the Little Red Riding Hood myth regarding their villainous nature. You see one,",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/16130943/1-Wolf-907-Evan-Stout-BANNER-PHOTO-768x512.png",
-          "other_news": true
-        },
-        {
-          "title": "Bolivia’s mining law overhaul raises environmental and community concerns",
-          "link": "https://news.mongabay.com/short-article/2026/09/bolivias-mining-law-overhaul-raises-environmental-and-community-concerns/",
-          "published": "2026-09-16T20:09:57+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Bolivia recently began overhauling one of its principal mining laws, with the goal of modernizing the industry and improving oversight. Civil society",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/16194926/AP25261679853086-2-1-768x512.jpg",
           "other_news": true
         }
       ]

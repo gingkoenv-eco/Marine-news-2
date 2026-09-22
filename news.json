@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T12:38:58.796800+00:00",
+  "generated_at": "2026-09-22T16:57:26.244258+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -380,17 +380,6 @@
           "other_news": false
         },
         {
-          "title": "Disappearing lakes and AI are helping scientists map Arctic permafrost thaw in near-real time",
-          "link": "https://theconversation.com/disappearing-lakes-and-ai-are-helping-scientists-map-arctic-permafrost-thaw-in-near-real-time-290238",
-          "published": "2026-08-26T12:39:47+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "The abrupt disappearance of a lake is one clear sign that the ice below is melting, and a clue to wider permafrost changes.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Global ocean breaks records with 100 days of heat as El Niño adds new threat",
           "link": "https://news.mongabay.com/2026/09/global-ocean-breaks-records-with-100-days-of-heat-as-el-nino-adds-new-threat/",
           "published": "2026-09-18T10:34:05+00:00",
@@ -436,17 +425,6 @@
           "language": "en",
           "summary": "The chicken liver sponge has sailed through a test of its ability to filter pollutants in a harbour in Spain’s Costa BravaIn the polluted waters of Ma",
           "image": "https://i.guim.co.uk/img/media/a472bf5e5a15901529bc7e240463e7d51284edfb/125_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=ddd067174b29261ad45e6203b46e4eb0",
-          "other_news": false
-        },
-        {
-          "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile waters near the mainland, scientists say",
-          "link": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
-          "published": "2026-08-23T15:00:36+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystemsSign up for climate and",
-          "image": "https://i.guim.co.uk/img/media/472bdde0a67fc8cb423f8306738cb3c5e60ebe82/367_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=61bcba4b08d36892cfc2c2c7a1789d2f",
           "other_news": false
         },
         {
@@ -549,6 +527,17 @@
           "other_news": false
         },
         {
+          "title": "Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature",
+          "link": "https://www.carbonbrief.org/explainer-how-sea-level-rise-poses-an-existential-threat-to-humans-heritage-and-nature",
+          "published": "2026-09-22T15:14:21+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "For millions of people around the world, rising sea levels are already reshaping economies, livelihoods and cultures. The world’s oceans&#8230;\nThe po",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Analysis: ‘Super El Niño’ reaches ‘remarkable’ all-time record",
           "link": "https://www.carbonbrief.org/analysis-super-el-nino-reaches-remarkable-all-time-record",
           "published": "2026-09-21T15:41:10+00:00",
@@ -556,17 +545,6 @@
           "type": "news",
           "language": "en",
           "summary": "This year&#8217;s so-called “super El Niño” is entering into record-breaking territory.&#160; Sea surface temperatures in the tropical Pacific now equ",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Q&A: What can – and cannot – be said about global warming’s role in the 2026 Himalayan floods",
-          "link": "https://www.carbonbrief.org/qa-what-can-and-cannot-be-said-about-global-warmings-role-in-the-2026-himalayan-floods",
-          "published": "2026-09-08T16:03:25+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "On the morning of 26 August, flash floods surged through a Himalayan border region of Nepal and the Chinese region&#8230;\nThe post Q&amp;A: What can –",
           "image": null,
           "other_news": false
         },
@@ -734,17 +712,6 @@
           "summary": "KAMPI, Cambodia — At nine in the morning, the sun beats down on the Mekong River as Heang Koeurn turns off the motor of his boat and bobs on the water",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/17123401/WWF-Cambodia01-dolphin-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "World’s smallest crocodile in high demand for bushmeat trade in Nigeria",
-          "link": "https://news.mongabay.com/2026/09/worlds-smallest-crocodile-in-high-demand-for-bushmeat-trade-in-nigeria/",
-          "published": "2026-09-17T11:07:25+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The African dwarf crocodile is the world’s smallest living crocodile. These reptiles, nocturnal predators of crabs, gastropods and the occasional fish",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/17103100/DwarfCrocodileOsteolaemus.tetraspis_EricDeRedelijkheid-768x512.jpg",
-          "other_news": false
         }
       ]
     },
@@ -790,6 +757,17 @@
           "other_news": true
         },
         {
+          "title": "EPA says repealing power plant emissions rules will save billions – but its estimate leaves out health and climate costs",
+          "link": "https://theconversation.com/epa-says-repealing-power-plant-emissions-rules-will-save-billions-but-its-estimate-leaves-out-health-and-climate-costs-292051",
+          "published": "2026-09-22T12:48:20+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "Keeping aging coal plants open, building new gas plants and choices about pollution controls affect electricity bills. Pollution adds health costs and",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "At an old steel site in Pittsburgh, bacteria evolved to survive – and eat – industrial pollution",
           "link": "https://theconversation.com/at-an-old-steel-site-in-pittsburgh-bacteria-evolved-to-survive-and-eat-industrial-pollution-289264",
           "published": "2026-09-17T12:22:09+00:00",
@@ -809,28 +787,6 @@
           "language": "fr",
           "summary": "Le gouvernement veut réduire drastiquement le nombre de captages d'eau considérés comme prioritaires face aux pollutions agricol",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/water-road-glass-cup-drink-sink-1186781-pxhere.com_resized-aca60.jpg?1789480557",
-          "other_news": true
-        },
-        {
-          "title": "Comment on a incité des gens à moins utiliser leur voiture pour aller au travail",
-          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/09/22/comment-on-a-incite-des-gens-a-moins-utiliser-leur-voiture-pour-aller-au-travail_6779745_6125299.html",
-          "published": "2026-09-22T05:40:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Limiter les bouchons et la pollution en faisant le trajet avec des voisins sympas, c’est le pari des lignes de covoiturage dans la métropole de Grenob",
-          "image": "https://img.lemde.fr/2026/09/09/118/0/6772/3386/644/322/60/0/670c97c_upload-1-d5t02lbtura4-sophie-rodriguez-m-covoit-grenoble-le-monde-3.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Noise pollution is a serious but often forgotten public health problem",
-          "link": "https://theconversation.com/noise-pollution-is-a-serious-but-often-forgotten-public-health-problem-290223",
-          "published": "2026-09-21T12:38:49+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Creating a quieter environment can improve your health – but you have to know what you’re listening for.",
-          "image": null,
           "other_news": true
         }
       ],
@@ -867,28 +823,6 @@
           "type": "news",
           "language": "en",
           "summary": "A rift over how IPCC messages are produced and turned into policy is creating tensions in the world's most influential coalition of climate NGOs\nThe p",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Inclusion is central to England’s education policy – but what it means is changing",
-          "link": "https://theconversation.com/inclusion-is-central-to-englands-education-policy-but-what-it-means-is-changing-291298",
-          "published": "2026-09-21T14:29:50+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Inclusion is often treated as a self-evident term.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Young South Africans move for work and opportunity. What happens to their health when they do?",
-          "link": "https://theconversation.com/young-south-africans-move-for-work-and-opportunity-what-happens-to-their-health-when-they-do-289182",
-          "published": "2026-09-21T13:49:37+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Moving can change the conditions that shape health, so health and social policy must plan for a mobile population.",
           "image": null,
           "other_news": true
         }
@@ -969,6 +903,17 @@
           "language": "en",
           "summary": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c3/live/6d5a64f0-ac39-11f1-bc1f-3f186ca4140c.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Moustique-tigre : le changement climatique étend le risque de dengue à presque toute la France",
+          "link": "https://theconversation.com/moustique-tigre-le-changement-climatique-etend-le-risque-de-dengue-a-presque-toute-la-france-292062",
+          "published": "2026-09-22T12:53:11+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le moustique-tigre pourrait conquérir jusqu’à 96&nbsp;% de la France hexagonale d’ici à 2085. La dengue mais aussi les virus Zika et chukungunya pourr",
+          "image": null,
           "other_news": true
         },
         {
@@ -1298,17 +1243,6 @@
           "type": "news",
           "language": "en",
           "summary": "The UK government has slashed its hopes for electric planes and “sustainable aviation fuels” (SAFs), ahead of giving the green&#8230;\nThe post UK avia",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Analysis: UK solar power hits record high over summer 2026",
-          "link": "https://www.carbonbrief.org/analysis-uk-solar-power-hits-record-high-over-summer-2026",
-          "published": "2026-09-04T11:21:35+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Solar power generation in the UK reached a new record over the summer of 2026, as temperatures across the nation&#8230;\nThe post Analysis: UK solar po",
           "image": null,
           "other_news": true
         },
@@ -1709,25 +1643,25 @@
           "other_news": true
         },
         {
-          "title": "« On avance » : sur le terrain, des initiatives pour le climat et la biodiversité racontées par « Le Monde »",
-          "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/22/on-avance-sur-le-terrain-des-initiatives-pour-le-climat-et-la-biodiversite-racontees-par-le-monde_6779711_6065879.html",
-          "published": "2026-09-22T05:30:14+02:00",
+          "title": "Comment on a incité des gens à moins utiliser leur voiture pour aller au travail",
+          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/09/22/comment-on-a-incite-des-gens-a-moins-utiliser-leur-voiture-pour-aller-au-travail_6779745_6125299.html",
+          "published": "2026-09-22T05:40:09+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Tous les mardis, dans l’application La Matinale et sur le site du « Monde », des reportages explorent des projets collectifs visant à faire avancer la",
-          "image": "https://img.lemde.fr/2026/07/14/412/0/5000/2500/644/322/60/0/029174a_upload-1-r8wy8clgg913-bg-30mai26-france-lpo-15-005.JPG",
+          "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Aujourd’hui,",
+          "image": "https://img.lemde.fr/2026/09/09/118/0/6772/3386/644/322/60/0/670c97c_upload-1-d5t02lbtura4-sophie-rodriguez-m-covoit-grenoble-le-monde-3.jpg",
           "other_news": true
         },
         {
-          "title": "Prix des carburants : « Les choix économiques dépendent bien souvent des échéances électorales. Or, les politiques le savent, il n’y a jamais loin de la pompe aux urnes »",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/21/les-choix-economiques-dependent-bien-souvent-des-echeances-electorales-or-les-politiques-le-savent-il-n-y-a-jamais-loin-de-la-pompe-aux-urnes_6778908_3232.html",
-          "published": "2026-09-21T10:39:40+02:00",
+          "title": "« On avance » : sur le terrain, des initiatives pour le climat et la biodiversité racontées par « Le Monde »",
+          "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/22/on-avance-sur-le-terrain-des-initiatives-pour-le-climat-et-la-biodiversite-racontees-par-le-monde_6779711_6065879.html",
+          "published": "2026-09-22T05:30:08+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "La hausse des prix du carburant suscite le ressentiment des consommateurs et un dilemme chez les autorités qui peuvent prendre des mesures de soutien,",
-          "image": "https://img.lemde.fr/2026/09/18/696/0/4176/2088/644/322/60/0/c5aeadb_ftp-1-vp1agifmm5hw-5119001-01-06.jpg",
+          "summary": "Chaque semaine, dans La Matinale du Monde ainsi que sur le site et l’application du « Monde », des reportages explorent des projets collectifs visant",
+          "image": "https://img.lemde.fr/2026/07/14/412/0/5000/2500/644/322/60/0/029174a_upload-1-r8wy8clgg913-bg-30mai26-france-lpo-15-005.JPG",
           "other_news": true
         },
         {
@@ -1760,6 +1694,28 @@
           "type": "news",
           "language": "fr",
           "summary": "Dans son nouveau livre, «Racisme environnemental, penser la convergence depuis la lutte contre l’antitsiganisme», le juriste et délégué général de l’A",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Climate change is fuelling African conflict – governments are developing a shared response",
+          "link": "https://theconversation.com/climate-change-is-fuelling-african-conflict-governments-are-developing-a-shared-response-289088",
+          "published": "2026-09-22T14:46:22+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "African countries are now crafting the first continent-wide framework to tackle how climate disasters can worsen hunger, displacement and conflict.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Why banning AI in the classroom will not be enough to remedy poor reading skills in a post-literary society",
+          "link": "https://theconversation.com/why-banning-ai-in-the-classroom-will-not-be-enough-to-remedy-poor-reading-skills-in-a-post-literary-society-292326",
+          "published": "2026-09-22T12:58:55+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Understanding the technological shift from a literary to a post-literary society is crucial for rethinking AI’s place in learning environments.",
           "image": null,
           "other_news": true
         },
@@ -1797,14 +1753,25 @@
           "other_news": true
         },
         {
-          "title": "Three Ts will dominate Trump-Xi summit – but expect little movement on trade, less on Taiwan and who knows on tech",
-          "link": "https://theconversation.com/three-ts-will-dominate-trump-xi-summit-but-expect-little-movement-on-trade-less-on-taiwan-and-who-knows-on-tech-291819",
-          "published": "2026-09-21T14:04:20+00:00",
-          "source": "The Conversation",
+          "title": "Critics question oil and gas spending in Mexico’s proposed climate budget",
+          "link": "https://news.mongabay.com/2026/09/critics-question-oil-and-gas-spending-in-mexicos-proposed-climate-budget/",
+          "published": "2026-09-22T16:23:43+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Chinese and American leaders meet amid growing urgency over the issue of AI regulation.",
-          "image": null,
+          "summary": "MEXICO CITY — President Claudia Sheinbaum this month presented a draft fiscal budget for 2027, outlining the national government’s plans for everythin",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22161442/c.-Kidzania_Plaza_Cuicuilco_-_05-1-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Copper boom fueling energy transition puts Earth’s wildlands at risk",
+          "link": "https://news.mongabay.com/2026/09/copper-boom-fueling-energy-transition-puts-earths-wildlands-at-risk/",
+          "published": "2026-09-22T14:19:12+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In the high Andes of Peru, Bolivia, Chile and Argentina, you can still find the vicuña, a shy, elusive camelid, revered by Indigenous people. It has r",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22082311/Vicugna_vicugna_Salar_de_Chalviri-768x512.jpg",
           "other_news": true
         },
         {
@@ -1871,17 +1838,6 @@
           "language": "en",
           "summary": "More than half a century has passed since Garrett Hardin published The Tragedy of the Commons in Science in 1968. In that influential article, he argu",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/29122935/Fisher-768x512.png",
-          "other_news": true
-        },
-        {
-          "title": "A giant anteater’s return in Argentina offers a case for letting nature restore itself",
-          "link": "https://news.mongabay.com/2026/09/a-giant-anteaters-return-in-argentina-offers-a-case-for-letting-nature-restore-itself/",
-          "published": "2026-09-17T09:55:38+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In 2025, a giant anteater returned to the Alma Guaraní reserve in Argentina’s Corrientes province. It marked the first sighting of this vulnerable and",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/15094610/Image_1_Osa-hormiguero-sobre-Bermejo-Foto-Veronica-Quiroga-1-768x512.jpg",
           "other_news": true
         }
       ]

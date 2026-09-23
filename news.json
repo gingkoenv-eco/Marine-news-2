@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T12:47:10.136692+00:00",
+  "generated_at": "2026-09-23T16:58:02.329731+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -16,6 +16,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "UK to join EU ocean science scheme to better predict extreme weather events",
+          "link": "https://www.theguardian.com/environment/2026/sep/23/britain-to-join-eu-global-ocean-monitoring-system-oceaneye",
+          "published": "2026-09-23T14:24:37+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Cooperation on OceanEye, which aims to create ‘real-time’ model of world’s oceans, comes amid efforts to boost EU tiesBritain is to join a major new o",
+          "image": "https://i.guim.co.uk/img/media/3acdb78ed68c2933fb82a16cdebf528c5b21c5e6/527_0_3832_3065/master/3832.jpg?width=140&quality=85&auto=format&fit=max&s=0683e4a798addc7823674e03e028b92a",
+          "other_news": false
+        },
         {
           "title": "Trump’s deep-sea mining plan flouts international law | Letter",
           "link": "https://www.theguardian.com/environment/2026/aug/26/trumps-deep-sea-mining-plan-flouts-international-law",
@@ -41,7 +52,7 @@
         {
           "title": "Protéger un tiers des terres et de l’océan d’ici à 2030, un objectif crucial pour la biodiversité encore loin d’être atteint",
           "link": "https://www.lemonde.fr/planete/article/2026/09/23/proteger-un-tiers-des-terres-et-de-l-ocean-d-ici-a-2030-un-objectif-crucial-pour-la-biodiversite-encore-loin-d-etre-atteint_6780573_3244.html",
-          "published": "2026-09-23T06:00:06+02:00",
+          "published": "2026-09-23T06:00:04+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -54,6 +65,17 @@
     "Research & Science": {},
     "General News": {
       "Plastic & Ocean Pollution": [
+        {
+          "title": "Coogee ranks as Sydney’s worst ocean beach for faecal pollution – again",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/24/coogee-sydney-beaches-most-polluted-nsw-swimming-spots-2026",
+          "published": "2026-09-23T14:01:50+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Seventy-nine per cent of all NSW swimming sites rated ‘good’ or ‘very good’, as state’s cleanest and most polluted beaches revealed Get our breaking n",
+          "image": "https://i.guim.co.uk/img/media/1af16ff258e33caea65db65fd1958390c0560ed3/965_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=98148fd52c609c447e718c62605507a4",
+          "other_news": false
+        },
         {
           "title": "‘Tiny bit of rain and the sewage comes’: Brighton swimmers vent fury at sea pollution",
           "link": "https://www.theguardian.com/environment/2026/aug/30/sewage-brighton-swimmers-condemn-sea-pollution",
@@ -178,13 +200,13 @@
           "other_news": false
         },
         {
-          "title": "Galápagos corals show El Niño events are more extreme now than in past 1,000 years – here’s how my team made the discovery",
-          "link": "https://theconversation.com/galapagos-corals-show-el-nino-events-are-more-extreme-now-than-in-past-1-000-years-heres-how-my-team-made-the-discovery-272318",
-          "published": "2026-08-27T18:00:39+00:00",
-          "source": "The Conversation US",
+          "title": "Meet the hairy-legged, red-eyed sea spiders new to science",
+          "link": "https://oceanographicmagazine.com/news/meet-the-hairy-legged-red-eyed-sea-spiders-new-to-science/",
+          "published": "2026-09-23T15:44:28+00:00",
+          "source": "Oceanographic",
           "type": "news",
           "language": "en",
-          "summary": "Scientists went to the heart of the El Niño pattern to learn from living and fossil corals. The results show El Niño’s intensifying coincides with glo",
+          "summary": "University of British Columbia researchers have discovered two new sea spider species in the Salish Sea - the first described there in nearly a centur",
           "image": null,
           "other_news": false
         },
@@ -218,17 +240,6 @@
           "type": "news",
           "language": "en",
           "summary": "Using genetic sequencing, scientists have identified 19 viruses - including seven never seen before in any species – in Atlantic and Pacific sea turtl",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Deep-sea expedition reveals new life and old litter 4,000 metres down",
-          "link": "https://oceanographicmagazine.com/news/deep-sea-expedition-reveals-new-life-and-old-litter-4000-metres-down/",
-          "published": "2026-09-17T14:05:38+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Despite being delighted by the discovery of roughly 40 new species, researchers were troubled by what else they found nearly 4,000 metres down: plasti",
           "image": null,
           "other_news": false
         },
@@ -324,17 +335,6 @@
         }
       ],
       "Polar & Reef Ecosystems & Resilience": [
-        {
-          "title": "World’s oceans hit hottest temperature on record in August",
-          "link": "https://www.theguardian.com/environment/2026/aug/24/worlds-oceans-hit-hottest-temperature-on-record-in-august",
-          "published": "2026-08-24T12:49:15+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Average sea surface temperature outside polar regions was 21.1C on Saturday, latest data findsThe world’s oceans were hotter than ever previously reco",
-          "image": "https://i.guim.co.uk/img/media/3732d43fcda2d3d94ddfcd06214d810a007f6cf0/849_0_4550_3640/master/4550.jpg?width=140&quality=85&auto=format&fit=max&s=38bd1de7903eca0b60a576c3b7152aa4",
-          "other_news": false
-        },
         {
           "title": "Satellite images show how penguins’ diets are changing in response to Antarctic climate change",
           "link": "https://theconversation.com/satellite-images-show-how-penguins-diets-are-changing-in-response-to-antarctic-climate-change-289754",
@@ -492,13 +492,13 @@
           "other_news": false
         },
         {
-          "title": "Analysis: ‘Super El Niño’ reaches ‘remarkable’ all-time record",
+          "title": "Analysis: ‘Super El Niño’ breaks ‘remarkable’ all-time record",
           "link": "https://www.carbonbrief.org/analysis-super-el-nino-reaches-remarkable-all-time-record",
           "published": "2026-09-21T15:41:10+00:00",
           "source": "Carbonbrief",
           "type": "news",
           "language": "en",
-          "summary": "This year&#8217;s so-called “super El Niño” is entering into record-breaking territory.&#160; Sea surface temperatures in the tropical Pacific now equ",
+          "summary": "This year&#8217;s so-called “super El Niño” has entered record-breaking territory.&#160; Sea surface temperatures in the tropical Pacific have exceede",
           "image": null,
           "other_news": false
         },
@@ -755,17 +755,6 @@
           "summary": "Decades of pollution at Pittsburgh brownfields left bacteria that evolved to survive it – and maybe help clean up contaminated soil.",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "Pesticides dans l'eau : le gouvernement cède aux pressions de l'agro-industrie",
-          "link": "https://reporterre.net/Pesticides-dans-l-eau-le-gouvernement-cede-aux-pressions-de-l-agro-industrie",
-          "published": "2026-09-15T13:55:47+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le gouvernement veut réduire drastiquement le nombre de captages d'eau considérés comme prioritaires face aux pollutions agricol",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/water-road-glass-cup-drink-sink-1186781-pxhere.com_resized-aca60.jpg?1789480557",
-          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -804,6 +793,17 @@
         }
       ],
       "Marine Protected Areas & Policy": [
+        {
+          "title": "Women are on deck – it’s time they steered",
+          "link": "https://www.climatechangenews.com/2026/09/23/women-are-on-deck-its-time-they-steered/",
+          "published": "2026-09-23T13:23:43+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "The climate crisis is also a governance crisis - one with a persistent blindspot for women's leadership, ingenuity and readiness to take decisions for",
+          "image": null,
+          "other_news": true
+        },
         {
           "title": "As science comes under attack at UN talks, climate movement splits over how to respond",
           "link": "https://www.climatechangenews.com/2026/09/09/as-science-comes-under-attack-at-un-talks-climate-movement-splits-over-how-to-respond/",
@@ -972,17 +972,6 @@
           "other_news": true
         },
         {
-          "title": "Quand les incendies s’éteignent, les sols se transforment",
-          "link": "https://theconversation.com/quand-les-incendies-seteignent-les-sols-se-transforment-290544",
-          "published": "2026-08-31T14:29:56+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les flammes ravagent aussi le sol forestier, la vie qu’il abrite tout comme le stock de carbone qu’il détient. Ces dommages peuvent impacter sur le lo",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Five foods that could cost even more this winter – and why",
           "link": "https://theconversation.com/five-foods-that-could-cost-even-more-this-winter-and-why-292419",
           "published": "2026-09-22T10:15:56+00:00",
@@ -1137,28 +1126,6 @@
           "other_news": true
         },
         {
-          "title": "When a mountain falls: How ice and rock triggered Nepal’s catastrophic flood – and why climate change is raising the risks",
-          "link": "https://theconversation.com/when-a-mountain-falls-how-ice-and-rock-triggered-nepals-catastrophic-flood-and-why-climate-change-is-raising-the-risks-290779",
-          "published": "2026-08-29T16:57:04+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "A geologist explains how thawing permafrost and melting ice are increasing the risk of destructive floods in the Himalayas and other high mountain reg",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Extreme heat is taking a toll on firefighters as wildfires stretch crews to the limit",
-          "link": "https://theconversation.com/extreme-heat-is-taking-a-toll-on-firefighters-as-wildfires-stretch-crews-to-the-limit-290571",
-          "published": "2026-08-27T12:04:04+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Wildland firefighters face heat from the environment, the fire and their own bodies as they work long, exhausting hours. The head of Purdue’s fire lab",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Analysis: India’s power-sector emissions flat for two years due to clean-energy surge",
           "link": "https://www.carbonbrief.org/analysis-indias-power-sector-emissions-flat-for-two-years-due-to-clean-energy-surge",
           "published": "2026-09-16T23:01:00+00:00",
@@ -1232,6 +1199,17 @@
           "type": "news",
           "language": "en",
           "summary": "The UK government has slashed its hopes for electric planes and “sustainable aviation fuels” (SAFs), ahead of giving the green&#8230;\nThe post UK avia",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "The response to Nepal’s disaster is a test for global climate institutions",
+          "link": "https://www.climatechangenews.com/2026/09/23/the-response-to-nepals-disaster-is-a-test-for-global-climate-institutions/",
+          "published": "2026-09-23T13:45:19+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Nepal's recent flash flood represents a shared emergency the world over, as more and more communities become victims to a climate crisis they did not",
           "image": null,
           "other_news": true
         },
@@ -1478,6 +1456,28 @@
           "other_news": true
         },
         {
+          "title": "La marche climat du 26 septembre devient « statique » à Paris à cause de la venue du Pape",
+          "link": "https://reporterre.net/La-marche-climat-du-26-septembre-devient-statique-a-Paris-a-cause-de-la-venue-du-Pape",
+          "published": "2026-09-23T16:00:39+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "La venue du Pape à Paris a mis à l'arrêt la marche climat prévue samedi 26 septembre à Paris. « C'est désormais validé par la pr",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260923__c93y46d__v1__highres__vaticanreligionpopeaudience_1_-ee0be.jpg?1790179242",
+          "other_news": true
+        },
+        {
+          "title": "Après l'empreinte carbone, voici l'empreinte plastique",
+          "link": "https://reporterre.net/Apres-l-empreinte-carbone-voici-l-empreinte-plastique",
+          "published": "2026-09-23T14:56:13+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "C'est l'angle mort des décisions environnementales. Des chercheuses ont créé l'« empreinte plastique particulaire », un indice p",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/annelies_de_vos_202609211221-abb38.jpg?1790175374",
+          "other_news": true
+        },
+        {
           "title": "11 chercheurs du Giec épinglés pour leurs liens avec l'Arabie saoudite et le pétrolier Aramco",
           "link": "https://reporterre.net/11-chercheurs-du-Giec-epingles-pour-leurs-liens-avec-l-Arabie-saoudite-et-le-petrolier",
           "published": "2026-09-21T14:48:36+00:00",
@@ -1577,25 +1577,14 @@
           "other_news": true
         },
         {
-          "title": "Une mairie RN prive France Nature Environnement Vaucluse de local",
-          "link": "https://reporterre.net/Une-mairie-RN-prive-France-Nature-Environnement-Vaucluse-de-local",
-          "published": "2026-09-15T13:38:31+00:00",
-          "source": "Reporterre",
+          "title": "Pesticides : la communauté scientifique alerte sur un « dangereux recul » dans les lois européennes",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/23/pesticides-la-communaute-scientifique-alerte-sur-un-dangereux-recul-en-europe_6780934_3244.html",
+          "published": "2026-09-23T18:00:08+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "France Nature Environnement Vaucluse (FNE 84) se retrouve sans local. La nouvelle municipalité de Carpentras (Rassemblement nati",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20230217__339g2g3__v1__highres__franceagriculturedemo_1_-19f6a.jpg?1789479513",
-          "other_news": true
-        },
-        {
-          "title": "Après la crue dévastatrice, la jeunesse du Népal réclame la justice climatique contre les « grands pays émetteurs »",
-          "link": "https://reporterre.net/Au-Nepal-la-jeunesse-reclame-la-justice-climatique",
-          "published": "2026-09-15T12:11:21+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Après ses manifestations contre la corruption, la jeunesse népalaise s'empare désormais du combat environnemental. Deux semaines",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260910__pariyar-notitle260910_npzqj__v1__highres__genzcampaignersdemandclimat_resized-91006.jpg?1789474282",
+          "summary": "Engagée dans une course à la simplification de ses réglementations pour améliorer la compétitivité de l’économie, la Commission européenne propose de",
+          "image": "https://img.lemde.fr/2026/09/15/486/0/5840/2920/644/322/60/0/653ef87_upload-1-cce1ejleuyqq-maxnewsspecialtwo523324.jpg",
           "other_news": true
         },
         {
@@ -1632,14 +1621,14 @@
           "other_news": true
         },
         {
-          "title": "L’armée peut-elle faire face au réchauffement climatique ?",
-          "link": "https://www.lemonde.fr/podcasts/article/2026/09/22/l-armee-peut-elle-faire-face-au-rechauffement-climatique_6780081_5463015.html",
-          "published": "2026-09-22T11:54:31+02:00",
-          "source": "Le Monde Planète",
+          "title": "À cause de la venue du pape, la marche climat du 26 septembre remplacée par un rassemblement statique à Paris",
+          "link": "https://vert.eco/rapports-de-force/a-cause-de-la-venue-du-pape-la-marche-climat-du-26-septembre-remplacee-par-un-rassemblement-statique-a-paris/",
+          "published": "2026-09-23T13:52:07+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Les militaires sont en première ligne face aux effets du changement climatique, explique la chercheuse Julia Tasse dans cet épisode du podcast « Chale",
-          "image": "https://img.lemde.fr/2026/09/21/55/0/1778/889/644/322/60/0/7a4476d_upload-1-nzpsh2yq5tvg-01-09-juliatasse.jpg",
+          "summary": "La déambulation pour le climat prévue samedi à Paris n'aura pas lieu. La préfecture, mobilisée par la venue du pape, n'a autorisé qu'un rassemblement",
+          "image": null,
           "other_news": true
         },
         {
@@ -1665,13 +1654,24 @@
           "other_news": true
         },
         {
-          "title": "«Une forme de gestion de l’indésirable» : le juriste William Acker documente le racisme environnemental subi par les «gens du voyage»",
-          "link": "https://vert.eco/sante-environnement/pollutions/une-forme-de-gestion-de-lindesirable-le-juriste-william-acker-documente-le-racisme-environnemental-subi-par-les-gens-du-voyage/",
-          "published": "2026-09-18T09:55:10+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Samuel Beckett’s Happy Days has new meaning in the age of climate change",
+          "link": "https://theconversation.com/samuel-becketts-happy-days-has-new-meaning-in-the-age-of-climate-change-291682",
+          "published": "2026-09-23T15:05:28+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Dans son nouveau livre, «Racisme environnemental, penser la convergence depuis la lutte contre l’antitsiganisme», le juriste et délégué général de l’A",
+          "language": "en",
+          "summary": "Happy Days serves as a reminder to look after our planet while we still can.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Two new reports show that Canada needs to do much more to tackle climate change",
+          "link": "https://theconversation.com/two-new-reports-show-that-canada-needs-to-do-much-more-to-tackle-climate-change-292226",
+          "published": "2026-09-23T14:11:30+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Governments must stop treating climate action as merely an aspirational goal. It is an absolute imperative.",
           "image": null,
           "other_news": true
         },
@@ -1684,6 +1684,28 @@
           "language": "en",
           "summary": "A push is underway to better protect dingoes in NSW National Parks. This inquiry will grapple with how to balance conservation and farmer concerns.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Two decades on, Nepal’s conservationists search for new ‘dream’ generation",
+          "link": "https://news.mongabay.com/2026/09/two-decades-on-nepals-conservationists-search-for-new-dream-generation/",
+          "published": "2026-09-23T16:27:45+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "KATHMANDU — In September 2006, Nepal&#8217;s then Minister of Forests and Soil Conservation Gopal Rai and a contingent of conservation leaders flew to",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23155605/IMG_2079-4-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "A megadam made this community move",
+          "link": "https://news.mongabay.com/short-article/2026/09/a-megadam-made-this-community-move/",
+          "published": "2026-09-23T13:36:41+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The green transition is crucial to tackling climate change. But around the world, the same question keeps cropping up: who pays the price? In Malaysia",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23133238/Bakun-Thumbnail_Featured.png",
           "other_news": true
         },
         {
@@ -1761,17 +1783,6 @@
           "language": "en",
           "summary": "As South America turns right, Brazil’s vote could leave the Amazon without conservation leaders.",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/18210229/Curvas_do_Parque_Nacional_de_Anavilhanas-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Britain’s Prince William reveals finalists for Earthshot environmental prize",
-          "link": "https://news.mongabay.com/short-article/2026/09/britains-prince-william-reveals-finalists-for-earthshot-environmental-prize/",
-          "published": "2026-09-18T16:43:34+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "LONDON (AP) — How does a grizzly bear cross the road? With the help of Indigenous people, ranchers and governments. That’s the idea behind the Yellows",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/05/11001326/ecuador_236248-reverse-768x512.jpg",
           "other_news": true
         }
       ]

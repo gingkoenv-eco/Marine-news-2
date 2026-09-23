@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T17:39:31.976699+00:00",
+  "generated_at": "2026-09-23T05:01:08.209596+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -28,17 +28,6 @@
           "other_news": false
         },
         {
-          "title": "UK could 'unlock' 100 more oil and gas projects, say North Sea bosses",
-          "link": "https://www.bbc.co.uk/news/articles/c65ym93p73xmo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-15T06:45:12+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The UK could supply half of its oil and gas needs without imports if the government showed more support for the sector, an OEUK report claims.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5137/live/e8988d50-b075-11f1-a905-bfcd9db6b414.jpg",
-          "other_news": false
-        },
-        {
           "title": "After Hormuz, Nepal and wildfires, people want action to make polluters pay",
           "link": "https://www.climatechangenews.com/2026/09/22/after-hormuz-nepal-and-wildfires-people-demand-action-to-make-polluters-pay/",
           "published": "2026-09-22T02:50:41+00:00",
@@ -47,6 +36,17 @@
           "language": "en",
           "summary": "If governments are serious about boosting resilience and energy security, they must make the companies profiting from the fossil-fuel economy help foo",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Protéger un tiers des terres et de l’océan d’ici à 2030, un objectif crucial pour la biodiversité encore loin d’être atteint",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/23/proteger-un-tiers-des-terres-et-de-l-ocean-d-ici-a-2030-un-objectif-crucial-pour-la-biodiversite-encore-loin-d-etre-atteint_6780573_3244.html",
+          "published": "2026-09-23T06:00:06+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’objectif adopté fin 2022 sera au cœur de la prochaine COP biodiversité d’Erevan. Selon des ONG, si la conservation progresse, l’humanité est encore",
+          "image": "https://img.lemde.fr/2025/06/03/604/0/7248/3624/644/322/60/0/8330b7d_ftp-import-images-1-6r0fkrondvv4-5085503-01-06.jpg",
           "other_news": false
         }
       ]
@@ -626,7 +626,7 @@
         {
           "title": "Où habiter ? Comment l’été caniculaire nous oblige à réinventer nos rapports avec le territoire",
           "link": "https://www.lemonde.fr/idees/article/2026/09/22/ou-habiter-comment-l-ete-caniculaire-nous-oblige-a-reinventer-nos-rapports-avec-le-territoire_6780271_3232.html",
-          "published": "2026-09-22T19:00:08+02:00",
+          "published": "2026-09-22T19:00:05+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -679,6 +679,17 @@
           "other_news": false
         },
         {
+          "title": "The Ocean is Changing—Here’s What We Can Do About It",
+          "link": "https://oceanconservancy.org/blog/2026/09/22/ocean-is-changing/",
+          "published": "2026-09-22T21:43:33+00:00",
+          "source": "Ocean Conservancy",
+          "type": "news",
+          "language": "en",
+          "summary": "Our ocean has absorbed more than 90% of excess heat caused by human-driven climate change and a quarter of the carbon dioxide we emit. In simple terms",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Do Sea Turtles Get Lost?",
           "link": "https://oceanconservancy.org/blog/2026/08/27/do-sea-turtles-get-lost/",
           "published": "2026-08-27T15:58:38+00:00",
@@ -690,14 +701,25 @@
           "other_news": false
         },
         {
-          "title": "Mekong’s Irrawaddy dolphins find cautious hope amid a river in crisis",
-          "link": "https://news.mongabay.com/2026/09/mekongs-irrawaddy-dolphins-find-cautious-hope-amid-a-river-in-crisis/",
-          "published": "2026-09-17T20:59:19+00:00",
+          "title": "Cigarette butts make up 12% of aquatic litter, global review finds",
+          "link": "https://news.mongabay.com/short-article/2026/09/cigarette-butts-make-up-12-of-aquatic-litter-global-review-finds/",
+          "published": "2026-09-22T19:30:40+00:00",
           "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "KAMPI, Cambodia — At nine in the morning, the sun beats down on the Mekong River as Heang Koeurn turns off the motor of his boat and bobs on the water",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/17123401/WWF-Cambodia01-dolphin-768x512.jpg",
+          "summary": "Cigarette butts account for roughly 12% of the litter found in rivers, lakes and beaches surveyed for a recent global review. Researchers pooled data",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22175548/Counting_cigarette_butts_8009123356-768x512.jpg",
+          "other_news": false
+        },
+        {
+          "title": "California Tribes receive beach and ancestral village site back from transportation authority",
+          "link": "https://news.mongabay.com/2026/09/california-tribes-receive-beach-and-ancestral-village-site-back-from-transportation-authority/",
+          "published": "2026-09-22T19:21:18+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "On the Northern California coast, where the tall trees meet the sea, ancestors of the Coast Yuki people lie buried in an old village site above the bl",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22191052/KaiPomo_2024-Picture-Mussel-Rock--768x512.jpeg",
           "other_news": false
         }
       ]
@@ -840,6 +862,17 @@
           "other_news": true
         },
         {
+          "title": "India is producing more green energy - but wasting a lot of it",
+          "link": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-22T23:02:29+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d6/live/9c8a92d0-b185-11f1-9730-e36fcedc2d41.jpg",
+          "other_news": true
+        },
+        {
           "title": "Spain battles climate change on several fronts",
           "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-22T09:11:48+00:00",
@@ -848,17 +881,6 @@
           "language": "en",
           "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f5f/live/45cbd1b0-b271-11f1-b1d1-571ed4d7ff2c.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-17T10:31:35+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A new study says climate change was a likely factor in the massive flood on the Nepal-Tibet border last month.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7364/live/ed40ce00-b249-11f1-a45e-d7e94b0e7f98.jpg",
           "other_news": true
         },
         {
@@ -881,6 +903,17 @@
           "language": "en",
           "summary": "Staffordshire Wildlife Trust acquires an area of wet woodland, marsh and pastureland due to the will.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5cc/live/63e7f860-b431-11f1-9fa0-111a12dcb7b0.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-17T10:31:35+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A new study says climate change was a likely factor in the massive flood on the Nepal-Tibet border last month.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7364/live/ed40ce00-b249-11f1-a45e-d7e94b0e7f98.jpg",
           "other_news": true
         },
         {
@@ -1243,6 +1276,17 @@
           "type": "news",
           "language": "en",
           "summary": "The UK government has slashed its hopes for electric planes and “sustainable aviation fuels” (SAFs), ahead of giving the green&#8230;\nThe post UK avia",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "COP31 electrification pledge leaves out clean power commitment",
+          "link": "https://www.climatechangenews.com/2026/09/22/cop31-electrification-pledge-leaves-out-clean-power-commitment/",
+          "published": "2026-09-22T18:46:13+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Campaigners and experts say the goal's effectiveness in reducing emissions may be limited unless countries agree to meet it using only clean energy \nT",
           "image": null,
           "other_news": true
         },
@@ -1621,6 +1665,17 @@
           "other_news": true
         },
         {
+          "title": "Pierre Charbonnier, philosophe : « La réponse au réchauffement climatique a tellement tardé que l’ennemi sera désormais toujours là »",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/23/pierre-charbonnier-philosophe-la-reponse-au-rechauffement-climatique-a-tellement-tarde-que-l-ennemi-sera-desormais-toujours-la_6780580_3232.html",
+          "published": "2026-09-23T06:00:41+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Après les canicules de l’été, l’idée que le changement climatique serait un horizon à anticiper est devenue obsolète. Cette réalité oblige le chercheu",
+          "image": "https://img.lemde.fr/2026/08/13/1170/0/8256/4128/644/322/60/0/b4e53eb_upload-1-xs21kog8ds8r-canicule13aout-17.jpg",
+          "other_news": true
+        },
+        {
           "title": "L’armée peut-elle faire face au réchauffement climatique ?",
           "link": "https://www.lemonde.fr/podcasts/article/2026/09/22/l-armee-peut-elle-faire-face-au-rechauffement-climatique_6780081_5463015.html",
           "published": "2026-09-22T11:54:31+02:00",
@@ -1640,28 +1695,6 @@
           "language": "fr",
           "summary": "La spécialiste des politiques publiques environnementales et de la gestion de l’eau estime que la sécheresse de 2026 doit conduire à repenser collecti",
           "image": "https://img.lemde.fr/2026/09/16/3615/0/6095/3047/644/322/60/0/edfff32_upload-1-qxz9koxcs30t-qbassetti-lemonde08-09-26-paysdauge-14.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Comment on a incité des gens à moins utiliser leur voiture pour aller au travail",
-          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/09/22/comment-on-a-incite-des-gens-a-moins-utiliser-leur-voiture-pour-aller-au-travail_6779745_6125299.html",
-          "published": "2026-09-22T05:40:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Aujourd’hui,",
-          "image": "https://img.lemde.fr/2026/09/09/118/0/6772/3386/644/322/60/0/670c97c_upload-1-d5t02lbtura4-sophie-rodriguez-m-covoit-grenoble-le-monde-3.jpg",
-          "other_news": true
-        },
-        {
-          "title": "« On avance » : sur le terrain, des initiatives pour le climat et la biodiversité racontées par « Le Monde »",
-          "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/22/on-avance-sur-le-terrain-des-initiatives-pour-le-climat-et-la-biodiversite-racontees-par-le-monde_6779711_6065879.html",
-          "published": "2026-09-22T05:30:08+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Chaque semaine, dans La Matinale du Monde ainsi que sur le site et l’application du « Monde », des reportages explorent des projets collectifs visant",
-          "image": "https://img.lemde.fr/2026/07/14/412/0/5000/2500/644/322/60/0/029174a_upload-1-r8wy8clgg913-bg-30mai26-france-lpo-15-005.JPG",
           "other_news": true
         },
         {
@@ -1720,36 +1753,14 @@
           "other_news": true
         },
         {
-          "title": "Calls for global regulation of AI are growing. What exactly could it look like?",
-          "link": "https://theconversation.com/calls-for-global-regulation-of-ai-are-growing-what-exactly-could-it-look-like-292243",
-          "published": "2026-09-21T20:09:34+00:00",
-          "source": "The Conversation",
+          "title": "Brazil creates four Amazon reserves as plans to pave rainforest highway advance",
+          "link": "https://news.mongabay.com/short-article/2026/09/brazil-creates-four-amazon-reserves-as-plans-to-pave-rainforest-highway-advance/",
+          "published": "2026-09-22T17:52:19+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "AI is a global technology. A global approach to regulating it is urgently needed.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Brazil has made gains against Amazon deforestation, but lasting protection is a challenge",
-          "link": "https://theconversation.com/brazil-has-made-gains-against-amazon-deforestation-but-lasting-protection-is-a-challenge-290494",
-          "published": "2026-09-21T18:49:09+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Sustaining Brazil’s recent deforestation gains will require stronger environmental enforcement beyond the rainforest and resistance to political effor",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Climate change also poses a threat to cultural heritage",
-          "link": "https://theconversation.com/climate-change-also-poses-a-threat-to-cultural-heritage-291431",
-          "published": "2026-09-21T15:44:05+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Nearly 43% of UNESCO World Heritage Sites in Europe are now highly vulnerable to climate-related risks.",
-          "image": null,
+          "summary": "The Brazilian government has created four new sustainable development reserves in the Amazon as part of an effort to mitigate environmental damage fro",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/03/21192457/3.-319_National-Department-of-Transport-Infrastructure-DNIT-768x512.png",
           "other_news": true
         },
         {
@@ -1827,17 +1838,6 @@
           "language": "en",
           "summary": "Anslem de Silva is widely regarded as the father of modern herpetology in Sri Lanka. He has spent more than six decades documenting the island’s rich",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/25125206/1.-crocokodile-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Community-based conservation is a good climate investment in Brazil & beyond (commentary)",
-          "link": "https://news.mongabay.com/2026/09/community-based-conservation-is-a-good-climate-investment-in-brazil-beyond-commentary/",
-          "published": "2026-09-17T14:39:13+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "More than half a century has passed since Garrett Hardin published The Tragedy of the Commons in Science in 1968. In that influential article, he argu",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/01/29122935/Fisher-768x512.png",
           "other_news": true
         }
       ]

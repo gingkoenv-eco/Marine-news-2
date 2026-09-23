@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:38:36.790392+00:00",
+  "generated_at": "2026-09-23T12:47:10.136692+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -189,6 +189,17 @@
           "other_news": false
         },
         {
+          "title": "Federal directive guts key protections for US’s endangered wildlife",
+          "link": "https://oceanographicmagazine.com/news/federal-directive-guts-key-protections-for-uss-endangered-wildlife/",
+          "published": "2026-09-23T12:26:50+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new US Fish and Wildlife Service directive narrows the Endangered Species Act's \"take\" prohibition to intentional acts only, drawing sharp criticism",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Faroe Islands kill 15 times more whales than demand requires",
           "link": "https://oceanographicmagazine.com/news/faroe-islands-kill-15-times-more-whales-than-demand-requires/",
           "published": "2026-09-21T15:59:51+00:00",
@@ -222,13 +233,13 @@
           "other_news": false
         },
         {
-          "title": "Do whales grieve? Rare humpback observation offers first clue",
-          "link": "https://oceanographicmagazine.com/news/do-whales-grieve-rare-humpback-observation-offers-first-clue/",
-          "published": "2026-09-16T14:41:46+00:00",
-          "source": "Oceanographic",
+          "title": "Finding homes for whales and dolphins when parks like Marineland Canada close isn’t easy – a biologist explains why sea sanctuaries aren’t the answer",
+          "link": "https://theconversation.com/finding-homes-for-whales-and-dolphins-when-parks-like-marineland-canada-close-isnt-easy-a-biologist-explains-why-sea-sanctuaries-arent-the-answer-292337",
+          "published": "2026-09-23T12:43:20+00:00",
+          "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Griffith University and Sea World Foundation researchers document a humpback whale mother's prolonged attendance to her deceased calf off the Gold Coa",
+          "summary": "Sea sanctuaries could work well for some animals, but up to this point, only a handful of animals have lived in them.",
           "image": null,
           "other_news": false
         },
@@ -298,17 +309,6 @@
           "language": "en",
           "summary": "The group is marking a decade of fishing everything from an inflatable doll to a Nintendo out of the harbour.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b84/live/69f84dd0-b342-11f1-91a3-393282eb9f17.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Ministers accused of ‘choosing’ to run down Britain’s fish stocks",
-          "link": "https://oceanographicmagazine.com/news/ministers-accused-of-choosing-to-run-down-britains-fish-stocks/",
-          "published": "2026-09-16T15:25:59+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "More than 40% of UK fish stocks have declined in the last ten years, with a new report claiming most catch quotas are still being set above scientific",
-          "image": null,
           "other_news": false
         },
         {
@@ -558,6 +558,17 @@
           "other_news": false
         },
         {
+          "title": "Tides, not rain, determine where beaches are hit by E. coli",
+          "link": "https://oceanographicmagazine.com/news/tides-not-rain-determine-where-beaches-are-hit-by-e-coli/",
+          "published": "2026-09-23T11:40:26+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "New research from Plymouth Marine Laboratory reveals coastal currents, not rainfall, determine where sewage bacteria hits Devon's beaches and shellfis",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Sylvia Earle, IUCN unveil One Ocean Partnership at Climate Week",
           "link": "https://oceanographicmagazine.com/news/sylvia-earle-iucn-unveil-one-ocean-partnership-at-climate-week/",
           "published": "2026-09-22T17:22:45+00:00",
@@ -610,6 +621,17 @@
           "language": "fr",
           "summary": "Chaleur excessive, manque d’eau, élévation du niveau de la mer… L’habitabilité d’un lieu est d’abord conditionnée par des seuils physiques, mais dépen",
           "image": "https://img.lemde.fr/2026/09/21/388/0/4272/2136/644/322/60/0/73eb418_upload-1-oeso0xheu7nx-image0.jpeg",
+          "other_news": false
+        },
+        {
+          "title": "Dans la Manche, les pêcheurs français font monter la pression pour interdire les plus gros chalutiers de la bande côtière",
+          "link": "https://vert.eco/agriculture/dans-la-manche-les-pecheurs-francais-font-monter-la-pression-pour-interdire-les-plus-gros-chalutiers-de-la-bande-cotiere/",
+          "published": "2026-09-22T04:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Début septembre, la commission Manche-mer du Nord du Comité national des pêches a voté pour l’exclusion des navires de plus de 25 mètres des eaux terr",
+          "image": null,
           "other_news": false
         },
         {
@@ -1456,17 +1478,6 @@
           "other_news": true
         },
         {
-          "title": "New Zealand moves to protect business with law curtailing climate litigation",
-          "link": "https://www.climatechangenews.com/2026/08/24/new-zealand-moves-to-protect-business-with-law-curtailing-climate-litigation/",
-          "published": "2026-08-24T12:05:01+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "A new bill prevents corporations being sued for the climate damage their emissions cause, as the government says climate action should be handled at t",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "11 chercheurs du Giec épinglés pour leurs liens avec l'Arabie saoudite et le pétrolier Aramco",
           "link": "https://reporterre.net/11-chercheurs-du-Giec-epingles-pour-leurs-liens-avec-l-Arabie-saoudite-et-le-petrolier",
           "published": "2026-09-21T14:48:36+00:00",
@@ -1632,6 +1643,39 @@
           "other_news": true
         },
         {
+          "title": "«Nous avons droit à un avenir, mais aussi de vivre maintenant» : l’appel de la jeunesse à manifester le 26 septembre pour le climat, le vivant et la justice sociale",
+          "link": "https://vert.eco/rapports-de-force/lurgence-climatique-nous-oblige-cest-notre-futur-tres-proche-qui-est-en-jeu-lappel-de-la-jeunesse-a-manifester-le-26-septembre/",
+          "published": "2026-09-21T12:47:26+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Une mobilisation nationale pour le climat, le vivant et la justice sociale aura lieu partout en France, le 26 septembre. Dans cette tribune, collégien",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "«Le RN n’aime pas l’écologie» : à Carpentras, le maire d’extrême droite met France nature environnement à la porte",
+          "link": "https://vert.eco/chaleurs-actuelles/on-sait-tres-bien-que-le-rn-naime-pas-lecologie-a-carpentras-france-nature-environnement-lachee-par-la-mairie-dextreme-droite/",
+          "published": "2026-09-19T05:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "L'antenne vauclusienne de la fédération d’associations écologistes perd les locaux mis à sa disposition par la municipalité depuis plus de quinze ans.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "«Une forme de gestion de l’indésirable» : le juriste William Acker documente le racisme environnemental subi par les «gens du voyage»",
+          "link": "https://vert.eco/sante-environnement/pollutions/une-forme-de-gestion-de-lindesirable-le-juriste-william-acker-documente-le-racisme-environnemental-subi-par-les-gens-du-voyage/",
+          "published": "2026-09-18T09:55:10+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans son nouveau livre, «Racisme environnemental, penser la convergence depuis la lutte contre l’antitsiganisme», le juriste et délégué général de l’A",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "The dingo debate is heating up. How we manage these animals will determine their future",
           "link": "https://theconversation.com/the-dingo-debate-is-heating-up-how-we-manage-these-animals-will-determine-their-future-292216",
           "published": "2026-09-23T05:09:21+00:00",
@@ -1639,17 +1683,6 @@
           "type": "news",
           "language": "en",
           "summary": "A push is underway to better protect dingoes in NSW National Parks. This inquiry will grapple with how to balance conservation and farmer concerns.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Climate change is fuelling African conflict – governments are developing a shared response",
-          "link": "https://theconversation.com/climate-change-is-fuelling-african-conflict-governments-are-developing-a-shared-response-289088",
-          "published": "2026-09-22T14:46:22+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "African countries are now crafting the first continent-wide framework to tackle how climate disasters can worsen hunger, displacement and conflict.",
           "image": null,
           "other_news": true
         },

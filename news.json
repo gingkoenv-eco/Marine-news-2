@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T16:58:02.329731+00:00",
+  "generated_at": "2026-09-23T17:52:16.311459+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -657,6 +657,17 @@
           "other_news": false
         },
         {
+          "title": "Agency says sea turtle eggs laid on California beaches are a first for the US West Coast",
+          "link": "https://news.mongabay.com/short-article/2026/09/agency-says-sea-turtle-eggs-laid-on-california-beaches-are-a-first-for-the-us-west-coast/",
+          "published": "2026-09-23T16:55:13+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "HUNTINGTON BEACH, Calif. (AP) — A reptile believed to be struggling in sand at a Southern California beach was simply making history: a sea turtle lay",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/10/24085513/olive-ridley-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Cigarette butts make up 12% of aquatic litter, global review finds",
           "link": "https://news.mongabay.com/short-article/2026/09/cigarette-butts-make-up-12-of-aquatic-litter-global-review-finds/",
           "published": "2026-09-22T19:30:40+00:00",
@@ -1203,6 +1214,17 @@
           "other_news": true
         },
         {
+          "title": "UN backs push to upgrade grids slowing clean power uptake in Africa and Southeast Asia",
+          "link": "https://www.climatechangenews.com/2026/09/23/un-backs-push-to-upgrade-grids-slowing-clean-power-uptake-in-africa-and-southeast-asia/",
+          "published": "2026-09-23T17:11:37+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "The Global Grids Accelerator will help turn national and regional plans to expand electricity infrastructure into viable projects on the ground\nThe po",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "The response to Nepal’s disaster is a test for global climate institutions",
           "link": "https://www.climatechangenews.com/2026/09/23/the-response-to-nepals-disaster-is-a-test-for-global-climate-institutions/",
           "published": "2026-09-23T13:45:19+00:00",
@@ -1684,6 +1706,17 @@
           "language": "en",
           "summary": "A push is underway to better protect dingoes in NSW National Parks. This inquiry will grapple with how to balance conservation and farmer concerns.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Logging still threatens Bornean forest once envisioned as an Indigenous-led peace park",
+          "link": "https://news.mongabay.com/2026/09/logging-still-threatens-bornean-forest-once-envisioned-as-an-indigenous-led-peace-park/",
+          "published": "2026-09-23T16:52:38+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A conservation park that Indigenous communities from the Malaysian state of Sarawak believed they could co-manage and self-govern has been transformed",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/10/26192853/20230826_085717-768x512.jpg",
           "other_news": true
         },
         {

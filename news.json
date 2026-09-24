@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:10:47.916529+00:00",
+  "generated_at": "2026-09-24T17:52:51.709438+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -296,17 +296,6 @@
           "language": "en",
           "summary": "Annually, seasonally and sometimes even daily, amazing oceanic migrations are taking place. Humpback whales migrate thousands of miles to breeding gro",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Tourism has the potential to reverse coral decline at Bali travel hotspot: Study",
-          "link": "https://news.mongabay.com/2026/09/tourism-has-potential-to-slow-coral-decline-at-bali-travel-hotspot-study/",
-          "published": "2026-09-22T02:01:37+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Sanur is where tourism took off in Bali. A coastal town overlooking the Lombok Strait where the Pacific Ocean flows into the Indian Ocean, artists and",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/21153916/Image-by-Anett-SzasziOcean-Image-Bank-768x512.jpg",
           "other_news": false
         }
       ],
@@ -789,6 +778,17 @@
           "language": "en",
           "summary": "The tiny gardens beneath street trees can boost biodiversity and our connection to where we live.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Ebola, twins and women-led conservation: Reporting on gorillas for World Gorilla Day",
+          "link": "https://news.mongabay.com/short-article/2026/09/ebola-twins-and-women-led-conservation-reporting-on-gorillas-for-world-gorilla-day/",
+          "published": "2026-09-24T17:22:05+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Gorillas are among humans’ closest relatives, with a common ancestor dating back around 8 to 10 million years. Both species of gorilla alive today are",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/24111755/IMG_1524-768x512.jpg",
           "other_news": true
         },
         {

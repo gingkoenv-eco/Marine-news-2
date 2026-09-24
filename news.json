@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:47:20.821127+00:00",
+  "generated_at": "2026-09-24T12:46:26.658045+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -118,6 +118,17 @@
           "language": "en",
           "summary": "Satellite tracking data was used to look at which ships and boats were active in the Seychelles waters.",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Pollution : du pétrole flotte sur l'océan sur 1,58 million de km2",
+          "link": "https://reporterre.net/Pollution-du-petrole-flotte-sur-l-ocean-sur-1-58-million-de-km2",
+          "published": "2026-09-24T12:33:02+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Chaque année, les nappes d'hydrocarbures recouvrent une surface océanique estimée à 1,58 million de kilomètres carrés. C'est le",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20240729__2164129449__v2__highres__oilspillinmanilabay-cc4e6.jpg?1790253188",
           "other_news": false
         },
         {
@@ -579,17 +590,6 @@
           "language": "fr",
           "summary": "Des oiseaux aquatiques qui passent leur vie sans jamais piquer une tête dans un bassin. Voilà le sort qui est réservé aux 11 500",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/screenshot_2026-09-16_at_16-01-43_ni_mare_ni_ciel_ni_terre_pour_les_canards_de_carrefour_l214-2f215.jpg?1789567843",
-          "other_news": false
-        },
-        {
-          "title": "La Méditerranée se réchauffe 2 à 3 fois plus vite que la moyenne des océans",
-          "link": "https://reporterre.net/La-Mediterranee-se-rechauffe-2-a-3-fois-plus-vite-que-la-moyenne-des-oceans",
-          "published": "2026-09-16T13:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "La canicule marine qui a frappé la Méditerranée cet été, avec des températures frôlant localement 30 °C en juillet, n'était pas",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/cote-dazur-mer-mediterranee_1_1_-2cd52.jpg?1789563601",
           "other_news": false
         },
         {
@@ -1194,6 +1194,17 @@
           "other_news": true
         },
         {
+          "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in the UK",
+          "link": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
+          "published": "2026-09-24T11:49:03+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "The latest surge in fossil-fuel prices means it is now up to nine times cheaper in the UK to drive&#8230;\nThe post Analysis: EVs are now nine times ch",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Analysis: India’s power-sector emissions flat for two years due to clean-energy surge",
           "link": "https://www.carbonbrief.org/analysis-indias-power-sector-emissions-flat-for-two-years-due-to-clean-energy-surge",
           "published": "2026-09-16T23:01:00+00:00",
@@ -1256,17 +1267,6 @@
           "type": "news",
           "language": "en",
           "summary": "Extreme heat is one of the deadliest climate hazards, but no two heatwaves are the same. Heat extremes that happen&#8230;\nThe post Guest post: How ext",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "UK aviation emissions to be 50% higher than thought by 2050, government admits",
-          "link": "https://www.carbonbrief.org/uk-aviation-emissions-to-be-50-higher-than-thought-by-2050-government-admits",
-          "published": "2026-09-10T10:42:50+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "The UK government has slashed its hopes for electric planes and “sustainable aviation fuels” (SAFs), ahead of giving the green&#8230;\nThe post UK avia",
           "image": null,
           "other_news": true
         },
@@ -1631,6 +1631,17 @@
           "language": "fr",
           "summary": "Devant le Parlement européen, Ursula von der Leyen a défendu, mercredi 16 septembre, la trajectoire climatique de l'UE sans reno",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260916__c8fn4bw__v2__highres__franceeuparliamentpoliticsdiplomacy-63f7d.jpg?1789565605",
+          "other_news": true
+        },
+        {
+          "title": "« Il est dangereux de faire du retour de la croissance la condition préalable à notre capacité d’agir pour affronter les crises »",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/24/il-est-dangereux-de-faire-du-retour-de-la-croissance-la-condition-prealable-a-notre-capacite-d-agir-pour-affronter-les-crises_6781506_3232.html",
+          "published": "2026-09-24T14:00:13+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les économistes Anna Creti et Philippe Delacote appellent, dans une tribune au « Monde », les décideurs politiques et économiques à inscrire dans le m",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/373b59e_upload-1-poskrjrwnpsg-frame-819.jpg",
           "other_news": true
         },
         {

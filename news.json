@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:46:26.658045+00:00",
+  "generated_at": "2026-09-24T17:10:47.916529+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -46,6 +46,28 @@
           "type": "news",
           "language": "en",
           "summary": "If governments are serious about boosting resilience and energy security, they must make the companies profiting from the fossil-fuel economy help foo",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "OceanEye: Nations pledge €211m to strengthen ocean observation",
+          "link": "https://oceanographicmagazine.com/news/oceaneye-nations-pledge-211-m-to-strengthen-ocean-observation/",
+          "published": "2026-09-24T14:46:12+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Von der Leyen and Carney have launched the OceanEye International Alliance, with over 30 countries pledging €211 million to strengthen global ocean ob",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "100 countries in: High Seas Treaty nears universal ratification",
+          "link": "https://oceanographicmagazine.com/news/100-countries-in-high-seas-treaty-nears-universal-ratification/",
+          "published": "2026-09-24T14:09:08+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The High Seas Treaty has reached 100 ratifications, with Germany, Canada, Australia and others joining ahead of COP1 in January 2027 - a shift from ne",
           "image": null,
           "other_news": false
         },
@@ -255,17 +277,6 @@
           "other_news": false
         },
         {
-          "title": "Seven new viruses discovered in threatened sea turtle populations",
-          "link": "https://oceanographicmagazine.com/news/seven-new-viruses-discovered-in-threatened-sea-turtle-populations/",
-          "published": "2026-09-18T14:54:38+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Using genetic sequencing, scientists have identified 19 viruses - including seven never seen before in any species – in Atlantic and Pacific sea turtl",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Sharks often swim across national borders. Our conservation efforts must travel with them",
           "link": "https://theconversation.com/sharks-often-swim-across-national-borders-our-conservation-efforts-must-travel-with-them-291978",
           "published": "2026-09-24T01:58:22+00:00",
@@ -297,28 +308,6 @@
           "summary": "Sanur is where tourism took off in Bali. A coastal town overlooking the Lombok Strait where the Pacific Ocean flows into the Indian Ocean, artists and",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/21153916/Image-by-Anett-SzasziOcean-Image-Bank-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Sperm whales blow bubbles to stay afloat while resting, research shows",
-          "link": "https://news.mongabay.com/short-article/2026/09/sperm-whales-blow-bubbles-to-stay-afloat-while-resting-research-shows/",
-          "published": "2026-09-21T17:05:16+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Sperm whales are the only whales known to rest vertically, floating steadily just below the ocean’s surface. Scientists have hypothesized that the wha",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/21170256/Banner_whales-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "These dolphins are shouting",
-          "link": "https://news.mongabay.com/short-article/2026/09/these-dolphins-are-shouting/",
-          "published": "2026-09-21T17:01:02+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Pilot whales now need to shout to be heard over the rumble of ship traffic in the Strait of Gibraltar, the narrow strip of water between Morocco and S",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/21170008/Mongabay_Thumbnail_Dolphins_Web.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -342,17 +331,6 @@
           "language": "en",
           "summary": "A mass of floating weeds at Chia Lagoon, Malawi’s largest, is choking out waterways and livelihoods as farmers and fishers struggle to access fields a",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23230335/chia-1-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "How freediving helps Indonesia’s Bajau preserve traditions and conserve marine life",
-          "link": "https://news.mongabay.com/2026/09/how-freediving-helps-indonesias-bajau-preserve-traditions-and-conserve-marine-life/",
-          "published": "2026-09-21T18:18:52+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "POTO TANO, Indonesia — Mahari sits at the front of the boat, cigarette in hand, surveying the conditions of the waters off Poto Tano, a small fishing",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/21115236/Bajau-PELITA-member-Well-2-768x512.jpg",
           "other_news": false
         }
       ],
@@ -593,6 +571,17 @@
           "other_news": false
         },
         {
+          "title": "Southern ocean krill oil boycott backed by Benedict Cumberbatch",
+          "link": "https://oceanographicmagazine.com/news/southern-ocean-krill-oil-boycott-backed-by-benedict-cumberbatch/",
+          "published": "2026-09-24T13:40:44+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Ocean leaders including Sylvia Earle and Benedict Cumberbatch have launched a global boycott of Antarctic krill products, pressuring Norway and other",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Tides, not rain, determine where beaches are hit by E. coli",
           "link": "https://oceanographicmagazine.com/news/tides-not-rain-determine-where-beaches-are-hit-by-e-coli/",
           "published": "2026-09-23T11:40:26+00:00",
@@ -626,47 +615,14 @@
           "other_news": false
         },
         {
-          "title": "Seven of nine Planetary Boundaries now at record breach levels",
-          "link": "https://oceanographicmagazine.com/news/seven-of-nine-planetary-boundaries-now-at-record-breach-levels/",
-          "published": "2026-09-21T15:15:39+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The 2026 Planetary Health Check finds seven of nine Planetary Boundaries breached at record levels, as record ocean heat, floods, drought and wildfire",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Niue and Barcelona 2026 Earthshot Prize Finalists for ocean work",
-          "link": "https://oceanographicmagazine.com/news/niue-and-barcelona-2026-earthshot-prize-finalists-for-ocean-work/",
-          "published": "2026-09-18T11:59:43+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Niue Ocean Wide Trust and the City of Barcelona have both been named 2026 Earthshot Prize finalists in the Revive Our Oceans category, for pioneering",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "La BERD s’inquiète du blocage des exportations de blé à cause de la guerre en Ukraine",
+          "title": "Le blocage des exportations de blé en mer Noire, lié à la guerre en Ukraine, fragilise l’économie de la région et fait monter les cours mondiaux de la céréale",
           "link": "https://www.lemonde.fr/economie/article/2026/09/24/la-berd-s-inquiete-du-blocage-des-exportations-de-ble-a-cause-de-la-guerre-en-ukraine_6781484_3234.html",
-          "published": "2026-09-24T10:00:18+02:00",
+          "published": "2026-09-24T10:00:09+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
           "summary": "Les attaques sur des navires en mer Noire et le manque d’eau dans le Danube rendent très difficiles les exportations de blé, dont le prix a augmenté d",
-          "image": "https://img.lemde.fr/2026/09/15/166/0/6533/3266/644/322/60/0/e298ff3_ftp-1-quz01im1shdg-6791af2a7c204d15bb02984fe11a3b07-0-b5bd430a9c28455e8905df6827f5434e.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Où habiter ? Comment l’été caniculaire nous oblige à réinventer nos rapports avec le territoire",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/22/ou-habiter-comment-l-ete-caniculaire-nous-oblige-a-reinventer-nos-rapports-avec-le-territoire_6780271_3232.html",
-          "published": "2026-09-22T19:00:05+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Chaleur excessive, manque d’eau, élévation du niveau de la mer… L’habitabilité d’un lieu est d’abord conditionnée par des seuils physiques, mais dépen",
-          "image": "https://img.lemde.fr/2026/09/21/388/0/4272/2136/644/322/60/0/73eb418_upload-1-oeso0xheu7nx-image0.jpeg",
+          "image": "https://img.lemde.fr/2026/09/24/108/0/4000/2000/644/322/60/0/0328f6f_upload-1-bx0brg72wnaq-000-c6873we.jpg",
           "other_news": false
         },
         {
@@ -711,6 +667,17 @@
           "language": "en",
           "summary": "Did you know some female sea turtles can travel hundreds—or even thousands—of miles through open ocean before returning to nest on or near the very be",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Earth life support systems are flashing red, warns 2026 Planetary Health Check",
+          "link": "https://news.mongabay.com/2026/09/earth-life-support-systems-are-flashing-red-warns-2026-planetary-health-check/",
+          "published": "2026-09-24T13:55:06+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Human activities continue eroding the planet’s stability, resilience and life-support functions, the third edition of the Planetary Health Check relea",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/24123717/Hurricane-Melissa-as-seen-from-the-International-Space-Station-768x512.jpg",
           "other_news": false
         },
         {
@@ -774,19 +741,6 @@
           "image": "https://i.guim.co.uk/img/media/cc1bd4fa09ba7f5f49796f92c877ad5d1be2c16b/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=7ac95c323557914761449c0efb74dbea",
           "other_news": false
         }
-      ],
-      "Other Marine News": [
-        {
-          "title": "46% of wild-caught fish could be fed to farmed fish and shrimp by 2040, says report",
-          "link": "https://news.mongabay.com/2026/09/45-of-wild-caught-fish-could-be-fed-to-farmed-fish-and-shrimp-by-2040-says-report/",
-          "published": "2026-09-21T16:44:11+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "ROME — Nearly half of the wild-caught fish harvested globally could be used to produce feed for farmed aquaculture products by 2040 if the industry we",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/21135229/Sri-Lanka-fishers1-768x512.jpg",
-          "other_news": false
-        }
       ]
     },
     "Other News": {
@@ -838,6 +792,17 @@
           "other_news": true
         },
         {
+          "title": "Biodiversity credits shouldn’t copy the carbon market playbook (commentary)",
+          "link": "https://news.mongabay.com/2026/09/biodiversity-credits-shouldnt-copy-the-carbon-market-playbook-commentary/",
+          "published": "2026-09-24T13:25:37+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Here is the argument I want to make plainly, before anything else: the biodiversity credit market should stop trying to copy carbon&#8217;s trick of r",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2021/10/12125135/8.-Habenaria-criniferaNasrilatha-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "New Galápagos Atlas charts the islands’ biodiversity and the mysteries that remain",
           "link": "https://news.mongabay.com/short-article/2026/09/new-galapagos-atlas-charts-the-islands-biodiversity-and-the-mysteries-that-remain/",
           "published": "2026-09-23T08:08:36+00:00",
@@ -846,17 +811,6 @@
           "language": "en",
           "summary": "A new atlas of biodiversity of the Galápagos Islands highlights the unique evolutionary and ecological diversity of life in the famed archipelago that",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23080531/galapagos_akb_17048-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Illegal mines threaten biodiversity and drinking water in Ghana’s Atewa Forest",
-          "link": "https://news.mongabay.com/2026/09/illegal-mines-threaten-biodiversity-and-drinking-water-in-ghanas-atewa-forest/",
-          "published": "2026-09-21T14:28:40+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Every day, scores of illegal miners on motorbikes swarm into the Atewa Forest Reserve, in eastern Ghana — ignoring the handful of Forestry Commission",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/21135635/IllegalMiners_AtewaGhana_ARochaGhana-11_20260919_122540_0010-768x512.jpg",
           "other_news": true
         }
       ],
@@ -1128,17 +1082,6 @@
           "other_news": true
         },
         {
-          "title": "Too hot to learn: how climate change hurts children’s chances from birth",
-          "link": "https://theconversation.com/too-hot-to-learn-how-climate-change-hurts-childrens-chances-from-birth-289773",
-          "published": "2026-09-08T15:19:53+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Floods, droughts and extreme heat can disrupt nutrition and healthcare in early life, with consequences that may last for years.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Nepal isn’t the only disaster-struck country waiting for money from the global climate Loss and Damage Fund",
           "link": "https://theconversation.com/nepal-isnt-the-only-disaster-struck-country-waiting-for-money-from-the-global-climate-loss-and-damage-fund-291264",
           "published": "2026-09-18T12:39:03+00:00",
@@ -1190,6 +1133,17 @@
           "type": "news",
           "language": "en",
           "summary": "A ‘green’ building has to last for its intentionally small carbon footprint to pay off. That includes surviving flood, storm or wildfire damage.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Interactive: What China’s dozens of ‘five-year plans’ say about climate and energy",
+          "link": "https://interactive.carbonbrief.org/china-plan-tracker/index.html",
+          "published": "2026-09-24T14:00:00+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Almost three-quarters of the 72 five-year plans published by China this year include policies or targets related to climate change&#8230;\nThe post Int",
           "image": null,
           "other_news": true
         },
@@ -1260,13 +1214,13 @@
           "other_news": true
         },
         {
-          "title": "Guest post: How extreme heat is ‘creeping’ from summer into autumn and spring",
-          "link": "https://www.carbonbrief.org/guest-post-how-extreme-heat-is-creeping-from-summer-into-autumn-and-spring",
-          "published": "2026-09-10T13:00:00+00:00",
-          "source": "Carbonbrief",
+          "title": "Push for cooking to be part of COP31’s electrification agenda",
+          "link": "https://www.climatechangenews.com/2026/09/24/push-for-cooking-to-be-part-of-cop31s-electrification-agenda/",
+          "published": "2026-09-24T16:51:36+00:00",
+          "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Extreme heat is one of the deadliest climate hazards, but no two heatwaves are the same. Heat extremes that happen&#8230;\nThe post Guest post: How ext",
+          "summary": "The President of Kenya and the British climate envoy said Africa should use the global electrification push to roll out clean cooking\nThe post Push fo",
           "image": null,
           "other_news": true
         },
@@ -1513,14 +1467,14 @@
           "other_news": true
         },
         {
-          "title": "India needs climate adaptation cash to be an investment, not a quick fix",
-          "link": "https://www.climatechangenews.com/2026/08/31/india-needs-climate-adaptation-cash-to-be-an-investment-not-a-quick-fix/",
-          "published": "2026-08-31T07:48:04+00:00",
-          "source": "Climate change news",
+          "title": "« Les marches pour le climat et la justice sociale doivent être aussi antiracistes et anticoloniales »",
+          "link": "https://reporterre.net/Les-marches-pour-le-climat-et-la-justice-sociale-doivent-etre-aussi-antiracistes-et",
+          "published": "2026-09-24T16:03:38+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "As governments look towards COP31, India must push not only for more adaptation finance, but for funds to arrive in time for projects that limit disas",
-          "image": null,
+          "language": "fr",
+          "summary": "Les auteurs de cette tribune appellent à manifester « ensemble, sans effacer les voix » lors de la marche climat du 26 septembre",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/280925_nmn_5792_marche_climat_a_c_nnoman-fb83d.jpg?1790265819",
           "other_news": true
         },
         {
@@ -1543,17 +1497,6 @@
           "language": "fr",
           "summary": "La venue du Pape à Paris a mis à l'arrêt la marche climat prévue samedi 26 septembre à Paris. « C'est désormais validé par la pr",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260923__c93y46d__v1__highres__vaticanreligionpopeaudience_1_-ee0be.jpg?1790179242",
-          "other_news": true
-        },
-        {
-          "title": "Après l'empreinte carbone, voici l'empreinte plastique",
-          "link": "https://reporterre.net/Apres-l-empreinte-carbone-voici-l-empreinte-plastique",
-          "published": "2026-09-23T14:56:13+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "C'est l'angle mort des décisions environnementales. Des chercheuses ont créé l'« empreinte plastique particulaire », un indice p",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/annelies_de_vos_202609211221-abb38.jpg?1790175374",
           "other_news": true
         },
         {
@@ -1620,17 +1563,6 @@
           "language": "fr",
           "summary": "Selon le bilan annuel de l'ONG Global Witness, publié le 16 septembre, au moins 124 personnes sont mortes en 2025 pour avoir déf",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260318__hl_gbeyson_3099916__v2__highres__francecorsicaalessandriassassination_1_-7df9a.jpg?1789648962",
-          "other_news": true
-        },
-        {
-          "title": "« Politique de la terre brûlée » : la feuille de route anti-écologique d'Ursula von der Leyen pour l'Europe",
-          "link": "https://reporterre.net/La-deregulation-avant-le-climat-la-feuille-de-route-anti-ecologique-d-Ursula-von-der",
-          "published": "2026-09-16T13:33:20+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Devant le Parlement européen, Ursula von der Leyen a défendu, mercredi 16 septembre, la trajectoire climatique de l'UE sans reno",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260916__c8fn4bw__v2__highres__franceeuparliamentpoliticsdiplomacy-63f7d.jpg?1789565605",
           "other_news": true
         },
         {
@@ -1711,6 +1643,17 @@
           "other_news": true
         },
         {
+          "title": "How Trump’s crypto winnings undermined the industry’s push for looser regulation",
+          "link": "https://theconversation.com/how-trumps-crypto-winnings-undermined-the-industrys-push-for-looser-regulation-289123",
+          "published": "2026-09-24T12:45:44+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The crypto industry scored a series of wins in 2025, only to see its top legislative goal fail in 2026.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Why David Brat, the new US ambassador to Australia, has a big in-tray",
           "link": "https://theconversation.com/why-david-brat-the-new-us-ambassador-to-australia-has-a-big-in-tray-292370",
           "published": "2026-09-24T05:39:10+00:00",
@@ -1733,25 +1676,25 @@
           "other_news": true
         },
         {
-          "title": "Samuel Beckett’s Happy Days has new meaning in the age of climate change",
-          "link": "https://theconversation.com/samuel-becketts-happy-days-has-new-meaning-in-the-age-of-climate-change-291682",
-          "published": "2026-09-23T15:05:28+00:00",
-          "source": "The Conversation",
+          "title": "New report reveals the environmental cost of USAID’s destruction",
+          "link": "https://news.mongabay.com/2026/09/new-report-reveals-the-environmental-cost-of-usaids-destruction/",
+          "published": "2026-09-24T14:36:40+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Happy Days serves as a reminder to look after our planet while we still can.",
-          "image": null,
+          "summary": "Nearly two years after U.S. President Trump’s decision to dismantle international development agency USAID removed nearly $1 billion from global conse",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/24142704/USAID-2-768x512.jpg",
           "other_news": true
         },
         {
-          "title": "Two new reports show that Canada needs to do much more to tackle climate change",
-          "link": "https://theconversation.com/two-new-reports-show-that-canada-needs-to-do-much-more-to-tackle-climate-change-292226",
-          "published": "2026-09-23T14:11:30+00:00",
-          "source": "The Conversation",
+          "title": "Indonesia’s geothermal push runs into local fears at Mount Ungaran",
+          "link": "https://news.mongabay.com/2026/09/indonesias-geothermal-push-runs-into-local-fears-at-mount-ungaran/",
+          "published": "2026-09-24T13:00:22+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Governments must stop treating climate action as merely an aspirational goal. It is an absolute imperative.",
-          "image": null,
+          "summary": "YOGYAKARTA, Indonesia — Communities living near Mount Ungaran in Indonesia’s Central Java province have slammed plans to revive a geothermal power pro",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/24124550/7488ea4d-a47b-4173-8648-2d577f41d37a-768x512.jpg",
           "other_news": true
         },
         {

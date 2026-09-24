@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:52:16.311459+00:00",
+  "generated_at": "2026-09-24T05:01:11.940890+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -72,7 +72,7 @@
           "source": "The Guardian Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Seventy-nine per cent of all NSW swimming sites rated ‘good’ or ‘very good’, as state’s cleanest and most polluted beaches revealed Get our breaking n",
+          "summary": "Seventy-nine per cent of all NSW swimming sites rated ‘good’ or ‘very good’, as state’s cleanest and most polluted beaches revealedFollow our Australi",
           "image": "https://i.guim.co.uk/img/media/1af16ff258e33caea65db65fd1958390c0560ed3/965_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=98148fd52c609c447e718c62605507a4",
           "other_news": false
         },
@@ -129,6 +129,17 @@
           "language": "fr",
           "summary": "Même l'océan profond n'échappe pas à la pollution plastique. Dans une étude publiée le 16 septembre dans la revue scientifique P",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/journal.pone.0357098_g002-a629e.png?1789574402",
+          "other_news": false
+        },
+        {
+          "title": "Eau souillée, poissons intoxiqués… En Haute-Corse, cette mine d’arsenic a fermé il y a 85 ans, mais la pollution demeure",
+          "link": "https://vert.eco/sante-environnement/eau-souillee-poissons-intoxiques-en-haute-corse-cette-mine-darsenic-a-ferme-il-y-a-85-ans-mais-la-pollution-demeure/",
+          "published": "2026-09-24T04:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "À Matra (Haute-Corse), l’ancienne exploitation d’arsenic a laissé bien plus que des ruines : sa pollution affecte les cours d’eau et les organismes aq",
+          "image": null,
           "other_news": false
         }
       ],
@@ -244,6 +255,17 @@
           "other_news": false
         },
         {
+          "title": "Sharks often swim across national borders. Our conservation efforts must travel with them",
+          "link": "https://theconversation.com/sharks-often-swim-across-national-borders-our-conservation-efforts-must-travel-with-them-291978",
+          "published": "2026-09-24T01:58:22+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Sharks and rays have been swimming through the oceans for millions of years – but we still don’t really know where.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Finding homes for whales and dolphins when parks like Marineland Canada close isn’t easy – a biologist explains why sea sanctuaries aren’t the answer",
           "link": "https://theconversation.com/finding-homes-for-whales-and-dolphins-when-parks-like-marineland-canada-close-isnt-easy-a-biologist-explains-why-sea-sanctuaries-arent-the-answer-292337",
           "published": "2026-09-23T12:43:20+00:00",
@@ -297,17 +319,6 @@
           "summary": "Pilot whales now need to shout to be heard over the rumble of ship traffic in the Strait of Gibraltar, the narrow strip of water between Morocco and S",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/21170008/Mongabay_Thumbnail_Dolphins_Web.jpg",
           "other_news": false
-        },
-        {
-          "title": "H5N1 bird flu jumps to marine mammals and wildlife in Australia",
-          "link": "https://news.mongabay.com/short-article/2026/09/h5n1-bird-flu-jumps-to-marine-mammals-and-wildlife-in-australia/",
-          "published": "2026-09-21T05:16:22+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "H5N1 avian influenza is spreading rapidly across southeastern Australia owing to infected wild bird species, including little penguins, magpies, crest",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/21051504/Common_Dolphin_23716626394_optimized_4000-768x512.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -320,6 +331,17 @@
           "language": "en",
           "summary": "The group is marking a decade of fishing everything from an inflatable doll to a Nintendo out of the harbour.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b84/live/69f84dd0-b342-11f1-91a3-393282eb9f17.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Floating weeds threaten farming and fishing at Malawi’s Chia Lagoon",
+          "link": "https://news.mongabay.com/short-article/2026/09/floating-weeds-threaten-farming-and-fishing-at-malawis-chia-lagoon/",
+          "published": "2026-09-23T23:11:09+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A mass of floating weeds at Chia Lagoon, Malawi’s largest, is choking out waterways and livelihoods as farmers and fishers struggle to access fields a",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23230335/chia-1-768x512.jpg",
           "other_news": false
         },
         {
@@ -359,6 +381,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Why the strengthening El Niño means fewer Atlantic hurricanes",
+          "link": "https://www.theguardian.com/news/2026/sep/24/weatherwatch-el-nino-atlantic-hurricanes",
+          "published": "2026-09-24T05:00:09+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The weather pattern is associated with extreme, stormy weather, but authorities predict a quiet year in one ocean at least‘Supersizing before our eyes",
+          "image": "https://i.guim.co.uk/img/media/0c1b68edb76ca5aa7e473084894b0828bbddce5a/414_0_5794_4636/master/5794.jpg?width=140&quality=85&auto=format&fit=max&s=48f73c9faa1c9b0369a8fcd9237c7072",
+          "other_news": false
+        },
         {
           "title": "The love of her life died at sea hunting shipwrecks. Now she’s taking the helm",
           "link": "https://www.theguardian.com/environment/ng-interactive/2026/sep/15/shipwreck-diver-jennifer-sellitti",
@@ -631,6 +664,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Début septembre, la commission Manche-mer du Nord du Comité national des pêches a voté pour l’exclusion des navires de plus de 25 mètres des eaux terr",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Earth’s tides are shaped by more than the Moon. And they’re changing as the planet warms",
+          "link": "https://theconversation.com/earths-tides-are-shaped-by-more-than-the-moon-and-theyre-changing-as-the-planet-warms-289805",
+          "published": "2026-09-23T20:11:22+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "For coastal communities, understanding how tides are changing is increasingly important.",
           "image": null,
           "other_news": false
         },
@@ -1214,7 +1258,18 @@
           "other_news": true
         },
         {
-          "title": "UN backs push to upgrade grids slowing clean power uptake in Africa and Southeast Asia",
+          "title": "UN SUMMIT LIVE: UN chief says world has tools to end the fossil fuel age",
+          "link": "https://www.climatechangenews.com/2026/09/23/un-summit-live-un-chief-says-world-has-tools-to-end-the-fossil-fuel-age/",
+          "published": "2026-09-23T19:54:55+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "At the UN Secretary-General's climate summit in New York, countries shared their energy transition plans while Nepal and island nations advocated for",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "UN backs push to upgrade grids slowing clean power uptake in Africa and SE Asia",
           "link": "https://www.climatechangenews.com/2026/09/23/un-backs-push-to-upgrade-grids-slowing-clean-power-uptake-in-africa-and-southeast-asia/",
           "published": "2026-09-23T17:11:37+00:00",
           "source": "Climate change news",
@@ -1456,28 +1511,6 @@
           "other_news": true
         },
         {
-          "title": "Despite African walkout, fractious land COP ends without drought deal",
-          "link": "https://www.climatechangenews.com/2026/08/28/despite-african-walkout-fractious-land-cop-ends-without-drought-agreement/",
-          "published": "2026-08-28T16:32:26+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "A strong push for a drought protocol by African countries failed in contentious talks, with negotiations postponed for another two years\nThe post Desp",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Pacific islands seek backing for new regional fund ahead of COP31",
-          "link": "https://www.climatechangenews.com/2026/08/28/pacific-islands-new-regional-fund-climate-finance-cop31-australia-prf/",
-          "published": "2026-08-28T09:10:28+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Pacific leaders will appeal for pledges to a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islan",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "La marche climat du 26 septembre devient « statique » à Paris à cause de la venue du Pape",
           "link": "https://reporterre.net/La-marche-climat-du-26-septembre-devient-statique-a-Paris-a-cause-de-la-venue-du-Pape",
           "published": "2026-09-23T16:00:39+00:00",
@@ -1606,7 +1639,7 @@
           "type": "news",
           "language": "fr",
           "summary": "Engagée dans une course à la simplification de ses réglementations pour améliorer la compétitivité de l’économie, la Commission européenne propose de",
-          "image": "https://img.lemde.fr/2026/09/15/486/0/5840/2920/644/322/60/0/653ef87_upload-1-cce1ejleuyqq-maxnewsspecialtwo523324.jpg",
+          "image": "https://img.lemde.fr/2026/09/23/275/0/2138/1069/644/322/60/0/bbccee5_upload-1-tlefpdk3tjqp-image0.jpeg",
           "other_news": true
         },
         {
@@ -1665,13 +1698,13 @@
           "other_news": true
         },
         {
-          "title": "«Le RN n’aime pas l’écologie» : à Carpentras, le maire d’extrême droite met France nature environnement à la porte",
-          "link": "https://vert.eco/chaleurs-actuelles/on-sait-tres-bien-que-le-rn-naime-pas-lecologie-a-carpentras-france-nature-environnement-lachee-par-la-mairie-dextreme-droite/",
-          "published": "2026-09-19T05:00:00+00:00",
-          "source": "Vert Eco Articles",
+          "title": "The space race should not endanger Australian wildlife",
+          "link": "https://theconversation.com/the-space-race-should-not-endanger-australian-wildlife-289594",
+          "published": "2026-09-24T04:21:11+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "L'antenne vauclusienne de la fédération d’associations écologistes perd les locaux mis à sa disposition par la municipalité depuis plus de quinze ans.",
+          "language": "en",
+          "summary": "The future of a proposed rocket-launch facility in South Australia is uncertain. But tensions between space exploration and conservation remain.",
           "image": null,
           "other_news": true
         },
@@ -1698,14 +1731,14 @@
           "other_news": true
         },
         {
-          "title": "The dingo debate is heating up. How we manage these animals will determine their future",
-          "link": "https://theconversation.com/the-dingo-debate-is-heating-up-how-we-manage-these-animals-will-determine-their-future-292216",
-          "published": "2026-09-23T05:09:21+00:00",
-          "source": "The Conversation",
+          "title": "Planned US tech hub in Philippines hit over environmental and Indigenous land concerns",
+          "link": "https://news.mongabay.com/2026/09/planned-us-tech-hub-in-philippines-hit-over-environmental-and-indigenous-land-concerns/",
+          "published": "2026-09-23T22:04:40+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "A push is underway to better protect dingoes in NSW National Parks. This inquiry will grapple with how to balance conservation and farmer concerns.",
-          "image": null,
+          "summary": "MANILA — Philippine President Ferdinand Marcos Jr. arrived at the Grand Hyatt Manila on Sept. 10 to address hundreds of foreign business representativ",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23152143/Protest-at-grand-hyatt-and-clashes-with-police-21-of-25-768x512.jpg",
           "other_news": true
         },
         {
@@ -1805,17 +1838,6 @@
           "language": "en",
           "summary": "A worsening convergence of drought driven by climate change, epidemic disease, and state neglect is creating a severe health emergency for the Indigen",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22045335/contacted-Indigenous-Matses-7-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Tight Brazil election challenges fragile gains for Amazon conservation",
-          "link": "https://news.mongabay.com/2026/09/tight-brazil-election-challenges-fragile-gains-for-amazon-conservation/",
-          "published": "2026-09-21T07:00:36+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "As South America turns right, Brazil’s vote could leave the Amazon without conservation leaders.",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/18210229/Curvas_do_Parque_Nacional_de_Anavilhanas-768x512.jpg",
           "other_news": true
         }
       ]

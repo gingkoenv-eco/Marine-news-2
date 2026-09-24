@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:01:11.940890+00:00",
+  "generated_at": "2026-09-24T11:47:20.821127+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Protected Areas & Policy": [
@@ -145,6 +145,17 @@
       ],
       "Marine Biodiversity & Conservation": [
         {
+          "title": "Mass sardine die-off pits survival of South Africa’s penguins against fishers’ livelihoods",
+          "link": "https://www.theguardian.com/environment/2026/sep/24/mass-sardine-die-off-pits-survival-of-south-africas-penguins-against-fishers-livelihoods",
+          "published": "2026-09-24T08:00:11+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Known as the ‘energy bars of the sea’ the fish are a key food source for many species, but closing fisheries to allow numbers to recover would cost mi",
+          "image": "https://i.guim.co.uk/img/media/b0442cb7456e30fa09806e40a26e1b95f4ea8450/311_0_3849_3079/master/3849.jpg?width=140&quality=85&auto=format&fit=max&s=75cc3e26b03bf349d7b51dd83a01cece",
+          "other_news": false
+        },
+        {
           "title": "‘We have really cool sharks’: three-year project to lift lid on Britain’s little-understood species",
           "link": "https://www.theguardian.com/environment/2026/sep/08/science-research-uk-vulnerable-sharks-anglers",
           "published": "2026-09-08T04:00:27+00:00",
@@ -186,17 +197,6 @@
           "language": "en",
           "summary": "From humpbacks learning the latest songs to sperm whales’ ‘clan codas’, drones and AI learning are helping reveal another dimension to the concept of",
           "image": "https://i.guim.co.uk/img/media/c9962e511008306aaf873842a11d2f9ad47d855b/0_0_4401_3521/master/4401.jpg?width=140&quality=85&auto=format&fit=max&s=b24874ddfd3f9b75a81e3893b0431197",
-          "other_news": false
-        },
-        {
-          "title": "‘Small changes can make a big difference’: how getting farmers, fishers and beavers together could save a Cornish river",
-          "link": "https://www.theguardian.com/environment/2026/aug/25/pollution-runoff-farmers-fishers-cornwall-river-fal-england-marine-habitats-algae-beavers",
-          "published": "2026-08-25T08:17:21+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A local initiative is testing simple ways to stop algal blooms in the River Fal threatening some of England’s most biodiverse marine habitats On a roc",
-          "image": "https://i.guim.co.uk/img/media/63ce161a6fb991e4cd2a08ef8689b3f65ca891fd/118_0_2468_1976/master/2468.jpg?width=140&quality=85&auto=format&fit=max&s=ce4d946b344e8c9a641380bb204ab65b",
           "other_news": false
         },
         {
@@ -262,17 +262,6 @@
           "type": "news",
           "language": "en",
           "summary": "Sharks and rays have been swimming through the oceans for millions of years – but we still don’t really know where.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Finding homes for whales and dolphins when parks like Marineland Canada close isn’t easy – a biologist explains why sea sanctuaries aren’t the answer",
-          "link": "https://theconversation.com/finding-homes-for-whales-and-dolphins-when-parks-like-marineland-canada-close-isnt-easy-a-biologist-explains-why-sea-sanctuaries-arent-the-answer-292337",
-          "published": "2026-09-23T12:43:20+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Sea sanctuaries could work well for some animals, but up to this point, only a handful of animals have lived in them.",
           "image": null,
           "other_news": false
         },
@@ -353,6 +342,19 @@
           "language": "en",
           "summary": "POTO TANO, Indonesia — Mahari sits at the front of the boat, cigarette in hand, surveying the conditions of the waters off Poto Tano, a small fishing",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/21115236/Bajau-PELITA-member-Well-2-768x512.jpg",
+          "other_news": false
+        }
+      ],
+      "Nature-Based Solutions & Restoration": [
+        {
+          "title": "Baleines, mangroves, phytoplancton… captent-ils vraiment notre CO₂ ?",
+          "link": "https://theconversation.com/baleines-mangroves-phytoplancton-captent-ils-vraiment-notre-co-286200",
+          "published": "2026-09-24T09:39:35+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les écosystèmes marins –&nbsp;des mangroves aux baleines, en passant par le phytoplancton&nbsp;–contiennent du carbone, mais gare à ne pas en tirer le",
+          "image": null,
           "other_news": false
         }
       ],
@@ -646,6 +648,17 @@
           "other_news": false
         },
         {
+          "title": "La BERD s’inquiète du blocage des exportations de blé à cause de la guerre en Ukraine",
+          "link": "https://www.lemonde.fr/economie/article/2026/09/24/la-berd-s-inquiete-du-blocage-des-exportations-de-ble-a-cause-de-la-guerre-en-ukraine_6781484_3234.html",
+          "published": "2026-09-24T10:00:18+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les attaques sur des navires en mer Noire et le manque d’eau dans le Danube rendent très difficiles les exportations de blé, dont le prix a augmenté d",
+          "image": "https://img.lemde.fr/2026/09/15/166/0/6533/3266/644/322/60/0/e298ff3_ftp-1-quz01im1shdg-6791af2a7c204d15bb02984fe11a3b07-0-b5bd430a9c28455e8905df6827f5434e.jpg",
+          "other_news": false
+        },
+        {
           "title": "Où habiter ? Comment l’été caniculaire nous oblige à réinventer nos rapports avec le territoire",
           "link": "https://www.lemonde.fr/idees/article/2026/09/22/ou-habiter-comment-l-ete-caniculaire-nous-oblige-a-reinventer-nos-rapports-avec-le-territoire_6780271_3232.html",
           "published": "2026-09-22T19:00:05+02:00",
@@ -884,6 +897,17 @@
           "other_news": true
         },
         {
+          "title": "Waste sector crisis could see rubbish piling up on streets, experts warn",
+          "link": "https://www.bbc.co.uk/news/articles/cqlymw74g20ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-24T05:13:18+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "There are warnings over a combination of significantly reduced landfill space and a breakdown of Glasgow's main incinerator.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dae2/live/73d967d0-b7d9-11f1-9329-25fd53239d64.jpg",
+          "other_news": true
+        },
+        {
           "title": "Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets'",
           "link": "https://www.bbc.co.uk/news/articles/c3pwlejxrd7do?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-23T09:00:21+00:00",
@@ -1115,17 +1139,6 @@
           "other_news": true
         },
         {
-          "title": "Why should we care if there aren’t any squished insects on our windscreens?",
-          "link": "https://theconversation.com/why-should-we-care-if-there-arent-any-squished-insects-on-our-windscreens-290581",
-          "published": "2026-09-08T10:32:16+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Insects are under threat partly because of man-made climate change, heatwaves and intensive farming.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Nepal isn’t the only disaster-struck country waiting for money from the global climate Loss and Damage Fund",
           "link": "https://theconversation.com/nepal-isnt-the-only-disaster-struck-country-waiting-for-money-from-the-global-climate-loss-and-damage-fund-291264",
           "published": "2026-09-18T12:39:03+00:00",
@@ -1258,7 +1271,7 @@
           "other_news": true
         },
         {
-          "title": "UN SUMMIT LIVE: UN chief says world has tools to end the fossil fuel age",
+          "title": "UN Climate Summit: UN chief says world has tools to end fossil fuel age",
           "link": "https://www.climatechangenews.com/2026/09/23/un-summit-live-un-chief-says-world-has-tools-to-end-the-fossil-fuel-age/",
           "published": "2026-09-23T19:54:55+00:00",
           "source": "Climate change news",
@@ -1511,6 +1524,17 @@
           "other_news": true
         },
         {
+          "title": "« Mon rêve, c'est d'avoir un maximum de gens dans la rue » : la marche climat est de retour",
+          "link": "https://reporterre.net/Mon-reve-c-est-d-avoir-un-maximum-de-gens-dans-la-rue-la-marche-climat-est-de-retour",
+          "published": "2026-09-24T07:25:53+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Un appel signé par des milliers de personnes et d'organisations va aboutir sur une grande marche climat le 26 septembre. Ses ini",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/_r0a4014-388ca.jpg?1790234755",
+          "other_news": true
+        },
+        {
           "title": "La marche climat du 26 septembre devient « statique » à Paris à cause de la venue du Pape",
           "link": "https://reporterre.net/La-marche-climat-du-26-septembre-devient-statique-a-Paris-a-cause-de-la-venue-du-Pape",
           "published": "2026-09-23T16:00:39+00:00",
@@ -1610,28 +1634,6 @@
           "other_news": true
         },
         {
-          "title": "Les escrocs de la transition énergétique ciblent les maraîchers",
-          "link": "https://reporterre.net/Pourquoi-les-escrocs-de-la-transition-energetique-ciblent-les-maraichers",
-          "published": "2026-09-16T06:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Durant plus d'un an, les aides à la transition énergétique ont été massivement détournées dans le secteur du maraîchage, révèle",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/reporterre_cee-laituev2-a00d6.jpg?1789538401",
-          "other_news": true
-        },
-        {
-          "title": "« Une vaste fumisterie démocratique » : les opposants à l'enfouissement des déchets nucléaires dénoncent une procédure à marche forcée",
-          "link": "https://reporterre.net/Dechets-nucleaires-malgre-le-feu-vert-au-projet-Cigeo-la-lutte-ne-fait-que-commencer",
-          "published": "2026-09-15T15:15:02+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Malgré l'avis favorable de la commission d'enquête sur le projet d'enfouissement de déchets radioactifs Cigéo, Juliette Geoffroy",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250920__768g2nq__v1__highres__odh61_resized-72206.jpg?1789485303",
-          "other_news": true
-        },
-        {
           "title": "Pesticides : la communauté scientifique alerte sur un « dangereux recul » dans les lois européennes",
           "link": "https://www.lemonde.fr/planete/article/2026/09/23/pesticides-la-communaute-scientifique-alerte-sur-un-dangereux-recul-en-europe_6780934_3244.html",
           "published": "2026-09-23T18:00:08+02:00",
@@ -1694,6 +1696,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Une mobilisation nationale pour le climat, le vivant et la justice sociale aura lieu partout en France, le 26 septembre. Dans cette tribune, collégien",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Why David Brat, the new US ambassador to Australia, has a big in-tray",
+          "link": "https://theconversation.com/why-david-brat-the-new-us-ambassador-to-australia-has-a-big-in-tray-292370",
+          "published": "2026-09-24T05:39:10+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Tariffs and regulation of tech giants are already causing friction. But one of his biggest tasks may be convincing Australians the US alliance still m",
           "image": null,
           "other_news": true
         },
@@ -1764,7 +1777,7 @@
           "other_news": true
         },
         {
-          "title": "A megadam made this community move",
+          "title": "A mega-dam made this community move",
           "link": "https://news.mongabay.com/short-article/2026/09/a-megadam-made-this-community-move/",
           "published": "2026-09-23T13:36:41+00:00",
           "source": "Mongabay Marine",

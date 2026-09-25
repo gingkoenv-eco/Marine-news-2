@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:52:34.416645+00:00",
+  "generated_at": "2026-09-25T12:48:28.142108+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -287,6 +287,17 @@
         }
       ],
       "Sustainable Fisheries": [
+        {
+          "title": "Trump’s executive order on recreational fishing is a ‘giveaway of fish and ocean ecosystem’, advocates warn",
+          "link": "https://www.theguardian.com/us-news/2026/sep/25/recreational-fishing-trump-executive-order",
+          "published": "2026-09-25T12:00:50+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Federal agencies told to prioritize recreational fishing and to reconsider scientific standards as well as regulationsDonald Trump’s latest fishing or",
+          "image": "https://i.guim.co.uk/img/media/f8af944ce62f7aa2ef395db74a4348765e6746fb/330_0_3340_2672/master/3340.jpg?width=140&quality=85&auto=format&fit=max&s=2a2c9f94b1c2ae575cf57c36bdcbfbb9",
+          "other_news": false
+        },
         {
           "title": "Floating weeds threaten farming and fishing at Malawi’s Chia Lagoon",
           "link": "https://news.mongabay.com/short-article/2026/09/floating-weeds-threaten-farming-and-fishing-at-malawis-chia-lagoon/",
@@ -689,17 +700,6 @@
           "language": "en",
           "summary": "HUNTINGTON BEACH, Calif. (AP) — A reptile believed to be struggling in sand at a Southern California beach was simply making history: a sea turtle lay",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/10/24085513/olive-ridley-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Cigarette butts make up 12% of aquatic litter, global review finds",
-          "link": "https://news.mongabay.com/short-article/2026/09/cigarette-butts-make-up-12-of-aquatic-litter-global-review-finds/",
-          "published": "2026-09-22T19:30:40+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Cigarette butts account for roughly 12% of the litter found in rivers, lakes and beaches surveyed for a recent global review. Researchers pooled data",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22175548/Counting_cigarette_butts_8009123356-768x512.jpg",
           "other_news": false
         }
       ]

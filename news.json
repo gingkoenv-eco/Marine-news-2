@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:48:28.142108+00:00",
+  "generated_at": "2026-09-25T17:11:08.683270+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -12,17 +12,6 @@
           "language": "en",
           "summary": "Cooperation on OceanEye, which aims to create ‘real-time’ model of world’s oceans, comes amid efforts to boost EU tiesBritain is to join a major new o",
           "image": "https://i.guim.co.uk/img/media/3acdb78ed68c2933fb82a16cdebf528c5b21c5e6/527_0_3832_3065/master/3832.jpg?width=140&quality=85&auto=format&fit=max&s=0683e4a798addc7823674e03e028b92a",
-          "other_news": false
-        },
-        {
-          "title": "Trump’s deep-sea mining plan flouts international law | Letter",
-          "link": "https://www.theguardian.com/environment/2026/aug/26/trumps-deep-sea-mining-plan-flouts-international-law",
-          "published": "2026-08-26T16:06:05+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Britain and other signatories to the UN convention on the law of the sea should protest against US proposal to lease seabed for mining, says Guy Stand",
-          "image": "https://i.guim.co.uk/img/media/34a14c0286111b5b6e68287f1efff1473306c0de/51_0_5769_4616/master/5769.jpg?width=140&quality=85&auto=format&fit=max&s=42a74dba7a955c5683d24802ff3e25b5",
           "other_news": false
         },
         {
@@ -94,17 +83,6 @@
           "language": "en",
           "summary": "Checking for sewage spills has become as normal as checking the weather forecast, say swimmers on East Sussex beachesSouth West Water has worst enviro",
           "image": "https://i.guim.co.uk/img/media/3730cf51cdac8a025143cceea40830e401b1ae3e/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8f848896bc377b99fb5765ead795c5a8",
-          "other_news": false
-        },
-        {
-          "title": "1.3m plastic bottles collected in a day in global volunteer ocean cleanup",
-          "link": "https://www.theguardian.com/environment/2026/aug/26/plastic-bottles-coastal-cleanup-ocean-conservancy",
-          "published": "2026-08-26T13:00:13+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Ocean Conservancy says last year’s cleanup collected 13.9m pieces of rubbish from beaches and rivers worldwideMore than 1.3m plastic bottles were coll",
-          "image": "https://i.guim.co.uk/img/media/6af81746e114e6ffd949c81ac765fc3a33a58837/802_0_4445_3556/master/4445.jpg?width=140&quality=85&auto=format&fit=max&s=f9f292975f3c639d2530f6c9cb1ce91a",
           "other_news": false
         },
         {
@@ -345,6 +323,17 @@
           "type": "news",
           "language": "en",
           "summary": "When penguin colonies are surrounded by sea ice, the penguins tend to eat more fish, rather than krill. And colonies that eat more fish are more succe",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
+          "link": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
+          "published": "2026-09-25T12:45:39+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.&#8230;\nThe post ‘Co",
           "image": null,
           "other_news": false
         },
@@ -670,17 +659,6 @@
           "other_news": false
         },
         {
-          "title": "New global maps chart 40 years of ocean heat and acidification extremes",
-          "link": "https://news.mongabay.com/2026/09/new-global-maps-chart-40-years-of-ocean-heat-and-acidification-extremes/",
-          "published": "2026-09-25T11:22:10+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Between 2014 and 2015, a marine heatwave known as “The Blob” warmed an area of the Pacific Ocean larger than the United States and Mexico combined. Th",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/25101034/a.-BANNER-da65bd48-4b5b-4ca7-9598-ea1df2f84852Original-768x512.jpg",
-          "other_news": false
-        },
-        {
           "title": "Earth life support systems are flashing red, warns 2026 Planetary Health Check",
           "link": "https://news.mongabay.com/2026/09/earth-life-support-systems-are-flashing-red-warns-2026-planetary-health-check/",
           "published": "2026-09-24T13:55:06+00:00",
@@ -705,16 +683,16 @@
       ]
     },
     "To Watch / Read / Listen": {
-      "Sustainable Fisheries": [
+      "Marine Biodiversity & Conservation": [
         {
-          "title": "New report exposes Europe’s hidden bycatch crisis",
-          "link": "https://oceanographicmagazine.com/news/new-report-exposes-europes-hidden-bycatch-crisis/",
-          "published": "2026-09-22T16:58:16+00:00",
-          "source": "Oceanographic",
+          "title": "Global coral reefs get less time to recover as oceans heat up, report finds",
+          "link": "https://news.mongabay.com/2026/09/global-coral-reefs-get-less-time-to-recover-as-oceans-heat-up-report-finds/",
+          "published": "2026-09-25T15:48:59+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "A new EJF and Oceana report reveals Europe's landing obligation has failed to curb bycatch, and sets out a three-part fix: avoidance, verified monitor",
-          "image": null,
+          "summary": "The world’s coral reefs are losing both hard coral cover and, just as critically, the time they need to recover between increasingly frequent marine h",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/25123746/a.-fish-on-reef-24175296337_7fdf5baf6e_o1-768x512.jpg",
           "other_news": false
         }
       ],
@@ -1005,6 +983,17 @@
           "other_news": true
         },
         {
+          "title": "BBC climate thriller The Rapture isn’t so far-fetched",
+          "link": "https://theconversation.com/bbc-climate-thriller-the-rapture-isnt-so-far-fetched-291702",
+          "published": "2026-09-25T15:46:25+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "We are not wired to deal with the complexity of climate change – but we can tune into relatable stories that emphasise common experiences and values.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Five foods that could cost even more this winter – and why",
           "link": "https://theconversation.com/five-foods-that-could-cost-even-more-this-winter-and-why-292419",
           "published": "2026-09-22T10:15:56+00:00",
@@ -1071,17 +1060,6 @@
           "other_news": true
         },
         {
-          "title": "Virtually trying on clothes using AI can help cut fast-fashion waste, study reveals",
-          "link": "https://theconversation.com/virtually-trying-on-clothes-using-ai-can-help-cut-fast-fashion-waste-study-reveals-275367",
-          "published": "2026-09-09T13:43:27+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Virtually trying on clothes could persuade more people to experiment with renting clothes.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Nepal isn’t the only disaster-struck country waiting for money from the global climate Loss and Damage Fund",
           "link": "https://theconversation.com/nepal-isnt-the-only-disaster-struck-country-waiting-for-money-from-the-global-climate-loss-and-damage-fund-291264",
           "published": "2026-09-18T12:39:03+00:00",
@@ -1122,17 +1100,6 @@
           "type": "news",
           "language": "en",
           "summary": "The Environmental Rights Amendment of the PA Constitution guarantees the right to clean air, pure water and to the preservation of the aesthetic value",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The greenest building is the one still standing after a disaster",
-          "link": "https://theconversation.com/the-greenest-building-is-the-one-still-standing-after-a-disaster-290313",
-          "published": "2026-09-01T12:06:14+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "A ‘green’ building has to last for its intentionally small carbon footprint to pay off. That includes surviving flood, storm or wildfire damage.",
           "image": null,
           "other_news": true
         },
@@ -1456,6 +1423,28 @@
           "other_news": true
         },
         {
+          "title": "Paquebots, jets privés... Comment l'État garantit des décennies d'émissions carbonées",
+          "link": "https://reporterre.net/Paquebots-jets-prives-Comment-l-Etat-garantit-des-decennies-d-emissions-carbonees",
+          "published": "2026-09-25T15:16:39+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "La banque publique d'investissement Bpifrance continue de garantir des milliards d'euros de mises pour des paquebots et des avio",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/grosbateaugrosbiftons-0e9b2.jpg?1790349401",
+          "other_news": true
+        },
+        {
+          "title": "Marches climat du 26 septembre : la carte des manifestations près de chez vous",
+          "link": "https://reporterre.net/Marches-climat-du-26-septembre-la-carte-des-manifestations-pres-de-chez-vous",
+          "published": "2026-09-25T13:55:31+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Plus de 260 mobilisations sont prévues samedi 26 septembre dans toute la France pour la grande marche « pour le climat, le vivan",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/capture_d_ecran_du_2026-09-25_15-48-02-114e1.jpg?1790344633",
+          "other_news": true
+        },
+        {
           "title": "Greta Thunberg, Malcom Ferdinand et Cyril Dion appellent à rejoindre les marches climat du 26 septembre",
           "link": "https://reporterre.net/Greta-Thunberg-Malcom-Ferdinand-et-Cyril-Dion-appellent-a-rejoindre-les-marches-climat-du",
           "published": "2026-09-25T08:17:39+00:00",
@@ -1555,14 +1544,25 @@
           "other_news": true
         },
         {
-          "title": "Plus de 120 défenseurs de l'environnement tués dans le monde en 2025, dont le Corse Pierre Alessandri",
-          "link": "https://reporterre.net/Plus-de-120-defenseurs-de-l-environnement-tues-dans-le-monde-en-2025-dont-le-Francais",
-          "published": "2026-09-17T12:42:40+00:00",
-          "source": "Reporterre",
+          "title": "Wild animals are our climate allies, peer-reviewed study reaffirms",
+          "link": "https://oceanographicmagazine.com/news/wild-animals-are-our-climate-allies-peer-reviewed-study-reaffirms/",
+          "published": "2026-09-25T13:48:39+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new peer-reviewed article in Global Change Biology backs the Scientific Consensus on Wildlife and Climate, showing how animals like dugongs and tige",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Le personnel politique n’arrive plus à se sortir de la dictature du court terme",
+          "link": "https://www.lemonde.fr/politique/article/2026/09/25/le-personnel-politique-n-arrive-plus-a-se-sortir-de-la-dictature-du-court-terme_6782607_823448.html",
+          "published": "2026-09-25T17:55:06+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Selon le bilan annuel de l'ONG Global Witness, publié le 16 septembre, au moins 124 personnes sont mortes en 2025 pour avoir déf",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260318__hl_gbeyson_3099916__v2__highres__francecorsicaalessandriassassination_1_-7df9a.jpg?1789648962",
+          "summary": "L’élection présidentielle met en lumière l’une des principales tares de notre époque politique : l’incapacité à penser le long terme sur une planète e",
+          "image": "https://img.lemde.fr/2026/09/25/140/0/4590/2295/644/322/60/0/c91fbc8_upload-1-mgy8fft7litw-000-c2w36fa.jpg",
           "other_news": true
         },
         {
@@ -1617,6 +1617,17 @@
           "type": "news",
           "language": "fr",
           "summary": "La déambulation pour le climat prévue samedi à Paris n'aura pas lieu. La préfecture, mobilisée par la venue du pape, n'a autorisé qu'un rassemblement",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Mold and heat closed Pittsburgh-area schools – an expert explains the risks to kids",
+          "link": "https://theconversation.com/mold-and-heat-closed-pittsburgh-area-schools-an-expert-explains-the-risks-to-kids-292544",
+          "published": "2026-09-25T12:42:07+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Mold spores, 90-degree classrooms and aging pipes: An environmental health expert explains why Pennsylvania’s old schools are harder on kids than adul",
           "image": null,
           "other_news": true
         },

@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-09-24T17:52:51.709438+00:00",
+  "generated_at": "2026-09-25T05:01:08.698782+00:00",
   "categories": {
     "Politics & Policy": {
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "From firefighting to future-proofing: Preventing wildfires must be the priority",
-          "link": "https://www.climatechangenews.com/2026/09/01/from-firefighting-to-future-proofing-preventing-wildfires-must-be-the-priority/",
-          "published": "2026-09-01T13:54:36+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "While many countries remain locked in a reactive cycle of disaster response, public policy can shift investment upstream to build resilience and cut r",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Other Marine News": [
         {
           "title": "UK to join EU ocean science scheme to better predict extreme weather events",
@@ -88,6 +75,17 @@
     "General News": {
       "Plastic & Ocean Pollution": [
         {
+          "title": "I went looking for the poo at Coogee beach but all I found was a beautiful day for a swim",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/25/poo-at-coogee-beach-water-quality-pollution-ratings-sydney",
+          "published": "2026-09-25T03:52:24+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Popular beach ranks as Sydney’s worst for faecal pollution – again – but Caitlin Cassidy discovers happy children and familiesIn the Dharug language s",
+          "image": "https://i.guim.co.uk/img/media/dc5288e2f8ce3eca0a3aa0d3694a434f8bf472f6/256_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b9808a9c831bad87c0140aa9d63dfb5f",
+          "other_news": false
+        },
+        {
           "title": "Coogee ranks as Sydney’s worst ocean beach for faecal pollution – again",
           "link": "https://www.theguardian.com/australia-news/2026/sep/24/coogee-sydney-beaches-most-polluted-nsw-swimming-spots-2026",
           "published": "2026-09-23T14:01:50+00:00",
@@ -151,17 +149,6 @@
           "language": "fr",
           "summary": "Chaque année, les nappes d'hydrocarbures recouvrent une surface océanique estimée à 1,58 million de kilomètres carrés. C'est le",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20240729__2164129449__v2__highres__oilspillinmanilabay-cc4e6.jpg?1790253188",
-          "other_news": false
-        },
-        {
-          "title": "Sac, botte... Du plastique retrouvé à près de 4 000 m de profondeur",
-          "link": "https://reporterre.net/Sac-botte-Du-plastique-retrouve-a-pres-de-4-000-m-de-profondeur",
-          "published": "2026-09-16T16:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Même l'océan profond n'échappe pas à la pollution plastique. Dans une étude publiée le 16 septembre dans la revue scientifique P",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/journal.pone.0357098_g002-a629e.png?1789574402",
           "other_news": false
         },
         {
@@ -277,17 +264,6 @@
           "other_news": false
         },
         {
-          "title": "Sharks often swim across national borders. Our conservation efforts must travel with them",
-          "link": "https://theconversation.com/sharks-often-swim-across-national-borders-our-conservation-efforts-must-travel-with-them-291978",
-          "published": "2026-09-24T01:58:22+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Sharks and rays have been swimming through the oceans for millions of years – but we still don’t really know where.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "The Annual Migration to Clean Up Our Coasts",
           "link": "https://oceanconservancy.org/blog/2026/09/04/clean-up-our-coasts/",
           "published": "2026-09-04T14:18:13+00:00",
@@ -297,20 +273,20 @@
           "summary": "Annually, seasonally and sometimes even daily, amazing oceanic migrations are taking place. Humpback whales migrate thousands of miles to breeding gro",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "Pakistan expands protected habitat for Indus River dolphin as recovery offers hope",
+          "link": "https://news.mongabay.com/2026/09/pakistan-expands-protected-habitat-for-indus-river-dolphin-as-recovery-offers-hope/",
+          "published": "2026-09-24T21:28:29+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Between 11 million and 16 million years ago, during the high sea levels of the middle Miocene period, the ancestors of the Indus River dolphin entered",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/24130618/%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7_%D9%82%D9%88%D9%85%DB%8C_%D8%A2%D8%A8%DB%8C_%D8%B3%D9%85%D9%86%D8%AF%D8%B1%DB%8C_%D9%85%D9%85%D8%A7%D9%84%DB%8C%DB%81-768x512.jpg",
+          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
-        {
-          "title": "'You never quite know what you're going to pull out'",
-          "link": "https://www.bbc.co.uk/news/articles/c5y4zgdd3ny3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-20T06:38:44+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The group is marking a decade of fishing everything from an inflatable doll to a Nintendo out of the harbour.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b84/live/69f84dd0-b342-11f1-91a3-393282eb9f17.jpg",
-          "other_news": false
-        },
         {
           "title": "Floating weeds threaten farming and fishing at Malawi’s Chia Lagoon",
           "link": "https://news.mongabay.com/short-article/2026/09/floating-weeds-threaten-farming-and-fishing-at-malawis-chia-lagoon/",
@@ -392,6 +368,28 @@
           "language": "en",
           "summary": "The chicken liver sponge has sailed through a test of its ability to filter pollutants in a harbour in Spain’s Costa BravaIn the polluted waters of Ma",
           "image": "https://i.guim.co.uk/img/media/a472bf5e5a15901529bc7e240463e7d51284edfb/125_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=ddd067174b29261ad45e6203b46e4eb0",
+          "other_news": false
+        },
+        {
+          "title": "Toxic waste: 'Every person that played in the pool is dead'",
+          "link": "https://www.bbc.co.uk/news/videos/cqkgv3dr5gjeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-24T22:10:35+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Michael Phillips played at a lagoon as a child, oblivious to the toxic chemicals within.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21e6/live/33b26ae0-b819-11f1-bc1f-3f186ca4140c.jpg",
+          "other_news": false
+        },
+        {
+          "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
+          "link": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-24T21:54:32+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b738/live/1ebb61d0-b82a-11f1-89f8-b5d404417bc8.png",
           "other_news": false
         },
         {
@@ -516,6 +514,17 @@
           "other_news": false
         },
         {
+          "title": "Threatened by rising seas, small islands secure right to keep their statehood",
+          "link": "https://www.climatechangenews.com/2026/09/24/submerged-rising-seas-small-islands-statehood-new-york-unga/",
+          "published": "2026-09-24T21:41:42+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Efforts to protect marine ecosystems and coastal communities have risen up the political agenda at the UN General Assembly in New York\nThe post Threat",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "At regional summit, Pacific islands ask for COP31 support for clean energy and finance",
           "link": "https://www.climatechangenews.com/2026/09/07/pacific-islands-forum-cop31-clean-energy-finance-ocean-renewables/",
           "published": "2026-09-07T10:00:34+00:00",
@@ -546,17 +555,6 @@
           "language": "fr",
           "summary": "L'administration de Donald Trump vient de restreindre la protection des espèces menacées aux États-Unis. Une directive du Fish a",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/51751736367_2468f75163_h_1_-03466.jpg?1789725509",
-          "other_news": false
-        },
-        {
-          "title": "Canards maltraités : Carrefour épinglé par L214",
-          "link": "https://reporterre.net/Canards-maltraites-Carrefour-epingle-par-L214",
-          "published": "2026-09-16T14:10:39+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Des oiseaux aquatiques qui passent leur vie sans jamais piquer une tête dans un bassin. Voilà le sort qui est réservé aux 11 500",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/screenshot_2026-09-16_at_16-01-43_ni_mare_ni_ciel_ni_terre_pour_les_canards_de_carrefour_l214-2f215.jpg?1789567843",
           "other_news": false
         },
         {
@@ -626,13 +624,13 @@
           "other_news": false
         },
         {
-          "title": "Earth’s tides are shaped by more than the Moon. And they’re changing as the planet warms",
-          "link": "https://theconversation.com/earths-tides-are-shaped-by-more-than-the-moon-and-theyre-changing-as-the-planet-warms-289805",
-          "published": "2026-09-23T20:11:22+00:00",
-          "source": "The Conversation",
+          "title": "The Mysteries of the Mariana Trench",
+          "link": "https://oceanconservancy.org/blog/2026/09/24/mysteries-mariana-trench/",
+          "published": "2026-09-24T21:05:01+00:00",
+          "source": "Ocean Conservancy",
           "type": "news",
           "language": "en",
-          "summary": "For coastal communities, understanding how tides are changing is increasingly important.",
+          "summary": "Our ocean is an incredibly vast and mysterious place. And there is no place where that is more evident than the deepest ocean area in the world: the l",
           "image": null,
           "other_news": false
         },
@@ -884,17 +882,6 @@
           "other_news": true
         },
         {
-          "title": "Spain battles climate change on several fronts",
-          "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-22T09:11:48+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f5f/live/45cbd1b0-b271-11f1-b1d1-571ed4d7ff2c.jpg",
-          "other_news": true
-        },
-        {
           "title": "Divers spend six hours clearing river of waste",
           "link": "https://www.bbc.co.uk/news/articles/ckj06p16q2eyo?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-22T05:37:20+00:00",
@@ -906,14 +893,14 @@
           "other_news": true
         },
         {
-          "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-17T10:31:35+00:00",
+          "title": "Spain battles climate change on several fronts",
+          "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-22T09:11:48+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "A new study says climate change was a likely factor in the massive flood on the Nepal-Tibet border last month.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7364/live/ed40ce00-b249-11f1-a45e-d7e94b0e7f98.jpg",
+          "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f5f/live/45cbd1b0-b271-11f1-b1d1-571ed4d7ff2c.jpg",
           "other_news": true
         },
         {
@@ -1621,6 +1608,17 @@
           "other_news": true
         },
         {
+          "title": "De Tours à La Rochelle, Léa Navarro vogue pour la science et contre les déchets plastiques : «On a besoin de rêver pour pouvoir lutter»",
+          "link": "https://vert.eco/rapports-de-force/de-tours-a-la-rochelle-lea-navarro-vogue-pour-la-science-et-contre-les-dechets-plastiques-on-a-besoin-de-rever-pour-pouvoir-lutter/",
+          "published": "2026-09-25T04:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Mettre un grand coup de pagaie dans la fourmilière : tel est l’objectif de Léa Navarro. Cette militante écologiste est embarquée jusqu’au 3 octobre da",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "À cause de la venue du pape, la marche climat du 26 septembre remplacée par un rassemblement statique à Paris",
           "link": "https://vert.eco/rapports-de-force/a-cause-de-la-venue-du-pape-la-marche-climat-du-26-septembre-remplacee-par-un-rassemblement-statique-a-paris/",
           "published": "2026-09-23T13:52:07+00:00",
@@ -1643,6 +1641,17 @@
           "other_news": true
         },
         {
+          "title": "Climate crisis is affecting children’s nutrition",
+          "link": "https://theconversation.com/climate-crisis-is-affecting-childrens-nutrition-292745",
+          "published": "2026-09-24T19:01:08+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Droughts and floods reduce agricultural production, disrupt supply chains, and limit families’ access to fruits, vegetables, and other fresh foods.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "How Trump’s crypto winnings undermined the industry’s push for looser regulation",
           "link": "https://theconversation.com/how-trumps-crypto-winnings-undermined-the-industrys-push-for-looser-regulation-289123",
           "published": "2026-09-24T12:45:44+00:00",
@@ -1650,28 +1659,6 @@
           "type": "news",
           "language": "en",
           "summary": "The crypto industry scored a series of wins in 2025, only to see its top legislative goal fail in 2026.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Why David Brat, the new US ambassador to Australia, has a big in-tray",
-          "link": "https://theconversation.com/why-david-brat-the-new-us-ambassador-to-australia-has-a-big-in-tray-292370",
-          "published": "2026-09-24T05:39:10+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Tariffs and regulation of tech giants are already causing friction. But one of his biggest tasks may be convincing Australians the US alliance still m",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The space race should not endanger Australian wildlife",
-          "link": "https://theconversation.com/the-space-race-should-not-endanger-australian-wildlife-289594",
-          "published": "2026-09-24T04:21:11+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The future of a proposed rocket-launch facility in South Australia is uncertain. But tensions between space exploration and conservation remain.",
           "image": null,
           "other_news": true
         },
@@ -1761,50 +1748,6 @@
           "language": "en",
           "summary": "The Brazilian government has created four new sustainable development reserves in the Amazon as part of an effort to mitigate environmental damage fro",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/03/21192457/3.-319_National-Department-of-Transport-Infrastructure-DNIT-768x512.png",
-          "other_news": true
-        },
-        {
-          "title": "Critics question oil and gas spending in Mexico’s proposed climate budget",
-          "link": "https://news.mongabay.com/2026/09/critics-question-oil-and-gas-spending-in-mexicos-proposed-climate-budget/",
-          "published": "2026-09-22T16:23:43+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "MEXICO CITY — President Claudia Sheinbaum this month presented a draft fiscal budget for 2027, outlining the national government’s plans for everythin",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22161442/c.-Kidzania_Plaza_Cuicuilco_-_05-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Copper boom fueling energy transition puts Earth’s wildlands at risk",
-          "link": "https://news.mongabay.com/2026/09/copper-boom-fueling-energy-transition-puts-earths-wildlands-at-risk/",
-          "published": "2026-09-22T14:19:12+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In the high Andes of Peru, Bolivia, Chile and Argentina, you can still find the vicuña, a shy, elusive camelid, revered by Indigenous people. It has r",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22082311/Vicugna_vicugna_Salar_de_Chalviri-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Honoring Jane Goodall’s conservation legacy and combatting misinformation",
-          "link": "https://news.mongabay.com/short-article/2026/09/honoring-jane-goodalls-conservation-legacy-and-combatting-misinformation/",
-          "published": "2026-09-22T10:21:05+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Former United Nations climate chief Christiana Figueres has been named the recipient of the inaugural Jane Goodall Earth Medal, which honors those who",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22102030/Jane-Goodall-Hopecast-2560-2048x1152-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Drought and state neglect deepen health crisis for Peru’s recently contacted Matsés",
-          "link": "https://news.mongabay.com/short-article/2026/09/drought-and-state-neglect-deepen-health-crisis-for-perus-recently-contacted-matses/",
-          "published": "2026-09-22T04:54:17+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A worsening convergence of drought driven by climate change, epidemic disease, and state neglect is creating a severe health emergency for the Indigen",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22045335/contacted-Indigenous-Matses-7-1-768x512.jpg",
           "other_news": true
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T05:01:08.698782+00:00",
+  "generated_at": "2026-09-25T11:52:34.416645+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -57,17 +57,6 @@
           "summary": "The High Seas Treaty has reached 100 ratifications, with Germany, Canada, Australia and others joining ahead of COP1 in January 2027 - a shift from ne",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "Protéger un tiers des terres et de l’océan d’ici à 2030, un objectif crucial pour la biodiversité encore loin d’être atteint",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/23/proteger-un-tiers-des-terres-et-de-l-ocean-d-ici-a-2030-un-objectif-crucial-pour-la-biodiversite-encore-loin-d-etre-atteint_6780573_3244.html",
-          "published": "2026-09-23T06:00:04+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "L’objectif adopté fin 2022 sera au cœur de la prochaine COP biodiversité d’Erevan. Selon des ONG, si la conservation progresse, l’humanité est encore",
-          "image": "https://img.lemde.fr/2025/06/03/604/0/7248/3624/644/322/60/0/8330b7d_ftp-import-images-1-6r0fkrondvv4-5085503-01-06.jpg",
-          "other_news": false
         }
       ]
     },
@@ -81,7 +70,7 @@
           "source": "The Guardian Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Popular beach ranks as Sydney’s worst for faecal pollution – again – but Caitlin Cassidy discovers happy children and familiesIn the Dharug language s",
+          "summary": "Popular ocean beach ranks as Sydney’s worst for faecal pollution – again – but Caitlin Cassidy discovers happy children and familiesIn the Dharug lang",
           "image": "https://i.guim.co.uk/img/media/dc5288e2f8ce3eca0a3aa0d3694a434f8bf472f6/256_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b9808a9c831bad87c0140aa9d63dfb5f",
           "other_news": false
         },
@@ -161,6 +150,17 @@
           "summary": "À Matra (Haute-Corse), l’ancienne exploitation d’arsenic a laissé bien plus que des ruines : sa pollution affecte les cours d’eau et les organismes aq",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "Plastic and rubber litter found in remote submarine canyon off Argentina’s coast",
+          "link": "https://news.mongabay.com/short-article/2026/09/plastic-and-rubber-litter-found-in-remote-submarine-canyon-off-argentinas-coast/",
+          "published": "2026-09-25T10:21:40+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Plastic waste has been found in the most remote places — including, now, a deep-sea canyon off the coast of Argentina, according to a recent study. “T",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/25101854/2Examples-of-marine-litter-Argentina-canyon-768x512.jpg",
+          "other_news": false
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -231,6 +231,17 @@
           "other_news": false
         },
         {
+          "title": "Scientists crack mystery of when Ningaloo’s corals reproduce",
+          "link": "https://oceanographicmagazine.com/news/scientists-crack-mystery-of-when-ningaloos-corals-reproduce/",
+          "published": "2026-09-25T08:22:30+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Scientists have pinpointed, for the first time, when Ningaloo Reef's key Porites corals spawn - a discovery that will help track climate impacts and g",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Meet the hairy-legged, red-eyed sea spiders new to science",
           "link": "https://oceanographicmagazine.com/news/meet-the-hairy-legged-red-eyed-sea-spiders-new-to-science/",
           "published": "2026-09-23T15:44:28+00:00",
@@ -249,17 +260,6 @@
           "type": "news",
           "language": "en",
           "summary": "A new US Fish and Wildlife Service directive narrows the Endangered Species Act's \"take\" prohibition to intentional acts only, drawing sharp criticism",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Faroe Islands kill 15 times more whales than demand requires",
-          "link": "https://oceanographicmagazine.com/news/faroe-islands-kill-15-times-more-whales-than-demand-requires/",
-          "published": "2026-09-21T15:59:51+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new report finds Faroese whale hunts kill 15 times more pilot whales and dolphins than domestic demand requires, as conservationists urge the UK to",
           "image": null,
           "other_news": false
         },
@@ -308,6 +308,19 @@
           "type": "news",
           "language": "fr",
           "summary": "Les écosystèmes marins –&nbsp;des mangroves aux baleines, en passant par le phytoplancton&nbsp;–contiennent du carbone, mais gare à ne pas en tirer le",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Deep Ocean & Mesophotic Ecosystems": [
+        {
+          "title": "“Picking up rocks”: Metals Co. dismisses deep sea mining risks",
+          "link": "https://oceanographicmagazine.com/news/picking-up-rocks-metals-company-ceo-dismisses-deep-sea-mining-risks/",
+          "published": "2026-09-25T08:50:03+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The Metals Company CEO Gerard Barron called deep sea mining \"picking up rocks,\" despite warnings from global science community and studies that show s",
           "image": null,
           "other_news": false
         }
@@ -371,6 +384,17 @@
           "other_news": false
         },
         {
+          "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
+          "link": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-25T11:06:38+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2b0/live/3fa7a9e0-b8b5-11f1-8257-a79ccb54f692.png",
+          "other_news": false
+        },
+        {
           "title": "Toxic waste: 'Every person that played in the pool is dead'",
           "link": "https://www.bbc.co.uk/news/videos/cqkgv3dr5gjeo?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-24T22:10:35+00:00",
@@ -379,17 +403,6 @@
           "language": "en",
           "summary": "Michael Phillips played at a lagoon as a child, oblivious to the toxic chemicals within.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21e6/live/33b26ae0-b819-11f1-bc1f-3f186ca4140c.jpg",
-          "other_news": false
-        },
-        {
-          "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
-          "link": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-24T21:54:32+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b738/live/1ebb61d0-b82a-11f1-89f8-b5d404417bc8.png",
           "other_news": false
         },
         {
@@ -591,17 +604,6 @@
           "other_news": false
         },
         {
-          "title": "Modular reefs turn Dutch sea wall into a marine life haven",
-          "link": "https://oceanographicmagazine.com/news/modular-reefs-turn-dutch-sea-wall-into-a-marine-life-haven/",
-          "published": "2026-09-22T10:40:08+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "100 modular reefs and 66 tidal pools by ReefSystems are transforming a stretch of the Lauwersmeerdijk in the Netherlands, turning coastal defence infr",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Le blocage des exportations de blé en mer Noire, lié à la guerre en Ukraine, fragilise l’économie de la région et fait monter les cours mondiaux de la céréale",
           "link": "https://www.lemonde.fr/economie/article/2026/09/24/la-berd-s-inquiete-du-blocage-des-exportations-de-ble-a-cause-de-la-guerre-en-ukraine_6781484_3234.html",
           "published": "2026-09-24T10:00:09+02:00",
@@ -657,6 +659,17 @@
           "other_news": false
         },
         {
+          "title": "New global maps chart 40 years of ocean heat and acidification extremes",
+          "link": "https://news.mongabay.com/2026/09/new-global-maps-chart-40-years-of-ocean-heat-and-acidification-extremes/",
+          "published": "2026-09-25T11:22:10+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Between 2014 and 2015, a marine heatwave known as “The Blob” warmed an area of the Pacific Ocean larger than the United States and Mexico combined. Th",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/25101034/a.-BANNER-da65bd48-4b5b-4ca7-9598-ea1df2f84852Original-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Earth life support systems are flashing red, warns 2026 Planetary Health Check",
           "link": "https://news.mongabay.com/2026/09/earth-life-support-systems-are-flashing-red-warns-2026-planetary-health-check/",
           "published": "2026-09-24T13:55:06+00:00",
@@ -687,17 +700,6 @@
           "language": "en",
           "summary": "Cigarette butts account for roughly 12% of the litter found in rivers, lakes and beaches surveyed for a recent global review. Researchers pooled data",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22175548/Counting_cigarette_butts_8009123356-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "California Tribes receive beach and ancestral village site back from transportation authority",
-          "link": "https://news.mongabay.com/2026/09/california-tribes-receive-beach-and-ancestral-village-site-back-from-transportation-authority/",
-          "published": "2026-09-22T19:21:18+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "On the Northern California coast, where the tall trees meet the sea, ancestors of the Coast Yuki people lie buried in an old village site above the bl",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22191052/KaiPomo_2024-Picture-Mussel-Rock--768x512.jpeg",
           "other_news": false
         }
       ]
@@ -834,6 +836,17 @@
           "summary": "A rift over how IPCC messages are produced and turned into policy is creating tensions in the world's most influential coalition of climate NGOs\nThe p",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "Fossil fuel subsidies are the ‘worst energy policy in the world,’ researchers say",
+          "link": "https://news.mongabay.com/short-article/2026/09/fossil-fuel-subsidies-are-the-worst-energy-policy-in-the-world-researchers-say/",
+          "published": "2026-09-25T05:45:10+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In an editorial in Science, U.S.-based energy policy experts Paasha Mahdavi and Michael Ross argue that governments creating consumer fossil fuel subs",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/25054127/Petrol_station_at_Llanrhystud_Ceredigion_-_geograph.org_.uk_-_4726531-768x512.jpg",
+          "other_news": true
         }
       ],
       "Other Marine News": [
@@ -882,14 +895,14 @@
           "other_news": true
         },
         {
-          "title": "Divers spend six hours clearing river of waste",
-          "link": "https://www.bbc.co.uk/news/articles/ckj06p16q2eyo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-22T05:37:20+00:00",
+          "title": "Strategy will safeguard nature for generations",
+          "link": "https://www.bbc.co.uk/news/articles/c6d9452qx4x0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-25T11:07:22+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Divers from the Northampton Scuba School team up with other local organisations for a clean-up.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55bf/live/88f99fb0-b647-11f1-86fb-87849d077614.jpg",
+          "summary": "Local Nature Recovery Strategy is approved for one of England's \"most nature-depleted areas\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9518/live/a03ee540-b688-11f1-bc1f-3f186ca4140c.png",
           "other_news": true
         },
         {
@@ -1443,14 +1456,14 @@
           "other_news": true
         },
         {
-          "title": "UN sets out narrow path back to 1.5C warming after inevitable overshoot",
-          "link": "https://www.climatechangenews.com/2026/09/02/un-sets-out-narrow-path-back-to-1-5c-warming-after-inevitable-overshoot/",
-          "published": "2026-09-02T04:15:00+00:00",
-          "source": "Climate change news",
+          "title": "Greta Thunberg, Malcom Ferdinand et Cyril Dion appellent à rejoindre les marches climat du 26 septembre",
+          "link": "https://reporterre.net/Greta-Thunberg-Malcom-Ferdinand-et-Cyril-Dion-appellent-a-rejoindre-les-marches-climat-du",
+          "published": "2026-09-25T08:17:39+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Leading scientists say warming must peak at 1.8C to be able to reverse course this century, but current government climate policies are way off track",
-          "image": null,
+          "language": "fr",
+          "summary": "260 mobilisations sont annoncées en France pour les marches climat du 26 septembre. Plusieurs personnalités, dont la militante s",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH465/selection-panoram-marche-climat-marseille-13-octobre-me-7-42c25.jpg?1790324302",
           "other_news": true
         },
         {
@@ -1586,28 +1599,6 @@
           "other_news": true
         },
         {
-          "title": "Nelo Magalhães, chercheur en histoire environnementale : « On extrait bien plus de matières pour construire et maintenir les infrastructures de transport que de pétrole pour y faire avancer les véhicules »",
-          "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/23/nelo-magalhaes-chercheur-en-histoire-environnementale-on-extrait-bien-plus-de-matieres-pour-construire-et-maintenir-les-infrastructures-de-transport-que-de-petrole-pour-y-faire-avancer-les-vehicules_6780653_6065879.html",
-          "published": "2026-09-23T07:00:04+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Croire que l’on peut préserver l’environnement en remplaçant nos véhicules thermiques par des modèles électriques est une illusion si l’on ignore le p",
-          "image": "https://img.lemde.fr/2026/08/14/688/0/8256/4128/644/322/60/0/ad606a7_upload-1-fhipzymxmivt-routedesvacances-10.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Pierre Charbonnier, philosophe : « La réponse au réchauffement climatique a tellement tardé que l’ennemi sera désormais toujours là »",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/23/pierre-charbonnier-philosophe-la-reponse-au-rechauffement-climatique-a-tellement-tarde-que-l-ennemi-sera-desormais-toujours-la_6780580_3232.html",
-          "published": "2026-09-23T06:00:41+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Après les canicules de l’été, l’idée que le changement climatique serait un horizon à anticiper est devenue obsolète. Cette réalité oblige le chercheu",
-          "image": "https://img.lemde.fr/2026/08/13/1170/0/8256/4128/644/322/60/0/b4e53eb_upload-1-xs21kog8ds8r-canicule13aout-17.jpg",
-          "other_news": true
-        },
-        {
           "title": "De Tours à La Rochelle, Léa Navarro vogue pour la science et contre les déchets plastiques : «On a besoin de rêver pour pouvoir lutter»",
           "link": "https://vert.eco/rapports-de-force/de-tours-a-la-rochelle-lea-navarro-vogue-pour-la-science-et-contre-les-dechets-plastiques-on-a-besoin-de-rever-pour-pouvoir-lutter/",
           "published": "2026-09-25T04:00:00+00:00",
@@ -1630,17 +1621,6 @@
           "other_news": true
         },
         {
-          "title": "«Nous avons droit à un avenir, mais aussi de vivre maintenant» : l’appel de la jeunesse à manifester le 26 septembre pour le climat, le vivant et la justice sociale",
-          "link": "https://vert.eco/rapports-de-force/lurgence-climatique-nous-oblige-cest-notre-futur-tres-proche-qui-est-en-jeu-lappel-de-la-jeunesse-a-manifester-le-26-septembre/",
-          "published": "2026-09-21T12:47:26+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Une mobilisation nationale pour le climat, le vivant et la justice sociale aura lieu partout en France, le 26 septembre. Dans cette tribune, collégien",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Climate crisis is affecting children’s nutrition",
           "link": "https://theconversation.com/climate-crisis-is-affecting-childrens-nutrition-292745",
           "published": "2026-09-24T19:01:08+00:00",
@@ -1648,17 +1628,6 @@
           "type": "news",
           "language": "en",
           "summary": "Droughts and floods reduce agricultural production, disrupt supply chains, and limit families’ access to fruits, vegetables, and other fresh foods.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "How Trump’s crypto winnings undermined the industry’s push for looser regulation",
-          "link": "https://theconversation.com/how-trumps-crypto-winnings-undermined-the-industrys-push-for-looser-regulation-289123",
-          "published": "2026-09-24T12:45:44+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The crypto industry scored a series of wins in 2025, only to see its top legislative goal fail in 2026.",
           "image": null,
           "other_news": true
         },
@@ -1737,17 +1706,6 @@
           "language": "en",
           "summary": "In the highlands above Villa de Arma, community leaders once walked through ice and snow. They still remember the stories told by their grandparents o",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22202412/Wetlands-of-Huancavelica-in-the-Yaku-Pacha-project-Peru.-April-2026.-Credit_-Alan-Chamorro-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Brazil creates four Amazon reserves as plans to pave rainforest highway advance",
-          "link": "https://news.mongabay.com/short-article/2026/09/brazil-creates-four-amazon-reserves-as-plans-to-pave-rainforest-highway-advance/",
-          "published": "2026-09-22T17:52:19+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Brazilian government has created four new sustainable development reserves in the Amazon as part of an effort to mitigate environmental damage fro",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/03/21192457/3.-319_National-Department-of-Transport-Infrastructure-DNIT-768x512.png",
           "other_news": true
         }
       ]

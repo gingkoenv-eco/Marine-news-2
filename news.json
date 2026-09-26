@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T16:23:37.866019+00:00",
+  "generated_at": "2026-09-26T17:13:30.799871+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -373,6 +373,17 @@
           "other_news": false
         },
         {
+          "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-26T16:55:37+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg",
+          "other_news": false
+        },
+        {
           "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
           "link": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-25T11:06:38+00:00",
@@ -600,17 +611,6 @@
           "type": "news",
           "language": "en",
           "summary": "Mission Blue and IUCN have launched the One Ocean Partnership, announced by Sylvia Earle and Razan Al Mubarak at Climate Week NYC, linking Hope Spots",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Dans la Manche, les pêcheurs français font monter la pression pour interdire les plus gros chalutiers de la bande côtière",
-          "link": "https://vert.eco/agriculture/dans-la-manche-les-pecheurs-francais-font-monter-la-pression-pour-interdire-les-plus-gros-chalutiers-de-la-bande-cotiere/",
-          "published": "2026-09-22T04:00:00+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Début septembre, la commission Manche-mer du Nord du Comité national des pêches a voté pour l’exclusion des navires de plus de 25 mètres des eaux terr",
           "image": null,
           "other_news": false
         },
@@ -1530,6 +1530,17 @@
           "language": "fr",
           "summary": "Les économistes Anna Creti et Philippe Delacote appellent, dans une tribune au « Monde », les décideurs politiques et économiques à inscrire dans le m",
           "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/373b59e_upload-1-poskrjrwnpsg-frame-819.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Marche pour le climat : à Fontainebleau comme dans plus de 260 villes, «l’été a provoqué une grosse envie d’agir»",
+          "link": "https://vert.eco/rapports-de-force/marche-pour-le-climat-a-fontainebleau-comme-dans-plus-de-260-villes-lete-a-provoque-une-grosse-envie-dagir/",
+          "published": "2026-09-26T16:37:21+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Ce samedi 26 septembre, des manifestant·es se sont rassemblé·es dans plus de 260 villes de France à l’appel du mouvement citoyen pour le climat, le vi",
+          "image": null,
           "other_news": true
         },
         {

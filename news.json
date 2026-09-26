@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T12:16:02.044128+00:00",
+  "generated_at": "2026-09-26T16:23:37.866019+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -633,17 +633,6 @@
           "type": "news",
           "language": "en",
           "summary": "Our ocean has absorbed more than 90% of excess heat caused by human-driven climate change and a quarter of the carbon dioxide we emit. In simple terms",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Do Sea Turtles Get Lost?",
-          "link": "https://oceanconservancy.org/blog/2026/08/27/do-sea-turtles-get-lost/",
-          "published": "2026-08-27T15:58:38+00:00",
-          "source": "Ocean Conservancy",
-          "type": "news",
-          "language": "en",
-          "summary": "Did you know some female sea turtles can travel hundreds—or even thousands—of miles through open ocean before returning to nest on or near the very be",
           "image": null,
           "other_news": false
         },
@@ -1387,17 +1376,6 @@
           "language": "fr",
           "summary": "Alors qu'il est en visite en France du 25 au 28 septembre et qu'il a évoqué l'IA et la protection de l'environnement lors d'une",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH466/afp__20260925__c9c76h2__v2__highres__francevaticanreligionpope-96238.jpg?1790398800",
-          "other_news": true
-        },
-        {
-          "title": "Paquebots, jets privés... Comment l'État garantit des décennies d'émissions carbonées",
-          "link": "https://reporterre.net/Paquebots-jets-prives-Comment-l-Etat-garantit-des-decennies-d-emissions-carbonees",
-          "published": "2026-09-25T15:16:39+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "La banque publique d'investissement Bpifrance continue de garantir des milliards d'euros de mises pour des paquebots et des avio",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/grosbateaugrosbiftons-0e9b2.jpg?1790349401",
           "other_news": true
         },
         {

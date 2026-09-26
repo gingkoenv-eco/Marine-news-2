@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:58:30.125244+00:00",
+  "generated_at": "2026-09-26T05:01:07.974867+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -335,17 +335,6 @@
           "language": "en",
           "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.&#8230;\nThe post ‘Co",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "4 million lakes in ‘Lost Lakes’ map offer clues to Arctic permafrost",
-          "link": "https://news.mongabay.com/short-article/2026/09/4-million-lakes-in-lost-lakes-map-offer-clues-to-arctic-permafrost/",
-          "published": "2026-09-23T06:41:21+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Arctic is dotted with millions of lakes that sit on persistently frozen soil called permafrost. These lakes are crucial for the region’s wildlife",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23063210/20260831_PM_Thermokarstseen_Plattform_1_IngmarNitze-768x512.jpeg",
           "other_news": false
         }
       ],
@@ -779,17 +768,6 @@
           "summary": "Here is the argument I want to make plainly, before anything else: the biodiversity credit market should stop trying to copy carbon&#8217;s trick of r",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2021/10/12125135/8.-Habenaria-criniferaNasrilatha-768x512.jpg",
           "other_news": true
-        },
-        {
-          "title": "New Galápagos Atlas charts the islands’ biodiversity and the mysteries that remain",
-          "link": "https://news.mongabay.com/short-article/2026/09/new-galapagos-atlas-charts-the-islands-biodiversity-and-the-mysteries-that-remain/",
-          "published": "2026-09-23T08:08:36+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A new atlas of biodiversity of the Galápagos Islands highlights the unique evolutionary and ecological diversity of life in the famed archipelago that",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23080531/galapagos_akb_17048-768x512.jpg",
-          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -840,6 +818,17 @@
           "other_news": true
         },
         {
+          "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-25T22:12:48+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390c/live/dabff6d0-b7c5-11f1-b1d1-571ed4d7ff2c.jpg",
+          "other_news": true
+        },
+        {
           "title": "Waste sector crisis could see rubbish piling up on streets, experts warn",
           "link": "https://www.bbc.co.uk/news/articles/cqlymw74g20ro?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-24T05:13:18+00:00",
@@ -881,17 +870,6 @@
           "language": "en",
           "summary": "Local Nature Recovery Strategy is approved for one of England's \"most nature-depleted areas\".",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9518/live/a03ee540-b688-11f1-bc1f-3f186ca4140c.png",
-          "other_news": true
-        },
-        {
-          "title": "Spain battles climate change on several fronts",
-          "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-22T09:11:48+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f5f/live/45cbd1b0-b271-11f1-b1d1-571ed4d7ff2c.jpg",
           "other_news": true
         },
         {
@@ -1187,7 +1165,7 @@
           "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "The President of Kenya and the British climate envoy said Africa should use the global electrification push to roll out clean cooking\nThe post Push fo",
+          "summary": "Kenya's president and Britain's climate envoy said Africa should use the global electrification push to roll out clean cooking\nThe post Push for cooki",
           "image": null,
           "other_news": true
         },
@@ -1423,6 +1401,17 @@
           "other_news": true
         },
         {
+          "title": "Il veut « désarmer l'IA » : Léon XIV, un pape favorable à la « conversion écologique »",
+          "link": "https://reporterre.net/Il-veut-desarmer-l-IA-Leon-XIV-un-pape-favorable-a-la-conversion-ecologique",
+          "published": "2026-09-26T05:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors qu'il est en visite en France du 25 au 28 septembre et qu'il a évoqué l'IA et la protection de l'environnement lors d'une",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/afp__20260925__c9c76h2__v2__highres__francevaticanreligionpope-96238.jpg?1790398800",
+          "other_news": true
+        },
+        {
           "title": "Paquebots, jets privés... Comment l'État garantit des décennies d'émissions carbonées",
           "link": "https://reporterre.net/Paquebots-jets-prives-Comment-l-Etat-garantit-des-decennies-d-emissions-carbonees",
           "published": "2026-09-25T15:16:39+00:00",
@@ -1555,6 +1544,17 @@
           "other_news": true
         },
         {
+          "title": "Après un été de tous les records, des rassemblements pour le climat organisés samedi dans toute la France",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/26/apres-un-ete-de-tous-les-records-des-rassemblements-pour-le-climat-organises-samedi-dans-toute-la-france_6783015_3244.html",
+          "published": "2026-09-26T06:00:49+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Plus de 260 rassemblements sont annoncés partout dans l’Hexagone pour réclamer un plan d’urgence climatique. Les militants pour l’environnement à l’or",
+          "image": "https://img.lemde.fr/2026/09/15/679/0/8148/4074/644/322/60/0/36e15f2_ftp-1-bcvdeehcbi6e-5097931-01-06.jpg",
+          "other_news": true
+        },
+        {
           "title": "Le personnel politique n’arrive plus à se sortir de la dictature du court terme",
           "link": "https://www.lemonde.fr/politique/article/2026/09/25/le-personnel-politique-n-arrive-plus-a-se-sortir-de-la-dictature-du-court-terme_6782607_823448.html",
           "published": "2026-09-25T17:55:06+02:00",
@@ -1585,17 +1585,6 @@
           "language": "fr",
           "summary": "Engagée dans une course à la simplification de ses réglementations pour améliorer la compétitivité de l’économie, la Commission européenne propose de",
           "image": "https://img.lemde.fr/2026/09/23/275/0/2138/1069/644/322/60/0/bbccee5_upload-1-tlefpdk3tjqp-image0.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "Dépasser les postures sur le stockage de l’eau",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/23/depasser-les-postures-sur-le-stockage-de-l-eau_6780878_3232.html",
-          "published": "2026-09-23T11:30:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La brutalité des évolutions hydrologiques sous l’effet de la crise climatique oblige à revoir les stratégies de gestion élaborées jusqu’ici. La questi",
-          "image": "https://img.lemde.fr/2026/08/29/979/0/6568/3284/644/322/60/0/4ee27e9_upload-1-uzfuteogjv8m-vn20260826-figeac-eau-071.jpg",
           "other_news": true
         },
         {
@@ -1640,6 +1629,28 @@
           "language": "en",
           "summary": "Droughts and floods reduce agricultural production, disrupt supply chains, and limit families’ access to fruits, vegetables, and other fresh foods.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "NGOs call on Vantara to end all wild animal imports permanently",
+          "link": "https://news.mongabay.com/2026/09/ngos-call-on-vantara-to-end-all-wild-animal-imports-permanently/",
+          "published": "2026-09-25T18:09:02+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A coalition of 27 global wildlife conservation and animal welfare organizations urged Vantara to permanently end all wild animal imports. The billiona",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/25130359/Vantara-Ambani-1-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "To tackle environmental crime, track profits through the whole supply chain (commentary)",
+          "link": "https://news.mongabay.com/2026/09/to-tackle-environmental-crime-track-profits-through-the-whole-supply-chain-commentary/",
+          "published": "2026-09-25T18:07:02+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The world has spent a decade trying to put a price on nature. Forests have become carbon sinks, while wetlands are increasingly described as natural i",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/08/08201639/3.-mongabay_Image-by-Ibama-via-Wikimedia-Commons-CC-BY-SA-2.0-768x512.jpg",
           "other_news": true
         },
         {

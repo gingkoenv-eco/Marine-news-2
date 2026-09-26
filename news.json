@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T11:26:25.456969+00:00",
+  "generated_at": "2026-09-26T12:16:02.044128+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -22,6 +22,28 @@
           "type": "news",
           "language": "en",
           "summary": "If governments are serious about boosting resilience and energy security, they must make the companies profiting from the fossil-fuel economy help foo",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "OceanEye: Nations pledge €211m to strengthen ocean observation",
+          "link": "https://oceanographicmagazine.com/news/oceaneye-nations-pledge-211-m-to-strengthen-ocean-observation/",
+          "published": "2026-09-24T14:46:12+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Von der Leyen and Carney have launched the OceanEye International Alliance, with over 30 countries pledging €211 million to strengthen global ocean ob",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "100 countries in: High Seas Treaty nears universal ratification",
+          "link": "https://oceanographicmagazine.com/news/100-countries-in-high-seas-treaty-nears-universal-ratification/",
+          "published": "2026-09-24T14:09:08+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The High Seas Treaty has reached 100 ratifications, with Germany, Canada, Australia and others joining ahead of COP1 in January 2027 - a shift from ne",
           "image": null,
           "other_news": false
         }
@@ -187,6 +209,39 @@
           "other_news": false
         },
         {
+          "title": "Scientists crack mystery of when Ningaloo’s corals reproduce",
+          "link": "https://oceanographicmagazine.com/news/scientists-crack-mystery-of-when-ningaloos-corals-reproduce/",
+          "published": "2026-09-25T08:22:30+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Scientists have pinpointed, for the first time, when Ningaloo Reef's key Porites corals spawn - a discovery that will help track climate impacts and g",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Meet the hairy-legged, red-eyed sea spiders new to science",
+          "link": "https://oceanographicmagazine.com/news/meet-the-hairy-legged-red-eyed-sea-spiders-new-to-science/",
+          "published": "2026-09-23T15:44:28+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "University of British Columbia researchers have discovered two new sea spider species in the Salish Sea - the first described there in nearly a centur",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Federal directive guts key protections for US’s endangered wildlife",
+          "link": "https://oceanographicmagazine.com/news/federal-directive-guts-key-protections-for-uss-endangered-wildlife/",
+          "published": "2026-09-23T12:26:50+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new US Fish and Wildlife Service directive narrows the Endangered Species Act's \"take\" prohibition to intentional acts only, drawing sharp criticism",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "The Annual Migration to Clean Up Our Coasts",
           "link": "https://oceanconservancy.org/blog/2026/09/04/clean-up-our-coasts/",
           "published": "2026-09-04T14:18:13+00:00",
@@ -242,6 +297,19 @@
           "type": "news",
           "language": "fr",
           "summary": "Les écosystèmes marins –&nbsp;des mangroves aux baleines, en passant par le phytoplancton&nbsp;–contiennent du carbone, mais gare à ne pas en tirer le",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Deep Ocean & Mesophotic Ecosystems": [
+        {
+          "title": "“Picking up rocks”: Metals Co. dismisses deep sea mining risks",
+          "link": "https://oceanographicmagazine.com/news/picking-up-rocks-metals-company-ceo-dismisses-deep-sea-mining-risks/",
+          "published": "2026-09-25T08:50:03+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The Metals Company CEO Gerard Barron called deep sea mining \"picking up rocks,\" despite warnings from global science community and studies that show s",
           "image": null,
           "other_news": false
         }
@@ -500,6 +568,39 @@
           "language": "fr",
           "summary": "L'administration de Donald Trump vient de restreindre la protection des espèces menacées aux États-Unis. Une directive du Fish a",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/51751736367_2468f75163_h_1_-03466.jpg?1789725509",
+          "other_news": false
+        },
+        {
+          "title": "Southern ocean krill oil boycott backed by Benedict Cumberbatch",
+          "link": "https://oceanographicmagazine.com/news/southern-ocean-krill-oil-boycott-backed-by-benedict-cumberbatch/",
+          "published": "2026-09-24T13:40:44+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Ocean leaders including Sylvia Earle and Benedict Cumberbatch have launched a global boycott of Antarctic krill products, pressuring Norway and other",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Tides, not rain, determine where beaches are hit by E. coli",
+          "link": "https://oceanographicmagazine.com/news/tides-not-rain-determine-where-beaches-are-hit-by-e-coli/",
+          "published": "2026-09-23T11:40:26+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "New research from Plymouth Marine Laboratory reveals coastal currents, not rainfall, determine where sewage bacteria hits Devon's beaches and shellfis",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Sylvia Earle, IUCN unveil One Ocean Partnership at Climate Week",
+          "link": "https://oceanographicmagazine.com/news/sylvia-earle-iucn-unveil-one-ocean-partnership-at-climate-week/",
+          "published": "2026-09-22T17:22:45+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Mission Blue and IUCN have launched the One Ocean Partnership, announced by Sylvia Earle and Razan Al Mubarak at Climate Week NYC, linking Hope Spots",
+          "image": null,
           "other_news": false
         },
         {
@@ -1407,6 +1508,17 @@
           "language": "fr",
           "summary": "L'assemblée citoyenne « Un Commun accord » lancée par Jean-Marc Jancovici se réunira pour la première fois à Paris les 19 et 20",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/janco2027-34464.jpg?1789792201",
+          "other_news": true
+        },
+        {
+          "title": "Wild animals are our climate allies, peer-reviewed study reaffirms",
+          "link": "https://oceanographicmagazine.com/news/wild-animals-are-our-climate-allies-peer-reviewed-study-reaffirms/",
+          "published": "2026-09-25T13:48:39+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new peer-reviewed article in Global Change Biology backs the Scientific Consensus on Wildlife and Climate, showing how animals like dugongs and tige",
+          "image": null,
           "other_news": true
         },
         {

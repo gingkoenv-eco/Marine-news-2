@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T05:01:07.974867+00:00",
+  "generated_at": "2026-09-26T11:26:25.456969+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -22,28 +22,6 @@
           "type": "news",
           "language": "en",
           "summary": "If governments are serious about boosting resilience and energy security, they must make the companies profiting from the fossil-fuel economy help foo",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "OceanEye: Nations pledge €211m to strengthen ocean observation",
-          "link": "https://oceanographicmagazine.com/news/oceaneye-nations-pledge-211-m-to-strengthen-ocean-observation/",
-          "published": "2026-09-24T14:46:12+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Von der Leyen and Carney have launched the OceanEye International Alliance, with over 30 countries pledging €211 million to strengthen global ocean ob",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "100 countries in: High Seas Treaty nears universal ratification",
-          "link": "https://oceanographicmagazine.com/news/100-countries-in-high-seas-treaty-nears-universal-ratification/",
-          "published": "2026-09-24T14:09:08+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The High Seas Treaty has reached 100 ratifications, with Germany, Canada, Australia and others joining ahead of COP1 in January 2027 - a shift from ne",
           "image": null,
           "other_news": false
         }
@@ -187,14 +165,14 @@
           "other_news": false
         },
         {
-          "title": "How decoding beluga whales’ chitchat may save them – and teach us more about ourselves",
-          "link": "https://www.theguardian.com/environment/2026/aug/27/how-decoding-beluga-whales-chitchat-may-save-them-and-teach-us-more-about-ourselves",
-          "published": "2026-08-27T09:02:13+00:00",
-          "source": "The Guardian Ocean & Marine",
+          "title": "Seahorse habitats 'healing' thanks to eco-moorings",
+          "link": "https://www.bbc.co.uk/news/articles/cqrm90n3m90po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-26T06:10:37+00:00",
+          "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "From humpbacks learning the latest songs to sperm whales’ ‘clan codas’, drones and AI learning are helping reveal another dimension to the concept of",
-          "image": "https://i.guim.co.uk/img/media/c9962e511008306aaf873842a11d2f9ad47d855b/0_0_4401_3521/master/4401.jpg?width=140&quality=85&auto=format&fit=max&s=b24874ddfd3f9b75a81e3893b0431197",
+          "summary": "Scars in Studland Bay's seagrass meadows, caused by boat anchor chains, are healing, a study finds.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4967/live/3d9e6b90-b674-11f1-b711-df5e4d50c2fd.jpg",
           "other_news": false
         },
         {
@@ -206,39 +184,6 @@
           "language": "en",
           "summary": "Ali Alobaidly is named Astronomy Photographer of the Year for his image of the Shark Nebula.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f99f/live/65015130-b27c-11f1-b1d1-571ed4d7ff2c.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Scientists crack mystery of when Ningaloo’s corals reproduce",
-          "link": "https://oceanographicmagazine.com/news/scientists-crack-mystery-of-when-ningaloos-corals-reproduce/",
-          "published": "2026-09-25T08:22:30+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Scientists have pinpointed, for the first time, when Ningaloo Reef's key Porites corals spawn - a discovery that will help track climate impacts and g",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Meet the hairy-legged, red-eyed sea spiders new to science",
-          "link": "https://oceanographicmagazine.com/news/meet-the-hairy-legged-red-eyed-sea-spiders-new-to-science/",
-          "published": "2026-09-23T15:44:28+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "University of British Columbia researchers have discovered two new sea spider species in the Salish Sea - the first described there in nearly a centur",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Federal directive guts key protections for US’s endangered wildlife",
-          "link": "https://oceanographicmagazine.com/news/federal-directive-guts-key-protections-for-uss-endangered-wildlife/",
-          "published": "2026-09-23T12:26:50+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new US Fish and Wildlife Service directive narrows the Endangered Species Act's \"take\" prohibition to intentional acts only, drawing sharp criticism",
-          "image": null,
           "other_news": false
         },
         {
@@ -297,19 +242,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Les écosystèmes marins –&nbsp;des mangroves aux baleines, en passant par le phytoplancton&nbsp;–contiennent du carbone, mais gare à ne pas en tirer le",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Deep Ocean & Mesophotic Ecosystems": [
-        {
-          "title": "“Picking up rocks”: Metals Co. dismisses deep sea mining risks",
-          "link": "https://oceanographicmagazine.com/news/picking-up-rocks-metals-company-ceo-dismisses-deep-sea-mining-risks/",
-          "published": "2026-09-25T08:50:03+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The Metals Company CEO Gerard Barron called deep sea mining \"picking up rocks,\" despite warnings from global science community and studies that show s",
           "image": null,
           "other_news": false
         }
@@ -392,6 +324,17 @@
           "language": "en",
           "summary": "Michael Phillips played at a lagoon as a child, oblivious to the toxic chemicals within.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21e6/live/33b26ae0-b819-11f1-bc1f-3f186ca4140c.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Des tonnes de plastique s’échouent sur les plages des Seychelles : nous avons retracé leur origine",
+          "link": "https://theconversation.com/des-tonnes-de-plastique-sechouent-sur-les-plages-des-seychelles-nous-avons-retrace-leur-origine-292467",
+          "published": "2026-09-26T07:05:20+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Aux Seychelles, dans l’océan Indien, des tonnes de plastique et d’engins de pêche s’échouent sur les plages. Une étude révèle l’origine de ces déchets",
+          "image": null,
           "other_news": false
         },
         {
@@ -557,50 +500,6 @@
           "language": "fr",
           "summary": "L'administration de Donald Trump vient de restreindre la protection des espèces menacées aux États-Unis. Une directive du Fish a",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/51751736367_2468f75163_h_1_-03466.jpg?1789725509",
-          "other_news": false
-        },
-        {
-          "title": "Southern ocean krill oil boycott backed by Benedict Cumberbatch",
-          "link": "https://oceanographicmagazine.com/news/southern-ocean-krill-oil-boycott-backed-by-benedict-cumberbatch/",
-          "published": "2026-09-24T13:40:44+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Ocean leaders including Sylvia Earle and Benedict Cumberbatch have launched a global boycott of Antarctic krill products, pressuring Norway and other",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Tides, not rain, determine where beaches are hit by E. coli",
-          "link": "https://oceanographicmagazine.com/news/tides-not-rain-determine-where-beaches-are-hit-by-e-coli/",
-          "published": "2026-09-23T11:40:26+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "New research from Plymouth Marine Laboratory reveals coastal currents, not rainfall, determine where sewage bacteria hits Devon's beaches and shellfis",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Sylvia Earle, IUCN unveil One Ocean Partnership at Climate Week",
-          "link": "https://oceanographicmagazine.com/news/sylvia-earle-iucn-unveil-one-ocean-partnership-at-climate-week/",
-          "published": "2026-09-22T17:22:45+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Mission Blue and IUCN have launched the One Ocean Partnership, announced by Sylvia Earle and Razan Al Mubarak at Climate Week NYC, linking Hope Spots",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Le blocage des exportations de blé en mer Noire, lié à la guerre en Ukraine, fragilise l’économie de la région et fait monter les cours mondiaux de la céréale",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/24/la-berd-s-inquiete-du-blocage-des-exportations-de-ble-a-cause-de-la-guerre-en-ukraine_6781484_3234.html",
-          "published": "2026-09-24T10:00:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les attaques sur des navires en mer Noire et le manque d’eau dans le Danube rendent très difficiles les exportations de blé, dont le prix a augmenté d",
-          "image": "https://img.lemde.fr/2026/09/24/108/0/4000/2000/644/322/60/0/0328f6f_upload-1-bx0brg72wnaq-000-c6873we.jpg",
           "other_news": false
         },
         {
@@ -851,17 +750,6 @@
           "other_news": true
         },
         {
-          "title": "India is producing more green energy - but wasting a lot of it",
-          "link": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-22T23:02:29+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d6/live/9c8a92d0-b185-11f1-9730-e36fcedc2d41.jpg",
-          "other_news": true
-        },
-        {
           "title": "Strategy will safeguard nature for generations",
           "link": "https://www.bbc.co.uk/news/articles/c6d9452qx4x0o?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-25T11:07:22+00:00",
@@ -870,6 +758,17 @@
           "language": "en",
           "summary": "Local Nature Recovery Strategy is approved for one of England's \"most nature-depleted areas\".",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9518/live/a03ee540-b688-11f1-bc1f-3f186ca4140c.png",
+          "other_news": true
+        },
+        {
+          "title": "India is producing more green energy - but wasting a lot of it",
+          "link": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-22T23:02:29+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d6/live/9c8a92d0-b185-11f1-9730-e36fcedc2d41.jpg",
           "other_news": true
         },
         {
@@ -935,28 +834,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Le changement climatique ne peut que favoriser ce type d’événements, déjà survenus en Europe.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Pourquoi la transition écologique est-elle si difficile à gouverner ?",
-          "link": "https://theconversation.com/pourquoi-la-transition-ecologique-est-elle-si-difficile-a-gouverner-288778",
-          "published": "2026-09-02T14:04:49+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les actions mises en place pour faire face au changement climatique restent insuffisantes. Il est tentant de pointer le manque de volonté politique po",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Routes, stations de ski, permis de construire : quand les décideurs publics apprennent à dire stop",
-          "link": "https://theconversation.com/routes-stations-de-ski-permis-de-construire-quand-les-decideurs-publics-apprennent-a-dire-stop-285115",
-          "published": "2026-09-02T14:03:29+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Face au changement climatique, collectivités et pouvoirs publics commencent à renoncer à certains projets et infrastructures. Une évolution discrète q",
           "image": null,
           "other_news": true
         },
@@ -1401,7 +1278,7 @@
           "other_news": true
         },
         {
-          "title": "Il veut « désarmer l'IA » : Léon XIV, un pape favorable à la « conversion écologique »",
+          "title": "Léon XIV, le pape qui veut « désarmer l'IA » et plaide pour la « conversion écologique »",
           "link": "https://reporterre.net/Il-veut-desarmer-l-IA-Leon-XIV-un-pape-favorable-a-la-conversion-ecologique",
           "published": "2026-09-26T05:00:00+00:00",
           "source": "Reporterre",
@@ -1533,20 +1410,9 @@
           "other_news": true
         },
         {
-          "title": "Wild animals are our climate allies, peer-reviewed study reaffirms",
-          "link": "https://oceanographicmagazine.com/news/wild-animals-are-our-climate-allies-peer-reviewed-study-reaffirms/",
-          "published": "2026-09-25T13:48:39+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new peer-reviewed article in Global Change Biology backs the Scientific Consensus on Wildlife and Climate, showing how animals like dugongs and tige",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Après un été de tous les records, des rassemblements pour le climat organisés samedi dans toute la France",
           "link": "https://www.lemonde.fr/planete/article/2026/09/26/apres-un-ete-de-tous-les-records-des-rassemblements-pour-le-climat-organises-samedi-dans-toute-la-france_6783015_3244.html",
-          "published": "2026-09-26T06:00:49+02:00",
+          "published": "2026-09-26T06:00:32+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1574,17 +1440,6 @@
           "language": "fr",
           "summary": "Les économistes Anna Creti et Philippe Delacote appellent, dans une tribune au « Monde », les décideurs politiques et économiques à inscrire dans le m",
           "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/373b59e_upload-1-poskrjrwnpsg-frame-819.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Pesticides : la communauté scientifique alerte sur un « dangereux recul » dans les lois européennes",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/23/pesticides-la-communaute-scientifique-alerte-sur-un-dangereux-recul-en-europe_6780934_3244.html",
-          "published": "2026-09-23T18:00:08+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Engagée dans une course à la simplification de ses réglementations pour améliorer la compétitivité de l’économie, la Commission européenne propose de",
-          "image": "https://img.lemde.fr/2026/09/23/275/0/2138/1069/644/322/60/0/bbccee5_upload-1-tlefpdk3tjqp-image0.jpeg",
           "other_news": true
         },
         {
@@ -1717,17 +1572,6 @@
           "language": "en",
           "summary": "The green transition is crucial to tackling climate change. But around the world, the same question keeps cropping up: who pays the price? In Malaysia",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23133238/Bakun-Thumbnail_Featured.png",
-          "other_news": true
-        },
-        {
-          "title": "In Peru’s high Andes, restoring ancient ecosystems could help protect water security",
-          "link": "https://news.mongabay.com/2026/09/in-perus-high-andes-restoring-ancient-ecosystems-could-help-protect-water-security/",
-          "published": "2026-09-23T10:30:28+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In the highlands above Villa de Arma, community leaders once walked through ice and snow. They still remember the stories told by their grandparents o",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/22202412/Wetlands-of-Huancavelica-in-the-Yaku-Pacha-project-Peru.-April-2026.-Credit_-Alan-Chamorro-768x512.jpg",
           "other_news": true
         }
       ]

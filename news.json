@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T05:01:06.895166+00:00",
+  "generated_at": "2026-09-27T12:04:47.819868+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -807,17 +807,6 @@
           "other_news": true
         },
         {
-          "title": "Strategy will safeguard nature for generations",
-          "link": "https://www.bbc.co.uk/news/articles/c6d9452qx4x0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-25T11:07:22+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Local Nature Recovery Strategy is approved for one of England's \"most nature-depleted areas\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9518/live/a03ee540-b688-11f1-bc1f-3f186ca4140c.png",
-          "other_news": true
-        },
-        {
           "title": "Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets'",
           "link": "https://www.bbc.co.uk/news/articles/c3pwlejxrd7do?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-23T09:00:21+00:00",
@@ -1478,6 +1467,17 @@
           "other_news": true
         },
         {
+          "title": "Moins de déforestation mais plus de pétrole : le bilan environnemental contrasté de Lula à la tête du Brésil",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/27/moins-de-deforestation-mais-plus-de-petrole-le-bilan-environnemental-contraste-de-lula-a-la-tete-du-bresil_6783863_3244.html",
+          "published": "2026-09-27T07:00:25+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Candidat à un quatrième mandat, Luiz Inacio Lula da Silva peut se targuer d’avoir amélioré la protection de l’Amazonie. Mais son soutien à l’explorati",
+          "image": "https://img.lemde.fr/2026/08/11/596/0/7157/3578/644/322/60/0/77c3cb5_ftp-1-f73t5xvfnwl4-e24e6663b123473e85004b4a899a6f60-1-aa000641d54d40dc88f5bfbbdf0f16dc.jpg",
+          "other_news": true
+        },
+        {
           "title": "« L’IApocalypse est une chimère qui nous fait oublier que le développement de l’intelligence artificielle est insoutenable à tous points de vue »",
           "link": "https://www.lemonde.fr/idees/article/2026/09/27/l-iapocalypse-est-une-chimere-qui-nous-fait-oublier-que-le-developpement-de-l-intelligence-artificielle-est-insoutenable-a-tous-points-de-vue_6783758_3232.html",
           "published": "2026-09-27T06:00:58+02:00",
@@ -1491,12 +1491,12 @@
         {
           "title": "Dans toute la France, des milliers de manifestants pour le climat : « J’aurais aimé qu’on soit plus nombreux, après l’été que l’on vient de passer »",
           "link": "https://www.lemonde.fr/planete/article/2026/09/27/dans-toute-la-france-des-milliers-de-manifestants-pour-le-climat-j-aurais-aime-qu-on-soit-plus-nombreux-apres-l-ete-que-l-on-vient-de-passer_6783713_3244.html",
-          "published": "2026-09-27T05:30:07+02:00",
+          "published": "2026-09-27T05:30:04+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
           "summary": "De Bordeaux à Paris, en passant par Rennes ou Die, 120 000 personnes, selon les organisateurs, ont pris part à 260 rassemblements « pour le climat, po",
-          "image": "https://img.lemde.fr/2026/09/26/726/0/5802/2901/644/322/60/0/032f88d_ftp-1-qhs1gq48se6m-5190275-01-06.jpg",
+          "image": "https://img.lemde.fr/2026/09/26/881/0/5281/2640/644/322/60/0/5b196bf_ftp-1-gjy4ls1ulr2d-5190530-01-06.jpg",
           "other_news": true
         },
         {
@@ -1530,6 +1530,17 @@
           "language": "fr",
           "summary": "L’élection présidentielle met en lumière l’une des principales tares de notre époque politique : l’incapacité à penser le long terme sur une planète e",
           "image": "https://img.lemde.fr/2026/09/25/140/0/4590/2295/644/322/60/0/c91fbc8_upload-1-mgy8fft7litw-000-c2w36fa.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Croquettes, pâtées, repas maison ou menus végé : quelle est la nourriture pour chat et chien la plus écologique ?",
+          "link": "https://vert.eco/label-vert/croquettes-patees-repas-maison-ou-menus-vege-quelle-est-la-nourriture-pour-chat-et-chien-la-plus-ecologique/",
+          "published": "2026-09-27T04:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Pourquoi la pâtée est-elle plus problématique que les croquettes pour l’environnement ? Mon chat peut-il devenir végétarien ? Vert vous aide à remplir",
+          "image": null,
           "other_news": true
         },
         {
@@ -1662,17 +1673,6 @@
           "language": "en",
           "summary": "KATHMANDU — In September 2006, Nepal&#8217;s then Minister of Forests and Soil Conservation Gopal Rai and a contingent of conservation leaders flew to",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23155605/IMG_2079-4-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "A mega-dam made this community move",
-          "link": "https://news.mongabay.com/short-article/2026/09/a-megadam-made-this-community-move/",
-          "published": "2026-09-23T13:36:41+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The green transition is crucial to tackling climate change. But around the world, the same question keeps cropping up: who pays the price? In Malaysia",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23133238/Bakun-Thumbnail_Featured.png",
           "other_news": true
         }
       ]

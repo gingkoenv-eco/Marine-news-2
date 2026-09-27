@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T13:06:37.376342+00:00",
+  "generated_at": "2026-09-27T16:57:54.853131+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -227,6 +227,17 @@
           "type": "news",
           "language": "en",
           "summary": "A new US Fish and Wildlife Service directive narrows the Endangered Species Act's \"take\" prohibition to intentional acts only, drawing sharp criticism",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "One of Canada’s worst invasive species may have arrived naturally",
+          "link": "https://theconversation.com/one-of-canadas-worst-invasive-species-may-have-arrived-naturally-291642",
+          "published": "2026-09-27T15:04:16+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Researchers have discovered the spiny water flea may have existed in North America far longer than previously thought.",
           "image": null,
           "other_news": false
         },
@@ -1467,6 +1478,17 @@
           "other_news": true
         },
         {
+          "title": "Anthony Viaux, ancien pilote : « Sur les jets privés, l’Europe doit aller au bout du principe pollueur-payeur »",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/27/anthony-viaux-ancien-pilote-sur-les-jets-prives-l-europe-doit-aller-au-bout-du-principe-pollueur-payeur_6784411_3232.html",
+          "published": "2026-09-27T17:00:15+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Si la décision de la Commission européenne d’intégrer l’aviation d’affaires au marché carbone européen met fin à une exonération injustifiée, l’ancien",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/40f42a0_upload-1-xucrl77vxstt-frame-844.jpg",
+          "other_news": true
+        },
+        {
           "title": "Moins de déforestation mais plus de pétrole : le bilan environnemental contrasté de Lula à la tête du Brésil",
           "link": "https://www.lemonde.fr/planete/article/2026/09/27/moins-de-deforestation-mais-plus-de-petrole-le-bilan-environnemental-contraste-de-lula-a-la-tete-du-bresil_6783863_3244.html",
           "published": "2026-09-27T07:00:25+02:00",
@@ -1496,7 +1518,7 @@
           "type": "news",
           "language": "fr",
           "summary": "De Bordeaux à Paris, en passant par Rennes ou Die, 120 000 personnes, selon les organisateurs, ont pris part à 260 rassemblements « pour le climat, po",
-          "image": "https://img.lemde.fr/2026/09/26/881/0/5281/2640/644/322/60/0/5b196bf_ftp-1-gjy4ls1ulr2d-5190530-01-06.jpg",
+          "image": "https://img.lemde.fr/2026/09/27/27/0/4500/2250/644/322/60/0/2e0a2b7_upload-1-clmdhbh9rhms-sipa-01301362-000003.jpg",
           "other_news": true
         },
         {
@@ -1584,17 +1606,6 @@
           "type": "news",
           "language": "en",
           "summary": "Mold spores, 90-degree classrooms and aging pipes: An environmental health expert explains why Pennsylvania’s old schools are harder on kids than adul",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Climate crisis is affecting children’s nutrition",
-          "link": "https://theconversation.com/climate-crisis-is-affecting-childrens-nutrition-292745",
-          "published": "2026-09-24T19:01:08+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Droughts and floods reduce agricultural production, disrupt supply chains, and limit families’ access to fruits, vegetables, and other fresh foods.",
           "image": null,
           "other_news": true
         },

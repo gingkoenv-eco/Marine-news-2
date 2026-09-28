@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T17:47:29.149993+00:00",
+  "generated_at": "2026-09-28T05:01:39.750579+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -373,6 +373,17 @@
           "other_news": false
         },
         {
+          "title": "Shipwreck found on Nantucket beach during storm",
+          "link": "https://www.bbc.co.uk/news/videos/ck980zl0pgq9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-28T01:09:57+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The so-called nor'easter storm has washed up what may be a shipwreck from the 19th century in Massachusetts, local media says.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
           "link": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-25T11:06:38+00:00",
@@ -604,6 +615,17 @@
           "other_news": false
         },
         {
+          "title": "Floating power plants could offer coastal communities a reliable energy source. Here’s how",
+          "link": "https://theconversation.com/floating-power-plants-could-offer-coastal-communities-a-reliable-energy-source-heres-how-289134",
+          "published": "2026-09-27T19:21:06+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "These mobile power systems could be a lifeline for remote, island and disaster-prone places.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "The Mysteries of the Mariana Trench",
           "link": "https://oceanconservancy.org/blog/2026/09/24/mysteries-mariana-trench/",
           "published": "2026-09-24T21:05:01+00:00",
@@ -711,6 +733,17 @@
           "summary": "Decades of pollution at Pittsburgh brownfields left bacteria that evolved to survive it – and maybe help clean up contaminated soil.",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "From ‘disgrace and pollution’ to ‘pride’: how Australians came to embrace their convict family ties",
+          "link": "https://theconversation.com/from-disgrace-and-pollution-to-pride-how-australians-came-to-embrace-their-convict-family-ties-290067",
+          "published": "2026-09-27T19:20:53+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Many former convicts changed their names and hid their past. But over the last 50 years, Australians have increasingly discovered – and embraced – con",
+          "image": null,
+          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -796,6 +829,17 @@
           "other_news": true
         },
         {
+          "title": "Late September warmth before wind and rain returns this week",
+          "link": "https://www.bbc.co.uk/weather/articles/c8wyzzyxed3zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-28T01:46:35+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Temperatures remain above the average at the start of the week but wetter conditions are on the way for some",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72cd/live/09921e40-ba35-11f1-bc1f-3f186ca4140c.jpg",
+          "other_news": true
+        },
+        {
           "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
           "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-25T22:12:48+00:00",
@@ -804,17 +848,6 @@
           "language": "en",
           "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390c/live/dabff6d0-b7c5-11f1-b1d1-571ed4d7ff2c.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Waste sector crisis could see rubbish piling up on streets, experts warn",
-          "link": "https://www.bbc.co.uk/news/articles/cqlymw74g20ro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-24T05:13:18+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "There are warnings over a combination of significantly reduced landfill space and a breakdown of Glasgow's main incinerator.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dae2/live/73d967d0-b7d9-11f1-9329-25fd53239d64.jpg",
           "other_news": true
         },
         {
@@ -1530,28 +1563,6 @@
           "language": "fr",
           "summary": "Des citoyens ont réclamé des mesures d’urgence pour le climat lors de marches organisées dans plus de 250 villes, alors que la ministre de la transiti",
           "image": "https://img.lemde.fr/2026/09/26/532/0/5078/2539/644/322/60/0/f80154d_ftp-1-xmrd4ei1rvmh-5190309-01-06.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Après un été de tous les records, des rassemblements pour le climat organisés samedi dans toute la France",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/26/apres-un-ete-de-tous-les-records-des-rassemblements-pour-le-climat-organises-samedi-dans-toute-la-france_6783015_3244.html",
-          "published": "2026-09-26T06:00:32+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Plus de 260 rassemblements sont annoncés partout dans l’Hexagone pour réclamer un plan d’urgence climatique. Les militants pour l’environnement à l’or",
-          "image": "https://img.lemde.fr/2026/09/15/679/0/8148/4074/644/322/60/0/36e15f2_ftp-1-bcvdeehcbi6e-5097931-01-06.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Le personnel politique n’arrive plus à se sortir de la dictature du court terme",
-          "link": "https://www.lemonde.fr/politique/article/2026/09/25/le-personnel-politique-n-arrive-plus-a-se-sortir-de-la-dictature-du-court-terme_6782607_823448.html",
-          "published": "2026-09-25T17:55:06+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "L’élection présidentielle met en lumière l’une des principales tares de notre époque politique : l’incapacité à penser le long terme sur une planète e",
-          "image": "https://img.lemde.fr/2026/09/25/140/0/4590/2295/644/322/60/0/c91fbc8_upload-1-mgy8fft7litw-000-c2w36fa.jpg",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T05:01:39.750579+00:00",
+  "generated_at": "2026-09-28T13:56:56.590723+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -187,17 +187,6 @@
           "other_news": false
         },
         {
-          "title": "Seahorse habitats 'healing' thanks to eco-moorings",
-          "link": "https://www.bbc.co.uk/news/articles/cqrm90n3m90po?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-26T06:10:37+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Scars in Studland Bay's seagrass meadows, caused by boat anchor chains, are healing, a study finds.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4967/live/3d9e6b90-b674-11f1-b711-df5e4d50c2fd.jpg",
-          "other_news": false
-        },
-        {
           "title": "Scientists crack mystery of when Ningaloo’s corals reproduce",
           "link": "https://oceanographicmagazine.com/news/scientists-crack-mystery-of-when-ningaloos-corals-reproduce/",
           "published": "2026-09-25T08:22:30+00:00",
@@ -253,6 +242,17 @@
           "other_news": false
         },
         {
+          "title": "Singapore’s plan to merge several islands could wipe out coral reefs",
+          "link": "https://news.mongabay.com/2026/09/singapores-plan-to-merge-several-islands-could-wipe-out-coral-reefs/",
+          "published": "2026-09-28T08:49:34+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "SINGAPORE — “For seven thousand years, Singapore has changed around these reefs,” says Debby Ng, a Singaporean biologist who studies the city-state’s",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/28012336/aa.-Bluespotted-ribbontail-ray-Pulau-Hantu-2017-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Pakistan expands protected habitat for Indus River dolphin as recovery offers hope",
           "link": "https://news.mongabay.com/2026/09/pakistan-expands-protected-habitat-for-indus-river-dolphin-as-recovery-offers-hope/",
           "published": "2026-09-24T21:28:29+00:00",
@@ -277,14 +277,14 @@
           "other_news": false
         },
         {
-          "title": "Floating weeds threaten farming and fishing at Malawi’s Chia Lagoon",
-          "link": "https://news.mongabay.com/short-article/2026/09/floating-weeds-threaten-farming-and-fishing-at-malawis-chia-lagoon/",
-          "published": "2026-09-23T23:11:09+00:00",
-          "source": "Mongabay Marine",
+          "title": "What can medieval herring teach us about Baltic Sea fisheries?",
+          "link": "https://oceanographicmagazine.com/news/what-can-medieval-herring-teach-us-about-baltic-sea-fisheries/",
+          "published": "2026-09-28T13:46:37+00:00",
+          "source": "Oceanographic",
           "type": "news",
           "language": "en",
-          "summary": "A mass of floating weeds at Chia Lagoon, Malawi’s largest, is choking out waterways and livelihoods as farmers and fishers struggle to access fields a",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23230335/chia-1-768x512.jpg",
+          "summary": "A 450-year dataset shows the 16th-century collapse of the Baltic's Skanör-Falsterbo herring fishery was driven by overfishing, climate cooling and eco",
+          "image": null,
           "other_news": false
         }
       ],
@@ -340,6 +340,17 @@
       ],
       "Other Marine News": [
         {
+          "title": "Concern mounts over slow-moving, planetary-scale ‘Kelvin’ wave heading for California",
+          "link": "https://www.theguardian.com/us-news/2026/sep/28/california-kelvin-wave",
+          "published": "2026-09-28T11:00:33+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The ocean phenomenon could raise sea levels by up to a foot as El Niño keeps warm water trapped along the coastConcerns are mounting about an ocean ph",
+          "image": "https://i.guim.co.uk/img/media/9e5107f1d6a166f37f2f8a6a9f3796bed818b2b4/671_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=d6e24b94cd444b0d91f9f434736a578b",
+          "other_news": false
+        },
+        {
           "title": "Why the strengthening El Niño means fewer Atlantic hurricanes",
           "link": "https://www.theguardian.com/news/2026/sep/24/weatherwatch-el-nino-atlantic-hurricanes",
           "published": "2026-09-24T05:00:09+00:00",
@@ -370,6 +381,17 @@
           "language": "en",
           "summary": "The chicken liver sponge has sailed through a test of its ability to filter pollutants in a harbour in Spain’s Costa BravaIn the polluted waters of Ma",
           "image": "https://i.guim.co.uk/img/media/a472bf5e5a15901529bc7e240463e7d51284edfb/125_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=ddd067174b29261ad45e6203b46e4eb0",
+          "other_news": false
+        },
+        {
+          "title": "Mexico's Pacific coast braces for Hurricane Polo",
+          "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-28T11:05:49+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bb2/live/28a55460-bb1f-11f1-97b0-3f86b3abbccc.jpg",
           "other_news": false
         },
         {
@@ -560,28 +582,6 @@
           "other_news": false
         },
         {
-          "title": "Pêche : l'État joue la montre et laisse les navires-usines piller le littoral",
-          "link": "https://reporterre.net/Des-monstres-des-mers-pres-des-cotes-l-Etat-laisse-le-champ-libre-aux-navires-usines",
-          "published": "2026-09-18T12:30:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Malgré des annonces encourageantes et l'accord de la filière, le gouvernement se refuse à interdire la présence des navires-usin",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/23-12-14_sea_shepherd_006-5badc.jpg?1789734600",
-          "other_news": false
-        },
-        {
-          "title": "Donald Trump affaiblit la protection des espèces menacées",
-          "link": "https://reporterre.net/Donald-Trump-affaiblit-la-protection-des-especes-menacees",
-          "published": "2026-09-18T09:56:36+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "L'administration de Donald Trump vient de restreindre la protection des espèces menacées aux États-Unis. Une directive du Fish a",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/51751736367_2468f75163_h_1_-03466.jpg?1789725509",
-          "other_news": false
-        },
-        {
           "title": "Southern ocean krill oil boycott backed by Benedict Cumberbatch",
           "link": "https://oceanographicmagazine.com/news/southern-ocean-krill-oil-boycott-backed-by-benedict-cumberbatch/",
           "published": "2026-09-24T13:40:44+00:00",
@@ -604,13 +604,13 @@
           "other_news": false
         },
         {
-          "title": "Sylvia Earle, IUCN unveil One Ocean Partnership at Climate Week",
-          "link": "https://oceanographicmagazine.com/news/sylvia-earle-iucn-unveil-one-ocean-partnership-at-climate-week/",
-          "published": "2026-09-22T17:22:45+00:00",
-          "source": "Oceanographic",
+          "title": "",
+          "link": "https://vert.eco/non-categorise/87658/",
+          "published": "2026-09-28T11:58:00+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
-          "language": "en",
-          "summary": "Mission Blue and IUCN have launched the One Ocean Partnership, announced by Sylvia Earle and Razan Al Mubarak at Climate Week NYC, linking Hope Spots",
+          "language": "fr",
+          "summary": "La réserve naturelle marine de Cerbère-Banyuls (Pyrénées-Orientales) vient d’obtenir le feu vert des commissions locales pour pouvoir tripler de taill",
           "image": null,
           "other_news": false
         },
@@ -657,17 +657,6 @@
           "summary": "Human activities continue eroding the planet’s stability, resilience and life-support functions, the third edition of the Planetary Health Check relea",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/24123717/Hurricane-Melissa-as-seen-from-the-International-Space-Station-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Agency says sea turtle eggs laid on California beaches are a first for the US West Coast",
-          "link": "https://news.mongabay.com/short-article/2026/09/agency-says-sea-turtle-eggs-laid-on-california-beaches-are-a-first-for-the-us-west-coast/",
-          "published": "2026-09-23T16:55:13+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "HUNTINGTON BEACH, Calif. (AP) — A reptile believed to be struggling in sand at a Southern California beach was simply making history: a sea turtle lay",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/10/24085513/olive-ridley-768x512.jpg",
-          "other_news": false
         }
       ]
     },
@@ -701,6 +690,17 @@
     },
     "Other News": {
       "Plastic & Ocean Pollution": [
+        {
+          "title": "Getting river pollution investigated like 'pulling teeth'",
+          "link": "https://www.bbc.co.uk/news/articles/c95y4ejvl655o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-28T05:02:57+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Bristol residents say an oil-like substance has been bubbling up for years and killing wildlife.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a22/live/22c25e60-b5a9-11f1-b1d1-571ed4d7ff2c.jpg",
+          "other_news": true
+        },
         {
           "title": "Heatwaves are making toxic algae worse, but the real problem is what we are putting into our rivers and lakes",
           "link": "https://theconversation.com/heatwaves-are-making-toxic-algae-worse-but-the-real-problem-is-what-we-are-putting-into-our-rivers-and-lakes-290653",
@@ -829,14 +829,14 @@
           "other_news": true
         },
         {
-          "title": "Late September warmth before wind and rain returns this week",
-          "link": "https://www.bbc.co.uk/weather/articles/c8wyzzyxed3zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-28T01:46:35+00:00",
+          "title": "Offshore wind plant to bring jobs boost to Montrose",
+          "link": "https://www.bbc.co.uk/news/articles/cq62jyk4ekp7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-28T11:01:46+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Temperatures remain above the average at the start of the week but wetter conditions are on the way for some",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72cd/live/09921e40-ba35-11f1-bc1f-3f186ca4140c.jpg",
+          "summary": "The new facility will manufacture parts for offshore wind farms in Scottish waters and for overseas markets.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf9b/live/59e4dbe0-bb29-11f1-bd21-bdf910f2cec6.jpg",
           "other_news": true
         },
         {
@@ -848,6 +848,17 @@
           "language": "en",
           "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390c/live/dabff6d0-b7c5-11f1-b1d1-571ed4d7ff2c.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Nature spaces 'need to be next to where people live'",
+          "link": "https://www.bbc.co.uk/news/articles/cm1j43rwye77o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-28T05:40:54+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Campaigners are pushing for more wildlife-rich green spaces to be created within urban communities.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd52/live/00331110-ba76-11f1-8d03-cba75b2c1d34.jpg",
           "other_news": true
         },
         {
@@ -935,6 +946,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Le changement climatique ne peut que favoriser ce type d’événements, déjà survenus en Europe.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Climate disasters are getting worse – risks escalate when authoritarian regimes keep neighbours in the dark",
+          "link": "https://theconversation.com/climate-disasters-are-getting-worse-risks-escalate-when-authoritarian-regimes-keep-neighbours-in-the-dark-291857",
+          "published": "2026-09-28T13:01:36+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "With extreme weather and glacier melt predicted to increase, neighbouring nations will need to act together to prevent deaths.",
           "image": null,
           "other_news": true
         },
@@ -1049,17 +1071,6 @@
           "other_news": true
         },
         {
-          "title": "Data center projects in Pennsylvania face stronger local scrutiny after Shapiro’s executive order",
-          "link": "https://theconversation.com/data-center-projects-in-pennsylvania-face-stronger-local-scrutiny-after-shapiros-executive-order-290136",
-          "published": "2026-09-01T12:06:36+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "The Environmental Rights Amendment of the PA Constitution guarantees the right to clean air, pure water and to the preservation of the aesthetic value",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Interactive: What China’s dozens of ‘five-year plans’ say about climate and energy",
           "link": "https://interactive.carbonbrief.org/china-plan-tracker/index.html",
           "published": "2026-09-24T14:00:00+00:00",
@@ -1122,17 +1133,6 @@
           "type": "news",
           "language": "en",
           "summary": "Wildfires currently burning large swathes of land in Indonesia are on track to produce emissions on a par with the&#8230;\nThe post El Niño: Indonesia",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Factcheck: Reform UK’s 45 false or misleading claims about climate and energy",
-          "link": "https://www.carbonbrief.org/factcheck-reform-uks-45-false-or-misleading-claims-about-climate-and-energy",
-          "published": "2026-09-11T10:12:49+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Reform UK, led by Nigel Farage, has emerged as a major force in UK politics in recent years – pushing&#8230;\nThe post Factcheck: Reform UK’s 45 false",
           "image": null,
           "other_news": true
         },
@@ -1368,14 +1368,58 @@
           "other_news": true
         },
         {
-          "title": "Keeping to 1.5C of warming is no longer possible – but we must still limit the overshoot",
-          "link": "https://www.climatechangenews.com/2026/09/02/keeping-to-1-5c-of-warming-is-no-longer-possible-but-we-must-still-limit-the-overshoot/",
-          "published": "2026-09-02T09:15:59+00:00",
-          "source": "Climate change news",
+          "title": "À Lyon, la Métropole de droite supprime le « RSA pour jeunes » des Écologistes",
+          "link": "https://reporterre.net/A-Lyon-la-Metropole-de-droite-supprime-le-RSA-pour-jeunes-des-Ecologistes",
+          "published": "2026-09-28T13:55:29+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "We need a strategy for navigating the huge risks to ecosystems and societies\nThe post Keeping to 1.5C of warming is no longer possible &#8211; but we",
-          "image": null,
+          "language": "fr",
+          "summary": "À Lyon, la nouvelle majorité de droite à la tête de la Métropole détricote méticuleusement les politiques sociales menées depuis",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260508__hl_mdelaty_3153758__v1__highres__francecommemorationmayeightanniversa_1_-8f553.jpg?1790603730",
+          "other_news": true
+        },
+        {
+          "title": "Un automobiliste renverse quatre personnes à la marche climat de Clermont-Ferrand",
+          "link": "https://reporterre.net/Clermont-Ferrand-un-automobiliste-fonce-dans-la-foule-de-la-manifestation-pour-le-climat",
+          "published": "2026-09-28T10:33:02+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Quatre personnes participant à une marche pour le climat, dont une femme de 80 ans, ont été blessées samedi matin, aux alentours",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/afp__20260926__hl_afillon_3307396__v1__highres__franceclermontferrandclimatemarchcar_resized-fc284.jpg?1790591584",
+          "other_news": true
+        },
+        {
+          "title": "Marche pour le climat : à Bordeaux, l'incendie dans toutes les têtes",
+          "link": "https://reporterre.net/Marche-pour-le-climat-a-Bordeaux-l-incendie-dans-toutes-les-tetes",
+          "published": "2026-09-28T07:36:32+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Environ 3 000 personnes ont défilé à Bordeaux pour réclamer des mesures d'urgence pour le climat. Au sein du cortège, l'incendie",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/20260926-cl-reporterre_climatbdx_03-d2196.jpg?1790590773",
+          "other_news": true
+        },
+        {
+          "title": "Marches pour le climat : pari réussi, pancarte polémique et rapport de force",
+          "link": "https://reporterre.net/Le-climat-est-politique-les-marches-du-26-septembre-tentent-de-creer-un-rapport-de-force",
+          "published": "2026-09-28T07:02:46+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Plus de 130 000 personnes ont marché partout en France le 26 septembre « pour le climat, le vivant, la paix et la justice social",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/26092026_nmn_3613_marcheetrassemblementclimat__r_nnoman-94f90.jpg?1790578967",
+          "other_news": true
+        },
+        {
+          "title": "Zinédine Zidane sur le climat : prendre moins l'avion ou alléger les calendriers, « je ne pense pas qu'il faille rentrer là-dedans »",
+          "link": "https://reporterre.net/Zinedine-Zidane-face-au-changement-climatique-On-va-essayer-de-continuer-a-faire-ce-qu-on",
+          "published": "2026-09-27T18:28:25+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le nouvel entraîneur de l'équipe de France de football a dit à Reporterre souhaiter que les catastrophes climatiques n'arrivent",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260927__c9gx7q8__v1__highres__fbleurnationsfrapresser-60465.jpg?1790533715",
           "other_news": true
         },
         {
@@ -1511,9 +1555,9 @@
           "other_news": true
         },
         {
-          "title": "Anthony Viaux, ancien pilote : « Sur les jets privés, l’Europe doit aller au bout du principe pollueur-payeur »",
+          "title": "Anthony Viaux, ancien pilote : « Concernant les jets privés, l’Europe doit aller au bout du principe pollueur-payeur »",
           "link": "https://www.lemonde.fr/idees/article/2026/09/27/anthony-viaux-ancien-pilote-sur-les-jets-prives-l-europe-doit-aller-au-bout-du-principe-pollueur-payeur_6784411_3232.html",
-          "published": "2026-09-27T17:00:15+02:00",
+          "published": "2026-09-27T17:00:01+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1583,7 +1627,7 @@
           "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Ce samedi 26 septembre, des manifestant·es se sont rassemblé·es dans plus de 260 villes de France à l’appel du mouvement citoyen pour le climat, le vi",
+          "summary": "Samedi, des manifestant·es se sont rassemblé·es dans plus de 260 villes de France à l’appel du mouvement citoyen pour le climat, le vivant et la justi",
           "image": null,
           "other_news": true
         },
@@ -1610,14 +1654,47 @@
           "other_news": true
         },
         {
-          "title": "Mold and heat closed Pittsburgh-area schools – an expert explains the risks to kids",
-          "link": "https://theconversation.com/mold-and-heat-closed-pittsburgh-area-schools-an-expert-explains-the-risks-to-kids-292544",
-          "published": "2026-09-25T12:42:07+00:00",
+          "title": "Child malnutrition is one of Africa’s biggest health challenges: food aid is only part of the solution",
+          "link": "https://theconversation.com/child-malnutrition-is-one-of-africas-biggest-health-challenges-food-aid-is-only-part-of-the-solution-291163",
+          "published": "2026-09-28T13:47:25+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Mold spores, 90-degree classrooms and aging pipes: An environmental health expert explains why Pennsylvania’s old schools are harder on kids than adul",
+          "summary": "A lack of food is not the only cause of malnutrition. Poverty, disease, poor sanitation, climate pressures and limited access to healthcare also shape",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "High levels of ‘forever chemicals’ found in Lancashire residents’ blood – what I’ve learned from studying exposed communities for over a decade",
+          "link": "https://theconversation.com/high-levels-of-forever-chemicals-found-in-lancashire-residents-blood-what-ive-learned-from-studying-exposed-communities-for-over-a-decade-292923",
+          "published": "2026-09-28T12:52:22+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Residents near a Lancashire chemical plant have high Pfas levels in their blood. A decade of research shows what that can and can’t tell us.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "From lab to life: Why translating AI advances to the real world is a major challenge",
+          "link": "https://theconversation.com/from-lab-to-life-why-translating-ai-advances-to-the-real-world-is-a-major-challenge-256421",
+          "published": "2026-09-28T12:39:35+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "All the training data in the world can’t account for every possibility when AI systems interact with people and the environment.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Philippines is the deadliest country in Asia for environmental defenders, report finds",
+          "link": "https://news.mongabay.com/short-article/2026/09/philippines-is-the-deadliest-country-in-asia-for-environmental-defenders-report-finds/",
+          "published": "2026-09-28T11:46:03+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Philippines remains the deadliest country in Asia for land and environmental defenders, according to a new report by the non-profit Global Witness",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/28114516/Taganito_Mining_Corp._nickel_ore_conveyor_belts_-_Flickr-1200x800-1-768x512.jpg",
           "other_news": true
         },
         {
@@ -1662,39 +1739,6 @@
           "language": "en",
           "summary": "YOGYAKARTA, Indonesia — Communities living near Mount Ungaran in Indonesia’s Central Java province have slammed plans to revive a geothermal power pro",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/24124550/7488ea4d-a47b-4173-8648-2d577f41d37a-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Planned US tech hub in Philippines hit over environmental and Indigenous land concerns",
-          "link": "https://news.mongabay.com/2026/09/planned-us-tech-hub-in-philippines-hit-over-environmental-and-indigenous-land-concerns/",
-          "published": "2026-09-23T22:04:40+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "MANILA — Philippine President Ferdinand Marcos Jr. arrived at the Grand Hyatt Manila on Sept. 10 to address hundreds of foreign business representativ",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23152143/Protest-at-grand-hyatt-and-clashes-with-police-21-of-25-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Logging still threatens Bornean forest once envisioned as an Indigenous-led peace park",
-          "link": "https://news.mongabay.com/2026/09/logging-still-threatens-bornean-forest-once-envisioned-as-an-indigenous-led-peace-park/",
-          "published": "2026-09-23T16:52:38+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A conservation park that Indigenous communities from the Malaysian state of Sarawak believed they could co-manage and self-govern has been transformed",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/10/26192853/20230826_085717-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Two decades on, Nepal’s conservationists search for new ‘dream’ generation",
-          "link": "https://news.mongabay.com/2026/09/two-decades-on-nepals-conservationists-search-for-new-dream-generation/",
-          "published": "2026-09-23T16:27:45+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "KATHMANDU — In September 2006, Nepal&#8217;s then Minister of Forests and Soil Conservation Gopal Rai and a contingent of conservation leaders flew to",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23155605/IMG_2079-4-768x512.jpg",
           "other_news": true
         }
       ]

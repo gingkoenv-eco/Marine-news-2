@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:56:56.590723+00:00",
+  "generated_at": "2026-09-28T15:34:06.569851+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -83,17 +83,6 @@
           "language": "en",
           "summary": "Checking for sewage spills has become as normal as checking the weather forecast, say swimmers on East Sussex beachesSouth West Water has worst enviro",
           "image": "https://i.guim.co.uk/img/media/3730cf51cdac8a025143cceea40830e401b1ae3e/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8f848896bc377b99fb5765ead795c5a8",
-          "other_news": false
-        },
-        {
-          "title": "La pollution plastique, grande oubliée du bilan carbone",
-          "link": "https://theconversation.com/la-pollution-plastique-grande-oubliee-du-bilan-carbone-289821",
-          "published": "2026-09-03T10:44:59+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Des chercheuses proposent un nouvel indicateur, l’empreinte plastique particulaire, pour mesurer la pollution plastique, invisible dans les bilans car",
-          "image": null,
           "other_news": false
         },
         {
@@ -461,17 +450,6 @@
           "other_news": false
         },
         {
-          "title": "Pourquoi mesurer les microplastiques est un véritable casse-tête",
-          "link": "https://theconversation.com/pourquoi-mesurer-les-microplastiques-est-un-veritable-casse-tete-286201",
-          "published": "2026-09-03T10:43:53+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Selon la méthode utilisée, la quantité de microplastiques détectée dans un échantillon peut augmenter jusqu’à des taux 15&nbsp;fois plus élevés.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Imagine newsletter: penguins, satellites and pink poo",
           "link": "https://theconversation.com/imagine-newsletter-penguins-satellites-and-pink-poo-292158",
           "published": "2026-09-17T16:28:51+00:00",
@@ -611,6 +589,17 @@
           "type": "news",
           "language": "fr",
           "summary": "La réserve naturelle marine de Cerbère-Banyuls (Pyrénées-Orientales) vient d’obtenir le feu vert des commissions locales pour pouvoir tripler de taill",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Greater job security can make inventors less creative",
+          "link": "https://theconversation.com/greater-job-security-can-make-inventors-less-creative-292613",
+          "published": "2026-09-28T15:06:22+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "When worker protection laws were passed across the US, in-house R&amp;D staff began to take fewer risks.",
           "image": null,
           "other_news": false
         },
@@ -1654,6 +1643,17 @@
           "other_news": true
         },
         {
+          "title": "Without water, forests lose their ability to absorb CO₂",
+          "link": "https://theconversation.com/without-water-forests-lose-their-ability-to-absorb-co-289072",
+          "published": "2026-09-28T14:22:06+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "To survive dry spells, trees stop the water-rich process of photosynthesis. When nature’s natural carbon capture machine grinds to a halt entire fores",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Child malnutrition is one of Africa’s biggest health challenges: food aid is only part of the solution",
           "link": "https://theconversation.com/child-malnutrition-is-one-of-africas-biggest-health-challenges-food-aid-is-only-part-of-the-solution-291163",
           "published": "2026-09-28T13:47:25+00:00",
@@ -1728,17 +1728,6 @@
           "language": "en",
           "summary": "Nearly two years after U.S. President Trump’s decision to dismantle international development agency USAID removed nearly $1 billion from global conse",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/24142704/USAID-2-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Indonesia’s geothermal push runs into local fears at Mount Ungaran",
-          "link": "https://news.mongabay.com/2026/09/indonesias-geothermal-push-runs-into-local-fears-at-mount-ungaran/",
-          "published": "2026-09-24T13:00:22+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "YOGYAKARTA, Indonesia — Communities living near Mount Ungaran in Indonesia’s Central Java province have slammed plans to revive a geothermal power pro",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/24124550/7488ea4d-a47b-4173-8648-2d577f41d37a-768x512.jpg",
           "other_news": true
         }
       ]

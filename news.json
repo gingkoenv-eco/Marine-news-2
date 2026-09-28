@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:40:44.334723+00:00",
+  "generated_at": "2026-09-28T20:08:25.966457+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -600,17 +600,6 @@
           "type": "news",
           "language": "en",
           "summary": "When worker protection laws were passed across the US, in-house R&amp;D staff began to take fewer risks.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Floating power plants could offer coastal communities a reliable energy source. Here’s how",
-          "link": "https://theconversation.com/floating-power-plants-could-offer-coastal-communities-a-reliable-energy-source-heres-how-289134",
-          "published": "2026-09-27T19:21:06+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "These mobile power systems could be a lifeline for remote, island and disaster-prone places.",
           "image": null,
           "other_news": false
         },
@@ -1595,6 +1584,17 @@
           "type": "news",
           "language": "fr",
           "summary": "La déambulation pour le climat prévue samedi à Paris n'aura pas lieu. La préfecture, mobilisée par la venue du pape, n'a autorisé qu'un rassemblement",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "We can finally measure the damage each new coal, gas or oil project will do to people and nature",
+          "link": "https://theconversation.com/we-can-finally-measure-the-damage-each-new-coal-gas-or-oil-project-will-do-to-people-and-nature-292128",
+          "published": "2026-09-28T19:40:29+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "For decades, we couldn’t trace the link between new fossil fuel projects and their damage to people and planet. But now we can.",
           "image": null,
           "other_news": true
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:54:41.254138+00:00",
+  "generated_at": "2026-09-29T14:06:55.285925+00:00",
   "categories": {
     "Politics & Policy": {
       "Polar & Reef Ecosystems & Resilience": [
@@ -200,6 +200,17 @@
           "other_news": false
         },
         {
+          "title": "Study points to new subspecies of humpback whale in Arabian Sea",
+          "link": "https://oceanographicmagazine.com/news/study-points-to-new-species-of-humpback-whale-in-arabian-sea/",
+          "published": "2026-09-29T13:15:45+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "New genetic research shows Arabian Sea humpback whales are a distinct, isolated lineage that may warrant recognition as a fourth humpback subspecies -",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Legal bid to stop underwater AI data centre in endangered whale habitat launched",
           "link": "https://oceanographicmagazine.com/news/legal-bid-to-stop-underwater-ai-data-centre-in-endangered-whale-habitat-launched/",
           "published": "2026-09-28T15:56:43+00:00",
@@ -229,17 +240,6 @@
           "type": "news",
           "language": "en",
           "summary": "University of British Columbia researchers have discovered two new sea spider species in the Salish Sea - the first described there in nearly a centur",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Federal directive guts key protections for US’s endangered wildlife",
-          "link": "https://oceanographicmagazine.com/news/federal-directive-guts-key-protections-for-uss-endangered-wildlife/",
-          "published": "2026-09-23T12:26:50+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new US Fish and Wildlife Service directive narrows the Endangered Species Act's \"take\" prohibition to intentional acts only, drawing sharp criticism",
           "image": null,
           "other_news": false
         },
@@ -350,6 +350,17 @@
         }
       ],
       "Polar & Reef Ecosystems & Resilience": [
+        {
+          "title": "Arctic infrastructure was built on frozen ground – drones and digital twins can help spot the permafrost thaw coming",
+          "link": "https://theconversation.com/arctic-infrastructure-was-built-on-frozen-ground-drones-and-digital-twins-can-help-spot-the-permafrost-thaw-coming-292097",
+          "published": "2026-09-29T12:45:24+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "A regional permafrost map can’t tell a builder if a particular foundation or road will survive as temperatures rise. Engineers need to see beneath the",
+          "image": null,
+          "other_news": false
+        },
         {
           "title": "Satellite images show how penguins’ diets are changing in response to Antarctic climate change",
           "link": "https://theconversation.com/satellite-images-show-how-penguins-diets-are-changing-in-response-to-antarctic-climate-change-289754",
@@ -595,7 +606,7 @@
           "other_news": false
         },
         {
-          "title": "Méganavires de pêche : et si on démantelait ceux qui « détruisent plus qu'ils ne nourrissent » ?",
+          "title": "« Une logique de prédation mondialisée » : les navires de pêche de plus de 33 mètres dans le viseur des ONG",
           "link": "https://reporterre.net/Meganavires-de-peche-et-si-on-demantelait-ceux-qui-detruisent-plus-qu-ils-ne-nourrissent",
           "published": "2026-09-29T08:20:13+00:00",
           "source": "Reporterre",
@@ -625,17 +636,6 @@
           "language": "fr",
           "summary": "La capitale britannique de l’or noir incarne les débats brûlants du Royaume-Uni sur le rythme de sortie des énergies fossiles. Elle attend avec impati",
           "image": "https://img.lemde.fr/2026/09/25/310/0/3300/1650/644/322/60/0/ecf6792_upload-1-rxej0sibitxy-020-2268540704.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Greater job security can make inventors less creative",
-          "link": "https://theconversation.com/greater-job-security-can-make-inventors-less-creative-292613",
-          "published": "2026-09-28T15:06:22+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "When worker protection laws were passed across the US, in-house R&amp;D staff began to take fewer risks.",
-          "image": null,
           "other_news": false
         },
         {
@@ -906,6 +906,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Le changement climatique ne peut que favoriser ce type d’événements, déjà survenus en Europe.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Wolves did not save Yellowstone – why were we so desperate to believe they did?",
+          "link": "https://theconversation.com/wolves-did-not-save-yellowstone-why-were-we-so-desperate-to-believe-they-did-292069",
+          "published": "2026-09-29T13:12:59+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Yellowstone’s reintroduced wolves have become a famous conservation success story, but the reality is far messier.",
           "image": null,
           "other_news": true
         },
@@ -1625,6 +1636,17 @@
           "other_news": true
         },
         {
+          "title": "Why Trump’s plan to cut Head Start regulations could undermine services for the country’s poorest families",
+          "link": "https://theconversation.com/why-trumps-plan-to-cut-head-start-regulations-could-undermine-services-for-the-countrys-poorest-families-289845",
+          "published": "2026-09-29T12:45:10+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "There is research showing that there are numerous benefits for a low-income child to attend a Head Start program, though these effects are less clear",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "One giant clam contains a month-by-month diary of the Great Barrier Reef’s climate 200 years ago",
           "link": "https://theconversation.com/one-giant-clam-contains-a-month-by-month-diary-of-the-great-barrier-reefs-climate-200-years-ago-290169",
           "published": "2026-09-28T23:49:17+00:00",
@@ -1643,39 +1665,6 @@
           "type": "news",
           "language": "en",
           "summary": "For decades, we couldn’t trace the link between new fossil fuel projects and their damage to people and planet. But now we can.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Without water, forests lose their ability to absorb CO₂",
-          "link": "https://theconversation.com/without-water-forests-lose-their-ability-to-absorb-co-289072",
-          "published": "2026-09-28T14:22:06+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "To survive dry spells, trees stop the water-rich process of photosynthesis. When nature’s natural carbon capture machine grinds to a halt entire fores",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Child malnutrition is one of Africa’s biggest health challenges: food aid is only part of the solution",
-          "link": "https://theconversation.com/child-malnutrition-is-one-of-africas-biggest-health-challenges-food-aid-is-only-part-of-the-solution-291163",
-          "published": "2026-09-28T13:47:25+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "A lack of food is not the only cause of malnutrition. Poverty, disease, poor sanitation, climate pressures and limited access to healthcare also shape",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "High levels of ‘forever chemicals’ found in Lancashire residents’ blood – what I’ve learned from studying exposed communities for over a decade",
-          "link": "https://theconversation.com/high-levels-of-forever-chemicals-found-in-lancashire-residents-blood-what-ive-learned-from-studying-exposed-communities-for-over-a-decade-292923",
-          "published": "2026-09-28T12:52:22+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Residents near a Lancashire chemical plant have high Pfas levels in their blood. A decade of research shows what that can and can’t tell us.",
           "image": null,
           "other_news": true
         },

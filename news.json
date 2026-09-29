@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T20:08:25.966457+00:00",
+  "generated_at": "2026-09-29T05:01:32.685913+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -116,6 +116,17 @@
           "language": "fr",
           "summary": "À Matra (Haute-Corse), l’ancienne exploitation d’arsenic a laissé bien plus que des ruines : sa pollution affecte les cours d’eau et les organismes aq",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "More plastic, less glow? Pollution threatens deep sea’s bioluminescent life, experts warn",
+          "link": "https://news.mongabay.com/short-article/2026/09/more-plastic-less-glow-pollution-threatens-deep-seas-bioluminescent-life-experts-warn/",
+          "published": "2026-09-28T23:44:13+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Plastic pollution could disrupt the bioluminescent light produced by deep-sea organisms, researchers warn in a letter in the journal Cambridge Prisms:",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/28202536/a.-BANNER-%C2%A9-Marc-Martin-Sola-original-1-768x512.jpg",
           "other_news": false
         },
         {
@@ -406,17 +417,6 @@
           "other_news": false
         },
         {
-          "title": "Mexico's Pacific coast braces for Hurricane Polo",
-          "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-28T11:05:49+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bb2/live/28a55460-bb1f-11f1-97b0-3f86b3abbccc.jpg",
-          "other_news": false
-        },
-        {
           "title": "Shipwreck found on Nantucket beach during storm",
           "link": "https://www.bbc.co.uk/news/videos/ck980zl0pgq9o?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-28T01:09:57+00:00",
@@ -593,6 +593,17 @@
           "other_news": false
         },
         {
+          "title": "A Aberdeen, en Ecosse, le lent crépuscule des hydrocarbures de la mer du Nord",
+          "link": "https://www.lemonde.fr/economie/article/2026/09/29/a-aberdeen-en-ecosse-le-lent-crepuscule-des-hydrocarbures-de-la-mer-du-nord_6785444_3234.html",
+          "published": "2026-09-29T05:00:01+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La capitale britannique de l’or noir incarne les débats brûlants du Royaume-Uni sur le rythme de sortie des énergies fossiles. Elle attend avec impati",
+          "image": "https://img.lemde.fr/2026/09/25/310/0/3300/1650/644/322/60/0/ecf6792_upload-1-rxej0sibitxy-020-2268540704.jpg",
+          "other_news": false
+        },
+        {
           "title": "Greater job security can make inventors less creative",
           "link": "https://theconversation.com/greater-job-security-can-make-inventors-less-creative-292613",
           "published": "2026-09-28T15:06:22+00:00",
@@ -702,17 +713,6 @@
           "summary": "The tiny gardens beneath street trees can boost biodiversity and our connection to where we live.",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "Ebola, twins and women-led conservation: Reporting on gorillas for World Gorilla Day",
-          "link": "https://news.mongabay.com/short-article/2026/09/ebola-twins-and-women-led-conservation-reporting-on-gorillas-for-world-gorilla-day/",
-          "published": "2026-09-24T17:22:05+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Gorillas are among humans’ closest relatives, with a common ancestor dating back around 8 to 10 million years. Both species of gorilla alive today are",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/24111755/IMG_1524-768x512.jpg",
-          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -760,6 +760,17 @@
           "language": "en",
           "summary": "New report shows key indicators of Earth’s health are ‘outside the safe operating space’ as climate disaster loomsThe planetary life support systems r",
           "image": "https://i.guim.co.uk/img/media/994406d78130adfd3f6fc3d90601f912474310dc/942_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=36dd792b32bb417b759f4f0521c284e9",
+          "other_news": true
+        },
+        {
+          "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+          "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-28T23:43:48+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e35/live/359c99e0-bb96-11f1-857e-2582c6806c50.jpg",
           "other_news": true
         },
         {
@@ -1500,6 +1511,28 @@
           "other_news": true
         },
         {
+          "title": "Présidentielle 2027 : les candidats disent-ils la vérité sur le climat ?",
+          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/29/presidentielle-2027-les-candidats-disent-ils-la-verite-sur-le-climat_6785555_4355770.html",
+          "published": "2026-09-29T06:30:11+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Entre été caniculaire et horizon électoral, de nombreuses figures politiques se sont exprimées ces dernières semaines sur l’environnement. Avec un rap",
+          "image": "https://img.lemde.fr/2026/09/25/127/0/1500/750/644/322/60/0/0b04072_upload-1-puhuw1y0zzdw-verif-decla-ecolo.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Comment on a réduit le risque d’inondations et de sécheresse dans notre village",
+          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/09/29/comment-on-a-reduit-le-risque-d-inondations-et-de-secheresse-dans-notre-village_6785516_6125299.html",
+          "published": "2026-09-29T06:00:10+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Colomieu, vi",
+          "image": "https://img.lemde.fr/2026/09/22/307/0/6048/3024/644/322/60/0/28a5769_upload-1-k63m6ds0d8d2-27-reportage-hydrologie-lemonde-colomieu-29052026-bastien-doudaine-830.jpg",
+          "other_news": true
+        },
+        {
           "title": "Anthony Viaux, ancien pilote : « Concernant les jets privés, l’Europe doit aller au bout du principe pollueur-payeur »",
           "link": "https://www.lemonde.fr/idees/article/2026/09/27/anthony-viaux-ancien-pilote-sur-les-jets-prives-l-europe-doit-aller-au-bout-du-principe-pollueur-payeur_6784411_3232.html",
           "published": "2026-09-27T17:00:01+02:00",
@@ -1519,28 +1552,6 @@
           "language": "fr",
           "summary": "Candidat à un quatrième mandat, Luiz Inacio Lula da Silva peut se targuer d’avoir amélioré la protection de l’Amazonie. Mais son soutien à l’explorati",
           "image": "https://img.lemde.fr/2026/08/11/596/0/7157/3578/644/322/60/0/77c3cb5_ftp-1-f73t5xvfnwl4-e24e6663b123473e85004b4a899a6f60-1-aa000641d54d40dc88f5bfbbdf0f16dc.jpg",
-          "other_news": true
-        },
-        {
-          "title": "« L’IApocalypse est une chimère qui nous fait oublier que le développement de l’intelligence artificielle est insoutenable à tous points de vue »",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/27/l-iapocalypse-est-une-chimere-qui-nous-fait-oublier-que-le-developpement-de-l-intelligence-artificielle-est-insoutenable-a-tous-points-de-vue_6783758_3232.html",
-          "published": "2026-09-27T06:00:58+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les dangers hautement hypothétiques de l’IA font disparaître la question des risques environnementaux, sociaux et politiques, observe, dans sa chroniq",
-          "image": "https://img.lemde.fr/2026/09/16/1692/1497/4161/2081/644/322/60/0/22574db_ftp-1-9xhs6acyxeui-5103592-01-06.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Dans toute la France, des milliers de manifestants pour le climat : « J’aurais aimé qu’on soit plus nombreux, après l’été que l’on vient de passer »",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/27/dans-toute-la-france-des-milliers-de-manifestants-pour-le-climat-j-aurais-aime-qu-on-soit-plus-nombreux-apres-l-ete-que-l-on-vient-de-passer_6783713_3244.html",
-          "published": "2026-09-27T05:30:04+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "De Bordeaux à Paris, en passant par Rennes ou Die, 120 000 personnes, selon les organisateurs, ont pris part à 260 rassemblements « pour le climat, po",
-          "image": "https://img.lemde.fr/2026/09/27/27/0/4500/2250/644/322/60/0/2e0a2b7_upload-1-clmdhbh9rhms-sipa-01301362-000003.jpg",
           "other_news": true
         },
         {
@@ -1584,6 +1595,17 @@
           "type": "news",
           "language": "fr",
           "summary": "La déambulation pour le climat prévue samedi à Paris n'aura pas lieu. La préfecture, mobilisée par la venue du pape, n'a autorisé qu'un rassemblement",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "One giant clam contains a month-by-month diary of the Great Barrier Reef’s climate 200 years ago",
+          "link": "https://theconversation.com/one-giant-clam-contains-a-month-by-month-diary-of-the-great-barrier-reefs-climate-200-years-ago-290169",
+          "published": "2026-09-28T23:49:17+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The clam fills a crucial gap in our records of what the reef was like before industrial-era global warming.",
           "image": null,
           "other_news": true
         },

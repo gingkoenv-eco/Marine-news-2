@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-09-29T05:01:32.685913+00:00",
+  "generated_at": "2026-09-29T12:54:41.254138+00:00",
   "categories": {
     "Politics & Policy": {
+      "Polar & Reef Ecosystems & Resilience": [
+        {
+          "title": "Why Europe wants to boost its Arctic presence",
+          "link": "https://theconversation.com/why-europe-wants-to-boost-its-arctic-presence-292075",
+          "published": "2026-09-29T08:26:30+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "EU leaders are scrambling to increase the bloc’s presence in the Arctic.",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Other Marine News": [
         {
           "title": "UK to join EU ocean science scheme to better predict extreme weather events",
@@ -46,6 +59,17 @@
           "summary": "The High Seas Treaty has reached 100 ratifications, with Germany, Canada, Australia and others joining ahead of COP1 in January 2027 - a shift from ne",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "The Mecca alliance meets the Red Sea – Saudi Arabia’s new defense pact faces its first major test",
+          "link": "https://theconversation.com/the-mecca-alliance-meets-the-red-sea-saudi-arabias-new-defense-pact-faces-its-first-major-test-292975",
+          "published": "2026-09-29T12:42:58+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The pact with Turkey and Pakistan has evolved quickly from a vague political commitment. Riyadh hopes it will help it navigate a thorny Middle East cr",
+          "image": null,
+          "other_news": false
         }
       ]
     },
@@ -72,17 +96,6 @@
           "language": "en",
           "summary": "Seventy-nine per cent of all NSW swimming sites rated ‘good’ or ‘very good’, as state’s cleanest and most polluted beaches revealedFollow our Australi",
           "image": "https://i.guim.co.uk/img/media/1af16ff258e33caea65db65fd1958390c0560ed3/965_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=98148fd52c609c447e718c62605507a4",
-          "other_news": false
-        },
-        {
-          "title": "‘Tiny bit of rain and the sewage comes’: Brighton swimmers vent fury at sea pollution",
-          "link": "https://www.theguardian.com/environment/2026/aug/30/sewage-brighton-swimmers-condemn-sea-pollution",
-          "published": "2026-08-30T06:00:48+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Checking for sewage spills has become as normal as checking the weather forecast, say swimmers on East Sussex beachesSouth West Water has worst enviro",
-          "image": "https://i.guim.co.uk/img/media/3730cf51cdac8a025143cceea40830e401b1ae3e/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8f848896bc377b99fb5765ead795c5a8",
           "other_news": false
         },
         {
@@ -406,6 +419,17 @@
           "other_news": false
         },
         {
+          "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
+          "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-29T10:34:53+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The storm moved ashore on the Baja California peninsula, which is a popular tourist destination.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af68/live/c9d59b40-bbda-11f1-bfea-9d5bb7e7d40b.jpg",
+          "other_news": false
+        },
+        {
           "title": "Fossil found on Welsh beach ends 'confusion' over 200-million-year-old fish teeth",
           "link": "https://www.bbc.co.uk/news/articles/ckz7zd7nxj73o?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-28T16:04:59+00:00",
@@ -425,17 +449,6 @@
           "language": "en",
           "summary": "The so-called nor'easter storm has washed up what may be a shipwreck from the 19th century in Massachusetts, local media says.",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
-          "link": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-25T11:06:38+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2b0/live/3fa7a9e0-b8b5-11f1-8257-a79ccb54f692.png",
           "other_news": false
         },
         {
@@ -582,6 +595,17 @@
           "other_news": false
         },
         {
+          "title": "Méganavires de pêche : et si on démantelait ceux qui « détruisent plus qu'ils ne nourrissent » ?",
+          "link": "https://reporterre.net/Meganavires-de-peche-et-si-on-demantelait-ceux-qui-detruisent-plus-qu-ils-ne-nourrissent",
+          "published": "2026-09-29T08:20:13+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans un nouveau rapport, l'ONG Bloom veut démanteler les méganavires industriels de pêche qui « détruisent plus qu'ils ne nourri",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20240214__467326772__v1__highres__harborijmuiden_1_-3d2d6.jpg?1790670015",
+          "other_news": false
+        },
+        {
           "title": "Southern ocean krill oil boycott backed by Benedict Cumberbatch",
           "link": "https://oceanographicmagazine.com/news/southern-ocean-krill-oil-boycott-backed-by-benedict-cumberbatch/",
           "published": "2026-09-24T13:40:44+00:00",
@@ -662,6 +686,19 @@
           "language": "en",
           "summary": "More than 330,000 sea turtles arrived in southern Mexico in a mass nesting phenomenon known as an ‘arribada’.The sixth arribada of the season, which b",
           "image": "https://i.guim.co.uk/img/media/cc1bd4fa09ba7f5f49796f92c877ad5d1be2c16b/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=7ac95c323557914761449c0efb74dbea",
+          "other_news": false
+        }
+      ],
+      "Other Marine News": [
+        {
+          "title": "Watch: Bangkok locals create floating market during floods",
+          "link": "https://www.bbc.co.uk/news/videos/c6q8jlqvjgdlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-29T06:15:25+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "As sellers waded through floodwaters to sell produce like fish and vegetables from floating platforms and foam boxes, buyers walked or paddled between",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569b/live/93362e00-bbcc-11f1-bd21-bdf910f2cec6.jpg",
           "other_news": false
         }
       ]
@@ -763,17 +800,6 @@
           "other_news": true
         },
         {
-          "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
-          "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-28T23:43:48+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e35/live/359c99e0-bb96-11f1-857e-2582c6806c50.jpg",
-          "other_news": true
-        },
-        {
           "title": "Offshore wind plant to bring jobs boost to Montrose",
           "link": "https://www.bbc.co.uk/news/articles/cq62jyk4ekp7o?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-28T11:01:46+00:00",
@@ -782,17 +808,6 @@
           "language": "en",
           "summary": "The new facility will manufacture parts for offshore wind farms in Scottish waters and for overseas markets.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf9b/live/59e4dbe0-bb29-11f1-bd21-bdf910f2cec6.jpg",
-          "other_news": true
-        },
-        {
-          "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-          "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-25T22:12:48+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390c/live/dabff6d0-b7c5-11f1-b1d1-571ed4d7ff2c.jpg",
           "other_news": true
         },
         {
@@ -807,6 +822,17 @@
           "other_news": true
         },
         {
+          "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-25T22:12:48+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390c/live/dabff6d0-b7c5-11f1-b1d1-571ed4d7ff2c.jpg",
+          "other_news": true
+        },
+        {
           "title": "Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets'",
           "link": "https://www.bbc.co.uk/news/articles/c3pwlejxrd7do?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-23T09:00:21+00:00",
@@ -815,17 +841,6 @@
           "language": "en",
           "summary": "Farmers fear they may not be able to carry out environmental work because they lost out on funding.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98b1/live/ecfc6110-b722-11f1-8d21-19ad84e0e822.jpg",
-          "other_news": true
-        },
-        {
-          "title": "India is producing more green energy - but wasting a lot of it",
-          "link": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-22T23:02:29+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d6/live/9c8a92d0-b185-11f1-9730-e36fcedc2d41.jpg",
           "other_news": true
         },
         {
@@ -1093,6 +1108,17 @@
           "other_news": true
         },
         {
+          "title": "COP31 must aim higher to cut emissions from the use of materials",
+          "link": "https://www.climatechangenews.com/2026/09/29/cop31-must-aim-higher-to-cut-emissions-from-the-use-of-materials/",
+          "published": "2026-09-29T10:37:14+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "November's climate summit is an opportunity to connect material circularity with stronger carbon-cutting pathways but Türkiye's proposed goals need to",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Push for cooking to be part of COP31’s electrification agenda",
           "link": "https://www.climatechangenews.com/2026/09/24/push-for-cooking-to-be-part-of-cop31s-electrification-agenda/",
           "published": "2026-09-24T16:51:36+00:00",
@@ -1324,6 +1350,17 @@
           "other_news": true
         },
         {
+          "title": "« La solitude contemporaine est le résultat de choix de politiques publiques »",
+          "link": "https://reporterre.net/La-solitude-contemporaine-est-le-resultat-de-choix-de-politiques-publiques",
+          "published": "2026-09-29T07:23:18+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Pour la journaliste Alice Raybaud, la solitude est un « sujet politique majeur », auquel elle a consacré un livre. Elle démontre",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/solitude_v3-a1ab3.jpg?1790666600",
+          "other_news": true
+        },
+        {
           "title": "À Lyon, la Métropole de droite supprime le « RSA pour jeunes » des Écologistes",
           "link": "https://reporterre.net/A-Lyon-la-Metropole-de-droite-supprime-le-RSA-pour-jeunes-des-Ecologistes",
           "published": "2026-09-28T13:55:29+00:00",
@@ -1478,28 +1515,6 @@
           "other_news": true
         },
         {
-          "title": "« J'y ai passé 12 000 heures » : il a construit sa propre voiture à énergie solaire",
-          "link": "https://reporterre.net/J-y-ai-passe-12-000-heures-il-a-construit-sa-propre-voiture-a-energie-solaire",
-          "published": "2026-09-20T05:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Après plusieurs années de recherche, Denis Baulier a créé une voiture solaire faite maison, avec jusqu'à 120 km d'autonomie. Ave",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/la_scaramobile_-46-cc7b2.jpg?1789880401",
-          "other_news": true
-        },
-        {
-          "title": "Un Commun accord : comment Jean-Marc Jancovici réinvente la Convention citoyenne pour le climat",
-          "link": "https://reporterre.net/Un-Commun-accord-comment-Jean-Marc-Jancovici-reinvente-la-Convention-citoyenne-pour-le",
-          "published": "2026-09-19T04:30:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "L'assemblée citoyenne « Un Commun accord » lancée par Jean-Marc Jancovici se réunira pour la première fois à Paris les 19 et 20",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/janco2027-34464.jpg?1789792201",
-          "other_news": true
-        },
-        {
           "title": "Wild animals are our climate allies, peer-reviewed study reaffirms",
           "link": "https://oceanographicmagazine.com/news/wild-animals-are-our-climate-allies-peer-reviewed-study-reaffirms/",
           "published": "2026-09-25T13:48:39+00:00",
@@ -1511,9 +1526,20 @@
           "other_news": true
         },
         {
+          "title": "Concilier transition écologique et libéralisme politique, un défi majeur à l’ère du réchauffement climatique",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/29/concilier-transition-ecologique-et-liberalisme-politique-un-defi-majeur-a-l-ere-du-rechauffement-climatique_6785595_3232.html",
+          "published": "2026-09-29T12:15:04+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans son nouvel essai, « La Liberté des limites », la chercheuse Lauriane Mouysset se livre à un plaidoyer en faveur d’un « écolibéralisme citoyen ».",
+          "image": "https://img.lemde.fr/2026/09/25/160/0/1920/960/644/322/60/0/82eaefb_upload-1-diyn4zbmc6ca-liberte-des-limites.jpg",
+          "other_news": true
+        },
+        {
           "title": "Présidentielle 2027 : les candidats disent-ils la vérité sur le climat ?",
           "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/29/presidentielle-2027-les-candidats-disent-ils-la-verite-sur-le-climat_6785555_4355770.html",
-          "published": "2026-09-29T06:30:11+02:00",
+          "published": "2026-09-29T06:30:09+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1522,9 +1548,9 @@
           "other_news": true
         },
         {
-          "title": "Comment on a réduit le risque d’inondations et de sécheresse dans notre village",
+          "title": "« On avance » : comment on a réduit le risque d’inondations et de sécheresse dans notre village",
           "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/09/29/comment-on-a-reduit-le-risque-d-inondations-et-de-secheresse-dans-notre-village_6785516_6125299.html",
-          "published": "2026-09-29T06:00:10+02:00",
+          "published": "2026-09-29T06:00:05+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1544,14 +1570,14 @@
           "other_news": true
         },
         {
-          "title": "Moins de déforestation mais plus de pétrole : le bilan environnemental contrasté de Lula à la tête du Brésil",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/27/moins-de-deforestation-mais-plus-de-petrole-le-bilan-environnemental-contraste-de-lula-a-la-tete-du-bresil_6783863_3244.html",
-          "published": "2026-09-27T07:00:25+02:00",
-          "source": "Le Monde Planète",
+          "title": "«On vit un paradoxe terrible» : trahie par le gouvernement, la filière des énergies renouvelables s’enfonce dans la crise",
+          "link": "https://vert.eco/energie/on-vit-un-paradoxe-terrible-trahie-par-le-gouvernement-la-filiere-des-energies-renouvelables-senfonce-dans-la-crise/",
+          "published": "2026-09-29T09:18:29+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Candidat à un quatrième mandat, Luiz Inacio Lula da Silva peut se targuer d’avoir amélioré la protection de l’Amazonie. Mais son soutien à l’explorati",
-          "image": "https://img.lemde.fr/2026/08/11/596/0/7157/3578/644/322/60/0/77c3cb5_ftp-1-f73t5xvfnwl4-e24e6663b123473e85004b4a899a6f60-1-aa000641d54d40dc88f5bfbbdf0f16dc.jpg",
+          "summary": "Au lieu de s’imposer comme une évidence face aux turbulences fossiles, la filière française des énergies renouvelables supprime des emplois par millie",
+          "image": null,
           "other_news": true
         },
         {
@@ -1650,17 +1676,6 @@
           "type": "news",
           "language": "en",
           "summary": "Residents near a Lancashire chemical plant have high Pfas levels in their blood. A decade of research shows what that can and can’t tell us.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "From lab to life: Why translating AI advances to the real world is a major challenge",
-          "link": "https://theconversation.com/from-lab-to-life-why-translating-ai-advances-to-the-real-world-is-a-major-challenge-256421",
-          "published": "2026-09-28T12:39:35+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "All the training data in the world can’t account for every possibility when AI systems interact with people and the environment.",
           "image": null,
           "other_news": true
         },

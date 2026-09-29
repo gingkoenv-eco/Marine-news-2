@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:06:55.285925+00:00",
+  "generated_at": "2026-09-29T18:05:12.465627+00:00",
   "categories": {
     "Politics & Policy": {
       "Polar & Reef Ecosystems & Resilience": [
@@ -200,6 +200,17 @@
           "other_news": false
         },
         {
+          "title": "Cracking orca dialects: New tool catalogues killer whale calls",
+          "link": "https://oceanographicmagazine.com/news/cracking-orca-dialects-new-tool-catalogues-killer-whale-calls/",
+          "published": "2026-09-29T14:17:30+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new open-access Orca Call Catalogue from Simon Fraser University lets researchers identify killer whale ecotypes, clans and pods by their unique voc",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Study points to new subspecies of humpback whale in Arabian Sea",
           "link": "https://oceanographicmagazine.com/news/study-points-to-new-species-of-humpback-whale-in-arabian-sea/",
           "published": "2026-09-29T13:15:45+00:00",
@@ -229,17 +240,6 @@
           "type": "news",
           "language": "en",
           "summary": "Scientists have pinpointed, for the first time, when Ningaloo Reef's key Porites corals spawn - a discovery that will help track climate impacts and g",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Meet the hairy-legged, red-eyed sea spiders new to science",
-          "link": "https://oceanographicmagazine.com/news/meet-the-hairy-legged-red-eyed-sea-spiders-new-to-science/",
-          "published": "2026-09-23T15:44:28+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "University of British Columbia researchers have discovered two new sea spider species in the Salish Sea - the first described there in nearly a centur",
           "image": null,
           "other_news": false
         },
@@ -274,17 +274,6 @@
           "language": "en",
           "summary": "SINGAPORE — “For seven thousand years, Singapore has changed around these reefs,” says Debby Ng, a Singaporean biologist who studies the city-state’s",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/28012336/aa.-Bluespotted-ribbontail-ray-Pulau-Hantu-2017-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Pakistan expands protected habitat for Indus River dolphin as recovery offers hope",
-          "link": "https://news.mongabay.com/2026/09/pakistan-expands-protected-habitat-for-indus-river-dolphin-as-recovery-offers-hope/",
-          "published": "2026-09-24T21:28:29+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Between 11 million and 16 million years ago, during the high sea levels of the middle Miocene period, the ancestors of the Indus River dolphin entered",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/24130618/%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%A7_%D9%82%D9%88%D9%85%DB%8C_%D8%A2%D8%A8%DB%8C_%D8%B3%D9%85%D9%86%D8%AF%D8%B1%DB%8C_%D9%85%D9%85%D8%A7%D9%84%DB%8C%DB%81-768x512.jpg",
           "other_news": false
         }
       ],
@@ -659,6 +648,28 @@
           "summary": "Our ocean has absorbed more than 90% of excess heat caused by human-driven climate change and a quarter of the carbon dioxide we emit. In simple terms",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "Hurricane Polo makes landfall in Baja California, flooding coastal communities and toppling trees",
+          "link": "https://news.mongabay.com/short-article/2026/09/hurricane-polo-makes-landfall-in-baja-california-flooding-coastal-communities-and-toppling-trees/",
+          "published": "2026-09-29T17:47:47+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "PUERTO SAN CARLOS, Mexico (AP) — Hurricane Polo has made landfall in Baja California, Mexico, with powerful winds and flash flooding. The Category 2 h",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/29174645/AP26272321204166-768x512.jpg",
+          "other_news": false
+        },
+        {
+          "title": "New global maps chart 40 years of ocean heat and acidification extremes",
+          "link": "https://news.mongabay.com/2026/09/new-global-maps-chart-40-years-of-ocean-heat-and-acidification-extremes/",
+          "published": "2026-09-29T11:22:10+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Between 2014 and 2015, a marine heatwave known as “The Blob” warmed an area of the Pacific Ocean larger than the United States and Mexico combined. Th",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/25101034/a.-BANNER-da65bd48-4b5b-4ca7-9598-ea1df2f84852Original-768x512.jpg",
+          "other_news": false
         }
       ]
     },
@@ -855,6 +866,17 @@
           "other_news": true
         },
         {
+          "title": "En agriculture, peut-on utiliser du cuivre sans nuire à la vie des sols ?",
+          "link": "https://theconversation.com/en-agriculture-peut-on-utiliser-du-cuivre-sans-nuire-a-la-vie-des-sols-287103",
+          "published": "2026-09-29T14:17:25+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Utilisé comme fongicide en agriculture, notamment biologique, le cuivre suscite des inquiétudes quant à sa toxicité sur l’environnement et la santé. Q",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Moustique-tigre : le changement climatique étend le risque de dengue à presque toute la France",
           "link": "https://theconversation.com/moustique-tigre-le-changement-climatique-etend-le-risque-de-dengue-a-presque-toute-la-france-292062",
           "published": "2026-09-22T12:53:11+00:00",
@@ -906,6 +928,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Le changement climatique ne peut que favoriser ce type d’événements, déjà survenus en Europe.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How can the same El Niño cause drought in one part of the world and floods in another?",
+          "link": "https://theconversation.com/how-can-the-same-el-nino-cause-drought-in-one-part-of-the-world-and-floods-in-another-293013",
+          "published": "2026-09-29T14:53:29+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "The climate science behind 2026’s super El Niño.",
           "image": null,
           "other_news": true
         },
@@ -1115,6 +1148,17 @@
           "type": "news",
           "language": "en",
           "summary": "Wildfires currently burning large swathes of land in Indonesia are on track to produce emissions on a par with the&#8230;\nThe post El Niño: Indonesia",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Brazil confident new rainforest fund will reach $10bn donor milestone",
+          "link": "https://www.climatechangenews.com/2026/09/29/brazil-confident-new-rainforest-fund-tfff-10bn-fund-finance/",
+          "published": "2026-09-29T15:22:03+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Brazil's environment minister João Paulo Capobianco said their new rainforest fund proposal has raised billions in record time, which he hopes will co",
           "image": null,
           "other_news": true
         },
@@ -1350,18 +1394,7 @@
           "other_news": true
         },
         {
-          "title": "Loss and damage fund urged to hold crisis meeting on Nepal",
-          "link": "https://www.climatechangenews.com/2026/09/02/loss-and-damage-fund-urged-to-hold-crisis-meeting-on-nepal/",
-          "published": "2026-09-02T16:53:55+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The new fund is coming under pressure from developing nations to respond quickly to climate disasters rather than just financing longer-term projects",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "« La solitude contemporaine est le résultat de choix de politiques publiques »",
+          "title": "« La solitude est le résultat de choix de politiques publiques »",
           "link": "https://reporterre.net/La-solitude-contemporaine-est-le-resultat-de-choix-de-politiques-publiques",
           "published": "2026-09-29T07:23:18+00:00",
           "source": "Reporterre",
@@ -1515,17 +1548,6 @@
           "other_news": true
         },
         {
-          "title": "« Pourquoi tous ces enfants tombent-ils malades ? » : à La Rochelle, des citoyens mobilisés face aux cancers pédiatriques",
-          "link": "https://reporterre.net/Pourquoi-tous-ces-enfants-tombent-ils-malades-a-La-Rochelle-des-citoyens-mobilises-face",
-          "published": "2026-09-21T07:31:28+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "L'association Avenir Santé Environnement a manifesté le 19 septembre à La Rochelle contre les cancers pédiatriques, nombreux dan",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH465/appel_de_la_rochelle_credit_amelia_blanchot_photo_1-70d3a.jpg?1789975891",
-          "other_news": true
-        },
-        {
           "title": "Wild animals are our climate allies, peer-reviewed study reaffirms",
           "link": "https://oceanographicmagazine.com/news/wild-animals-are-our-climate-allies-peer-reviewed-study-reaffirms/",
           "published": "2026-09-25T13:48:39+00:00",
@@ -1534,6 +1556,17 @@
           "language": "en",
           "summary": "A new peer-reviewed article in Global Change Biology backs the Scientific Consensus on Wildlife and Climate, showing how animals like dugongs and tige",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Climat : la Ville de Paris concrétise le « bricolage » pour adapter les écoles en urgence",
+          "link": "https://www.lemonde.fr/politique/article/2026/09/29/climat-la-ville-de-paris-concretise-le-bricolage-pour-adapter-les-ecoles-en-urgence_6785668_823448.html",
+          "published": "2026-09-29T18:45:04+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Lors d’une conférence de presse, le maire Emmanuel Grégoire a précisé les travaux déjà effectués et les réalisations à venir dans un futur proche, pou",
+          "image": "https://img.lemde.fr/2026/07/13/1029/0/8092/4046/644/322/60/0/634d5da_upload-1-zihw6q3nexg4-kew2026013g0703-1014526.jpg",
           "other_news": true
         },
         {
@@ -1567,17 +1600,6 @@
           "language": "fr",
           "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Colomieu, vi",
           "image": "https://img.lemde.fr/2026/09/22/307/0/6048/3024/644/322/60/0/28a5769_upload-1-k63m6ds0d8d2-27-reportage-hydrologie-lemonde-colomieu-29052026-bastien-doudaine-830.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Anthony Viaux, ancien pilote : « Concernant les jets privés, l’Europe doit aller au bout du principe pollueur-payeur »",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/27/anthony-viaux-ancien-pilote-sur-les-jets-prives-l-europe-doit-aller-au-bout-du-principe-pollueur-payeur_6784411_3232.html",
-          "published": "2026-09-27T17:00:01+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Si la décision de la Commission européenne d’intégrer l’aviation d’affaires au marché carbone européen met fin à une exonération injustifiée, l’ancien",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/40f42a0_upload-1-xucrl77vxstt-frame-844.jpg",
           "other_news": true
         },
         {
@@ -1621,17 +1643,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Mettre un grand coup de pagaie dans la fourmilière : tel est l’objectif de Léa Navarro. Cette militante écologiste est embarquée jusqu’au 3 octobre da",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "À cause de la venue du pape, la marche climat du 26 septembre remplacée par un rassemblement statique à Paris",
-          "link": "https://vert.eco/rapports-de-force/a-cause-de-la-venue-du-pape-la-marche-climat-du-26-septembre-remplacee-par-un-rassemblement-statique-a-paris/",
-          "published": "2026-09-23T13:52:07+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "La déambulation pour le climat prévue samedi à Paris n'aura pas lieu. La préfecture, mobilisée par la venue du pape, n'a autorisé qu'un rassemblement",
           "image": null,
           "other_news": true
         },

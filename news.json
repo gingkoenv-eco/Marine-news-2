@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:36:26.692191+00:00",
+  "generated_at": "2026-09-30T13:49:25.720473+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -316,17 +316,6 @@
           "other_news": false
         },
         {
-          "title": "Satellite images show how penguins’ diets are changing in response to Antarctic climate change",
-          "link": "https://theconversation.com/satellite-images-show-how-penguins-diets-are-changing-in-response-to-antarctic-climate-change-289754",
-          "published": "2026-09-03T12:12:24+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "When penguin colonies are surrounded by sea ice, the penguins tend to eat more fish, rather than krill. And colonies that eat more fish are more succe",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
           "link": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
           "published": "2026-09-25T12:45:39+00:00",
@@ -516,6 +505,28 @@
           "other_news": false
         },
         {
+          "title": "Antarctica’s ice loss is locked in, and extra snowfall won’t save it – that’s bad news for low-lying coastal areas elsewhere",
+          "link": "https://theconversation.com/antarcticas-ice-loss-is-locked-in-and-extra-snowfall-wont-save-it-thats-bad-news-for-low-lying-coastal-areas-elsewhere-293066",
+          "published": "2026-09-30T12:47:28+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "The Antarctic ice sheet’s future depends how a chain of events plays out. A new study finds the evidence points in one direction.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Why the nor'easter’s storm surge was so high, and what it says about the El Niño winter ahead",
+          "link": "https://theconversation.com/why-the-noreasters-storm-surge-was-so-high-and-what-it-says-about-the-el-nino-winter-ahead-293082",
+          "published": "2026-09-30T12:44:28+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "Several factors make for high water levels, and they conspired to worsen the storm surge that flooded coastal areas from North Carolina to New York.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "How heat on the Tibetan Plateau fuels powerful storms in California, half a world away",
           "link": "https://theconversation.com/how-heat-on-the-tibetan-plateau-fuels-powerful-storms-in-california-half-a-world-away-291438",
           "published": "2026-09-10T16:15:09+00:00",
@@ -612,6 +623,17 @@
           "language": "en",
           "summary": "Ocean leaders including Sylvia Earle and Benedict Cumberbatch have launched a global boycott of Antarctic krill products, pressuring Norway and other",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Baisser la TVA sur les carburants : la proposition de Marine Le Pen est-elle réaliste ?",
+          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/30/baisser-la-tva-sur-les-carburants-la-proposition-de-marine-le-pen-est-elle-realiste_6786069_4355770.html",
+          "published": "2026-09-30T15:00:08+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Illégale, chère, non ciblée, anti-écolo… Passage en revue des principales critiques à propos de la promesse phare du Rassemblement national pour faire",
+          "image": "https://img.lemde.fr/2026/09/29/666/0/8000/4000/644/322/60/0/5d9e476_upload-1-zvcwrb5n5m8o-jmug260928019.jpg",
           "other_news": false
         },
         {
@@ -1038,6 +1060,17 @@
           "other_news": true
         },
         {
+          "title": "Criminal conspiracy to steal used cooking oil shows how trash can become treasure",
+          "link": "https://theconversation.com/criminal-conspiracy-to-steal-used-cooking-oil-shows-how-trash-can-become-treasure-292653",
+          "published": "2026-09-30T12:44:19+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "No longer viewed only as waste, used cooking oil is a common ingredient in biofuels.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Nepal isn’t the only disaster-struck country waiting for money from the global climate Loss and Damage Fund",
           "link": "https://theconversation.com/nepal-isnt-the-only-disaster-struck-country-waiting-for-money-from-the-global-climate-loss-and-damage-fund-291264",
           "published": "2026-09-18T12:39:03+00:00",
@@ -1045,28 +1078,6 @@
           "type": "news",
           "language": "en",
           "summary": "At least 119 countries have asked for aid from the fund set by major greenhouse gas emitting nations four years before the deadly Nepal flood. It has",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Farmer-poet Wendell Berry’s environmental ethics were deeply rooted in his Christian faith and belief in caring for creation",
-          "link": "https://theconversation.com/farmer-poet-wendell-berrys-environmental-ethics-were-deeply-rooted-in-his-christian-faith-and-belief-in-caring-for-creation-291025",
-          "published": "2026-09-04T12:29:05+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Berry’s belief that humans have a responsibility to care for God’s creation traces back to the Book of Genesis. So does an opposing argument for envir",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Hiking canyons can be dangerous when storms hit – what you need to know to stay safe",
-          "link": "https://theconversation.com/hiking-canyons-can-be-dangerous-when-storms-hit-what-you-need-to-know-to-stay-safe-291122",
-          "published": "2026-09-03T18:50:48+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "After the deadly Grand Canyon flood, a geologist and avid hiker explains what nature lovers need to prepare and watch for to stay safe.",
           "image": null,
           "other_news": true
         },
@@ -1379,6 +1390,17 @@
           "other_news": true
         },
         {
+          "title": "Face aux plans sociaux, les salariés des énergies renouvelables de nouveau dans la rue",
+          "link": "https://reporterre.net/Face-aux-plans-sociaux-les-salaries-des-energies-renouvelables-de-nouveau-dans-la-rue",
+          "published": "2026-09-30T13:07:12+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "20 % d'effectifs en moins à Voltalia, 73 postes supprimés à Valorem... Alors que les plans sociaux se multiplient dans le secteu",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/pxl_20260929_104102202_portrait_1_-3ea09.jpg?1790773659",
+          "other_news": true
+        },
+        {
           "title": "D'ici 2030, l'impact environnemental de l'IA pourrait être multiplié par 7",
           "link": "https://reporterre.net/D-ici-2030-l-impact-environnemental-de-l-IA-pourrait-etre-multiplie-par-7",
           "published": "2026-09-30T10:05:00+00:00",
@@ -1621,17 +1643,6 @@
           "other_news": true
         },
         {
-          "title": "« On avance » : comment on a réduit le risque d’inondations et de sécheresse dans notre village",
-          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/09/29/comment-on-a-reduit-le-risque-d-inondations-et-de-secheresse-dans-notre-village_6785516_6125299.html",
-          "published": "2026-09-29T06:00:05+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Colomieu, vi",
-          "image": "https://img.lemde.fr/2026/09/22/307/0/6048/3024/644/322/60/0/28a5769_upload-1-k63m6ds0d8d2-27-reportage-hydrologie-lemonde-colomieu-29052026-bastien-doudaine-830.jpg",
-          "other_news": true
-        },
-        {
           "title": "Au Brésil, les femmes autochtones à la conquête du pouvoir : «La violence politique est extrêmement forte»",
           "link": "https://vert.eco/international/au-bresil-les-femmes-autochtones-a-la-conquete-du-pouvoir-la-violence-politique-est-extremement-forte/",
           "published": "2026-09-30T04:00:00+00:00",
@@ -1705,17 +1716,6 @@
           "type": "news",
           "language": "en",
           "summary": "Papua New Guinea’s frost disaster suggests heat and drought aren’t the only symptoms of a changing climate.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Why Trump’s plan to cut Head Start regulations could undermine services for the country’s poorest families",
-          "link": "https://theconversation.com/why-trumps-plan-to-cut-head-start-regulations-could-undermine-services-for-the-countrys-poorest-families-289845",
-          "published": "2026-09-29T12:45:10+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "There is research showing that there are numerous benefits for a low-income child to attend a Head Start program, though these effects are less clear",
           "image": null,
           "other_news": true
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:49:25.720473+00:00",
+  "generated_at": "2026-09-30T17:59:53.755131+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -33,17 +33,6 @@
           "type": "news",
           "language": "en",
           "summary": "Von der Leyen and Carney have launched the OceanEye International Alliance, with over 30 countries pledging €211 million to strengthen global ocean ob",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "100 countries in: High Seas Treaty nears universal ratification",
-          "link": "https://oceanographicmagazine.com/news/100-countries-in-high-seas-treaty-nears-universal-ratification/",
-          "published": "2026-09-24T14:09:08+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The High Seas Treaty has reached 100 ratifications, with Germany, Canada, Australia and others joining ahead of COP1 in January 2027 - a shift from ne",
           "image": null,
           "other_news": false
         }
@@ -252,6 +241,17 @@
           "language": "en",
           "summary": "Federal agencies told to prioritize recreational fishing and to reconsider scientific standards as well as regulationsDonald Trump’s latest fishing or",
           "image": "https://i.guim.co.uk/img/media/f8af944ce62f7aa2ef395db74a4348765e6746fb/330_0_3340_2672/master/3340.jpg?width=140&quality=85&auto=format&fit=max&s=2a2c9f94b1c2ae575cf57c36bdcbfbb9",
+          "other_news": false
+        },
+        {
+          "title": "Europe’s mackerel fishery faces severe threat despite slight rebound",
+          "link": "https://oceanographicmagazine.com/news/europes-mackerel-fishery-faces-severe-threat-despite-slight-rebound/",
+          "published": "2026-09-30T16:02:26+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "With mackerel populations down 72% since 2016, experts warn coastal nations must follow scientific advice and reduce catch limits to avoid stock colla",
+          "image": null,
           "other_news": false
         },
         {
@@ -494,17 +494,6 @@
           "other_news": false
         },
         {
-          "title": "North Sea drilling is a distraction: low-carbon transition hinges on prioritising people and jobs",
-          "link": "https://theconversation.com/north-sea-drilling-is-a-distraction-low-carbon-transition-hinges-on-prioritising-people-and-jobs-290771",
-          "published": "2026-09-14T15:29:17+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Industrial renewal coupled with social reforms could support a green transition away from carbon-intensive industries while narrowing social inequalit",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Antarctica’s ice loss is locked in, and extra snowfall won’t save it – that’s bad news for low-lying coastal areas elsewhere",
           "link": "https://theconversation.com/antarcticas-ice-loss-is-locked-in-and-extra-snowfall-wont-save-it-thats-bad-news-for-low-lying-coastal-areas-elsewhere-293066",
           "published": "2026-09-30T12:47:28+00:00",
@@ -604,6 +593,17 @@
           "other_news": false
         },
         {
+          "title": "L'océan se réchauffe : Copernicus lance « son avertissement le plus sévère à ce jour »",
+          "link": "https://reporterre.net/L-ocean-se-rechauffe-Copernicus-lance-son-avertissement-le-plus-severe-a-ce-jour",
+          "published": "2026-09-30T14:40:02+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Encore et encore, les alertes se multiplient et la situation planétaire empire de manière catastrophique. Le programme européen",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/francesco-ungaro-mj1q7hhegla-unsplash_1_-70c92.jpg?1790779205",
+          "other_news": false
+        },
+        {
           "title": "« Une logique de prédation mondialisée » : les navires de pêche de plus de 33 mètres dans le viseur des ONG",
           "link": "https://reporterre.net/Meganavires-de-peche-et-si-on-demantelait-ceux-qui-detruisent-plus-qu-ils-ne-nourrissent",
           "published": "2026-09-29T08:20:13+00:00",
@@ -615,13 +615,13 @@
           "other_news": false
         },
         {
-          "title": "Southern ocean krill oil boycott backed by Benedict Cumberbatch",
-          "link": "https://oceanographicmagazine.com/news/southern-ocean-krill-oil-boycott-backed-by-benedict-cumberbatch/",
-          "published": "2026-09-24T13:40:44+00:00",
+          "title": "“Transforming before our eyes”: ocean absorbing record heat",
+          "link": "https://oceanographicmagazine.com/news/transforming-before-our-eyes-ocean-absorbing-record-heat/",
+          "published": "2026-09-30T15:56:56+00:00",
           "source": "Oceanographic",
           "type": "news",
           "language": "en",
-          "summary": "Ocean leaders including Sylvia Earle and Benedict Cumberbatch have launched a global boycott of Antarctic krill products, pressuring Norway and other",
+          "summary": "From accelerating sea-level rise to rising acidity and shifting phytoplankton, a new report reveals the scale of change already underway in the world'",
           "image": null,
           "other_news": false
         },
@@ -645,6 +645,17 @@
           "language": "fr",
           "summary": "Alors qu’un phénomène El Niño d’ampleur s’installe dans le Pacifique, l’océan mondial subit les effets du réchauffement climatique. Le rythme de la mo",
           "image": "https://img.lemde.fr/2026/09/28/431/0/3445/1722/644/322/60/0/dea1314_upload-1-skdzon4qegzs-000-c6xc6zq.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Un «costard en kevlar» : l’affaire Bardella révèle le visage du fascisme et l’honneur du journalisme",
+          "link": "https://vert.eco/chaleurs-actuelles/un-costard-en-kevlar-laffaire-bardella-revele-le-visage-du-fascisme-et-lhonneur-du-journalisme/",
+          "published": "2026-09-30T15:11:09+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Après les révélations de Mediapart sur les propos antisémites attribués à Jordan Bardella, Marine Le Pen a volé au secours du président du RN… tout en",
+          "image": null,
           "other_news": false
         },
         {
@@ -928,17 +939,6 @@
           "other_news": true
         },
         {
-          "title": "Un chasseur qui ne chasse plus : portrait d’un policier de l’environnement",
-          "link": "https://theconversation.com/un-chasseur-qui-ne-chasse-plus-portrait-dun-policier-de-lenvironnement-291305",
-          "published": "2026-09-09T14:11:26+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Avec la fusion, en 2020, de l’Office national de la chasse et de la faune sauvage et de l’Agence française pour la biodiversité, d’anciens gardes-chas",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "How can the same El Niño cause drought in one part of the world and floods in another?",
           "link": "https://theconversation.com/how-can-the-same-el-nino-cause-drought-in-one-part-of-the-world-and-floods-in-another-293013",
           "published": "2026-09-29T14:53:29+00:00",
@@ -1049,17 +1049,6 @@
           "other_news": true
         },
         {
-          "title": "How to build climate-resilient transport systems",
-          "link": "https://theconversation.com/how-to-build-climate-resilient-transport-systems-290089",
-          "published": "2026-09-14T09:25:43+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Our transport infrastructure and logistics supply chains were built for a stable environmental and energy baseline that no longer exists.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Criminal conspiracy to steal used cooking oil shows how trash can become treasure",
           "link": "https://theconversation.com/criminal-conspiracy-to-steal-used-cooking-oil-shows-how-trash-can-become-treasure-292653",
           "published": "2026-09-30T12:44:19+00:00",
@@ -1078,6 +1067,17 @@
           "type": "news",
           "language": "en",
           "summary": "At least 119 countries have asked for aid from the fund set by major greenhouse gas emitting nations four years before the deadly Nepal flood. It has",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Analysis: Wind and solar save UK from gas imports worth £5.9bn during Hormuz crisis",
+          "link": "https://www.carbonbrief.org/analysis-wind-and-solar-save-uk-from-gas-imports-worth-5-9bn-during-hormuz-crisis",
+          "published": "2026-09-30T14:12:01+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "The UK has avoided the need for gas imports worth £5.9bn since the start of the Hormuz crisis as a&#8230;\nThe post Analysis: Wind and solar save UK fr",
           "image": null,
           "other_news": true
         },
@@ -1133,17 +1133,6 @@
           "type": "news",
           "language": "en",
           "summary": "Aviation is on track to be responsible for 80% of the UK’s carbon dioxide (CO2) emissions by 2050, according to&#8230;\nThe post CCC: Heathrow expansio",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century",
-          "link": "https://www.carbonbrief.org/el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century",
-          "published": "2026-09-11T14:06:49+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Wildfires currently burning large swathes of land in Indonesia are on track to produce emissions on a par with the&#8230;\nThe post El Niño: Indonesia",
           "image": null,
           "other_news": true
         },
@@ -1390,7 +1379,7 @@
           "other_news": true
         },
         {
-          "title": "Face aux plans sociaux, les salariés des énergies renouvelables de nouveau dans la rue",
+          "title": "Les renouvelables « désignées comme un ennemi économique » : face aux suppressions de postes, les salariés se mobilisent",
           "link": "https://reporterre.net/Face-aux-plans-sociaux-les-salaries-des-energies-renouvelables-de-nouveau-dans-la-rue",
           "published": "2026-09-30T13:07:12+00:00",
           "source": "Reporterre",
@@ -1409,17 +1398,6 @@
           "language": "fr",
           "summary": "L'intelligence artificielle (IA) se développe à un rythme fulgurant et insoutenable pour la planète. Rien qu'entre 2025 et 2030,",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/33231397631_b1e7542e05_o_resized-1ff8c.jpg?1790762704",
-          "other_news": true
-        },
-        {
-          "title": "« Un manque de courage politique » : des mairies de droite abandonnent la rénovation thermique des écoles",
-          "link": "https://reporterre.net/C-est-irresponsable-plusieurs-mairies-de-droite-suspendent-la-renovation-thermique-des",
-          "published": "2026-09-30T09:05:13+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le maire LR de Besançon a remis en question le dispositif de rénovation des écoles lancé par les Écologistes sortants. Des paren",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260902__hl_nguyonnet_3273981__v1__highres__franceeducationschoolbacktoschooli-af40b.jpg?1790759114",
           "other_news": true
         },
         {
@@ -1566,6 +1544,17 @@
           "other_news": true
         },
         {
+          "title": "Traquer les fuites de méthane pour freiner le réchauffement climatique : le projet de règlement européen fragilisé par le revirement de la France",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/30/traquer-les-fuites-de-methane-pour-freiner-le-rechauffement-climatique-le-projet-de-reglement-europeen-fragilise-par-le-revirement-de-la-france_6786099_3244.html",
+          "published": "2026-09-30T18:02:53+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors qu’il affirmait vouloir réduire les émissions de méthane liées au secteur des énergies fossiles, Emmanuel Macron a finalement plaidé pour report",
+          "image": "https://img.lemde.fr/2026/09/30/422/0/5072/2536/644/322/60/0/0b848d4_upload-1-nnp0xvppbz2u-000-628t79d.jpg",
+          "other_news": true
+        },
+        {
           "title": "L’IA émettra six fois plus de CO₂ en 2030 qu’en 2025, selon l’étude d’un collectif d’experts",
           "link": "https://www.lemonde.fr/pixels/article/2026/09/30/l-ia-emettra-six-fois-plus-de-co-en-2030-qu-en-2025-selon-l-etude-d-un-collectif-d-experts_6786040_4408996.html",
           "published": "2026-09-30T12:00:07+02:00",
@@ -1577,13 +1566,13 @@
           "other_news": true
         },
         {
-          "title": "Adaptation de la France au changement climatique : le plan du ministère de la transition écologique soumis à l’arbitrage budgétaire de Matignon",
+          "title": "Le plan d’adaptation du ministère de la transition écologique soumis à l’arbitrage budgétaire de Matignon",
           "link": "https://www.lemonde.fr/planete/article/2026/09/30/adaptation-de-la-france-au-changement-climatique-le-plan-du-ministere-de-la-transition-ecologique-soumis-a-l-arbitrage-budgetaire-de-matignon_6786022_3244.html",
           "published": "2026-09-30T10:00:01+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "La ministre de la transition écologique, Monique Barbut, doit remettre le 30 septembre au premier ministre, Sébastien Lecornu, une feuille de route vi",
+          "summary": "Une feuille de route visant à accélérer la mise en œuvre du plan national d’adaptation au changement climatique devait être présentée mercredi au prem",
           "image": "https://img.lemde.fr/2026/09/16/118/0/3481/1740/644/322/60/0/748a9af_ftp-1-fxvliy7ngsfk-2026-09-16t174000z-748406054-rc2dgnarumx5-rtrmadp-3-france-politics-fuel.JPG",
           "other_news": true
         },
@@ -1610,17 +1599,6 @@
           "other_news": true
         },
         {
-          "title": "Climat : la Ville de Paris concrétise le « bricolage » pour adapter les écoles en urgence",
-          "link": "https://www.lemonde.fr/politique/article/2026/09/29/climat-la-ville-de-paris-concretise-le-bricolage-pour-adapter-les-ecoles-en-urgence_6785668_823448.html",
-          "published": "2026-09-29T18:45:02+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Lors d’une conférence de presse, le maire Emmanuel Grégoire a précisé les travaux déjà effectués et les réalisations à venir dans un futur proche, pou",
-          "image": "https://img.lemde.fr/2026/07/13/1029/0/8092/4046/644/322/60/0/634d5da_upload-1-zihw6q3nexg4-kew2026013g0703-1014526.jpg",
-          "other_news": true
-        },
-        {
           "title": "Concilier transition écologique et libéralisme politique, un défi majeur à l’ère du réchauffement climatique",
           "link": "https://www.lemonde.fr/idees/article/2026/09/29/concilier-transition-ecologique-et-liberalisme-politique-un-defi-majeur-a-l-ere-du-rechauffement-climatique_6785595_3232.html",
           "published": "2026-09-29T12:15:04+02:00",
@@ -1629,17 +1607,6 @@
           "language": "fr",
           "summary": "Dans son nouvel essai, « La Liberté des limites », la chercheuse Lauriane Mouysset se livre à un plaidoyer en faveur d’un « écolibéralisme citoyen ».",
           "image": "https://img.lemde.fr/2026/09/25/160/0/1920/960/644/322/60/0/82eaefb_upload-1-diyn4zbmc6ca-liberte-des-limites.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Présidentielle 2027 : les candidats disent-ils la vérité sur le climat ?",
-          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/29/presidentielle-2027-les-candidats-disent-ils-la-verite-sur-le-climat_6785555_4355770.html",
-          "published": "2026-09-29T06:30:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Entre été caniculaire et horizon électoral, de nombreuses figures politiques se sont exprimées ces dernières semaines sur l’environnement. Avec un rap",
-          "image": "https://img.lemde.fr/2026/09/25/127/0/1500/750/644/322/60/0/0b04072_upload-1-puhuw1y0zzdw-verif-decla-ecolo.jpg",
           "other_news": true
         },
         {
@@ -1698,25 +1665,25 @@
           "other_news": true
         },
         {
-          "title": "Here are five of Australia’s top library influencers. One is a 72-year-old rare books librarian",
-          "link": "https://theconversation.com/here-are-five-of-australias-top-library-influencers-one-is-a-72-year-old-rare-books-librarian-291875",
-          "published": "2026-09-29T19:53:34+00:00",
-          "source": "The Conversation",
+          "title": "Illegal wildlife continues to slip through Canada’s borders. Experts explain how",
+          "link": "https://news.mongabay.com/2026/09/illegal-wildlife-continues-to-slip-through-canadas-borders-experts-explain-how/",
+          "published": "2026-09-30T15:13:53+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Libraries are turning to social media to connect with their communities – with brilliant, often hilarious results. On the way, they’ve launched some u",
-          "image": null,
+          "summary": "It is far easier than one might expect to access the illegal wildlife trade in Canada. Chris Shepherd, a senior conservation advocate with the Center",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/30122850/earless-monitor-lizard-768x512.jpg",
           "other_news": true
         },
         {
-          "title": "As El Niño strengthens across the Pacific, Australian farmers could face fierce frosts",
-          "link": "https://theconversation.com/as-el-nino-strengthens-across-the-pacific-australian-farmers-could-face-fierce-frosts-292367",
-          "published": "2026-09-29T19:52:30+00:00",
-          "source": "The Conversation",
+          "title": "Evidence builds showing climate change could be intensifying El Niño events",
+          "link": "https://news.mongabay.com/2026/09/evidence-builds-showing-climate-change-could-be-intensifying-el-nino-events/",
+          "published": "2026-09-30T14:03:46+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Papua New Guinea’s frost disaster suggests heat and drought aren’t the only symptoms of a changing climate.",
-          "image": null,
+          "summary": "As a potentially historic El Niño builds in the Pacific, evidence suggests that climate change is ratcheting up the intensity of such events. And as t",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/30115329/drought-and-humanitarian-crisis-in-Ethiopia-768x512.jpg",
           "other_news": true
         },
         {
@@ -1739,28 +1706,6 @@
           "language": "en",
           "summary": "The Philippines remains the deadliest country in Asia for land and environmental defenders, according to a new report by the non-profit Global Witness",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/28114516/Taganito_Mining_Corp._nickel_ore_conveyor_belts_-_Flickr-1200x800-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "NGOs call on Vantara to end all wild animal imports permanently",
-          "link": "https://news.mongabay.com/2026/09/ngos-call-on-vantara-to-end-all-wild-animal-imports-permanently/",
-          "published": "2026-09-25T18:09:02+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A coalition of 27 global wildlife conservation and animal welfare organizations urged Vantara to permanently end all wild animal imports. The billiona",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/25130359/Vantara-Ambani-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "To tackle environmental crime, track profits through the whole supply chain (commentary)",
-          "link": "https://news.mongabay.com/2026/09/to-tackle-environmental-crime-track-profits-through-the-whole-supply-chain-commentary/",
-          "published": "2026-09-25T18:07:02+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The world has spent a decade trying to put a price on nature. Forests have become carbon sinks, while wetlands are increasingly described as natural i",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/08/08201639/3.-mongabay_Image-by-Ibama-via-Wikimedia-Commons-CC-BY-SA-2.0-768x512.jpg",
           "other_news": true
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:59:53.755131+00:00",
+  "generated_at": "2026-09-30T18:27:43.369865+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -323,6 +323,19 @@
           "type": "news",
           "language": "en",
           "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.&#8230;\nThe post ‘Co",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Species Migration & Habitat Change": [
+        {
+          "title": "DreamWorks’ Forgotten Island is a joyous, painful love letter to the Filipino diaspora",
+          "link": "https://theconversation.com/dreamworks-forgotten-island-is-a-joyous-painful-love-letter-to-the-filipino-diaspora-293200",
+          "published": "2026-09-30T18:01:09+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The first major Hollywood animation centred on Filipino culture speaks to the experience of migration that has become so deeply embedded in Philippine",
           "image": null,
           "other_news": false
         }
@@ -659,17 +672,6 @@
           "other_news": false
         },
         {
-          "title": "Tragedy stopped Mawson exploring this remote Antarctic region. We must get there to study its melting ice",
-          "link": "https://theconversation.com/tragedy-stopped-mawson-exploring-this-remote-antarctic-region-we-must-get-there-to-study-its-melting-ice-291165",
-          "published": "2026-09-29T23:00:47+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "If all the ice in the Wilkes Subglacial Basin melted, it would raise global sea levels 3 to 4 metres. It happened before – at temperatures we’re headi",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "The Mysteries of the Mariana Trench",
           "link": "https://oceanconservancy.org/blog/2026/09/24/mysteries-mariana-trench/",
           "published": "2026-09-24T21:05:01+00:00",
@@ -811,6 +813,17 @@
           "language": "en",
           "summary": "The tiny gardens beneath street trees can boost biodiversity and our connection to where we live.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Philippine eagle habitat study maps mining risks and conservation priorities",
+          "link": "https://news.mongabay.com/2026/09/philippine-eagle-habitat-study-maps-mining-risks-and-conservation-priorities/",
+          "published": "2026-09-30T18:18:27+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A new study mapping the likely nesting habitats of the iconic Philippine eagle in its main stronghold warns that the threat of habitat loss — a key dr",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/30154948/05_Philippine-eagle-of-Barangay-Cabuaya-Mati-City-768x512.jpg",
           "other_news": true
         }
       ],
@@ -1650,6 +1663,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Samedi, des manifestant·es se sont rassemblé·es dans plus de 260 villes de France à l’appel du mouvement citoyen pour le climat, le vivant et la justi",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Written as a single sentence, Adam Ouston’s Mine is a novel under the influence",
+          "link": "https://theconversation.com/written-as-a-single-sentence-adam-oustons-mine-is-a-novel-under-the-influence-281227",
+          "published": "2026-09-30T18:01:25+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "In Mine, Adam Ouston reveals the contradictions between Tasmania’s conception of itself and its history of human and environmental devastation.",
           "image": null,
           "other_news": true
         },

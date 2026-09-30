@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-09-30T05:01:06.949351+00:00",
+  "generated_at": "2026-09-30T12:36:26.692191+00:00",
   "categories": {
     "Politics & Policy": {
-      "Polar & Reef Ecosystems & Resilience": [
-        {
-          "title": "Why Europe wants to boost its Arctic presence",
-          "link": "https://theconversation.com/why-europe-wants-to-boost-its-arctic-presence-292075",
-          "published": "2026-09-29T08:26:30+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "EU leaders are scrambling to increase the bloc’s presence in the Arctic.",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Other Marine News": [
         {
           "title": "UK to join EU ocean science scheme to better predict extreme weather events",
@@ -57,17 +44,6 @@
           "type": "news",
           "language": "en",
           "summary": "The High Seas Treaty has reached 100 ratifications, with Germany, Canada, Australia and others joining ahead of COP1 in January 2027 - a shift from ne",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "The Mecca alliance meets the Red Sea – Saudi Arabia’s new defense pact faces its first major test",
-          "link": "https://theconversation.com/the-mecca-alliance-meets-the-red-sea-saudi-arabias-new-defense-pact-faces-its-first-major-test-292975",
-          "published": "2026-09-29T12:42:58+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The pact with Turkey and Pakistan has evolved quickly from a vague political commitment. Riyadh hopes it will help it navigate a thorny Middle East cr",
           "image": null,
           "other_news": false
         }
@@ -364,6 +340,39 @@
       ],
       "Other Marine News": [
         {
+          "title": "California rushes to prepare for massive ‘Kelvin’ wave and predicted sea level rise",
+          "link": "https://www.theguardian.com/us-news/2026/sep/30/california-kelvin-wave-sea-level-rise",
+          "published": "2026-09-30T11:00:39+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Wave nearing southern California expected to reach San Francisco Bay Area by October as it crawls toward AlaskaCommunities across California are rushi",
+          "image": "https://i.guim.co.uk/img/media/3012a692470bc55fb6169ac325755d5b8fa99adf/308_0_3075_2460/master/3075.jpg?width=140&quality=85&auto=format&fit=max&s=923144f54f0513f8a8305757d27d40d6",
+          "other_news": false
+        },
+        {
+          "title": "‘Beyond priceless’: how a halt to dredging saved the seas of Scotland’s Summer Isles",
+          "link": "https://www.theguardian.com/environment/2026/sep/30/beyond-priceless-how-a-halt-to-dredging-saved-the-seas-of-scotlands-summer-isles",
+          "published": "2026-09-30T10:00:22+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Fish and shellfish populations were falling rapidly as scallop dredgers devastated the seabed, but local activists and small-scale fishers battled har",
+          "image": "https://i.guim.co.uk/img/media/5d922620ec925ee3e6e3972c09aadf5a0c9162c1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f302e4613e5ddf4cb637912dd2f1ac9d",
+          "other_news": false
+        },
+        {
+          "title": "World’s oceans absorbed record heat equal to 40 times annual global energy use",
+          "link": "https://www.theguardian.com/environment/2026/sep/30/worlds-seas-warmed-23-zettajoules-2025",
+          "published": "2026-09-30T06:00:13+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The injection of thermal energy comes amid an increasing rise in sea levels and continuing acidificationA record-breaking 23 zettajoules of heat was s",
+          "image": "https://i.guim.co.uk/img/media/2bdc72b5bc11ccf5d1859f17fd5d425d21944b92/1093_0_5466_4373/master/5466.jpg?width=140&quality=85&auto=format&fit=max&s=bb495ba2af8b9dd353841ce4469bc6ab",
+          "other_news": false
+        },
+        {
           "title": "Concern mounts over slow-moving, planetary-scale ‘Kelvin’ wave heading for California",
           "link": "https://www.theguardian.com/us-news/2026/sep/28/california-kelvin-wave",
           "published": "2026-09-28T11:00:33+00:00",
@@ -606,14 +615,14 @@
           "other_news": false
         },
         {
-          "title": "A Aberdeen, en Ecosse, le lent crépuscule des hydrocarbures de la mer du Nord",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/29/a-aberdeen-en-ecosse-le-lent-crepuscule-des-hydrocarbures-de-la-mer-du-nord_6785444_3234.html",
-          "published": "2026-09-29T05:00:01+02:00",
+          "title": "Le réchauffement de l’océan se poursuit « à un rythme alarmant », selon le programme européen Copernicus",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/30/le-rechauffement-de-l-ocean-se-poursuit-a-un-rythme-alarmant-selon-le-programme-europeen-copernicus_6786012_3244.html",
+          "published": "2026-09-30T08:00:06+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "La capitale britannique de l’or noir incarne les débats brûlants du Royaume-Uni sur le rythme de sortie des énergies fossiles. Elle attend avec impati",
-          "image": "https://img.lemde.fr/2026/09/25/310/0/3300/1650/644/322/60/0/ecf6792_upload-1-rxej0sibitxy-020-2268540704.jpg",
+          "summary": "Alors qu’un phénomène El Niño d’ampleur s’installe dans le Pacifique, l’océan mondial subit les effets du réchauffement climatique. Le rythme de la mo",
+          "image": "https://img.lemde.fr/2026/09/28/431/0/3445/1722/644/322/60/0/dea1314_upload-1-skdzon4qegzs-000-c6xc6zq.jpg",
           "other_news": false
         },
         {
@@ -674,19 +683,6 @@
       ]
     },
     "To Watch / Read / Listen": {
-      "Marine Biodiversity & Conservation": [
-        {
-          "title": "Global coral reefs get less time to recover as oceans heat up, report finds",
-          "link": "https://news.mongabay.com/2026/09/global-coral-reefs-get-less-time-to-recover-as-oceans-heat-up-report-finds/",
-          "published": "2026-09-25T15:48:59+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The world’s coral reefs are losing both hard coral cover and, just as critically, the time they need to recover between increasingly frequent marine h",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/25123746/a.-fish-on-reef-24175296337_7fdf5baf6e_o1-768x512.jpg",
-          "other_news": false
-        }
-      ],
       "Species Migration & Habitat Change": [
         {
           "title": "Thousands of sea turtles reach Mexico in yearly migration threatened by climate crisis – video",
@@ -717,14 +713,14 @@
     "Other News": {
       "Plastic & Ocean Pollution": [
         {
-          "title": "Getting river pollution investigated like 'pulling teeth'",
-          "link": "https://www.bbc.co.uk/news/articles/c95y4ejvl655o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-28T05:02:57+00:00",
+          "title": "Young minds develop ideas to tackle climate change",
+          "link": "https://www.bbc.co.uk/news/articles/cv62kpj70585o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-30T09:36:10+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Bristol residents say an oil-like substance has been bubbling up for years and killing wildlife.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a22/live/22c25e60-b5a9-11f1-b1d1-571ed4d7ff2c.jpg",
+          "summary": "Sixteen teenagers take part in a hackathon to devise ways to combat issues such as light pollution.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0535/live/2b154970-bc10-11f1-a524-3125ac41b7f5.jpg",
           "other_news": true
         },
         {
@@ -763,7 +759,7 @@
         {
           "title": "En 2026, la moitié de la population mondiale a été exposée à des niveaux dangereux de pollution à l’ozone",
           "link": "https://www.lemonde.fr/planete/article/2026/09/30/en-2026-la-moitie-de-la-population-mondiale-a-ete-exposee-a-des-niveaux-dangereux-de-pollution-a-l-ozone_6785928_3244.html",
-          "published": "2026-09-30T05:00:28+02:00",
+          "published": "2026-09-30T05:00:19+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -830,17 +826,6 @@
           "language": "en",
           "summary": "The new facility will manufacture parts for offshore wind farms in Scottish waters and for overseas markets.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf9b/live/59e4dbe0-bb29-11f1-bd21-bdf910f2cec6.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Nature spaces 'need to be next to where people live'",
-          "link": "https://www.bbc.co.uk/news/articles/cm1j43rwye77o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-28T05:40:54+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Campaigners are pushing for more wildlife-rich green spaces to be created within urban communities.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd52/live/00331110-ba76-11f1-8d03-cba75b2c1d34.jpg",
           "other_news": true
         },
         {
@@ -928,17 +913,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Avec la fusion, en 2020, de l’Office national de la chasse et de la faune sauvage et de l’Agence française pour la biodiversité, d’anciens gardes-chas",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Les coulées de boues meurtrières du Népal pourraient-elles advenir en France ?",
-          "link": "https://theconversation.com/les-coulees-de-boues-meurtrieres-du-nepal-pourraient-elles-advenir-en-france-291097",
-          "published": "2026-09-08T14:11:02+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le changement climatique ne peut que favoriser ce type d’événements, déjà survenus en Europe.",
           "image": null,
           "other_news": true
         },
@@ -1163,13 +1137,24 @@
           "other_news": true
         },
         {
+          "title": "Nepal’s disaster has laid bare the world’s adaptation accountability gap",
+          "link": "https://www.climatechangenews.com/2026/09/30/nepals-disaster-has-laid-bare-the-worlds-adaptation-accountability-gap/",
+          "published": "2026-09-30T10:27:45+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Knowledge about accelerating climate risks and how to adapt to them has grown over the past two decades - but it hasn't been put into practice fast en",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Brazil confident new rainforest fund will reach $10bn donor milestone",
           "link": "https://www.climatechangenews.com/2026/09/29/brazil-confident-new-rainforest-fund-tfff-10bn-fund-finance/",
           "published": "2026-09-29T15:22:03+00:00",
           "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Brazil's environment minister João Paulo Capobianco said their new rainforest fund proposal has raised billions in record time, which he hopes will co",
+          "summary": "Brazil's environment minister said the Tropical Forest Forever Facility has raised billions in record time - which he hopes will convince more investo",
           "image": null,
           "other_news": true
         },
@@ -1394,14 +1379,25 @@
           "other_news": true
         },
         {
-          "title": "UK’s budget juggling trick with rainforest loan for bus-fare cap needs transparency",
-          "link": "https://www.climatechangenews.com/2026/09/03/uks-budget-juggling-trick-with-rainforest-loan-for-bus-fare-cap-needs-transparency/",
-          "published": "2026-09-03T08:24:14+00:00",
-          "source": "Climate change news",
+          "title": "D'ici 2030, l'impact environnemental de l'IA pourrait être multiplié par 7",
+          "link": "https://reporterre.net/D-ici-2030-l-impact-environnemental-de-l-IA-pourrait-etre-multiplie-par-7",
+          "published": "2026-09-30T10:05:00+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "A recent announcement by Britain’s new government raises questions about the impact on climate aid of swapping grants for loans\nThe post UK&#8217;s bu",
-          "image": null,
+          "language": "fr",
+          "summary": "L'intelligence artificielle (IA) se développe à un rythme fulgurant et insoutenable pour la planète. Rien qu'entre 2025 et 2030,",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/33231397631_b1e7542e05_o_resized-1ff8c.jpg?1790762704",
+          "other_news": true
+        },
+        {
+          "title": "« Un manque de courage politique » : des mairies de droite abandonnent la rénovation thermique des écoles",
+          "link": "https://reporterre.net/C-est-irresponsable-plusieurs-mairies-de-droite-suspendent-la-renovation-thermique-des",
+          "published": "2026-09-30T09:05:13+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le maire LR de Besançon a remis en question le dispositif de rénovation des écoles lancé par les Écologistes sortants. Des paren",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260902__hl_nguyonnet_3273981__v1__highres__franceeducationschoolbacktoschooli-af40b.jpg?1790759114",
           "other_news": true
         },
         {
@@ -1537,28 +1533,6 @@
           "other_news": true
         },
         {
-          "title": "11 chercheurs du Giec épinglés pour leurs liens avec l'Arabie saoudite et le pétrolier Aramco",
-          "link": "https://reporterre.net/11-chercheurs-du-Giec-epingles-pour-leurs-liens-avec-l-Arabie-saoudite-et-le-petrolier",
-          "published": "2026-09-21T14:48:36+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Onze chercheurs participant au groupe 3 du Giec — en charge de l'atténuation du changement climatique — ont des conflits d'intér",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20190802__1j99gg__v1__highres__switzerlandenvironmentclimateagricultureforests_resized-d40c7.jpg?1790002117",
-          "other_news": true
-        },
-        {
-          "title": "L'Autorité de sûreté nucléaire veut requalifier des tonnes d'uranium appauvri en déchets radioactifs",
-          "link": "https://reporterre.net/L-Autorite-de-surete-nucleaire-veut-requalifier-des-tonnes-d-uranium-appauvri-en-dechets",
-          "published": "2026-09-21T14:29:31+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Bientôt plus d'une centaine de tonnes de rebuts radioactifs supplémentaires d'un coup en France ? Dans un avis publié le 16 sept",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/pingpong-3ea3a.jpg?1790000975",
-          "other_news": true
-        },
-        {
           "title": "Wild animals are our climate allies, peer-reviewed study reaffirms",
           "link": "https://oceanographicmagazine.com/news/wild-animals-are-our-climate-allies-peer-reviewed-study-reaffirms/",
           "published": "2026-09-25T13:48:39+00:00",
@@ -1570,9 +1544,31 @@
           "other_news": true
         },
         {
+          "title": "L’IA émettra six fois plus de CO₂ en 2030 qu’en 2025, selon l’étude d’un collectif d’experts",
+          "link": "https://www.lemonde.fr/pixels/article/2026/09/30/l-ia-emettra-six-fois-plus-de-co-en-2030-qu-en-2025-selon-l-etude-d-un-collectif-d-experts_6786040_4408996.html",
+          "published": "2026-09-30T12:00:07+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les émissions globales de gaz à effet de serre du secteur de l’intelligence artificielle pourraient atteindre un niveau inquiétant à la fin de la déce",
+          "image": "https://img.lemde.fr/2026/04/10/737/0/4768/2384/644/322/60/0/ad95f16_ftp-1-uhtjxq1tuvao-2026-04-10t103714z-197820725-rc2w3hawx78o-rtrmadp-3-usa-nuclear-datacenters.JPG",
+          "other_news": true
+        },
+        {
+          "title": "Adaptation de la France au changement climatique : le plan du ministère de la transition écologique soumis à l’arbitrage budgétaire de Matignon",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/30/adaptation-de-la-france-au-changement-climatique-le-plan-du-ministere-de-la-transition-ecologique-soumis-a-l-arbitrage-budgetaire-de-matignon_6786022_3244.html",
+          "published": "2026-09-30T10:00:01+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La ministre de la transition écologique, Monique Barbut, doit remettre le 30 septembre au premier ministre, Sébastien Lecornu, une feuille de route vi",
+          "image": "https://img.lemde.fr/2026/09/16/118/0/3481/1740/644/322/60/0/748a9af_ftp-1-fxvliy7ngsfk-2026-09-16t174000z-748406054-rc2dgnarumx5-rtrmadp-3-france-politics-fuel.JPG",
+          "other_news": true
+        },
+        {
           "title": "Mimi Sheller, sociologue : « L’administration Trump a préféré la mort par les combustibles fossiles à la transition verte »",
           "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/30/mimi-sheller-sociologue-l-administration-trump-a-prefere-la-mort-par-les-combustibles-fossiles-a-la-transition-verte_6785976_6065879.html",
-          "published": "2026-09-30T07:00:10+02:00",
+          "published": "2026-09-30T07:00:05+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1594,7 +1590,7 @@
         {
           "title": "Climat : la Ville de Paris concrétise le « bricolage » pour adapter les écoles en urgence",
           "link": "https://www.lemonde.fr/politique/article/2026/09/29/climat-la-ville-de-paris-concretise-le-bricolage-pour-adapter-les-ecoles-en-urgence_6785668_823448.html",
-          "published": "2026-09-29T18:45:04+02:00",
+          "published": "2026-09-29T18:45:02+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1680,18 +1676,7 @@
           "other_news": true
         },
         {
-          "title": "De Tours à La Rochelle, Léa Navarro vogue pour la science et contre les déchets plastiques : «On a besoin de rêver pour pouvoir lutter»",
-          "link": "https://vert.eco/rapports-de-force/de-tours-a-la-rochelle-lea-navarro-vogue-pour-la-science-et-contre-les-dechets-plastiques-on-a-besoin-de-rever-pour-pouvoir-lutter/",
-          "published": "2026-09-25T04:00:00+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Mettre un grand coup de pagaie dans la fourmilière : tel est l’objectif de Léa Navarro. Cette militante écologiste est embarquée jusqu’au 3 octobre da",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Australian electric car and bus sales soar - but trucks lag far behind",
+          "title": "Australian electric car and bus sales soar – but trucks lag far behind",
           "link": "https://theconversation.com/australian-electric-car-and-bus-sales-soar-but-trucks-lag-far-behind-292995",
           "published": "2026-09-30T02:00:07+00:00",
           "source": "The Conversation",

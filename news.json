@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T18:39:58.477342+00:00",
+  "generated_at": "2026-09-30T05:01:06.949351+00:00",
   "categories": {
     "Politics & Policy": {
       "Polar & Reef Ecosystems & Resilience": [
@@ -121,14 +121,14 @@
           "other_news": false
         },
         {
-          "title": "Eau souillée, poissons intoxiqués… En Haute-Corse, cette mine d’arsenic a fermé il y a 85 ans, mais la pollution demeure",
-          "link": "https://vert.eco/sante-environnement/eau-souillee-poissons-intoxiques-en-haute-corse-cette-mine-darsenic-a-ferme-il-y-a-85-ans-mais-la-pollution-demeure/",
-          "published": "2026-09-24T04:00:00+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Plastic fused to coral rubble raises new concerns for ocean pollution",
+          "link": "https://news.mongabay.com/short-article/2026/09/plastic-fused-to-coral-rubble-raises-new-concerns-for-ocean-pollution/",
+          "published": "2026-09-29T23:41:26+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
-          "language": "fr",
-          "summary": "À Matra (Haute-Corse), l’ancienne exploitation d’arsenic a laissé bien plus que des ruines : sa pollution affecte les cours d’eau et les organismes aq",
-          "image": null,
+          "language": "en",
+          "summary": "From the seafloor to turtle stomachs, scientists are finding plastic everywhere they look for it. Now, researchers in Japan have found plastic thermal",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/29221123/Plastic-coral-pic-e1790725156843-768x512.jpg",
           "other_news": false
         },
         {
@@ -140,17 +140,6 @@
           "language": "en",
           "summary": "Plastic pollution could disrupt the bioluminescent light produced by deep-sea organisms, researchers warn in a letter in the journal Cambridge Prisms:",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/28202536/a.-BANNER-%C2%A9-Marc-Martin-Sola-original-1-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Plastic and rubber litter found in remote submarine canyon off Argentina’s coast",
-          "link": "https://news.mongabay.com/short-article/2026/09/plastic-and-rubber-litter-found-in-remote-submarine-canyon-off-argentinas-coast/",
-          "published": "2026-09-25T10:21:40+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Plastic waste has been found in the most remote places — including, now, a deep-sea canyon off the coast of Argentina, according to a recent study. “T",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/25101854/2Examples-of-marine-litter-Argentina-canyon-768x512.jpg",
           "other_news": false
         }
       ],
@@ -628,6 +617,17 @@
           "other_news": false
         },
         {
+          "title": "Tragedy stopped Mawson exploring this remote Antarctic region. We must get there to study its melting ice",
+          "link": "https://theconversation.com/tragedy-stopped-mawson-exploring-this-remote-antarctic-region-we-must-get-there-to-study-its-melting-ice-291165",
+          "published": "2026-09-29T23:00:47+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "If all the ice in the Wilkes Subglacial Basin melted, it would raise global sea levels 3 to 4 metres. It happened before – at temperatures we’re headi",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "The Mysteries of the Mariana Trench",
           "link": "https://oceanconservancy.org/blog/2026/09/24/mysteries-mariana-trench/",
           "published": "2026-09-24T21:05:01+00:00",
@@ -748,6 +748,28 @@
           "summary": "Decades of pollution at Pittsburgh brownfields left bacteria that evolved to survive it – and maybe help clean up contaminated soil.",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "Vagues de chaleur : la moitié des Européens exposés à un niveau dangereux d'ozone en 2026",
+          "link": "https://reporterre.net/Vagues-de-chaleur-la-moitie-des-Europeens-exposes-a-un-niveau-dangereux-d-ozone-en-2026",
+          "published": "2026-09-30T02:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "C'est une autre conséquence du changement climatique : la pollution de l'air à l'ozone a touché, à des niveaux dangereux, 40 % d",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260717__hl_smouchmouche_3235718__v1__highres__francebastilledayparadeaerialvi-dc390.jpg?1790733601",
+          "other_news": true
+        },
+        {
+          "title": "En 2026, la moitié de la population mondiale a été exposée à des niveaux dangereux de pollution à l’ozone",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/30/en-2026-la-moitie-de-la-population-mondiale-a-ete-exposee-a-des-niveaux-dangereux-de-pollution-a-l-ozone_6785928_3244.html",
+          "published": "2026-09-30T05:00:28+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans un rapport, l’observatoire européen de l’atmosphère Copernicus appelle à une action urgente contre une « menace mondiale » qui s’amplifie avec le",
+          "image": "https://img.lemde.fr/2026/09/29/591/0/3543/1771/644/322/60/0/386c2b1_upload-1-h8uweqmcqjhw-000-b9lv2g3.jpg",
+          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -784,17 +806,6 @@
           "language": "en",
           "summary": "A rift over how IPCC messages are produced and turned into policy is creating tensions in the world's most influential coalition of climate NGOs\nThe p",
           "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Fossil fuel subsidies are the ‘worst energy policy in the world,’ researchers say",
-          "link": "https://news.mongabay.com/short-article/2026/09/fossil-fuel-subsidies-are-the-worst-energy-policy-in-the-world-researchers-say/",
-          "published": "2026-09-25T05:45:10+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In an editorial in Science, U.S.-based energy policy experts Paasha Mahdavi and Michael Ross argue that governments creating consumer fossil fuel subs",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/25054127/Petrol_station_at_Llanrhystud_Ceredigion_-_geograph.org_.uk_-_4726531-768x512.jpg",
           "other_news": true
         }
       ],
@@ -1394,7 +1405,7 @@
           "other_news": true
         },
         {
-          "title": "« La solitude est le résultat de choix de politiques publiques »",
+          "title": "« La solitude est le résultat de choix politiques »",
           "link": "https://reporterre.net/La-solitude-contemporaine-est-le-resultat-de-choix-de-politiques-publiques",
           "published": "2026-09-29T07:23:18+00:00",
           "source": "Reporterre",
@@ -1559,6 +1570,28 @@
           "other_news": true
         },
         {
+          "title": "Mimi Sheller, sociologue : « L’administration Trump a préféré la mort par les combustibles fossiles à la transition verte »",
+          "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/30/mimi-sheller-sociologue-l-administration-trump-a-prefere-la-mort-par-les-combustibles-fossiles-a-la-transition-verte_6785976_6065879.html",
+          "published": "2026-09-30T07:00:10+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Sous l’impulsion du capital carbone et des géants de la tech, les Etats-Unis s’enfoncent dans une « transition négative » qui sacrifie l’écologie au p",
+          "image": "https://img.lemde.fr/2026/09/17/539/0/3600/1800/644/322/60/0/605a835_upload-1-pbjwxsczjemx-gettyimages-2177569662.jpg",
+          "other_news": true
+        },
+        {
+          "title": "« A l’hôpital, le retour à la normale n’existe plus : les tensions hivernales commencent à apparaître alors que l’été n’est pas digéré »",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/30/a-l-hopital-le-retour-a-la-normale-n-existe-plus-les-tensions-hivernales-commencent-a-apparaitre-alors-que-l-ete-n-est-pas-digere_6785973_3232.html",
+          "published": "2026-09-30T06:30:04+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le directeur général du centre hospitalier régional de Metz-Thionville, Dominique Peljak, déplore, dans une tribune au « Monde », que la politique d’a",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/84df747_upload-1-z1fakemtahym-frame-905.jpg",
+          "other_news": true
+        },
+        {
           "title": "Climat : la Ville de Paris concrétise le « bricolage » pour adapter les écoles en urgence",
           "link": "https://www.lemonde.fr/politique/article/2026/09/29/climat-la-ville-de-paris-concretise-le-bricolage-pour-adapter-les-ecoles-en-urgence_6785668_823448.html",
           "published": "2026-09-29T18:45:04+02:00",
@@ -1600,6 +1633,17 @@
           "language": "fr",
           "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Colomieu, vi",
           "image": "https://img.lemde.fr/2026/09/22/307/0/6048/3024/644/322/60/0/28a5769_upload-1-k63m6ds0d8d2-27-reportage-hydrologie-lemonde-colomieu-29052026-bastien-doudaine-830.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Au Brésil, les femmes autochtones à la conquête du pouvoir : «La violence politique est extrêmement forte»",
+          "link": "https://vert.eco/international/au-bresil-les-femmes-autochtones-a-la-conquete-du-pouvoir-la-violence-politique-est-extremement-forte/",
+          "published": "2026-09-30T04:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "En 2026, un nombre record d’autochtones se présentent aux élections brésiliennes. Une dynamique largement portée par les femmes, qui tentent de conqué",
+          "image": null,
           "other_news": true
         },
         {
@@ -1647,6 +1691,39 @@
           "other_news": true
         },
         {
+          "title": "Australian electric car and bus sales soar - but trucks lag far behind",
+          "link": "https://theconversation.com/australian-electric-car-and-bus-sales-soar-but-trucks-lag-far-behind-292995",
+          "published": "2026-09-30T02:00:07+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As hundreds of thousands more EVs hit Australian roads, is our charging infrastructure up to scratch?",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Here are five of Australia’s top library influencers. One is a 72-year-old rare books librarian",
+          "link": "https://theconversation.com/here-are-five-of-australias-top-library-influencers-one-is-a-72-year-old-rare-books-librarian-291875",
+          "published": "2026-09-29T19:53:34+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Libraries are turning to social media to connect with their communities – with brilliant, often hilarious results. On the way, they’ve launched some u",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "As El Niño strengthens across the Pacific, Australian farmers could face fierce frosts",
+          "link": "https://theconversation.com/as-el-nino-strengthens-across-the-pacific-australian-farmers-could-face-fierce-frosts-292367",
+          "published": "2026-09-29T19:52:30+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Papua New Guinea’s frost disaster suggests heat and drought aren’t the only symptoms of a changing climate.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Why Trump’s plan to cut Head Start regulations could undermine services for the country’s poorest families",
           "link": "https://theconversation.com/why-trumps-plan-to-cut-head-start-regulations-could-undermine-services-for-the-countrys-poorest-families-289845",
           "published": "2026-09-29T12:45:10+00:00",
@@ -1658,25 +1735,14 @@
           "other_news": true
         },
         {
-          "title": "One giant clam contains a month-by-month diary of the Great Barrier Reef’s climate 200 years ago",
-          "link": "https://theconversation.com/one-giant-clam-contains-a-month-by-month-diary-of-the-great-barrier-reefs-climate-200-years-ago-290169",
-          "published": "2026-09-28T23:49:17+00:00",
-          "source": "The Conversation",
+          "title": "Uganda pastoralists turn to wild plants as food shortages bite, study finds",
+          "link": "https://news.mongabay.com/2026/09/uganda-pastoralists-turn-to-wild-plants-as-food-shortages-bite-study-finds/",
+          "published": "2026-09-29T19:11:01+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "The clam fills a crucial gap in our records of what the reef was like before industrial-era global warming.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "We can finally measure the damage each new coal, gas or oil project will do to people and nature",
-          "link": "https://theconversation.com/we-can-finally-measure-the-damage-each-new-coal-gas-or-oil-project-will-do-to-people-and-nature-292128",
-          "published": "2026-09-28T19:40:29+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "For decades, we couldn’t trace the link between new fossil fuel projects and their damage to people and planet. But now we can.",
-          "image": null,
+          "summary": "For decades, the global outlook for food and agriculture has brought heightened concerns  as climate patterns create a mix of droughts and floods acro",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/29073341/The_Karamojong_or_Karimojong_an_ethnic_group_of_agro-pastoral_herders_living_mainly_in_the_north-east_of_-768x512.jpg",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:27:43.369865+00:00",
+  "generated_at": "2026-10-01T05:01:06.695310+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -218,17 +218,6 @@
           "summary": "A giant octopus devouring a jellyfish. An ultra-fast gossamer worm. These are just a couple of the 31 new species scientists discovered on a recent ex",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/28181330/Mongabay_Thumbnail_NewSpecies_Featured.jpg",
           "other_news": false
-        },
-        {
-          "title": "Singapore’s plan to merge several islands could wipe out coral reefs",
-          "link": "https://news.mongabay.com/2026/09/singapores-plan-to-merge-several-islands-could-wipe-out-coral-reefs/",
-          "published": "2026-09-28T08:49:34+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "SINGAPORE — “For seven thousand years, Singapore has changed around these reefs,” says Debby Ng, a Singaporean biologist who studies the city-state’s",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/28012336/aa.-Bluespotted-ribbontail-ray-Pulau-Hantu-2017-768x512.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -342,6 +331,17 @@
       ],
       "Other Marine News": [
         {
+          "title": "Stella McCartney makes waves with ‘sea life, not sea food’ theme in zero-wool Paris show",
+          "link": "https://www.theguardian.com/fashion/2026/sep/30/stella-mccartney-sea-life-paris-fashion-week-animal-rights",
+          "published": "2026-09-30T18:47:26+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Designer showcases wool alternatives and ocean-inspired clothes and says ‘kindness requires real work’Stella McCartney has been talking about animal r",
+          "image": "https://i.guim.co.uk/img/media/85ce5cf01c8239cc8782a61f4b416abfbffae202/0_228_3118_2494/master/3118.jpg?width=140&quality=85&auto=format&fit=max&s=8dc13162d280521c136e8259e25450e3",
+          "other_news": false
+        },
+        {
           "title": "California rushes to prepare for massive ‘Kelvin’ wave and predicted sea level rise",
           "link": "https://www.theguardian.com/us-news/2026/sep/30/california-kelvin-wave-sea-level-rise",
           "published": "2026-09-30T11:00:39+00:00",
@@ -427,28 +427,6 @@
           "language": "en",
           "summary": "The storm moved ashore on the Baja California peninsula, which is a popular tourist destination.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af68/live/c9d59b40-bbda-11f1-bfea-9d5bb7e7d40b.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Fossil found on Welsh beach ends 'confusion' over 200-million-year-old fish teeth",
-          "link": "https://www.bbc.co.uk/news/articles/ckz7zd7nxj73o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-28T16:04:59+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Fossilised teeth across Europe had been wrongly identified until the latest find in south Wales.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3af/live/dd427590-bb3f-11f1-a430-4d16ee157c41.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Shipwreck found on Nantucket beach during storm",
-          "link": "https://www.bbc.co.uk/news/videos/ck980zl0pgq9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-28T01:09:57+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The so-called nor'easter storm has washed up what may be a shipwreck from the 19th century in Massachusetts, local media says.",
-          "image": null,
           "other_news": false
         },
         {
@@ -805,6 +783,17 @@
       ],
       "Marine Biodiversity & Conservation": [
         {
+          "title": "'Special surprise' as rare moth found in nature reserve for first time",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-30T21:58:22+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de2c/live/87a986d0-bcdb-11f1-afec-ebbb2634c4cd.png",
+          "other_news": true
+        },
+        {
           "title": "‘Small, flowering islands’: German city reveals how nature thrives when neighbours care for street tree beds",
           "link": "https://theconversation.com/small-flowering-islands-german-city-reveals-how-nature-thrives-when-neighbours-care-for-street-tree-beds-285637",
           "published": "2026-09-21T14:12:03+00:00",
@@ -864,14 +853,14 @@
           "other_news": true
         },
         {
-          "title": "Offshore wind plant to bring jobs boost to Montrose",
-          "link": "https://www.bbc.co.uk/news/articles/cq62jyk4ekp7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-28T11:01:46+00:00",
+          "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-01T00:08:23+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "The new facility will manufacture parts for offshore wind farms in Scottish waters and for overseas markets.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf9b/live/59e4dbe0-bb29-11f1-bd21-bdf910f2cec6.jpg",
+          "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4300/live/fc078410-bccb-11f1-9f83-d9975ff80416.jpg",
           "other_news": true
         },
         {
@@ -1058,6 +1047,17 @@
           "type": "news",
           "language": "en",
           "summary": "Europe is not facing a scarcity problem but a recovery challenge, and one that can be solved.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Question of whether taxpayers or fossil fuel companies pay for climate change damage heads to Supreme Court",
+          "link": "https://theconversation.com/question-of-whether-taxpayers-or-fossil-fuel-companies-pay-for-climate-change-damage-heads-to-supreme-court-292847",
+          "published": "2026-09-30T20:21:09+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "If fossil fuel companies misled the public about the dangers of their products, should they be required to pay for damages from climate-related disast",
           "image": null,
           "other_news": true
         },
@@ -1612,17 +1612,6 @@
           "other_news": true
         },
         {
-          "title": "Concilier transition écologique et libéralisme politique, un défi majeur à l’ère du réchauffement climatique",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/29/concilier-transition-ecologique-et-liberalisme-politique-un-defi-majeur-a-l-ere-du-rechauffement-climatique_6785595_3232.html",
-          "published": "2026-09-29T12:15:04+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans son nouvel essai, « La Liberté des limites », la chercheuse Lauriane Mouysset se livre à un plaidoyer en faveur d’un « écolibéralisme citoyen ».",
-          "image": "https://img.lemde.fr/2026/09/25/160/0/1920/960/644/322/60/0/82eaefb_upload-1-diyn4zbmc6ca-liberte-des-limites.jpg",
-          "other_news": true
-        },
-        {
           "title": "Au Brésil, les femmes autochtones à la conquête du pouvoir : «La violence politique est extrêmement forte»",
           "link": "https://vert.eco/international/au-bresil-les-femmes-autochtones-a-la-conquete-du-pouvoir-la-violence-politique-est-extremement-forte/",
           "published": "2026-09-30T04:00:00+00:00",
@@ -1667,6 +1656,17 @@
           "other_news": true
         },
         {
+          "title": "NSW’s largest coal mine project is set to expand. Here’s what authorities got wrong about the trade-offs",
+          "link": "https://theconversation.com/nsws-largest-coal-mine-project-is-set-to-expand-heres-what-authorities-got-wrong-about-the-trade-offs-293096",
+          "published": "2026-10-01T02:45:28+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A coal mine in the Hunter Valley region has sparked debate among politicians, environmental advocates and local residents.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Written as a single sentence, Adam Ouston’s Mine is a novel under the influence",
           "link": "https://theconversation.com/written-as-a-single-sentence-adam-oustons-mine-is-a-novel-under-the-influence-281227",
           "published": "2026-09-30T18:01:25+00:00",
@@ -1678,14 +1678,14 @@
           "other_news": true
         },
         {
-          "title": "Australian electric car and bus sales soar – but trucks lag far behind",
-          "link": "https://theconversation.com/australian-electric-car-and-bus-sales-soar-but-trucks-lag-far-behind-292995",
-          "published": "2026-09-30T02:00:07+00:00",
-          "source": "The Conversation",
+          "title": "In Panama’s Darién forest, Indigenous communities test a new way to fund conservation",
+          "link": "https://news.mongabay.com/short-article/2026/09/in-panamas-darien-forest-indigenous-communities-test-a-new-way-to-fund-conservation/",
+          "published": "2026-09-30T21:15:42+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "As hundreds of thousands more EVs hit Australian roads, is our charging infrastructure up to scratch?",
-          "image": null,
+          "summary": "With illegal logging and agricultural expansion closing in on their lands, four Indigenous Wounaan and Emberá-Wounaan villages in Panama’s Darién fore",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/12/31193348/1024px-Bairds_tapir_mother_with_baby_92151-768x512.jpg",
           "other_news": true
         },
         {
@@ -1719,17 +1719,6 @@
           "language": "en",
           "summary": "For decades, the global outlook for food and agriculture has brought heightened concerns  as climate patterns create a mix of droughts and floods acro",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/29073341/The_Karamojong_or_Karimojong_an_ethnic_group_of_agro-pastoral_herders_living_mainly_in_the_north-east_of_-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Philippines is the deadliest country in Asia for environmental defenders, report finds",
-          "link": "https://news.mongabay.com/short-article/2026/09/philippines-is-the-deadliest-country-in-asia-for-environmental-defenders-report-finds/",
-          "published": "2026-09-28T11:46:03+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Philippines remains the deadliest country in Asia for land and environmental defenders, according to a new report by the non-profit Global Witness",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/28114516/Taganito_Mining_Corp._nickel_ore_conveyor_belts_-_Flickr-1200x800-1-768x512.jpg",
           "other_news": true
         }
       ]

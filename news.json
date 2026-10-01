@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:01:06.695310+00:00",
+  "generated_at": "2026-10-01T13:17:13.115014+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -154,6 +154,17 @@
           "other_news": false
         },
         {
+          "title": "3 iconic animals show the value of the US Endangered Species Act – and the harm in stripping it away",
+          "link": "https://theconversation.com/3-iconic-animals-show-the-value-of-the-us-endangered-species-act-and-the-harm-in-stripping-it-away-292887",
+          "published": "2026-10-01T12:42:43+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "The stories of a whale, a panther and a butterfly help explain why new interpretations of the Endangered Species Act could be catastrophic for species",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Cracking orca dialects: New tool catalogues killer whale calls",
           "link": "https://oceanographicmagazine.com/news/cracking-orca-dialects-new-tool-catalogues-killer-whale-calls/",
           "published": "2026-09-29T14:17:30+00:00",
@@ -209,6 +220,17 @@
           "other_news": false
         },
         {
+          "title": "Endangered dolphins survive in a Bangladesh river so polluted it’s ‘not livable’ for fish",
+          "link": "https://news.mongabay.com/short-article/2026/10/endangered-dolphins-survive-in-a-bangladesh-river-so-polluted-its-not-livable-for-fish/",
+          "published": "2026-10-01T05:48:26+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "At least 20 endangered Ganges river dolphins still survive in Bangladesh’s extremely polluted Buriganga River, a 12-month study found, reports contrib",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01054743/ganges-river-dolphin-bangladesh-3-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "New deep-sea creatures unlocked!",
           "link": "https://news.mongabay.com/short-article/2026/09/new-deep-sea-creatures-unlocked/",
           "published": "2026-09-28T18:14:17+00:00",
@@ -252,17 +274,6 @@
           "language": "en",
           "summary": "A 450-year dataset shows the 16th-century collapse of the Baltic's Skanör-Falsterbo herring fishery was driven by overfishing, climate cooling and eco",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "As yellow-eyed penguins disappear, conservationists focus on deaths in fishing nets",
-          "link": "https://news.mongabay.com/2026/09/as-yellow-eyed-penguins-disappear-conservationists-focus-on-deaths-in-fishing-nets/",
-          "published": "2026-09-28T16:57:00+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "OTAGO PENINSULA, Aotearoa New Zealand — Sandfly Bay was long a key nesting area for yellow-eyed penguins (Megadyptes antipodes), noisy, pink-footed bi",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/28113111/12-A-yellow-eyed-penguin-768x512.jpg",
           "other_news": false
         }
       ],
@@ -333,12 +344,12 @@
         {
           "title": "Stella McCartney makes waves with ‘sea life, not sea food’ theme in zero-wool Paris show",
           "link": "https://www.theguardian.com/fashion/2026/sep/30/stella-mccartney-sea-life-paris-fashion-week-animal-rights",
-          "published": "2026-09-30T18:47:26+00:00",
+          "published": "2026-10-01T08:46:09+00:00",
           "source": "The Guardian Ocean & Marine",
           "type": "news",
           "language": "en",
           "summary": "Designer showcases wool alternatives and ocean-inspired clothes and says ‘kindness requires real work’Stella McCartney has been talking about animal r",
-          "image": "https://i.guim.co.uk/img/media/85ce5cf01c8239cc8782a61f4b416abfbffae202/0_228_3118_2494/master/3118.jpg?width=140&quality=85&auto=format&fit=max&s=8dc13162d280521c136e8259e25450e3",
+          "image": "https://i.guim.co.uk/img/media/23285cebf4c09566ec575ed291a5d85c5f90fdce/0_186_3045_2437/master/3045.jpg?width=140&quality=85&auto=format&fit=max&s=62eaf63fc79101df22e433596175f8a2",
           "other_news": false
         },
         {
@@ -405,17 +416,6 @@
           "language": "en",
           "summary": "After Jennifer Sellitti lost her partner Joe Mazraani, she thought everything was over. Then she inherited his shipAfter Joe died, Jennifer Sellitti f",
           "image": "https://i.guim.co.uk/img/media/5b837af8f978c3ac3a27d23196ed8a0f85e3d363/103_81_2795_2235/master/2795.jpg?width=140&quality=85&auto=format&fit=max&s=b73a122587d3877c8dc271f56ddc9aa4",
-          "other_news": false
-        },
-        {
-          "title": "Could this humble sea sponge clean up the world’s ports?",
-          "link": "https://www.theguardian.com/environment/2026/sep/01/sea-chicken-liver-sponge-filter-pollutants-harbour-spain-costa-brava",
-          "published": "2026-09-01T08:00:48+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The chicken liver sponge has sailed through a test of its ability to filter pollutants in a harbour in Spain’s Costa BravaIn the polluted waters of Ma",
-          "image": "https://i.guim.co.uk/img/media/a472bf5e5a15901529bc7e240463e7d51284edfb/125_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=ddd067174b29261ad45e6203b46e4eb0",
           "other_news": false
         },
         {
@@ -525,17 +525,6 @@
           "type": "news",
           "language": "en",
           "summary": "El Niño can affect agriculture, marine life and economies in profound ways, including slowing commerce at the Panama Canal. This El Niño is likely to",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "A second hurricane just sideswiped Hawaii – why the islands’ usual force field seems to be down in 2026",
-          "link": "https://theconversation.com/a-second-hurricane-just-sideswiped-hawaii-why-the-islands-usual-force-field-seems-to-be-down-in-2026-291524",
-          "published": "2026-09-09T12:49:00+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Cooler ocean temperatures east of the islands typically keep major hurricanes away, but El Niño is helping fuel this year’s risks.",
           "image": null,
           "other_news": false
         },
@@ -672,6 +661,17 @@
           "other_news": false
         },
         {
+          "title": "Rising seas could cost Australia economic losses of $855 billion, study finds",
+          "link": "https://news.mongabay.com/short-article/2026/10/rising-seas-could-cost-australia-economic-losses-of-855-billion-study-finds/",
+          "published": "2026-10-01T08:45:07+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Rising sea levels due to climate change could damage hundreds of thousands of properties and millions of hectares of land along Australia’s coastline",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01084107/5419975426_d403498796_k-e1790844181478-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Hurricane Polo makes landfall in Baja California, flooding coastal communities and toppling trees",
           "link": "https://news.mongabay.com/short-article/2026/09/hurricane-polo-makes-landfall-in-baja-california-flooding-coastal-communities-and-toppling-trees/",
           "published": "2026-09-29T17:47:47+00:00",
@@ -706,19 +706,6 @@
           "language": "en",
           "summary": "More than 330,000 sea turtles arrived in southern Mexico in a mass nesting phenomenon known as an ‘arribada’.The sixth arribada of the season, which b",
           "image": "https://i.guim.co.uk/img/media/cc1bd4fa09ba7f5f49796f92c877ad5d1be2c16b/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=7ac95c323557914761449c0efb74dbea",
-          "other_news": false
-        }
-      ],
-      "Other Marine News": [
-        {
-          "title": "Watch: Bangkok locals create floating market during floods",
-          "link": "https://www.bbc.co.uk/news/videos/c6q8jlqvjgdlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-29T06:15:25+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "As sellers waded through floodwaters to sell produce like fish and vegetables from floating platforms and foam boxes, buyers walked or paddled between",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569b/live/93362e00-bbcc-11f1-bd21-bdf910f2cec6.jpg",
           "other_news": false
         }
       ]
@@ -770,22 +757,22 @@
           "other_news": true
         },
         {
-          "title": "En 2026, la moitié de la population mondiale a été exposée à des niveaux dangereux de pollution à l’ozone",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/30/en-2026-la-moitie-de-la-population-mondiale-a-ete-exposee-a-des-niveaux-dangereux-de-pollution-a-l-ozone_6785928_3244.html",
-          "published": "2026-09-30T05:00:19+02:00",
+          "title": "Pollution à l’ozone : l’Ile-de-France a enregistré cet été seize journées « hors norme », du jamais-vu depuis la canicule de 2003",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/01/pollution-a-l-ozone-l-ile-de-france-a-enregistre-cet-ete-seize-journee-hors-norme-du-jamais-vu-depuis-la-canicule-de-2003_6786456_3244.html",
+          "published": "2026-10-01T07:42:11+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Dans un rapport, l’observatoire européen de l’atmosphère Copernicus appelle à une action urgente contre une « menace mondiale » qui s’amplifie avec le",
-          "image": "https://img.lemde.fr/2026/09/29/591/0/3543/1771/644/322/60/0/386c2b1_upload-1-h8uweqmcqjhw-000-b9lv2g3.jpg",
+          "summary": "L’ozone peut pénétrer profondément dans l’appareil respiratoire, provoquant toux, gêne respiratoire, sensation de brûlure dans les yeux, et aggraver l",
+          "image": "https://img.lemde.fr/2026/09/28/0/0/6208/3104/644/322/60/0/d2a53d9_upload-1-xgj5imwh0nia-000-c4xg2jw.jpg",
           "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
         {
-          "title": "'Special surprise' as rare moth found in nature reserve for first time",
+          "title": "The rare Bog Grass Moth found in nature reserve for first time",
           "link": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-30T21:58:22+00:00",
+          "published": "2026-10-01T05:03:12+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -802,6 +789,17 @@
           "language": "en",
           "summary": "The tiny gardens beneath street trees can boost biodiversity and our connection to where we live.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Vantara in talks with Brazil on ‘strategic cooperation’ on threatened species, FOIA documents reveal",
+          "link": "https://news.mongabay.com/2026/10/vantara-in-talks-with-brazil-on-strategic-cooperation-on-threatened-species-foia-documents-reveal/",
+          "published": "2026-10-01T11:01:06+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Vantara, the billionaire-run Indian private zoo that houses more than 150,000 animals, discussed a “strategic conservation partnership” with authoriti",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/29135733/two-Spixs-macaws-768x512.jpg",
           "other_news": true
         },
         {
@@ -864,6 +862,17 @@
           "other_news": true
         },
         {
+          "title": "Michael Sheen campaign on toxic waste sites wins Senedd backing",
+          "link": "https://www.bbc.co.uk/news/articles/cvrl6g6rl081o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-30T17:03:58+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "All parties urge Welsh and UK ministers to ensure polluters pay to clean up contaminated land.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0db/live/04cb0e90-bccd-11f1-9f83-d9975ff80416.jpg",
+          "other_news": true
+        },
+        {
           "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
           "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-25T22:12:48+00:00",
@@ -897,6 +906,17 @@
           "other_news": true
         },
         {
+          "title": "La biodiversité commune, grande oubliée des politiques de conservation en Europe",
+          "link": "https://theconversation.com/la-biodiversite-commune-grande-oubliee-des-politiques-de-conservation-en-europe-292260",
+          "published": "2026-10-01T09:10:00+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les mesures de protection de la biodiversité ciblent souvent des espèces menacées emblématiques au détriment de la biodiversité dite «&nbsp;commune&nb",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "En agriculture, peut-on utiliser du cuivre sans nuire à la vie des sols ?",
           "link": "https://theconversation.com/en-agriculture-peut-on-utiliser-du-cuivre-sans-nuire-a-la-vie-des-sols-287103",
           "published": "2026-09-29T14:17:25+00:00",
@@ -926,17 +946,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Le spectacle de la catastrophe finit-il par occulter le problème qu’il prétend raconter&nbsp;?",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Climat : Séparer adaptation et atténuation freine-t-il l’action ?",
-          "link": "https://theconversation.com/climat-separer-adaptation-et-attenuation-freine-t-il-laction-291206",
-          "published": "2026-09-10T14:59:04+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Depuis les années 1990, on distingue l’atténuation, qui s’attaque aux causes des changements climatiques, de l’adaptation, qui vise à en prévenir les",
           "image": null,
           "other_news": true
         },
@@ -1025,28 +1034,6 @@
           "type": "news",
           "language": "en",
           "summary": "Change happens rapidly when we know where to look: these solutions could tip the world towards a better future.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Plans to artificially dim the sun have divided scientists – here’s what they’re actually arguing about",
-          "link": "https://theconversation.com/plans-to-artificially-dim-the-sun-have-divided-scientists-heres-what-theyre-actually-arguing-about-291316",
-          "published": "2026-09-15T15:03:36+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Solar geoengineering experiments are being funded, but researchers disagree over what they can tell us – and whether they should happen at all.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Europe’s e-waste is a valuable resource – let’s not throw it away",
-          "link": "https://theconversation.com/europes-e-waste-is-a-valuable-resource-lets-not-throw-it-away-290453",
-          "published": "2026-09-15T09:54:38+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Europe is not facing a scarcity problem but a recovery challenge, and one that can be solved.",
           "image": null,
           "other_news": true
         },
@@ -1470,7 +1457,7 @@
         },
         {
           "title": "Zinédine Zidane sur le climat : prendre moins l'avion ou alléger les calendriers, « je ne pense pas qu'il faille rentrer là-dedans »",
-          "link": "https://reporterre.net/Zinedine-Zidane-face-au-changement-climatique-On-va-essayer-de-continuer-a-faire-ce-qu-on",
+          "link": "https://reporterre.net/Zinedine-Zidane-sur-le-climat-prendre-moins-l-avion-ou-alleger-les-calendriers-je-ne",
           "published": "2026-09-27T18:28:25+00:00",
           "source": "Reporterre",
           "type": "news",
@@ -1557,6 +1544,28 @@
           "other_news": true
         },
         {
+          "title": "Pire que le charbon ? Controverse autour de l’impact carbone du gaz américain importé en Europe",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/01/pire-que-le-charbon-controverse-autour-de-l-impact-carbone-du-gaz-americain-importe-en-europe_6786517_3244.html",
+          "published": "2026-10-01T14:39:52+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors que 60 % des importations européennes de gaz naturel liquéfié (GNL) proviennent désormais des Etats-Unis, l’empreinte carbone de cette source d’",
+          "image": "https://img.lemde.fr/2026/10/01/333/0/4024/2012/644/322/60/0/ed7f087_upload-1-vkymkzhbvntk-063-2198779792.jpg",
+          "other_news": true
+        },
+        {
+          "title": "« La “climateflation”, la hausse des prix des denrées alimentaires due au dérèglement climatique, prend de l’ampleur »",
+          "link": "https://www.lemonde.fr/economie/article/2026/10/01/la-climateflation-la-hausse-des-prix-des-denrees-alimentaires-due-au-dereglement-climatique-prend-de-l-ampleur_6786484_3234.html",
+          "published": "2026-10-01T11:00:04+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Une étude de l’institut  Zero Carbon Analytics a mesuré les conséquences des phénomènes météo extrêmes sur les cours des légumes, des fruits ou de la",
+          "image": "https://img.lemde.fr/2026/09/10/477/0/5732/2866/644/322/60/0/4bdbf22_ftp-1-vgewrgz3hegf-2026-09-10t122239z-1790590489-rc2agnac1smx-rtrmadp-3-france-economy-consumers.JPG",
+          "other_news": true
+        },
+        {
           "title": "Traquer les fuites de méthane pour freiner le réchauffement climatique : le projet de règlement européen fragilisé par le revirement de la France",
           "link": "https://www.lemonde.fr/planete/article/2026/09/30/traquer-les-fuites-de-methane-pour-freiner-le-rechauffement-climatique-le-projet-de-reglement-europeen-fragilise-par-le-revirement-de-la-france_6786099_3244.html",
           "published": "2026-09-30T18:02:53+02:00",
@@ -1570,7 +1579,7 @@
         {
           "title": "L’IA émettra six fois plus de CO₂ en 2030 qu’en 2025, selon l’étude d’un collectif d’experts",
           "link": "https://www.lemonde.fr/pixels/article/2026/09/30/l-ia-emettra-six-fois-plus-de-co-en-2030-qu-en-2025-selon-l-etude-d-un-collectif-d-experts_6786040_4408996.html",
-          "published": "2026-09-30T12:00:07+02:00",
+          "published": "2026-09-30T12:00:05+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1598,17 +1607,6 @@
           "language": "fr",
           "summary": "Sous l’impulsion du capital carbone et des géants de la tech, les Etats-Unis s’enfoncent dans une « transition négative » qui sacrifie l’écologie au p",
           "image": "https://img.lemde.fr/2026/09/17/539/0/3600/1800/644/322/60/0/605a835_upload-1-pbjwxsczjemx-gettyimages-2177569662.jpg",
-          "other_news": true
-        },
-        {
-          "title": "« A l’hôpital, le retour à la normale n’existe plus : les tensions hivernales commencent à apparaître alors que l’été n’est pas digéré »",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/30/a-l-hopital-le-retour-a-la-normale-n-existe-plus-les-tensions-hivernales-commencent-a-apparaitre-alors-que-l-ete-n-est-pas-digere_6785973_3232.html",
-          "published": "2026-09-30T06:30:04+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le directeur général du centre hospitalier régional de Metz-Thionville, Dominique Peljak, déplore, dans une tribune au « Monde », que la politique d’a",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/84df747_upload-1-z1fakemtahym-frame-905.jpg",
           "other_news": true
         },
         {
@@ -1652,6 +1650,28 @@
           "type": "news",
           "language": "fr",
           "summary": "Samedi, des manifestant·es se sont rassemblé·es dans plus de 260 villes de France à l’appel du mouvement citoyen pour le climat, le vivant et la justi",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "100 years ago, Schrödinger’s equation shed light on quantum physics – scientists use it today to fine-tune chemical reactions",
+          "link": "https://theconversation.com/100-years-ago-schrodingers-equation-shed-light-on-quantum-physics-scientists-use-it-today-to-fine-tune-chemical-reactions-284912",
+          "published": "2026-10-01T12:42:20+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A 100-year-old equation helps scientists build solar cells, develop biofuels and even study quantum computers.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Grattan on Friday: Albanese leaves grim domestic scene as he flies to the blue Pacific",
+          "link": "https://theconversation.com/grattan-on-friday-albanese-leaves-grim-domestic-scene-as-he-flies-to-the-blue-pacific-292581",
+          "published": "2026-10-01T07:46:48+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "a “Pre-COP” meeting in Fiji and Tuvalu is one of those initiatives that seemed a good idea at the time but for Albanese it will feel more chore than o",
           "image": null,
           "other_news": true
         },

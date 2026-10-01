@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:32:26.775330+00:00",
+  "generated_at": "2026-10-01T18:25:28.221123+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -22,17 +22,6 @@
           "type": "news",
           "language": "en",
           "summary": "If governments are serious about boosting resilience and energy security, they must make the companies profiting from the fossil-fuel economy help foo",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "OceanEye: Nations pledge €211m to strengthen ocean observation",
-          "link": "https://oceanographicmagazine.com/news/oceaneye-nations-pledge-211-m-to-strengthen-ocean-observation/",
-          "published": "2026-09-24T14:46:12+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Von der Leyen and Carney have launched the OceanEye International Alliance, with over 30 countries pledging €211 million to strengthen global ocean ob",
           "image": null,
           "other_news": false
         }
@@ -95,17 +84,6 @@
           "summary": "From the seafloor to turtle stomachs, scientists are finding plastic everywhere they look for it. Now, researchers in Japan have found plastic thermal",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/29221123/Plastic-coral-pic-e1790725156843-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "More plastic, less glow? Pollution threatens deep sea’s bioluminescent life, experts warn",
-          "link": "https://news.mongabay.com/short-article/2026/09/more-plastic-less-glow-pollution-threatens-deep-seas-bioluminescent-life-experts-warn/",
-          "published": "2026-09-28T23:44:13+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Plastic pollution could disrupt the bioluminescent light produced by deep-sea organisms, researchers warn in a letter in the journal Cambridge Prisms:",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/28202536/a.-BANNER-%C2%A9-Marc-Martin-Sola-original-1-768x512.jpg",
-          "other_news": false
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -165,50 +143,6 @@
           "other_news": false
         },
         {
-          "title": "Cracking orca dialects: New tool catalogues killer whale calls",
-          "link": "https://oceanographicmagazine.com/news/cracking-orca-dialects-new-tool-catalogues-killer-whale-calls/",
-          "published": "2026-09-29T14:17:30+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new open-access Orca Call Catalogue from Simon Fraser University lets researchers identify killer whale ecotypes, clans and pods by their unique voc",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Study points to new subspecies of humpback whale in Arabian Sea",
-          "link": "https://oceanographicmagazine.com/news/study-points-to-new-species-of-humpback-whale-in-arabian-sea/",
-          "published": "2026-09-29T13:15:45+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "New genetic research shows Arabian Sea humpback whales are a distinct, isolated lineage that may warrant recognition as a fourth humpback subspecies -",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Legal bid to stop underwater AI data centre in endangered whale habitat launched",
-          "link": "https://oceanographicmagazine.com/news/legal-bid-to-stop-underwater-ai-data-centre-in-endangered-whale-habitat-launched/",
-          "published": "2026-09-28T15:56:43+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Eastport’s city council has banned large data centres, but a separate federal permitting process is continuing, and campaigners have filed a legal cha",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Scientists crack mystery of when Ningaloo’s corals reproduce",
-          "link": "https://oceanographicmagazine.com/news/scientists-crack-mystery-of-when-ningaloos-corals-reproduce/",
-          "published": "2026-09-25T08:22:30+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Scientists have pinpointed, for the first time, when Ningaloo Reef's key Porites corals spawn - a discovery that will help track climate impacts and g",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "The Annual Migration to Clean Up Our Coasts",
           "link": "https://oceanconservancy.org/blog/2026/09/04/clean-up-our-coasts/",
           "published": "2026-09-04T14:18:13+00:00",
@@ -229,17 +163,6 @@
           "summary": "At least 20 endangered Ganges river dolphins still survive in Bangladesh’s extremely polluted Buriganga River, a 12-month study found, reports contrib",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01054743/ganges-river-dolphin-bangladesh-3-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "New deep-sea creatures unlocked!",
-          "link": "https://news.mongabay.com/short-article/2026/09/new-deep-sea-creatures-unlocked/",
-          "published": "2026-09-28T18:14:17+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A giant octopus devouring a jellyfish. An ultra-fast gossamer worm. These are just a couple of the 31 new species scientists discovered on a recent ex",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/28181330/Mongabay_Thumbnail_NewSpecies_Featured.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -253,28 +176,6 @@
           "summary": "Federal agencies told to prioritize recreational fishing and to reconsider scientific standards as well as regulationsDonald Trump’s latest fishing or",
           "image": "https://i.guim.co.uk/img/media/f8af944ce62f7aa2ef395db74a4348765e6746fb/330_0_3340_2672/master/3340.jpg?width=140&quality=85&auto=format&fit=max&s=2a2c9f94b1c2ae575cf57c36bdcbfbb9",
           "other_news": false
-        },
-        {
-          "title": "Europe’s mackerel fishery faces severe threat despite slight rebound",
-          "link": "https://oceanographicmagazine.com/news/europes-mackerel-fishery-faces-severe-threat-despite-slight-rebound/",
-          "published": "2026-09-30T16:02:26+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "With mackerel populations down 72% since 2016, experts warn coastal nations must follow scientific advice and reduce catch limits to avoid stock colla",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "What can medieval herring teach us about Baltic Sea fisheries?",
-          "link": "https://oceanographicmagazine.com/news/what-can-medieval-herring-teach-us-about-baltic-sea-fisheries/",
-          "published": "2026-09-28T13:46:37+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A 450-year dataset shows the 16th-century collapse of the Baltic's Skanör-Falsterbo herring fishery was driven by overfishing, climate cooling and eco",
-          "image": null,
-          "other_news": false
         }
       ],
       "Nature-Based Solutions & Restoration": [
@@ -286,19 +187,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Les écosystèmes marins –&nbsp;des mangroves aux baleines, en passant par le phytoplancton&nbsp;–contiennent du carbone, mais gare à ne pas en tirer le",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Deep Ocean & Mesophotic Ecosystems": [
-        {
-          "title": "“Picking up rocks”: Metals Co. dismisses deep sea mining risks",
-          "link": "https://oceanographicmagazine.com/news/picking-up-rocks-metals-company-ceo-dismisses-deep-sea-mining-risks/",
-          "published": "2026-09-25T08:50:03+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The Metals Company CEO Gerard Barron called deep sea mining \"picking up rocks,\" despite warnings from global science community and studies that show s",
           "image": null,
           "other_news": false
         }
@@ -323,19 +211,6 @@
           "type": "news",
           "language": "en",
           "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.&#8230;\nThe post ‘Co",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Species Migration & Habitat Change": [
-        {
-          "title": "DreamWorks’ Forgotten Island is a joyous, painful love letter to the Filipino diaspora",
-          "link": "https://theconversation.com/dreamworks-forgotten-island-is-a-joyous-painful-love-letter-to-the-filipino-diaspora-293200",
-          "published": "2026-09-30T18:01:09+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The first major Hollywood animation centred on Filipino culture speaks to the experience of migration that has become so deeply embedded in Philippine",
           "image": null,
           "other_news": false
         }
@@ -416,17 +291,6 @@
           "language": "en",
           "summary": "After Jennifer Sellitti lost her partner Joe Mazraani, she thought everything was over. Then she inherited his shipAfter Joe died, Jennifer Sellitti f",
           "image": "https://i.guim.co.uk/img/media/5b837af8f978c3ac3a27d23196ed8a0f85e3d363/103_81_2795_2235/master/2795.jpg?width=140&quality=85&auto=format&fit=max&s=b73a122587d3877c8dc271f56ddc9aa4",
-          "other_news": false
-        },
-        {
-          "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
-          "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-29T10:34:53+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The storm moved ashore on the Baja California peninsula, which is a popular tourist destination.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af68/live/c9d59b40-bbda-11f1-bfea-9d5bb7e7d40b.jpg",
           "other_news": false
         },
         {
@@ -595,17 +459,6 @@
           "other_news": false
         },
         {
-          "title": "“Transforming before our eyes”: ocean absorbing record heat",
-          "link": "https://oceanographicmagazine.com/news/transforming-before-our-eyes-ocean-absorbing-record-heat/",
-          "published": "2026-09-30T15:56:56+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "From accelerating sea-level rise to rising acidity and shifting phytoplankton, a new report reveals the scale of change already underway in the world'",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Au Kenya, le lancement en un temps record du chantier de la raffinerie Dangote",
           "link": "https://www.lemonde.fr/economie/article/2026/10/01/au-kenya-le-lancement-en-un-temps-record-du-chantier-de-la-raffinerie-dangote_6786533_3234.html",
           "published": "2026-10-01T16:00:07+02:00",
@@ -625,17 +478,6 @@
           "language": "fr",
           "summary": "Illégale, chère, non ciblée, anti-écolo… Passage en revue des principales critiques à propos de la promesse phare du Rassemblement national pour faire",
           "image": "https://img.lemde.fr/2026/09/29/666/0/8000/4000/644/322/60/0/5d9e476_upload-1-zvcwrb5n5m8o-jmug260928019.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Le réchauffement de l’océan se poursuit « à un rythme alarmant », selon le programme européen Copernicus",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/30/le-rechauffement-de-l-ocean-se-poursuit-a-un-rythme-alarmant-selon-le-programme-europeen-copernicus_6786012_3244.html",
-          "published": "2026-09-30T08:00:06+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Alors qu’un phénomène El Niño d’ampleur s’installe dans le Pacifique, l’océan mondial subit les effets du réchauffement climatique. Le rythme de la mo",
-          "image": "https://img.lemde.fr/2026/09/28/431/0/3445/1722/644/322/60/0/dea1314_upload-1-skdzon4qegzs-000-c6xc6zq.jpg",
           "other_news": false
         },
         {
@@ -680,6 +522,17 @@
           "language": "en",
           "summary": "Our ocean has absorbed more than 90% of excess heat caused by human-driven climate change and a quarter of the carbon dioxide we emit. In simple terms",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Dolphins keep their social and hunting lives in separate waters, study finds",
+          "link": "https://news.mongabay.com/2026/10/dolphins-keep-their-social-and-hunting-lives-in-separate-waters-study-finds/",
+          "published": "2026-10-01T15:07:38+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Dolphins, it turns out, don’t like to mix business and pleasure. Scientists have found that the marine mammals keep their feeding and hunting areas se",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01150605/Banner-Image-dolfin-fin-768x512.jpg",
           "other_news": false
         },
         {
@@ -858,6 +711,17 @@
           "summary": "A rift over how IPCC messages are produced and turned into policy is creating tensions in the world's most influential coalition of climate NGOs\nThe p",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "The UK’s pension triple lock has done its job and needs to be retired",
+          "link": "https://theconversation.com/the-uks-pension-triple-lock-has-done-its-job-and-needs-to-be-retired-293269",
+          "published": "2026-10-01T15:33:49+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The triple lock is a fairly recent part of pension policy.",
+          "image": null,
+          "other_news": true
         }
       ],
       "Other Marine News": [
@@ -968,6 +832,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Le spectacle de la catastrophe finit-il par occulter le problème qu’il prétend raconter&nbsp;?",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How the new Great British Grid could help households benefit from abundant and cheap renewable power",
+          "link": "https://theconversation.com/how-the-new-great-british-grid-could-help-households-benefit-from-abundant-and-cheap-renewable-power-293295",
+          "published": "2026-10-01T14:23:12+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "As Britain builds more renewable energy, it will need to get better at encouraging people to use electricity when it’s plentiful.",
           "image": null,
           "other_news": true
         },
@@ -1159,6 +1034,17 @@
           "other_news": true
         },
         {
+          "title": "What’s on the climate calendar for October 2026?",
+          "link": "https://www.climatechangenews.com/2026/10/01/whats-on-the-climate-calendar-for-october-2026/",
+          "published": "2026-10-01T16:46:03+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Brazilians are heading to the polls, diplomats are gathering in the Pacific for Pre-COP, and it's crunch time for the IPCC\nThe post What&#8217;s on th",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Jordan’s mega-plan for water security risks locking in fossil gas demand",
           "link": "https://www.climatechangenews.com/2026/10/01/jordans-mega-plan-for-water-security-risks-locking-in-fossil-gas-demand/",
           "published": "2026-10-01T13:57:34+00:00",
@@ -1170,7 +1056,7 @@
           "other_news": true
         },
         {
-          "title": "Nepal’s disaster has laid bare the world’s adaptation accountability gap",
+          "title": "Editor’s Desk: Nepal’s disaster has laid bare the world’s adaptation accountability gap",
           "link": "https://www.climatechangenews.com/2026/09/30/nepals-disaster-has-laid-bare-the-worlds-adaptation-accountability-gap/",
           "published": "2026-09-30T10:27:45+00:00",
           "source": "Climate change news",
@@ -1390,17 +1276,6 @@
           "other_news": true
         },
         {
-          "title": "Palestine: Israel’s bombing has left Gaza vulnerable to climate change",
-          "link": "https://www.climatechangenews.com/2026/09/04/palestine-israels-bombing-has-left-gaza-vulnerable-to-climate-change/",
-          "published": "2026-09-04T14:18:35+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "With homes, hospitals and water storage destroyed, Palestine's government says that Gazans have little protection from climate impacts and sets condit",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Les renouvelables « désignées comme un ennemi économique » : face aux suppressions de postes, les salariés se mobilisent",
           "link": "https://reporterre.net/Face-aux-plans-sociaux-les-salaries-des-energies-renouvelables-de-nouveau-dans-la-rue",
           "published": "2026-09-30T13:07:12+00:00",
@@ -1544,25 +1419,14 @@
           "other_news": true
         },
         {
-          "title": "La marche climat du 26 septembre devient « statique » à Paris à cause de la venue du Pape",
-          "link": "https://reporterre.net/La-marche-climat-du-26-septembre-devient-statique-a-Paris-a-cause-de-la-venue-du-Pape",
-          "published": "2026-09-23T16:00:39+00:00",
-          "source": "Reporterre",
+          "title": "Flambée du prix des carburants : « En l’absence de politiques de logement ou de mobilité, comment s’étonner que les mêmes causes produisent les mêmes effets ? »",
+          "link": "https://www.lemonde.fr/idees/article/2026/10/01/flambee-du-prix-des-carburants-en-l-absence-de-politiques-de-logement-ou-de-mobilite-comment-s-etonner-que-les-memes-causes-produisent-les-memes-effets_6786543_3232.html",
+          "published": "2026-10-01T17:00:12+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "La venue du Pape à Paris a mis à l'arrêt la marche climat prévue samedi 26 septembre à Paris. « C'est désormais validé par la pr",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260923__c93y46d__v1__highres__vaticanreligionpopeaudience_1_-ee0be.jpg?1790179242",
-          "other_news": true
-        },
-        {
-          "title": "Wild animals are our climate allies, peer-reviewed study reaffirms",
-          "link": "https://oceanographicmagazine.com/news/wild-animals-are-our-climate-allies-peer-reviewed-study-reaffirms/",
-          "published": "2026-09-25T13:48:39+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new peer-reviewed article in Global Change Biology backs the Scientific Consensus on Wildlife and Climate, showing how animals like dugongs and tige",
-          "image": null,
+          "summary": "Il existe un décalage troublant entre les crises liées au pétrole, qui se répètent, et l’absence de vision des responsables politiques sur des enjeux",
+          "image": "https://img.lemde.fr/2026/09/22/811/0/3333/1666/644/322/60/0/f02b253_upload-1-o8q6uy41byth-lewisjoly-lemonde-22-09-26-033.JPG",
           "other_news": true
         },
         {
@@ -1610,28 +1474,6 @@
           "other_news": true
         },
         {
-          "title": "L’IA émettra six fois plus de CO₂ en 2030 qu’en 2025, selon l’étude d’un collectif d’experts",
-          "link": "https://www.lemonde.fr/pixels/article/2026/09/30/l-ia-emettra-six-fois-plus-de-co-en-2030-qu-en-2025-selon-l-etude-d-un-collectif-d-experts_6786040_4408996.html",
-          "published": "2026-09-30T12:00:05+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les émissions globales de gaz à effet de serre du secteur de l’intelligence artificielle pourraient atteindre un niveau inquiétant à la fin de la déce",
-          "image": "https://img.lemde.fr/2026/04/10/737/0/4768/2384/644/322/60/0/ad95f16_ftp-1-uhtjxq1tuvao-2026-04-10t103714z-197820725-rc2w3hawx78o-rtrmadp-3-usa-nuclear-datacenters.JPG",
-          "other_news": true
-        },
-        {
-          "title": "Le plan d’adaptation du ministère de la transition écologique soumis à l’arbitrage budgétaire de Matignon",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/30/adaptation-de-la-france-au-changement-climatique-le-plan-du-ministere-de-la-transition-ecologique-soumis-a-l-arbitrage-budgetaire-de-matignon_6786022_3244.html",
-          "published": "2026-09-30T10:00:01+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Une feuille de route visant à accélérer la mise en œuvre du plan national d’adaptation au changement climatique devait être présentée mercredi au prem",
-          "image": "https://img.lemde.fr/2026/09/16/118/0/3481/1740/644/322/60/0/748a9af_ftp-1-fxvliy7ngsfk-2026-09-16t174000z-748406054-rc2dgnarumx5-rtrmadp-3-france-politics-fuel.JPG",
-          "other_news": true
-        },
-        {
           "title": "Au Brésil, les femmes autochtones à la conquête du pouvoir : «La violence politique est extrêmement forte»",
           "link": "https://vert.eco/international/au-bresil-les-femmes-autochtones-a-la-conquete-du-pouvoir-la-violence-politique-est-extremement-forte/",
           "published": "2026-09-30T04:00:00+00:00",
@@ -1676,6 +1518,39 @@
           "other_news": true
         },
         {
+          "title": "Ahead of the global climate summit, Pacific leaders call on nations to keep 1.5°C within reach",
+          "link": "https://theconversation.com/ahead-of-the-global-climate-summit-pacific-leaders-call-on-nations-to-keep-1-5-c-within-reach-292766",
+          "published": "2026-10-01T18:02:03+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Pacific leaders are seeking support for regional climate-finance options that give communities better access and stronger input into global decision m",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Australia’s proposed laws could help regulate privacy risks from chatbots – if we get the details right",
+          "link": "https://theconversation.com/australias-proposed-laws-could-help-regulate-privacy-risks-from-chatbots-if-we-get-the-details-right-292792",
+          "published": "2026-10-01T18:00:16+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Big AI companies may already know much more about you than you’re comfortable with, even if you’ve never used their services.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Bike-sharing programs can help cities reduce emissions and congestion",
+          "link": "https://theconversation.com/bike-sharing-programs-can-help-cities-reduce-emissions-and-congestion-292563",
+          "published": "2026-10-01T15:23:10+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The environmental value of bike sharing depends partly on how often bikes are used to replace trips that would otherwise have been made by car.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Rising CO₂ is making African savanna grasses grow more – what this means for grazing, fire and carbon storage",
           "link": "https://theconversation.com/rising-co-is-making-african-savanna-grasses-grow-more-what-this-means-for-grazing-fire-and-carbon-storage-291313",
           "published": "2026-10-01T13:47:27+00:00",
@@ -1704,7 +1579,7 @@
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "a “Pre-COP” meeting in Fiji and Tuvalu is one of those initiatives that seemed a good idea at the time but for Albanese it will feel more chore than o",
+          "summary": "A ‘pre-COP’ meeting in Fiji and Tuvalu is one of those initiatives that seemed a good idea at the time, but for Albanese it will feel more chore than",
           "image": null,
           "other_news": true
         },
@@ -1720,14 +1595,25 @@
           "other_news": true
         },
         {
-          "title": "Written as a single sentence, Adam Ouston’s Mine is a novel under the influence",
-          "link": "https://theconversation.com/written-as-a-single-sentence-adam-oustons-mine-is-a-novel-under-the-influence-281227",
-          "published": "2026-09-30T18:01:25+00:00",
-          "source": "The Conversation",
+          "title": "Wind turbine taller than the Eiffel Tower aims to boost German electricity production",
+          "link": "https://news.mongabay.com/short-article/2026/10/wind-turbine-taller-than-the-eiffel-tower-aims-to-boost-german-electricity-production/",
+          "published": "2026-10-01T18:18:22+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "In Mine, Adam Ouston reveals the contradictions between Tasmania’s conception of itself and its history of human and environmental devastation.",
-          "image": null,
+          "summary": "SCHIPKAU, Germany (AP) — A wind turbine described by its developer as the world’s tallest now rises 365 meters (1,197 feet) above the sparsely populat",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01163644/AP26274383798058-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Renewable energy companies fuel Brazilian data center boom, investigation finds",
+          "link": "https://news.mongabay.com/short-article/2026/10/renewable-energy-companies-fuel-brazilian-data-center-boom-investigation-finds/",
+          "published": "2026-10-01T15:27:38+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Renewable energy companies are driving most of Brazil’s plans for new data centers, according to a recent joint analysis by The Intercept Brasil and M",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/21135641/Wind-farm-complex-in-Gentio-do-Ouro-768x512.jpg",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:17:13.115014+00:00",
+  "generated_at": "2026-10-01T14:32:26.775330+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -606,6 +606,17 @@
           "other_news": false
         },
         {
+          "title": "Au Kenya, le lancement en un temps record du chantier de la raffinerie Dangote",
+          "link": "https://www.lemonde.fr/economie/article/2026/10/01/au-kenya-le-lancement-en-un-temps-record-du-chantier-de-la-raffinerie-dangote_6786533_3234.html",
+          "published": "2026-10-01T16:00:07+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le magnat nigérian Aliko Dangote ambitionne de répliquer sa raffinerie de Lagos à Lamu, une région isolée face à l’océan Indien. Mercredi 30 septembre",
+          "image": "https://img.lemde.fr/2026/09/30/279/0/5000/2500/644/322/60/0/d20677d_ftp-1-uwtfv3xovwvm-5229229-01-06.jpg",
+          "other_news": false
+        },
+        {
           "title": "Baisser la TVA sur les carburants : la proposition de Marine Le Pen est-elle réaliste ?",
           "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/30/baisser-la-tva-sur-les-carburants-la-proposition-de-marine-le-pen-est-elle-realiste_6786069_4355770.html",
           "published": "2026-09-30T15:00:08+02:00",
@@ -635,6 +646,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Après les révélations de Mediapart sur les propos antisémites attribués à Jordan Bardella, Marine Le Pen a volé au secours du président du RN… tout en",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "North Sea, Nature Untamed puts personal wonder back into nature documentaries",
+          "link": "https://theconversation.com/north-sea-nature-untamed-puts-personal-wonder-back-into-nature-documentaries-292940",
+          "published": "2026-10-01T13:40:00+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "North Sea, Nature Untamed signals a shift in wildlife filmmaking.",
           "image": null,
           "other_news": false
         },
@@ -1137,6 +1159,17 @@
           "other_news": true
         },
         {
+          "title": "Jordan’s mega-plan for water security risks locking in fossil gas demand",
+          "link": "https://www.climatechangenews.com/2026/10/01/jordans-mega-plan-for-water-security-risks-locking-in-fossil-gas-demand/",
+          "published": "2026-10-01T13:57:34+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "A giant desalination plant will help Jordan confront water scarcity, but solar power’s limited role in the energy-hungry project has raised questions",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Nepal’s disaster has laid bare the world’s adaptation accountability gap",
           "link": "https://www.climatechangenews.com/2026/09/30/nepals-disaster-has-laid-bare-the-worlds-adaptation-accountability-gap/",
           "published": "2026-09-30T10:27:45+00:00",
@@ -1368,17 +1401,6 @@
           "other_news": true
         },
         {
-          "title": "More support needed to power Africa’s food systems with renewables, experts say",
-          "link": "https://www.climatechangenews.com/2026/09/03/more-support-needed-to-power-africas-food-systems-with-renewables-experts-say/",
-          "published": "2026-09-03T12:50:44+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Renewable energy could help African food businesses boost productivity and competitiveness, but the upfront cost, fragmented markets and limited finan",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Les renouvelables « désignées comme un ennemi économique » : face aux suppressions de postes, les salariés se mobilisent",
           "link": "https://reporterre.net/Face-aux-plans-sociaux-les-salaries-des-energies-renouvelables-de-nouveau-dans-la-rue",
           "published": "2026-09-30T13:07:12+00:00",
@@ -1544,13 +1566,24 @@
           "other_news": true
         },
         {
+          "title": "Ecobalyse, l’étiquetage qui mesure l’impact environnemental des vêtements, voit son utilisation élargie",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/01/ecobalyse-l-etiquetage-qui-mesure-l-impact-environnemental-des-vetements-voit-son-utilisation-elargie_6786527_3244.html",
+          "published": "2026-10-01T15:30:09+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "A partir d’octobre, un tiers peut référencer le score environnemental de vêtements à la place des marques. Un premier pas pour élargir le déploiement",
+          "image": "https://img.lemde.fr/2026/10/01/473/0/5677/2838/644/322/60/0/1e3fde5_upload-1-2c8cbntwwp2h-maxnewsspecialtwo465504.jpg",
+          "other_news": true
+        },
+        {
           "title": "Pire que le charbon ? Controverse autour de l’impact carbone du gaz américain importé en Europe",
           "link": "https://www.lemonde.fr/planete/article/2026/10/01/pire-que-le-charbon-controverse-autour-de-l-impact-carbone-du-gaz-americain-importe-en-europe_6786517_3244.html",
           "published": "2026-10-01T14:39:52+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Alors que 60 % des importations européennes de gaz naturel liquéfié (GNL) proviennent désormais des Etats-Unis, l’empreinte carbone de cette source d’",
+          "summary": "Alors que 60 % des importations européennes de gaz naturel liquéfié proviennent désormais des Etats-Unis, l’empreinte carbone de cette source d’énergi",
           "image": "https://img.lemde.fr/2026/10/01/333/0/4024/2012/644/322/60/0/ed7f087_upload-1-vkymkzhbvntk-063-2198779792.jpg",
           "other_news": true
         },
@@ -1599,17 +1632,6 @@
           "other_news": true
         },
         {
-          "title": "Mimi Sheller, sociologue : « L’administration Trump a préféré la mort par les combustibles fossiles à la transition verte »",
-          "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/30/mimi-sheller-sociologue-l-administration-trump-a-prefere-la-mort-par-les-combustibles-fossiles-a-la-transition-verte_6785976_6065879.html",
-          "published": "2026-09-30T07:00:05+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Sous l’impulsion du capital carbone et des géants de la tech, les Etats-Unis s’enfoncent dans une « transition négative » qui sacrifie l’écologie au p",
-          "image": "https://img.lemde.fr/2026/09/17/539/0/3600/1800/644/322/60/0/605a835_upload-1-pbjwxsczjemx-gettyimages-2177569662.jpg",
-          "other_news": true
-        },
-        {
           "title": "Au Brésil, les femmes autochtones à la conquête du pouvoir : «La violence politique est extrêmement forte»",
           "link": "https://vert.eco/international/au-bresil-les-femmes-autochtones-a-la-conquete-du-pouvoir-la-violence-politique-est-extremement-forte/",
           "published": "2026-09-30T04:00:00+00:00",
@@ -1650,6 +1672,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Samedi, des manifestant·es se sont rassemblé·es dans plus de 260 villes de France à l’appel du mouvement citoyen pour le climat, le vivant et la justi",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Rising CO₂ is making African savanna grasses grow more – what this means for grazing, fire and carbon storage",
+          "link": "https://theconversation.com/rising-co-is-making-african-savanna-grasses-grow-more-what-this-means-for-grazing-fire-and-carbon-storage-291313",
+          "published": "2026-10-01T13:47:27+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "New research in the Kruger National Park has found that rising CO₂ in the atmosphere helps savanna grasses grow when less water is available.",
           "image": null,
           "other_news": true
         },
@@ -1695,6 +1728,17 @@
           "language": "en",
           "summary": "In Mine, Adam Ouston reveals the contradictions between Tasmania’s conception of itself and its history of human and environmental devastation.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "From ‘community-based’ to ‘community-led conservation’ in Kenya: Interview with Dickson Kaelo",
+          "link": "https://news.mongabay.com/2026/10/from-community-based-to-community-led-conservation-in-kenya-interview-with-dickson-kaelo/",
+          "published": "2026-10-01T13:26:51+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "NEW YORK — Long before Dickson Kaelo became one of the leading voices for community conservancies in Kenya, conservation was something much more perso",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01122201/Credit-Angela-Scott-2-768x512.jpg",
           "other_news": true
         },
         {

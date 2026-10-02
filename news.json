@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T05:01:10.866071+00:00",
+  "generated_at": "2026-10-02T12:36:45.265374+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -62,28 +62,6 @@
           "summary": "Satellite tracking data was used to look at which ships and boats were active in the Seychelles waters.",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "Pollution : du pétrole flotte sur l'océan sur 1,58 million de km2",
-          "link": "https://reporterre.net/Pollution-du-petrole-flotte-sur-l-ocean-sur-1-58-million-de-km2",
-          "published": "2026-09-24T12:33:02+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Chaque année, les nappes d'hydrocarbures recouvrent une surface océanique estimée à 1,58 million de kilomètres carrés. C'est le",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20240729__2164129449__v2__highres__oilspillinmanilabay-cc4e6.jpg?1790253188",
-          "other_news": false
-        },
-        {
-          "title": "Plastic fused to coral rubble raises new concerns for ocean pollution",
-          "link": "https://news.mongabay.com/short-article/2026/09/plastic-fused-to-coral-rubble-raises-new-concerns-for-ocean-pollution/",
-          "published": "2026-09-29T23:41:26+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "From the seafloor to turtle stomachs, scientists are finding plastic everywhere they look for it. Now, researchers in Japan have found plastic thermal",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/29221123/Plastic-coral-pic-e1790725156843-768x512.jpg",
-          "other_news": false
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -139,6 +117,17 @@
           "type": "news",
           "language": "en",
           "summary": "The stories of a whale, a panther and a butterfly help explain why new interpretations of the Endangered Species Act could be catastrophic for species",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "South Atlantic Whale Sanctuary bid fails a second time at IWC",
+          "link": "https://oceanographicmagazine.com/news/south-atlantic-whale-sanctuary-bid-fails-a-second-time-at-iwc/",
+          "published": "2026-10-02T12:30:54+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A proposed South Atlantic whale sanctuary has again failed to win the required 75 per cent majority at IWC70, as the UK marks 40 years of the global w",
           "image": null,
           "other_news": false
         },
@@ -276,19 +265,6 @@
           "language": "en",
           "summary": "Existing at the junction of land and sea, mangrove forests have long been heralded for their ecosystem services, including their ability to buffer coa",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01133108/OceanImageBank_MPA25_AlexPike-768x512.jpg",
-          "other_news": false
-        }
-      ],
-      "Deep Ocean & Mesophotic Ecosystems": [
-        {
-          "title": "“Picking up rocks”: Metals Co. dismisses deep sea mining risks",
-          "link": "https://oceanographicmagazine.com/news/picking-up-rocks-metals-company-ceo-dismisses-deep-sea-mining-risks/",
-          "published": "2026-09-25T08:50:03+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The Metals Company CEO Gerard Barron called deep sea mining \"picking up rocks,\" despite warnings from global science community and studies that show s",
-          "image": null,
           "other_news": false
         }
       ],
@@ -527,17 +503,6 @@
           "other_news": false
         },
         {
-          "title": "At regional summit, Pacific islands ask for COP31 support for clean energy and finance",
-          "link": "https://www.climatechangenews.com/2026/09/07/pacific-islands-forum-cop31-clean-energy-finance-ocean-renewables/",
-          "published": "2026-09-07T10:00:34+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Pacific nations want the annual climate conference to deliver funding for renewables and ocean protection, as the UN warns of devastating sea level ri",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "L'océan se réchauffe : Copernicus lance « son avertissement le plus sévère à ce jour »",
           "link": "https://reporterre.net/L-ocean-se-rechauffe-Copernicus-lance-son-avertissement-le-plus-severe-a-ce-jour",
           "published": "2026-09-30T14:40:02+00:00",
@@ -688,17 +653,6 @@
     },
     "Other News": {
       "Plastic & Ocean Pollution": [
-        {
-          "title": "Young minds develop ideas to tackle climate change",
-          "link": "https://www.bbc.co.uk/news/articles/cv62kpj70585o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-30T09:36:10+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Sixteen teenagers take part in a hackathon to devise ways to combat issues such as light pollution.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0535/live/2b154970-bc10-11f1-a524-3125ac41b7f5.jpg",
-          "other_news": true
-        },
         {
           "title": "EPA says repealing power plant emissions rules will save billions – but its estimate leaves out health and climate costs",
           "link": "https://theconversation.com/epa-says-repealing-power-plant-emissions-rules-will-save-billions-but-its-estimate-leaves-out-health-and-climate-costs-292051",
@@ -857,6 +811,17 @@
           "language": "en",
           "summary": "All parties urge Welsh and UK ministers to ensure polluters pay to clean up contaminated land.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0db/live/04cb0e90-bccd-11f1-9f83-d9975ff80416.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Backshall makes nature 'cool' to inspire children",
+          "link": "https://www.bbc.co.uk/news/articles/cjx2zk09rg36o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-02T09:27:11+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Steve Backshall says growing up with rescue animals helped inspire his passion for nature.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8d/live/9e4180f0-b830-11f1-b4bc-39c67eb36497.jpg",
           "other_news": true
         },
         {
@@ -1135,6 +1100,17 @@
           "other_news": true
         },
         {
+          "title": "As COP31 co-host, Australia should make its polluters pay for climate damage",
+          "link": "https://www.climatechangenews.com/2026/10/02/as-cop31-co-host-australia-should-make-its-polluters-pay-for-climate-damage/",
+          "published": "2026-10-02T06:44:49+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "With UN climate funds running short on cash, now is the time to start taxing the companies whose emissions are driving harm in the Pacific and other v",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "What’s on the climate calendar for October 2026?",
           "link": "https://www.climatechangenews.com/2026/10/01/whats-on-the-climate-calendar-for-october-2026/",
           "published": "2026-10-01T16:46:03+00:00",
@@ -1377,6 +1353,17 @@
           "other_news": true
         },
         {
+          "title": "Vivre à côté d'usines, de stations d'épuration, de décharges : comment les « gens du voyage » subissent le racisme environnemental",
+          "link": "https://reporterre.net/Vivre-a-cote-d-usines-de-stations-d-epuration-de-decharges-comment-les-gens-du-voyage",
+          "published": "2026-10-02T08:40:31+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Aires d'accueil polluées, espérance de vie réduite et arguments écolos détournés : l'auteur et juriste William Acker pointe le r",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20201204__8wf4db__v1__highres__franceminoritieshealthpollutionindustrywaste-116cb.jpg?1790930462",
+          "other_news": true
+        },
+        {
           "title": "Les renouvelables « désignées comme un ennemi économique » : face aux suppressions de postes, les salariés se mobilisent",
           "link": "https://reporterre.net/Face-aux-plans-sociaux-les-salaries-des-energies-renouvelables-de-nouveau-dans-la-rue",
           "published": "2026-09-30T13:07:12+00:00",
@@ -1509,17 +1496,6 @@
           "other_news": true
         },
         {
-          "title": "« Mon rêve, c'est d'avoir un maximum de gens dans la rue » : la marche climat est de retour",
-          "link": "https://reporterre.net/Mon-reve-c-est-d-avoir-un-maximum-de-gens-dans-la-rue-la-marche-climat-est-de-retour",
-          "published": "2026-09-24T07:25:53+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Un appel signé par des milliers de personnes et d'organisations va aboutir sur une grande marche climat le 26 septembre. Ses ini",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/_r0a4014-388ca.jpg?1790234755",
-          "other_news": true
-        },
-        {
           "title": "Wild animals are our climate allies, peer-reviewed study reaffirms",
           "link": "https://oceanographicmagazine.com/news/wild-animals-are-our-climate-allies-peer-reviewed-study-reaffirms/",
           "published": "2026-09-25T13:48:39+00:00",
@@ -1533,7 +1509,7 @@
         {
           "title": "Les entreprises françaises sont-elles lésées face aux américaines sur la notation en matière sociale, environnementale et de gouvernance ?",
           "link": "https://www.lemonde.fr/argent/article/2026/10/02/les-entreprises-francaises-sont-elles-lesees-face-aux-americaines-sur-la-notation-en-matiere-sociale-environnementale-et-de-gouvernance_6786900_1657007.html",
-          "published": "2026-10-02T06:00:34+02:00",
+          "published": "2026-10-02T06:00:15+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1544,7 +1520,7 @@
         {
           "title": "L’été 2026 devient le plus chaud jamais enregistré en Europe occidentale, sans provoquer de sursaut politique",
           "link": "https://www.lemonde.fr/international/article/2026/10/02/l-ete-2026-devient-le-plus-chaud-jamais-enregistre-en-europe-occidentale-sans-provoquer-de-sursaut-politique_6786757_3210.html",
-          "published": "2026-10-02T04:00:08+02:00",
+          "published": "2026-10-02T04:00:07+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1597,17 +1573,6 @@
           "other_news": true
         },
         {
-          "title": "Traquer les fuites de méthane pour freiner le réchauffement climatique : le projet de règlement européen fragilisé par le revirement de la France",
-          "link": "https://www.lemonde.fr/planete/article/2026/09/30/traquer-les-fuites-de-methane-pour-freiner-le-rechauffement-climatique-le-projet-de-reglement-europeen-fragilise-par-le-revirement-de-la-france_6786099_3244.html",
-          "published": "2026-09-30T18:02:53+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Alors qu’il affirmait vouloir réduire les émissions de méthane liées au secteur des énergies fossiles, Emmanuel Macron a finalement plaidé pour report",
-          "image": "https://img.lemde.fr/2026/09/30/422/0/5072/2536/644/322/60/0/0b848d4_upload-1-nnp0xvppbz2u-000-628t79d.jpg",
-          "other_news": true
-        },
-        {
           "title": "Au Brésil, les femmes autochtones à la conquête du pouvoir : «La violence politique est extrêmement forte»",
           "link": "https://vert.eco/international/au-bresil-les-femmes-autochtones-a-la-conquete-du-pouvoir-la-violence-politique-est-extremement-forte/",
           "published": "2026-09-30T04:00:00+00:00",
@@ -1630,13 +1595,13 @@
           "other_news": true
         },
         {
-          "title": "Croquettes, pâtées, repas maison ou menus végé : quelle est la nourriture pour chat et chien la plus écologique ?",
-          "link": "https://vert.eco/label-vert/croquettes-patees-repas-maison-ou-menus-vege-quelle-est-la-nourriture-pour-chat-et-chien-la-plus-ecologique/",
-          "published": "2026-09-27T04:00:00+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Why a decade of AI safety promises keep failing to bite",
+          "link": "https://theconversation.com/why-a-decade-of-ai-safety-promises-keep-failing-to-bite-293342",
+          "published": "2026-10-02T04:42:33+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Pourquoi la pâtée est-elle plus problématique que les croquettes pour l’environnement ? Mon chat peut-il devenir végétarien ? Vert vous aide à remplir",
+          "language": "en",
+          "summary": "Donald Trump’s White House Accord on Super Intelligence looks set to join a long line of ineffectual calls for self-regulation from the tech industry.",
           "image": null,
           "other_news": true
         },
@@ -1707,17 +1672,6 @@
           "other_news": true
         },
         {
-          "title": "100 years ago, Schrödinger’s equation shed light on quantum physics – scientists use it today to fine-tune chemical reactions",
-          "link": "https://theconversation.com/100-years-ago-schrodingers-equation-shed-light-on-quantum-physics-scientists-use-it-today-to-fine-tune-chemical-reactions-284912",
-          "published": "2026-10-01T12:42:20+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "A 100-year-old equation helps scientists build solar cells, develop biofuels and even study quantum computers.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Wind turbine taller than the Eiffel Tower aims to boost German electricity production",
           "link": "https://news.mongabay.com/short-article/2026/10/wind-turbine-taller-than-the-eiffel-tower-aims-to-boost-german-electricity-production/",
           "published": "2026-10-01T18:18:22+00:00",
@@ -1781,17 +1735,6 @@
           "language": "en",
           "summary": "As a potentially historic El Niño builds in the Pacific, evidence suggests that climate change is ratcheting up the intensity of such events. And as t",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/30115329/drought-and-humanitarian-crisis-in-Ethiopia-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Uganda pastoralists turn to wild plants as food shortages bite, study finds",
-          "link": "https://news.mongabay.com/2026/09/uganda-pastoralists-turn-to-wild-plants-as-food-shortages-bite-study-finds/",
-          "published": "2026-09-29T19:11:01+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "For decades, the global outlook for food and agriculture has brought heightened concerns  as climate patterns create a mix of droughts and floods acro",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/29073341/The_Karamojong_or_Karimojong_an_ethnic_group_of_agro-pastoral_herders_living_mainly_in_the_north-east_of_-768x512.jpg",
           "other_news": true
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:55:02.482133+00:00",
+  "generated_at": "2026-10-02T05:01:10.866071+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -242,6 +242,17 @@
           "summary": "A 450-year dataset shows the 16th-century collapse of the Baltic's Skanör-Falsterbo herring fishery was driven by overfishing, climate cooling and eco",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "India’s isolated island tribes need autonomy to survive rising threats, says scholar",
+          "link": "https://news.mongabay.com/short-article/2026/10/indias-isolated-island-tribes-need-autonomy-to-survive-rising-threats-says-scholar/",
+          "published": "2026-10-01T20:55:30+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Isolated and contacted Indigenous tribes in India’s Andaman and Nicobar Islands face threats from illegal fishing, mega-development projects and misin",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/14173728/m.-2-Gillnetting-fishers-off-North-Sentinel-wreck-coast-768x512.jpeg",
+          "other_news": false
         }
       ],
       "Nature-Based Solutions & Restoration": [
@@ -254,6 +265,17 @@
           "language": "fr",
           "summary": "Les écosystèmes marins –&nbsp;des mangroves aux baleines, en passant par le phytoplancton&nbsp;–contiennent du carbone, mais gare à ne pas en tirer le",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Mangroves keep waves at bay. A new study helps scientists predict how",
+          "link": "https://news.mongabay.com/2026/10/mangroves-keep-waves-at-bay-a-new-study-helps-scientists-predict-how/",
+          "published": "2026-10-01T23:29:33+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Existing at the junction of land and sea, mangrove forests have long been heralded for their ecosystem services, including their ability to buffer coa",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01133108/OceanImageBank_MPA25_AlexPike-768x512.jpg",
           "other_news": false
         }
       ],
@@ -571,17 +593,6 @@
           "other_news": false
         },
         {
-          "title": "Baisser la TVA sur les carburants : la proposition de Marine Le Pen est-elle réaliste ?",
-          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/30/baisser-la-tva-sur-les-carburants-la-proposition-de-marine-le-pen-est-elle-realiste_6786069_4355770.html",
-          "published": "2026-09-30T15:00:08+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Illégale, chère, non ciblée, anti-écolo… Passage en revue des principales critiques à propos de la promesse phare du Rassemblement national pour faire",
-          "image": "https://img.lemde.fr/2026/09/29/666/0/8000/4000/644/322/60/0/5d9e476_upload-1-zvcwrb5n5m8o-jmug260928019.jpg",
-          "other_news": false
-        },
-        {
           "title": "Un «costard en kevlar» : l’affaire Bardella révèle le visage du fascisme et l’honneur du journalisme",
           "link": "https://vert.eco/chaleurs-actuelles/un-costard-en-kevlar-laffaire-bardella-revele-le-visage-du-fascisme-et-lhonneur-du-journalisme/",
           "published": "2026-09-30T15:11:09+00:00",
@@ -656,17 +667,6 @@
           "language": "en",
           "summary": "Rising sea levels due to climate change could damage hundreds of thousands of properties and millions of hectares of land along Australia’s coastline",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01084107/5419975426_d403498796_k-e1790844181478-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Hurricane Polo makes landfall in Baja California, flooding coastal communities and toppling trees",
-          "link": "https://news.mongabay.com/short-article/2026/09/hurricane-polo-makes-landfall-in-baja-california-flooding-coastal-communities-and-toppling-trees/",
-          "published": "2026-09-29T17:47:47+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "PUERTO SAN CARLOS, Mexico (AP) — Hurricane Polo has made landfall in Baja California, Mexico, with powerful winds and flash flooding. The Category 2 h",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/29174645/AP26272321204166-768x512.jpg",
           "other_news": false
         }
       ]
@@ -1531,6 +1531,28 @@
           "other_news": true
         },
         {
+          "title": "Les entreprises françaises sont-elles lésées face aux américaines sur la notation en matière sociale, environnementale et de gouvernance ?",
+          "link": "https://www.lemonde.fr/argent/article/2026/10/02/les-entreprises-francaises-sont-elles-lesees-face-aux-americaines-sur-la-notation-en-matiere-sociale-environnementale-et-de-gouvernance_6786900_1657007.html",
+          "published": "2026-10-02T06:00:34+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Des gérants accusent les grandes agences de notation de sous-évaluer les performances des entreprises françaises. Leurs critères d’évaluation extra-fi",
+          "image": "https://img.lemde.fr/2025/08/06/125/0/1500/750/644/322/60/0/da9750e_upload-1-ipx2npzwun1x-lmargent230.jpg",
+          "other_news": true
+        },
+        {
+          "title": "L’été 2026 devient le plus chaud jamais enregistré en Europe occidentale, sans provoquer de sursaut politique",
+          "link": "https://www.lemonde.fr/international/article/2026/10/02/l-ete-2026-devient-le-plus-chaud-jamais-enregistre-en-europe-occidentale-sans-provoquer-de-sursaut-politique_6786757_3210.html",
+          "published": "2026-10-02T04:00:08+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Selon le service européen Copernicus, la température moyenne estivale s’est établie à 21,7 °C, bien au-dessus de la moyenne, et le débit des cours d’e",
+          "image": "https://img.lemde.fr/2026/10/01/416/0/5000/2500/644/322/60/0/954560c_upload-1-dsu2h59sxfba-000-c4fv29g.jpg",
+          "other_news": true
+        },
+        {
           "title": "Flambée du prix des carburants : « En l’absence de politiques de logement ou de mobilité, comment s’étonner que les mêmes causes produisent les mêmes effets ? »",
           "link": "https://www.lemonde.fr/idees/article/2026/10/01/flambee-du-prix-des-carburants-en-l-absence-de-politiques-de-logement-ou-de-mobilite-comment-s-etonner-que-les-memes-causes-produisent-les-memes-effets_6786543_3232.html",
           "published": "2026-10-01T17:00:12+02:00",
@@ -1619,13 +1641,24 @@
           "other_news": true
         },
         {
-          "title": "Marche pour le climat : à Fontainebleau comme dans plus de 260 villes, «l’été a provoqué une grosse envie d’agir»",
-          "link": "https://vert.eco/rapports-de-force/marche-pour-le-climat-a-fontainebleau-comme-dans-plus-de-260-villes-lete-a-provoque-une-grosse-envie-dagir/",
-          "published": "2026-09-26T16:37:21+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Are Australia’s native bees thriving or declining? We don’t know but can find out",
+          "link": "https://theconversation.com/are-australias-native-bees-thriving-or-declining-we-dont-know-but-can-find-out-292219",
+          "published": "2026-10-02T02:00:12+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Samedi, des manifestant·es se sont rassemblé·es dans plus de 260 villes de France à l’appel du mouvement citoyen pour le climat, le vivant et la justi",
+          "language": "en",
+          "summary": "Native bees pollinate many of Australia’s unique plants and help entire ecosystems thrive.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "In a year of record-breaking heat, Australia and Pacific leaders meet to sharpen climate goals",
+          "link": "https://theconversation.com/in-a-year-of-record-breaking-heat-australia-and-pacific-leaders-meet-to-sharpen-climate-goals-292990",
+          "published": "2026-10-02T01:22:58+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "These Pacific meetings are a curtain raiser for the annual UN climate meetings in Turkey next month.",
           "image": null,
           "other_news": true
         },
@@ -1681,28 +1714,6 @@
           "type": "news",
           "language": "en",
           "summary": "A 100-year-old equation helps scientists build solar cells, develop biofuels and even study quantum computers.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Grattan on Friday: Albanese leaves grim domestic scene as he flies to the blue Pacific",
-          "link": "https://theconversation.com/grattan-on-friday-albanese-leaves-grim-domestic-scene-as-he-flies-to-the-blue-pacific-292581",
-          "published": "2026-10-01T07:46:48+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "A ‘pre-COP’ meeting in Fiji and Tuvalu is one of those initiatives that seemed a good idea at the time, but for Albanese it will feel more chore than",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "NSW’s largest coal mine project is set to expand. Here’s what authorities got wrong about the trade-offs",
-          "link": "https://theconversation.com/nsws-largest-coal-mine-project-is-set-to-expand-heres-what-authorities-got-wrong-about-the-trade-offs-293096",
-          "published": "2026-10-01T02:45:28+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "A coal mine in the Hunter Valley region has sparked debate among politicians, environmental advocates and local residents.",
           "image": null,
           "other_news": true
         },

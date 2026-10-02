@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T17:52:24.288221+00:00",
+  "generated_at": "2026-10-02T18:27:42.741749+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -610,6 +610,17 @@
           "language": "en",
           "summary": "Our ocean has absorbed more than 90% of excess heat caused by human-driven climate change and a quarter of the carbon dioxide we emit. In simple terms",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Vietnam’s fishers face rising costs, declining catches and a contested sea",
+          "link": "https://news.mongabay.com/2026/10/vietnams-fishers-face-rising-costs-declining-catches-and-a-contested-sea/",
+          "published": "2026-10-02T18:01:16+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "QUANG NGAI, Vietnam — When diesel prices in Vietnam hit an all-time high in March, Vo Huu Viet, a fisherman with more than 30 years at sea in Quang Ng",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/02130412/vietnamese-fishers-768x512.jpg",
           "other_news": false
         },
         {

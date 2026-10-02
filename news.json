@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:36:45.265374+00:00",
+  "generated_at": "2026-10-02T13:54:55.284297+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -257,6 +257,17 @@
           "other_news": false
         },
         {
+          "title": "Mangrove restoration is becoming big business, but benefits don’t always reach local people",
+          "link": "https://theconversation.com/mangrove-restoration-is-becoming-big-business-but-benefits-dont-always-reach-local-people-292874",
+          "published": "2026-10-02T12:49:42+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Beyond the monetary value of carbon credits sits something more complex: every restoration project involves trade-offs, and somebody carries them.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Mangroves keep waves at bay. A new study helps scientists predict how",
           "link": "https://news.mongabay.com/2026/10/mangroves-keep-waves-at-bay-a-new-study-helps-scientists-predict-how/",
           "published": "2026-10-01T23:29:33+00:00",
@@ -415,17 +426,6 @@
           "other_news": false
         },
         {
-          "title": "Britain’s most artificial landscape may not survive climate change",
-          "link": "https://theconversation.com/britains-most-artificial-landscape-may-not-survive-climate-change-286876",
-          "published": "2026-09-16T11:17:08+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "The Fens are a food-growing powerhouse, but the landscape only exists thanks to humans holding back the sea.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Antarctica’s ice loss is locked in, and extra snowfall won’t save it – that’s bad news for low-lying coastal areas elsewhere",
           "link": "https://theconversation.com/antarcticas-ice-loss-is-locked-in-and-extra-snowfall-wont-save-it-thats-bad-news-for-low-lying-coastal-areas-elsewhere-293066",
           "published": "2026-09-30T12:47:28+00:00",
@@ -565,17 +565,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Après les révélations de Mediapart sur les propos antisémites attribués à Jordan Bardella, Marine Le Pen a volé au secours du président du RN… tout en",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "North Sea, Nature Untamed puts personal wonder back into nature documentaries",
-          "link": "https://theconversation.com/north-sea-nature-untamed-puts-personal-wonder-back-into-nature-documentaries-292940",
-          "published": "2026-10-01T13:40:00+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "North Sea, Nature Untamed signals a shift in wildlife filmmaking.",
           "image": null,
           "other_news": false
         },
@@ -902,6 +891,17 @@
           "other_news": true
         },
         {
+          "title": "Seaweed strandings cause a stink – here’s why they harm your health",
+          "link": "https://theconversation.com/seaweed-strandings-cause-a-stink-heres-why-they-harm-your-health-293131",
+          "published": "2026-10-02T13:12:55+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "When free-floating patches of seaweed are pushed together by currents and winds, seaweed strandings can inundate the coastline with often devastating",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "How the new Great British Grid could help households benefit from abundant and cheap renewable power",
           "link": "https://theconversation.com/how-the-new-great-british-grid-could-help-households-benefit-from-abundant-and-cheap-renewable-power-293295",
           "published": "2026-10-01T14:23:12+00:00",
@@ -986,17 +986,6 @@
           "type": "news",
           "language": "en",
           "summary": "Any additional emissions from a UK gasfield are incompatible with climate targets.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Earthshot and the science of positive tipping points: how environmental progress can become unstoppable",
-          "link": "https://theconversation.com/earthshot-and-the-science-of-positive-tipping-points-how-environmental-progress-can-become-unstoppable-291491",
-          "published": "2026-09-16T10:45:37+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Change happens rapidly when we know where to look: these solutions could tip the world towards a better future.",
           "image": null,
           "other_news": true
         },
@@ -1661,14 +1650,14 @@
           "other_news": true
         },
         {
-          "title": "Rising CO₂ is making African savanna grasses grow more – what this means for grazing, fire and carbon storage",
-          "link": "https://theconversation.com/rising-co-is-making-african-savanna-grasses-grow-more-what-this-means-for-grazing-fire-and-carbon-storage-291313",
-          "published": "2026-10-01T13:47:27+00:00",
-          "source": "The Conversation",
+          "title": "Uganda and NGO to co-manage sector of national park home to tree-climbing lions",
+          "link": "https://news.mongabay.com/short-article/2026/10/uganda-and-ngo-to-co-manage-sector-of-national-park-home-to-tree-climbing-lions/",
+          "published": "2026-10-02T12:49:05+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "New research in the Kruger National Park has found that rising CO₂ in the atmosphere helps savanna grasses grow when less water is available.",
-          "image": null,
+          "summary": "The Uganda Wildlife Authority (UWA) and the Wildlife Conservation Society (WCS) have signed a 10-year agreement to co-manage a portion of Queen Elizab",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/10105224/QENP23-71-768x512.jpg",
           "other_news": true
         },
         {

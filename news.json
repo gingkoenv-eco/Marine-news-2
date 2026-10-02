@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T13:54:55.284297+00:00",
+  "generated_at": "2026-10-02T17:52:24.288221+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -187,6 +187,17 @@
           "other_news": false
         },
         {
+          "title": "Probiotics prevented coral bleaching during a Red Sea heat wave: Study",
+          "link": "https://news.mongabay.com/2026/10/probiotics-prevented-coral-bleaching-during-a-red-sea-heat-wave-study/",
+          "published": "2026-10-02T15:06:24+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "As a heat wave settled on the Red Sea in 2022, a patch of corals in a reef 15 kilometers (9.3 miles) off the coast of Saudi Arabia reacted differently",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/02132528/Researcher-Raquel-Peixoto-inoculating-probiotics-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Endangered dolphins survive in a Bangladesh river so polluted it’s ‘not livable’ for fish",
           "link": "https://news.mongabay.com/short-article/2026/10/endangered-dolphins-survive-in-a-bangladesh-river-so-polluted-its-not-livable-for-fish/",
           "published": "2026-10-01T05:48:26+00:00",
@@ -281,8 +292,8 @@
       ],
       "Polar & Reef Ecosystems & Resilience": [
         {
-          "title": "Arctic infrastructure was built on frozen ground – drones and digital twins can help spot the permafrost thaw coming",
-          "link": "https://theconversation.com/arctic-infrastructure-was-built-on-frozen-ground-drones-and-digital-twins-can-help-spot-the-permafrost-thaw-coming-292097",
+          "title": "Arctic infrastructure was built on frozen ground that’s starting to thaw – drones can help spot the permafrost changes coming",
+          "link": "https://theconversation.com/arctic-infrastructure-was-built-on-frozen-ground-thats-starting-to-thaw-drones-can-help-spot-the-permafrost-changes-coming-292097",
           "published": "2026-09-29T12:45:24+00:00",
           "source": "The Conversation US",
           "type": "news",
@@ -300,6 +311,17 @@
           "language": "en",
           "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.&#8230;\nThe post ‘Co",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Permafrost, wetland, wildfire and freshwater emissions could amplify climate change by up to 30%, study finds",
+          "link": "https://news.mongabay.com/2026/10/permafrost-wetland-wildfire-and-freshwater-emissions-could-amplify-climate-change-by-up-to-30-study-finds/",
+          "published": "2026-10-02T14:05:37+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "As frozen ground thaws in the Arctic, dead plants and animals locked in soils for thousands of years start to decay, releasing methane and carbon diox",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/03/20070720/7-The-Kutuk-River-768x512.jpg",
           "other_news": false
         }
       ],
@@ -638,6 +660,19 @@
           "image": "https://i.guim.co.uk/img/media/cc1bd4fa09ba7f5f49796f92c877ad5d1be2c16b/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=7ac95c323557914761449c0efb74dbea",
           "other_news": false
         }
+      ],
+      "Other Marine News": [
+        {
+          "title": "How to grow $25K into community-led conservation: Interview with Tanzania’s Mwambao",
+          "link": "https://news.mongabay.com/2026/10/how-to-grow-25k-into-community-led-conservation-interview-with-tanzanias-mwambao/",
+          "published": "2026-10-02T13:58:53+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "UNGUJA, Tanzania — Decades before they would partner to build a marine conservation organization together, Ali Thani and Lorna Slade crossed paths in",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/02134417/70739416_1145382202323166_5232273015621812224_n-768x512.jpg",
+          "other_news": false
+        }
       ]
     },
     "Other News": {
@@ -673,17 +708,6 @@
           "language": "fr",
           "summary": "C'est une autre conséquence du changement climatique : la pollution de l'air à l'ozone a touché, à des niveaux dangereux, 40 % d",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260717__hl_smouchmouche_3235718__v1__highres__francebastilledayparadeaerialvi-dc390.jpg?1790733601",
-          "other_news": true
-        },
-        {
-          "title": "Pollution à l’ozone : l’Ile-de-France a enregistré cet été seize journées « hors norme », du jamais-vu depuis la canicule de 2003",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/01/pollution-a-l-ozone-l-ile-de-france-a-enregistre-cet-ete-seize-journee-hors-norme-du-jamais-vu-depuis-la-canicule-de-2003_6786456_3244.html",
-          "published": "2026-10-01T07:42:11+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "L’ozone peut pénétrer profondément dans l’appareil respiratoire, provoquant toux, gêne respiratoire, sensation de brûlure dans les yeux, et aggraver l",
-          "image": "https://img.lemde.fr/2026/09/28/0/0/6208/3104/644/322/60/0/d2a53d9_upload-1-xgj5imwh0nia-000-c4xg2jw.jpg",
           "other_news": true
         }
       ],
@@ -805,12 +829,12 @@
         {
           "title": "Backshall makes nature 'cool' to inspire children",
           "link": "https://www.bbc.co.uk/news/articles/cjx2zk09rg36o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-02T09:27:11+00:00",
+          "published": "2026-10-02T14:16:32+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
           "summary": "Steve Backshall says growing up with rescue animals helped inspire his passion for nature.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8d/live/9e4180f0-b830-11f1-b4bc-39c67eb36497.jpg",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b727/live/825286f0-552a-11f1-9e1e-29cb974f260a.jpg",
           "other_news": true
         },
         {
@@ -1089,6 +1113,17 @@
           "other_news": true
         },
         {
+          "title": "Big banks behind “net zero” alliance continued lending to coal firms",
+          "link": "https://www.climatechangenews.com/2026/10/02/major-banks-behind-net-zero-alliance-continued-lending-to-coal-firms/",
+          "published": "2026-10-02T15:20:10+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "New data shows coal finance has stayed steady at the global level since 2022, as international efforts to cut the ties between lending and emissions f",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "As COP31 co-host, Australia should make its polluters pay for climate damage",
           "link": "https://www.climatechangenews.com/2026/10/02/as-cop31-co-host-australia-should-make-its-polluters-pay-for-climate-damage/",
           "published": "2026-10-02T06:44:49+00:00",
@@ -1342,14 +1377,14 @@
           "other_news": true
         },
         {
-          "title": "Vivre à côté d'usines, de stations d'épuration, de décharges : comment les « gens du voyage » subissent le racisme environnemental",
-          "link": "https://reporterre.net/Vivre-a-cote-d-usines-de-stations-d-epuration-de-decharges-comment-les-gens-du-voyage",
-          "published": "2026-10-02T08:40:31+00:00",
+          "title": "« Nous n'acceptons plus de réparer les dégâts causés par les politiques » : des soignants rejoignent la lutte contre les pesticides",
+          "link": "https://reporterre.net/Soignant-es-scientifiques-denoncons-ceux-qui-detruisent-la-sante",
+          "published": "2026-10-02T06:00:00+00:00",
           "source": "Reporterre",
           "type": "news",
           "language": "fr",
-          "summary": "Aires d'accueil polluées, espérance de vie réduite et arguments écolos détournés : l'auteur et juriste William Acker pointe le r",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20201204__8wf4db__v1__highres__franceminoritieshealthpollutionindustrywaste-116cb.jpg?1790930462",
+          "summary": "Scientifiques et soignantes opposées aux pesticides appellent, dans cette tribune, à se mobiliser contre Syngenta le 3 octobre e",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/pestipartoutmanifsaussi-85daf.jpg?1790920800",
           "other_news": true
         },
         {
@@ -1364,8 +1399,8 @@
           "other_news": true
         },
         {
-          "title": "D'ici 2030, l'impact environnemental de l'IA pourrait être multiplié par 7",
-          "link": "https://reporterre.net/D-ici-2030-l-impact-environnemental-de-l-IA-pourrait-etre-multiplie-par-7",
+          "title": "D'ici 2030, le poids environnemental de l'IA pourrait être multiplié par 7",
+          "link": "https://reporterre.net/D-ici-2030-le-poids-environnemental-de-l-IA-pourrait-etre-multiplie-par-7",
           "published": "2026-09-30T10:05:00+00:00",
           "source": "Reporterre",
           "type": "news",
@@ -1474,24 +1509,13 @@
           "other_news": true
         },
         {
-          "title": "« Les marches pour le climat et la justice sociale doivent être aussi antiracistes et anticoloniales »",
-          "link": "https://reporterre.net/Les-marches-pour-le-climat-et-la-justice-sociale-doivent-etre-aussi-antiracistes-et",
-          "published": "2026-09-24T16:03:38+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les auteurs de cette tribune appellent à manifester « ensemble, sans effacer les voix » lors de la marche climat du 26 septembre",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/280925_nmn_5792_marche_climat_a_c_nnoman-fb83d.jpg?1790265819",
-          "other_news": true
-        },
-        {
-          "title": "Wild animals are our climate allies, peer-reviewed study reaffirms",
-          "link": "https://oceanographicmagazine.com/news/wild-animals-are-our-climate-allies-peer-reviewed-study-reaffirms/",
-          "published": "2026-09-25T13:48:39+00:00",
+          "title": "Rights of Nature spreads as councils adopt River Avon Charter",
+          "link": "https://oceanographicmagazine.com/news/rights-of-nature-spreads-as-councils-adopt-river-avon-charter/",
+          "published": "2026-10-02T15:07:05+00:00",
           "source": "Oceanographic",
           "type": "news",
           "language": "en",
-          "summary": "A new peer-reviewed article in Global Change Biology backs the Scientific Consensus on Wildlife and Climate, showing how animals like dugongs and tige",
+          "summary": "Eleven councils have adopted a community-led charter recognising the River Avon as a living entity with rights, as campaigners say more than 20 simila",
           "image": null,
           "other_news": true
         },
@@ -1548,17 +1572,6 @@
           "language": "fr",
           "summary": "Alors que 60 % des importations européennes de gaz naturel liquéfié proviennent désormais des Etats-Unis, l’empreinte carbone de cette source d’énergi",
           "image": "https://img.lemde.fr/2026/10/01/333/0/4024/2012/644/322/60/0/ed7f087_upload-1-vkymkzhbvntk-063-2198779792.jpg",
-          "other_news": true
-        },
-        {
-          "title": "« La “climateflation”, la hausse des prix des denrées alimentaires due au dérèglement climatique, prend de l’ampleur »",
-          "link": "https://www.lemonde.fr/economie/article/2026/10/01/la-climateflation-la-hausse-des-prix-des-denrees-alimentaires-due-au-dereglement-climatique-prend-de-l-ampleur_6786484_3234.html",
-          "published": "2026-10-01T11:00:04+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Une étude de l’institut  Zero Carbon Analytics a mesuré les conséquences des phénomènes météo extrêmes sur les cours des légumes, des fruits ou de la",
-          "image": "https://img.lemde.fr/2026/09/10/477/0/5732/2866/644/322/60/0/4bdbf22_ftp-1-vgewrgz3hegf-2026-09-10t122239z-1790590489-rc2agnac1smx-rtrmadp-3-france-economy-consumers.JPG",
           "other_news": true
         },
         {
@@ -1639,17 +1652,6 @@
           "other_news": true
         },
         {
-          "title": "Bike-sharing programs can help cities reduce emissions and congestion",
-          "link": "https://theconversation.com/bike-sharing-programs-can-help-cities-reduce-emissions-and-congestion-292563",
-          "published": "2026-10-01T15:23:10+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The environmental value of bike sharing depends partly on how often bikes are used to replace trips that would otherwise have been made by car.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Uganda and NGO to co-manage sector of national park home to tree-climbing lions",
           "link": "https://news.mongabay.com/short-article/2026/10/uganda-and-ngo-to-co-manage-sector-of-national-park-home-to-tree-climbing-lions/",
           "published": "2026-10-02T12:49:05+00:00",
@@ -1713,17 +1715,6 @@
           "language": "en",
           "summary": "It is far easier than one might expect to access the illegal wildlife trade in Canada. Chris Shepherd, a senior conservation advocate with the Center",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/30122850/earless-monitor-lizard-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Evidence builds showing climate change could be intensifying El Niño events",
-          "link": "https://news.mongabay.com/2026/09/evidence-builds-showing-climate-change-could-be-intensifying-el-nino-events/",
-          "published": "2026-09-30T14:03:46+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "As a potentially historic El Niño builds in the Pacific, evidence suggests that climate change is ratcheting up the intensity of such events. And as t",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/30115329/drought-and-humanitarian-crisis-in-Ethiopia-768x512.jpg",
           "other_news": true
         }
       ]

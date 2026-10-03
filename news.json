@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:17:31.854463+00:00",
+  "generated_at": "2026-10-03T17:18:32.333066+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -107,6 +107,17 @@
           "language": "en",
           "summary": "Epic plankton blooms make filming in the North Sea notoriously difficult. But a new documentary gives a rare glimpse of the kaleidoscopic life – seals",
           "image": "https://i.guim.co.uk/img/media/133cf01dccae88c5760a3bf553f4ee5572f3a55e/2404_906_4703_3762/master/4703.jpg?width=140&quality=85&auto=format&fit=max&s=8cda8c232809d104faa0b1370a0b8d27",
+          "other_news": false
+        },
+        {
+          "title": "I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
+          "link": "https://www.bbc.co.uk/news/articles/c6q8jly114j8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-03T17:08:10+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Wildlife cameraman Dan Abbot is caught off guard by a humpback whale, a rare sight in Welsh waters.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe3/live/9d28c1d0-be6e-11f1-8a45-cd59664d243b.jpg",
           "other_news": false
         },
         {
@@ -827,17 +838,6 @@
           "other_news": true
         },
         {
-          "title": "Michael Sheen campaign on toxic waste sites wins Senedd backing",
-          "link": "https://www.bbc.co.uk/news/articles/cvrl6g6rl081o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-30T17:03:58+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "All parties urge Welsh and UK ministers to ensure polluters pay to clean up contaminated land.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0db/live/04cb0e90-bccd-11f1-9f83-d9975ff80416.jpg",
-          "other_news": true
-        },
-        {
           "title": "Island hosts inter-island environment summit",
           "link": "https://www.bbc.co.uk/news/articles/c8e361yqp0x2o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-03T06:24:14+00:00",
@@ -1550,17 +1550,6 @@
           "language": "fr",
           "summary": "Des gérants accusent les grandes agences de notation de sous-évaluer les performances des entreprises françaises. Leurs critères d’évaluation extra-fi",
           "image": "https://img.lemde.fr/2025/08/06/125/0/1500/750/644/322/60/0/da9750e_upload-1-ipx2npzwun1x-lmargent230.jpg",
-          "other_news": true
-        },
-        {
-          "title": "L’été 2026 devient le plus chaud jamais enregistré en Europe occidentale, sans provoquer de sursaut politique",
-          "link": "https://www.lemonde.fr/international/article/2026/10/02/l-ete-2026-devient-le-plus-chaud-jamais-enregistre-en-europe-occidentale-sans-provoquer-de-sursaut-politique_6786757_3210.html",
-          "published": "2026-10-02T04:00:07+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Selon le service européen Copernicus, la température moyenne estivale s’est établie à 21,7 °C, bien au-dessus de la moyenne, et le débit des cours d’e",
-          "image": "https://img.lemde.fr/2026/10/01/416/0/5000/2500/644/322/60/0/954560c_upload-1-dsu2h59sxfba-000-c4fv29g.jpg",
           "other_news": true
         },
         {

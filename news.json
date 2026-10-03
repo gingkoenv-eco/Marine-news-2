@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:27:42.741749+00:00",
+  "generated_at": "2026-10-03T05:01:12.762141+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -62,6 +62,17 @@
           "summary": "Satellite tracking data was used to look at which ships and boats were active in the Seychelles waters.",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "Satellite data reveal massive scale of routine oil pollution in oceans. See the map",
+          "link": "https://news.mongabay.com/short-article/2026/10/satellite-data-reveal-massive-scale-of-routine-oil-pollution-in-oceans-see-the-map/",
+          "published": "2026-10-02T23:11:39+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Oil slicks from ships and offshore oil platforms cover nearly 1.6 million square kilometers (618,000 square miles) of the ocean surface each year, an",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/02230440/GP0SU1R1Q-768x512.jpg",
+          "other_news": false
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -96,17 +107,6 @@
           "language": "en",
           "summary": "Epic plankton blooms make filming in the North Sea notoriously difficult. But a new documentary gives a rare glimpse of the kaleidoscopic life – seals",
           "image": "https://i.guim.co.uk/img/media/133cf01dccae88c5760a3bf553f4ee5572f3a55e/2404_906_4703_3762/master/4703.jpg?width=140&quality=85&auto=format&fit=max&s=8cda8c232809d104faa0b1370a0b8d27",
-          "other_news": false
-        },
-        {
-          "title": "The place that never freezes: the Arctic habitat where global heating threatens more ice, not less",
-          "link": "https://www.theguardian.com/environment/2026/sep/03/the-place-that-never-freezes-the-arctic-habitat-where-global-heating-threatens-more-ice-not-less",
-          "published": "2026-09-03T04:00:42+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The race to study the North Water between Canada and Greenland before it changes has led to a bold plan for an Inuit-run protected areaElectric-blue m",
-          "image": "https://i.guim.co.uk/img/media/b8962c5807d3bc31ee768c3d99523c5a4e617719/21_0_3266_2613/master/3266.jpg?width=140&quality=85&auto=format&fit=max&s=1e26a8c90a2c8cf2cc07b4cbaea32028",
           "other_news": false
         },
         {
@@ -404,6 +404,17 @@
           "other_news": false
         },
         {
+          "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+          "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-02T21:00:41+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fab2/live/e805b6e0-be91-11f1-9f15-2f9dbc671f7d.jpg",
+          "other_news": false
+        },
+        {
           "title": "Des tonnes de plastique s’échouent sur les plages des Seychelles : nous avons retracé leur origine",
           "link": "https://theconversation.com/des-tonnes-de-plastique-sechouent-sur-les-plages-des-seychelles-nous-avons-retrace-leur-origine-292467",
           "published": "2026-09-26T07:05:20+00:00",
@@ -569,14 +580,14 @@
           "other_news": false
         },
         {
-          "title": "Au Kenya, le lancement en un temps record du chantier de la raffinerie Dangote",
-          "link": "https://www.lemonde.fr/economie/article/2026/10/01/au-kenya-le-lancement-en-un-temps-record-du-chantier-de-la-raffinerie-dangote_6786533_3234.html",
-          "published": "2026-10-01T16:00:07+02:00",
+          "title": "En Californie, le niveau de la mer va temporairement augmenter d’une trentaine de centimètres",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/03/en-californie-le-niveau-de-la-mer-va-temporairement-augmenter-d-une-trentaine-de-centimetres_6787423_3244.html",
+          "published": "2026-10-03T03:46:03+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Le magnat nigérian Aliko Dangote ambitionne de répliquer sa raffinerie de Lagos à Lamu, une région isolée face à l’océan Indien. Mercredi 30 septembre",
-          "image": "https://img.lemde.fr/2026/09/30/279/0/5000/2500/644/322/60/0/d20677d_ftp-1-uwtfv3xovwvm-5229229-01-06.jpg",
+          "summary": "Le phénomène est provoqué par une onde océanique géante dopée par l’événement climatique El Niño. Ni surfable ni visible à l’œil nu, cette vague devra",
+          "image": "https://img.lemde.fr/2026/09/25/652/0/5096/2548/644/322/60/0/ac9d927_ftp-1-k6s5rmy3izp9-5182936-01-06.jpg",
           "other_news": false
         },
         {
@@ -788,17 +799,6 @@
           "type": "news",
           "language": "en",
           "summary": "A rift over how IPCC messages are produced and turned into policy is creating tensions in the world's most influential coalition of climate NGOs\nThe p",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The UK’s pension triple lock has done its job and needs to be retired",
-          "link": "https://theconversation.com/the-uks-pension-triple-lock-has-done-its-job-and-needs-to-be-retired-293269",
-          "published": "2026-10-01T15:33:49+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The triple lock is a fairly recent part of pension policy.",
           "image": null,
           "other_news": true
         }
@@ -1564,28 +1564,6 @@
           "other_news": true
         },
         {
-          "title": "Ecobalyse, l’étiquetage qui mesure l’impact environnemental des vêtements, voit son utilisation élargie",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/01/ecobalyse-l-etiquetage-qui-mesure-l-impact-environnemental-des-vetements-voit-son-utilisation-elargie_6786527_3244.html",
-          "published": "2026-10-01T15:30:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "A partir d’octobre, un tiers peut référencer le score environnemental de vêtements à la place des marques. Un premier pas pour élargir le déploiement",
-          "image": "https://img.lemde.fr/2026/10/01/473/0/5677/2838/644/322/60/0/1e3fde5_upload-1-2c8cbntwwp2h-maxnewsspecialtwo465504.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Pire que le charbon ? Controverse autour de l’impact carbone du gaz américain importé en Europe",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/01/pire-que-le-charbon-controverse-autour-de-l-impact-carbone-du-gaz-americain-importe-en-europe_6786517_3244.html",
-          "published": "2026-10-01T14:39:52+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Alors que 60 % des importations européennes de gaz naturel liquéfié proviennent désormais des Etats-Unis, l’empreinte carbone de cette source d’énergi",
-          "image": "https://img.lemde.fr/2026/10/01/333/0/4024/2012/644/322/60/0/ed7f087_upload-1-vkymkzhbvntk-063-2198779792.jpg",
-          "other_news": true
-        },
-        {
           "title": "Au Brésil, les femmes autochtones à la conquête du pouvoir : «La violence politique est extrêmement forte»",
           "link": "https://vert.eco/international/au-bresil-les-femmes-autochtones-a-la-conquete-du-pouvoir-la-violence-politique-est-extremement-forte/",
           "published": "2026-09-30T04:00:00+00:00",
@@ -1715,17 +1693,6 @@
           "language": "en",
           "summary": "With illegal logging and agricultural expansion closing in on their lands, four Indigenous Wounaan and Emberá-Wounaan villages in Panama’s Darién fore",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/12/31193348/1024px-Bairds_tapir_mother_with_baby_92151-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Illegal wildlife continues to slip through Canada’s borders. Experts explain how",
-          "link": "https://news.mongabay.com/2026/09/illegal-wildlife-continues-to-slip-through-canadas-borders-experts-explain-how/",
-          "published": "2026-09-30T15:13:53+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "It is far easier than one might expect to access the illegal wildlife trade in Canada. Chris Shepherd, a senior conservation advocate with the Center",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/30122850/earless-monitor-lizard-768x512.jpg",
           "other_news": true
         }
       ]

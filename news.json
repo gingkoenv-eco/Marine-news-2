@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:01:12.762141+00:00",
+  "generated_at": "2026-10-03T11:40:50.598840+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -838,6 +838,17 @@
           "other_news": true
         },
         {
+          "title": "Island hosts inter-island environment summit",
+          "link": "https://www.bbc.co.uk/news/articles/c8e361yqp0x2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-03T06:24:14+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The annual event brings together delegates to share ideas and develop joint projects.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2367/live/15617120-be73-11f1-babe-4199b0e7ccea.jpg",
+          "other_news": true
+        },
+        {
           "title": "Backshall makes nature 'cool' to inspire children",
           "link": "https://www.bbc.co.uk/news/articles/cjx2zk09rg36o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-02T14:16:32+00:00",
@@ -1553,17 +1564,6 @@
           "other_news": true
         },
         {
-          "title": "Flambée du prix des carburants : « En l’absence de politiques de logement ou de mobilité, comment s’étonner que les mêmes causes produisent les mêmes effets ? »",
-          "link": "https://www.lemonde.fr/idees/article/2026/10/01/flambee-du-prix-des-carburants-en-l-absence-de-politiques-de-logement-ou-de-mobilite-comment-s-etonner-que-les-memes-causes-produisent-les-memes-effets_6786543_3232.html",
-          "published": "2026-10-01T17:00:12+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Il existe un décalage troublant entre les crises liées au pétrole, qui se répètent, et l’absence de vision des responsables politiques sur des enjeux",
-          "image": "https://img.lemde.fr/2026/09/22/811/0/3333/1666/644/322/60/0/f02b253_upload-1-o8q6uy41byth-lewisjoly-lemonde-22-09-26-033.JPG",
-          "other_news": true
-        },
-        {
           "title": "Au Brésil, les femmes autochtones à la conquête du pouvoir : «La violence politique est extrêmement forte»",
           "link": "https://vert.eco/international/au-bresil-les-femmes-autochtones-a-la-conquete-du-pouvoir-la-violence-politique-est-extremement-forte/",
           "published": "2026-09-30T04:00:00+00:00",
@@ -1571,17 +1571,6 @@
           "type": "news",
           "language": "fr",
           "summary": "En 2026, un nombre record d’autochtones se présentent aux élections brésiliennes. Une dynamique largement portée par les femmes, qui tentent de conqué",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "«On vit un paradoxe terrible» : trahie par le gouvernement, la filière des énergies renouvelables s’enfonce dans la crise",
-          "link": "https://vert.eco/energie/on-vit-un-paradoxe-terrible-trahie-par-le-gouvernement-la-filiere-des-energies-renouvelables-senfonce-dans-la-crise/",
-          "published": "2026-09-29T09:18:29+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Au lieu de s’imposer comme une évidence face aux turbulences fossiles, la filière française des énergies renouvelables supprime des emplois par millie",
           "image": null,
           "other_news": true
         },

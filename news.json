@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T13:15:35.967513+00:00",
+  "generated_at": "2026-10-04T16:50:53.449637+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -194,17 +194,6 @@
           "type": "news",
           "language": "en",
           "summary": "Eastport’s city council has banned large data centres, but a separate federal permitting process is continuing, and campaigners have filed a legal cha",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "The Annual Migration to Clean Up Our Coasts",
-          "link": "https://oceanconservancy.org/blog/2026/09/04/clean-up-our-coasts/",
-          "published": "2026-09-04T14:18:13+00:00",
-          "source": "Ocean Conservancy",
-          "type": "news",
-          "language": "en",
-          "summary": "Annually, seasonally and sometimes even daily, amazing oceanic migrations are taking place. Humpback whales migrate thousands of miles to breeding gro",
           "image": null,
           "other_news": false
         },
@@ -1542,6 +1531,17 @@
           "other_news": true
         },
         {
+          "title": "« Le budget 2027 porte déjà la marque des six réacteurs nucléaires EPR2 »",
+          "link": "https://www.lemonde.fr/idees/article/2026/10/04/le-budget-2027-porte-deja-la-marque-des-six-reacteurs-nucleaires-epr2_6788313_3232.html",
+          "published": "2026-10-04T18:00:15+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le projet de budget enlève 120 millions d’euros aux énergies renouvelables et accorde gratuitement, jusqu’en 2090, la garantie de l’Etat au prêt du Li",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/53fe530_upload-1-mk0nhsgcgmoh-frame-782.jpg",
+          "other_news": true
+        },
+        {
           "title": "« Une politique juste de réduction des émissions ne consiste pas à demander le même effort à tous, mais à cibler en priorité les mobilités les plus carbonées »",
           "link": "https://www.lemonde.fr/idees/article/2026/10/04/une-politique-juste-de-reduction-des-emissions-ne-consiste-pas-a-demander-le-meme-effort-a-tous-mais-a-cibler-en-priorite-les-mobilites-les-plus-carbonees_6788111_3232.html",
           "published": "2026-10-04T10:00:11+02:00",
@@ -1593,17 +1593,6 @@
           "type": "news",
           "language": "en",
           "summary": "These Pacific meetings are a curtain raiser for the annual UN climate meetings in Turkey next month.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Ahead of the global climate summit, Pacific leaders call on nations to keep 1.5°C within reach",
-          "link": "https://theconversation.com/ahead-of-the-global-climate-summit-pacific-leaders-call-on-nations-to-keep-1-5-c-within-reach-292766",
-          "published": "2026-10-01T18:02:03+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Pacific leaders are seeking support for regional climate-finance options that give communities better access and stronger input into global decision m",
           "image": null,
           "other_news": true
         },

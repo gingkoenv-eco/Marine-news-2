@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:18:32.333066+00:00",
+  "generated_at": "2026-10-04T05:01:13.835541+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -76,6 +76,17 @@
         }
       ],
       "Marine Biodiversity & Conservation": [
+        {
+          "title": "Whales on Australia’s ‘humpback highway’ are at growing risk of injury from boat and propellor strikes",
+          "link": "https://www.theguardian.com/environment/2026/oct/04/whales-australia-humpback-highway-boat-propellor-strikes",
+          "published": "2026-10-03T19:00:06+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Exclusive: Images show deep cuts and damage to tails and fins, as experts warn the migrating species often aren’t able to avoid a collision Gruesome i",
+          "image": "https://i.guim.co.uk/img/media/de1c62e71454393aa2f4b132d298c3312ff69b9d/106_0_2554_2044/master/2554.jpg?width=140&quality=85&auto=format&fit=max&s=81497212f452a8c73b680056ff502de9",
+          "other_news": false
+        },
         {
           "title": "Mass sardine die-off pits survival of South Africa’s penguins against fishers’ livelihoods",
           "link": "https://www.theguardian.com/environment/2026/sep/24/mass-sardine-die-off-pits-survival-of-south-africas-penguins-against-fishers-livelihoods",
@@ -1520,17 +1531,6 @@
           "other_news": true
         },
         {
-          "title": "Greta Thunberg, Malcom Ferdinand et Cyril Dion appellent à rejoindre les marches climat du 26 septembre",
-          "link": "https://reporterre.net/Greta-Thunberg-Malcom-Ferdinand-et-Cyril-Dion-appellent-a-rejoindre-les-marches-climat-du",
-          "published": "2026-09-25T08:17:39+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "260 mobilisations sont annoncées en France pour les marches climat du 26 septembre. Plusieurs personnalités, dont la militante s",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH465/selection-panoram-marche-climat-marseille-13-octobre-me-7-42c25.jpg?1790324302",
-          "other_news": true
-        },
-        {
           "title": "Rights of Nature spreads as councils adopt River Avon Charter",
           "link": "https://oceanographicmagazine.com/news/rights-of-nature-spreads-as-councils-adopt-river-avon-charter/",
           "published": "2026-10-02T15:07:05+00:00",
@@ -1539,17 +1539,6 @@
           "language": "en",
           "summary": "Eleven councils have adopted a community-led charter recognising the River Avon as a living entity with rights, as campaigners say more than 20 simila",
           "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Les entreprises françaises sont-elles lésées face aux américaines sur la notation en matière sociale, environnementale et de gouvernance ?",
-          "link": "https://www.lemonde.fr/argent/article/2026/10/02/les-entreprises-francaises-sont-elles-lesees-face-aux-americaines-sur-la-notation-en-matiere-sociale-environnementale-et-de-gouvernance_6786900_1657007.html",
-          "published": "2026-10-02T06:00:15+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Des gérants accusent les grandes agences de notation de sous-évaluer les performances des entreprises françaises. Leurs critères d’évaluation extra-fi",
-          "image": "https://img.lemde.fr/2025/08/06/125/0/1500/750/644/322/60/0/da9750e_upload-1-ipx2npzwun1x-lmargent230.jpg",
           "other_news": true
         },
         {

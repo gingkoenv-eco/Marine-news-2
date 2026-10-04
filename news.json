@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T05:01:13.835541+00:00",
+  "generated_at": "2026-10-04T12:23:21.965662+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -849,6 +849,17 @@
           "other_news": true
         },
         {
+          "title": "Trust warns of 'tangible' climate threat to heritage sites",
+          "link": "https://www.bbc.co.uk/news/articles/c9vgy02038vko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-04T06:21:07+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A National Trust manager says recent summers have \"brought home\" the impact of climate change.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef57/live/d0ecdeb0-be33-11f1-883b-cfbfbf424e7e.jpg",
+          "other_news": true
+        },
+        {
           "title": "Island hosts inter-island environment summit",
           "link": "https://www.bbc.co.uk/news/articles/c8e361yqp0x2o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-03T06:24:14+00:00",
@@ -857,17 +868,6 @@
           "language": "en",
           "summary": "The annual event brings together delegates to share ideas and develop joint projects.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2367/live/15617120-be73-11f1-babe-4199b0e7ccea.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Backshall makes nature 'cool' to inspire children",
-          "link": "https://www.bbc.co.uk/news/articles/cjx2zk09rg36o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-02T14:16:32+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Steve Backshall says growing up with rescue animals helped inspire his passion for nature.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b727/live/825286f0-552a-11f1-9e1e-29cb974f260a.jpg",
           "other_news": true
         },
         {
@@ -1542,6 +1542,17 @@
           "other_news": true
         },
         {
+          "title": "« Une politique juste de réduction des émissions ne consiste pas à demander le même effort à tous, mais à cibler en priorité les mobilités les plus carbonées »",
+          "link": "https://www.lemonde.fr/idees/article/2026/10/04/une-politique-juste-de-reduction-des-emissions-ne-consiste-pas-a-demander-le-meme-effort-a-tous-mais-a-cibler-en-priorite-les-mobilites-les-plus-carbonees_6788111_3232.html",
+          "published": "2026-10-04T10:00:11+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "A l’occasion de la conférence « Grille, baby, grille ! » associant « Le Monde » et le Forum vies mobiles, un collectif de chercheuses et chercheurs in",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/e3ff931_upload-1-zkpx1shtmgl6-frame-781.jpg",
+          "other_news": true
+        },
+        {
           "title": "Au Brésil, les femmes autochtones à la conquête du pouvoir : «La violence politique est extrêmement forte»",
           "link": "https://vert.eco/international/au-bresil-les-femmes-autochtones-a-la-conquete-du-pouvoir-la-violence-politique-est-extremement-forte/",
           "published": "2026-09-30T04:00:00+00:00",
@@ -1593,17 +1604,6 @@
           "type": "news",
           "language": "en",
           "summary": "Pacific leaders are seeking support for regional climate-finance options that give communities better access and stronger input into global decision m",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Australia’s proposed laws could help regulate privacy risks from chatbots – if we get the details right",
-          "link": "https://theconversation.com/australias-proposed-laws-could-help-regulate-privacy-risks-from-chatbots-if-we-get-the-details-right-292792",
-          "published": "2026-10-01T18:00:16+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Big AI companies may already know much more about you than you’re comfortable with, even if you’ve never used their services.",
           "image": null,
           "other_news": true
         },

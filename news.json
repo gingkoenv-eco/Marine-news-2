@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:06:39.049381+00:00",
+  "generated_at": "2026-10-05T21:17:46.820331+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -143,6 +143,17 @@
           "other_news": false
         },
         {
+          "title": "First new penguin species in a century found on Kerguelen Islands",
+          "link": "https://oceanographicmagazine.com/news/first-new-penguin-species-in-a-century-found-on-kerguelen-islands/",
+          "published": "2026-10-05T18:12:47+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Genomic analysis has split the gentoo penguin into four species, including the first newly named penguin in over a century, with three island-dwelling",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "South Atlantic Whale Sanctuary bid fails a second time at IWC",
           "link": "https://oceanographicmagazine.com/news/south-atlantic-whale-sanctuary-bid-fails-a-second-time-at-iwc/",
           "published": "2026-10-02T12:30:54+00:00",
@@ -187,17 +198,6 @@
           "other_news": false
         },
         {
-          "title": "Legal bid to stop underwater AI data centre in endangered whale habitat launched",
-          "link": "https://oceanographicmagazine.com/news/legal-bid-to-stop-underwater-ai-data-centre-in-endangered-whale-habitat-launched/",
-          "published": "2026-09-28T15:56:43+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Eastport’s city council has banned large data centres, but a separate federal permitting process is continuing, and campaigners have filed a legal cha",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Probiotics prevented coral bleaching during a Red Sea heat wave: Study",
           "link": "https://news.mongabay.com/2026/10/probiotics-prevented-coral-bleaching-during-a-red-sea-heat-wave-study/",
           "published": "2026-10-02T15:06:24+00:00",
@@ -206,17 +206,6 @@
           "language": "en",
           "summary": "As a heat wave settled on the Red Sea in 2022, a patch of corals in a reef 15 kilometers (9.3 miles) off the coast of Saudi Arabia reacted differently",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/02132528/Researcher-Raquel-Peixoto-inoculating-probiotics-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Endangered dolphins survive in a Bangladesh river so polluted it’s ‘not livable’ for fish",
-          "link": "https://news.mongabay.com/short-article/2026/10/endangered-dolphins-survive-in-a-bangladesh-river-so-polluted-its-not-livable-for-fish/",
-          "published": "2026-10-01T05:48:26+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "At least 20 endangered Ganges river dolphins still survive in Bangladesh’s extremely polluted Buriganga River, a 12-month study found, reports contrib",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01054743/ganges-river-dolphin-bangladesh-3-768x512.jpg",
           "other_news": false
         }
       ],
@@ -240,17 +229,6 @@
           "type": "news",
           "language": "en",
           "summary": "With mackerel populations down 72% since 2016, experts warn coastal nations must follow scientific advice and reduce catch limits to avoid stock colla",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "What can medieval herring teach us about Baltic Sea fisheries?",
-          "link": "https://oceanographicmagazine.com/news/what-can-medieval-herring-teach-us-about-baltic-sea-fisheries/",
-          "published": "2026-09-28T13:46:37+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A 450-year dataset shows the 16th-century collapse of the Baltic's Skanör-Falsterbo herring fishery was driven by overfishing, climate cooling and eco",
           "image": null,
           "other_news": false
         },
@@ -628,7 +606,7 @@
         {
           "title": "Au plus près des fjords du Groenland pour comprendre les écosystèmes fragiles",
           "link": "https://www.lemonde.fr/sciences/article/2026/10/05/au-plus-pres-des-fjords-du-groenland-pour-comprendre-les-ecosystemes-fragiles_6788553_1650684.html",
-          "published": "2026-10-05T18:00:10+02:00",
+          "published": "2026-10-05T18:00:04+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -730,6 +708,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Deep-sea mining fails the money test, independent report finds",
+          "link": "https://oceanographicmagazine.com/news/deep-sea-mining-fails-the-money-test-independent-report-finds/",
+          "published": "2026-10-05T19:39:14+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Independent analysis of The Metals Company's own projections finds deep-sea mining destroys value in over eight in ten realistic scenarios and could l",
+          "image": null,
+          "other_news": false
+        },
         {
           "title": "How to grow $25K into community-led conservation: Interview with Tanzania’s Mwambao",
           "link": "https://news.mongabay.com/2026/10/how-to-grow-25k-into-community-led-conservation-interview-with-tanzanias-mwambao/",
@@ -1585,6 +1574,39 @@
           "language": "fr",
           "summary": "A l’occasion de la conférence « Grille, baby, grille ! » associant « Le Monde » et le Forum Vies mobiles, un collectif de chercheuses et chercheurs in",
           "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/e3ff931_upload-1-zkpx1shtmgl6-frame-781.jpg",
+          "other_news": true
+        },
+        {
+          "title": "‘1.5°C to stay alive’: Pacific countries demand the world makes good on climate promises",
+          "link": "https://theconversation.com/1-5-c-to-stay-alive-pacific-countries-demand-the-world-makes-good-on-climate-promises-293539",
+          "published": "2026-10-05T19:09:59+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "There’s a strong desire for this Pacific meeting to spur the global summit to action.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How much is the European trade deal at risk over NZ’s climate commitments?",
+          "link": "https://theconversation.com/how-much-is-the-european-trade-deal-at-risk-over-nzs-climate-commitments-293425",
+          "published": "2026-10-05T18:50:07+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A complaint to the European Commission over NZ’s potentially broken climate promises in the EU trade agreement looks strong. But the legal threshold i",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Unusual senses: the secret superpowers of amphibians and reptiles",
+          "link": "https://theconversation.com/unusual-senses-the-secret-superpowers-of-amphibians-and-reptiles-292854",
+          "published": "2026-10-05T15:36:54+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Sometimes, the most extraordinary things in nature are the things we cannot see.",
+          "image": null,
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:41:34.070223+00:00",
+  "generated_at": "2026-10-05T16:06:39.049381+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -61,17 +61,6 @@
           "language": "en",
           "summary": "Restrictions remain in place on Blyth Beach after a pollution incident was reported in August.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9595/live/925320a0-96e3-11f1-9b96-77d3dc534330.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Tonnes of fishing gear and plastic are washing up on  Seychelles beaches. We tracked where it was coming from",
-          "link": "https://theconversation.com/tonnes-of-fishing-gear-and-plastic-are-washing-up-on-seychelles-beaches-we-tracked-where-it-was-coming-from-287138",
-          "published": "2026-09-17T14:50:19+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Satellite tracking data was used to look at which ships and boats were active in the Seychelles waters.",
-          "image": null,
           "other_news": false
         },
         {
@@ -560,6 +549,17 @@
           "other_news": false
         },
         {
+          "title": "Africa should not have to adapt to an unjust climate system",
+          "link": "https://www.climatechangenews.com/2026/10/05/africa-should-not-have-to-adapt-to-an-unjust-climate-system/",
+          "published": "2026-10-05T15:54:01+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Adaptation must go beyond infrastructure and resilience to address colonial extraction, unequal development and debt dependency, which continue to fue",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Threatened by rising seas, small islands secure right to keep their statehood",
           "link": "https://www.climatechangenews.com/2026/09/24/submerged-rising-seas-small-islands-statehood-new-york-unga/",
           "published": "2026-09-24T21:41:42+00:00",
@@ -626,14 +626,14 @@
           "other_news": false
         },
         {
-          "title": "En Californie, le niveau de la mer va temporairement augmenter d’une trentaine de centimètres",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/03/en-californie-le-niveau-de-la-mer-va-temporairement-augmenter-d-une-trentaine-de-centimetres_6787423_3244.html",
-          "published": "2026-10-03T03:46:03+02:00",
+          "title": "Au plus près des fjords du Groenland pour comprendre les écosystèmes fragiles",
+          "link": "https://www.lemonde.fr/sciences/article/2026/10/05/au-plus-pres-des-fjords-du-groenland-pour-comprendre-les-ecosystemes-fragiles_6788553_1650684.html",
+          "published": "2026-10-05T18:00:10+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Le phénomène est provoqué par une onde océanique géante dopée par l’événement climatique El Niño. Ni surfable ni visible à l’œil nu, cette vague devra",
-          "image": "https://img.lemde.fr/2026/09/25/652/0/5096/2548/644/322/60/0/ac9d927_ftp-1-k6s5rmy3izp9-5182936-01-06.jpg",
+          "summary": "Sur le brise-glace « Amundsen », une trentaine de scientifiques ont parcouru la côte ouest du Groenland en août pour étudier les effets du réchauffeme",
+          "image": "https://img.lemde.fr/2026/10/02/319/0/3378/1689/644/322/60/0/2f32aba_upload-1-oxoa7x0oeoge-20260823-084033.jpg",
           "other_news": false
         },
         {
@@ -957,6 +957,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Le spectacle de la catastrophe finit-il par occulter le problème qu’il prétend raconter&nbsp;?",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Why some Indigenous communities don’t resist oil extraction in their territories",
+          "link": "https://theconversation.com/why-some-indigenous-communities-dont-resist-oil-extraction-in-their-territories-258837",
+          "published": "2026-10-05T14:58:43+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "In the Ecuadorian Amazon, oil extraction reaches communities already facing environmental pressures, pressing needs and aspirations for a better life.",
           "image": null,
           "other_news": true
         },
@@ -1412,17 +1423,6 @@
           "other_news": true
         },
         {
-          "title": "China’s industrial engine starts to break its fossil fuel habit",
-          "link": "https://www.climatechangenews.com/2026/09/08/chinas-industrial-engine-starts-to-break-its-fossil-fuel-habit/",
-          "published": "2026-09-08T15:30:15+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Despite a rebound in coal generation this year, clean energy from wind and solar is gaining ground on the fossil fuels that have powered decades of in",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "« Nous n'acceptons plus de réparer les dégâts causés par les politiques » : des soignants rejoignent la lutte contre les pesticides",
           "link": "https://reporterre.net/Soignant-es-scientifiques-denoncons-ceux-qui-detruisent-la-sante",
           "published": "2026-10-02T06:00:00+00:00",
@@ -1533,9 +1533,20 @@
           "other_news": true
         },
         {
+          "title": "Climat : les propositions de Gabriel Zucman pour financer la transition",
+          "link": "https://www.lemonde.fr/videos/video/2026/10/05/climat-les-propositions-de-gabriel-zucman-pour-financer-la-transition_6788543_1669088.html",
+          "published": "2026-10-05T17:00:01+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’économiste Gabriel Zucman propose de taxer les milliardaires et les compagnies pétrolières pour lutter contre le réchauffement climatique. Dans cett",
+          "image": "https://img.lemde.fr/2026/09/30/55/0/1778/889/644/322/60/0/28e7a09_upload-1-8cokhgipejsx-01-09-gabriel-zucman.jpg",
+          "other_news": true
+        },
+        {
           "title": "CNews, pire chaîne d’info en continu sur les questions environnementales, selon QuotaClimat",
           "link": "https://www.lemonde.fr/planete/article/2026/10/05/cnews-pire-chaine-d-info-en-continu-sur-les-questions-environnementales-selon-quotaclimat_6788540_3244.html",
-          "published": "2026-10-05T16:30:20+02:00",
+          "published": "2026-10-05T16:30:09+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",

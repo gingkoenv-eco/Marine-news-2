@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T05:01:44.381482+00:00",
+  "generated_at": "2026-10-05T14:41:34.070223+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -53,6 +53,17 @@
           "other_news": false
         },
         {
+          "title": "Creosote found in beach pollution investigation",
+          "link": "https://www.bbc.co.uk/news/articles/cq398lmlp7djo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-05T14:26:20+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Restrictions remain in place on Blyth Beach after a pollution incident was reported in August.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9595/live/925320a0-96e3-11f1-9b96-77d3dc534330.jpg",
+          "other_news": false
+        },
+        {
           "title": "Tonnes of fishing gear and plastic are washing up on  Seychelles beaches. We tracked where it was coming from",
           "link": "https://theconversation.com/tonnes-of-fishing-gear-and-plastic-are-washing-up-on-seychelles-beaches-we-tracked-where-it-was-coming-from-287138",
           "published": "2026-09-17T14:50:19+00:00",
@@ -77,7 +88,7 @@
       ],
       "Marine Biodiversity & Conservation": [
         {
-          "title": "Whales on Australia’s ‘humpback highway’ are at growing risk of injury from boat and propellor strikes",
+          "title": "Whales on Australia’s ‘humpback highway’ are at growing risk of injury from boat and propeller strikes",
           "link": "https://www.theguardian.com/environment/2026/oct/04/whales-australia-humpback-highway-boat-propellor-strikes",
           "published": "2026-10-03T19:00:06+00:00",
           "source": "The Guardian Ocean & Marine",
@@ -851,25 +862,14 @@
           "other_news": true
         },
         {
-          "title": "Trust warns of 'tangible' climate threat to heritage sites",
-          "link": "https://www.bbc.co.uk/news/articles/c9vgy02038vko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-04T06:21:07+00:00",
+          "title": "Environmental groups critical of housing levy idea",
+          "link": "https://www.bbc.co.uk/news/articles/cwm2q2e145p4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-05T05:35:03+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "A National Trust manager says recent summers have \"brought home\" the impact of climate change.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef57/live/d0ecdeb0-be33-11f1-883b-cfbfbf424e7e.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Island hosts inter-island environment summit",
-          "link": "https://www.bbc.co.uk/news/articles/c8e361yqp0x2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-03T06:24:14+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The annual event brings together delegates to share ideas and develop joint projects.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2367/live/15617120-be73-11f1-babe-4199b0e7ccea.jpg",
+          "summary": "The government wants developers to fund waterways projects in Norfolk.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b55/live/48db7a20-be8f-11f1-a64c-550be9e3c66b.png",
           "other_news": true
         },
         {
@@ -903,6 +903,17 @@
           "language": "en",
           "summary": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c3/live/6d5a64f0-ac39-11f1-bc1f-3f186ca4140c.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Comment des crottes de brebis ou du crottin de chevaux sauvages peuvent modifier un paysage",
+          "link": "https://theconversation.com/comment-des-crottes-de-brebis-ou-du-crottin-de-chevaux-sauvages-peuvent-modifier-un-paysage-290388",
+          "published": "2026-10-05T12:17:05+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "En Europe, les troupeaux d’élevage ont en grande partie remplacés les herbivores sauvages. Ce changement impacte tout l’écosystème pâturé.",
+          "image": null,
           "other_news": true
         },
         {
@@ -1148,6 +1159,17 @@
           "other_news": true
         },
         {
+          "title": "At pre-COP, UN climate chief warns of heat threat to mothers and babies",
+          "link": "https://www.climatechangenews.com/2026/10/05/at-pre-cop-un-climate-chief-warns-of-heat-threat-to-mothers-and-babies/",
+          "published": "2026-10-05T12:43:43+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "The spotlight on maternal health came on the first day of the pre-COP31 meeting in Fiji, where Pacific concerns are set to top the agenda as ministers",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Big banks behind “net zero” alliance continued lending to coal firms",
           "link": "https://www.climatechangenews.com/2026/10/02/major-banks-behind-net-zero-alliance-continued-lending-to-coal-firms/",
           "published": "2026-10-02T15:20:10+00:00",
@@ -1176,7 +1198,7 @@
           "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Brazilians are heading to the polls, diplomats are gathering in the Pacific for Pre-COP, and it's crunch time for the IPCC\nThe post What&#8217;s on th",
+          "summary": "Brazilians are heading to the polls, diplomats are gathering in the Pacific for pre-COP, and it's crunch time for the IPCC\nThe post What&#8217;s on th",
           "image": null,
           "other_news": true
         },
@@ -1401,28 +1423,6 @@
           "other_news": true
         },
         {
-          "title": "Industry and NGOs lobby to weaken UN carbon credit rules in “coordinated” push",
-          "link": "https://www.climatechangenews.com/2026/09/08/industry-and-ngos-lobby-to-weaken-un-carbon-credit-rules-in-coordinated-push/",
-          "published": "2026-09-08T12:56:26+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "In copycat submissions and a private briefing to government officials, the groups have opposed a proposal to tighten safeguards for emissions offsets",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "« C'est une zone de non-droit environnemental » : en Ardèche, des quads sillonnent illégalement la garrigue",
-          "link": "https://reporterre.net/C-est-une-zone-de-non-droit-environnemental-en-Ardeche-des-quads-sillonnent-illegalement",
-          "published": "2026-10-05T05:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Depuis plus de 20 ans, un centre propose des sorties en quad dans la garrigue dans des zones protégées et interdites à la circul",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/rid_260910-17-406d3.jpg?1791176400",
-          "other_news": true
-        },
-        {
           "title": "« Nous n'acceptons plus de réparer les dégâts causés par les politiques » : des soignants rejoignent la lutte contre les pesticides",
           "link": "https://reporterre.net/Soignant-es-scientifiques-denoncons-ceux-qui-detruisent-la-sante",
           "published": "2026-10-02T06:00:00+00:00",
@@ -1522,28 +1522,6 @@
           "other_news": true
         },
         {
-          "title": "Léon XIV, le pape qui veut « désarmer l'IA » et plaide pour la « conversion écologique »",
-          "link": "https://reporterre.net/Il-veut-desarmer-l-IA-Leon-XIV-un-pape-favorable-a-la-conversion-ecologique",
-          "published": "2026-09-26T05:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Alors qu'il est en visite en France du 25 au 28 septembre et qu'il a évoqué l'IA et la protection de l'environnement lors d'une",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/afp__20260925__c9c76h2__v2__highres__francevaticanreligionpope-96238.jpg?1790398800",
-          "other_news": true
-        },
-        {
-          "title": "Marches climat du 26 septembre : la carte des manifestations près de chez vous",
-          "link": "https://reporterre.net/Marches-climat-du-26-septembre-la-carte-des-manifestations-pres-de-chez-vous",
-          "published": "2026-09-25T13:55:31+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Plus de 260 mobilisations sont prévues samedi 26 septembre dans toute la France pour la grande marche « pour le climat, le vivan",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/capture_d_ecran_du_2026-09-25_15-48-02-114e1.jpg?1790344633",
-          "other_news": true
-        },
-        {
           "title": "Rights of Nature spreads as councils adopt River Avon Charter",
           "link": "https://oceanographicmagazine.com/news/rights-of-nature-spreads-as-councils-adopt-river-avon-charter/",
           "published": "2026-10-02T15:07:05+00:00",
@@ -1555,9 +1533,31 @@
           "other_news": true
         },
         {
+          "title": "CNews, pire chaîne d’info en continu sur les questions environnementales, selon QuotaClimat",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/05/cnews-pire-chaine-d-info-en-continu-sur-les-questions-environnementales-selon-quotaclimat_6788540_3244.html",
+          "published": "2026-10-05T16:30:20+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La chaîne détenue par Vincent Bolloré n’a consacré que 2 % de son temps d’antenne à des sujets sur l’environnement en juillet 2025, au plus fort des d",
+          "image": "https://img.lemde.fr/2026/09/04/440/0/5286/2643/644/322/60/0/446db59_ftp-1-o5dccythhdqy-2026-09-04t050020z-1166943872-rc20jmao7d1z-rtrmadp-3-france-media.JPG",
+          "other_news": true
+        },
+        {
+          "title": "Face au plan d’électrification du gouvernement français, le blues de la filière gazière",
+          "link": "https://www.lemonde.fr/economie/article/2026/10/05/face-au-plan-d-electrification-du-gouvernement-francais-le-blues-de-la-filiere-gaziere_6788510_3234.html",
+          "published": "2026-10-05T11:00:22+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les acteurs de la filière gazière déplorent le durcissement de la réglementation sur les dispositifs de chauffage au gaz au profit des pompes à chaleu",
+          "image": "https://img.lemde.fr/2026/10/02/461/0/8000/4000/644/322/60/0/5c1b348_upload-1-mdhsfstigkxg-000-b6qr9t3.jpg",
+          "other_news": true
+        },
+        {
           "title": "« Le budget 2027 porte déjà la marque des six réacteurs nucléaires EPR2 »",
           "link": "https://www.lemonde.fr/idees/article/2026/10/04/le-budget-2027-porte-deja-la-marque-des-six-reacteurs-nucleaires-epr2_6788313_3232.html",
-          "published": "2026-10-04T18:00:15+02:00",
+          "published": "2026-10-04T18:00:07+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1577,13 +1577,13 @@
           "other_news": true
         },
         {
-          "title": "Au Brésil, les femmes autochtones à la conquête du pouvoir : «La violence politique est extrêmement forte»",
-          "link": "https://vert.eco/international/au-bresil-les-femmes-autochtones-a-la-conquete-du-pouvoir-la-violence-politique-est-extremement-forte/",
-          "published": "2026-09-30T04:00:00+00:00",
-          "source": "Vert Eco Articles",
+          "title": "We’ve tracked $80M of spending on almost 170 AI-generated political ads this year – it’s weird",
+          "link": "https://theconversation.com/weve-tracked-80m-of-spending-on-almost-170-ai-generated-political-ads-this-year-its-weird-292105",
+          "published": "2026-10-05T12:15:41+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "En 2026, un nombre record d’autochtones se présentent aux élections brésiliennes. Une dynamique largement portée par les femmes, qui tentent de conqué",
+          "language": "en",
+          "summary": "Almost 170 ads and $80 million in spending and only 31% with a disclaimer: Here’s what researchers found when they tracked AI in this year’s campaign",
           "image": null,
           "other_news": true
         },
@@ -1651,17 +1651,6 @@
           "language": "en",
           "summary": "NEW YORK — Long before Dickson Kaelo became one of the leading voices for community conservancies in Kenya, conservation was something much more perso",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01122201/Credit-Angela-Scott-2-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "In Panama’s Darién forest, Indigenous communities test a new way to fund conservation",
-          "link": "https://news.mongabay.com/short-article/2026/09/in-panamas-darien-forest-indigenous-communities-test-a-new-way-to-fund-conservation/",
-          "published": "2026-09-30T21:15:42+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "With illegal logging and agricultural expansion closing in on their lands, four Indigenous Wounaan and Emberá-Wounaan villages in Panama’s Darién fore",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/12/31193348/1024px-Bairds_tapir_mother_with_baby_92151-768x512.jpg",
           "other_news": true
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:37:40.035354+00:00",
+  "generated_at": "2026-10-05T05:01:44.381482+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -336,6 +336,19 @@
           "other_news": false
         }
       ],
+      "Species Migration & Habitat Change": [
+        {
+          "title": "Hunters reportedly kill hundreds of migratory birds stranded by thunderstorm in Malta",
+          "link": "https://news.mongabay.com/short-article/2026/10/hunters-reportedly-kill-hundreds-of-migratory-birds-stranded-by-thunderstorm-in-malta/",
+          "published": "2026-10-05T04:23:50+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A multi-day thunderstorm over the Mediterranean Sea struck Malta, stranding hundreds of passing migratory birds on Sept. 14, 2026. Hunters in the coun",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/05031317/2026.09.15_EuropeanRoller_Marsaskala-768x512.jpeg",
+          "other_news": false
+        }
+      ],
       "Other Marine News": [
         {
           "title": "Stella McCartney makes waves with ‘sea life, not sea food’ theme in zero-wool Paris show",
@@ -544,6 +557,17 @@
           "language": "en",
           "summary": "Efforts to protect marine ecosystems and coastal communities have risen up the political agenda at the UN General Assembly in New York\nThe post Threat",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Étourdissement, démangeaisons… des algues rouges prolifèrent en Guadeloupe et affectent les pêcheurs",
+          "link": "https://reporterre.net/Etourdissement-demangeaisons-des-algues-rouges-proliferent-en-Guadeloupe-et-affectent-les",
+          "published": "2026-10-05T05:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Depuis fin 2025, des algues rouges prolifèrent sur les côtes guadeloupéennes, causant des démangeaisons et nausées chez les mari",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/mjaynda2n2y3ytjlmjrhztjkytdmmdzly2qwode5yzviymu3zwy-7ab35-e02a4.jpg?1791176400",
           "other_news": false
         },
         {
@@ -776,17 +800,6 @@
           "language": "en",
           "summary": "Vantara, the billionaire-run Indian private zoo that houses more than 150,000 animals, discussed a “strategic conservation partnership” with authoriti",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/29135733/two-Spixs-macaws-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Philippine eagle habitat study maps mining risks and conservation priorities",
-          "link": "https://news.mongabay.com/2026/09/philippine-eagle-habitat-study-maps-mining-risks-and-conservation-priorities/",
-          "published": "2026-09-30T18:18:27+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A new study mapping the likely nesting habitats of the iconic Philippine eagle in its main stronghold warns that the threat of habitat loss — a key dr",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/30154948/05_Philippine-eagle-of-Barangay-Cabuaya-Mati-City-768x512.jpg",
           "other_news": true
         }
       ],
@@ -1399,6 +1412,17 @@
           "other_news": true
         },
         {
+          "title": "« C'est une zone de non-droit environnemental » : en Ardèche, des quads sillonnent illégalement la garrigue",
+          "link": "https://reporterre.net/C-est-une-zone-de-non-droit-environnemental-en-Ardeche-des-quads-sillonnent-illegalement",
+          "published": "2026-10-05T05:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Depuis plus de 20 ans, un centre propose des sorties en quad dans la garrigue dans des zones protégées et interdites à la circul",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/rid_260910-17-406d3.jpg?1791176400",
+          "other_news": true
+        },
+        {
           "title": "« Nous n'acceptons plus de réparer les dégâts causés par les politiques » : des soignants rejoignent la lutte contre les pesticides",
           "link": "https://reporterre.net/Soignant-es-scientifiques-denoncons-ceux-qui-detruisent-la-sante",
           "published": "2026-10-02T06:00:00+00:00",
@@ -1544,11 +1568,11 @@
         {
           "title": "« Une politique juste de réduction des émissions ne consiste pas à demander le même effort à tous, mais à cibler en priorité les mobilités les plus carbonées »",
           "link": "https://www.lemonde.fr/idees/article/2026/10/04/une-politique-juste-de-reduction-des-emissions-ne-consiste-pas-a-demander-le-meme-effort-a-tous-mais-a-cibler-en-priorite-les-mobilites-les-plus-carbonees_6788111_3232.html",
-          "published": "2026-10-04T10:00:11+02:00",
+          "published": "2026-10-04T10:00:08+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "A l’occasion de la conférence « Grille, baby, grille ! » associant « Le Monde » et le Forum vies mobiles, un collectif de chercheuses et chercheurs in",
+          "summary": "A l’occasion de la conférence « Grille, baby, grille ! » associant « Le Monde » et le Forum Vies mobiles, un collectif de chercheuses et chercheurs in",
           "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/e3ff931_upload-1-zkpx1shtmgl6-frame-781.jpg",
           "other_news": true
         },
@@ -1564,35 +1588,24 @@
           "other_news": true
         },
         {
-          "title": "Why a decade of AI safety promises keep failing to bite",
-          "link": "https://theconversation.com/why-a-decade-of-ai-safety-promises-keep-failing-to-bite-293342",
-          "published": "2026-10-02T04:42:33+00:00",
+          "title": "Anger, remorse, conspiracy theories: how sports fans cope when their club does wrong",
+          "link": "https://theconversation.com/anger-remorse-conspiracy-theories-how-sports-fans-cope-when-their-club-does-wrong-293205",
+          "published": "2026-10-05T00:31:38+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Donald Trump’s White House Accord on Super Intelligence looks set to join a long line of ineffectual calls for self-regulation from the tech industry.",
+          "summary": "After investing so much emotional energy in supporting a club, many fans struggle to manage public shame in overheated environments.",
           "image": null,
           "other_news": true
         },
         {
-          "title": "Are Australia’s native bees thriving or declining? We don’t know but can find out",
-          "link": "https://theconversation.com/are-australias-native-bees-thriving-or-declining-we-dont-know-but-can-find-out-292219",
-          "published": "2026-10-02T02:00:12+00:00",
+          "title": "Kauri dieback threatens more than trees: it could change how much carbon forests store",
+          "link": "https://theconversation.com/kauri-dieback-threatens-more-than-trees-it-could-change-how-much-carbon-forests-store-293102",
+          "published": "2026-10-04T23:10:29+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Native bees pollinate many of Australia’s unique plants and help entire ecosystems thrive.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "In a year of record-breaking heat, Australia and Pacific leaders meet to sharpen climate goals",
-          "link": "https://theconversation.com/in-a-year-of-record-breaking-heat-australia-and-pacific-leaders-meet-to-sharpen-climate-goals-292990",
-          "published": "2026-10-02T01:22:58+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "These Pacific meetings are a curtain raiser for the annual UN climate meetings in Turkey next month.",
+          "summary": "New research shows forests affected by severe kauri dieback can shift from accumulating carbon to losing it, with mature trees particularly affected.",
           "image": null,
           "other_news": true
         },

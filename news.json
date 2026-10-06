@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-05T21:17:46.820331+00:00",
+  "generated_at": "2026-10-06T05:01:17.801861+00:00",
   "categories": {
     "Politics & Policy": {
+      "Species Migration & Habitat Change": [
+        {
+          "title": "The Coalition’s migration policy rests on a series of false premises",
+          "link": "https://theconversation.com/the-coalitions-migration-policy-rests-on-a-series-of-false-premises-293672",
+          "published": "2026-10-06T02:27:30+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The long-awaited plan includes cutting net overseas migration by two thirds and a crackdown on visa-hopping, but it’s all built on shaky foundations.",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Other Marine News": [
         {
           "title": "UK to join EU ocean science scheme to better predict extreme weather events",
@@ -316,6 +329,17 @@
       ],
       "Species Migration & Habitat Change": [
         {
+          "title": "Taylor would hold net overseas migration at annual 100,000 for two years in plan hitting students, refugees",
+          "link": "https://theconversation.com/taylor-would-hold-net-overseas-migration-at-annual-100-000-for-two-years-in-plan-hitting-students-refugees-293211",
+          "published": "2026-10-06T03:49:25+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The radical opposition blueprint – framed against the background of One Nation – would cut temporary visa holders by about 650,000 over four years.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Hunters reportedly kill hundreds of migratory birds stranded by thunderstorm in Malta",
           "link": "https://news.mongabay.com/short-article/2026/10/hunters-reportedly-kill-hundreds-of-migratory-birds-stranded-by-thunderstorm-in-malta/",
           "published": "2026-10-05T04:23:50+00:00",
@@ -626,6 +650,17 @@
           "other_news": false
         },
         {
+          "title": "Cuts to Integrated Ocean Observing System Puts Ocean at Risk",
+          "link": "https://oceanconservancy.org/blog/2026/10/05/integrated-ocean-observing-system/",
+          "published": "2026-10-05T21:24:39+00:00",
+          "source": "Ocean Conservancy",
+          "type": "news",
+          "language": "en",
+          "summary": "Most Americans have likely never heard of the United States Integrated Ocean Observing System, or IOOS. Yet if you have ever checked conditions before",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "The Mysteries of the Mariana Trench",
           "link": "https://oceanconservancy.org/blog/2026/09/24/mysteries-mariana-trench/",
           "published": "2026-09-24T21:05:01+00:00",
@@ -678,17 +713,6 @@
           "language": "en",
           "summary": "Dolphins, it turns out, don’t like to mix business and pleasure. Scientists have found that the marine mammals keep their feeding and hunting areas se",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01150605/Banner-Image-dolfin-fin-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Rising seas could cost Australia economic losses of $855 billion, study finds",
-          "link": "https://news.mongabay.com/short-article/2026/10/rising-seas-could-cost-australia-economic-losses-of-855-billion-study-finds/",
-          "published": "2026-10-01T08:45:07+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Rising sea levels due to climate change could damage hundreds of thousands of properties and millions of hectares of land along Australia’s coastline",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01084107/5419975426_d403498796_k-e1790844181478-768x512.jpg",
           "other_news": false
         }
       ]
@@ -789,17 +813,6 @@
           "language": "en",
           "summary": "The tiny gardens beneath street trees can boost biodiversity and our connection to where we live.",
           "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Vantara in talks with Brazil on ‘strategic cooperation’ on threatened species, FOIA documents reveal",
-          "link": "https://news.mongabay.com/2026/10/vantara-in-talks-with-brazil-on-strategic-cooperation-on-threatened-species-foia-documents-reveal/",
-          "published": "2026-10-01T11:01:06+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Vantara, the billionaire-run Indian private zoo that houses more than 150,000 animals, discussed a “strategic conservation partnership” with authoriti",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/29135733/two-Spixs-macaws-768x512.jpg",
           "other_news": true
         }
       ],
@@ -1500,17 +1513,6 @@
           "other_news": true
         },
         {
-          "title": "Zinédine Zidane sur le climat : prendre moins l'avion ou alléger les calendriers, « je ne pense pas qu'il faille rentrer là-dedans »",
-          "link": "https://reporterre.net/Zinedine-Zidane-sur-le-climat-prendre-moins-l-avion-ou-alleger-les-calendriers-je-ne",
-          "published": "2026-09-27T18:28:25+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le nouvel entraîneur de l'équipe de France de football a dit à Reporterre souhaiter que les catastrophes climatiques n'arrivent",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260927__c9gx7q8__v1__highres__fbleurnationsfrapresser-60465.jpg?1790533715",
-          "other_news": true
-        },
-        {
           "title": "Rights of Nature spreads as councils adopt River Avon Charter",
           "link": "https://oceanographicmagazine.com/news/rights-of-nature-spreads-as-councils-adopt-river-avon-charter/",
           "published": "2026-10-02T15:07:05+00:00",
@@ -1519,6 +1521,17 @@
           "language": "en",
           "summary": "Eleven councils have adopted a community-led charter recognising the River Avon as a living entity with rights, as campaigners say more than 20 simila",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Comment on a aidé la science à mesurer le déclin des oiseaux",
+          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/06/comment-on-a-aide-la-science-a-mesurer-le-declin-des-oiseaux_6788830_6125299.html",
+          "published": "2026-10-06T05:45:03+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Depuis vingt",
+          "image": "https://img.lemde.fr/2026/07/14/336/0/5000/2500/644/322/60/0/96187da_upload-1-dsybfli1x13e-bg-30mai26-france-lpo-15-001.JPG",
           "other_news": true
         },
         {
@@ -1577,6 +1590,28 @@
           "other_news": true
         },
         {
+          "title": "Cheap Chinese EVs could soon shake up NZ’s used car market. Are we ready?",
+          "link": "https://theconversation.com/cheap-chinese-evs-could-soon-shake-up-nzs-used-car-market-are-we-ready-292596",
+          "published": "2026-10-05T22:31:40+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Chinese EVs are approaching the price of older used petrol vehicles. That could disrupt a whole support industry, from gas stations to mechanics and d",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "You’ve probably never heard of synchronous condensers. But they’re essential in the push for renewables",
+          "link": "https://theconversation.com/youve-probably-never-heard-of-synchronous-condensers-but-theyre-essential-in-the-push-for-renewables-290630",
+          "published": "2026-10-05T22:25:20+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As ageing coal plants head for retirement, authorities are turning to a century-old technology to stabilise the grid.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "‘1.5°C to stay alive’: Pacific countries demand the world makes good on climate promises",
           "link": "https://theconversation.com/1-5-c-to-stay-alive-pacific-countries-demand-the-world-makes-good-on-climate-promises-293539",
           "published": "2026-10-05T19:09:59+00:00",
@@ -1617,28 +1652,6 @@
           "type": "news",
           "language": "en",
           "summary": "Almost 170 ads and $80 million in spending and only 31% with a disclaimer: Here’s what researchers found when they tracked AI in this year’s campaign",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Anger, remorse, conspiracy theories: how sports fans cope when their club does wrong",
-          "link": "https://theconversation.com/anger-remorse-conspiracy-theories-how-sports-fans-cope-when-their-club-does-wrong-293205",
-          "published": "2026-10-05T00:31:38+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "After investing so much emotional energy in supporting a club, many fans struggle to manage public shame in overheated environments.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Kauri dieback threatens more than trees: it could change how much carbon forests store",
-          "link": "https://theconversation.com/kauri-dieback-threatens-more-than-trees-it-could-change-how-much-carbon-forests-store-293102",
-          "published": "2026-10-04T23:10:29+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "New research shows forests affected by severe kauri dieback can shift from accumulating carbon to losing it, with mature trees particularly affected.",
           "image": null,
           "other_news": true
         },

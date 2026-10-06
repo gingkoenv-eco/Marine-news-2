@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:21:49.859746+00:00",
+  "generated_at": "2026-10-06T18:55:37.495202+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
@@ -254,17 +254,6 @@
           "language": "en",
           "summary": "With mackerel populations down 72% since 2016, experts warn coastal nations must follow scientific advice and reduce catch limits to avoid stock colla",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "India’s isolated island tribes need autonomy to survive rising threats, says scholar",
-          "link": "https://news.mongabay.com/short-article/2026/10/indias-isolated-island-tribes-need-autonomy-to-survive-rising-threats-says-scholar/",
-          "published": "2026-10-01T20:55:30+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Isolated and contacted Indigenous tribes in India’s Andaman and Nicobar Islands face threats from illegal fishing, mega-development projects and misin",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/14173728/m.-2-Gillnetting-fishers-off-North-Sentinel-wreck-coast-768x512.jpeg",
           "other_news": false
         }
       ],
@@ -1623,6 +1612,17 @@
           "other_news": true
         },
         {
+          "title": "Why are new wind farms stuck in the doldrums in Australia?",
+          "link": "https://theconversation.com/why-are-new-wind-farms-stuck-in-the-doldrums-in-australia-292231",
+          "published": "2026-10-06T18:26:11+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Solar and batteries are powering ahead – but wind farms are struggling. There are multiple reasons for this, from politics to construction costs.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "The ick: the psychology of why a romantic partner can suddenly repulse you",
           "link": "https://theconversation.com/the-ick-the-psychology-of-why-a-romantic-partner-can-suddenly-repulse-you-293266",
           "published": "2026-10-06T12:55:14+00:00",
@@ -1667,14 +1667,14 @@
           "other_news": true
         },
         {
-          "title": "‘1.5°C to stay alive’: Pacific countries demand the world makes good on climate promises",
-          "link": "https://theconversation.com/1-5-c-to-stay-alive-pacific-countries-demand-the-world-makes-good-on-climate-promises-293539",
-          "published": "2026-10-05T19:09:59+00:00",
-          "source": "The Conversation",
+          "title": "100 conservation projects are looking for funding after USAID’s closure",
+          "link": "https://news.mongabay.com/short-article/2026/10/100-conservation-projects-are-looking-for-funding-after-usaids-closure/",
+          "published": "2026-10-06T18:20:09+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "There’s a strong desire for this Pacific meeting to spur the global summit to action.",
-          "image": null,
+          "summary": "Twenty months after the dismantling of USAID, a new analysis documents what the international development agency’s disappearance has meant for conserv",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/24143236/USAID-1-scaled-e1791303366230-768x512.jpg",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:14:47.442018+00:00",
+  "generated_at": "2026-10-06T18:21:49.859746+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
@@ -36,6 +36,17 @@
           "language": "en",
           "summary": "Cooperation on OceanEye, which aims to create ‘real-time’ model of world’s oceans, comes amid efforts to boost EU tiesBritain is to join a major new o",
           "image": "https://i.guim.co.uk/img/media/3acdb78ed68c2933fb82a16cdebf528c5b21c5e6/527_0_3832_3065/master/3832.jpg?width=140&quality=85&auto=format&fit=max&s=0683e4a798addc7823674e03e028b92a",
+          "other_news": false
+        },
+        {
+          "title": "Pacific leaders rail at climate finance failures after pre-COP trip to Tuvalu",
+          "link": "https://www.climatechangenews.com/2026/10/06/pacific-leaders-rail-at-climate-finance-failures-after-pre-cop-trip-to-tuvalu/",
+          "published": "2026-10-06T16:40:55+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Pacific leaders called at the pre-COP in Fiji for countries to invest in their own Pacific Resilience Facility, as they struggle with the red-tape of",
+          "image": null,
           "other_news": false
         },
         {
@@ -211,28 +222,6 @@
           "other_news": false
         },
         {
-          "title": "Cracking orca dialects: New tool catalogues killer whale calls",
-          "link": "https://oceanographicmagazine.com/news/cracking-orca-dialects-new-tool-catalogues-killer-whale-calls/",
-          "published": "2026-09-29T14:17:30+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new open-access Orca Call Catalogue from Simon Fraser University lets researchers identify killer whale ecotypes, clans and pods by their unique voc",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Study points to new subspecies of humpback whale in Arabian Sea",
-          "link": "https://oceanographicmagazine.com/news/study-points-to-new-species-of-humpback-whale-in-arabian-sea/",
-          "published": "2026-09-29T13:15:45+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "New genetic research shows Arabian Sea humpback whales are a distinct, isolated lineage that may warrant recognition as a fourth humpback subspecies -",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Probiotics prevented coral bleaching during a Red Sea heat wave: Study",
           "link": "https://news.mongabay.com/2026/10/probiotics-prevented-coral-bleaching-during-a-red-sea-heat-wave-study/",
           "published": "2026-10-02T15:06:24+00:00",
@@ -300,6 +289,28 @@
           "language": "en",
           "summary": "Beyond the monetary value of carbon credits sits something more complex: every restoration project involves trade-offs, and somebody carries them.",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Seagrass bounces back in Cairns, but fish populations are changed",
+          "link": "https://oceanographicmagazine.com/news/seagrass-bounces-back-in-cairns-but-fish-populations-are-changed/",
+          "published": "2026-10-06T14:25:06+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Seagrass meadows off Cairns have recovered to pre-flood levels after a 98% collapse, but a 34-year study shows the fish living in them have reorganise",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "In Australia’s Wet Tropics, restoration misses the forest for the tree cover",
+          "link": "https://news.mongabay.com/2026/10/in-australias-wet-tropics-restoration-misses-the-forest-for-the-tree-cover/",
+          "published": "2026-10-06T15:14:29+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Relics of ancient wet forests stretch across the coast of Queensland state in Australia. In a landscape made patchwork by agriculture, volunteers, com",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/05/20181459/6-1-768x512.jpg",
           "other_news": false
         },
         {
@@ -595,6 +606,17 @@
           "other_news": false
         },
         {
+          "title": "Des millions de saumons agglutinés dans des cuves : le projet « démesuré » d'une entreprise française",
+          "link": "https://reporterre.net/Bientot-des-millions-saumons-eleves-en-cuve-Notre-enquete-video-sur-Pure-Salmon",
+          "published": "2026-10-06T15:15:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "2 millions de saumons abattus chaque année, c'est le projet de la société Pure Salmon, qui souhaite construire au Verdon-sur-Mer",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/vignette-pure-salmon4-55566.png?1791299702",
+          "other_news": false
+        },
+        {
           "title": "Les Hauts-de-France soutiennent l'interdiction des navires-usines près des côtes",
           "link": "https://reporterre.net/Les-Hauts-de-France-soutiennent-l-interdiction-des-navires-usines-pres-des-cotes",
           "published": "2026-10-06T11:15:20+00:00",
@@ -639,6 +661,17 @@
           "other_news": false
         },
         {
+          "title": "Warming seas are reshuffling plankton and the marine food web",
+          "link": "https://oceanographicmagazine.com/news/warming-seas-are-reshuffling-plankton-and-the-marine-food-web/",
+          "published": "2026-10-06T15:29:20+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Researchers are now using AI to track plankton as warming seas reshuffle the base of the marine food web, with fish possibly getting less food and foo",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Conservationists take Trump office to court over deep-sea mining",
           "link": "https://oceanographicmagazine.com/news/conservationists-take-trump-office-to-court-over-deep-sea-mining/",
           "published": "2026-10-01T14:49:45+00:00",
@@ -661,6 +694,17 @@
           "other_news": false
         },
         {
+          "title": "Les exportations de pétrole du Golfe rebondissent au-delà de leurs niveaux d’avant-guerre",
+          "link": "https://www.lemonde.fr/economie/article/2026/10/06/les-exportations-de-petrole-du-golfe-rebondissent-au-dela-de-leurs-niveaux-d-avant-guerre_6789050_3234.html",
+          "published": "2026-10-06T18:30:10+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Malgré l’augmentation des flux de brut en provenance du Moyen-Orient, la pénurie croissante de navires pétroliers est en train de créer un nouveau gou",
+          "image": "https://img.lemde.fr/2026/10/06/406/0/3000/1500/644/322/60/0/00d7a8e_upload-1-xam41n5iud3q-gettyimages-2298236559.jpg",
+          "other_news": false
+        },
+        {
           "title": "Au plus près des fjords du Groenland pour comprendre les écosystèmes fragiles",
           "link": "https://www.lemonde.fr/sciences/article/2026/10/05/au-plus-pres-des-fjords-du-groenland-pour-comprendre-les-ecosystemes-fragiles_6788553_1650684.html",
           "published": "2026-10-05T18:00:04+02:00",
@@ -669,17 +713,6 @@
           "language": "fr",
           "summary": "Sur le brise-glace « Amundsen », une trentaine de scientifiques ont parcouru la côte ouest du Groenland en août pour étudier les effets du réchauffeme",
           "image": "https://img.lemde.fr/2026/10/02/319/0/3378/1689/644/322/60/0/2f32aba_upload-1-oxoa7x0oeoge-20260823-084033.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Un «costard en kevlar» : l’affaire Bardella révèle le visage du fascisme et l’honneur du journalisme",
-          "link": "https://vert.eco/chaleurs-actuelles/un-costard-en-kevlar-laffaire-bardella-revele-le-visage-du-fascisme-et-lhonneur-du-journalisme/",
-          "published": "2026-09-30T15:11:09+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Après les révélations de Mediapart sur les propos antisémites attribués à Jordan Bardella, Marine Le Pen a volé au secours du président du RN… tout en",
-          "image": null,
           "other_news": false
         },
         {
@@ -716,6 +749,17 @@
           "other_news": false
         },
         {
+          "title": "Science, Indigenous knowledge team up to restore Canada’s kelp. (Sea otters help, too.)",
+          "link": "https://news.mongabay.com/2026/10/science-indigenous-knowledge-team-up-to-restore-canadas-kelp-sea-otters-help-too/",
+          "published": "2026-10-06T14:44:29+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Emily Fulton spends a lot of time in a small boat cruising the waters of Clayoquot Sound off the west coast of Vancouver Island in British Columbia, C",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/02162939/a.-BANNER-Liam-Ragan-original-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Vietnam’s fishers face rising costs, declining catches and a contested sea",
           "link": "https://news.mongabay.com/2026/10/vietnams-fishers-face-rising-costs-declining-catches-and-a-contested-sea/",
           "published": "2026-10-02T18:01:16+00:00",
@@ -724,17 +768,6 @@
           "language": "en",
           "summary": "QUANG NGAI, Vietnam — When diesel prices in Vietnam hit an all-time high in March, Vo Huu Viet, a fisherman with more than 30 years at sea in Quang Ng",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/02130412/vietnamese-fishers-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "A first in Brazil: Black-faced lion tamarins vaccinated",
-          "link": "https://news.mongabay.com/2026/10/a-first-in-brazil-black-faced-lion-tamarins-vaccinated/",
-          "published": "2026-10-01T18:46:16+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "On a Wednesday in July, deep in a coastal restinga area of Brazil’s Paraná state, muffled footsteps broke through the chirping of manakins. Three fiel",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01135354/Mico-caicara_PorGabrielMarchi_9-768x512.jpg",
           "other_news": false
         }
       ]
@@ -823,6 +856,17 @@
           "summary": "C'est une autre conséquence du changement climatique : la pollution de l'air à l'ozone a touché, à des niveaux dangereux, 40 % d",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260717__hl_smouchmouche_3235718__v1__highres__francebastilledayparadeaerialvi-dc390.jpg?1790733601",
           "other_news": true
+        },
+        {
+          "title": "What a Chinese pollution crackdown can teach Canada about carbon pricing",
+          "link": "https://theconversation.com/what-a-chinese-pollution-crackdown-can-teach-canada-about-carbon-pricing-292862",
+          "published": "2026-10-06T15:12:04+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Canada has lowered its planned industrial carbon price. Research from China shows why the effects of environmental rules depend on firms’ ability to a",
+          "image": null,
+          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -858,6 +902,17 @@
           "type": "news",
           "language": "en",
           "summary": "The climate crisis is also a governance crisis - one with a persistent blindspot for women's leadership, ingenuity and readiness to take decisions for",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Remittances can help African countries adapt to climate change",
+          "link": "https://theconversation.com/remittances-can-help-african-countries-adapt-to-climate-change-292655",
+          "published": "2026-10-06T16:08:16+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Governments and international organizations should develop policy that incorporates remittances into how we respond to climate change.",
           "image": null,
           "other_news": true
         }
@@ -974,6 +1029,17 @@
           "other_news": true
         },
         {
+          "title": "Digger channels Kubrick’s Dr. Strangelove for the climate crisis – until its twist",
+          "link": "https://theconversation.com/digger-channels-kubricks-dr-strangelove-for-the-climate-crisis-until-its-twist-293720",
+          "published": "2026-10-06T15:26:05+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Digger’s hat is borrowed from Major ‘King’ Kong (Slim Pickens), a character in Stanley Kubrick’s film masterpiece.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Did the hot summer make more people worry about climate change? Here’s what the latest indications show",
           "link": "https://theconversation.com/did-the-hot-summer-make-more-people-worry-about-climate-change-heres-what-the-latest-indications-show-292321",
           "published": "2026-10-06T12:44:23+00:00",
@@ -1080,17 +1146,6 @@
           "type": "news",
           "language": "en",
           "summary": "Conflicts, energy shocks, climate change and El Niño are combining to squeeze food prices upwards. Five familiar foods illustrate what’s going on.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Granting a new gasfield licence does not guarantee energy security",
-          "link": "https://theconversation.com/granting-a-new-gasfield-licence-does-not-guarantee-energy-security-291324",
-          "published": "2026-09-18T13:26:43+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Any additional emissions from a UK gasfield are incompatible with climate targets.",
           "image": null,
           "other_news": true
         },
@@ -1436,17 +1491,6 @@
           "other_news": true
         },
         {
-          "title": "Foreign minister: Nepal needs “meaningful” international support to face climate threats",
-          "link": "https://www.climatechangenews.com/2026/09/09/foreign-minister-nepal-meaningful-international-support-climate-flood-glacier/",
-          "published": "2026-09-09T21:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Following its recent Himalayan flooding disaster, the South Asian nation is seeking urgent help from a new UN climate fund, appealing for \"stronger gl",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Sur CNews, journalistes et chroniqueurs experts dans la mésinformation climatique",
           "link": "https://reporterre.net/Sur-CNews-journalistes-et-chroniqueurs-experts-dans-la-mesinformation-climatique",
           "published": "2026-10-06T13:23:43+00:00",
@@ -1510,17 +1554,6 @@
           "language": "fr",
           "summary": "Pour la journaliste Alice Raybaud, la solitude est un « sujet politique majeur », auquel elle a consacré un livre. Elle démontre",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/solitude_v3-a1ab3.jpg?1790666600",
-          "other_news": true
-        },
-        {
-          "title": "À Lyon, la Métropole de droite supprime le « RSA pour jeunes » des Écologistes",
-          "link": "https://reporterre.net/A-Lyon-la-Metropole-de-droite-supprime-le-RSA-pour-jeunes-des-Ecologistes",
-          "published": "2026-09-28T13:55:29+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "À Lyon, la nouvelle majorité de droite à la tête de la Métropole détricote méticuleusement les politiques sociales menées depuis",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260508__hl_mdelaty_3153758__v1__highres__francecommemorationmayeightanniversa_1_-8f553.jpg?1790603730",
           "other_news": true
         },
         {
@@ -1590,28 +1623,6 @@
           "other_news": true
         },
         {
-          "title": "« Le budget 2027 porte déjà la marque des six réacteurs nucléaires EPR2 »",
-          "link": "https://www.lemonde.fr/idees/article/2026/10/04/le-budget-2027-porte-deja-la-marque-des-six-reacteurs-nucleaires-epr2_6788313_3232.html",
-          "published": "2026-10-04T18:00:07+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le projet de budget enlève 120 millions d’euros aux énergies renouvelables et accorde gratuitement, jusqu’en 2090, la garantie de l’Etat au prêt du Li",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/53fe530_upload-1-mk0nhsgcgmoh-frame-782.jpg",
-          "other_news": true
-        },
-        {
-          "title": "« Une politique juste de réduction des émissions ne consiste pas à demander le même effort à tous, mais à cibler en priorité les mobilités les plus carbonées »",
-          "link": "https://www.lemonde.fr/idees/article/2026/10/04/une-politique-juste-de-reduction-des-emissions-ne-consiste-pas-a-demander-le-meme-effort-a-tous-mais-a-cibler-en-priorite-les-mobilites-les-plus-carbonees_6788111_3232.html",
-          "published": "2026-10-04T10:00:08+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "A l’occasion de la conférence « Grille, baby, grille ! » associant « Le Monde » et le Forum Vies mobiles, un collectif de chercheuses et chercheurs in",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/e3ff931_upload-1-zkpx1shtmgl6-frame-781.jpg",
-          "other_news": true
-        },
-        {
           "title": "The ick: the psychology of why a romantic partner can suddenly repulse you",
           "link": "https://theconversation.com/the-ick-the-psychology-of-why-a-romantic-partner-can-suddenly-repulse-you-293266",
           "published": "2026-10-06T12:55:14+00:00",
@@ -1667,25 +1678,14 @@
           "other_news": true
         },
         {
-          "title": "How much is the European trade deal at risk over NZ’s climate commitments?",
-          "link": "https://theconversation.com/how-much-is-the-european-trade-deal-at-risk-over-nzs-climate-commitments-293425",
-          "published": "2026-10-05T18:50:07+00:00",
-          "source": "The Conversation",
+          "title": "Solar power helps Amazon communities ditch diesel and prepare for El Niño drought",
+          "link": "https://news.mongabay.com/short-article/2026/10/solar-power-helps-amazon-communities-ditch-diesel-and-prepare-for-el-nino-drought/",
+          "published": "2026-10-06T16:06:43+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "A complaint to the European Commission over NZ’s potentially broken climate promises in the EU trade agreement looks strong. But the legal threshold i",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Unusual senses: the secret superpowers of amphibians and reptiles",
-          "link": "https://theconversation.com/unusual-senses-the-secret-superpowers-of-amphibians-and-reptiles-292854",
-          "published": "2026-10-05T15:36:54+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Sometimes, the most extraordinary things in nature are the things we cannot see.",
-          "image": null,
+          "summary": "SANTAREM, Brazil (AP) — Off-grid solar power is spreading across Brazil’s Amazon, helping remote communities prepare for severe drought while replacin",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/06160008/AP26272825099885-scaled-e1791302750226-768x512.jpg",
           "other_news": true
         },
         {
@@ -1697,28 +1697,6 @@
           "language": "en",
           "summary": "The Uganda Wildlife Authority (UWA) and the Wildlife Conservation Society (WCS) have signed a 10-year agreement to co-manage a portion of Queen Elizab",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/10105224/QENP23-71-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Wind turbine taller than the Eiffel Tower aims to boost German electricity production",
-          "link": "https://news.mongabay.com/short-article/2026/10/wind-turbine-taller-than-the-eiffel-tower-aims-to-boost-german-electricity-production/",
-          "published": "2026-10-01T18:18:22+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "SCHIPKAU, Germany (AP) — A wind turbine described by its developer as the world’s tallest now rises 365 meters (1,197 feet) above the sparsely populat",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01163644/AP26274383798058-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Renewable energy companies fuel Brazilian data center boom, investigation finds",
-          "link": "https://news.mongabay.com/short-article/2026/10/renewable-energy-companies-fuel-brazilian-data-center-boom-investigation-finds/",
-          "published": "2026-10-01T15:27:38+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Renewable energy companies are driving most of Brazil’s plans for new data centers, according to a recent joint analysis by The Intercept Brasil and M",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/21135641/Wind-farm-complex-in-Gentio-do-Ouro-768x512.jpg",
           "other_news": true
         }
       ]

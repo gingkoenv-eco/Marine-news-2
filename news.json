@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:19:41.661606+00:00",
+  "generated_at": "2026-10-06T14:14:47.442018+00:00",
   "categories": {
     "Politics & Policy": {
       "Species Migration & Habitat Change": [
@@ -1447,6 +1447,17 @@
           "other_news": true
         },
         {
+          "title": "Sur CNews, journalistes et chroniqueurs experts dans la mésinformation climatique",
+          "link": "https://reporterre.net/Sur-CNews-journalistes-et-chroniqueurs-experts-dans-la-mesinformation-climatique",
+          "published": "2026-10-06T13:23:43+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les chaînes d'information en continu ont consacré seulement 3,4 % de leur temps d'antenne à l'environnement, sur l'ensemble de l",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/cne-4dcd8.jpg?1791293032",
+          "other_news": true
+        },
+        {
           "title": "Budget 2027 : la facture exorbitante des niches fiscales contre l'environnement",
           "link": "https://reporterre.net/Budget-2027-la-facture-exorbitante-des-niches-fiscales-contre-l-environnement",
           "published": "2026-10-06T05:30:00+00:00",
@@ -1510,17 +1521,6 @@
           "language": "fr",
           "summary": "À Lyon, la nouvelle majorité de droite à la tête de la Métropole détricote méticuleusement les politiques sociales menées depuis",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260508__hl_mdelaty_3153758__v1__highres__francecommemorationmayeightanniversa_1_-8f553.jpg?1790603730",
-          "other_news": true
-        },
-        {
-          "title": "Un automobiliste renverse quatre personnes à la marche climat de Clermont-Ferrand",
-          "link": "https://reporterre.net/Clermont-Ferrand-un-automobiliste-fonce-dans-la-foule-de-la-manifestation-pour-le-climat",
-          "published": "2026-09-28T10:33:02+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Quatre personnes participant à une marche pour le climat, dont une femme de 80 ans, ont été blessées samedi matin, aux alentours",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/afp__20260926__hl_afillon_3307396__v1__highres__franceclermontferrandclimatemarchcar_resized-fc284.jpg?1790591584",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T05:01:10.777436+00:00",
+  "generated_at": "2026-10-07T13:25:48.465750+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -75,14 +75,14 @@
           "other_news": false
         },
         {
-          "title": "Creosote found in beach pollution investigation",
-          "link": "https://www.bbc.co.uk/news/articles/cq398lmlp7djo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-05T14:26:20+00:00",
+          "title": "Tests carried out on seabirds after nurdle spill",
+          "link": "https://www.bbc.co.uk/news/articles/cwzrd7p2ll50o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-07T05:07:45+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Restrictions remain in place on Blyth Beach after a pollution incident was reported in August.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9595/live/925320a0-96e3-11f1-9b96-77d3dc534330.jpg",
+          "summary": "Necropsies are being carried out on seabirds to find out the effects of microplastic pollutants.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44b5/live/17356890-c1ba-11f1-a64c-550be9e3c66b.jpg",
           "other_news": false
         },
         {
@@ -417,17 +417,6 @@
           "other_news": false
         },
         {
-          "title": "Carbon tracking tower put on Scotland's largest saltmarsh",
-          "link": "https://www.bbc.co.uk/news/articles/cky8302y7zejo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-06T09:35:01+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "It will track how much carbon is being taken out of the atmosphere by the saltmarsh on the Solway Firth.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d44/live/d0d6b640-c0b2-11f1-b026-53d1506ee826.jpg",
-          "other_news": false
-        },
-        {
           "title": "Des tonnes de plastique s’échouent sur les plages des Seychelles : nous avons retracé leur origine",
           "link": "https://theconversation.com/des-tonnes-de-plastique-sechouent-sur-les-plages-des-seychelles-nous-avons-retrace-leur-origine-292467",
           "published": "2026-09-26T07:05:20+00:00",
@@ -567,7 +556,7 @@
           "type": "news",
           "language": "fr",
           "summary": "La pression s'accroît sur la ministre de la Mer, Catherine Chabaud. Le 5 octobre, le conseil régional des Hauts-de-France a adop",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20251116__cfoto-smartfis251115_npm3i__v1__highres__smartfisherybreedingfactorys_1_-08c9f.jpg?1791285322",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20240214__467326772__v1__highres__harborijmuiden_2_1_-abbed.jpg?1791358174",
           "other_news": false
         },
         {
@@ -645,6 +634,28 @@
           "language": "fr",
           "summary": "Sur le brise-glace « Amundsen », une trentaine de scientifiques ont parcouru la côte ouest du Groenland en août pour étudier les effets du réchauffeme",
           "image": "https://img.lemde.fr/2026/10/02/319/0/3378/1689/644/322/60/0/2f32aba_upload-1-oxoa7x0oeoge-20260823-084033.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Marine Le Pen présente le «contre-budget» du RN pour 2027, une attaque contre les renouvelables et les agences environnementales",
+          "link": "https://vert.eco/chaleurs-actuelles/marine-le-pen-presente-le-contre-budget-du-rn-pour-2027-une-attaque-contre-les-renouvelables-et-les-agences-environnementales/",
+          "published": "2026-10-07T09:46:58+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Mardi, la cheffe de file d’extrême droite a présenté son plan pour faire «140 milliards d’euros d’économies» sur les cinq prochaines années. Elle a as",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Ocean, desert rainfall and a parasitic disease: researchers connect patterns",
+          "link": "https://theconversation.com/ocean-desert-rainfall-and-a-parasitic-disease-researchers-connect-patterns-291759",
+          "published": "2026-10-07T13:10:17+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The predictable Atlantic signal can improve researchers’ ability to anticipate changes in leishmaniasis transmission.",
+          "image": null,
           "other_news": false
         },
         {
@@ -799,31 +810,9 @@
           "summary": "C'est une autre conséquence du changement climatique : la pollution de l'air à l'ozone a touché, à des niveaux dangereux, 40 % d",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260717__hl_smouchmouche_3235718__v1__highres__francebastilledayparadeaerialvi-dc390.jpg?1790733601",
           "other_news": true
-        },
-        {
-          "title": "What a Chinese pollution crackdown can teach Canada about carbon pricing",
-          "link": "https://theconversation.com/what-a-chinese-pollution-crackdown-can-teach-canada-about-carbon-pricing-292862",
-          "published": "2026-10-06T15:12:04+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Canada has lowered its planned industrial carbon price. Research from China shows why the effects of environmental rules depend on firms’ ability to a",
-          "image": null,
-          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
-        {
-          "title": "‘Small, flowering islands’: German city reveals how nature thrives when neighbours care for street tree beds",
-          "link": "https://theconversation.com/small-flowering-islands-german-city-reveals-how-nature-thrives-when-neighbours-care-for-street-tree-beds-285637",
-          "published": "2026-09-21T14:12:03+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "The tiny gardens beneath street trees can boost biodiversity and our connection to where we live.",
-          "image": null,
-          "other_news": true
-        },
         {
           "title": "Conservationists are discovering ‘bright spots’ around the globe. Here’s why they matter",
           "link": "https://theconversation.com/conservationists-are-discovering-bright-spots-around-the-globe-heres-why-they-matter-289476",
@@ -892,17 +881,6 @@
           "language": "en",
           "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390c/live/dabff6d0-b7c5-11f1-b1d1-571ed4d7ff2c.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets'",
-          "link": "https://www.bbc.co.uk/news/articles/c3pwlejxrd7do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-23T09:00:21+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Farmers fear they may not be able to carry out environmental work because they lost out on funding.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98b1/live/ecfc6110-b722-11f1-8d21-19ad84e0e822.jpg",
           "other_news": true
         },
         {
@@ -1544,6 +1522,50 @@
           "other_news": true
         },
         {
+          "title": "Super El Niño could hit southern Africa’s bean harvests hard: how to protect farmers",
+          "link": "https://theconversation.com/super-el-nino-could-hit-southern-africas-bean-harvests-hard-how-to-protect-farmers-291842",
+          "published": "2026-10-07T13:09:16+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A super El Niño could spell disaster for southern Africa’s bean farmers. Better seeds, water storage and early warnings could help protect the next ha",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Your cells keep a record of every workout you’ve ever done – and those gains persist even after a break from exercise",
+          "link": "https://theconversation.com/your-cells-keep-a-record-of-every-workout-youve-ever-done-and-those-gains-persist-even-after-a-break-from-exercise-291243",
+          "published": "2026-10-07T12:08:01+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "‘Use it or lose it’ isn’t quite true when it comes to the health benefits of exercise. Cells across the body retain a memory of training that lasts lo",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Inside the industrial incinerators tasked with ‘respectful disposal’ of anatomical waste",
+          "link": "https://theconversation.com/inside-the-industrial-incinerators-tasked-with-respectful-disposal-of-anatomical-waste-290092",
+          "published": "2026-10-07T12:05:45+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Architectural drawings and interviews offer a close-up look at the logistical side of this strange industrial process.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Smokers have a lower risk of Parkinson’s – we may have found out why",
+          "link": "https://theconversation.com/smokers-have-a-lower-risk-of-parkinsons-we-may-have-found-out-why-293270",
+          "published": "2026-10-07T08:26:00+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Why do smokers get Parkinson’s less often? New evidence from half a million adults in China points to carbon monoxide, not smoking itself.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Electric long-haul trucks could become a reality sooner – if there’s no driver",
           "link": "https://theconversation.com/electric-long-haul-trucks-could-become-a-reality-sooner-if-theres-no-driver-291166",
           "published": "2026-10-07T03:30:58+00:00",
@@ -1566,35 +1588,13 @@
           "other_news": true
         },
         {
-          "title": "The ick: the psychology of why a romantic partner can suddenly repulse you",
-          "link": "https://theconversation.com/the-ick-the-psychology-of-why-a-romantic-partner-can-suddenly-repulse-you-293266",
-          "published": "2026-10-06T12:55:14+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Ever felt a sudden wave of cringe toward someone you were actually into – congratulations, you’ve caught ‘the ick’.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "What helps children feel safe at school?",
-          "link": "https://theconversation.com/what-helps-children-feel-safe-at-school-250858",
-          "published": "2026-10-06T08:04:35+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "schools can provide a supportive environment that allows children to explore, but also to return to safety when they feel vulnerable.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "100 conservation projects are looking for funding after USAID’s closure",
           "link": "https://news.mongabay.com/short-article/2026/10/100-conservation-projects-are-looking-for-funding-after-usaids-closure/",
           "published": "2026-10-06T18:20:09+00:00",
           "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Twenty months after the dismantling of USAID, a new analysis documents what the international development agency’s disappearance has meant for conserv",
+          "summary": "Founder&#8217;s Briefs: An occasional series where Mongabay founder Rhett Ayers Butler shares analysis, perspectives and story summaries. Twenty month",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/24143236/USAID-1-scaled-e1791303366230-768x512.jpg",
           "other_news": true
         },
@@ -1607,17 +1607,6 @@
           "language": "en",
           "summary": "SANTAREM, Brazil (AP) — Off-grid solar power is spreading across Brazil’s Amazon, helping remote communities prepare for severe drought while replacin",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/06160008/AP26272825099885-scaled-e1791302750226-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Uganda and NGO to co-manage sector of national park home to tree-climbing lions",
-          "link": "https://news.mongabay.com/short-article/2026/10/uganda-and-ngo-to-co-manage-sector-of-national-park-home-to-tree-climbing-lions/",
-          "published": "2026-10-02T12:49:05+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Uganda Wildlife Authority (UWA) and the Wildlife Conservation Society (WCS) have signed a 10-year agreement to co-manage a portion of Queen Elizab",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/10105224/QENP23-71-768x512.jpg",
           "other_news": true
         }
       ]

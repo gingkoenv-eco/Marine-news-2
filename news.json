@@ -1,31 +1,7 @@
 {
-  "generated_at": "2026-10-06T18:55:37.495202+00:00",
+  "generated_at": "2026-10-07T05:01:10.777436+00:00",
   "categories": {
     "Politics & Policy": {
-      "Species Migration & Habitat Change": [
-        {
-          "title": "The Coalition’s migration changes would slash international student enrolments",
-          "link": "https://theconversation.com/the-coalitions-migration-changes-would-slash-international-student-enrolments-293678",
-          "published": "2026-10-06T06:24:43+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Abolishing the temporary graduate visa would deliver a large additional blow to international education.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "The Coalition’s migration policy rests on a series of false premises",
-          "link": "https://theconversation.com/the-coalitions-migration-policy-rests-on-a-series-of-false-premises-293672",
-          "published": "2026-10-06T02:27:30+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The long-awaited plan includes cutting net overseas migration by two thirds and a crackdown on visa-hopping, but it’s all built on shaky foundations.",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Other Marine News": [
         {
           "title": "UK to join EU ocean science scheme to better predict extreme weather events",
@@ -45,7 +21,7 @@
           "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Pacific leaders called at the pre-COP in Fiji for countries to invest in their own Pacific Resilience Facility, as they struggle with the red-tape of",
+          "summary": "Island nations seek invest in their own Pacific Resilience Facility, as they struggle with the red-tape of international climate funds\nThe post Pacifi",
           "image": null,
           "other_news": false
         },
@@ -156,17 +132,6 @@
           "other_news": false
         },
         {
-          "title": "‘Sharks are my film stars’: how the Jacques Cousteau of the North Sea finally unlocked its beauty",
-          "link": "https://www.theguardian.com/film/2026/sep/07/sharks-film-stars-jacques-cousteau-north-sea-nature-untamed",
-          "published": "2026-09-07T04:00:24+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Epic plankton blooms make filming in the North Sea notoriously difficult. But a new documentary gives a rare glimpse of the kaleidoscopic life – seals",
-          "image": "https://i.guim.co.uk/img/media/133cf01dccae88c5760a3bf553f4ee5572f3a55e/2404_906_4703_3762/master/4703.jpg?width=140&quality=85&auto=format&fit=max&s=8cda8c232809d104faa0b1370a0b8d27",
-          "other_news": false
-        },
-        {
           "title": "I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
           "link": "https://www.bbc.co.uk/news/articles/c6q8jly114j8o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-03T17:08:10+00:00",
@@ -219,6 +184,17 @@
           "language": "en",
           "summary": "A deep-sea sea cucumber dubbed \"Loki\" leads 57 new species and five new genera identified in two weeks from a viral Argentine expedition, using fast-t",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "New crocodile species found fossilized in stone used to build Egypt’s Great Sphinx",
+          "link": "https://news.mongabay.com/2026/10/new-crocodile-species-found-fossilized-in-stone-used-to-build-egypts-great-sphinx/",
+          "published": "2026-10-06T23:14:27+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "About 45 million years ago in northern Egypt, a long-snouted crocodile hunted in the warm, shallow sea. Its bones settled into the same limestone form",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/06231012/Sphinx-croc_Herugavialis_cairensis-768x512.png",
           "other_news": false
         },
         {
@@ -301,17 +277,6 @@
           "summary": "Relics of ancient wet forests stretch across the coast of Queensland state in Australia. In a landscape made patchwork by agriculture, volunteers, com",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/05/20181459/6-1-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Mangroves keep waves at bay. A new study helps scientists predict how",
-          "link": "https://news.mongabay.com/2026/10/mangroves-keep-waves-at-bay-a-new-study-helps-scientists-predict-how/",
-          "published": "2026-10-01T23:29:33+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Existing at the junction of land and sea, mangrove forests have long been heralded for their ecosystem services, including their ability to buffer coa",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/01133108/OceanImageBank_MPA25_AlexPike-768x512.jpg",
-          "other_news": false
         }
       ],
       "Polar & Reef Ecosystems & Resilience": [
@@ -350,17 +315,6 @@
         }
       ],
       "Species Migration & Habitat Change": [
-        {
-          "title": "Taylor would hold net overseas migration at annual 100,000 for two years in plan hitting students, refugees",
-          "link": "https://theconversation.com/taylor-would-hold-net-overseas-migration-at-annual-100-000-for-two-years-in-plan-hitting-students-refugees-293211",
-          "published": "2026-10-06T03:49:25+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The radical opposition blueprint – framed against the background of One Nation – would cut temporary visa holders by about 650,000 over four years.",
-          "image": null,
-          "other_news": false
-        },
         {
           "title": "Hunters reportedly kill hundreds of migratory birds stranded by thunderstorm in Malta",
           "link": "https://news.mongabay.com/short-article/2026/10/hunters-reportedly-kill-hundreds-of-migratory-birds-stranded-by-thunderstorm-in-malta/",
@@ -639,17 +593,6 @@
           "other_news": false
         },
         {
-          "title": "« Une logique de prédation mondialisée » : les navires de pêche de plus de 33 mètres dans le viseur des ONG",
-          "link": "https://reporterre.net/Meganavires-de-peche-et-si-on-demantelait-ceux-qui-detruisent-plus-qu-ils-ne-nourrissent",
-          "published": "2026-09-29T08:20:13+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans un nouveau rapport, l'ONG Bloom veut démanteler les méganavires industriels de pêche qui « détruisent plus qu'ils ne nourri",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20240214__467326772__v1__highres__harborijmuiden_1_-3d2d6.jpg?1790670015",
-          "other_news": false
-        },
-        {
           "title": "Warming seas are reshuffling plankton and the marine food web",
           "link": "https://oceanographicmagazine.com/news/warming-seas-are-reshuffling-plankton-and-the-marine-food-web/",
           "published": "2026-10-06T15:29:20+00:00",
@@ -685,7 +628,7 @@
         {
           "title": "Les exportations de pétrole du Golfe rebondissent au-delà de leurs niveaux d’avant-guerre",
           "link": "https://www.lemonde.fr/economie/article/2026/10/06/les-exportations-de-petrole-du-golfe-rebondissent-au-dela-de-leurs-niveaux-d-avant-guerre_6789050_3234.html",
-          "published": "2026-10-06T18:30:10+02:00",
+          "published": "2026-10-06T18:30:06+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -702,6 +645,17 @@
           "language": "fr",
           "summary": "Sur le brise-glace « Amundsen », une trentaine de scientifiques ont parcouru la côte ouest du Groenland en août pour étudier les effets du réchauffeme",
           "image": "https://img.lemde.fr/2026/10/02/319/0/3378/1689/644/322/60/0/2f32aba_upload-1-oxoa7x0oeoge-20260823-084033.jpg",
+          "other_news": false
+        },
+        {
+          "title": "I’m a physicist who worked on the Nobel-winning neutrino search – here’s how a cubic kilometer of Antarctic ice became a telescope for ghost particles from space",
+          "link": "https://theconversation.com/im-a-physicist-who-worked-on-the-nobel-winning-neutrino-search-heres-how-a-cubic-kilometer-of-antarctic-ice-became-a-telescope-for-ghost-particles-from-space-293747",
+          "published": "2026-10-06T23:19:54+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The 2026 Nobel Prize in physics recognizes Francis Halzen’s vision in building an unusual telescope in Antarctica, as well as the neutrino discoveries",
+          "image": null,
           "other_news": false
         },
         {
@@ -860,17 +814,6 @@
       ],
       "Marine Biodiversity & Conservation": [
         {
-          "title": "The rare Bog Grass Moth found in nature reserve for first time",
-          "link": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-01T05:03:12+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de2c/live/87a986d0-bcdb-11f1-afec-ebbb2634c4cd.png",
-          "other_news": true
-        },
-        {
           "title": "‘Small, flowering islands’: German city reveals how nature thrives when neighbours care for street tree beds",
           "link": "https://theconversation.com/small-flowering-islands-german-city-reveals-how-nature-thrives-when-neighbours-care-for-street-tree-beds-285637",
           "published": "2026-09-21T14:12:03+00:00",
@@ -878,6 +821,17 @@
           "type": "news",
           "language": "en",
           "summary": "The tiny gardens beneath street trees can boost biodiversity and our connection to where we live.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Conservationists are discovering ‘bright spots’ around the globe. Here’s why they matter",
+          "link": "https://theconversation.com/conservationists-are-discovering-bright-spots-around-the-globe-heres-why-they-matter-289476",
+          "published": "2026-10-07T00:01:24+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A new study examines ecosystems and species that are thriving against the odds.",
           "image": null,
           "other_news": true
         }
@@ -1535,17 +1489,6 @@
           "other_news": true
         },
         {
-          "title": "« La solitude est le résultat de choix politiques »",
-          "link": "https://reporterre.net/La-solitude-contemporaine-est-le-resultat-de-choix-de-politiques-publiques",
-          "published": "2026-09-29T07:23:18+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Pour la journaliste Alice Raybaud, la solitude est un « sujet politique majeur », auquel elle a consacré un livre. Elle démontre",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/solitude_v3-a1ab3.jpg?1790666600",
-          "other_news": true
-        },
-        {
           "title": "Rights of Nature spreads as councils adopt River Avon Charter",
           "link": "https://oceanographicmagazine.com/news/rights-of-nature-spreads-as-councils-adopt-river-avon-charter/",
           "published": "2026-10-02T15:07:05+00:00",
@@ -1601,14 +1544,14 @@
           "other_news": true
         },
         {
-          "title": "Face au plan d’électrification du gouvernement français, le blues de la filière gazière",
-          "link": "https://www.lemonde.fr/economie/article/2026/10/05/face-au-plan-d-electrification-du-gouvernement-francais-le-blues-de-la-filiere-gaziere_6788510_3234.html",
-          "published": "2026-10-05T11:00:22+02:00",
-          "source": "Le Monde Planète",
+          "title": "Electric long-haul trucks could become a reality sooner – if there’s no driver",
+          "link": "https://theconversation.com/electric-long-haul-trucks-could-become-a-reality-sooner-if-theres-no-driver-291166",
+          "published": "2026-10-07T03:30:58+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Les acteurs de la filière gazière déplorent le durcissement de la réglementation sur les dispositifs de chauffage au gaz au profit des pompes à chaleu",
-          "image": "https://img.lemde.fr/2026/10/02/461/0/8000/4000/644/322/60/0/5c1b348_upload-1-mdhsfstigkxg-000-b6qr9t3.jpg",
+          "language": "en",
+          "summary": "Smaller electric trucks are already on Australian city streets. As battery prices fall, bigger trucks will become viable – especially if there’s no dr",
+          "image": null,
           "other_news": true
         },
         {
@@ -1641,28 +1584,6 @@
           "type": "news",
           "language": "en",
           "summary": "schools can provide a supportive environment that allows children to explore, but also to return to safety when they feel vulnerable.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Cheap Chinese EVs could soon shake up NZ’s used car market. Are we ready?",
-          "link": "https://theconversation.com/cheap-chinese-evs-could-soon-shake-up-nzs-used-car-market-are-we-ready-292596",
-          "published": "2026-10-05T22:31:40+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Chinese EVs are approaching the price of older used petrol vehicles. That could disrupt a whole support industry, from gas stations to mechanics and d",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "You’ve probably never heard of synchronous condensers. But they’re essential in the push for renewables",
-          "link": "https://theconversation.com/youve-probably-never-heard-of-synchronous-condensers-but-theyre-essential-in-the-push-for-renewables-290630",
-          "published": "2026-10-05T22:25:20+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "As ageing coal plants head for retirement, authorities are turning to a century-old technology to stabilise the grid.",
           "image": null,
           "other_news": true
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:34:10.583307+00:00",
+  "generated_at": "2026-10-07T18:57:07.291950+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -72,17 +72,6 @@
           "language": "en",
           "summary": "Seventy-nine per cent of all NSW swimming sites rated ‘good’ or ‘very good’, as state’s cleanest and most polluted beaches revealedFollow our Australi",
           "image": "https://i.guim.co.uk/img/media/1af16ff258e33caea65db65fd1958390c0560ed3/965_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=98148fd52c609c447e718c62605507a4",
-          "other_news": false
-        },
-        {
-          "title": "Tests carried out on seabirds after nurdle spill",
-          "link": "https://www.bbc.co.uk/news/articles/cwzrd7p2ll50o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-07T05:07:45+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Necropsies are being carried out on seabirds to find out the effects of microplastic pollutants.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44b5/live/17356890-c1ba-11f1-a64c-550be9e3c66b.jpg",
           "other_news": false
         },
         {
@@ -187,6 +176,28 @@
           "other_news": false
         },
         {
+          "title": "Rising seas threaten the world’s migratory shorebirds",
+          "link": "https://theconversation.com/rising-seas-threaten-the-worlds-migratory-shorebirds-292954",
+          "published": "2026-10-07T14:45:05+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Shorebirds undertake some of the world’s most impressive migrations — but as sea levels rise, the habitats that they depend on are expected to shrink.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Arabian Sea humpbacks may be a unique subspecies at risk of extinction",
+          "link": "https://news.mongabay.com/short-article/2026/10/arabian-sea-humpbacks-may-be-a-unique-subspecies-at-risk-of-extinction/",
+          "published": "2026-10-07T18:39:53+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Humpback whales found in the Arabian Sea are likely a distinct subspecies, having evolved in isolation for tens of thousands of years, according to a",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/07183207/Photo-3-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "New crocodile species found fossilized in stone used to build Egypt’s Great Sphinx",
           "link": "https://news.mongabay.com/2026/10/new-crocodile-species-found-fossilized-in-stone-used-to-build-egypts-great-sphinx/",
           "published": "2026-10-06T23:14:27+00:00",
@@ -195,17 +206,6 @@
           "language": "en",
           "summary": "About 45 million years ago in northern Egypt, a long-snouted crocodile hunted in the warm, shallow sea. Its bones settled into the same limestone form",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/06231012/Sphinx-croc_Herugavialis_cairensis-768x512.png",
-          "other_news": false
-        },
-        {
-          "title": "Probiotics prevented coral bleaching during a Red Sea heat wave: Study",
-          "link": "https://news.mongabay.com/2026/10/probiotics-prevented-coral-bleaching-during-a-red-sea-heat-wave-study/",
-          "published": "2026-10-02T15:06:24+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "As a heat wave settled on the Red Sea in 2022, a patch of corals in a reef 15 kilometers (9.3 miles) off the coast of Saudi Arabia reacted differently",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/02132528/Researcher-Raquel-Peixoto-inoculating-probiotics-768x512.jpg",
           "other_news": false
         }
       ],
@@ -301,20 +301,20 @@
           "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.&#8230;\nThe post ‘Co",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "Permafrost, wetland, wildfire and freshwater emissions could amplify climate change by up to 30%, study finds",
-          "link": "https://news.mongabay.com/2026/10/permafrost-wetland-wildfire-and-freshwater-emissions-could-amplify-climate-change-by-up-to-30-study-finds/",
-          "published": "2026-10-02T14:05:37+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "As frozen ground thaws in the Arctic, dead plants and animals locked in soils for thousands of years start to decay, releasing methane and carbon diox",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/03/20070720/7-The-Kutuk-River-768x512.jpg",
-          "other_news": false
         }
       ],
       "Species Migration & Habitat Change": [
+        {
+          "title": "The migration debate has a big blind spot: much of regional Australia is shrinking",
+          "link": "https://theconversation.com/the-migration-debate-has-a-big-blind-spot-much-of-regional-australia-is-shrinking-293692",
+          "published": "2026-10-07T18:27:54+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Limiting our attention to short-term workforce needs ignores a much bigger conversation about what it will take for regional Australia to thrive in th",
+          "image": null,
+          "other_news": false
+        },
         {
           "title": "Hunters reportedly kill hundreds of migratory birds stranded by thunderstorm in Malta",
           "link": "https://news.mongabay.com/short-article/2026/10/hunters-reportedly-kill-hundreds-of-migratory-birds-stranded-by-thunderstorm-in-malta/",
@@ -406,6 +406,17 @@
           "other_news": false
         },
         {
+          "title": "World's largest penguin colony hit by 'alarming' decline in numbers",
+          "link": "https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-07T15:00:35+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Climate change is blamed for dramatic decline of chinstrap penguins living on a remote volcanic island.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad33/live/1a300bd0-c0c6-11f1-a5b0-6f550c662e91.jpg",
+          "other_news": false
+        },
+        {
           "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
           "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-02T21:00:41+00:00",
@@ -414,6 +425,17 @@
           "language": "en",
           "summary": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fab2/live/e805b6e0-be91-11f1-9f15-2f9dbc671f7d.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Blue Planet III ventures into darkest depths of ocean",
+          "link": "https://www.bbc.co.uk/news/articles/c5pvgzvlepr1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-07T16:07:21+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Sir David says the series uncovers marine life that is \"even more precious than we ever realised\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f8/live/1b1aff90-c25c-11f1-bc2e-018d645d8d21.jpg",
           "other_news": false
         },
         {
@@ -435,17 +457,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Lorsque les colonies de manchots ne sont plus entourées de glace de mer, les manchots ont tendance à manger davantage de krill que de poissons.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Comment les « avalanches » sous-marines transportent les plastiques jusqu’aux abysses",
-          "link": "https://theconversation.com/comment-les-avalanches-sous-marines-transportent-les-plastiques-jusquaux-abysses-289738",
-          "published": "2026-09-17T09:30:25+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Où est passé le plastique manquant des océans&nbsp;? Les courants de turbidité liés à l’écoulement des sédiments côtiers les transportent vers les fon",
           "image": null,
           "other_news": false
         },
@@ -535,6 +546,17 @@
           "language": "en",
           "summary": "Efforts to protect marine ecosystems and coastal communities have risen up the political agenda at the UN General Assembly in New York\nThe post Threat",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Ces artistes et scientifiques naviguent depuis un an au chevet des « fleuves en ruines »",
+          "link": "https://reporterre.net/Sur-leur-BatoLabo-ces-artistes-et-scientifiques-naviguent-depuis-un-an-au-chevet-des",
+          "published": "2026-10-07T15:35:59+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Relier l'estuaire de la Loire au delta du Danube, tel est l'objectif du BatoLabo. À bord de ce laboratoire flottant, l'équipage",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/_c_adam_weisz_weiszconcept_dsc01259_resized-07e07.jpg?1791387360",
           "other_news": false
         },
         {
@@ -648,6 +670,17 @@
           "other_news": false
         },
         {
+          "title": "How Spain’s torrential rainstorms put sewage into its rivers and seas",
+          "link": "https://theconversation.com/how-spains-torrential-rainstorms-put-sewage-into-its-rivers-and-seas-293721",
+          "published": "2026-10-07T14:31:29+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Overloaded wastewater treatment plants often discharge untreated sewage into waterways.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Ocean, desert rainfall and a parasitic disease: researchers connect patterns",
           "link": "https://theconversation.com/ocean-desert-rainfall-and-a-parasitic-disease-researchers-connect-patterns-291759",
           "published": "2026-10-07T13:10:17+00:00",
@@ -655,17 +688,6 @@
           "type": "news",
           "language": "en",
           "summary": "The predictable Atlantic signal can improve researchers’ ability to anticipate changes in leishmaniasis transmission.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "I’m a physicist who worked on the Nobel-winning neutrino search – here’s how a cubic kilometer of Antarctic ice became a telescope for ghost particles from space",
-          "link": "https://theconversation.com/im-a-physicist-who-worked-on-the-nobel-winning-neutrino-search-heres-how-a-cubic-kilometer-of-antarctic-ice-became-a-telescope-for-ghost-particles-from-space-293747",
-          "published": "2026-10-06T23:19:54+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The 2026 Nobel Prize in physics recognizes Francis Halzen’s vision in building an unusual telescope in Antarctica, as well as the neutrino discoveries",
           "image": null,
           "other_news": false
         },
@@ -703,6 +725,17 @@
           "other_news": false
         },
         {
+          "title": "Tropical Storm Isaias forms, is forecast to become a hurricane and hit US Gulf Coast this week",
+          "link": "https://news.mongabay.com/short-article/2026/10/tropical-storm-isaias-forms-is-forecast-to-become-a-hurricane-and-hit-us-gulf-coast-this-week/",
+          "published": "2026-10-07T18:09:01+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "MIAMI (AP) — Tropical Storm Isaias formed Wednesday in the warm waters off eastern Mexico and forecasters said it was expected to strengthen into the",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/07180212/AP26280555166570-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Science, Indigenous knowledge team up to restore Canada’s kelp. (Sea otters help, too.)",
           "link": "https://news.mongabay.com/2026/10/science-indigenous-knowledge-team-up-to-restore-canadas-kelp-sea-otters-help-too/",
           "published": "2026-10-06T14:44:29+00:00",
@@ -711,17 +744,6 @@
           "language": "en",
           "summary": "Emily Fulton spends a lot of time in a small boat cruising the waters of Clayoquot Sound off the west coast of Vancouver Island in British Columbia, C",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/02162939/a.-BANNER-Liam-Ragan-original-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Vietnam’s fishers face rising costs, declining catches and a contested sea",
-          "link": "https://news.mongabay.com/2026/10/vietnams-fishers-face-rising-costs-declining-catches-and-a-contested-sea/",
-          "published": "2026-10-02T18:01:16+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "QUANG NGAI, Vietnam — When diesel prices in Vietnam hit an all-time high in March, Vo Huu Viet, a fisherman with more than 30 years at sea in Quang Ng",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/02130412/vietnamese-fishers-768x512.jpg",
           "other_news": false
         }
       ]
@@ -750,17 +772,6 @@
           "language": "en",
           "summary": "Independent analysis of The Metals Company's own projections finds deep-sea mining destroys value in over eight in ten realistic scenarios and could l",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "How to grow $25K into community-led conservation: Interview with Tanzania’s Mwambao",
-          "link": "https://news.mongabay.com/2026/10/how-to-grow-25k-into-community-led-conservation-interview-with-tanzanias-mwambao/",
-          "published": "2026-10-02T13:58:53+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "UNGUJA, Tanzania — Decades before they would partner to build a marine conservation organization together, Ali Thani and Lorna Slade crossed paths in",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/02134417/70739416_1145382202323166_5232273015621812224_n-768x512.jpg",
           "other_news": false
         }
       ]
@@ -799,17 +810,6 @@
           "summary": "Decades of pollution at Pittsburgh brownfields left bacteria that evolved to survive it – and maybe help clean up contaminated soil.",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "Vagues de chaleur : la moitié des Européens exposés à un niveau dangereux d'ozone en 2026",
-          "link": "https://reporterre.net/Vagues-de-chaleur-la-moitie-des-Europeens-exposes-a-un-niveau-dangereux-d-ozone-en-2026",
-          "published": "2026-09-30T02:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "C'est une autre conséquence du changement climatique : la pollution de l'air à l'ozone a touché, à des niveaux dangereux, 40 % d",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260717__hl_smouchmouche_3235718__v1__highres__francebastilledayparadeaerialvi-dc390.jpg?1790733601",
-          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -834,17 +834,6 @@
           "type": "news",
           "language": "en",
           "summary": "The climate crisis is also a governance crisis - one with a persistent blindspot for women's leadership, ingenuity and readiness to take decisions for",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Remittances can help African countries adapt to climate change",
-          "link": "https://theconversation.com/remittances-can-help-african-countries-adapt-to-climate-change-292655",
-          "published": "2026-10-06T16:08:16+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Governments and international organizations should develop policy that incorporates remittances into how we respond to climate change.",
           "image": null,
           "other_news": true
         }
@@ -1060,17 +1049,6 @@
           "other_news": true
         },
         {
-          "title": "Five foods that could cost even more this winter – and why",
-          "link": "https://theconversation.com/five-foods-that-could-cost-even-more-this-winter-and-why-292419",
-          "published": "2026-09-22T10:15:56+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Conflicts, energy shocks, climate change and El Niño are combining to squeeze food prices upwards. Five familiar foods illustrate what’s going on.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Question of whether taxpayers or fossil fuel companies pay for climate change damage heads to Supreme Court",
           "link": "https://theconversation.com/question-of-whether-taxpayers-or-fossil-fuel-companies-pay-for-climate-change-damage-heads-to-supreme-court-292847",
           "published": "2026-09-30T20:21:09+00:00",
@@ -1166,6 +1144,17 @@
           "type": "news",
           "language": "en",
           "summary": "Aviation is on track to be responsible for 80% of the UK’s carbon dioxide (CO2) emissions by 2050, according to&#8230;\nThe post CCC: Heathrow expansio",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "New Zealand accused of breaching EU trade deal over climate rollbacks",
+          "link": "https://www.climatechangenews.com/2026/10/07/new-zealand-accused-breaching-eu-trade-deal-climate-rollbacks-fta/",
+          "published": "2026-10-07T16:37:02+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "The EU's climate trade rules face their first major test after a green group alleged New Zealand violated binding environmental provisions under its t",
           "image": null,
           "other_news": true
         },
@@ -1401,17 +1390,6 @@
           "other_news": true
         },
         {
-          "title": "With multilateralism in crisis, what’s next for climate philanthropy?",
-          "link": "https://www.climatechangenews.com/2026/09/11/with-multilateralism-in-crisis-whats-next-for-climate-philanthropy/",
-          "published": "2026-09-11T11:46:17+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Climate philanthropy must do more than fill the gaps left by retreating governments and find new ways to support climate action in a fragmented global",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Sur CNews, journalistes et chroniqueurs experts dans la mésinformation climatique",
           "link": "https://reporterre.net/Sur-CNews-journalistes-et-chroniqueurs-experts-dans-la-mesinformation-climatique",
           "published": "2026-10-06T13:23:43+00:00",
@@ -1500,14 +1478,47 @@
           "other_news": true
         },
         {
-          "title": "Climat : les propositions de Gabriel Zucman pour financer la transition",
-          "link": "https://www.lemonde.fr/videos/video/2026/10/05/climat-les-propositions-de-gabriel-zucman-pour-financer-la-transition_6788543_1669088.html",
-          "published": "2026-10-05T17:00:01+02:00",
-          "source": "Le Monde Planète",
+          "title": "Beige tones and knit throws? No, we’ve got Scandinavian design all wrong",
+          "link": "https://theconversation.com/beige-tones-and-knit-throws-no-weve-got-scandinavian-design-all-wrong-293440",
+          "published": "2026-10-07T18:28:50+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "L’économiste Gabriel Zucman propose de taxer les milliardaires et les compagnies pétrolières pour lutter contre le réchauffement climatique. Dans cett",
-          "image": "https://img.lemde.fr/2026/09/30/55/0/1778/889/644/322/60/0/28e7a09_upload-1-8cokhgipejsx-01-09-gabriel-zucman.jpg",
+          "language": "en",
+          "summary": "Scandinavian design is rooted in a philosophy that seems to make life easier. But it’s been turned into a bland colour palette.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Colonisation, not climate change, first primed these forests to burn",
+          "link": "https://theconversation.com/colonisation-not-climate-change-first-primed-these-forests-to-burn-292997",
+          "published": "2026-10-07T18:27:43+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "For more than 800 years, frequent cultural burning kept this land as stable, open woodland.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Eight ways to feed ourselves if rogue AI destroys modern agriculture",
+          "link": "https://theconversation.com/eight-ways-to-feed-ourselves-if-rogue-ai-destroys-modern-agriculture-292086",
+          "published": "2026-10-07T17:30:59+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "if AI shut down the electricity grid, it would swiftly shut down agriculture. Without fuel, refrigeration, irrigation and fertilizers, we would all ha",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Why the student protests in France and the government’s response are unprecedented and unpredictable",
+          "link": "https://theconversation.com/why-the-student-protests-in-france-and-the-governments-response-are-unprecedented-and-unpredictable-293863",
+          "published": "2026-10-07T15:11:33+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Student outcry against the limited means of France’s education system is nothing new, but the global context and the nature of the movement which bega",
+          "image": null,
           "other_news": true
         },
         {
@@ -1566,14 +1577,14 @@
           "other_news": true
         },
         {
-          "title": "Why are new wind farms stuck in the doldrums in Australia?",
-          "link": "https://theconversation.com/why-are-new-wind-farms-stuck-in-the-doldrums-in-australia-292231",
-          "published": "2026-10-06T18:26:11+00:00",
-          "source": "The Conversation",
+          "title": "International pledge to fund forest rights exceeds target, but direct funding remains low",
+          "link": "https://news.mongabay.com/2026/10/international-pledge-to-fund-forest-rights-exceeds-target-but-direct-funding-remains-low/",
+          "published": "2026-10-07T17:23:29+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Solar and batteries are powering ahead – but wind farms are struggling. There are multiple reasons for this, from politics to construction costs.",
-          "image": null,
+          "summary": "Funders of the $1.7 billion pledge to support Indigenous peoples and local communities’ land rights, announced at the 2021 United Nations Climate Chan",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/07154220/AP24302739182917-Jayapura-Papua-province-768x512.jpg",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:31:29.798315+00:00",
+  "generated_at": "2026-10-08T14:37:53.540209+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -143,17 +143,6 @@
           "other_news": false
         },
         {
-          "title": "Rising seas threaten the world’s migratory shorebirds",
-          "link": "https://theconversation.com/rising-seas-threaten-the-worlds-migratory-shorebirds-292954",
-          "published": "2026-10-07T14:45:05+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Shorebirds undertake some of the world’s most impressive migrations — but as sea levels rise, the habitats that they depend on are expected to shrink.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Arabian Sea humpbacks may be a unique subspecies at risk of extinction",
           "link": "https://news.mongabay.com/short-article/2026/10/arabian-sea-humpbacks-may-be-a-unique-subspecies-at-risk-of-extinction/",
           "published": "2026-10-07T18:39:53+00:00",
@@ -186,6 +175,17 @@
           "language": "en",
           "summary": "Federal agencies told to prioritize recreational fishing and to reconsider scientific standards as well as regulationsDonald Trump’s latest fishing or",
           "image": "https://i.guim.co.uk/img/media/f8af944ce62f7aa2ef395db74a4348765e6746fb/330_0_3340_2672/master/3340.jpg?width=140&quality=85&auto=format&fit=max&s=2a2c9f94b1c2ae575cf57c36bdcbfbb9",
+          "other_news": false
+        },
+        {
+          "title": "Fishing in polluted waters",
+          "link": "https://news.mongabay.com/short-article/2026/10/fishing-in-polluted-waters/",
+          "published": "2026-10-08T14:23:56+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In a remote community in Malaysian Borneo, fishermen are facing an existential threat: their water source is being polluted. The fish they depend on i",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/08142321/NFTF-2-Thumb.png",
           "other_news": false
         }
       ],

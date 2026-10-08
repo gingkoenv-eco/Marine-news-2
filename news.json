@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T05:01:19.869820+00:00",
+  "generated_at": "2026-10-08T13:31:29.798315+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -99,17 +99,6 @@
           "other_news": false
         },
         {
-          "title": "I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
-          "link": "https://www.bbc.co.uk/news/articles/c6q8jly114j8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-03T17:08:10+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Wildlife cameraman Dan Abbot is caught off guard by a humpback whale, a rare sight in Welsh waters.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe3/live/9d28c1d0-be6e-11f1-8a45-cd59664d243b.jpg",
-          "other_news": false
-        },
-        {
           "title": "3 iconic animals show the value of the US Endangered Species Act – and the harm in stripping it away",
           "link": "https://theconversation.com/3-iconic-animals-show-the-value-of-the-us-endangered-species-act-and-the-harm-in-stripping-it-away-292887",
           "published": "2026-10-01T12:42:43+00:00",
@@ -198,17 +187,6 @@
           "summary": "Federal agencies told to prioritize recreational fishing and to reconsider scientific standards as well as regulationsDonald Trump’s latest fishing or",
           "image": "https://i.guim.co.uk/img/media/f8af944ce62f7aa2ef395db74a4348765e6746fb/330_0_3340_2672/master/3340.jpg?width=140&quality=85&auto=format&fit=max&s=2a2c9f94b1c2ae575cf57c36bdcbfbb9",
           "other_news": false
-        },
-        {
-          "title": "Europe’s mackerel fishery faces severe threat despite slight rebound",
-          "link": "https://oceanographicmagazine.com/news/europes-mackerel-fishery-faces-severe-threat-despite-slight-rebound/",
-          "published": "2026-09-30T16:02:26+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "With mackerel populations down 72% since 2016, experts warn coastal nations must follow scientific advice and reduce catch limits to avoid stock colla",
-          "image": null,
-          "other_news": false
         }
       ],
       "Nature-Based Solutions & Restoration": [
@@ -282,6 +260,17 @@
         }
       ],
       "Species Migration & Habitat Change": [
+        {
+          "title": "Grattan on Friday: Unless you’re Pauline Hanson, the migration debate can be a dangerous sinkhole",
+          "link": "https://theconversation.com/grattan-on-friday-unless-youre-pauline-hanson-the-migration-debate-can-be-a-dangerous-sinkhole-293212",
+          "published": "2026-10-08T07:10:54+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "When opposition started talking about cutting immigration it would have thought, on the basis of polling, that it was tapping into a vein of political",
+          "image": null,
+          "other_news": false
+        },
         {
           "title": "The migration debate has a big blind spot: much of regional Australia is shrinking",
           "link": "https://theconversation.com/the-migration-debate-has-a-big-blind-spot-much-of-regional-australia-is-shrinking-293692",
@@ -373,6 +362,17 @@
           "other_news": false
         },
         {
+          "title": "First Hurricane of the Atlantic season due to hit the Gulf coast",
+          "link": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-08T11:35:35+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern USA.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e38/live/728421a0-c309-11f1-8f04-85217d686658.png",
+          "other_news": false
+        },
+        {
           "title": "World's largest penguin colony hit by 'alarming' decline in numbers",
           "link": "https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-07T15:00:35+00:00",
@@ -384,14 +384,14 @@
           "other_news": false
         },
         {
-          "title": "Blue Planet III ventures into darkest depths of ocean",
-          "link": "https://www.bbc.co.uk/news/articles/c5pvgzvlepr1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-07T16:07:21+00:00",
-          "source": "BBC Ocean & Marine",
+          "title": "Vaut-il mieux manger de petits poissons ou de grands poissons ?",
+          "link": "https://theconversation.com/vaut-il-mieux-manger-de-petits-poissons-ou-de-grands-poissons-291616",
+          "published": "2026-10-08T10:22:13+00:00",
+          "source": "The Conversation FR",
           "type": "news",
-          "language": "en",
-          "summary": "Sir David says the series uncovers marine life that is \"even more precious than we ever realised\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f8/live/1b1aff90-c25c-11f1-bc2e-018d645d8d21.jpg",
+          "language": "fr",
+          "summary": "On a tendance à manger plus de grands poissons que de petits poissons. Pourtant privilégier les petits poissons a plus d’un intérêt pour la santé huma",
+          "image": null,
           "other_news": false
         },
         {
@@ -402,17 +402,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Aux Seychelles, dans l’océan Indien, des tonnes de plastique et d’engins de pêche s’échouent sur les plages. Une étude révèle l’origine de ces déchets",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "En Antarctique, le guano des manchots devient rose, et ce n’est pas une bonne nouvelle",
-          "link": "https://theconversation.com/en-antarctique-le-guano-des-manchots-devient-rose-et-ce-nest-pas-une-bonne-nouvelle-292258",
-          "published": "2026-09-18T09:08:26+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Lorsque les colonies de manchots ne sont plus entourées de glace de mer, les manchots ont tendance à manger davantage de krill que de poissons.",
           "image": null,
           "other_news": false
         },
@@ -506,7 +495,7 @@
         },
         {
           "title": "Ces artistes et scientifiques naviguent depuis un an au chevet des « fleuves en ruines »",
-          "link": "https://reporterre.net/Sur-leur-BatoLabo-ces-artistes-et-scientifiques-naviguent-depuis-un-an-au-chevet-des",
+          "link": "https://reporterre.net/Ces-artistes-et-scientifiques-naviguent-depuis-un-an-au-chevet-des-fleuves-en-ruines",
           "published": "2026-10-07T15:35:59+00:00",
           "source": "Reporterre",
           "type": "news",
@@ -560,6 +549,17 @@
           "other_news": false
         },
         {
+          "title": "Restored oyster reefs could be worth $12 trillion a year, study finds",
+          "link": "https://oceanographicmagazine.com/news/restored-oyster-reefs-could-be-worth-12-trillion-a-year-study-finds/",
+          "published": "2026-10-08T11:57:51+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Fully restored and protected, the world's oyster reefs could deliver $12 trillion a year in ecosystem benefits, according to new research - but scien",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Warming seas are reshuffling plankton and the marine food web",
           "link": "https://oceanographicmagazine.com/news/warming-seas-are-reshuffling-plankton-and-the-marine-food-web/",
           "published": "2026-10-06T15:29:20+00:00",
@@ -582,17 +582,6 @@
           "other_news": false
         },
         {
-          "title": "“Transforming before our eyes”: ocean absorbing record heat",
-          "link": "https://oceanographicmagazine.com/news/transforming-before-our-eyes-ocean-absorbing-record-heat/",
-          "published": "2026-09-30T15:56:56+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "From accelerating sea-level rise to rising acidity and shifting phytoplankton, a new report reveals the scale of change already underway in the world'",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Le déclin des populations de vertébrés sauvages s’accentue depuis cinquante ans",
           "link": "https://www.lemonde.fr/planete/article/2026/10/08/le-declin-des-populations-de-vertebres-sauvages-s-accentue-depuis-cinquante-ans_6789655_3244.html",
           "published": "2026-10-08T00:25:30+02:00",
@@ -601,17 +590,6 @@
           "language": "fr",
           "summary": "WWF publie la mise à jour de son « indice planète vivante », selon lequel la taille moyenne des populations suivie d’amphibiens, d’oiseaux, de poisson",
           "image": "https://img.lemde.fr/2026/10/07/234/0/2835/1417/644/322/60/0/1531749_upload-1-t5jlkapy9uvv-maxnewsspecial927521.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Les exportations de pétrole du Golfe rebondissent au-delà de leurs niveaux d’avant-guerre",
-          "link": "https://www.lemonde.fr/economie/article/2026/10/06/les-exportations-de-petrole-du-golfe-rebondissent-au-dela-de-leurs-niveaux-d-avant-guerre_6789050_3234.html",
-          "published": "2026-10-06T18:30:06+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Malgré l’augmentation des flux de brut en provenance du Moyen-Orient, la pénurie croissante de navires pétroliers est en train de créer un nouveau gou",
-          "image": "https://img.lemde.fr/2026/10/06/406/0/3000/1500/644/322/60/0/00d7a8e_upload-1-xam41n5iud3q-gettyimages-2298236559.jpg",
           "other_news": false
         },
         {
@@ -633,28 +611,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Mardi, la cheffe de file d’extrême droite a présenté son plan pour faire «140 milliards d’euros d’économies» sur les cinq prochaines années. Elle a as",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "How Spain’s torrential rainstorms put sewage into its rivers and seas",
-          "link": "https://theconversation.com/how-spains-torrential-rainstorms-put-sewage-into-its-rivers-and-seas-293721",
-          "published": "2026-10-07T14:31:29+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Overloaded wastewater treatment plants often discharge untreated sewage into waterways.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Ocean, desert rainfall and a parasitic disease: researchers connect patterns",
-          "link": "https://theconversation.com/ocean-desert-rainfall-and-a-parasitic-disease-researchers-connect-patterns-291759",
-          "published": "2026-10-07T13:10:17+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The predictable Atlantic signal can improve researchers’ ability to anticipate changes in leishmaniasis transmission.",
           "image": null,
           "other_news": false
         },
@@ -926,6 +882,17 @@
           "other_news": true
         },
         {
+          "title": "Hospital appointments can make greener travel harder",
+          "link": "https://theconversation.com/hospital-appointments-can-make-greener-travel-harder-293473",
+          "published": "2026-10-08T10:04:00+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Hospital journeys can be costly, exhausting and hard to plan. The timing and location of appointments can determine whether lower-carbon travel is pos",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Digger channels Kubrick’s Dr. Strangelove for the climate crisis – until its twist",
           "link": "https://theconversation.com/digger-channels-kubricks-dr-strangelove-for-the-climate-crisis-until-its-twist-293720",
           "published": "2026-10-06T15:26:05+00:00",
@@ -1131,6 +1098,17 @@
           "type": "news",
           "language": "en",
           "summary": "Aviation is on track to be responsible for 80% of the UK’s carbon dioxide (CO2) emissions by 2050, according to&#8230;\nThe post CCC: Heathrow expansio",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Pre-COP draws attention to Pacific’s climate plight and 1.5C goal",
+          "link": "https://www.climatechangenews.com/2026/10/08/pre-cop-draws-attention-to-pacifics-climate-plight-and-1-5c-goal/",
+          "published": "2026-10-08T11:52:15+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "After visiting Tuvalu's shrinking land, COP31 President Murat Kurum said that the global 1.5C warming limit is \"a matter of survival\" for the Pacific",
           "image": null,
           "other_news": true
         },
@@ -1366,17 +1344,6 @@
           "other_news": true
         },
         {
-          "title": "Made in Nigeria: The race to build an African solar industry from scratch",
-          "link": "https://www.climatechangenews.com/2026/09/11/made-in-nigeria-the-race-to-build-an-african-solar-industry-from-scratch/",
-          "published": "2026-09-11T13:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "A solar power revolution is gathering pace in Africa and Nigeria wants a slice of the fast-growing industry, but competing with Chinese imports won’t",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Sur CNews, journalistes et chroniqueurs experts dans la mésinformation climatique",
           "link": "https://reporterre.net/Sur-CNews-journalistes-et-chroniqueurs-experts-dans-la-mesinformation-climatique",
           "published": "2026-10-06T13:23:43+00:00",
@@ -1410,28 +1377,6 @@
           "other_news": true
         },
         {
-          "title": "Les renouvelables « désignées comme un ennemi économique » : face aux suppressions de postes, les salariés se mobilisent",
-          "link": "https://reporterre.net/Face-aux-plans-sociaux-les-salaries-des-energies-renouvelables-de-nouveau-dans-la-rue",
-          "published": "2026-09-30T13:07:12+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "20 % d'effectifs en moins à Voltalia, 73 postes supprimés à Valorem... Alors que les plans sociaux se multiplient dans le secteu",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/pxl_20260929_104102202_portrait_1_-3ea09.jpg?1790773659",
-          "other_news": true
-        },
-        {
-          "title": "D'ici 2030, le poids environnemental de l'IA pourrait être multiplié par 7",
-          "link": "https://reporterre.net/D-ici-2030-le-poids-environnemental-de-l-IA-pourrait-etre-multiplie-par-7",
-          "published": "2026-09-30T10:05:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "L'intelligence artificielle (IA) se développe à un rythme fulgurant et insoutenable pour la planète. Rien qu'entre 2025 et 2030,",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/33231397631_b1e7542e05_o_resized-1ff8c.jpg?1790762704",
-          "other_news": true
-        },
-        {
           "title": "Rights of Nature spreads as councils adopt River Avon Charter",
           "link": "https://oceanographicmagazine.com/news/rights-of-nature-spreads-as-councils-adopt-river-avon-charter/",
           "published": "2026-10-02T15:07:05+00:00",
@@ -1443,36 +1388,25 @@
           "other_news": true
         },
         {
+          "title": "« TotalEnergies continue à propager des contre-vérités sur l’impact carbone de ses activités »",
+          "link": "https://www.lemonde.fr/idees/article/2026/10/08/totalenergies-continue-a-propager-des-contre-verites-sur-l-impact-carbone-de-ses-activites_6790182_3232.html",
+          "published": "2026-10-08T11:00:10+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La communication de l’industrie des énergies fossiles consiste désormais à prendre des distances discrètes avec la rationalité scientifique, d’une man",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/ee60724_upload-1-xx9yh2cjsasg-frame-789.jpg",
+          "other_news": true
+        },
+        {
           "title": "Ce que dépensent les industriels en lobbying pour s’opposer à la sortie des emballages à usage unique",
           "link": "https://www.lemonde.fr/planete/article/2026/10/08/ce-que-depensent-les-industriels-en-lobbying-pour-s-opposer-a-la-sortie-des-emballages-a-usage-unique_6789999_3244.html",
-          "published": "2026-10-08T06:55:08+02:00",
+          "published": "2026-10-08T06:55:06+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Un rapport de l’association Zero Waste France documente les stratégies déployées en particulier par les fabricants de plastique pour défendre un march",
+          "summary": "Un rapport de l’association Zero Waste France, publié jeudi 8 octobre, documente en particulier les stratégies déployées par les fabricants de plastiq",
           "image": "https://img.lemde.fr/2026/10/07/688/0/8256/4128/644/322/60/0/efe93da_upload-1-gep6u8j0nzsw-000-37fu2fq.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Faut-il taxer les ultrariches pour sauver le climat ? Gabriel Zucman répond à « Chaleur humaine »",
-          "link": "https://www.lemonde.fr/podcasts/article/2026/10/06/faut-il-taxer-les-ultrariches-pour-sauver-le-climat-gabriel-zucman-repond-a-chaleur-humaine_6788940_5463015.html",
-          "published": "2026-10-06T07:30:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Pour l’économiste, sans égalité devant l’impôt, la transition sera injuste et inefficace. Il propose des pistes pour taxer les plus fortunés et les su",
-          "image": "https://img.lemde.fr/2026/09/30/55/0/1778/889/644/322/60/0/28e7a09_upload-1-8cokhgipejsx-01-09-gabriel-zucman.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Comment on a aidé la science à mesurer le déclin des oiseaux",
-          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/06/comment-on-a-aide-la-science-a-mesurer-le-declin-des-oiseaux_6788830_6125299.html",
-          "published": "2026-10-06T05:45:01+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Depuis vingt",
-          "image": "https://img.lemde.fr/2026/07/14/336/0/5000/2500/644/322/60/0/96187da_upload-1-dsybfli1x13e-bg-30mai26-france-lpo-15-001.JPG",
           "other_news": true
         },
         {
@@ -1527,39 +1461,6 @@
           "type": "news",
           "language": "en",
           "summary": "Student outcry against the limited means of France’s education system is nothing new, but the global context and the nature of the movement which bega",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Super El Niño could hit southern Africa’s bean harvests hard: how to protect farmers",
-          "link": "https://theconversation.com/super-el-nino-could-hit-southern-africas-bean-harvests-hard-how-to-protect-farmers-291842",
-          "published": "2026-10-07T13:09:16+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "A super El Niño could spell disaster for southern Africa’s bean farmers. Better seeds, water storage and early warnings could help protect the next ha",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Your cells keep a record of every workout you’ve ever done – and those gains persist even after a break from exercise",
-          "link": "https://theconversation.com/your-cells-keep-a-record-of-every-workout-youve-ever-done-and-those-gains-persist-even-after-a-break-from-exercise-291243",
-          "published": "2026-10-07T12:08:01+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "‘Use it or lose it’ isn’t quite true when it comes to the health benefits of exercise. Cells across the body retain a memory of training that lasts lo",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Inside the industrial incinerators tasked with ‘respectful disposal’ of anatomical waste",
-          "link": "https://theconversation.com/inside-the-industrial-incinerators-tasked-with-respectful-disposal-of-anatomical-waste-290092",
-          "published": "2026-10-07T12:05:45+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Architectural drawings and interviews offer a close-up look at the logistical side of this strange industrial process.",
           "image": null,
           "other_news": true
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:21:18.485674+00:00",
+  "generated_at": "2026-10-09T18:50:50.708486+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -150,6 +150,17 @@
           "type": "news",
           "language": "en",
           "summary": "A proposed South Atlantic whale sanctuary has again failed to win the required 75 per cent majority at IWC70, as the UK marks 40 years of the global w",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "How Beluga Whales Ended Up in Canada’s Rivers",
+          "link": "https://oceanconservancy.org/blog/2026/10/09/beluga-whales-canada-rivers/",
+          "published": "2026-10-09T18:39:41+00:00",
+          "source": "Ocean Conservancy",
+          "type": "news",
+          "language": "en",
+          "summary": "If you spend some time on the banks of the St. Lawrence River in Quebec, you just might catch a flash of white beneath the surface. A whale. A beluga",
           "image": null,
           "other_news": false
         },

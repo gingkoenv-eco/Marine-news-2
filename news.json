@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T14:24:42.497139+00:00",
+  "generated_at": "2026-10-09T18:21:18.485674+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -613,17 +613,6 @@
           "other_news": false
         },
         {
-          "title": "What a swordfish washing up on British Columbia’s coast says about our changing oceans",
-          "link": "https://theconversation.com/what-a-swordfish-washing-up-on-british-columbias-coast-says-about-our-changing-oceans-293783",
-          "published": "2026-10-08T17:53:51+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "While this sighting is unusual and exciting, it also serves as a reminder that our oceans are rapidly changing and we need to adapt to these changes.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Cuts to Integrated Ocean Observing System Puts Ocean at Risk",
           "link": "https://oceanconservancy.org/blog/2026/10/05/integrated-ocean-observing-system/",
           "published": "2026-10-05T21:24:39+00:00",
@@ -903,17 +892,6 @@
           "language": "en",
           "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f9/live/5f873b90-b0ea-11f1-8d94-cf0ec84c39cd.jpg",
-          "other_news": true
-        },
-        {
-          "title": "UK bluefin tuna comeback shows nature can recover, says WWF",
-          "link": "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-08T05:00:04+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The tuna is one of several wildlife recoveries highlighted in a major new report from WWF.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/239f/live/5580dbc0-c24b-11f1-ab30-1f92d324dff9.jpg",
           "other_news": true
         },
         {
@@ -1500,7 +1478,7 @@
           "other_news": true
         },
         {
-          "title": "Pas de capitalisme, pas de travail salarié : bienvenue dans la Coopération intégrale",
+          "title": "Ils vivent en dehors du capitalisme (et ça se passe très bien)",
           "link": "https://reporterre.net/Pas-de-capitalisme-pas-de-travail-salarie-bienvenue-dans-la-Cooperation-integrale",
           "published": "2026-10-09T05:00:00+00:00",
           "source": "Reporterre",
@@ -1555,17 +1533,6 @@
           "other_news": true
         },
         {
-          "title": "« TotalEnergies continue à propager des contre-vérités sur l’impact carbone de ses activités »",
-          "link": "https://www.lemonde.fr/idees/article/2026/10/08/totalenergies-continue-a-propager-des-contre-verites-sur-l-impact-carbone-de-ses-activites_6790182_3232.html",
-          "published": "2026-10-08T11:00:10+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La communication de l’industrie des énergies fossiles consiste désormais à prendre des distances discrètes avec la rationalité scientifique, d’une man",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/ee60724_upload-1-xx9yh2cjsasg-frame-789.jpg",
-          "other_news": true
-        },
-        {
           "title": "Manifestations des 10 et 11 octobre contre la loi Omnibus «pesticides» : la carte des rassemblements près de chez vous",
           "link": "https://vert.eco/rapports-de-force/manifestations-des-10-et-11-octobre-contre-la-loi-omnibus-pesticides-la-carte-des-rassemblements-pres-de-chez-vous/",
           "published": "2026-10-09T08:48:12+00:00",
@@ -1584,17 +1551,6 @@
           "type": "news",
           "language": "en",
           "summary": "I witnessed a genuine desire for the world to engage with the people affected by climate change.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Hoping for a ‘new normal’ climate is pointless. We must learn to adapt",
-          "link": "https://theconversation.com/hoping-for-a-new-normal-climate-is-pointless-we-must-learn-to-adapt-292221",
-          "published": "2026-10-08T19:04:22+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "It’s increasingly common to hear climate-fuelled disasters described as the ‘new normal’. But our desire for normality and predictability is wishful t",
           "image": null,
           "other_news": true
         },

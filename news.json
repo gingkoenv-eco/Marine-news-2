@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:18:55.138171+00:00",
+  "generated_at": "2026-10-09T14:24:42.497139+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -470,7 +470,18 @@
           "other_news": false
         },
         {
-          "title": "Quand ils vivent près des villes, les poissons... changent de profil génétique",
+          "title": "Nourrir les poissons d'élevage à base d'insectes ou de soja : l'idée miraculeuse qui s'est effondrée",
+          "link": "https://reporterre.net/Nourrir-les-poissons-d-elevage-a-base-d-insectes-ou-de-soja-l-idee-miraculeuse-qui",
+          "published": "2026-10-09T14:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Pour en finir avec la farine de poissons sauvages, l'aquaculture mise sur celles à base de soja et d'insectes pour nourrir ses p",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/afp__20180313__z451d__v1__highres__franceagriculturescienceresearchinnovationanimali-2-18804.jpg?1791554401",
+          "other_news": false
+        },
+        {
+          "title": "Pour mesurer le stress des poissons près des villes, ces scientifiques utilisent de l'ARN messager",
           "link": "https://reporterre.net/Quand-ils-vivent-pres-des-villes-les-poissons-changent-de-profil-genetique",
           "published": "2026-10-09T09:11:30+00:00",
           "source": "Reporterre",
@@ -859,6 +870,17 @@
           "language": "en",
           "summary": "New report shows key indicators of Earth’s health are ‘outside the safe operating space’ as climate disaster loomsThe planetary life support systems r",
           "image": "https://i.guim.co.uk/img/media/994406d78130adfd3f6fc3d90601f912474310dc/942_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=36dd792b32bb417b759f4f0521c284e9",
+          "other_news": true
+        },
+        {
+          "title": "Hurricane Isaias strengthens as it heads towards land",
+          "link": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-09T14:23:57+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be69/live/8ac843e0-c3ea-11f1-bc2e-018d645d8d21.jpg",
           "other_news": true
         },
         {
@@ -1453,6 +1475,17 @@
           "language": "en",
           "summary": "As solar deployment rapidly accelerates across Africa, miners in the DRC are driving significant demand for clean energy to replace expensive diesel",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "« On lance une guérilla » : opposés aux panneaux solaires en forêt, ils finissent virés du conseil municipal",
+          "link": "https://reporterre.net/On-lance-une-guerilla-opposes-aux-panneaux-solaires-en-foret-ils-finissent-vires-du",
+          "published": "2026-10-09T13:52:01+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "À Oraison, dans les Alpes-de-Haute-Provence, deux conseils municipaux ont été chahutés coup sur coup par des opposants à un proj",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/_kdf1206-b7cf6.jpg?1791553924",
           "other_news": true
         },
         {

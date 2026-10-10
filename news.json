@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:50:50.708486+00:00",
+  "generated_at": "2026-10-10T05:01:12.020986+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -426,17 +426,6 @@
           "other_news": false
         },
         {
-          "title": "How heat on the Tibetan Plateau fuels powerful storms in California, half a world away",
-          "link": "https://theconversation.com/how-heat-on-the-tibetan-plateau-fuels-powerful-storms-in-california-half-a-world-away-291438",
-          "published": "2026-09-10T16:15:09+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "A new study connects early winter heat high up on the plateau to the jet stream and, ultimately, storms headed for the US coast. The results could mea",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature",
           "link": "https://www.carbonbrief.org/explainer-how-sea-level-rise-poses-an-existential-threat-to-humans-heritage-and-nature",
           "published": "2026-09-22T15:14:21+00:00",
@@ -478,6 +467,17 @@
           "language": "en",
           "summary": "Efforts to protect marine ecosystems and coastal communities have risen up the political agenda at the UN General Assembly in New York\nThe post Threat",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "« On soutient les agriculteurs en cas de difficultés » : les Amap, un modèle de résilience face au chaos climatique",
+          "link": "https://reporterre.net/On-soutient-les-agriculteurs-en-cas-de-difficultes-les-Amap-un-modele-de-resilience-face",
+          "published": "2026-10-10T05:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Depuis plus de vingt ans, les Associations pour le maintien d'une agriculture paysanne mettent en lien direct des consommateurs",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/rid_260930-3-99b5a.jpg?1791608402",
           "other_news": false
         },
         {
@@ -699,17 +699,6 @@
           "summary": "In Africa, high-quality seeds can produce improved crops with enhanced nutrition, pest-resistance, and drought tolerance. However, such seeds for maiz",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/08203415/4105131311_9bc22c770c_c-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Tropical Storm Isaias forms, is forecast to become a hurricane and hit US Gulf Coast this week",
-          "link": "https://news.mongabay.com/short-article/2026/10/tropical-storm-isaias-forms-is-forecast-to-become-a-hurricane-and-hit-us-gulf-coast-this-week/",
-          "published": "2026-10-07T18:09:01+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "MIAMI (AP) — Tropical Storm Isaias formed Wednesday in the warm waters off eastern Mexico and forecasters said it was expected to strengthen into the",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/07180212/AP26280555166570-768x512.jpg",
-          "other_news": false
         }
       ]
     },
@@ -847,9 +836,31 @@
           "summary": "‘Credibility is on the line’ has long been a refrain guiding U.S. foreign policy.",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "Paraguay meets UN deadline for improving governance in Chaco Biosphere Reserve",
+          "link": "https://news.mongabay.com/short-article/2026/10/paraguay-meets-un-deadline-for-improving-governance-in-chaco-biosphere-reserve/",
+          "published": "2026-10-09T23:58:15+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Paraguay has provided updated information to the United Nations about the Chaco Biosphere Reserve, a protected area where deforestation from farming a",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/10/09153400/ParaguayChaco_acaballo-768x512.jpg",
+          "other_news": true
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Climate crisis is coming to crush many of world’s best surf breaks, study warns",
+          "link": "https://www.theguardian.com/environment/2026/oct/10/climate-crisis-putting-world-best-surf-breaks-at-risk",
+          "published": "2026-10-10T03:00:45+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Changing tide levels, shifting sands and hardened shorelines put waves at risk, affecting more than just surfersThe climate crisis is coming for some",
+          "image": "https://i.guim.co.uk/img/media/6a3db3e637cc4fcc902e002b3f8b8687e5093818/340_323_1262_1010/master/1262.jpg?width=140&quality=85&auto=format&fit=max&s=0ea14ba0fdd62fbb89d8b88fcb4e79bb",
+          "other_news": true
+        },
         {
           "title": "This is one of Norway’s most pristine fjords. So why is it being used as a dumping site for mine waste?",
           "link": "https://www.theguardian.com/environment/2026/oct/08/norway-environment-nordic-mining-waste-pollution-fjord-dumping-salmon",
@@ -870,6 +881,17 @@
           "language": "en",
           "summary": "New report shows key indicators of Earth’s health are ‘outside the safe operating space’ as climate disaster loomsThe planetary life support systems r",
           "image": "https://i.guim.co.uk/img/media/994406d78130adfd3f6fc3d90601f912474310dc/942_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=36dd792b32bb417b759f4f0521c284e9",
+          "other_news": true
+        },
+        {
+          "title": "'People don't think recycling at work is part of their job description'",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-09T19:11:27+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/ed655970-c3c2-11f1-8fc5-335d62f6730b.jpg",
           "other_news": true
         },
         {
@@ -1522,17 +1544,6 @@
           "other_news": true
         },
         {
-          "title": "« Nous n'acceptons plus de réparer les dégâts causés par les politiques » : des soignants rejoignent la lutte contre les pesticides",
-          "link": "https://reporterre.net/Soignant-es-scientifiques-denoncons-ceux-qui-detruisent-la-sante",
-          "published": "2026-10-02T06:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Scientifiques et soignantes opposées aux pesticides appellent, dans cette tribune, à se mobiliser contre Syngenta le 3 octobre e",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/pestipartoutmanifsaussi-85daf.jpg?1790920800",
-          "other_news": true
-        },
-        {
           "title": "Rights of Nature spreads as councils adopt River Avon Charter",
           "link": "https://oceanographicmagazine.com/news/rights-of-nature-spreads-as-councils-adopt-river-avon-charter/",
           "published": "2026-10-02T15:07:05+00:00",
@@ -1566,6 +1577,17 @@
           "other_news": true
         },
         {
+          "title": "Painted wind turbines can dramatically reduce bird deaths, study finds",
+          "link": "https://news.mongabay.com/short-article/2026/10/painted-wind-turbines-can-dramatically-reduce-bird-deaths-study-finds/",
+          "published": "2026-10-09T19:42:23+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Wind energy is a valuable tool for addressing the climate crisis, but wind turbines can be deadly for birds. A recent study found that a low-tech, rel",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09193246/Painted-Blades_USGS-Image-768x512.png",
+          "other_news": true
+        },
+        {
           "title": "How much nature is left? Interview with Nature Data Lab’s Karl Burkart",
           "link": "https://news.mongabay.com/2026/10/how-much-nature-is-left-interview-with-nature-data-labs-karl-burkart/",
           "published": "2026-10-09T10:16:13+00:00",
@@ -1585,17 +1607,6 @@
           "language": "en",
           "summary": "BIAŁOWIEŻA, Poland — Michal Żmihorski, deputy director of the Institute of Environmental Protection, will never forget the morning of Aug. 1, 2023. Tw",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/07161238/European_bison_Bison_bonasus_male_Bialowieza-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "International pledge to fund forest rights exceeds target, but direct funding remains low",
-          "link": "https://news.mongabay.com/2026/10/international-pledge-to-fund-forest-rights-exceeds-target-but-direct-funding-remains-low/",
-          "published": "2026-10-07T17:23:29+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Funders of the $1.7 billion pledge to support Indigenous peoples and local communities’ land rights, announced at the 2021 United Nations Climate Chan",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/07154220/AP24302739182917-Jayapura-Papua-province-768x512.jpg",
           "other_news": true
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T05:01:12.020986+00:00",
+  "generated_at": "2026-10-10T12:33:31.776642+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -185,17 +185,6 @@
           "summary": "The environmental impacts caused by invasive alien species are more severe in poor countries of Global South than wealthy countries of Global North, a",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/08104335/red-eared-slider-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Arabian Sea humpbacks may be a unique subspecies at risk of extinction",
-          "link": "https://news.mongabay.com/short-article/2026/10/arabian-sea-humpbacks-may-be-a-unique-subspecies-at-risk-of-extinction/",
-          "published": "2026-10-07T18:39:53+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Humpback whales found in the Arabian Sea are likely a distinct subspecies, having evolved in isolation for tens of thousands of years, according to a",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/07183207/Photo-3-768x512.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -368,6 +357,17 @@
           "language": "en",
           "summary": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf C",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b74f/live/9b2c8e90-c34e-11f1-bc2e-018d645d8d21.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Asbestos mystery leaves beloved beach closed",
+          "link": "https://www.bbc.co.uk/news/articles/c574p9rdk2mko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-10T06:16:06+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "With Mount Batten Beach fenced off since July, residents and campaigners are demanding answers.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e12a/live/65919280-c24f-11f1-ab30-1f92d324dff9.jpg",
           "other_news": false
         },
         {
@@ -1551,6 +1551,17 @@
           "type": "news",
           "language": "en",
           "summary": "Eleven councils have adopted a community-led charter recognising the River Avon as a living entity with rights, as campaigners say more than 20 simila",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "«Ils ont besoin de repreneurs, on a besoin de terres» : dans l’Essonne, des personnes exilées reprennent une ferme sans pesticides ni irrigation",
+          "link": "https://vert.eco/agriculture/ils-ont-besoin-de-repreneurs-on-a-besoin-de-terres-dans-lessonne-des-personnes-exilees-reprennent-une-ferme-sans-pesticides-ni-irrigation/",
+          "published": "2026-10-10T05:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’association A4, réseau d’entraide pour les personnes exilées, vient d’acheter une exploitation agricole à Marcoussis (Essonne). Une première pour l’",
           "image": null,
           "other_news": true
         },

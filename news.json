@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T12:51:51.461581+00:00",
+  "generated_at": "2026-10-11T14:06:30.554199+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -566,6 +566,17 @@
           "language": "en",
           "summary": "Researchers are now using AI to track plankton as warming seas reshuffle the base of the marine food web, with fish possibly getting less food and foo",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "La thérapie sonore au secours des coraux",
+          "link": "https://www.lemonde.fr/sciences/article/2026/10/11/la-therapie-sonore-au-secours-des-coraux_6791889_1650684.html",
+          "published": "2026-10-11T15:30:07+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Des chercheurs américains ont dopé la production de larves de coraux et de poissons en diffusant le « chant » de récifs en bonne santé.",
+          "image": "https://img.lemde.fr/2026/10/09/87/0/700/350/644/322/60/0/e9b1868_upload-1-5c0ujdkxt4y1-reef0607.jpg",
           "other_news": false
         },
         {

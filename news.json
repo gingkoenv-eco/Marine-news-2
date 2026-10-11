@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T14:06:30.554199+00:00",
+  "generated_at": "2026-10-11T17:41:21.531047+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -569,6 +569,17 @@
           "other_news": false
         },
         {
+          "title": "La mort d’un dauphin transféré du Marineland d’Antibes vers l’Espagne provoque la colère des associations de défense des cétacés",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/11/la-mort-d-un-dauphin-transfere-du-marineland-d-antibes-vers-l-espagne-provoque-la-colere-des-associations-de-defense-des-cetaces_6792005_3244.html",
+          "published": "2026-10-11T17:44:25+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Rocky, un dauphin mâle de 29 ans, faisait partie des huit cétacés envoyés en juillet dans un parc près de Malaga, un transfert que Sea Sheperd avait t",
+          "image": "https://img.lemde.fr/2026/08/25/248/0/5699/2849/644/322/60/0/b2ab8f5_ftp-1-z0qaznd17hnc-5915296-01-06.jpg",
+          "other_news": false
+        },
+        {
           "title": "La thérapie sonore au secours des coraux",
           "link": "https://www.lemonde.fr/sciences/article/2026/10/11/la-therapie-sonore-au-secours-des-coraux_6791889_1650684.html",
           "published": "2026-10-11T15:30:07+02:00",
@@ -577,17 +588,6 @@
           "language": "fr",
           "summary": "Des chercheurs américains ont dopé la production de larves de coraux et de poissons en diffusant le « chant » de récifs en bonne santé.",
           "image": "https://img.lemde.fr/2026/10/09/87/0/700/350/644/322/60/0/e9b1868_upload-1-5c0ujdkxt4y1-reef0607.jpg",
-          "other_news": false
-        },
-        {
-          "title": "L’exploitant du parc éolien de la baie de Saint-Brieuc, jugé pour une fuite de 170 litres d’huile en pleine mer, a été relaxé",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/09/poursuivi-pour-pollution-l-exploitant-du-parc-eolien-de-la-baie-de-saint-brieuc-ailes-marines-relaxe_6790537_3244.html",
-          "published": "2026-10-09T10:22:18+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le jugement du tribunal est conforme aux réquisitions du parquet, qui avait évoqué la toxicité « résiduelle » de l’huile en cause et le fait que la pr",
-          "image": "https://img.lemde.fr/2026/10/09/415/0/4940/2470/644/322/60/0/f686c68_upload-1-hv9n45s0v1xi-2024-10-22t205458z-1597552342-rc2qpaafrnl0-rtrmadp-3-france-energy-windfarm.JPG",
           "other_news": false
         },
         {
@@ -925,17 +925,6 @@
           "language": "en",
           "summary": "Concerns remain over the ancient Kent woodland's future after 39,500 tonnes of rubbish were cleared.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc3/live/945b6820-c3a3-11f1-9a39-31b474234113.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Why are more roofs not made of solar tiles?",
-          "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-08T23:09:56+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f9/live/5f873b90-b0ea-11f1-8d94-cf0ec84c39cd.jpg",
           "other_news": true
         },
         {

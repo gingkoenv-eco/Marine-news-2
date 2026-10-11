@@ -52,14 +52,7 @@
             font-weight: 700;
         }
 
-        .topbar-actions {
-            display: flex;
-            gap: 8px;
-            flex-shrink: 0;
-        }
-
-        .back-link,
-        .share-btn {
+        .back-link {
             font-size: 13px;
             color: var(--muted);
             text-decoration: none;
@@ -67,13 +60,9 @@
             padding: 6px 12px;
             border-radius: 999px;
             background: var(--surface);
-            cursor: pointer;
-            font-family: inherit;
-            font-weight: 400;
         }
 
-        .back-link:hover,
-        .share-btn:hover {
+        .back-link:hover {
             color: var(--accent-strong);
             border-color: var(--accent);
         }
@@ -368,10 +357,7 @@
     <div class="page">
         <div class="topbar">
             <h1>🌊 Swipe the day's news</h1>
-            <div class="topbar-actions">
-                <button type="button" class="share-btn" id="shareBtn">📋 Share recap</button>
-                <a class="back-link" href="index.html">← Back</a>
-            </div>
+            <a class="back-link" href="index.html">← Back</a>
         </div>
 
         <div id="loading" class="loading-state">
@@ -404,7 +390,6 @@
     <script>
         const MAX_CARDS = 13;
         const RANGE_DAYS = 1;
-        const MAX_RECAP_SOURCES = 5;
 
         let deck = [];
         let currentIndex = 0;
@@ -419,12 +404,10 @@
         const progressEl = document.getElementById('progress');
         const pickListEl = document.getElementById('pickList');
         const resultsSubtitleEl = document.getElementById('resultsSubtitle');
-        const shareBtn = document.getElementById('shareBtn');
 
         document.getElementById('skipBtn').addEventListener('click', () => triggerDecision(false));
         document.getElementById('keepBtn').addEventListener('click', () => triggerDecision(true));
         document.getElementById('restartBtn').addEventListener('click', startRound);
-        shareBtn.addEventListener('click', shareRecap);
 
         function shuffle(array) {
             for (let i = array.length - 1; i > 0; i--) {
@@ -454,13 +437,6 @@
             text = text.replace(/[\u2018\u2019]/g, "'").replace(/[\u201c\u201d]/g, '"');
             text = text.replace(/\s+/g, ' ').trim().toLowerCase();
             return text;
-        }
-
-        function plainTitle(title) {
-            // Decode HTML entities / strip tags, keep original casing (for the shared recap)
-            const div = document.createElement('div');
-            div.innerHTML = title || '';
-            return (div.textContent || '').replace(/\s+/g, ' ').trim();
         }
 
         function isNearDuplicateTitle(normalized, seenTitles) {
@@ -732,74 +708,6 @@
                 `;
                 pickListEl.appendChild(li);
             }
-        }
-
-        // ---------- Share recap ----------
-
-        function buildRecapText() {
-            // Today's English articles, de-duplicated, marine news first (then newest),
-            // one headline per newspaper, max MAX_RECAP_SOURCES newspapers.
-            const candidates = dedupeByTitle(
-                (window.__allArticles || []).filter((a) => withinRange(a) && isEnglish(a))
-            );
-            if (!candidates.length) {
-                return '';
-            }
-
-            candidates.sort((a, b) => {
-                if (!!a.other_news !== !!b.other_news) {
-                    return a.other_news ? 1 : -1;
-                }
-                return new Date(b.published || 0) - new Date(a.published || 0);
-            });
-
-            const seenSources = new Set();
-            const lines = [];
-            for (const article of candidates) {
-                const source = article.source || 'Unknown source';
-                if (seenSources.has(source)) continue;
-                seenSources.add(source);
-                lines.push(`${source} 👉 ${plainTitle(article.title)}`);
-                if (lines.length >= MAX_RECAP_SOURCES) break;
-            }
-
-            const dateLabel = new Date().toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
-
-            return `Your daily recap of ocean and climate news 🐟🌍 ${dateLabel} :\n\n` +
-                lines.join('\n') +
-                `\n\nCheck the rest at our marine newsroom (link in bio)`;
-        }
-
-        async function copyToClipboard(text) {
-            try {
-                await navigator.clipboard.writeText(text);
-                return true;
-            } catch (err) {
-                // Fallback for browsers / contexts without the async clipboard API
-                const ta = document.createElement('textarea');
-                ta.value = text;
-                ta.style.position = 'fixed';
-                ta.style.opacity = '0';
-                document.body.appendChild(ta);
-                ta.select();
-                let ok = false;
-                try { ok = document.execCommand('copy'); } catch (e) { ok = false; }
-                ta.remove();
-                return ok;
-            }
-        }
-
-        async function shareRecap() {
-            const original = '📋 Share recap';
-            const text = buildRecapText();
-            let label;
-            if (!text) {
-                label = 'No news today';
-            } else {
-                label = (await copyToClipboard(text)) ? '✅ Copied!' : 'Copy failed';
-            }
-            shareBtn.textContent = label;
-            setTimeout(() => { shareBtn.textContent = original; }, 1800);
         }
 
         function startRound() {

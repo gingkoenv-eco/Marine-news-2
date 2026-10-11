@@ -439,6 +439,7 @@
 
             <div class="control-card buttons-card">
                 <button id="toggleOtherNews" class="secondary-btn">📰 Show other news</button>
+                <button id="shareRecap" class="secondary-btn">📋 Share recap</button>
                 <a href="swipe.html" class="primary-btn" style="text-decoration:none; display:inline-flex; align-items:center; padding:10px 16px;">🃏 Swipe mode</a>
             </div>
         </div>
@@ -689,6 +690,110 @@
             if (!hasContent) {
                 newsDiv.innerHTML = '<div class="no-results">No articles found matching the selected filters.</div>';
             }
+        }
+
+        // ---------- Share recap (same logic as swipe mode) ----------
+
+        const MAX_RECAP_SOURCES = 5;
+        const shareBtn = document.getElementById('shareRecap');
+        shareBtn.addEventListener('click', shareRecap);
+
+        function plainTitle(title) {
+            const div = document.createElement('div');
+            div.innerHTML = title || '';
+            return (div.textContent || '').replace(/\s+/g, ' ').trim();
+        }
+
+        function publishedToday(article) {
+            if (!article.published) {
+                return true;
+            }
+            const d = new Date(article.published);
+            if (isNaN(d.getTime())) {
+                return true;
+            }
+            const cutoff = new Date();
+            cutoff.setHours(0, 0, 0, 0);
+            cutoff.setDate(cutoff.getDate() - 1); // same "1 day" window as swipe mode
+            return d >= cutoff;
+        }
+
+        function buildRecapText() {
+            const seenTitles = new Set();
+            const candidates = [];
+            for (const catData of Object.values(newsData || {})) {
+                for (const theme in catData) {
+                    for (const article of catData[theme] || []) {
+                        if (!publishedToday(article) || (article.language || 'en') !== 'en') {
+                            continue;
+                        }
+                        const key = plainTitle(article.title).toLowerCase();
+                        if (!key || seenTitles.has(key)) {
+                            continue;
+                        }
+                        seenTitles.add(key);
+                        candidates.push(article);
+                    }
+                }
+            }
+            if (!candidates.length) {
+                return '';
+            }
+
+            // Marine news first, then newest; one headline per newspaper, max 5 newspapers
+            candidates.sort((a, b) => {
+                if (!!a.other_news !== !!b.other_news) {
+                    return a.other_news ? 1 : -1;
+                }
+                return new Date(b.published || 0) - new Date(a.published || 0);
+            });
+
+            const seenSources = new Set();
+            const lines = [];
+            for (const article of candidates) {
+                const source = article.source || 'Unknown source';
+                if (seenSources.has(source)) continue;
+                seenSources.add(source);
+                lines.push(`${source} 👉 ${plainTitle(article.title)}`);
+                if (lines.length >= MAX_RECAP_SOURCES) break;
+            }
+
+            const dateLabel = new Date().toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+
+            return `Your daily recap of ocean and climate news 🐟🌍 ${dateLabel} :\n\n` +
+                lines.join('\n') +
+                `\n\nCheck the rest at our marine newsroom (link in bio)`;
+        }
+
+        async function copyToClipboard(text) {
+            try {
+                await navigator.clipboard.writeText(text);
+                return true;
+            } catch (err) {
+                const ta = document.createElement('textarea');
+                ta.value = text;
+                ta.style.position = 'fixed';
+                ta.style.opacity = '0';
+                document.body.appendChild(ta);
+                ta.select();
+                let ok = false;
+                try { ok = document.execCommand('copy'); } catch (e) { ok = false; }
+                ta.remove();
+                return ok;
+            }
+        }
+
+        async function shareRecap() {
+            const original = '📋 Share recap';
+            const text = buildRecapText();
+            let label;
+            if (!text) {
+                label = 'No news today';
+            } else {
+                label = (await copyToClipboard(text)) ? '✅ Copied!' : 'Copy failed';
+            }
+            shareBtn.textContent = label;
+            setTimeout(() => { shareBtn.textContent = original; }, 1800);
         }
 
         loadNews();

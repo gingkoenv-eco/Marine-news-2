@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:01:17.299983+00:00",
+  "generated_at": "2026-10-11T12:51:51.461581+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -816,6 +816,17 @@
           "other_news": true
         },
         {
+          "title": "African genomics research is growing: what countries are doing to connect genetic data and healthcare",
+          "link": "https://theconversation.com/african-genomics-research-is-growing-what-countries-are-doing-to-connect-genetic-data-and-healthcare-292717",
+          "published": "2026-10-11T06:00:04+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "National genetic projects are important but they must have local expertise, responsible data governance and sustained investment to improve healthcare",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "What we talk about when we talk about US strategic ‘credibility’ – from Vietnam to Iran",
           "link": "https://theconversation.com/what-we-talk-about-when-we-talk-about-us-strategic-credibility-from-vietnam-to-iran-289065",
           "published": "2026-10-09T12:33:10+00:00",
@@ -979,17 +990,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Le moustique-tigre pourrait conquérir jusqu’à 96&nbsp;% de la France hexagonale d’ici à 2085. La dengue mais aussi les virus Zika et chukungunya pourr",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Le changement climatique, un défi narratif de taille pour le cinéma hollywoodien",
-          "link": "https://theconversation.com/le-changement-climatique-un-defi-narratif-de-taille-pour-le-cinema-hollywoodien-291604",
-          "published": "2026-09-21T15:40:00+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le spectacle de la catastrophe finit-il par occulter le problème qu’il prétend raconter&nbsp;?",
           "image": null,
           "other_news": true
         },
@@ -1475,6 +1475,17 @@
           "language": "en",
           "summary": "As solar deployment rapidly accelerates across Africa, miners in the DRC are driving significant demand for clean energy to replace expensive diesel",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Lycéens : « Les lance-grenades ne feront pas taire les lanceurs d'alerte »",
+          "link": "https://reporterre.net/Lyceens-Les-lance-grenades-ne-feront-pas-taire-les-lanceurs-d-alerte",
+          "published": "2026-10-11T06:30:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors que le climat s'emballe, « le mouvement lycéen surgit, comme si la terre avait raconté ses brûlures à la jeunesse, et que",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/re_volte-v3-eda1c.jpg?1791700201",
           "other_news": true
         },
         {

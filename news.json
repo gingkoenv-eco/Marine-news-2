@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:46:42.925365+00:00",
+  "generated_at": "2026-10-12T21:16:18.020261+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -150,17 +150,6 @@
           "type": "news",
           "language": "en",
           "summary": "A proposed South Atlantic whale sanctuary has again failed to win the required 75 per cent majority at IWC70, as the UK marks 40 years of the global w",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Invasive species do much more damage in Australia and NZ than elsewhere. But why?",
-          "link": "https://theconversation.com/invasive-species-do-much-more-damage-in-australia-and-nz-than-elsewhere-but-why-286653",
-          "published": "2026-10-11T18:25:38+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Isolation has been both blessing and curse for the wildlife of both countries.",
           "image": null,
           "other_news": false
         },
@@ -349,6 +338,17 @@
           "other_news": false
         },
         {
+          "title": "Storm Rachel batters Southern California, brings flooding to Las Vegas",
+          "link": "https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-12T16:12:57+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Large waves from the post-tropical cyclone battered homes in Long Beach, and brought flooding to parts of Las Vegas near the famed Strip.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c26/live/f91f9640-c656-11f1-8600-efb62b613ab5.jpg",
+          "other_news": false
+        },
+        {
           "title": "World's largest penguin colony hit by 'alarming' decline in numbers",
           "link": "https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-07T15:00:35+00:00",
@@ -378,6 +378,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Aux Seychelles, dans l’océan Indien, des tonnes de plastique et d’engins de pêche s’échouent sur les plages. Une étude révèle l’origine de ces déchets",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "California is taking a beating from an unusually destructive 2026 Pacific hurricane season",
+          "link": "https://theconversation.com/california-is-taking-a-beating-from-an-unusually-destructive-2026-pacific-hurricane-season-294207",
+          "published": "2026-10-12T19:13:40+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "Tropical storms rarely survive in the cool water off California, but waves from storms far to the south can still damaged coastal areas. And flooding",
           "image": null,
           "other_news": false
         },
@@ -613,6 +624,17 @@
           "other_news": false
         },
         {
+          "title": "Hooked on tuna: People have been harvesting these ocean predators for 44,000 years",
+          "link": "https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428",
+          "published": "2026-10-12T19:00:44+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Bones in archaeological sites, ancient rock art, paintings on frescos and vases, written historical records and ethnographic accounts all helped resea",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Cuts to Integrated Ocean Observing System Puts Ocean at Risk",
           "link": "https://oceanconservancy.org/blog/2026/10/05/integrated-ocean-observing-system/",
           "published": "2026-10-05T21:24:39+00:00",
@@ -781,17 +803,6 @@
           "other_news": true
         },
         {
-          "title": "At an old steel site in Pittsburgh, bacteria evolved to survive – and eat – industrial pollution",
-          "link": "https://theconversation.com/at-an-old-steel-site-in-pittsburgh-bacteria-evolved-to-survive-and-eat-industrial-pollution-289264",
-          "published": "2026-09-17T12:22:09+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Decades of pollution at Pittsburgh brownfields left bacteria that evolved to survive it – and maybe help clean up contaminated soil.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Mercure : la pollution pourrait s'aggraver à cause du changement climatique",
           "link": "https://reporterre.net/Mercure-la-pollution-pourrait-s-aggraver-a-cause-du-changement-climatique",
           "published": "2026-10-08T18:00:00+00:00",
@@ -834,17 +845,6 @@
           "type": "news",
           "language": "en",
           "summary": "Next week, diplomats from around the world will descend on Yerevan, Armenia, to negotiate a series of decisions under the&#8230;\nThe post Interactive:",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Conservation parks don’t have to be vast – as one tiny grasshopper reminds us",
-          "link": "https://theconversation.com/conservation-parks-dont-have-to-be-vast-as-one-tiny-grasshopper-reminds-us-293110",
-          "published": "2026-10-12T01:38:47+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The Murray Mallee matchstick is a newly discovered grasshopper species from northwestern Victoria.",
           "image": null,
           "other_news": true
         }
@@ -891,28 +891,6 @@
           "type": "news",
           "language": "en",
           "summary": "We know how cities move, but policy and organizational changes are needed before algorithms can actually improve mobility.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Is NZ’s foreign policy ‘realism’ working? Why the next government faces a real choice",
-          "link": "https://theconversation.com/is-nzs-foreign-policy-realism-working-why-the-next-government-faces-a-real-choice-294041",
-          "published": "2026-10-11T23:47:43+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Winston Peters says New Zealand foreign policy should address “the world as it is, not how we wish it would be”. But how viable is that really?",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "African genomics research is growing: what countries are doing to connect genetic data and healthcare",
-          "link": "https://theconversation.com/african-genomics-research-is-growing-what-countries-are-doing-to-connect-genetic-data-and-healthcare-292717",
-          "published": "2026-10-11T06:00:04+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "National genetic projects are important but they must have local expertise, responsible data governance and sustained investment to improve healthcare",
           "image": null,
           "other_news": true
         },
@@ -1267,6 +1245,17 @@
           "type": "news",
           "language": "en",
           "summary": "Global fossil-fuel emissions are set to fall by around 0.5% in 2026 amid the fallout from the Hormuz crisis, according&#8230;\nThe post Analysis: Globa",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "UN carbon market forces cookstove projects to protect against forest loss",
+          "link": "https://www.climatechangenews.com/2026/10/12/un-carbon-market-forces-cookstove-projects-protect-forest-loss-credits/",
+          "published": "2026-10-12T17:53:54+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Despite lobbying for an exemption, the UN regulator has for the first time made cookstove projects cover the risk that the trees they save are later d",
           "image": null,
           "other_news": true
         },
@@ -1641,6 +1630,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Plus de 50 rassemblements sont prévus samedi et dimanche partout en France contre l’Omnibus X, un projet de réglementation européenne qui pourrait ass",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Your say: week beginning October 12",
+          "link": "https://theconversation.com/your-say-week-beginning-october-12-294135",
+          "published": "2026-10-12T20:28:27+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "On the reality of tackling climate change, plus teacher and student wellbeing: an edited selection of your views.",
           "image": null,
           "other_news": true
         },

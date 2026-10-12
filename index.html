@@ -747,30 +747,32 @@
             marine.sort(newestFirst);
             other.sort(newestFirst);
 
-            // Alternate marine / other news (marine first) so both appear in the recap;
-            // one headline per newspaper, max 5 newspapers. If one pool runs out, the other fills the rest.
-            const seenSources = new Set();
-            const lines = [];
-            const take = (pool) => {
-                while (pool.length) {
-                    const article = pool.shift();
-                    const source = article.source || 'Unknown source';
-                    if (seenSources.has(source)) continue;
-                    seenSources.add(source);
-                    lines.push(`${source} 👉 ${plainTitle(article.title)}`);
-                    return true;
-                }
-                return false;
-            };
-            let turn = 0;
-            while (lines.length < MAX_RECAP_SOURCES && (marine.length || other.length)) {
-                const pool = turn % 2 === 0 ? marine : other;
-                if (!take(pool)) {
-                    // this pool is exhausted: drain the other one
-                    take(pool === marine ? other : marine);
-                }
-                turn++;
+            // Interleave marine / other news (marine first) into one ordered list
+            const ordered = [];
+            for (let i = 0; i < Math.max(marine.length, other.length); i++) {
+                if (i < marine.length) ordered.push(marine[i]);
+                if (i < other.length) ordered.push(other[i]);
             }
+
+            // Prefer one headline per newspaper for variety, then fill any remaining
+            // slots (up to MAX_RECAP_SOURCES) with further headlines, even from a newspaper already used.
+            const chosen = new Set();
+            const seenSources = new Set();
+            for (const article of ordered) {
+                if (chosen.size >= MAX_RECAP_SOURCES) break;
+                const source = article.source || 'Unknown source';
+                if (seenSources.has(source)) continue;
+                seenSources.add(source);
+                chosen.add(article);
+            }
+            for (const article of ordered) {
+                if (chosen.size >= MAX_RECAP_SOURCES) break;
+                chosen.add(article);
+            }
+
+            const lines = ordered
+                .filter((article) => chosen.has(article))
+                .map((article) => `${article.source || 'Unknown source'} 👉 ${plainTitle(article.title)}`);
 
             const dateLabel = new Date().toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
 

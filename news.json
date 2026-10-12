@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T18:06:49.223623+00:00",
+  "generated_at": "2026-10-12T05:01:08.180656+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -154,6 +154,17 @@
           "other_news": false
         },
         {
+          "title": "Invasive species do much more damage in Australia and NZ than elsewhere. But why?",
+          "link": "https://theconversation.com/invasive-species-do-much-more-damage-in-australia-and-nz-than-elsewhere-but-why-286653",
+          "published": "2026-10-11T18:25:38+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Isolation has been both blessing and curse for the wildlife of both countries.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "How Beluga Whales Ended Up in Canada’s Rivers",
           "link": "https://oceanconservancy.org/blog/2026/10/09/beluga-whales-canada-rivers/",
           "published": "2026-10-09T18:39:41+00:00",
@@ -272,6 +283,17 @@
       ],
       "Other Marine News": [
         {
+          "title": "Country diary 1926: Dolphin watching in the Bay of Biscay",
+          "link": "https://www.theguardian.com/environment/2026/oct/12/country-diary-1926-dolphin-watching-in-the-bay-of-biscay",
+          "published": "2026-10-12T05:00:46+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "15 October 1926: Some half-dozen sported alongside the boat, keeping pace with us as they sprang again and again clear from the waterBAY OF BISCAY: De",
+          "image": "https://i.guim.co.uk/img/media/fee1c82ff6a474d86ac7009a0a8cda1894639d7f/998_0_2421_1937/master/2421.jpg?width=140&quality=85&auto=format&fit=max&s=b604d1b9988c3f32621d5212da25be0c",
+          "other_news": false
+        },
+        {
           "title": "Stella McCartney makes waves with ‘sea life, not sea food’ theme in zero-wool Paris show",
           "link": "https://www.theguardian.com/fashion/2026/sep/30/stella-mccartney-sea-life-paris-fashion-week-animal-rights",
           "published": "2026-10-01T08:46:09+00:00",
@@ -346,17 +368,6 @@
           "language": "en",
           "summary": "After Jennifer Sellitti lost her partner Joe Mazraani, she thought everything was over. Then she inherited his shipAfter Joe died, Jennifer Sellitti f",
           "image": "https://i.guim.co.uk/img/media/5b837af8f978c3ac3a27d23196ed8a0f85e3d363/103_81_2795_2235/master/2795.jpg?width=140&quality=85&auto=format&fit=max&s=b73a122587d3877c8dc271f56ddc9aa4",
-          "other_news": false
-        },
-        {
-          "title": "Asbestos mystery leaves beloved beach closed",
-          "link": "https://www.bbc.co.uk/news/articles/c574p9rdk2mko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-10T06:16:06+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "With Mount Batten Beach fenced off since July, residents and campaigners are demanding answers.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e12a/live/65919280-c24f-11f1-ab30-1f92d324dff9.jpg",
           "other_news": false
         },
         {
@@ -582,7 +593,7 @@
         {
           "title": "La thérapie sonore au secours des coraux",
           "link": "https://www.lemonde.fr/sciences/article/2026/10/11/la-therapie-sonore-au-secours-des-coraux_6791889_1650684.html",
-          "published": "2026-10-11T15:30:07+02:00",
+          "published": "2026-10-11T15:30:06+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -812,6 +823,17 @@
           "summary": "The WWF’s Living Planet Index is one of our best measures of biodiversity loss. But the populations it counts may not be representative of wildlife as",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "Conservation parks don’t have to be vast – as one tiny grasshopper reminds us",
+          "link": "https://theconversation.com/conservation-parks-dont-have-to-be-vast-as-one-tiny-grasshopper-reminds-us-293110",
+          "published": "2026-10-12T01:38:47+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The Murray Mallee matchstick is a newly discovered grasshopper species from northwestern Victoria.",
+          "image": null,
+          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -823,6 +845,17 @@
           "type": "news",
           "language": "en",
           "summary": "The climate crisis is also a governance crisis - one with a persistent blindspot for women's leadership, ingenuity and readiness to take decisions for",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Is NZ’s foreign policy ‘realism’ working? Why the next government faces a real choice",
+          "link": "https://theconversation.com/is-nzs-foreign-policy-realism-working-why-the-next-government-faces-a-real-choice-294041",
+          "published": "2026-10-11T23:47:43+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Winston Peters says New Zealand foreign policy should address “the world as it is, not how we wish it would be”. But how viable is that really?",
           "image": null,
           "other_news": true
         },
@@ -906,28 +939,6 @@
           "other_news": true
         },
         {
-          "title": "Hurricane Isaias strengthens as it heads towards land",
-          "link": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-09T14:23:57+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be69/live/8ac843e0-c3ea-11f1-bc2e-018d645d8d21.jpg",
-          "other_news": true
-        },
-        {
-          "title": "£15m spent cleaning illegal waste supersite in ancient woodland",
-          "link": "https://www.bbc.co.uk/news/articles/cq98zdp612pko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-09T05:00:23+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Concerns remain over the ancient Kent woodland's future after 39,500 tonnes of rubbish were cleared.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc3/live/945b6820-c3a3-11f1-9a39-31b474234113.jpg",
-          "other_news": true
-        },
-        {
           "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
           "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-01T00:08:23+00:00",
@@ -936,17 +947,6 @@
           "language": "en",
           "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4300/live/fc078410-bccb-11f1-9f83-d9975ff80416.jpg",
-          "other_news": true
-        },
-        {
-          "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-          "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-25T22:12:48+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390c/live/dabff6d0-b7c5-11f1-b1d1-571ed4d7ff2c.jpg",
           "other_news": true
         },
         {
@@ -1555,6 +1555,17 @@
           "other_news": true
         },
         {
+          "title": "Le commissaire européen au climat compte sur le « made in Europe » et le nucléaire pour réduire les émissions de carbone",
+          "link": "https://www.lemonde.fr/economie/article/2026/10/12/le-commissaire-europeen-au-climat-compte-sur-le-made-in-europe-et-le-nucleaire-pour-reduire-les-emissions-de-carbone_6792422_3234.html",
+          "published": "2026-10-12T06:00:44+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors que la France et l’Allemagne peinent à trouver un accord politique sur le sujet, Wopke Hoekstra, en visite à Paris mardi et mercredi, soutient l",
+          "image": "https://img.lemde.fr/2026/10/11/575/0/6897/3448/644/322/60/0/3bc4691_upload-1-m9e4doakfbt8-000-82xq6kj.jpg",
+          "other_news": true
+        },
+        {
           "title": "« La question environnementale a mis en lumière et banalisé, ces dernières années, l’usage politique du maintien de l’ordre »",
           "link": "https://www.lemonde.fr/idees/article/2026/10/11/la-question-environnementale-a-mis-en-lumiere-et-banalise-ces-dernieres-annees-l-usage-politique-du-maintien-de-l-ordre_6791270_3232.html",
           "published": "2026-10-11T06:00:12+02:00",
@@ -1588,14 +1599,14 @@
           "other_news": true
         },
         {
-          "title": "‘We will not be sacrificed’: Pacific climate voices were clear and strong this week – and we’re listening",
-          "link": "https://theconversation.com/we-will-not-be-sacrificed-pacific-climate-voices-were-clear-and-strong-this-week-and-were-listening-294040",
-          "published": "2026-10-09T03:57:56+00:00",
-          "source": "The Conversation",
+          "title": "Damming the Xingu",
+          "link": "https://news.mongabay.com/specials/2026/10/damming-the-xingu/",
+          "published": "2026-10-12T00:23:04+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "I witnessed a genuine desire for the world to engage with the people affected by climate change.",
-          "image": null,
+          "summary": "As the Belo Monte hydroelectric plant in the Brazilian Amazon marks 10 years of operation, it faces a contentious environmental license renewal. At th",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/06/08092956/DSC_5440-scaled-1-768x512.jpg",
           "other_news": true
         },
         {
@@ -1618,17 +1629,6 @@
           "language": "en",
           "summary": "Where are ecosystems still left standing? Where should conservation be focused? A new tool is attempting to answer these questions and serve as a watc",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09101111/mushrooms-in-the-forest-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Can WarWilding defend Poland’s borders and save Europe’s last ancient forest?",
-          "link": "https://news.mongabay.com/2026/10/can-warwilding-defend-polands-borders-and-save-europes-last-ancient-forest/",
-          "published": "2026-10-07T20:13:42+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "BIAŁOWIEŻA, Poland — Michal Żmihorski, deputy director of the Institute of Environmental Protection, will never forget the morning of Aug. 1, 2023. Tw",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/07161238/European_bison_Bison_bonasus_male_Bialowieza-768x512.jpg",
           "other_news": true
         }
       ]

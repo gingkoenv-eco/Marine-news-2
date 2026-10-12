@@ -720,8 +720,11 @@
 
         function buildRecapText() {
             const seenTitles = new Set();
-            const candidates = [];
-            for (const catData of Object.values(newsData || {})) {
+            const marine = [];
+            const other = [];
+            for (const [category, catData] of Object.entries(newsData || {})) {
+                // In this page "other news" is the 'Other News' category
+                const isOther = category === 'Other News';
                 for (const theme in catData) {
                     for (const article of catData[theme] || []) {
                         if (!publishedToday(article) || (article.language || 'en') !== 'en') {
@@ -732,30 +735,41 @@
                             continue;
                         }
                         seenTitles.add(key);
-                        candidates.push(article);
+                        (isOther ? other : marine).push(article);
                     }
                 }
             }
-            if (!candidates.length) {
+            if (!marine.length && !other.length) {
                 return '';
             }
 
-            // Marine news first, then newest; one headline per newspaper, max 5 newspapers
-            candidates.sort((a, b) => {
-                if (!!a.other_news !== !!b.other_news) {
-                    return a.other_news ? 1 : -1;
-                }
-                return new Date(b.published || 0) - new Date(a.published || 0);
-            });
+            const newestFirst = (a, b) => new Date(b.published || 0) - new Date(a.published || 0);
+            marine.sort(newestFirst);
+            other.sort(newestFirst);
 
+            // Alternate marine / other news (marine first) so both appear in the recap;
+            // one headline per newspaper, max 5 newspapers. If one pool runs out, the other fills the rest.
             const seenSources = new Set();
             const lines = [];
-            for (const article of candidates) {
-                const source = article.source || 'Unknown source';
-                if (seenSources.has(source)) continue;
-                seenSources.add(source);
-                lines.push(`${source} 👉 ${plainTitle(article.title)}`);
-                if (lines.length >= MAX_RECAP_SOURCES) break;
+            const take = (pool) => {
+                while (pool.length) {
+                    const article = pool.shift();
+                    const source = article.source || 'Unknown source';
+                    if (seenSources.has(source)) continue;
+                    seenSources.add(source);
+                    lines.push(`${source} 👉 ${plainTitle(article.title)}`);
+                    return true;
+                }
+                return false;
+            };
+            let turn = 0;
+            while (lines.length < MAX_RECAP_SOURCES && (marine.length || other.length)) {
+                const pool = turn % 2 === 0 ? marine : other;
+                if (!take(pool)) {
+                    // this pool is exhausted: drain the other one
+                    take(pool === marine ? other : marine);
+                }
+                turn++;
             }
 
             const dateLabel = new Date().toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });

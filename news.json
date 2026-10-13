@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:06:25.545872+00:00",
+  "generated_at": "2026-10-13T19:17:09.508856+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -84,17 +84,6 @@
           "summary": "Seventy-nine per cent of all NSW swimming sites rated ‘good’ or ‘very good’, as state’s cleanest and most polluted beaches revealedFollow our Australi",
           "image": "https://i.guim.co.uk/img/media/1af16ff258e33caea65db65fd1958390c0560ed3/965_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=98148fd52c609c447e718c62605507a4",
           "other_news": false
-        },
-        {
-          "title": "For Indian communities, fishmeal factories bring pollution, danger and protests",
-          "link": "https://news.mongabay.com/2026/10/for-indian-communities-fishmeal-factories-bring-pollution-danger-and-protests/",
-          "published": "2026-10-09T13:01:04+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "This article is from Food for Feed, a series investigating the global fishmeal industry. It is produced by the Outlaw Ocean Project, a news organizati",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/08024211/kAP24079701377409-768x512.jpg",
-          "other_news": false
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -150,6 +139,17 @@
           "type": "news",
           "language": "en",
           "summary": "A proposed South Atlantic whale sanctuary has again failed to win the required 75 per cent majority at IWC70, as the UK marks 40 years of the global w",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Spawning coral release quintillions of eggs each year: new research",
+          "link": "https://theconversation.com/spawning-coral-release-quintillions-of-eggs-each-year-new-research-294058",
+          "published": "2026-10-13T18:54:07+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The first estimate of coral egg numbers across the Indo-Pacific shows which species can help rebuild devastated reefs.",
           "image": null,
           "other_news": false
         },
@@ -222,17 +222,6 @@
           "type": "news",
           "language": "en",
           "summary": "A regional permafrost map can’t tell a builder if a particular foundation or road will survive as temperatures rise. Engineers need to see beneath the",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
-          "link": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
-          "published": "2026-09-25T12:45:39+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.&#8230;\nThe post ‘Co",
           "image": null,
           "other_news": false
         }
@@ -437,28 +426,6 @@
           "other_news": false
         },
         {
-          "title": "Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature",
-          "link": "https://www.carbonbrief.org/explainer-how-sea-level-rise-poses-an-existential-threat-to-humans-heritage-and-nature",
-          "published": "2026-09-22T15:14:21+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "For millions of people around the world, rising sea levels are already reshaping economies, livelihoods and cultures. The world’s oceans&#8230;\nThe po",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Analysis: ‘Super El Niño’ breaks ‘remarkable’ all-time record",
-          "link": "https://www.carbonbrief.org/analysis-super-el-nino-reaches-remarkable-all-time-record",
-          "published": "2026-09-21T15:41:10+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "This year&#8217;s so-called “super El Niño” has entered record-breaking territory.&#160; Sea surface temperatures in the tropical Pacific have exceede",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Africa should not have to adapt to an unjust climate system",
           "link": "https://www.climatechangenews.com/2026/10/05/africa-should-not-have-to-adapt-to-an-unjust-climate-system/",
           "published": "2026-10-05T15:54:01+00:00",
@@ -624,13 +591,13 @@
           "other_news": false
         },
         {
-          "title": "Marine Le Pen présente le «contre-budget» du RN pour 2027, une attaque contre les renouvelables et les agences environnementales",
-          "link": "https://vert.eco/chaleurs-actuelles/marine-le-pen-presente-le-contre-budget-du-rn-pour-2027-une-attaque-contre-les-renouvelables-et-les-agences-environnementales/",
-          "published": "2026-10-07T09:46:58+00:00",
-          "source": "Vert Eco Articles",
+          "title": "How lessons from fisheries management could help us govern Earth’s orbital space",
+          "link": "https://theconversation.com/how-lessons-from-fisheries-management-could-help-us-govern-earths-orbital-space-292734",
+          "published": "2026-10-13T18:07:13+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Mardi, la cheffe de file d’extrême droite a présenté son plan pour faire «140 milliards d’euros d’économies» sur les cinq prochaines années. Elle a as",
+          "language": "en",
+          "summary": "Orbital space management organizations could help ensure that future generations live with stars above their heads, rather than constellations of debr",
           "image": null,
           "other_news": false
         },
@@ -642,17 +609,6 @@
           "type": "news",
           "language": "en",
           "summary": "As sea levels rise, Tuvalu is creating opportunities for its people to migrate to Australia. But the places left behind are still full of cultural his",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Hooked on tuna: People have been harvesting these ocean predators for 44,000 years",
-          "link": "https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428",
-          "published": "2026-10-12T19:00:44+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Bones in archaeological sites, ancient rock art, paintings on frescos and vases, written historical records and ethnographic accounts all helped resea",
           "image": null,
           "other_news": false
         },
@@ -688,80 +644,10 @@
           "summary": "Our ocean has absorbed more than 90% of excess heat caused by human-driven climate change and a quarter of the carbon dioxide we emit. In simple terms",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "First Nation-led effort replants kelp forests in Clayoquot Sound",
-          "link": "https://news.mongabay.com/short-article/2026/10/first-nation-led-effort-replants-kelp-forests-in-clayoquot-sound/",
-          "published": "2026-10-12T13:27:56+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Founder&#8217;s Briefs: An occasional series where Mongabay founder Rhett Ayers Butler shares analysis, perspectives and story summaries. In Clayoquot",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/02164446/Mongabay-Kelp-Photo-3-Teams-working-with-kelp-in-Clayoquot-Sound-photo-credit-Graeme-Owsianski-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "A chemical kept fishmeal from catching fire. Then scientists raised cancer concerns",
-          "link": "https://news.mongabay.com/2026/10/a-chemical-kept-fishmeal-from-catching-fire-then-scientists-raised-cancer-concerns/",
-          "published": "2026-10-09T13:01:51+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "This article is from Food for Feed, a series investigating the global fishmeal industry. It is produced by the Outlaw Ocean Project, a news organizati",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/08040418/b.-54476493970_8b5ce03b55_o-1-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Fishmeal factories take Senegal’s fish from the dinner table",
-          "link": "https://news.mongabay.com/2026/10/fishmeal-factories-take-senegals-fish-from-the-dinner-table/",
-          "published": "2026-10-09T13:00:06+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "This article is from Food for Feed, a series investigating the global fishmeal industry. It is produced by the Outlaw Ocean Project, a news organizati",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/08004931/e.-HIGH-RESOLUTION-GP0477P-1-768x512.jpg",
-          "other_news": false
         }
       ]
     },
     "To Watch / Read / Listen": {
-      "Plastic & Ocean Pollution": [
-        {
-          "title": "Oil pollution is drifting into marine protected areas, report finds",
-          "link": "https://news.mongabay.com/short-article/2026/10/oil-pollution-is-drifting-into-marine-protected-areas-report-finds/",
-          "published": "2026-10-12T12:37:55+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Oil slicks from vessels and offshore oil operations repeatedly drifted into marine protected areas around the world between 2022 and 2025, a new analy",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/12123247/4690909964_eea147e447_o-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Community action to protect Cambodia’s seas: Interview with commune leader Sorn Srenh",
-          "link": "https://news.mongabay.com/2026/10/community-action-to-protect-cambodias-seas-interview-with-commune-leader-sorn-srenh/",
-          "published": "2026-10-12T09:53:15+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "PHNOM PENH — In Cambodia’s Koh Sdach archipelago, where turquoise waters hide mounting environmental pressures from overfishing and plastic waste to c",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09120806/IMG_9736-Sorn-Srenh-768x512.jpg",
-          "other_news": false
-        }
-      ],
-      "Marine Biodiversity & Conservation": [
-        {
-          "title": "A lifetime studying and advocating for cetaceans: Interview with Paul Spong",
-          "link": "https://news.mongabay.com/2026/10/a-lifetime-studying-and-advocating-for-cetaceans-interview-with-paul-spong/",
-          "published": "2026-10-09T12:38:14+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Paul Spong’s life has been entwined with whales for nearly six decades. In the 1960s, Spong, who hails from Aotearoa New Zealand, moved to the U.S. to",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09115106/IMG_8954-1280x893-1-768x512.jpeg",
-          "other_news": false
-        }
-      ],
       "Species Migration & Habitat Change": [
         {
           "title": "Thousands of sea turtles reach Mexico in yearly migration threatened by climate crisis – video",
@@ -785,17 +671,6 @@
           "language": "en",
           "summary": "Independent analysis of The Metals Company's own projections finds deep-sea mining destroys value in over eight in ten realistic scenarios and could l",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Shedding light on the sea: Interview with Thai photographer Sirachai Arunrugstichai",
-          "link": "https://news.mongabay.com/2026/10/shedding-light-on-the-sea-interview-with-thai-photographer-sirachai-arunrugstichai/",
-          "published": "2026-10-13T14:17:06+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "BANGKOK — Marine biologist and photojournalist Sirachai “Shin” Arunrugstichai has taken many notable photographs in Thailand, from white bleached cora",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/13090630/working-pic-Sirachai-Arunrugstichai-3-768x512.jpg",
           "other_news": false
         }
       ]
@@ -834,6 +709,17 @@
           "summary": "La pollution au mercure est dangereuse pour la santé des humains et des écosystèmes car cet élément s'accumule dans l'organisme.",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH466/forest-wood-night-smoke-orange-flame-834878-pxhere_com-85398.jpg?1791482401",
           "other_news": true
+        },
+        {
+          "title": "Protection des captages : la mise en œuvre de la loi d’urgence agricole critiquée par les collectivités",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/13/protection-des-captages-la-mise-en-uvre-de-la-loi-d-urgence-agricole-critiquee-par-les-collectivites_6793163_3244.html",
+          "published": "2026-10-13T19:22:09+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le projet de décret devant préserver les nappes et rivières des pollutions, découlant de la loi d’urgence adoptée cet été, suscite l’inquiétude de col",
+          "image": "https://img.lemde.fr/2025/12/23/1008/0/6048/3024/644/322/60/0/d6a7792_upload-1-rerfqs0aixga-maxnewsspecialtwo120223.jpg",
+          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -845,17 +731,6 @@
           "type": "news",
           "language": "en",
           "summary": "The WWF’s Living Planet Index is one of our best measures of biodiversity loss. But the populations it counts may not be representative of wildlife as",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Interactive: Tracking negotiating texts at the COP17 biodiversity summit",
-          "link": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop17-biodiversity-summit",
-          "published": "2026-10-12T14:31:06+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Next week, diplomats from around the world will descend on Yerevan, Armenia, to negotiate a series of decisions under the&#8230;\nThe post Interactive:",
           "image": null,
           "other_news": true
         }
@@ -881,17 +756,6 @@
           "language": "en",
           "summary": "The climate crisis is also a governance crisis - one with a persistent blindspot for women's leadership, ingenuity and readiness to take decisions for",
           "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Paraguay meets UN deadline for improving governance in Chaco Biosphere Reserve",
-          "link": "https://news.mongabay.com/short-article/2026/10/paraguay-meets-un-deadline-for-improving-governance-in-chaco-biosphere-reserve/",
-          "published": "2026-10-09T23:58:15+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Paraguay has provided updated information to the United Nations about the Chaco Biosphere Reserve, a protected area where deforestation from farming a",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/10/09153400/ParaguayChaco_acaballo-768x512.jpg",
           "other_news": true
         }
       ],
@@ -1172,57 +1036,13 @@
           "other_news": true
         },
         {
-          "title": "Analysis: Wind and solar save UK from gas imports worth £5.9bn during Hormuz crisis",
-          "link": "https://www.carbonbrief.org/analysis-wind-and-solar-save-uk-from-gas-imports-worth-5-9bn-during-hormuz-crisis",
-          "published": "2026-09-30T14:12:01+00:00",
-          "source": "Carbonbrief",
+          "title": "SE Asia speeds up plan for connected clean power grid after oil shock",
+          "link": "https://www.climatechangenews.com/2026/10/13/se-asia-speeds-up-plan-for-connected-clean-power-grid-after-oil-shock/",
+          "published": "2026-10-13T15:34:59+00:00",
+          "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "The UK has avoided the need for gas imports worth £5.9bn since the start of the Hormuz crisis as a&#8230;\nThe post Analysis: Wind and solar save UK fr",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Interactive: What China’s dozens of ‘five-year plans’ say about climate and energy",
-          "link": "https://interactive.carbonbrief.org/china-plan-tracker/index.html",
-          "published": "2026-09-24T14:00:00+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Almost three-quarters of the 72 five-year plans published by China this year include policies or targets related to climate change&#8230;\nThe post Int",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in the UK",
-          "link": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
-          "published": "2026-09-24T11:49:03+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "The latest surge in fossil-fuel prices means it is now up to nine times cheaper in the UK to drive&#8230;\nThe post Analysis: EVs are now nine times ch",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Analysis: India’s power-sector emissions flat for two years due to clean-energy surge",
-          "link": "https://www.carbonbrief.org/analysis-indias-power-sector-emissions-flat-for-two-years-due-to-clean-energy-surge",
-          "published": "2026-09-16T23:01:00+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "A surge in clean energy has kept carbon dioxide (CO2) emissions in check across India’s power sector, with no growth&#8230;\nThe post Analysis: India’s",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis",
-          "link": "https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis",
-          "published": "2026-09-16T13:34:02+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Global fossil-fuel emissions are set to fall by around 0.5% in 2026 amid the fallout from the Hormuz crisis, according&#8230;\nThe post Analysis: Globa",
+          "summary": "Countries are doubling down on plans to connect their grids to bolster energy security and reduce their dependence on fossil fuels — but many challeng",
           "image": null,
           "other_news": true
         },
@@ -1469,28 +1289,6 @@
           "other_news": true
         },
         {
-          "title": "DR Congo’s power-hungry mining sector drives record solar surge",
-          "link": "https://www.climatechangenews.com/2026/09/17/dr-congos-power-hungry-mining-sector-drives-record-solar-surge/",
-          "published": "2026-09-17T12:30:26+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "As solar deployment rapidly accelerates across Africa, miners in the DRC are driving significant demand for clean energy to replace expensive diesel",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "« Créer est un acte politique » : Nodey, un artiste engagé derrière l'hymne des blocus lycéens",
-          "link": "https://reporterre.net/Creer-est-un-acte-politique-Nodey-un-artiste-engage-derriere-l-hymne-des-blocus-lyceens",
-          "published": "2026-10-13T14:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "« No Title », composé il y a onze ans pour une star de YouTube, est devenu la bande-son des blocus lycéens. Son auteur, le produ",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/nodey_in_hanoi_-_67_1_-99217.jpg?1791900001",
-          "other_news": true
-        },
-        {
           "title": "Chauffage, transport : la baisse des émissions se poursuit, mais pas assez vite",
           "link": "https://reporterre.net/Chauffage-transport-la-baisse-des-emissions-se-poursuit-mais-pas-assez-vite",
           "published": "2026-10-13T09:19:35+00:00",
@@ -1708,72 +1506,6 @@
           "language": "en",
           "summary": "The El Niño climate pattern has long influenced weather across the globe.",
           "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Your say: week beginning October 12",
-          "link": "https://theconversation.com/your-say-week-beginning-october-12-294135",
-          "published": "2026-10-12T20:28:27+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "On the reality of tackling climate change, plus teacher and student wellbeing: an edited selection of your views.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Photos: Taiwan’s tea revival blends ancient terraces with new climate adaptations",
-          "link": "https://news.mongabay.com/2026/10/photos-taiwans-tea-revival-blends-ancient-terraces-with-new-climate-adaptations/",
-          "published": "2026-10-13T07:34:06+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "SHENKENG, Taiwan — Ten kilometers east of Taipei’s high-rises and dense traffic, the city gives way to a succession of steep, forested ridgelines shel",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09102849/The-Future-of-Tea_Taiwan_Michael-O-Snyder-3000px_72dpi-22-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Researcher who listens to forests wins 2026 Pritzker Environmental Genius Award",
-          "link": "https://news.mongabay.com/short-article/2026/10/researcher-who-listens-to-forests-wins-2026-pritzker-environmental-genius-award/",
-          "published": "2026-10-12T13:21:12+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Zuzana Burivalova, a tropical forest ecologist who uses sound to understand the health of forests globally, was recently named the winner of the 2026",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2021/12/03001203/zuzana-burivalova-in-Bavaria-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Damming the Xingu",
-          "link": "https://news.mongabay.com/specials/2026/10/damming-the-xingu/",
-          "published": "2026-10-12T00:23:04+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "As the Belo Monte hydroelectric plant in the Brazilian Amazon marks 10 years of operation, it faces a contentious environmental license renewal. At th",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/06/08092956/DSC_5440-scaled-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Painted wind turbines can dramatically reduce bird deaths, study finds",
-          "link": "https://news.mongabay.com/short-article/2026/10/painted-wind-turbines-can-dramatically-reduce-bird-deaths-study-finds/",
-          "published": "2026-10-09T19:42:23+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Wind energy is a valuable tool for addressing the climate crisis, but wind turbines can be deadly for birds. A recent study found that a low-tech, rel",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09193246/Painted-Blades_USGS-Image-768x512.png",
-          "other_news": true
-        },
-        {
-          "title": "How much nature is left? Interview with Nature Data Lab’s Karl Burkart",
-          "link": "https://news.mongabay.com/2026/10/how-much-nature-is-left-interview-with-nature-data-labs-karl-burkart/",
-          "published": "2026-10-09T10:16:13+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Where are ecosystems still left standing? Where should conservation be focused? A new tool is attempting to answer these questions and serve as a watc",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09101111/mushrooms-in-the-forest-768x512.jpg",
           "other_news": true
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T05:01:08.087658+00:00",
+  "generated_at": "2026-10-13T14:13:16.738010+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -163,17 +163,6 @@
           "summary": "If you spend some time on the banks of the St. Lawrence River in Quebec, you just might catch a flash of white beneath the surface. A whale. A beluga",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "Endangered angelshark is still traded in Brazil despite import ban",
-          "link": "https://news.mongabay.com/2026/10/endangered-angelshark-is-still-traded-in-brazil-despite-import-ban/",
-          "published": "2026-10-08T18:34:45+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "PORTO ALEGRE, Brazil — “Good choice!” said the clerk at one of the fish stalls in the Porto Alegre Public Market when Mongabay asked about the peixe a",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/08144635/stalls-in-the-Porto-Alegre-Public-Market-768x512.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -249,6 +238,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Scientists deploy a 24-armed secret weapon to save California’s kelp forests",
+          "link": "https://www.theguardian.com/environment/2026/oct/13/sunflower-sea-star-california-kelp-forests",
+          "published": "2026-10-13T12:00:01+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Team works to restore the sunflower sea star as 95% of these key underwater ecosystems have been decimated along the Pacific coast in past decadeOff t",
+          "image": "https://i.guim.co.uk/img/media/dfcb746c1eb83c289abdeb6dc4a0d699c51d1f17/329_0_2388_1911/master/2388.jpg?width=140&quality=85&auto=format&fit=max&s=a992cbb39e8be1ca9e292b3413a21cc4",
+          "other_news": false
+        },
         {
           "title": "Country diary 1926: Dolphin watching in the Bay of Biscay",
           "link": "https://www.theguardian.com/environment/2026/oct/12/country-diary-1926-dolphin-watching-in-the-bay-of-biscay",
@@ -580,6 +580,17 @@
           "other_news": false
         },
         {
+          "title": "Découverte de nouveaux courants marins grâce aux éléphants de mer des Kerguelen",
+          "link": "https://www.lemonde.fr/sciences/article/2026/10/13/decouverte-de-nouveaux-courants-marins-grace-aux-elephants-de-mer-des-kerguelen_6793087_1650684.html",
+          "published": "2026-10-13T11:30:08+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Grâce à la colonie de quelque 350 000 têtes qui vit aux îles Kerguelen, dans l’océan Austral, les chercheurs ont pu collecter des données avec une pré",
+          "image": "https://img.lemde.fr/2026/10/12/255/0/3073/1536/644/322/60/0/baad1df_upload-1-i9jhhvuvn8i5-media-appel.png",
+          "other_news": false
+        },
+        {
           "title": "La mort d’un dauphin transféré du Marineland d’Antibes vers l’Espagne provoque la colère des associations de défense des cétacés",
           "link": "https://www.lemonde.fr/planete/article/2026/10/11/la-mort-d-un-dauphin-transfere-du-marineland-d-antibes-vers-l-espagne-provoque-la-colere-des-associations-de-defense-des-cetaces_6792005_3244.html",
           "published": "2026-10-11T17:44:25+02:00",
@@ -710,28 +721,6 @@
           "summary": "This article is from Food for Feed, a series investigating the global fishmeal industry. It is produced by the Outlaw Ocean Project, a news organizati",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/08004931/e.-HIGH-RESOLUTION-GP0477P-1-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "World Octopus Day: new discoveries about the world’s smartest invertebrates",
-          "link": "https://news.mongabay.com/short-article/2026/10/world-octopus-day-new-discoveries-about-the-worlds-smartest-invertebrates/",
-          "published": "2026-10-08T23:00:02+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Happy World Octopus Day!  Every Oct 8, the world celebrates one of the more unusual creatures of the sea. Octopuses are well-known for their eight leg",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2021/02/18184147/Small_WW1127416-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Counterfeit seeds threaten African farmers’ crops and climate resilience: Study",
-          "link": "https://news.mongabay.com/short-article/2026/10/counterfeit-seeds-threaten-african-farmers-crops-and-climate-resilience-study/",
-          "published": "2026-10-08T20:41:11+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In Africa, high-quality seeds can produce improved crops with enhanced nutrition, pest-resistance, and drought tolerance. However, such seeds for maiz",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/08203415/4105131311_9bc22c770c_c-768x512.jpg",
-          "other_news": false
         }
       ]
     },
@@ -802,6 +791,17 @@
     },
     "Other News": {
       "Plastic & Ocean Pollution": [
+        {
+          "title": "How electric vehicles could help pollinators find flowers again",
+          "link": "https://theconversation.com/how-electric-vehicles-could-help-pollinators-find-flowers-again-289835",
+          "published": "2026-10-13T10:40:08+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Diesel pollution can disrupt floral scents. Switching to electric would help.",
+          "image": null,
+          "other_news": true
+        },
         {
           "title": "EPA says repealing power plant emissions rules will save billions – but its estimate leaves out health and climate costs",
           "link": "https://theconversation.com/epa-says-repealing-power-plant-emissions-rules-will-save-billions-but-its-estimate-leaves-out-health-and-climate-costs-292051",
@@ -884,17 +884,6 @@
           "other_news": true
         },
         {
-          "title": "Donald Trump aligns with Vladimir Putin yet again, leaving Ukraine – and US relations with Europe – under pressure",
-          "link": "https://theconversation.com/donald-trump-aligns-with-vladimir-putin-yet-again-leaving-ukraine-and-us-relations-with-europe-under-pressure-294119",
-          "published": "2026-10-12T13:56:31+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The US president appears to have made an abrupt about-turn in US policy towards Russia and the Ukraine war.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Paraguay meets UN deadline for improving governance in Chaco Biosphere Reserve",
           "link": "https://news.mongabay.com/short-article/2026/10/paraguay-meets-un-deadline-for-improving-governance-in-chaco-biosphere-reserve/",
           "published": "2026-10-09T23:58:15+00:00",
@@ -941,25 +930,14 @@
           "other_news": true
         },
         {
-          "title": "'People don't think recycling at work is part of their job description'",
-          "link": "https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-09T19:11:27+00:00",
+          "title": "Owls ringed to measure benefits of wildlife farming",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvd3xyyjpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-13T11:22:00+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/ed655970-c3c2-11f1-8fc5-335d62f6730b.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Appeal for major energy storage system rejected",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgdej69m2ro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-12T12:10:34+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Plans for the battery system site near the Devon-Dorset border have again been dismissed.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d706/live/71a87db0-c635-11f1-9a39-31b474234113.jpg",
+          "summary": "A barn owl and 15 chicks are ringed to see if conservation-focused farming is working.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a2/live/82c3a8e0-c6e4-11f1-bf38-57dc5cd42af2.jpg",
           "other_news": true
         },
         {
@@ -1014,6 +992,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Le moustique-tigre pourrait conquérir jusqu’à 96&nbsp;% de la France hexagonale d’ici à 2085. La dengue mais aussi les virus Zika et chukungunya pourr",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Air conditioners contribute to climate change – this 40-year-old treaty aims to limit the harm",
+          "link": "https://theconversation.com/air-conditioners-contribute-to-climate-change-this-40-year-old-treaty-aims-to-limit-the-harm-293262",
+          "published": "2026-10-13T10:33:43+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "A decade ago, the international treaty that shapes what’s inside our cooling systems was amended to favour gases that contribute less to global warmin",
           "image": null,
           "other_news": true
         },
@@ -1128,24 +1117,24 @@
           "other_news": true
         },
         {
-          "title": "How can the same El Niño cause drought in one part of the world and floods in another?",
-          "link": "https://theconversation.com/how-can-the-same-el-nino-cause-drought-in-one-part-of-the-world-and-floods-in-another-293013",
-          "published": "2026-09-29T14:53:29+00:00",
-          "source": "The Conversation UK",
+          "title": "Americans are stressed about grocery prices, so why do they toss or overlook so much ‘misfit’ food?",
+          "link": "https://theconversation.com/americans-are-stressed-about-grocery-prices-so-why-do-they-toss-or-overlook-so-much-misfit-food-293526",
+          "published": "2026-10-13T12:20:03+00:00",
+          "source": "The Conversation US",
           "type": "news",
           "language": "en",
-          "summary": "The climate science behind 2026’s super El Niño.",
+          "summary": "Quality, rather than discounts or environmental benefits, is what’s needed to encourage shoppers to consider odd-shaped produce.",
           "image": null,
           "other_news": true
         },
         {
-          "title": "Wolves did not save Yellowstone – why were we so desperate to believe they did?",
-          "link": "https://theconversation.com/wolves-did-not-save-yellowstone-why-were-we-so-desperate-to-believe-they-did-292069",
-          "published": "2026-09-29T13:12:59+00:00",
-          "source": "The Conversation UK",
+          "title": "Across the US, people don’t want data centers coming to their communities",
+          "link": "https://theconversation.com/across-the-us-people-dont-want-data-centers-coming-to-their-communities-291630",
+          "published": "2026-10-13T12:19:28+00:00",
+          "source": "The Conversation US",
           "type": "news",
           "language": "en",
-          "summary": "Yellowstone’s reintroduced wolves have become a famous conservation success story, but the reality is far messier.",
+          "summary": "Opposition to data centers is widespread across the US, uniting people despite other differences on political and environmental issues.",
           "image": null,
           "other_news": true
         },
@@ -1179,17 +1168,6 @@
           "type": "news",
           "language": "en",
           "summary": "No longer viewed only as waste, used cooking oil is a common ingredient in biofuels.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Nepal isn’t the only disaster-struck country waiting for money from the global climate Loss and Damage Fund",
-          "link": "https://theconversation.com/nepal-isnt-the-only-disaster-struck-country-waiting-for-money-from-the-global-climate-loss-and-damage-fund-291264",
-          "published": "2026-09-18T12:39:03+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "At least 119 countries have asked for aid from the fund set by major greenhouse gas emitting nations four years before the deadly Nepal flood. It has",
           "image": null,
           "other_news": true
         },
@@ -1502,6 +1480,28 @@
           "other_news": true
         },
         {
+          "title": "« Créer est un acte politique » : Nodey, un artiste engagé derrière l'hymne des blocus lycéens",
+          "link": "https://reporterre.net/Creer-est-un-acte-politique-Nodey-un-artiste-engage-derriere-l-hymne-des-blocus-lyceens",
+          "published": "2026-10-13T14:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "« No Title », composé il y a onze ans pour une star de YouTube, est devenu la bande-son des blocus lycéens. Son auteur, le produ",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/nodey_in_hanoi_-_67_1_-99217.jpg?1791900001",
+          "other_news": true
+        },
+        {
+          "title": "Chauffage, transport : la baisse des émissions se poursuit, mais pas assez vite",
+          "link": "https://reporterre.net/Chauffage-transport-la-baisse-des-emissions-se-poursuit-mais-pas-assez-vite",
+          "published": "2026-10-13T09:19:35+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les émissions de gaz à effet de serre devraient reculer de 2,8 % en France en 2026. Ce ralentissement est dû à l'effet dissuasif",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/cars-in-a-rush-hour-1476873340nhb-387bd.jpg?1791883199",
+          "other_news": true
+        },
+        {
           "title": "Impôts favorables aux riches : Oxfam attaque l'État en justice",
           "link": "https://reporterre.net/Impots-favorables-aux-riches-Oxfam-attaque-l-Etat-en-justice",
           "published": "2026-10-12T22:01:00+00:00",
@@ -1592,7 +1592,7 @@
         {
           "title": "Les émissions de gaz à effet de serre en France diminuent du fait de l’envolée des prix des carburants",
           "link": "https://www.lemonde.fr/planete/article/2026/10/13/les-emissions-de-gaz-a-effet-de-serre-en-france-diminuent-du-fait-de-l-envolee-des-prix-des-carburants_6793062_3244.html",
-          "published": "2026-10-13T06:50:10+02:00",
+          "published": "2026-10-13T06:50:07+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1607,14 +1607,14 @@
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "D’importantes quantités de pétrole but et de gaz sont projetées à plus de dix mètres de hauteur, ont expliqué les autorités. Les causes de l’incident,",
+          "summary": "D’importantes quantités de pétrole brut et de gaz sont projetées à plus de dix mètres de hauteur, ont expliqué les autorités. Les causes de l’incident",
           "image": "https://img.lemde.fr/2026/10/13/158/0/490/245/644/322/60/0/c853592_upload-1-u0spvhvzbcqp-niger.png",
           "other_news": true
         },
         {
-          "title": "Comment on a dépollué notre bloc opératoire",
+          "title": "« On avance » : comment on a dépollué notre bloc opératoire",
           "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/13/comment-on-a-depollue-notre-bloc-operatoire_6793048_6125299.html",
-          "published": "2026-10-13T05:30:12+02:00",
+          "published": "2026-10-13T05:30:01+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1678,6 +1678,17 @@
           "other_news": true
         },
         {
+          "title": "Extreme El Niños are coming. Reaching net zero sooner means facing fewer of them",
+          "link": "https://theconversation.com/extreme-el-ninos-are-coming-reaching-net-zero-sooner-means-facing-fewer-of-them-292134",
+          "published": "2026-10-13T09:00:35+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The El Niño climate pattern has long influenced weather across the globe.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Your say: week beginning October 12",
           "link": "https://theconversation.com/your-say-week-beginning-october-12-294135",
           "published": "2026-10-12T20:28:27+00:00",
@@ -1686,6 +1697,17 @@
           "language": "en",
           "summary": "On the reality of tackling climate change, plus teacher and student wellbeing: an edited selection of your views.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Photos: Taiwan’s tea revival blends ancient terraces with new climate adaptations",
+          "link": "https://news.mongabay.com/2026/10/photos-taiwans-tea-revival-blends-ancient-terraces-with-new-climate-adaptations/",
+          "published": "2026-10-13T07:34:06+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "SHENKENG, Taiwan — Ten kilometers east of Taipei’s high-rises and dense traffic, the city gives way to a succession of steep, forested ridgelines shel",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09102849/The-Future-of-Tea_Taiwan_Michael-O-Snyder-3000px_72dpi-22-768x512.jpg",
           "other_news": true
         },
         {

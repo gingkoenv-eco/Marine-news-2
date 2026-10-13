@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:45:23.038289+00:00",
+  "generated_at": "2026-10-13T05:01:08.087658+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -338,6 +338,17 @@
           "other_news": false
         },
         {
+          "title": "Crew searching for Amelia Earhart arrives at crab-infested island",
+          "link": "https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-12T22:01:43+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Researchers will sleep on their ship to avoid giant crabs that can lift heavy weights, split open coconuts, and may have played a role in Earhart's de",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21e2/live/2c2cb300-c67b-11f1-a64c-550be9e3c66b.jpg",
+          "other_news": false
+        },
+        {
           "title": "Storm Rachel batters Southern California, brings flooding to Las Vegas",
           "link": "https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-12T16:12:57+00:00",
@@ -536,17 +547,6 @@
           "other_news": false
         },
         {
-          "title": "Étourdissement, démangeaisons… des algues rouges prolifèrent en Guadeloupe et affectent les pêcheurs",
-          "link": "https://reporterre.net/Etourdissement-demangeaisons-des-algues-rouges-proliferent-en-Guadeloupe-et-affectent-les",
-          "published": "2026-10-05T05:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Depuis fin 2025, des algues rouges prolifèrent sur les côtes guadeloupéennes, causant des démangeaisons et nausées chez les mari",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/mjaynda2n2y3ytjlmjrhztjkytdmmdzly2qwode5yzviymu3zwy-7ab35-e02a4.jpg?1791176400",
-          "other_news": false
-        },
-        {
           "title": "World’s largest penguin colony suffers steep decline in numbers",
           "link": "https://oceanographicmagazine.com/news/worlds-largest-penguin-colony-suffers-steep-decline-in-numbers/",
           "published": "2026-10-09T12:43:10+00:00",
@@ -620,6 +620,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Mardi, la cheffe de file d’extrême droite a présenté son plan pour faire «140 milliards d’euros d’économies» sur les cinq prochaines années. Elle a as",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "The Pacific Islands are changing. What happens to cultural heritage when the people have to leave?",
+          "link": "https://theconversation.com/the-pacific-islands-are-changing-what-happens-to-cultural-heritage-when-the-people-have-to-leave-293946",
+          "published": "2026-10-13T01:36:00+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As sea levels rise, Tuvalu is creating opportunities for its people to migrate to Australia. But the places left behind are still full of cultural his",
           "image": null,
           "other_news": false
         },
@@ -880,17 +891,6 @@
           "type": "news",
           "language": "en",
           "summary": "The US president appears to have made an abrupt about-turn in US policy towards Russia and the Ukraine war.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Smarter cities need more than smart algorithms. They need trust",
-          "link": "https://theconversation.com/smarter-cities-need-more-than-smart-algorithms-they-need-trust-292741",
-          "published": "2026-10-12T08:59:46+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "We know how cities move, but policy and organizational changes are needed before algorithms can actually improve mobility.",
           "image": null,
           "other_news": true
         },
@@ -1502,6 +1502,17 @@
           "other_news": true
         },
         {
+          "title": "Impôts favorables aux riches : Oxfam attaque l'État en justice",
+          "link": "https://reporterre.net/Impots-favorables-aux-riches-Oxfam-attaque-l-Etat-en-justice",
+          "published": "2026-10-12T22:01:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "La justice saisie contre la politique fiscale de la France. L'ONG Oxfam France a déposé, mardi 13 octobre, un recours en justice",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250612__49zz72v__v2__highres__francepoliticseconomydemo_1_-a9216.jpg?1791842463",
+          "other_news": true
+        },
+        {
           "title": "Lycéens : « Les lance-grenades ne feront pas taire les lanceurs d'alerte »",
           "link": "https://reporterre.net/Lyceens-Les-lance-grenades-ne-feront-pas-taire-les-lanceurs-d-alerte",
           "published": "2026-10-11T06:30:00+00:00",
@@ -1579,6 +1590,39 @@
           "other_news": true
         },
         {
+          "title": "Les émissions de gaz à effet de serre en France diminuent du fait de l’envolée des prix des carburants",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/13/les-emissions-de-gaz-a-effet-de-serre-en-france-diminuent-du-fait-de-l-envolee-des-prix-des-carburants_6793062_3244.html",
+          "published": "2026-10-13T06:50:10+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Selon l’organisme chargé du suivi des émissions, les rejets carbonés ont diminué de 4,1 % au premier semestre et pourraient baisser de 2,8 % sur l’ens",
+          "image": "https://img.lemde.fr/2026/09/22/1142/0/2500/1250/644/322/60/0/ec9d4ca_upload-1-0pui3wuaojy7-lewisjoly-lemonde-22-09-26-002.JPG",
+          "other_news": true
+        },
+        {
+          "title": "Au Niger, une éruption de pétrole provoque un incident environnemental « d’une gravité exceptionnelle »",
+          "link": "https://www.lemonde.fr/afrique/article/2026/10/13/au-niger-une-eruption-de-petrole-provoque-un-incident-environnemental-d-une-gravite-exceptionnelle_6793055_3212.html",
+          "published": "2026-10-13T05:45:37+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "D’importantes quantités de pétrole but et de gaz sont projetées à plus de dix mètres de hauteur, ont expliqué les autorités. Les causes de l’incident,",
+          "image": "https://img.lemde.fr/2026/10/13/158/0/490/245/644/322/60/0/c853592_upload-1-u0spvhvzbcqp-niger.png",
+          "other_news": true
+        },
+        {
+          "title": "Comment on a dépollué notre bloc opératoire",
+          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/13/comment-on-a-depollue-notre-bloc-operatoire_6793048_6125299.html",
+          "published": "2026-10-13T05:30:12+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Aujourd’hui,",
+          "image": "https://img.lemde.fr/2026/07/31/985/0/7877/3938/644/322/60/0/9fcddc7_upload-1-oe5g0qts6dud-dsc0770.jpg",
+          "other_news": true
+        },
+        {
           "title": "Amélie Cadier-Loriaud, radiologue : « Octobre rose occulte les causes environnementales du cancer du sein, qui ne relèvent pas de choix individuels »",
           "link": "https://www.lemonde.fr/idees/article/2026/10/12/amelie-cadier-loriaud-radiologue-octobre-rose-occulte-les-causes-environnementales-du-cancer-du-sein-qui-ne-relevent-pas-de-choix-individuels_6792690_3232.html",
           "published": "2026-10-12T18:00:11+02:00",
@@ -1641,17 +1685,6 @@
           "type": "news",
           "language": "en",
           "summary": "On the reality of tackling climate change, plus teacher and student wellbeing: an edited selection of your views.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Is your name still common? What Canadian baby names reveal about how we’ve changed",
-          "link": "https://theconversation.com/is-your-name-still-common-what-canadian-baby-names-reveal-about-how-weve-changed-292743",
-          "published": "2026-10-12T08:29:53+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Given names have shifted from inherited collective identity to personal expression.",
           "image": null,
           "other_news": true
         },

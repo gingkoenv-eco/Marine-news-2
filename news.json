@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T14:13:16.738010+00:00",
+  "generated_at": "2026-10-13T15:06:25.545872+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -786,6 +786,17 @@
           "summary": "Independent analysis of The Metals Company's own projections finds deep-sea mining destroys value in over eight in ten realistic scenarios and could l",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "Shedding light on the sea: Interview with Thai photographer Sirachai Arunrugstichai",
+          "link": "https://news.mongabay.com/2026/10/shedding-light-on-the-sea-interview-with-thai-photographer-sirachai-arunrugstichai/",
+          "published": "2026-10-13T14:17:06+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "BANGKOK — Marine biologist and photojournalist Sirachai “Shin” Arunrugstichai has taken many notable photographs in Thailand, from white bleached cora",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/13090630/working-pic-Sirachai-Arunrugstichai-3-768x512.jpg",
+          "other_news": false
         }
       ]
     },
@@ -822,17 +833,6 @@
           "language": "fr",
           "summary": "La pollution au mercure est dangereuse pour la santé des humains et des écosystèmes car cet élément s'accumule dans l'organisme.",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH466/forest-wood-night-smoke-orange-flame-834878-pxhere_com-85398.jpg?1791482401",
-          "other_news": true
-        },
-        {
-          "title": "Dhaka’s waste-to-energy plant face backlash over air pollution",
-          "link": "https://news.mongabay.com/short-article/2026/10/dhakas-waste-to-energy-plant-face-backlash-over-air-pollution/",
-          "published": "2026-10-09T06:54:48+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Construction of a power plant that will burn waste to generate electricity at a landfill near Bangladesh’s capital faces strong opposition from nearby",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09065421/Aminbazar-landfill-Photo-01-768x512.jpg",
           "other_news": true
         }
       ],
@@ -1674,6 +1674,28 @@
           "type": "news",
           "language": "fr",
           "summary": "Plus de 50 rassemblements sont prévus samedi et dimanche partout en France contre l’Omnibus X, un projet de réglementation européenne qui pourrait ass",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Study of 20,000 Nigerians explores the links between drug use, climate change and poverty",
+          "link": "https://theconversation.com/study-of-20-000-nigerians-explores-the-links-between-drug-use-climate-change-and-poverty-290534",
+          "published": "2026-10-13T14:45:59+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A staggering 67.5% of respondents relied on maladaptive coping strategies.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "I’ve been studying election integrity for 26 years, and here’s why I expect a normal election this November instead of chaos",
+          "link": "https://theconversation.com/ive-been-studying-election-integrity-for-26-years-and-heres-why-i-expect-a-normal-election-this-november-instead-of-chaos-294094",
+          "published": "2026-10-13T14:28:31+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Mayhem at the polls on Election Day 2026? Americans are worried. But a scholar of election law who has also run a nationwide election protection progr",
           "image": null,
           "other_news": true
         },

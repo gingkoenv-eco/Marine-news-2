@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:09:55.941483+00:00",
+  "generated_at": "2026-10-14T18:02:42.416297+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -713,6 +713,17 @@
           "language": "en",
           "summary": "Our ocean has absorbed more than 90% of excess heat caused by human-driven climate change and a quarter of the carbon dioxide we emit. In simple terms",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Researchers uncover hidden routes and patterns of Amazon wildlife trade",
+          "link": "https://news.mongabay.com/2026/10/researchers-uncover-hidden-routes-and-patterns-of-amazon-wildlife-trade/",
+          "published": "2026-10-14T17:36:34+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Rare fish and turtles sell for pennies at home, fetching fortunes in distant global markets.",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14163904/Podocnemis-unifilis_tracaja_Valdemir-Cunha-_-Greenpeace-1-768x512.png",
           "other_news": false
         },
         {
@@ -1789,17 +1800,6 @@
           "language": "en",
           "summary": "Zuzana Burivalova, a tropical forest ecologist who uses sound to understand the health of forests globally, was recently named the winner of the 2026",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2021/12/03001203/zuzana-burivalova-in-Bavaria-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Damming the Xingu",
-          "link": "https://news.mongabay.com/specials/2026/10/damming-the-xingu/",
-          "published": "2026-10-12T00:23:04+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "As the Belo Monte hydroelectric plant in the Brazilian Amazon marks 10 years of operation, it faces a contentious environmental license renewal. At th",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/06/08092956/DSC_5440-scaled-1-768x512.jpg",
           "other_news": true
         }
       ]

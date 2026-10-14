@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:53:03.692943+00:00",
+  "generated_at": "2026-10-14T05:01:18.640403+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -163,6 +163,17 @@
           "summary": "If you spend some time on the banks of the St. Lawrence River in Quebec, you just might catch a flash of white beneath the surface. A whale. A beluga",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "‘Patrick’ sea star went viral, but Argentine deep-sea canyon held 57 new species",
+          "link": "https://news.mongabay.com/2026/10/patrick-sea-star-went-viral-but-argentine-deep-sea-canyon-held-57-new-species/",
+          "published": "2026-10-13T22:11:43+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A sea cucumber with two horn-like appendages sits on the mud in the deep South Atlantic Ocean. Scientists named it Loki, after the horned Norse tricks",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/13154333/10-Deep-Sea-Sea-Star-Patrick-Star-768x512.jpg",
+          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -222,6 +233,17 @@
           "type": "news",
           "language": "en",
           "summary": "A regional permafrost map can’t tell a builder if a particular foundation or road will survive as temperatures rise. Engineers need to see beneath the",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
+          "link": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
+          "published": "2026-09-25T12:45:39+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.&#8230;\nThe post ‘Co",
           "image": null,
           "other_news": false
         }
@@ -426,6 +448,28 @@
           "other_news": false
         },
         {
+          "title": "Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature",
+          "link": "https://www.carbonbrief.org/explainer-how-sea-level-rise-poses-an-existential-threat-to-humans-heritage-and-nature",
+          "published": "2026-09-22T15:14:21+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "For millions of people around the world, rising sea levels are already reshaping economies, livelihoods and cultures. The world’s oceans&#8230;\nThe po",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Analysis: ‘Super El Niño’ breaks ‘remarkable’ all-time record",
+          "link": "https://www.carbonbrief.org/analysis-super-el-nino-reaches-remarkable-all-time-record",
+          "published": "2026-09-21T15:41:10+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "This year&#8217;s so-called “super El Niño” has entered record-breaking territory.&#160; Sea surface temperatures in the tropical Pacific have exceede",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Africa should not have to adapt to an unjust climate system",
           "link": "https://www.climatechangenews.com/2026/10/05/africa-should-not-have-to-adapt-to-an-unjust-climate-system/",
           "published": "2026-10-05T15:54:01+00:00",
@@ -580,17 +624,6 @@
           "other_news": false
         },
         {
-          "title": "«Une forêt sous-marine» : en Loire-Atlantique, il fait pousser des algues pour retrouver de la biodiversité… et ça marche !",
-          "link": "https://vert.eco/biodiversite/une-foret-sous-marine-en-loire-atlantique-il-fait-pousser-des-algues-pour-retrouver-de-la-biodiversite-et-ca-marche/",
-          "published": "2026-10-08T04:00:00+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Au large du Pouliguen (Loire-Atlantique), une association tente de faire renaître une forêt de laminaires, ces algues en forme de longs rubans bruns,",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "How lessons from fisheries management could help us govern Earth’s orbital space",
           "link": "https://theconversation.com/how-lessons-from-fisheries-management-could-help-us-govern-earths-orbital-space-292734",
           "published": "2026-10-13T18:07:13+00:00",
@@ -598,17 +631,6 @@
           "type": "news",
           "language": "en",
           "summary": "Orbital space management organizations could help ensure that future generations live with stars above their heads, rather than constellations of debr",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "The Pacific Islands are changing. What happens to cultural heritage when the people have to leave?",
-          "link": "https://theconversation.com/the-pacific-islands-are-changing-what-happens-to-cultural-heritage-when-the-people-have-to-leave-293946",
-          "published": "2026-10-13T01:36:00+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "As sea levels rise, Tuvalu is creating opportunities for its people to migrate to Australia. But the places left behind are still full of cultural his",
           "image": null,
           "other_news": false
         },
@@ -644,10 +666,89 @@
           "summary": "Our ocean has absorbed more than 90% of excess heat caused by human-driven climate change and a quarter of the carbon dioxide we emit. In simple terms",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "As sand becomes more valuable, Sierra Leone’s Mahera Coast grows more vulnerable",
+          "link": "https://news.mongabay.com/2026/10/as-sand-becomes-more-valuable-sierra-leones-mahera-coast-grows-more-vulnerable/",
+          "published": "2026-10-13T17:27:17+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "PORT LOKO, Sierra Leone — When the tide pulls away from the beach in the agricultural regions in Mahera in Lungi, about 27 kilometers (17 miles) acros",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/13151637/e3fdcb0d-9767-4eed-b7e5-f46f36d0957d-edit-768x512.jpg",
+          "other_news": false
+        },
+        {
+          "title": "New Zealand builds an arsenal of tools to battle a ‘wily’ invasive seaweed",
+          "link": "https://news.mongabay.com/2026/10/new-zealand-builds-an-arsenal-of-tools-to-battle-a-wily-invasive-seaweed/",
+          "published": "2026-10-13T17:16:51+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "BAY OF ISLANDS, Aotearoa New Zealand — Since an invasive seaweed called caulerpa was discovered in Aotearoa New Zealand in 2021, forming meadows that",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/13102020/12_B_Advanced_Aquarium_Technologies_NZ_smaller_UV_C_Craig_Thorburn-768x512.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Indonesia returns 20 green sea turtles to the ocean after Bali smuggling raid",
+          "link": "https://news.mongabay.com/short-article/2026/10/indonesia-returns-20-green-sea-turtles-to-the-ocean-after-bali-smuggling-raid/",
+          "published": "2026-10-13T17:13:30+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "SERANGAN ISLAND, Indonesia (AP) — Indonesian authorities on the tourist island of Bali released 20 protected green sea turtles back into the ocean Tue",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/13171129/AP26286336249075-768x512.jpg",
+          "other_news": false
+        },
+        {
+          "title": "A study unravels the genetic mystery of a cobra divided by sea",
+          "link": "https://news.mongabay.com/2026/10/a-study-unravels-the-genetic-mystery-of-a-cobra-divided-by-sea/",
+          "published": "2026-10-13T15:41:15+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "COLOMBO – Sri Lanka’s spectacled cobra (Naja naja) carries a two-million-year-old genetic mystery, and a new study finds that the island’s cobras form",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/13150621/1.-Indian-cobra.-Photo-credit-Bhasuru-Prabashwara-768x512.jpg",
+          "other_news": false
+        },
+        {
+          "title": "First Nation-led effort replants kelp forests in Clayoquot Sound",
+          "link": "https://news.mongabay.com/short-article/2026/10/first-nation-led-effort-replants-kelp-forests-in-clayoquot-sound/",
+          "published": "2026-10-12T13:27:56+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Founder&#8217;s Briefs: An occasional series where Mongabay founder Rhett Ayers Butler shares analysis, perspectives and story summaries. In Clayoquot",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/02164446/Mongabay-Kelp-Photo-3-Teams-working-with-kelp-in-Clayoquot-Sound-photo-credit-Graeme-Owsianski-768x512.jpg",
+          "other_news": false
         }
       ]
     },
     "To Watch / Read / Listen": {
+      "Plastic & Ocean Pollution": [
+        {
+          "title": "Oil pollution is drifting into marine protected areas, report finds",
+          "link": "https://news.mongabay.com/short-article/2026/10/oil-pollution-is-drifting-into-marine-protected-areas-report-finds/",
+          "published": "2026-10-12T12:37:55+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Oil slicks from vessels and offshore oil operations repeatedly drifted into marine protected areas around the world between 2022 and 2025, a new analy",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/12123247/4690909964_eea147e447_o-768x512.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Community action to protect Cambodia’s seas: Interview with commune leader Sorn Srenh",
+          "link": "https://news.mongabay.com/2026/10/community-action-to-protect-cambodias-seas-interview-with-commune-leader-sorn-srenh/",
+          "published": "2026-10-12T09:53:15+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "PHNOM PENH — In Cambodia’s Koh Sdach archipelago, where turquoise waters hide mounting environmental pressures from overfishing and plastic waste to c",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09120806/IMG_9736-Sorn-Srenh-768x512.jpg",
+          "other_news": false
+        }
+      ],
       "Species Migration & Habitat Change": [
         {
           "title": "Thousands of sea turtles reach Mexico in yearly migration threatened by climate crisis – video",
@@ -671,6 +772,17 @@
           "language": "en",
           "summary": "Independent analysis of The Metals Company's own projections finds deep-sea mining destroys value in over eight in ten realistic scenarios and could l",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Shedding light on the sea: Interview with Thai photographer Sirachai Arunrugstichai",
+          "link": "https://news.mongabay.com/2026/10/shedding-light-on-the-sea-interview-with-thai-photographer-sirachai-arunrugstichai/",
+          "published": "2026-10-13T14:17:06+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "BANGKOK — Marine biologist and photojournalist Sirachai “Shin” Arunrugstichai has taken many notable photographs in Thailand, from white bleached cora",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/13090630/working-pic-Sirachai-Arunrugstichai-3-768x512.jpg",
           "other_news": false
         }
       ]
@@ -733,6 +845,28 @@
           "summary": "The WWF’s Living Planet Index is one of our best measures of biodiversity loss. But the populations it counts may not be representative of wildlife as",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "Interactive: Tracking negotiating texts at the COP17 biodiversity summit",
+          "link": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop17-biodiversity-summit",
+          "published": "2026-10-12T14:31:06+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Next week, diplomats from around the world will descend on Yerevan, Armenia, to negotiate a series of decisions under the&#8230;\nThe post Interactive:",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Solutions to the risks posed by the global pet trade could be enacted quickly",
+          "link": "https://news.mongabay.com/podcast/2026/10/solutions-to-the-risks-posed-by-the-global-pet-trade-could-be-enacted-quickly/",
+          "published": "2026-10-13T20:01:56+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The global pet trade, particularly in exotic reptiles and amphibians, poses significant biodiversity and potential human health risks, scientists say;",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/11/13182036/JMT-768x512.jpg",
+          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -756,6 +890,17 @@
           "language": "en",
           "summary": "The climate crisis is also a governance crisis - one with a persistent blindspot for women's leadership, ingenuity and readiness to take decisions for",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Paraguay meets UN deadline for improving governance in Chaco Biosphere Reserve",
+          "link": "https://news.mongabay.com/short-article/2026/10/paraguay-meets-un-deadline-for-improving-governance-in-chaco-biosphere-reserve/",
+          "published": "2026-10-09T23:58:15+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Paraguay has provided updated information to the United Nations about the Chaco Biosphere Reserve, a protected area where deforestation from farming a",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/10/09153400/ParaguayChaco_acaballo-768x512.jpg",
           "other_news": true
         }
       ],
@@ -791,6 +936,28 @@
           "language": "en",
           "summary": "New report shows key indicators of Earth’s health are ‘outside the safe operating space’ as climate disaster loomsThe planetary life support systems r",
           "image": "https://i.guim.co.uk/img/media/994406d78130adfd3f6fc3d90601f912474310dc/942_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=36dd792b32bb417b759f4f0521c284e9",
+          "other_news": true
+        },
+        {
+          "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
+          "link": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-13T23:55:49+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a22/live/f73dcdc0-c6e1-11f1-bf38-57dc5cd42af2.jpg",
+          "other_news": true
+        },
+        {
+          "title": "More tea? How Scotland's crops of the future could be set to change",
+          "link": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-13T21:57:25+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9915/live/320124f0-c17b-11f1-bed0-05ebd781c53c.jpg",
           "other_news": true
         },
         {
@@ -1032,6 +1199,72 @@
           "type": "news",
           "language": "en",
           "summary": "No longer viewed only as waste, used cooking oil is a common ingredient in biofuels.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Analysis: Wind and solar save UK from gas imports worth £5.9bn during Hormuz crisis",
+          "link": "https://www.carbonbrief.org/analysis-wind-and-solar-save-uk-from-gas-imports-worth-5-9bn-during-hormuz-crisis",
+          "published": "2026-09-30T14:12:01+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "The UK has avoided the need for gas imports worth £5.9bn since the start of the Hormuz crisis as a&#8230;\nThe post Analysis: Wind and solar save UK fr",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Interactive: What China’s dozens of ‘five-year plans’ say about climate and energy",
+          "link": "https://interactive.carbonbrief.org/china-plan-tracker/index.html",
+          "published": "2026-09-24T14:00:00+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Almost three-quarters of the 72 five-year plans published by China this year include policies or targets related to climate change&#8230;\nThe post Int",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in the UK",
+          "link": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
+          "published": "2026-09-24T11:49:03+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "The latest surge in fossil-fuel prices means it is now up to nine times cheaper in the UK to drive&#8230;\nThe post Analysis: EVs are now nine times ch",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Analysis: India’s power-sector emissions flat for two years due to clean-energy surge",
+          "link": "https://www.carbonbrief.org/analysis-indias-power-sector-emissions-flat-for-two-years-due-to-clean-energy-surge",
+          "published": "2026-09-16T23:01:00+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "A surge in clean energy has kept carbon dioxide (CO2) emissions in check across India’s power sector, with no growth&#8230;\nThe post Analysis: India’s",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis",
+          "link": "https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis",
+          "published": "2026-09-16T13:34:02+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Global fossil-fuel emissions are set to fall by around 0.5% in 2026 amid the fallout from the Hormuz crisis, according&#8230;\nThe post Analysis: Globa",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "World Bank and IMF should lead the financial system in responding to the climate crisis",
+          "link": "https://www.climatechangenews.com/2026/10/14/world-bank-and-imf-should-lead-the-financial-system-in-responding-to-the-climate-crisis/",
+          "published": "2026-10-14T00:00:00+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Multilateral development banks have a vital role to play in delivering on donors' climate finance promises and protecting the most vulnerable\nThe post",
           "image": null,
           "other_news": true
         },
@@ -1278,17 +1511,6 @@
           "other_news": true
         },
         {
-          "title": "Framing the climate science debate as a binary battle isn’t just wrong – it’s dangerous",
-          "link": "https://www.climatechangenews.com/2026/09/17/framing-the-climate-science-debate-as-a-binary-battle-isnt-just-wrong-its-dangerous/",
-          "published": "2026-09-17T15:47:19+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Achieving the Paris Agreement goals requires robust science that fully integrates the experiences, economic realities and academic contributions of th",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Chauffage, transport : la baisse des émissions se poursuit, mais pas assez vite",
           "link": "https://reporterre.net/Chauffage-transport-la-baisse-des-emissions-se-poursuit-mais-pas-assez-vite",
           "published": "2026-10-13T09:19:35+00:00",
@@ -1388,6 +1610,28 @@
           "other_news": true
         },
         {
+          "title": "Jean-Marc Jancovici : « Tant qu’il n’y a pas dans la population une compréhension partagée du climat, le politique ne bougera pas »",
+          "link": "https://www.lemonde.fr/politique/article/2026/10/14/jean-marc-jancovici-tant-qu-il-n-y-a-pas-dans-la-population-une-comprehension-partagee-du-climat-le-politique-ne-bougera-pas_6793395_823448.html",
+          "published": "2026-10-14T06:00:25+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’ingénieur spécialiste de l’énergie, fondateur du groupe de réflexion The Shift Project, expose les lourds enjeux climatiques qui pèsent sur les proc",
+          "image": "https://img.lemde.fr/2026/10/13/790/0/3854/1927/644/322/60/0/7d86fcd_upload-1-qatcspfwgtfi-kzihnioglu-pol-jancovici-12102026-02.JPG",
+          "other_news": true
+        },
+        {
+          "title": "En Angleterre, les paysans sont rémunérés pour s’occuper de la nature : « C’est devenu une source de revenus indispensable »",
+          "link": "https://www.lemonde.fr/economie/article/2026/10/14/en-angleterre-les-paysans-sont-remuneres-pour-s-occuper-de-la-nature-c-est-devenu-une-source-de-revenus-indispensable_6793353_3234.html",
+          "published": "2026-10-14T05:30:06+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Depuis le Brexit, l’Angleterre s’est détournée du système de paiements directs aux agriculteurs, les remplaçant par des subsides récompensant les mesu",
+          "image": "https://img.lemde.fr/2026/10/13/649/0/5583/2791/644/322/60/0/ba68e23_upload-1-mkm7gjgrmnnq-000-c3yr6y9.jpg",
+          "other_news": true
+        },
+        {
           "title": "Les émissions de gaz à effet de serre en France diminuent du fait de l’envolée des prix des carburants",
           "link": "https://www.lemonde.fr/planete/article/2026/10/13/les-emissions-de-gaz-a-effet-de-serre-en-france-diminuent-du-fait-de-l-envolee-des-prix-des-carburants_6793062_3244.html",
           "published": "2026-10-13T06:50:07+02:00",
@@ -1443,17 +1687,6 @@
           "other_news": true
         },
         {
-          "title": "« La question environnementale a mis en lumière et banalisé, ces dernières années, l’usage politique du maintien de l’ordre »",
-          "link": "https://www.lemonde.fr/idees/article/2026/10/11/la-question-environnementale-a-mis-en-lumiere-et-banalise-ces-dernieres-annees-l-usage-politique-du-maintien-de-l-ordre_6791270_3232.html",
-          "published": "2026-10-11T06:00:12+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La gravité des troubles à l’ordre public est jugée à l’aune du positionnement politique de ceux qui les commettent, dénonce, dans sa chronique, Stépha",
-          "image": "https://img.lemde.fr/2026/10/07/500/0/3000/1500/644/322/60/0/f8e9426_upload-1-rrew77mxe94a-maniflyce-enne-asurp-104071.jpg",
-          "other_news": true
-        },
-        {
           "title": "«Ils ont besoin de repreneurs, on a besoin de terres» : dans l’Essonne, des personnes exilées reprennent une ferme sans pesticides ni irrigation",
           "link": "https://vert.eco/agriculture/ils-ont-besoin-de-repreneurs-on-a-besoin-de-terres-dans-lessonne-des-personnes-exilees-reprennent-une-ferme-sans-pesticides-ni-irrigation/",
           "published": "2026-10-10T05:00:00+00:00",
@@ -1498,14 +1731,47 @@
           "other_news": true
         },
         {
-          "title": "Extreme El Niños are coming. Reaching net zero sooner means facing fewer of them",
-          "link": "https://theconversation.com/extreme-el-ninos-are-coming-reaching-net-zero-sooner-means-facing-fewer-of-them-292134",
-          "published": "2026-10-13T09:00:35+00:00",
-          "source": "The Conversation",
+          "title": "Photos: Taiwan’s tea revival blends ancient terraces with new climate adaptations",
+          "link": "https://news.mongabay.com/2026/10/photos-taiwans-tea-revival-blends-ancient-terraces-with-new-climate-adaptations/",
+          "published": "2026-10-13T07:34:06+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "The El Niño climate pattern has long influenced weather across the globe.",
-          "image": null,
+          "summary": "SHENKENG, Taiwan — Ten kilometers east of Taipei’s high-rises and dense traffic, the city gives way to a succession of steep, forested ridgelines shel",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09102849/The-Future-of-Tea_Taiwan_Michael-O-Snyder-3000px_72dpi-22-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Researcher who listens to forests wins 2026 Pritzker Environmental Genius Award",
+          "link": "https://news.mongabay.com/short-article/2026/10/researcher-who-listens-to-forests-wins-2026-pritzker-environmental-genius-award/",
+          "published": "2026-10-12T13:21:12+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Zuzana Burivalova, a tropical forest ecologist who uses sound to understand the health of forests globally, was recently named the winner of the 2026",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2021/12/03001203/zuzana-burivalova-in-Bavaria-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Damming the Xingu",
+          "link": "https://news.mongabay.com/specials/2026/10/damming-the-xingu/",
+          "published": "2026-10-12T00:23:04+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "As the Belo Monte hydroelectric plant in the Brazilian Amazon marks 10 years of operation, it faces a contentious environmental license renewal. At th",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/06/08092956/DSC_5440-scaled-1-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Painted wind turbines can dramatically reduce bird deaths, study finds",
+          "link": "https://news.mongabay.com/short-article/2026/10/painted-wind-turbines-can-dramatically-reduce-bird-deaths-study-finds/",
+          "published": "2026-10-09T19:42:23+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Wind energy is a valuable tool for addressing the climate crisis, but wind turbines can be deadly for birds. A recent study found that a low-tech, rel",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09193246/Painted-Blades_USGS-Image-768x512.png",
           "other_news": true
         }
       ]

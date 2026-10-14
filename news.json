@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-14T05:01:18.640403+00:00",
+  "generated_at": "2026-10-14T11:54:26.087025+00:00",
   "categories": {
     "Politics & Policy": {
+      "Sustainable Fisheries": [
+        {
+          "title": "Chinese squid tied to labor abuses finds an easy route into Western markets",
+          "link": "https://news.mongabay.com/2026/10/chinese-squid-tied-to-labor-abuses-finds-an-easy-route-into-western-markets/",
+          "published": "2026-10-14T07:00:31+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In recent years, a series of high-profile investigations implicated the Chinese fleets targeting squid in international waters in illegal fishing prac",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/12143406/1-fishers-with-squid-768x512.jpg",
+          "other_news": false
+        }
+      ],
       "Other Marine News": [
         {
           "title": "UK to join EU ocean science scheme to better predict extreme weather events",
@@ -349,6 +362,17 @@
           "other_news": false
         },
         {
+          "title": "World's oldest shipwreck found off coast of Turkey",
+          "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-14T05:00:35+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
+          "other_news": false
+        },
+        {
           "title": "Crew searching for Amelia Earhart arrives at crab-infested island",
           "link": "https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-12T22:01:43+00:00",
@@ -610,17 +634,6 @@
           "language": "fr",
           "summary": "Rocky, un dauphin mâle de 29 ans, faisait partie des huit cétacés envoyés en juillet dans un parc près de Malaga, un transfert que Sea Sheperd avait t",
           "image": "https://img.lemde.fr/2026/08/25/248/0/5699/2849/644/322/60/0/b2ab8f5_ftp-1-z0qaznd17hnc-5915296-01-06.jpg",
-          "other_news": false
-        },
-        {
-          "title": "La thérapie sonore au secours des coraux",
-          "link": "https://www.lemonde.fr/sciences/article/2026/10/11/la-therapie-sonore-au-secours-des-coraux_6791889_1650684.html",
-          "published": "2026-10-11T15:30:06+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Des chercheurs américains ont dopé la production de larves de coraux et de poissons en diffusant le « chant » de récifs en bonne santé.",
-          "image": "https://img.lemde.fr/2026/10/09/87/0/700/350/644/322/60/0/e9b1868_upload-1-5c0ujdkxt4y1-reef0607.jpg",
           "other_news": false
         },
         {
@@ -939,6 +952,17 @@
           "other_news": true
         },
         {
+          "title": "More tea? How Scotland's crops of the future could be set to change",
+          "link": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-14T05:02:27+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9915/live/320124f0-c17b-11f1-bed0-05ebd781c53c.jpg",
+          "other_news": true
+        },
+        {
           "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
           "link": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-13T23:55:49+00:00",
@@ -950,14 +974,14 @@
           "other_news": true
         },
         {
-          "title": "More tea? How Scotland's crops of the future could be set to change",
-          "link": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-13T21:57:25+00:00",
+          "title": "New team to save Antarctic port from climate change",
+          "link": "https://www.bbc.co.uk/news/articles/ck8dzgr780j8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-14T05:24:08+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9915/live/320124f0-c17b-11f1-bed0-05ebd781c53c.jpg",
+          "summary": "The mission aims to protect the base which is home to the world’s southernmost Post Office.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1c9/live/10fd9a40-9959-11f0-af33-e32b3939e8ca.jpg",
           "other_news": true
         },
         {
@@ -1588,17 +1612,6 @@
           "other_news": true
         },
         {
-          "title": "Budget 2027 : la facture exorbitante des niches fiscales contre l'environnement",
-          "link": "https://reporterre.net/Budget-2027-la-facture-exorbitante-des-niches-fiscales-contre-l-environnement",
-          "published": "2026-10-06T05:30:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le coût des exonérations fiscales climaticides pourrait s'envoler à plus de 20 milliards d'euros dans le budget 2027. Un manque",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/lebudgetestillecornulpointdinterrogation-385e6.jpg?1791264601",
-          "other_news": true
-        },
-        {
           "title": "Rights of Nature spreads as councils adopt River Avon Charter",
           "link": "https://oceanographicmagazine.com/news/rights-of-nature-spreads-as-councils-adopt-river-avon-charter/",
           "published": "2026-10-02T15:07:05+00:00",
@@ -1612,7 +1625,7 @@
         {
           "title": "Jean-Marc Jancovici : « Tant qu’il n’y a pas dans la population une compréhension partagée du climat, le politique ne bougera pas »",
           "link": "https://www.lemonde.fr/politique/article/2026/10/14/jean-marc-jancovici-tant-qu-il-n-y-a-pas-dans-la-population-une-comprehension-partagee-du-climat-le-politique-ne-bougera-pas_6793395_823448.html",
-          "published": "2026-10-14T06:00:25+02:00",
+          "published": "2026-10-14T06:00:18+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1621,13 +1634,13 @@
           "other_news": true
         },
         {
-          "title": "En Angleterre, les paysans sont rémunérés pour s’occuper de la nature : « C’est devenu une source de revenus indispensable »",
+          "title": "Depuis le Brexit, des paysans anglais sont rémunérés pour s’occuper de la nature : « C’est devenu une source de revenus indispensable »",
           "link": "https://www.lemonde.fr/economie/article/2026/10/14/en-angleterre-les-paysans-sont-remuneres-pour-s-occuper-de-la-nature-c-est-devenu-une-source-de-revenus-indispensable_6793353_3234.html",
-          "published": "2026-10-14T05:30:06+02:00",
+          "published": "2026-10-14T05:30:03+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Depuis le Brexit, l’Angleterre s’est détournée du système de paiements directs aux agriculteurs, les remplaçant par des subsides récompensant les mesu",
+          "summary": "L’Angleterre s’est détournée du système de paiements directs aux agriculteurs, les remplaçant par des subsides récompensant les mesures environnementa",
           "image": "https://img.lemde.fr/2026/10/13/649/0/5583/2791/644/322/60/0/ba68e23_upload-1-mkm7gjgrmnnq-000-c3yr6y9.jpg",
           "other_news": true
         },
@@ -1687,6 +1700,17 @@
           "other_news": true
         },
         {
+          "title": "«On est né avec le nucléaire, mais on ne veut pas que ça devienne n’importe quoi» : dans la Manche, levée de boucliers face au «projet du siècle» d’Orano",
+          "link": "https://vert.eco/rapports-de-force/on-est-ne-avec-le-nucleaire-mais-on-ne-veut-pas-que-ca-devienne-nimporte-quoi-dans-la-manche-levee-de-boucliers-face-au-projet-du-siecle-dorano/",
+          "published": "2026-10-14T09:42:29+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Ce géant de l’industrie nucléaire s’apprête à lancer «Aval du futur», un gigantesque chantier pour assurer le recyclage des combustibles usés. Mais le",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "«Ils ont besoin de repreneurs, on a besoin de terres» : dans l’Essonne, des personnes exilées reprennent une ferme sans pesticides ni irrigation",
           "link": "https://vert.eco/agriculture/ils-ont-besoin-de-repreneurs-on-a-besoin-de-terres-dans-lessonne-des-personnes-exilees-reprennent-une-ferme-sans-pesticides-ni-irrigation/",
           "published": "2026-10-10T05:00:00+00:00",
@@ -1728,6 +1752,17 @@
           "language": "en",
           "summary": "Mayhem at the polls on Election Day 2026? Americans are worried. But a scholar of election law who has also run a nationwide election protection progr",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Painted turbines can save millions of birds",
+          "link": "https://news.mongabay.com/short-article/2026/10/painted-turbines-can-save-millions-of-birds/",
+          "published": "2026-10-14T08:58:43+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "What do snakes, poisonous frogs, and wind turbines have in common? Scientists tested whether warning color patterns inspired by nature could help bird",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14085750/Mongabay_Thumbnail_Turbines_Featured-338x512.jpg",
           "other_news": true
         },
         {

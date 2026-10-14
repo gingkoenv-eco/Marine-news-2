@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:54:26.087025+00:00",
+  "generated_at": "2026-10-14T12:54:31.633169+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -571,17 +571,6 @@
           "other_news": false
         },
         {
-          "title": "Les Hauts-de-France soutiennent l'interdiction des navires-usines près des côtes",
-          "link": "https://reporterre.net/Les-Hauts-de-France-soutiennent-l-interdiction-des-navires-usines-pres-des-cotes",
-          "published": "2026-10-06T11:15:20+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "La pression s'accroît sur la ministre de la Mer, Catherine Chabaud. Le 5 octobre, le conseil régional des Hauts-de-France a adop",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20240214__467326772__v1__highres__harborijmuiden_2_1_-abbed.jpg?1791358174",
-          "other_news": false
-        },
-        {
           "title": "World’s largest penguin colony suffers steep decline in numbers",
           "link": "https://oceanographicmagazine.com/news/worlds-largest-penguin-colony-suffers-steep-decline-in-numbers/",
           "published": "2026-10-09T12:43:10+00:00",
@@ -759,6 +748,19 @@
           "language": "en",
           "summary": "PHNOM PENH — In Cambodia’s Koh Sdach archipelago, where turquoise waters hide mounting environmental pressures from overfishing and plastic waste to c",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09120806/IMG_9736-Sorn-Srenh-768x512.jpg",
+          "other_news": false
+        }
+      ],
+      "Marine Biodiversity & Conservation": [
+        {
+          "title": "Eavesdropping on Malaysia’s dolphins: Interview with marine bioacoustician Saliza Bono",
+          "link": "https://news.mongabay.com/2026/10/eavesdropping-on-malaysias-dolphins-interview-with-marine-bioacoustician-saliza-bono/",
+          "published": "2026-10-14T12:28:35+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "KUALA LUMPUR — Malaysia’s coastal waters are home to 27 species of marine mammals. These include protected species like the Indo-Pacific humpback dolp",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14115427/Saliza4-IndoPacificHumpback-2-768x512.jpg",
           "other_news": false
         }
       ],
@@ -1047,6 +1049,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Le moustique-tigre pourrait conquérir jusqu’à 96&nbsp;% de la France hexagonale d’ici à 2085. La dengue mais aussi les virus Zika et chukungunya pourr",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Councils that restrict harmful advertising won’t lose out on profits",
+          "link": "https://theconversation.com/councils-that-restrict-harmful-advertising-wont-lose-out-on-profits-293389",
+          "published": "2026-10-14T11:40:16+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Some councils are restricting advertising for carbon-intensive forms of consumption in publicly controlled spaces to avoid undermining health or envir",
           "image": null,
           "other_news": true
         },
@@ -1796,17 +1809,6 @@
           "language": "en",
           "summary": "As the Belo Monte hydroelectric plant in the Brazilian Amazon marks 10 years of operation, it faces a contentious environmental license renewal. At th",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/06/08092956/DSC_5440-scaled-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Painted wind turbines can dramatically reduce bird deaths, study finds",
-          "link": "https://news.mongabay.com/short-article/2026/10/painted-wind-turbines-can-dramatically-reduce-bird-deaths-study-finds/",
-          "published": "2026-10-09T19:42:23+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Wind energy is a valuable tool for addressing the climate crisis, but wind turbines can be deadly for birds. A recent study found that a low-tech, rel",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09193246/Painted-Blades_USGS-Image-768x512.png",
           "other_news": true
         }
       ]

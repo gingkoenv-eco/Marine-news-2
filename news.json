@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:31:02.397611+00:00",
+  "generated_at": "2026-10-15T12:41:39.125663+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -259,17 +259,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Les écosystèmes marins –&nbsp;des mangroves aux baleines, en passant par le phytoplancton&nbsp;–contiennent du carbone, mais gare à ne pas en tirer le",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Mangrove restoration is becoming big business, but benefits don’t always reach local people",
-          "link": "https://theconversation.com/mangrove-restoration-is-becoming-big-business-but-benefits-dont-always-reach-local-people-292874",
-          "published": "2026-10-02T12:49:42+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Beyond the monetary value of carbon credits sits something more complex: every restoration project involves trade-offs, and somebody carries them.",
           "image": null,
           "other_news": false
         },
@@ -1086,6 +1075,17 @@
           "summary": "The climate crisis is also a governance crisis - one with a persistent blindspot for women's leadership, ingenuity and readiness to take decisions for",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "Young voters fear mass shootings but are divided on gun control",
+          "link": "https://theconversation.com/young-voters-fear-mass-shootings-but-are-divided-on-gun-control-272235",
+          "published": "2026-10-15T12:13:45+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Research on the ‘massacre generation’ reveals that shared fear over mass shootings doesn’t lead to shared policy views.",
+          "image": null,
+          "other_news": true
         }
       ],
       "Other Marine News": [
@@ -1695,6 +1695,17 @@
           "other_news": true
         },
         {
+          "title": "3 activistes arrêtés pour avoir perturbé un convoi de déchets radioactifs en Allemagne",
+          "link": "https://reporterre.net/3-activistes-arretes-pour-avoir-perturbe-un-convoi-de-dechets-radioactifs-en-Allemagne",
+          "published": "2026-10-15T12:03:15+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Un convoi de déchets radioactifs a été perturbé dans la nuit du 13 au 14 octobre près de Dorsten, dans l'ouest de l'Allemagne. D",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260325__a4l69yg__v1__highres__germanynuclearenergypolitics_1_-8601f.jpg?1792065797",
+          "other_news": true
+        },
+        {
           "title": "Budget 2027 : réduire le déficit au détriment du climat est un calcul risqué",
           "link": "https://reporterre.net/Budget-2027-reduire-le-deficit-au-detriment-du-climat-est-un-calcul-risque",
           "published": "2026-10-14T12:58:38+00:00",
@@ -1838,17 +1849,6 @@
           "other_news": true
         },
         {
-          "title": "« On avance » : comment on a dépollué notre bloc opératoire",
-          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/13/comment-on-a-depollue-notre-bloc-operatoire_6793048_6125299.html",
-          "published": "2026-10-13T05:30:01+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Aujourd’hui,",
-          "image": "https://img.lemde.fr/2026/07/31/985/0/7877/3938/644/322/60/0/9fcddc7_upload-1-oe5g0qts6dud-dsc0770.jpg",
-          "other_news": true
-        },
-        {
           "title": "Le gouvernement présente un «ambitieux» plan de restauration de la nature… sans convaincre les associations",
           "link": "https://vert.eco/biodiversite/le-gouvernement-presente-un-ambitieux-plan-de-restauration-de-la-nature-sans-convaincre-les-associations/",
           "published": "2026-10-15T08:49:17+00:00",
@@ -1911,17 +1911,6 @@
           "type": "news",
           "language": "en",
           "summary": "Bushfires will only become fiercer and more frequent in the face of climate change.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "One third of food is lost or wasted: how to help farmers cut post-harvest losses",
-          "link": "https://theconversation.com/one-third-of-food-is-lost-or-wasted-how-to-help-farmers-cut-post-harvest-losses-293555",
-          "published": "2026-10-14T13:42:50+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Investments should support entire value chains, linking farmers to storage, processing, transport and reliable markets.",
           "image": null,
           "other_news": true
         },

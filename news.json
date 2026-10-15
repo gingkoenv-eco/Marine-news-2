@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:02:42.416297+00:00",
+  "generated_at": "2026-10-15T05:02:12.233475+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -16,6 +16,17 @@
         }
       ],
       "Sustainable Fisheries": [
+        {
+          "title": "Supreme Court declines to hear the case of a lobster fisherman who opposes boat tracking",
+          "link": "https://news.mongabay.com/short-article/2026/10/supreme-court-declines-to-hear-the-case-of-a-lobster-fisherman-who-opposes-boat-tracking/",
+          "published": "2026-10-14T19:42:13+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "PORTLAND, Maine (AP) — The Supreme Court has declined to hear the case of a lobster fisherman who alleged the government requiring commercial fishing",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14193657/AP26257564634869-768x512.jpg",
+          "other_news": false
+        },
         {
           "title": "Chinese squid tied to labor abuses finds an easy route into Western markets",
           "link": "https://news.mongabay.com/2026/10/chinese-squid-tied-to-labor-abuses-finds-an-easy-route-into-western-markets/",
@@ -169,13 +180,13 @@
           "other_news": false
         },
         {
-          "title": "Spawning coral release quintillions of eggs each year: new research",
-          "link": "https://theconversation.com/spawning-coral-release-quintillions-of-eggs-each-year-new-research-294058",
-          "published": "2026-10-13T18:54:07+00:00",
-          "source": "The Conversation",
+          "title": "What Can We Learn From 50 Years of Fishery Management?",
+          "link": "https://oceanconservancy.org/blog/2026/10/14/50-years-fishery-management/",
+          "published": "2026-10-14T19:00:55+00:00",
+          "source": "Ocean Conservancy",
           "type": "news",
           "language": "en",
-          "summary": "The first estimate of coral egg numbers across the Indo-Pacific shows which species can help rebuild devastated reefs.",
+          "summary": "United States ocean waters are home to diverse species of fish that feed families, anchor economies and draw millions of recreational anglers to the c",
           "image": null,
           "other_news": false
         },
@@ -250,6 +261,17 @@
           "other_news": false
         },
         {
+          "title": "Artificial mangrove roots offer a stopgap for Thailand’s eroding coastline",
+          "link": "https://news.mongabay.com/2026/10/artificial-mangrove-roots-offer-a-stopgap-for-thailands-eroding-coastline/",
+          "published": "2026-10-15T02:01:49+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Residents of Phra Samut Chedi, one of Thailand’s most erosion-prone districts, have long struggled against coastal erosion. It’s located in the muddy",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14130912/CP_01-768x512.png",
+          "other_news": false
+        },
+        {
           "title": "Mangroves gain ground globally, marking turnaround after decades of loss",
           "link": "https://news.mongabay.com/2026/10/mangroves-gain-ground-globally-marking-turnaround-after-decades-of-loss/",
           "published": "2026-10-14T16:54:37+00:00",
@@ -281,6 +303,30 @@
           "type": "news",
           "language": "en",
           "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.&#8230;\nThe post ‘Co",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Species Migration & Habitat Change": [
+        {
+          "title": "Michelin came for the food. It found what makes South Australia special",
+          "link": "https://theconversation.com/michelin-came-for-the-food-it-found-what-makes-south-australia-special-294155",
+          "published": "2026-10-15T02:48:44+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "South Australia’s first Michelin selection celebrates a food culture rooted in place, shaped by migration and sustained by the people behind every pla",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Australia has 3 competing migration policies. The problem? None are based in evidence",
+          "link": "https://theconversation.com/australia-has-3-competing-migration-policies-the-problem-none-are-based-in-evidence-293945",
+          "published": "2026-10-14T18:56:37+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "One Nation, the Coalition and Labor have all released migration plans in the last month. How do they compare to one another?",
           "image": null,
           "other_news": false
         }
@@ -386,6 +432,17 @@
           "other_news": false
         },
         {
+          "title": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
+          "link": "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-14T23:35:40+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Sgiath is thought to be the UK's first sea squirt-hunting dog and has been trained to sniff out the marine pest.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9680/live/9db34b10-c720-11f1-b881-4391ac746e04.jpg",
+          "other_news": false
+        },
+        {
           "title": "Burnham - Rosebank and Jackdaw oil and gas decisions coming 'shortly'",
           "link": "https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-14T14:13:37+00:00",
@@ -441,17 +498,6 @@
           "other_news": false
         },
         {
-          "title": "World's largest penguin colony hit by 'alarming' decline in numbers",
-          "link": "https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-07T15:00:35+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Climate change is blamed for dramatic decline of chinstrap penguins living on a remote volcanic island.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad33/live/1a300bd0-c0c6-11f1-a5b0-6f550c662e91.jpg",
-          "other_news": false
-        },
-        {
           "title": "Vaut-il mieux manger de petits poissons ou de grands poissons ?",
           "link": "https://theconversation.com/vaut-il-mieux-manger-de-petits-poissons-ou-de-grands-poissons-291616",
           "published": "2026-10-08T10:22:13+00:00",
@@ -470,6 +516,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Aux Seychelles, dans l’océan Indien, des tonnes de plastique et d’engins de pêche s’échouent sur les plages. Une étude révèle l’origine de ces déchets",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "What an ancient volcanic eruption teaches us about resilience today",
+          "link": "https://theconversation.com/what-an-ancient-volcanic-eruption-teaches-us-about-resilience-today-294258",
+          "published": "2026-10-14T18:15:56+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Even in dire circumstances, people and communities have choices about how best they can adjust, collaborate and forge new social structures.",
           "image": null,
           "other_news": false
         },
@@ -672,13 +729,13 @@
           "other_news": false
         },
         {
-          "title": "How lessons from fisheries management could help us govern Earth’s orbital space",
-          "link": "https://theconversation.com/how-lessons-from-fisheries-management-could-help-us-govern-earths-orbital-space-292734",
-          "published": "2026-10-13T18:07:13+00:00",
+          "title": "World’s oldest shipwreck discovered off coast of Turkey",
+          "link": "https://theconversation.com/worlds-oldest-shipwreck-discovered-off-coast-of-turkey-294248",
+          "published": "2026-10-14T20:27:39+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Orbital space management organizations could help ensure that future generations live with stars above their heads, rather than constellations of debr",
+          "summary": "There’s little left of the ship itself but based on clues from its cargo, a research team has tentatively dated the wreck to around 2700–2400 BCE.",
           "image": null,
           "other_news": false
         },
@@ -713,6 +770,39 @@
           "language": "en",
           "summary": "Our ocean has absorbed more than 90% of excess heat caused by human-driven climate change and a quarter of the carbon dioxide we emit. In simple terms",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "From paper parks to lasting protection, here’s what works in marine conservation",
+          "link": "https://news.mongabay.com/2026/10/from-paper-parks-to-lasting-protection-heres-what-works-in-marine-conservation/",
+          "published": "2026-10-15T03:23:39+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In recent years, there has been a steady stream of ocean conservation pledges, from French Polynesia extending marine protection across its nearly 5 m",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/03/12123146/64-Peruvian-artisanal-fisher-768x512.jpg",
+          "other_news": false
+        },
+        {
+          "title": "“Stunningly short-sighted” NOAA grant cuts threaten US climate resilience",
+          "link": "https://news.mongabay.com/short-article/2026/10/stunningly-short-sighted-noaa-grant-cuts-threaten-us-climate-resilience/",
+          "published": "2026-10-14T22:52:47+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "After Donald Trump began his second term as president of the U.S. in 2025, his administration moved to dramatically cut federal funding for agencies i",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14224341/PHOTO-Biloxi-Mississippi-living-shoreline-060622-NOAA-Eric-Sparks.jpg-copy-768x512.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Act before El Niño: Expert worries about deepening hunger in East and South Africa",
+          "link": "https://news.mongabay.com/2026/10/act-before-el-nino-expert-worries-about-deepening-hunger-in-east-and-south-africa/",
+          "published": "2026-10-14T19:46:25+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "El Niño, a naturally occurring climate pattern that involves unusually warm surface waters in the central and eastern equatorial Pacific Ocean can alt",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14194014/Banner-image-vehicule-et-inondation-768x512.png",
           "other_news": false
         },
         {
@@ -769,45 +859,10 @@
           "summary": "COLOMBO – Sri Lanka’s spectacled cobra (Naja naja) carries a two-million-year-old genetic mystery, and a new study finds that the island’s cobras form",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/13150621/1.-Indian-cobra.-Photo-credit-Bhasuru-Prabashwara-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "First Nation-led effort replants kelp forests in Clayoquot Sound",
-          "link": "https://news.mongabay.com/short-article/2026/10/first-nation-led-effort-replants-kelp-forests-in-clayoquot-sound/",
-          "published": "2026-10-12T13:27:56+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Founder&#8217;s Briefs: An occasional series where Mongabay founder Rhett Ayers Butler shares analysis, perspectives and story summaries. In Clayoquot",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/02164446/Mongabay-Kelp-Photo-3-Teams-working-with-kelp-in-Clayoquot-Sound-photo-credit-Graeme-Owsianski-768x512.jpg",
-          "other_news": false
         }
       ]
     },
     "To Watch / Read / Listen": {
-      "Plastic & Ocean Pollution": [
-        {
-          "title": "Oil pollution is drifting into marine protected areas, report finds",
-          "link": "https://news.mongabay.com/short-article/2026/10/oil-pollution-is-drifting-into-marine-protected-areas-report-finds/",
-          "published": "2026-10-12T12:37:55+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Oil slicks from vessels and offshore oil operations repeatedly drifted into marine protected areas around the world between 2022 and 2025, a new analy",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/12123247/4690909964_eea147e447_o-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Community action to protect Cambodia’s seas: Interview with commune leader Sorn Srenh",
-          "link": "https://news.mongabay.com/2026/10/community-action-to-protect-cambodias-seas-interview-with-commune-leader-sorn-srenh/",
-          "published": "2026-10-12T09:53:15+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "PHNOM PENH — In Cambodia’s Koh Sdach archipelago, where turquoise waters hide mounting environmental pressures from overfishing and plastic waste to c",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09120806/IMG_9736-Sorn-Srenh-768x512.jpg",
-          "other_news": false
-        }
-      ],
       "Marine Biodiversity & Conservation": [
         {
           "title": "Eavesdropping on Malaysia’s dolphins: Interview with marine bioacoustician Saliza Bono",
@@ -997,6 +1052,17 @@
           "language": "en",
           "summary": "New report shows key indicators of Earth’s health are ‘outside the safe operating space’ as climate disaster loomsThe planetary life support systems r",
           "image": "https://i.guim.co.uk/img/media/994406d78130adfd3f6fc3d90601f912474310dc/942_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=36dd792b32bb417b759f4f0521c284e9",
+          "other_news": true
+        },
+        {
+          "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+          "link": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-14T23:32:11+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25f5/live/ee4847a0-c7ad-11f1-b41f-d7a6cb474575.jpg",
           "other_news": true
         },
         {
@@ -1715,17 +1781,6 @@
           "other_news": true
         },
         {
-          "title": "Amélie Cadier-Loriaud, radiologue : « Octobre rose occulte les causes environnementales du cancer du sein, qui ne relèvent pas de choix individuels »",
-          "link": "https://www.lemonde.fr/idees/article/2026/10/12/amelie-cadier-loriaud-radiologue-octobre-rose-occulte-les-causes-environnementales-du-cancer-du-sein-qui-ne-relevent-pas-de-choix-individuels_6792690_3232.html",
-          "published": "2026-10-12T18:00:11+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans un entretien au « Monde », la médecin, doctorante en philosophie, autrice de « Nos corps politiques », invite à penser la santé comme un bien com",
-          "image": "https://img.lemde.fr/2026/10/08/1094/0/2778/1389/644/322/60/0/bfe04fa_upload-1-7tpcc2wxlrvy-ame-lie-cadier-loriaud.jpg",
-          "other_news": true
-        },
-        {
           "title": "«On est né avec le nucléaire, mais on ne veut pas que ça devienne n’importe quoi» : dans la Manche, levée de boucliers face au «projet du siècle» d’Orano",
           "link": "https://vert.eco/rapports-de-force/on-est-ne-avec-le-nucleaire-mais-on-ne-veut-pas-que-ca-devienne-nimporte-quoi-dans-la-manche-levee-de-boucliers-face-au-projet-du-siecle-dorano/",
           "published": "2026-10-14T09:42:29+00:00",
@@ -1755,6 +1810,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Plus de 50 rassemblements sont prévus samedi et dimanche partout en France contre l’Omnibus X, un projet de réglementation européenne qui pourrait ass",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Australia urgently needs a national bushfire database. Here’s what it could look like",
+          "link": "https://theconversation.com/australia-urgently-needs-a-national-bushfire-database-heres-what-it-could-look-like-292119",
+          "published": "2026-10-14T18:57:05+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Bushfires will only become fiercer and more frequent in the face of climate change.",
           "image": null,
           "other_news": true
         },
@@ -1789,17 +1855,6 @@
           "language": "en",
           "summary": "SHENKENG, Taiwan — Ten kilometers east of Taipei’s high-rises and dense traffic, the city gives way to a succession of steep, forested ridgelines shel",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09102849/The-Future-of-Tea_Taiwan_Michael-O-Snyder-3000px_72dpi-22-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Researcher who listens to forests wins 2026 Pritzker Environmental Genius Award",
-          "link": "https://news.mongabay.com/short-article/2026/10/researcher-who-listens-to-forests-wins-2026-pritzker-environmental-genius-award/",
-          "published": "2026-10-12T13:21:12+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Zuzana Burivalova, a tropical forest ecologist who uses sound to understand the health of forests globally, was recently named the winner of the 2026",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2021/12/03001203/zuzana-burivalova-in-Bavaria-768x512.jpg",
           "other_news": true
         }
       ]

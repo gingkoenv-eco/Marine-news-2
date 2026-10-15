@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T05:02:12.233475+00:00",
+  "generated_at": "2026-10-15T11:31:02.397611+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -36,6 +36,19 @@
           "language": "en",
           "summary": "In recent years, a series of high-profile investigations implicated the Chinese fleets targeting squid in international waters in illegal fishing prac",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/12143406/1-fishers-with-squid-768x512.jpg",
+          "other_news": false
+        }
+      ],
+      "Deep Ocean & Mesophotic Ecosystems": [
+        {
+          "title": "Belize looks to the deep sea to complete its 30% ocean protection pledge",
+          "link": "https://news.mongabay.com/2026/10/belize-looks-to-the-deep-sea-to-complete-its-30-ocean-protection-pledge/",
+          "published": "2026-10-15T07:00:05+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Belize is turning to its deep waters to fulfill its pledge to protect 30% of its ocean and achieve the sixth milestone of its Blue Bond agreement. A d",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/13165408/OceanImageBank_ConnorHolland_25-768x512.jpg",
           "other_news": false
         }
       ],
@@ -124,6 +137,17 @@
         }
       ],
       "Marine Biodiversity & Conservation": [
+        {
+          "title": "‘Like selling wolves from Yellowstone’: how protected US sharks are being sold off to foreign aquariums",
+          "link": "https://www.theguardian.com/environment/2026/oct/15/conservation-aquariums-endangered-sharks-protected-waters-delaware-bay-us-sand-tiger-sharks",
+          "published": "2026-10-15T09:00:14+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "While anglers cannot take endangered sand tiger sharks, a loophole lets private firms catch the fish to sell abroad, profiting from Delaware Bay’s con",
+          "image": "https://i.guim.co.uk/img/media/59bed300ee04ff5471e838c9e51271cb36e08e85/181_0_5010_4008/master/5010.jpg?width=140&quality=85&auto=format&fit=max&s=7cc15723849af8c44ca28cf5e583468b",
+          "other_news": false
+        },
         {
           "title": "Whales on Australia’s ‘humpback highway’ are at growing risk of injury from boat and propeller strikes",
           "link": "https://www.theguardian.com/environment/2026/oct/04/whales-australia-humpback-highway-boat-propellor-strikes",
@@ -421,17 +445,6 @@
           "other_news": false
         },
         {
-          "title": "The love of her life died at sea hunting shipwrecks. Now she’s taking the helm",
-          "link": "https://www.theguardian.com/environment/ng-interactive/2026/sep/15/shipwreck-diver-jennifer-sellitti",
-          "published": "2026-09-15T13:00:43+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "After Jennifer Sellitti lost her partner Joe Mazraani, she thought everything was over. Then she inherited his shipAfter Joe died, Jennifer Sellitti f",
-          "image": "https://i.guim.co.uk/img/media/5b837af8f978c3ac3a27d23196ed8a0f85e3d363/103_81_2795_2235/master/2795.jpg?width=140&quality=85&auto=format&fit=max&s=b73a122587d3877c8dc271f56ddc9aa4",
-          "other_news": false
-        },
-        {
           "title": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
           "link": "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-14T23:35:40+00:00",
@@ -498,6 +511,17 @@
           "other_news": false
         },
         {
+          "title": "Entre lumière et ténèbres, comment la profondeur et l’alternance jour nuit organisent la vie dans l’océan",
+          "link": "https://theconversation.com/entre-lumiere-et-tenebres-comment-la-profondeur-et-lalternance-jour-nuit-organisent-la-vie-dans-locean-293958",
+          "published": "2026-10-15T08:56:23+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les proies reviennent en surface la nuit pour se nourrir, souvent au risque d’être mangées par leurs prédateurs. Une organisation fragile que le chang",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Vaut-il mieux manger de petits poissons ou de grands poissons ?",
           "link": "https://theconversation.com/vaut-il-mieux-manger-de-petits-poissons-ou-de-grands-poissons-291616",
           "published": "2026-10-08T10:22:13+00:00",
@@ -516,6 +540,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Aux Seychelles, dans l’océan Indien, des tonnes de plastique et d’engins de pêche s’échouent sur les plages. Une étude révèle l’origine de ces déchets",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Cities are sinking – but citywide averages hide the real problem",
+          "link": "https://theconversation.com/cities-are-sinking-but-citywide-averages-hide-the-real-problem-294213",
+          "published": "2026-10-15T10:47:21+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Satellite data shows how unevenly cities are sinking. In Jakarta, some coastal areas are subsiding by as much as 7cm a year.",
           "image": null,
           "other_news": false
         },
@@ -663,17 +698,6 @@
           "other_news": false
         },
         {
-          "title": "Des millions de saumons agglutinés dans des cuves : le projet « démesuré » d'une entreprise française",
-          "link": "https://reporterre.net/Bientot-des-millions-saumons-eleves-en-cuve-Notre-enquete-video-sur-Pure-Salmon",
-          "published": "2026-10-06T15:15:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "2 millions de saumons abattus chaque année, c'est le projet de la société Pure Salmon, qui souhaite construire au Verdon-sur-Mer",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/vignette-pure-salmon4-55566.png?1791299702",
-          "other_news": false
-        },
-        {
           "title": "World’s largest penguin colony suffers steep decline in numbers",
           "link": "https://oceanographicmagazine.com/news/worlds-largest-penguin-colony-suffers-steep-decline-in-numbers/",
           "published": "2026-10-09T12:43:10+00:00",
@@ -704,6 +728,17 @@
           "language": "en",
           "summary": "Researchers are now using AI to track plankton as warming seas reshuffle the base of the marine food web, with fish possibly getting less food and foo",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Au Mexique, la tempête Rachel cause au moins huit morts",
+          "link": "https://www.lemonde.fr/international/article/2026/10/15/au-mexique-la-tempete-rachel-cause-au-moins-huit-morts_6794216_3210.html",
+          "published": "2026-10-15T08:26:46+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Rachel a également causé d’importantes inondations en Californie, notamment à Long Beach et Newport Beach, sans faire de victime. Le pays connaît une",
+          "image": "https://img.lemde.fr/2026/10/02/318/0/4146/2073/644/322/60/0/21ebc57_ftp-1-spnp44ogp09b-2026-10-02t001745z-885797419-rc2hunarkte5-rtrmadp-3-storm-rachel.JPG",
           "other_news": false
         },
         {
@@ -770,6 +805,17 @@
           "language": "en",
           "summary": "Our ocean has absorbed more than 90% of excess heat caused by human-driven climate change and a quarter of the carbon dioxide we emit. In simple terms",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Nations at southern bluefin tuna meeting stop short of adopting new seabird protections",
+          "link": "https://news.mongabay.com/2026/10/nations-at-southern-bluefin-tuna-meeting-stop-short-of-adopting-new-seabird-protections/",
+          "published": "2026-10-15T10:17:25+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Seabird protections drew debate at the annual meeting of the Commission for the Conservation of Southern Bluefin Tuna (CCSBT), held Oct. 5-8 in Brusse",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/15063719/6_B_Wandering_albatrosses_South_Georgia_Jamie_Latimer-768x512.jpg",
           "other_news": false
         },
         {
@@ -928,6 +974,17 @@
           "other_news": true
         },
         {
+          "title": "Des futurs médecins (enfin) formés aux liens entre pollutions et cancer",
+          "link": "https://reporterre.net/Des-futurs-medecins-enfin-formes-aux-liens-entre-pollutions-et-cancer",
+          "published": "2026-10-15T07:22:41+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Pollution de l'air, pesticides… Une première formation spécifique sur les causes environnementales du cancer a été donnée aux in",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/octobre_2026_reporterre_cancer3-13e5b.jpg?1792049060",
+          "other_news": true
+        },
+        {
           "title": "Mercure : la pollution pourrait s'aggraver à cause du changement climatique",
           "link": "https://reporterre.net/Mercure-la-pollution-pourrait-s-aggraver-a-cause-du-changement-climatique",
           "published": "2026-10-08T18:00:00+00:00",
@@ -958,6 +1015,17 @@
           "language": "fr",
           "summary": "Le projet de décret devant préserver les nappes et rivières des pollutions, découlant de la loi d’urgence adoptée cet été, suscite l’inquiétude de col",
           "image": "https://img.lemde.fr/2025/12/23/1008/0/6048/3024/644/322/60/0/d6a7792_upload-1-rerfqs0aixga-maxnewsspecialtwo120223.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Santé, pollutions, extrême droite : Vert lance un grand appel à enquêtes pour inverser la vapeur",
+          "link": "https://vert.eco/vert-vous-parle/sante-pollutions-extreme-droite-vert-lance-un-grand-appel-a-enquetes-pour-inverser-la-vapeur/",
+          "published": "2026-10-15T08:34:44+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "À l’approche d’échéances électorales cruciales, Vert veut produire les meilleures enquêtes sur deux sujets vitaux : la santé et les pollutions ; l’ext",
+          "image": null,
           "other_news": true
         }
       ],
@@ -1099,17 +1167,6 @@
           "other_news": true
         },
         {
-          "title": "Owls ringed to measure benefits of wildlife farming",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvd3xyyjpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-13T11:22:00+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A barn owl and 15 chicks are ringed to see if conservation-focused farming is working.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a2/live/82c3a8e0-c6e4-11f1-bf38-57dc5cd42af2.jpg",
-          "other_news": true
-        },
-        {
           "title": "Projets éoliens et vote d’extrême droite : ce que révèle une étude inédite",
           "link": "https://theconversation.com/projets-eoliens-et-vote-dextreme-droite-ce-que-revele-une-etude-inedite-293774",
           "published": "2026-10-14T14:20:36+00:00",
@@ -1150,6 +1207,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Utilisé comme fongicide en agriculture, notamment biologique, le cuivre suscite des inquiétudes quant à sa toxicité sur l’environnement et la santé. Q",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Five types of disinformation – and how to spot red flags that trigger climate inaction",
+          "link": "https://theconversation.com/five-types-of-disinformation-and-how-to-spot-red-flags-that-trigger-climate-inaction-278588",
+          "published": "2026-10-15T10:16:52+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Disinformation is false, fabricated or manipulated information that intends to deceive. Here’s how to counter it with scientific evidence.",
           "image": null,
           "other_news": true
         },
@@ -1271,17 +1339,6 @@
           "type": "news",
           "language": "en",
           "summary": "When free-floating patches of seaweed are pushed together by currents and winds, seaweed strandings can inundate the coastline with often devastating",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "How the new Great British Grid could help households benefit from abundant and cheap renewable power",
-          "link": "https://theconversation.com/how-the-new-great-british-grid-could-help-households-benefit-from-abundant-and-cheap-renewable-power-293295",
-          "published": "2026-10-01T14:23:12+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "As Britain builds more renewable energy, it will need to get better at encouraging people to use electricity when it’s plentiful.",
           "image": null,
           "other_news": true
         },
@@ -1726,6 +1783,17 @@
           "other_news": true
         },
         {
+          "title": "Biodiversité : la France présente un plan de restauration de la nature sans ambition et sous-financé",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/15/biodiversite-la-france-presente-un-plan-de-restauration-de-la-nature-sans-ambition-et-sous-finance_6794433_3244.html",
+          "published": "2026-10-15T12:30:12+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les Etats membres de l’Union européenne doivent traduire au niveau national les intentions de la loi européenne sur la restauration de la nature. La F",
+          "image": "https://img.lemde.fr/2026/05/13/666/0/8000/4000/644/322/60/0/eb65072_upload-1-w2ydak3vwh7v-000-487j4nt.jpg",
+          "other_news": true
+        },
+        {
           "title": "Jean-Marc Jancovici : « Tant qu’il n’y a pas dans la population une compréhension partagée du climat, le politique ne bougera pas »",
           "link": "https://www.lemonde.fr/politique/article/2026/10/14/jean-marc-jancovici-tant-qu-il-n-y-a-pas-dans-la-population-une-comprehension-partagee-du-climat-le-politique-ne-bougera-pas_6793395_823448.html",
           "published": "2026-10-14T06:00:18+02:00",
@@ -1781,6 +1849,17 @@
           "other_news": true
         },
         {
+          "title": "Le gouvernement présente un «ambitieux» plan de restauration de la nature… sans convaincre les associations",
+          "link": "https://vert.eco/biodiversite/le-gouvernement-presente-un-ambitieux-plan-de-restauration-de-la-nature-sans-convaincre-les-associations/",
+          "published": "2026-10-15T08:49:17+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Mercredi, le ministère de la transition écologique a dévoilé son plan national de restauration de la nature, qui vise à remettre sur pied les écosystè",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "«On est né avec le nucléaire, mais on ne veut pas que ça devienne n’importe quoi» : dans la Manche, levée de boucliers face au «projet du siècle» d’Orano",
           "link": "https://vert.eco/rapports-de-force/on-est-ne-avec-le-nucleaire-mais-on-ne-veut-pas-que-ca-devienne-nimporte-quoi-dans-la-manche-levee-de-boucliers-face-au-projet-du-siecle-dorano/",
           "published": "2026-10-14T09:42:29+00:00",
@@ -1810,6 +1889,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Plus de 50 rassemblements sont prévus samedi et dimanche partout en France contre l’Omnibus X, un projet de réglementation européenne qui pourrait ass",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Australia’s ‘digital duty of care’ was just introduced to parliament. So what’s in the bill?",
+          "link": "https://theconversation.com/australias-digital-duty-of-care-was-just-introduced-to-parliament-so-whats-in-the-bill-294464",
+          "published": "2026-10-15T06:37:46+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "This is a large and complex piece of legislation, and the government has made adjustments in response to expert feedback.",
           "image": null,
           "other_news": true
         },
@@ -1844,17 +1934,6 @@
           "language": "en",
           "summary": "What do snakes, poisonous frogs, and wind turbines have in common? Scientists tested whether warning color patterns inspired by nature could help bird",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14085750/Mongabay_Thumbnail_Turbines_Featured-338x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Photos: Taiwan’s tea revival blends ancient terraces with new climate adaptations",
-          "link": "https://news.mongabay.com/2026/10/photos-taiwans-tea-revival-blends-ancient-terraces-with-new-climate-adaptations/",
-          "published": "2026-10-13T07:34:06+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "SHENKENG, Taiwan — Ten kilometers east of Taipei’s high-rises and dense traffic, the city gives way to a succession of steep, forested ridgelines shel",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/09102849/The-Future-of-Tea_Taiwan_Michael-O-Snyder-3000px_72dpi-22-768x512.jpg",
           "other_news": true
         }
       ]

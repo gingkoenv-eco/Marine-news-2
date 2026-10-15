@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T12:41:39.125663+00:00",
+  "generated_at": "2026-10-15T17:01:14.294930+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -252,17 +252,6 @@
       ],
       "Nature-Based Solutions & Restoration": [
         {
-          "title": "Baleines, mangroves, phytoplancton… captent-ils vraiment notre CO₂ ?",
-          "link": "https://theconversation.com/baleines-mangroves-phytoplancton-captent-ils-vraiment-notre-co-286200",
-          "published": "2026-09-24T09:39:35+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les écosystèmes marins –&nbsp;des mangroves aux baleines, en passant par le phytoplancton&nbsp;–contiennent du carbone, mais gare à ne pas en tirer le",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Seagrass bounces back in Cairns, but fish populations are changed",
           "link": "https://oceanographicmagazine.com/news/seagrass-bounces-back-in-cairns-but-fish-populations-are-changed/",
           "published": "2026-10-06T14:25:06+00:00",
@@ -329,17 +318,6 @@
           "type": "news",
           "language": "en",
           "summary": "South Australia’s first Michelin selection celebrates a food culture rooted in place, shaped by migration and sustained by the people behind every pla",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Australia has 3 competing migration policies. The problem? None are based in evidence",
-          "link": "https://theconversation.com/australia-has-3-competing-migration-policies-the-problem-none-are-based-in-evidence-293945",
-          "published": "2026-10-14T18:56:37+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "One Nation, the Coalition and Labor have all released migration plans in the last month. How do they compare to one another?",
           "image": null,
           "other_news": false
         }
@@ -464,28 +442,6 @@
           "language": "en",
           "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Crew searching for Amelia Earhart arrives at crab-infested island",
-          "link": "https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-12T22:01:43+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Researchers will sleep on their ship to avoid giant crabs that can lift heavy weights, split open coconuts, and may have played a role in Earhart's de",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21e2/live/2c2cb300-c67b-11f1-a64c-550be9e3c66b.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Storm Rachel batters Southern California, brings flooding to Las Vegas",
-          "link": "https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-12T16:12:57+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Large waves from the post-tropical cyclone battered homes in Long Beach, and brought flooding to parts of Las Vegas near the famed Strip.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c26/live/f91f9640-c656-11f1-8600-efb62b613ab5.jpg",
           "other_news": false
         },
         {
@@ -720,6 +676,17 @@
           "other_news": false
         },
         {
+          "title": "L’Arabie saoudite, sous la pression des attaques des houthistes, tente de protéger ses exportations de pétrole",
+          "link": "https://www.lemonde.fr/economie/article/2026/10/15/petrole-sous-pression-des-attaques-l-arabie-saoudite-tente-de-proteger-ses-exportations_6794616_3234.html",
+          "published": "2026-10-15T18:30:10+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La résilience du principal producteur d’or noir du Golfe est mise à l’épreuve par les frappes des houthistes du Yémen, alliés de l’Iran, contre ses in",
+          "image": "https://img.lemde.fr/2026/10/15/469/0/3999/1999/644/322/60/0/5dd9fe7_upload-1-hn4u5qjef96i-000-d26c2ae.jpg",
+          "other_news": false
+        },
+        {
           "title": "Au Mexique, la tempête Rachel cause au moins huit morts",
           "link": "https://www.lemonde.fr/international/article/2026/10/15/au-mexique-la-tempete-rachel-cause-au-moins-huit-morts_6794216_3210.html",
           "published": "2026-10-15T08:26:46+02:00",
@@ -739,17 +706,6 @@
           "language": "fr",
           "summary": "Dans « Océans. Le nouveau partage du monde », Guillaume Pitron, spécialiste de géopolitique et des matières premières, examine les prémices d’un boule",
           "image": "https://img.lemde.fr/2026/10/08/160/0/1920/960/644/322/60/0/fa5bb58_upload-1-t6xgwoegnwjs-oceans-2.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Découverte de nouveaux courants marins grâce aux éléphants de mer des Kerguelen",
-          "link": "https://www.lemonde.fr/sciences/article/2026/10/13/decouverte-de-nouveaux-courants-marins-grace-aux-elephants-de-mer-des-kerguelen_6793087_1650684.html",
-          "published": "2026-10-13T11:30:01+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Grâce à la colonie de quelque 350 000 têtes qui vit aux îles Kerguelen, dans l’océan Austral, les chercheurs ont pu collecter des données avec une pré",
-          "image": "https://img.lemde.fr/2026/10/12/255/0/3073/1536/644/322/60/0/baad1df_upload-1-i9jhhvuvn8i5-media-appel.png",
           "other_news": false
         },
         {
@@ -819,7 +775,7 @@
           "other_news": false
         },
         {
-          "title": "“Stunningly short-sighted” NOAA grant cuts threaten US climate resilience",
+          "title": "“Stunningly short-sighted.” NOAA grant cuts threaten US climate resilience",
           "link": "https://news.mongabay.com/short-article/2026/10/stunningly-short-sighted-noaa-grant-cuts-threaten-us-climate-resilience/",
           "published": "2026-10-14T22:52:47+00:00",
           "source": "Mongabay Marine",
@@ -908,19 +864,6 @@
           "language": "en",
           "summary": "KUALA LUMPUR — Malaysia’s coastal waters are home to 27 species of marine mammals. These include protected species like the Indo-Pacific humpback dolp",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14115427/Saliza4-IndoPacificHumpback-2-768x512.jpg",
-          "other_news": false
-        }
-      ],
-      "Species Migration & Habitat Change": [
-        {
-          "title": "Thousands of sea turtles reach Mexico in yearly migration threatened by climate crisis – video",
-          "link": "https://www.theguardian.com/environment/video/2026/sep/15/thousands-of-sea-turtles-reach-mexico-in-yearly-migration-threatened-by-climate-crisis-video",
-          "published": "2026-09-15T15:39:26+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "More than 330,000 sea turtles arrived in southern Mexico in a mass nesting phenomenon known as an ‘arribada’.The sixth arribada of the season, which b",
-          "image": "https://i.guim.co.uk/img/media/cc1bd4fa09ba7f5f49796f92c877ad5d1be2c16b/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=7ac95c323557914761449c0efb74dbea",
           "other_news": false
         }
       ],
@@ -1042,6 +985,17 @@
           "other_news": true
         },
         {
+          "title": "Endangered species in Canada face extensive delays receiving protection",
+          "link": "https://theconversation.com/endangered-species-in-canada-face-extensive-delays-receiving-protection-293187",
+          "published": "2026-10-15T15:05:06+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As climate change and human disturbance accelerate, delays in implementing protections can have irreversible consequences for wildlife.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Solutions to the risks posed by the global pet trade could be enacted quickly",
           "link": "https://news.mongabay.com/podcast/2026/10/solutions-to-the-risks-posed-by-the-global-pet-trade-could-be-enacted-quickly/",
           "published": "2026-10-13T20:01:56+00:00",
@@ -1073,6 +1027,17 @@
           "type": "news",
           "language": "en",
           "summary": "The climate crisis is also a governance crisis - one with a persistent blindspot for women's leadership, ingenuity and readiness to take decisions for",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "There’s no clock on the grief of losing an infant, but there is a deadline to return to work",
+          "link": "https://theconversation.com/theres-no-clock-on-the-grief-of-losing-an-infant-but-there-is-a-deadline-to-return-to-work-288155",
+          "published": "2026-10-15T13:48:04+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Support after a pregnancy or infant loss varies widely. Without better evidence, policy reforms may fall short of the needs of Canadian families.",
           "image": null,
           "other_news": true
         },
@@ -1120,6 +1085,17 @@
           "language": "en",
           "summary": "New report shows key indicators of Earth’s health are ‘outside the safe operating space’ as climate disaster loomsThe planetary life support systems r",
           "image": "https://i.guim.co.uk/img/media/994406d78130adfd3f6fc3d90601f912474310dc/942_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=36dd792b32bb417b759f4f0521c284e9",
+          "other_news": true
+        },
+        {
+          "title": "£15m for zero-emission testing at Belfast Harbour",
+          "link": "https://www.bbc.co.uk/news/articles/c6kgqr9n8082o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-15T14:55:03+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "It comes after a £15m investment from UK Research and Innovation's Local Innovation Partnerships Fund.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca1/live/a26c8a10-c8a4-11f1-929c-0b57deb4f9df.jpg",
           "other_news": true
         },
         {
@@ -1398,6 +1374,28 @@
           "other_news": true
         },
         {
+          "title": "COP17: Tracking progress towards the UN’s 2030 nature targets",
+          "link": "https://interactive.carbonbrief.org/nature-targets-2030-progress/",
+          "published": "2026-10-15T16:07:42+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Countries will meet in Armenia this month to carry out the first global review of progress towards meeting key nature&#8230;\nThe post COP17: Tracking",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "COP17: Developed countries ‘fall far short’ of UN targets for nature finance",
+          "link": "https://www.carbonbrief.org/cop17-developed-countries-fall-far-short-of-un-targets-for-nature-finance",
+          "published": "2026-10-15T15:40:15+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "The amount of finance for nature delivered to date “falls far short” of what is needed to meet the UN’s&#8230;\nThe post COP17: Developed countries ‘fa",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Analysis: Wind and solar save UK from gas imports worth £5.9bn during Hormuz crisis",
           "link": "https://www.carbonbrief.org/analysis-wind-and-solar-save-uk-from-gas-imports-worth-5-9bn-during-hormuz-crisis",
           "published": "2026-09-30T14:12:01+00:00",
@@ -1427,28 +1425,6 @@
           "type": "news",
           "language": "en",
           "summary": "The latest surge in fossil-fuel prices means it is now up to nine times cheaper in the UK to drive&#8230;\nThe post Analysis: EVs are now nine times ch",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Analysis: India’s power-sector emissions flat for two years due to clean-energy surge",
-          "link": "https://www.carbonbrief.org/analysis-indias-power-sector-emissions-flat-for-two-years-due-to-clean-energy-surge",
-          "published": "2026-09-16T23:01:00+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "A surge in clean energy has kept carbon dioxide (CO2) emissions in check across India’s power sector, with no growth&#8230;\nThe post Analysis: India’s",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis",
-          "link": "https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis",
-          "published": "2026-09-16T13:34:02+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Global fossil-fuel emissions are set to fall by around 0.5% in 2026 amid the fallout from the Hormuz crisis, according&#8230;\nThe post Analysis: Globa",
           "image": null,
           "other_news": true
         },
@@ -1695,6 +1671,17 @@
           "other_news": true
         },
         {
+          "title": "Le plan pour la nature de la France n'a aucune ambition malgré l'insistance de l'Europe",
+          "link": "https://reporterre.net/Le-plan-pour-la-nature-de-la-France-n-a-aucune-ambition-malgre-l-insistance-de-l-Europe",
+          "published": "2026-10-15T13:45:22+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "La Commission européenne demande à ses États membres de restaurer l'ensemble des écosystèmes dégradés d'ici 2050. Réponse de la",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/24802805906_fdb35af39b_h-beb56.jpg?1792071924",
+          "other_news": true
+        },
+        {
           "title": "3 activistes arrêtés pour avoir perturbé un convoi de déchets radioactifs en Allemagne",
           "link": "https://reporterre.net/3-activistes-arretes-pour-avoir-perturbe-un-convoi-de-dechets-radioactifs-en-Allemagne",
           "published": "2026-10-15T12:03:15+00:00",
@@ -1794,6 +1781,17 @@
           "other_news": true
         },
         {
+          "title": "Le ministre délégué à la transition écologique annonce une réforme de l’évaluation environnementale",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/15/le-ministre-delegue-a-la-transition-ecologique-annonce-une-reforme-de-l-evaluation-environnementale_6794620_3244.html",
+          "published": "2026-10-15T18:45:01+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Mathieu Lefèvre a présenté, jeudi, une réorganisation des autorités environnementales chargées d’émettre un avis sur l’impact sur l’environnement de g",
+          "image": "https://img.lemde.fr/2026/06/30/417/0/5009/2504/644/322/60/0/7d685ec_ftp-1-bjgwizs2qdaw-2026-06-30t135345z-310130075-rc2d4mat667x-rtrmadp-3-france-politics.JPG",
+          "other_news": true
+        },
+        {
           "title": "Biodiversité : la France présente un plan de restauration de la nature sans ambition et sous-financé",
           "link": "https://www.lemonde.fr/planete/article/2026/10/15/biodiversite-la-france-presente-un-plan-de-restauration-de-la-nature-sans-ambition-et-sous-finance_6794433_3244.html",
           "published": "2026-10-15T12:30:12+02:00",
@@ -1824,28 +1822,6 @@
           "language": "fr",
           "summary": "L’Angleterre s’est détournée du système de paiements directs aux agriculteurs, les remplaçant par des subsides récompensant les mesures environnementa",
           "image": "https://img.lemde.fr/2026/10/13/649/0/5583/2791/644/322/60/0/ba68e23_upload-1-mkm7gjgrmnnq-000-c3yr6y9.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Les émissions de gaz à effet de serre en France diminuent du fait de l’envolée des prix des carburants",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/13/les-emissions-de-gaz-a-effet-de-serre-en-france-diminuent-du-fait-de-l-envolee-des-prix-des-carburants_6793062_3244.html",
-          "published": "2026-10-13T06:50:07+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Selon l’organisme chargé du suivi des émissions, les rejets carbonés ont diminué de 4,1 % au premier semestre et pourraient baisser de 2,8 % sur l’ens",
-          "image": "https://img.lemde.fr/2026/09/22/1142/0/2500/1250/644/322/60/0/ec9d4ca_upload-1-0pui3wuaojy7-lewisjoly-lemonde-22-09-26-002.JPG",
-          "other_news": true
-        },
-        {
-          "title": "Au Niger, une éruption de pétrole provoque un incident environnemental « d’une gravité exceptionnelle »",
-          "link": "https://www.lemonde.fr/afrique/article/2026/10/13/au-niger-une-eruption-de-petrole-provoque-un-incident-environnemental-d-une-gravite-exceptionnelle_6793055_3212.html",
-          "published": "2026-10-13T05:45:37+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "D’importantes quantités de pétrole brut et de gaz sont projetées à plus de dix mètres de hauteur, ont expliqué les autorités. Les causes de l’incident",
-          "image": "https://img.lemde.fr/2026/10/13/158/0/490/245/644/322/60/0/c853592_upload-1-u0spvhvzbcqp-niger.png",
           "other_news": true
         },
         {
@@ -1882,13 +1858,13 @@
           "other_news": true
         },
         {
-          "title": "Manifestations des 10 et 11 octobre contre la loi Omnibus «pesticides» : la carte des rassemblements près de chez vous",
-          "link": "https://vert.eco/rapports-de-force/manifestations-des-10-et-11-octobre-contre-la-loi-omnibus-pesticides-la-carte-des-rassemblements-pres-de-chez-vous/",
-          "published": "2026-10-09T08:48:12+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Early humans in America endured climate chaos – new research",
+          "link": "https://theconversation.com/early-humans-in-america-endured-climate-chaos-new-research-293174",
+          "published": "2026-10-15T13:57:18+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Plus de 50 rassemblements sont prévus samedi et dimanche partout en France contre l’Omnibus X, un projet de réglementation européenne qui pourrait ass",
+          "language": "en",
+          "summary": "People who lived in New Mexico more than 20,000 years ago experienced rapid climate change.",
           "image": null,
           "other_news": true
         },
@@ -1900,17 +1876,6 @@
           "type": "news",
           "language": "en",
           "summary": "This is a large and complex piece of legislation, and the government has made adjustments in response to expert feedback.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Australia urgently needs a national bushfire database. Here’s what it could look like",
-          "link": "https://theconversation.com/australia-urgently-needs-a-national-bushfire-database-heres-what-it-could-look-like-292119",
-          "published": "2026-10-14T18:57:05+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Bushfires will only become fiercer and more frequent in the face of climate change.",
           "image": null,
           "other_news": true
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:47:45.975742+00:00",
+  "generated_at": "2026-10-16T05:01:22.878345+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -305,19 +305,6 @@
           "type": "news",
           "language": "en",
           "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.&#8230;\nThe post ‘Co",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Species Migration & Habitat Change": [
-        {
-          "title": "Michelin came for the food. It found what makes South Australia special",
-          "link": "https://theconversation.com/michelin-came-for-the-food-it-found-what-makes-south-australia-special-294155",
-          "published": "2026-10-15T02:48:44+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "South Australia’s first Michelin selection celebrates a food culture rooted in place, shaped by migration and sustained by the people behind every pla",
           "image": null,
           "other_news": false
         }
@@ -676,6 +663,17 @@
           "other_news": false
         },
         {
+          "title": "Le Groenland vise l’interdiction de l’exploitation minière en eaux profondes jusqu’en 2029",
+          "link": "https://www.lemonde.fr/international/article/2026/10/16/le-groenland-vise-l-interdiction-de-l-exploitation-miniere-en-eaux-profondes-jusqu-en-2029_6795185_3210.html",
+          "published": "2026-10-16T06:15:12+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Ce territoire autonome danois redoute les conséquences que pourrait avoir l’exploitation minière en haute mer sur l’environnement. En vertu de la prop",
+          "image": "https://img.lemde.fr/2025/03/27/392/0/5612/2806/644/322/60/0/0629dd6_ftp-import-images-1-owdjdb2c7wsu-5439923-01-06.jpg",
+          "other_news": false
+        },
+        {
           "title": "L’Arabie saoudite, sous la pression des attaques des houthistes, tente de protéger ses exportations de pétrole",
           "link": "https://www.lemonde.fr/economie/article/2026/10/15/petrole-sous-pression-des-attaques-l-arabie-saoudite-tente-de-proteger-ses-exportations_6794616_3234.html",
           "published": "2026-10-15T18:30:10+02:00",
@@ -706,17 +704,6 @@
           "language": "fr",
           "summary": "Dans « Océans. Le nouveau partage du monde », Guillaume Pitron, spécialiste de géopolitique et des matières premières, examine les prémices d’un boule",
           "image": "https://img.lemde.fr/2026/10/08/160/0/1920/960/644/322/60/0/fa5bb58_upload-1-t6xgwoegnwjs-oceans-2.jpg",
-          "other_news": false
-        },
-        {
-          "title": "World’s oldest shipwreck discovered off coast of Turkey",
-          "link": "https://theconversation.com/worlds-oldest-shipwreck-discovered-off-coast-of-turkey-294248",
-          "published": "2026-10-14T20:27:39+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "There’s little left of the ship itself but based on clues from its cargo, a research team has tentatively dated the wreck to around 2700–2400 BCE.",
-          "image": null,
           "other_news": false
         },
         {
@@ -878,17 +865,6 @@
           "summary": "Independent analysis of The Metals Company's own projections finds deep-sea mining destroys value in over eight in ten realistic scenarios and could l",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "Shedding light on the sea: Interview with Thai photographer Sirachai Arunrugstichai",
-          "link": "https://news.mongabay.com/2026/10/shedding-light-on-the-sea-interview-with-thai-photographer-sirachai-arunrugstichai/",
-          "published": "2026-10-13T14:17:06+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "BANGKOK — Marine biologist and photojournalist Sirachai “Shin” Arunrugstichai has taken many notable photographs in Thailand, from white bleached cora",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/13090630/working-pic-Sirachai-Arunrugstichai-3-768x512.jpg",
-          "other_news": false
         }
       ]
     },
@@ -939,17 +915,6 @@
           "other_news": true
         },
         {
-          "title": "Protection des captages : la mise en œuvre de la loi d’urgence agricole critiquée par les collectivités",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/13/protection-des-captages-la-mise-en-uvre-de-la-loi-d-urgence-agricole-critiquee-par-les-collectivites_6793163_3244.html",
-          "published": "2026-10-13T19:22:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le projet de décret devant préserver les nappes et rivières des pollutions, découlant de la loi d’urgence adoptée cet été, suscite l’inquiétude de col",
-          "image": "https://img.lemde.fr/2025/12/23/1008/0/6048/3024/644/322/60/0/d6a7792_upload-1-rerfqs0aixga-maxnewsspecialtwo120223.jpg",
-          "other_news": true
-        },
-        {
           "title": "Santé, pollutions, extrême droite : Vert lance un grand appel à enquêtes pour inverser la vapeur",
           "link": "https://vert.eco/vert-vous-parle/sante-pollutions-extreme-droite-vert-lance-un-grand-appel-a-enquetes-pour-inverser-la-vapeur/",
           "published": "2026-10-15T08:34:44+00:00",
@@ -957,6 +922,17 @@
           "type": "news",
           "language": "fr",
           "summary": "À l’approche d’échéances électorales cruciales, Vert veut produire les meilleures enquêtes sur deux sujets vitaux : la santé et les pollutions ; l’ext",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "The High Court looked at coal climate emissions overseas. But what about emissions at home?",
+          "link": "https://theconversation.com/the-high-court-looked-at-coal-climate-emissions-overseas-but-what-about-emissions-at-home-294235",
+          "published": "2026-10-15T18:58:05+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Debate about climate pollution from Australian coal mines is focused overseas. But emissions released at home matter, too.",
           "image": null,
           "other_news": true
         }
@@ -981,6 +957,17 @@
           "type": "news",
           "language": "en",
           "summary": "Next week, diplomats from around the world will descend on Yerevan, Armenia, to negotiate a series of decisions under the&#8230;\nThe post Interactive:",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Countries urged to ramp up “insufficient” nature policies at COP17",
+          "link": "https://www.climatechangenews.com/2026/10/15/countries-ramp-up-insufficient-nature-policies-un-report-cop17-armenia/",
+          "published": "2026-10-15T19:25:25+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "A major UN report that will inform biodiversity negotiations in Armenia shows countries have made some progress but are still off track for a landmark",
           "image": null,
           "other_news": true
         },
@@ -1027,6 +1014,17 @@
           "type": "news",
           "language": "en",
           "summary": "The climate crisis is also a governance crisis - one with a persistent blindspot for women's leadership, ingenuity and readiness to take decisions for",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "A plan exists for a fairer and healthier food system. Which party policies align best?",
+          "link": "https://theconversation.com/a-plan-exists-for-a-fairer-and-healthier-food-system-which-party-policies-align-best-289698",
+          "published": "2026-10-15T21:21:08+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The Public Health Advisory Committee put forward five recommendations for improving NZ’s food system. We compared it with party policy ahead of the el",
           "image": null,
           "other_news": true
         },
@@ -1129,17 +1127,6 @@
           "language": "en",
           "summary": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a22/live/f73dcdc0-c6e1-11f1-bf38-57dc5cd42af2.jpg",
-          "other_news": true
-        },
-        {
-          "title": "New team to save Antarctic port from climate change",
-          "link": "https://www.bbc.co.uk/news/articles/ck8dzgr780j8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-14T05:24:08+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The mission aims to protect the base which is home to the world’s southernmost Post Office.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1c9/live/10fd9a40-9959-11f0-af33-e32b3939e8ca.jpg",
           "other_news": true
         },
         {
@@ -1781,6 +1768,17 @@
           "other_news": true
         },
         {
+          "title": "Faut-il manger moins de fromage pour le climat ?",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/16/faut-il-manger-moins-de-fromage-pour-le-climat_6795186_3244.html",
+          "published": "2026-10-16T06:30:06+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
+          "image": "https://img.lemde.fr/2025/10/23/250/0/3000/1500/644/322/60/0/269a2c5_upload-1-unixw4s49jcr-frame-70.jpg",
+          "other_news": true
+        },
+        {
           "title": "Le ministre délégué à la transition écologique annonce une réforme de l’évaluation environnementale",
           "link": "https://www.lemonde.fr/planete/article/2026/10/15/le-ministre-delegue-a-la-transition-ecologique-annonce-une-reforme-de-l-evaluation-environnementale_6794620_3244.html",
           "published": "2026-10-15T18:45:01+02:00",
@@ -1811,17 +1809,6 @@
           "language": "fr",
           "summary": "L’ingénieur spécialiste de l’énergie, fondateur du groupe de réflexion The Shift Project, expose les lourds enjeux climatiques qui pèsent sur les proc",
           "image": "https://img.lemde.fr/2026/10/13/790/0/3854/1927/644/322/60/0/7d86fcd_upload-1-qatcspfwgtfi-kzihnioglu-pol-jancovici-12102026-02.JPG",
-          "other_news": true
-        },
-        {
-          "title": "Depuis le Brexit, des paysans anglais sont rémunérés pour s’occuper de la nature : « C’est devenu une source de revenus indispensable »",
-          "link": "https://www.lemonde.fr/economie/article/2026/10/14/en-angleterre-les-paysans-sont-remuneres-pour-s-occuper-de-la-nature-c-est-devenu-une-source-de-revenus-indispensable_6793353_3234.html",
-          "published": "2026-10-14T05:30:03+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "L’Angleterre s’est détournée du système de paiements directs aux agriculteurs, les remplaçant par des subsides récompensant les mesures environnementa",
-          "image": "https://img.lemde.fr/2026/10/13/649/0/5583/2791/644/322/60/0/ba68e23_upload-1-mkm7gjgrmnnq-000-c3yr6y9.jpg",
           "other_news": true
         },
         {
@@ -1865,17 +1852,6 @@
           "type": "news",
           "language": "en",
           "summary": "People who lived in New Mexico more than 20,000 years ago experienced rapid climate change.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Australia’s ‘digital duty of care’ was just introduced to parliament. So what’s in the bill?",
-          "link": "https://theconversation.com/australias-digital-duty-of-care-was-just-introduced-to-parliament-so-whats-in-the-bill-294464",
-          "published": "2026-10-15T06:37:46+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "This is a large and complex piece of legislation, and the government has made adjustments in response to expert feedback.",
           "image": null,
           "other_news": true
         },

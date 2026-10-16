@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T12:29:02.158313+00:00",
+  "generated_at": "2026-10-16T16:39:13.632700+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -25,17 +25,6 @@
           "language": "en",
           "summary": "PORTLAND, Maine (AP) — The Supreme Court has declined to hear the case of a lobster fisherman who alleged the government requiring commercial fishing",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14193657/AP26257564634869-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Chinese squid tied to labor abuses finds an easy route into Western markets",
-          "link": "https://news.mongabay.com/2026/10/chinese-squid-tied-to-labor-abuses-finds-an-easy-route-into-western-markets/",
-          "published": "2026-10-14T07:00:31+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In recent years, a series of high-profile investigations implicated the Chinese fleets targeting squid in international waters in illegal fishing prac",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/12143406/1-fishers-with-squid-768x512.jpg",
           "other_news": false
         }
       ],
@@ -145,6 +134,17 @@
           "summary": "Seventy-nine per cent of all NSW swimming sites rated ‘good’ or ‘very good’, as state’s cleanest and most polluted beaches revealedFollow our Australi",
           "image": "https://i.guim.co.uk/img/media/1af16ff258e33caea65db65fd1958390c0560ed3/965_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=98148fd52c609c447e718c62605507a4",
           "other_news": false
+        },
+        {
+          "title": "Plastic industry bookkeeping plans hide chemical recycling harms, critics say",
+          "link": "https://news.mongabay.com/2026/10/plastic-industry-bookkeeping-plans-hide-chemical-recycling-harms-critics-say/",
+          "published": "2026-10-16T15:54:29+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Plastic pollution has rapidly escalated into a global environmental crisis that threatens ecosystem function and human health at an epic scale. Soluti",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/15224641/1_B_Plastic_pollution_crisis_UNEP-768x512.jpg",
+          "other_news": false
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -237,6 +237,17 @@
           "other_news": false
         },
         {
+          "title": "Celebrity shark trapped in South Korean canal stirs concerns over warming seas",
+          "link": "https://news.mongabay.com/2026/10/celebrity-shark-trapped-in-south-korean-canal-stirs-concerns-over-warming-seas/",
+          "published": "2026-10-16T15:01:00+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "SEOUL — Wedged between skyscrapers and a bustling passenger ferry port in Busan, South Korea’s second-largest city, a celebrity of sorts is drawing th",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16144620/AP26273274507289-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Seagrass meadows may offer coastal communities a more nutritious catch than reefs",
           "link": "https://news.mongabay.com/2026/10/seagrass-meadows-may-offer-coastal-communities-a-more-nutritious-catch-than-reefs/",
           "published": "2026-10-16T07:13:38+00:00",
@@ -245,17 +256,6 @@
           "language": "en",
           "summary": "Researchers surveyed 40 sites along the East African coastline from Kenya to Mozambique, studying seagrass and coral reef ecosystems. They found that",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/15150732/3-768x512.png",
-          "other_news": false
-        },
-        {
-          "title": "‘Patrick’ sea star went viral, but Argentine deep-sea canyon held 57 new species",
-          "link": "https://news.mongabay.com/2026/10/patrick-sea-star-went-viral-but-argentine-deep-sea-canyon-held-57-new-species/",
-          "published": "2026-10-13T22:11:43+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A sea cucumber with two horn-like appendages sits on the mud in the deep South Atlantic Ocean. Scientists named it Loki, after the horned Norse tricks",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/13154333/10-Deep-Sea-Sea-Star-Patrick-Star-768x512.jpg",
           "other_news": false
         }
       ],
@@ -282,6 +282,17 @@
           "language": "en",
           "summary": "Seagrass meadows off Cairns have recovered to pre-flood levels after a 98% collapse, but a 34-year study shows the fish living in them have reorganise",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "‘Enclosed river:’ Women shellfish gatherers fight for access to mangroves in Brazil",
+          "link": "https://news.mongabay.com/2026/10/enclosed-river-women-shellfish-gatherers-fight-for-access-to-mangroves-in-brazil/",
+          "published": "2026-10-16T15:38:23+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Adriana Hora dos Santos stands waist-deep in the water. Her dark hair is tied in a single braid; her arms and torso covered by a pink Lycra shirt. The",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16152749/adriana_cata_ostras-1800x1012-1-768x512.jpg",
           "other_news": false
         },
         {
@@ -327,6 +338,19 @@
           "type": "news",
           "language": "en",
           "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.&#8230;\nThe post ‘Co",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Species Migration & Habitat Change": [
+        {
+          "title": "For centuries, bird migration was a mystery – a tech revolution is changing that, and could help save these amazing creatures",
+          "link": "https://theconversation.com/for-centuries-bird-migration-was-a-mystery-a-tech-revolution-is-changing-that-and-could-help-save-these-amazing-creatures-294345",
+          "published": "2026-10-16T12:21:52+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "An early clue came from storks found in Europe with African arrows in their bodies. Today, an atlas reveals hundreds of bird migration routes that are",
           "image": null,
           "other_news": false
         }
@@ -594,6 +618,17 @@
           "language": "en",
           "summary": "Efforts to protect marine ecosystems and coastal communities have risen up the political agenda at the UN General Assembly in New York\nThe post Threat",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Arrachage des yeux des crevettes : les supermarchés sommés d'arrêter une pratique cruelle",
+          "link": "https://reporterre.net/Arrachage-des-yeux-des-crevettes-les-supermarches-sommes-d-arreter-une-pratique-cruelle",
+          "published": "2026-10-16T12:44:23+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Arrachage des yeux à vif (épédonculation) et mort par suffocation dans de l'eau glacée : ce sont les sévices que subissent une g",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/food-mediterranean-seafood-fish-invertebrate-shrimp-1138325-pxhere_com-99c2b.jpg?1792154665",
           "other_news": false
         },
         {
@@ -882,17 +917,6 @@
           "other_news": true
         },
         {
-          "title": "Mercure : la pollution pourrait s'aggraver à cause du changement climatique",
-          "link": "https://reporterre.net/Mercure-la-pollution-pourrait-s-aggraver-a-cause-du-changement-climatique",
-          "published": "2026-10-08T18:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "La pollution au mercure est dangereuse pour la santé des humains et des écosystèmes car cet élément s'accumule dans l'organisme.",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/forest-wood-night-smoke-orange-flame-834878-pxhere_com-85398.jpg?1791482401",
-          "other_news": true
-        },
-        {
           "title": "En France, la pollution de l’air repart à la hausse, après des années de recul",
           "link": "https://www.lemonde.fr/planete/article/2026/10/14/en-france-la-pollution-de-l-air-repart-a-la-hausse-apres-des-annees-de-recul_6793758_3244.html",
           "published": "2026-10-14T16:43:43+02:00",
@@ -970,17 +994,6 @@
           "summary": "As climate change and human disturbance accelerate, delays in implementing protections can have irreversible consequences for wildlife.",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "Solutions to the risks posed by the global pet trade could be enacted quickly",
-          "link": "https://news.mongabay.com/podcast/2026/10/solutions-to-the-risks-posed-by-the-global-pet-trade-could-be-enacted-quickly/",
-          "published": "2026-10-13T20:01:56+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The global pet trade, particularly in exotic reptiles and amphibians, poses significant biodiversity and potential human health risks, scientists say;",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/11/13182036/JMT-768x512.jpg",
-          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -1014,17 +1027,6 @@
           "type": "news",
           "language": "en",
           "summary": "The Public Health Advisory Committee put forward five recommendations for improving NZ’s food system. We compared it with party policy ahead of the el",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "There’s no clock on the grief of losing an infant, but there is a deadline to return to work",
-          "link": "https://theconversation.com/theres-no-clock-on-the-grief-of-losing-an-infant-but-there-is-a-deadline-to-return-to-work-288155",
-          "published": "2026-10-15T13:48:04+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Support after a pregnancy or infant loss varies widely. Without better evidence, policy reforms may fall short of the needs of Canadian families.",
           "image": null,
           "other_news": true
         }
@@ -1625,14 +1627,14 @@
           "other_news": true
         },
         {
-          "title": "Climate change and energy transition rise up national security agenda",
-          "link": "https://www.climatechangenews.com/2026/09/22/new-york-climate-week-energy-transition-security-leaders/",
-          "published": "2026-09-21T23:53:17+00:00",
-          "source": "Climate change news",
+          "title": "Des aides aux énergies renouvelables... redirigées vers le carburant",
+          "link": "https://reporterre.net/Des-aides-aux-energies-renouvelables-redirigees-vers-le-carburant",
+          "published": "2026-10-16T14:04:48+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Leaders highlighted the national security risks posed by global warming and fossil fuel dependency at New York Climate Week\nThe post Climate change an",
-          "image": null,
+          "language": "fr",
+          "summary": "Financer les aides aux carburants en ponctionnant dans les énergies renouvelables. Le gouvernement a pris un décret d'annulation",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/pexels-enrique72-10785841_1_-0963a.jpg?1792159559",
           "other_news": true
         },
         {
@@ -1735,17 +1737,6 @@
           "other_news": true
         },
         {
-          "title": "Ils vivent en dehors du capitalisme (et ça se passe très bien)",
-          "link": "https://reporterre.net/Pas-de-capitalisme-pas-de-travail-salarie-bienvenue-dans-la-Cooperation-integrale",
-          "published": "2026-10-09T05:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Un lieu où vivre en dehors du capitalisme : telle est l'idée du projet autogéré et politique de la Coopération intégrale du Haut",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/reporterreberry01-92a75.jpg?1791522001",
-          "other_news": true
-        },
-        {
           "title": "Rights of Nature spreads as councils adopt River Avon Charter",
           "link": "https://oceanographicmagazine.com/news/rights-of-nature-spreads-as-councils-adopt-river-avon-charter/",
           "published": "2026-10-02T15:07:05+00:00",
@@ -1812,14 +1803,14 @@
           "other_news": true
         },
         {
-          "title": "Early humans in America endured climate chaos – new research",
-          "link": "https://theconversation.com/early-humans-in-america-endured-climate-chaos-new-research-293174",
-          "published": "2026-10-15T13:57:18+00:00",
-          "source": "The Conversation",
+          "title": "Saving big cats: Storytelling duo Steve Winter & Sharon Guynup publish new book",
+          "link": "https://news.mongabay.com/2026/10/saving-big-cats-storytelling-duo-steve-winter-sharon-guynup-publish-new-book/",
+          "published": "2026-10-16T15:13:49+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "People who lived in New Mexico more than 20,000 years ago experienced rapid climate change.",
-          "image": null,
+          "summary": "For more than two decades, National Geographic photographer Steve Winter and environmental journalist Sharon Guynup have followed big cats into some o",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16135236/6-BANNER-IMAGE-Hollywood-Cougar-Grey-Large-copy-1-768x512.jpg",
           "other_news": true
         },
         {

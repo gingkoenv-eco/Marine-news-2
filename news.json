@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:28:05.230980+00:00",
+  "generated_at": "2026-10-17T05:01:20.742405+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -211,6 +211,17 @@
           "type": "news",
           "language": "en",
           "summary": "A proposed South Atlantic whale sanctuary has again failed to win the required 75 per cent majority at IWC70, as the UK marks 40 years of the global w",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Could You Really Be Swallowed by a Whale?",
+          "link": "https://oceanconservancy.org/blog/2026/10/16/could-you-really-be-swallowed-by-a-whale/",
+          "published": "2026-10-16T20:25:30+00:00",
+          "source": "Ocean Conservancy",
+          "type": "news",
+          "language": "en",
+          "summary": "For generations, stories of people being swallowed by enormous sea creatures have painted awe-inspiring tales of human survival and perseverance. From",
           "image": null,
           "other_news": false
         },
@@ -475,17 +486,6 @@
           "language": "en",
           "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Industrial fire linked to fish and eels' deaths",
-          "link": "https://www.bbc.co.uk/news/videos/cqrky20ndv1jo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-14T16:36:48+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Chemicals from firewater runoff entered a brook and spread downstream where dead fish and eels were later found, the Environment Agency has confirmed.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ec/live/0a259340-c7ec-11f1-bc2e-018d645d8d21.jpg",
           "other_news": false
         },
         {
@@ -786,6 +786,17 @@
           "other_news": false
         },
         {
+          "title": "Fundraising to protect oceans, forests and other key nature sites falling short ahead of UN summit",
+          "link": "https://news.mongabay.com/short-article/2026/10/fundraising-to-protect-oceans-forests-and-other-key-nature-sites-falling-short-ahead-of-un-summit/",
+          "published": "2026-10-16T17:54:17+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Promises by nations to spend hundreds of billions of dollars to finance nature and increase protections for oceans around the globe are falling short",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16175102/AP26287817872784-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Climate change could send more toxic mining waste into coastal waters, study warns",
           "link": "https://news.mongabay.com/2026/10/climate-change-could-send-more-toxic-mining-waste-into-coastal-waters-study-warns/",
           "published": "2026-10-16T09:45:00+00:00",
@@ -854,19 +865,6 @@
       ]
     },
     "To Watch / Read / Listen": {
-      "Marine Biodiversity & Conservation": [
-        {
-          "title": "Eavesdropping on Malaysia’s dolphins: Interview with marine bioacoustician Saliza Bono",
-          "link": "https://news.mongabay.com/2026/10/eavesdropping-on-malaysias-dolphins-interview-with-marine-bioacoustician-saliza-bono/",
-          "published": "2026-10-14T12:28:35+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "KUALA LUMPUR — Malaysia’s coastal waters are home to 27 species of marine mammals. These include protected species like the Indo-Pacific humpback dolp",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14115427/Saliza4-IndoPacificHumpback-2-768x512.jpg",
-          "other_news": false
-        }
-      ],
       "Other Marine News": [
         {
           "title": "Deep-sea mining fails the money test, independent report finds",
@@ -914,17 +912,6 @@
           "language": "fr",
           "summary": "Pollution de l'air, pesticides… Une première formation spécifique sur les causes environnementales du cancer a été donnée aux in",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/octobre_2026_reporterre_cancer3-13e5b.jpg?1792049060",
-          "other_news": true
-        },
-        {
-          "title": "En France, la pollution de l’air repart à la hausse, après des années de recul",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/14/en-france-la-pollution-de-l-air-repart-a-la-hausse-apres-des-annees-de-recul_6793758_3244.html",
-          "published": "2026-10-14T16:43:43+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le bilan 2025 de la qualité de l’air révèle une « légère » progression des concentrations en particules fines, dioxyde d’azote et ozone avec six épiso",
-          "image": "https://img.lemde.fr/2026/10/14/560/0/6726/3363/644/322/60/0/91cafd2_upload-1-9x0ay8m5i17h-000-c4xg2jt.jpg",
           "other_news": true
         },
         {
@@ -1066,6 +1053,28 @@
           "other_news": true
         },
         {
+          "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-17T02:33:09+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Evacuation orders as fast-moving California wildfire burns homes",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-17T01:36:39+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67d1/live/5c4e9f00-c9c6-11f1-9624-cbdaf8e49de5.jpg",
+          "other_news": true
+        },
+        {
           "title": "£15m for zero-emission testing at Belfast Harbour",
           "link": "https://www.bbc.co.uk/news/articles/c6kgqr9n8082o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-15T14:55:03+00:00",
@@ -1085,28 +1094,6 @@
           "language": "en",
           "summary": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25f5/live/ee4847a0-c7ad-11f1-b41f-d7a6cb474575.jpg",
-          "other_news": true
-        },
-        {
-          "title": "More tea? How Scotland's crops of the future could be set to change",
-          "link": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-14T05:02:27+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9915/live/320124f0-c17b-11f1-bed0-05ebd781c53c.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
-          "link": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-13T23:55:49+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a22/live/f73dcdc0-c6e1-11f1-bf38-57dc5cd42af2.jpg",
           "other_news": true
         },
         {
@@ -1822,17 +1809,6 @@
           "language": "en",
           "summary": "Conservationists are launching a project to protect dwindling vulture populations in Chad amid a Central Africa-wide decline. Run by the nonprofit Sah",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16100125/An-Egyptian-vulture-in-Chad.-Image-courtesy-of-Sahara-Conservation-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Painted turbines can save millions of birds",
-          "link": "https://news.mongabay.com/short-article/2026/10/painted-turbines-can-save-millions-of-birds/",
-          "published": "2026-10-14T08:58:43+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "What do snakes, poisonous frogs, and wind turbines have in common? Scientists tested whether warning color patterns inspired by nature could help bird",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14085750/Mongabay_Thumbnail_Turbines_Featured-338x512.jpg",
           "other_news": true
         }
       ]

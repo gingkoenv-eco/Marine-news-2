@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-10-17T05:01:20.742405+00:00",
+  "generated_at": "2026-10-17T10:45:40.941157+00:00",
   "categories": {
     "Politics & Policy": {
-      "Marine Biodiversity & Conservation": [
-        {
-          "title": "Invasive lionfish reach Brazil’s largest coral reefs. Local fishers fight back",
-          "link": "https://news.mongabay.com/short-article/2026/10/invasive-lionfish-reach-brazils-largest-coral-reefs-local-fishers-fight-back/",
-          "published": "2026-10-14T14:38:41+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Fishers have caught at least 440 invasive lionfish off the coast of Porto Seguro in northeastern Brazil in recent weeks. The local government paid fis",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14143651/peixeleao2-768x512.jpg",
-          "other_news": false
-        }
-      ],
       "Sustainable Fisheries": [
         {
           "title": "Supreme Court declines to hear the case of a lobster fisherman who opposes boat tracking",
@@ -654,17 +641,6 @@
           "other_news": false
         },
         {
-          "title": "L'urbanisation des côtes stresse les poissons",
-          "link": "https://reporterre.net/Quand-ils-vivent-pres-des-villes-les-poissons-changent-de-profil-genetique",
-          "published": "2026-10-09T09:11:30+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Au large des villes, les poissons réagissent aux nombreux stress liés aux activités humaines. Une étude montre que l'activité de",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/6936578999_1f2b1a0f35_4k-7bef5.jpg?1791537091",
-          "other_news": false
-        },
-        {
           "title": "World’s largest penguin colony suffers steep decline in numbers",
           "link": "https://oceanographicmagazine.com/news/worlds-largest-penguin-colony-suffers-steep-decline-in-numbers/",
           "published": "2026-10-09T12:43:10+00:00",
@@ -731,17 +707,6 @@
           "other_news": false
         },
         {
-          "title": "L’industrialisation des océans, source de rivalités géostratégiques entre grandes puissances",
-          "link": "https://www.lemonde.fr/idees/article/2026/10/14/l-industrialisation-des-oceans-source-de-rivalites-geostrategiques-entre-grandes-puissances_6793782_3232.html",
-          "published": "2026-10-14T19:00:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans « Océans. Le nouveau partage du monde », Guillaume Pitron, spécialiste de géopolitique et des matières premières, examine les prémices d’un boule",
-          "image": "https://img.lemde.fr/2026/10/08/160/0/1920/960/644/322/60/0/fa5bb58_upload-1-t6xgwoegnwjs-oceans-2.jpg",
-          "other_news": false
-        },
-        {
           "title": "«Reprendre la mer» : un manifeste percutant pour couler la «contre-pêche»",
           "link": "https://vert.eco/biodiversite/reprendre-la-mer-un-manifeste-percutant-pour-couler-la-contre-peche/",
           "published": "2026-10-16T09:21:00+00:00",
@@ -783,6 +748,17 @@
           "language": "en",
           "summary": "Our ocean has absorbed more than 90% of excess heat caused by human-driven climate change and a quarter of the carbon dioxide we emit. In simple terms",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "This orca destroyed a sunfish and no one is sure why",
+          "link": "https://news.mongabay.com/short-article/2026/10/this-orca-destroyed-a-sunfish-and-no-one-is-sure-why/",
+          "published": "2026-10-17T07:27:04+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Scientists, on two separate occasions, have observed orcas ramming into heavy sunfish with such force that the boney fish literally explodes. But why?",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/17072642/Mongabay_Thumbnail_Orcas_Featured_600-337x512.jpg",
           "other_news": false
         },
         {
@@ -865,6 +841,19 @@
       ]
     },
     "To Watch / Read / Listen": {
+      "Nature-Based Solutions & Restoration": [
+        {
+          "title": "Indonesian women cash in on mangrove restoration: Interview with community leader Wisye Sahambangung",
+          "link": "https://news.mongabay.com/2026/10/indonesian-women-cash-in-on-mangrove-restoration-interview-with-community-leader-wisye-sahambangung/",
+          "published": "2026-10-17T07:57:59+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "JAKARTA — Wisye Sahambangung is a fisher, community leader, and mangrove conservationist from Sarawet, a coastal Indonesian village in North Sulawesi",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16144823/Photo-2-Wisye-Sahambangung-768x512.jpeg",
+          "other_news": false
+        }
+      ],
       "Other Marine News": [
         {
           "title": "Deep-sea mining fails the money test, independent report finds",
@@ -1094,6 +1083,17 @@
           "language": "en",
           "summary": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25f5/live/ee4847a0-c7ad-11f1-b41f-d7a6cb474575.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Dans nos déchets organiques, du plastique qui limite l’efficacité de la collecte",
+          "link": "https://theconversation.com/dans-nos-dechets-organiques-du-plastique-qui-limite-lefficacite-de-la-collecte-287105",
+          "published": "2026-10-17T08:09:01+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "La présence de certains plastiques considérés à tort comme étant compatibles avec la méthanisation freine les processus de valorisation.",
+          "image": null,
           "other_news": true
         },
         {

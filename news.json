@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:01:21.202476+00:00",
+  "generated_at": "2026-10-18T11:07:07.574285+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -344,6 +344,17 @@
       ],
       "Other Marine News": [
         {
+          "title": "A California town’s beaches are washing away. Can its residents turn the tide?",
+          "link": "https://www.theguardian.com/us-news/2026/oct/18/california-beach-erosion-san-clemente",
+          "published": "2026-10-18T11:00:03+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Rapid coastal erosion threatens coastal homes and economies, and as Super El Niño rounds the corner, a town is reckoning with the reality of climate c",
+          "image": "https://i.guim.co.uk/img/media/6e094a4a6106c307ef4374556750b743b4a5d555/0_0_5590_4470/master/5590.jpg?width=140&quality=85&auto=format&fit=max&s=88187eae26c33dc0533b9e9b27d82cac",
+          "other_news": false
+        },
+        {
           "title": "Scientists deploy a 24-armed secret weapon to save California’s kelp forests",
           "link": "https://www.theguardian.com/environment/2026/oct/13/sunflower-sea-star-california-kelp-forests",
           "published": "2026-10-13T12:00:01+00:00",
@@ -429,6 +440,28 @@
           "language": "en",
           "summary": "The weather pattern is associated with extreme, stormy weather, but authorities predict a quiet year in one ocean at least‘Supersizing before our eyes",
           "image": "https://i.guim.co.uk/img/media/0c1b68edb76ca5aa7e473084894b0828bbddce5a/414_0_5794_4636/master/5794.jpg?width=140&quality=85&auto=format&fit=max&s=48f73c9faa1c9b0369a8fcd9237c7072",
+          "other_news": false
+        },
+        {
+          "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
+          "link": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-18T08:12:24+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb7f/live/223a12e0-c0de-11f1-8cf3-7dbc6a5861dd.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Seal pups spotted at nature reserve for 12th year",
+          "link": "https://www.bbc.co.uk/news/articles/c6jrwnzyv528o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-18T06:20:04+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Two pups have been recorded at South Walney, home to Cumbria's only breeding grey seal colony.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1960/live/ebe42590-c881-11f1-a2e8-f71844f8002e.jpg",
           "other_news": false
         },
         {
@@ -860,6 +893,17 @@
     "Other News": {
       "Plastic & Ocean Pollution": [
         {
+          "title": "Corby metal pollution may harm people, says study",
+          "link": "https://www.bbc.co.uk/news/articles/ckx2dgl087lzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-18T05:37:52+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "However, the Environment Agency says it has not found evidence that could cause significant harm.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dbd/live/16972b10-ca31-11f1-9ab2-b325ce61f9d2.jpg",
+          "other_news": true
+        },
+        {
           "title": "Could your plastic film packaging serve a purpose? We won’t know until recycling laws change",
           "link": "https://theconversation.com/could-your-plastic-film-packaging-serve-a-purpose-we-wont-know-until-recycling-laws-change-293561",
           "published": "2026-10-16T09:59:15+00:00",
@@ -904,6 +948,17 @@
           "other_news": true
         },
         {
+          "title": "African countries could save billions by cutting air pollution and greenhouse gases at the same time",
+          "link": "https://theconversation.com/african-countries-could-save-billions-by-cutting-air-pollution-and-greenhouse-gases-at-the-same-time-291944",
+          "published": "2026-10-18T09:22:22+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "African countries could save billions, prevent deaths and slow climate change by cutting air pollution.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "The High Court looked at coal climate emissions overseas. But what about emissions at home?",
           "link": "https://theconversation.com/the-high-court-looked-at-coal-climate-emissions-overseas-but-what-about-emissions-at-home-294235",
           "published": "2026-10-15T18:58:05+00:00",
@@ -916,6 +971,17 @@
         }
       ],
       "Marine Biodiversity & Conservation": [
+        {
+          "title": "Two damselfly species return to restored woodland",
+          "link": "https://www.bbc.co.uk/news/articles/cwg5jvnqv28go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-18T05:16:16+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A three-year project to restore woodland at seven nature reserves is completed.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f498/live/7ed85640-c897-11f1-b0a4-81e564f1cfaa.jpg",
+          "other_news": true
+        },
         {
           "title": "Wildlife populations have declined 73% since 1970 – but many of the world’s animals still aren’t being counted",
           "link": "https://theconversation.com/wildlife-populations-have-declined-73-since-1970-but-many-of-the-worlds-animals-still-arent-being-counted-293867",

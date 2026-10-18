@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T12:05:29.996877+00:00",
+  "generated_at": "2026-10-18T15:51:47.535775+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -74,14 +74,14 @@
           "other_news": false
         },
         {
-          "title": "Scientists again advise zero cod catch across UK waters to prevent stock collapse",
-          "link": "https://oceanographicmagazine.com/news/scientists-again-advise-zero-cod-catch-across-uk-waters-to-prevent-stock-collapse/",
-          "published": "2026-10-09T12:38:35+00:00",
-          "source": "Oceanographic",
+          "title": "La biodiversité a aussi sa COP, on vous explique pourquoi c'est important",
+          "link": "https://reporterre.net/COP17-biodiversite-les-enjeux-du-rendez-vous-en-Armenie-La-COP17-ne-sera-pas-celle-des",
+          "published": "2026-10-18T13:00:00+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "The International Council for the Exploration of the Sea says cod in the North Sea, Irish Sea, Celtic Sea and English Channel is at risk of collapse,",
-          "image": null,
+          "language": "fr",
+          "summary": "Protéger les terres et les océans, restaurer les écosystèmes dégradés, sortir des pesticides... La COP17 biodiversité s'ouvre le",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20220418__328h6zw__v1__highres__serbiaenvironmentpollutionwasteanimal_1_-1a324.jpg?1792328402",
           "other_news": false
         },
         {
@@ -180,28 +180,6 @@
           "other_news": false
         },
         {
-          "title": "First new penguin species in a century found on Kerguelen Islands",
-          "link": "https://oceanographicmagazine.com/news/first-new-penguin-species-in-a-century-found-on-kerguelen-islands/",
-          "published": "2026-10-05T18:12:47+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Genomic analysis has split the gentoo penguin into four species, including the first newly named penguin in over a century, with three island-dwelling",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "South Atlantic Whale Sanctuary bid fails a second time at IWC",
-          "link": "https://oceanographicmagazine.com/news/south-atlantic-whale-sanctuary-bid-fails-a-second-time-at-iwc/",
-          "published": "2026-10-02T12:30:54+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A proposed South Atlantic whale sanctuary has again failed to win the required 75 per cent majority at IWC70, as the UK marks 40 years of the global w",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Could You Really Be Swallowed by a Whale?",
           "link": "https://oceanconservancy.org/blog/2026/10/16/could-you-really-be-swallowed-by-a-whale/",
           "published": "2026-10-16T20:25:30+00:00",
@@ -271,17 +249,6 @@
         }
       ],
       "Nature-Based Solutions & Restoration": [
-        {
-          "title": "Seagrass bounces back in Cairns, but fish populations are changed",
-          "link": "https://oceanographicmagazine.com/news/seagrass-bounces-back-in-cairns-but-fish-populations-are-changed/",
-          "published": "2026-10-06T14:25:06+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Seagrass meadows off Cairns have recovered to pre-flood levels after a 98% collapse, but a 34-year study shows the fish living in them have reorganise",
-          "image": null,
-          "other_news": false
-        },
         {
           "title": "‘Enclosed river:’ Women shellfish gatherers fight for access to mangroves in Brazil",
           "link": "https://news.mongabay.com/2026/10/enclosed-river-women-shellfish-gatherers-fight-for-access-to-mangroves-in-brazil/",
@@ -663,39 +630,6 @@
           "other_news": false
         },
         {
-          "title": "World’s largest penguin colony suffers steep decline in numbers",
-          "link": "https://oceanographicmagazine.com/news/worlds-largest-penguin-colony-suffers-steep-decline-in-numbers/",
-          "published": "2026-10-09T12:43:10+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Occupied chinstrap nests on Zavodovski Island have fallen by 63% since 2011, scientists say, with warming seas pushing the penguins' krill prey out of",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Restored oyster reefs could be worth $12 trillion a year, study finds",
-          "link": "https://oceanographicmagazine.com/news/restored-oyster-reefs-could-be-worth-12-trillion-a-year-study-finds/",
-          "published": "2026-10-08T11:57:51+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The world's oyster reefs could deliver $12 trillion a year in ecosystem benefits, but 90% of sites would need restoring first\nThe post Restored oyster",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Warming seas are reshuffling plankton and the marine food web",
-          "link": "https://oceanographicmagazine.com/news/warming-seas-are-reshuffling-plankton-and-the-marine-food-web/",
-          "published": "2026-10-06T15:29:20+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Researchers are now using AI to track plankton as warming seas reshuffle the base of the marine food web, with fish possibly getting less food and foo",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Le Groenland vise l’interdiction de l’exploitation minière en eaux profondes jusqu’en 2029",
           "link": "https://www.lemonde.fr/international/article/2026/10/16/le-groenland-vise-l-interdiction-de-l-exploitation-miniere-en-eaux-profondes-jusqu-en-2029_6795185_3210.html",
           "published": "2026-10-16T06:15:09+02:00",
@@ -875,19 +809,6 @@
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16144823/Photo-2-Wisye-Sahambangung-768x512.jpeg",
           "other_news": false
         }
-      ],
-      "Other Marine News": [
-        {
-          "title": "Deep-sea mining fails the money test, independent report finds",
-          "link": "https://oceanographicmagazine.com/news/deep-sea-mining-fails-the-money-test-independent-report-finds/",
-          "published": "2026-10-05T19:39:14+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Independent analysis of The Metals Company's own projections finds deep-sea mining destroys value in over eight in ten realistic scenarios and could l",
-          "image": null,
-          "other_news": false
-        }
       ]
     },
     "Other News": {
@@ -1024,17 +945,6 @@
           "language": "fr",
           "summary": "Alors que la planète est au seuil d’une extinction de masse, les Etats doivent agir plus fortement pour atteindre les objectifs qu’ils se sont fixés e",
           "image": "https://img.lemde.fr/2026/08/14/664/0/4429/2214/644/322/60/0/8f7b604_upload-1-bpqsimnronnx-26-07-12-1438.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Endangered species in Canada face extensive delays receiving protection",
-          "link": "https://theconversation.com/endangered-species-in-canada-face-extensive-delays-receiving-protection-293187",
-          "published": "2026-10-15T15:05:06+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "As climate change and human disturbance accelerate, delays in implementing protections can have irreversible consequences for wildlife.",
-          "image": null,
           "other_news": true
         },
         {
@@ -1776,28 +1686,6 @@
           "language": "fr",
           "summary": "Alors que le climat s'emballe, « le mouvement lycéen surgit, comme si la terre avait raconté ses brûlures à la jeunesse, et que",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/re_volte-v3-eda1c.jpg?1791700201",
-          "other_news": true
-        },
-        {
-          "title": "« On lance une guérilla » : opposés aux panneaux solaires en forêt, ils finissent virés du conseil municipal",
-          "link": "https://reporterre.net/On-lance-une-guerilla-opposes-aux-panneaux-solaires-en-foret-ils-finissent-vires-du",
-          "published": "2026-10-09T13:52:01+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "À Oraison, dans les Alpes-de-Haute-Provence, deux conseils municipaux ont été chahutés coup sur coup par des opposants à un proj",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/_kdf1206-b7cf6.jpg?1791553924",
-          "other_news": true
-        },
-        {
-          "title": "Rights of Nature spreads as councils adopt River Avon Charter",
-          "link": "https://oceanographicmagazine.com/news/rights-of-nature-spreads-as-councils-adopt-river-avon-charter/",
-          "published": "2026-10-02T15:07:05+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Eleven councils have adopted a community-led charter recognising the River Avon as a living entity with rights, as campaigners say more than 20 simila",
-          "image": null,
           "other_news": true
         },
         {

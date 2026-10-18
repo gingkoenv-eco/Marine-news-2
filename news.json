@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T16:28:07.880709+00:00",
+  "generated_at": "2026-10-18T05:01:21.202476+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -950,6 +950,17 @@
           "other_news": true
         },
         {
+          "title": "COP17 d’Erevan : face à l’effondrement de la biodiversité, des efforts « inégaux et insuffisants » de l’humanité",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/18/cop17-d-erevan-face-a-l-effondrement-de-la-biodiversite-des-efforts-inegaux-et-insuffisants-de-l-humanite_6796960_3244.html",
+          "published": "2026-10-18T06:00:10+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors que la planète est au seuil d’une extinction de masse, les Etats doivent agir plus fortement pour atteindre les objectifs qu’ils se sont fixés e",
+          "image": "https://img.lemde.fr/2026/08/14/664/0/4429/2214/644/322/60/0/8f7b604_upload-1-bpqsimnronnx-26-07-12-1438.jpg",
+          "other_news": true
+        },
+        {
           "title": "Endangered species in Canada face extensive delays receiving protection",
           "link": "https://theconversation.com/endangered-species-in-canada-face-extensive-delays-receiving-protection-293187",
           "published": "2026-10-15T15:05:06+00:00",
@@ -958,6 +969,17 @@
           "language": "en",
           "summary": "As climate change and human disturbance accelerate, delays in implementing protections can have irreversible consequences for wildlife.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Nearly 90% of countries adopt biodiversity targets, but most remain off track",
+          "link": "https://news.mongabay.com/2026/10/nearly-90-of-countries-adopt-biodiversity-targets-but-most-remain-off-track/",
+          "published": "2026-10-17T22:50:40+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Thousands of delegates are now gathering in Yerevan to discuss the future of life on Earth as we know it at the U.N.’s COP17 biodiversity summit. Coun",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/10/14035049/andrean-cock-of-the-rock-768x512.jpg",
           "other_news": true
         }
       ],
@@ -1031,6 +1053,17 @@
           "other_news": true
         },
         {
+          "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-17T19:13:21+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67d1/live/5c4e9f00-c9c6-11f1-9624-cbdaf8e49de5.jpg",
+          "other_news": true
+        },
+        {
           "title": "Brazil sees record fall in Amazon deforestation as key election looms",
           "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-17T02:33:09+00:00",
@@ -1039,17 +1072,6 @@
           "language": "en",
           "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-17T01:36:39+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67d1/live/5c4e9f00-c9c6-11f1-9624-cbdaf8e49de5.jpg",
           "other_news": true
         },
         {
@@ -1710,6 +1732,17 @@
           "language": "en",
           "summary": "Eleven councils have adopted a community-led charter recognising the River Avon as a living entity with rights, as campaigners say more than 20 simila",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Au Brésil, la perspective d’un retour de l’extrême droite fait craindre de nouveaux reculs pour l’environnement",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/18/au-bresil-la-perspective-d-un-retour-de-l-extreme-droite-fait-craindre-de-nouveaux-reculs-pour-l-environnement_6796998_3244.html",
+          "published": "2026-10-18T06:05:10+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "S’il est élu le 25 octobre, Flavio Bolsonaro entend notamment restreindre la démarcation de nouvelles terres indigènes, encourager la production de pe",
+          "image": "https://img.lemde.fr/2026/10/09/310/0/3718/1859/644/322/60/0/7ed9dbd_ftp-1-q2mh5c25kg3m-fffcf88ed1314502b1937e4c631d9783-0-82dc5e6b8cba480ebe74e0077c654e15.jpg",
           "other_news": true
         },
         {

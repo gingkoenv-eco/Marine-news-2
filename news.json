@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T16:34:36.706734+00:00",
+  "generated_at": "2026-10-19T05:02:08.656003+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -103,6 +103,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Un rapport de l’ONG International council for animal welfare (Icaw) publié ce vendredi dénonce l’épédonculation des crevettes, soit la mutilation des",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "As French protests escalate into riots, they may prove a gift for Marine Le Pen’s right-wing party",
+          "link": "https://theconversation.com/as-french-protests-escalate-into-riots-they-may-prove-a-gift-for-marine-le-pens-right-wing-party-294673",
+          "published": "2026-10-19T03:02:39+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "What started as protests about conditions in French schools has widened into riots about cost of living – and taken hold in other European countries,",
           "image": null,
           "other_news": false
         }
@@ -957,31 +968,9 @@
           "summary": "African countries could save billions, prevent deaths and slow climate change by cutting air pollution.",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "The High Court looked at coal climate emissions overseas. But what about emissions at home?",
-          "link": "https://theconversation.com/the-high-court-looked-at-coal-climate-emissions-overseas-but-what-about-emissions-at-home-294235",
-          "published": "2026-10-15T18:58:05+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Debate about climate pollution from Australian coal mines is focused overseas. But emissions released at home matter, too.",
-          "image": null,
-          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
-        {
-          "title": "Two damselfly species return to restored woodland",
-          "link": "https://www.bbc.co.uk/news/articles/cwg5jvnqv28go?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-18T05:16:16+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A three-year project to restore woodland at seven nature reserves is completed.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f498/live/7ed85640-c897-11f1-b0a4-81e564f1cfaa.jpg",
-          "other_news": true
-        },
         {
           "title": "Wildlife populations have declined 73% since 1970 – but many of the world’s animals still aren’t being counted",
           "link": "https://theconversation.com/wildlife-populations-have-declined-73-since-1970-but-many-of-the-worlds-animals-still-arent-being-counted-293867",
@@ -1018,7 +1007,7 @@
         {
           "title": "COP17 d’Erevan : face à l’effondrement de la biodiversité, des efforts « inégaux et insuffisants » de l’humanité",
           "link": "https://www.lemonde.fr/planete/article/2026/10/18/cop17-d-erevan-face-a-l-effondrement-de-la-biodiversite-des-efforts-inegaux-et-insuffisants-de-l-humanite_6796960_3244.html",
-          "published": "2026-10-18T06:00:10+02:00",
+          "published": "2026-10-18T06:00:03+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1058,17 +1047,6 @@
           "type": "news",
           "language": "en",
           "summary": "The climate crisis is also a governance crisis - one with a persistent blindspot for women's leadership, ingenuity and readiness to take decisions for",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "A plan exists for a fairer and healthier food system. Which party policies align best?",
-          "link": "https://theconversation.com/a-plan-exists-for-a-fairer-and-healthier-food-system-which-party-policies-align-best-289698",
-          "published": "2026-10-15T21:21:08+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The Public Health Advisory Committee put forward five recommendations for improving NZ’s food system. We compared it with party policy ahead of the el",
           "image": null,
           "other_news": true
         }
@@ -1779,6 +1757,17 @@
           "other_news": true
         },
         {
+          "title": "COP17 sur la biodiversité à Erevan : les leviers dont dispose la communauté internationale pour corriger la trajectoire « avant qu’il ne soit trop tard »",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/19/cop17-sur-la-biodiversite-a-erevan-les-leviers-dont-dispose-la-communaute-internationale-pour-corriger-la-trajectoire-avant-qu-il-ne-soit-trop-tard_6797481_3244.html",
+          "published": "2026-10-19T06:00:34+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "A Erevan, pendant deux semaines, 196 délégués vont essayer de faire avancer la protection de la biodiversité. Evaluer les efforts mis en place, négoci",
+          "image": "https://img.lemde.fr/2026/10/15/387/0/4648/2324/644/322/60/0/f68c1ec_ftp-1-9qv8uxmurdye-63f5bb94fc3644e3bcb3e0793cee225a-0-5822196e2092444eabeaf4595aa76816.jpg",
+          "other_news": true
+        },
+        {
           "title": "Au Brésil, la perspective d’un retour de l’extrême droite fait craindre de nouveaux reculs pour l’environnement",
           "link": "https://www.lemonde.fr/planete/article/2026/10/18/au-bresil-la-perspective-d-un-retour-de-l-extreme-droite-fait-craindre-de-nouveaux-reculs-pour-l-environnement_6796998_3244.html",
           "published": "2026-10-18T06:05:10+02:00",
@@ -1812,17 +1801,6 @@
           "other_news": true
         },
         {
-          "title": "Biodiversité : la France présente un plan de restauration de la nature sans ambition et sous-financé",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/15/biodiversite-la-france-presente-un-plan-de-restauration-de-la-nature-sans-ambition-et-sous-finance_6794433_3244.html",
-          "published": "2026-10-15T12:30:12+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les Etats membres de l’Union européenne doivent traduire au niveau national les intentions de la loi européenne sur la restauration de la nature. La F",
-          "image": "https://img.lemde.fr/2026/05/13/666/0/8000/4000/644/322/60/0/eb65072_upload-1-w2ydak3vwh7v-000-487j4nt.jpg",
-          "other_news": true
-        },
-        {
           "title": "Le gouvernement présente un «ambitieux» plan de restauration de la nature… sans convaincre les associations",
           "link": "https://vert.eco/biodiversite/le-gouvernement-presente-un-ambitieux-plan-de-restauration-de-la-nature-sans-convaincre-les-associations/",
           "published": "2026-10-15T08:49:17+00:00",
@@ -1841,6 +1819,39 @@
           "type": "news",
           "language": "fr",
           "summary": "Ce géant de l’industrie nucléaire s’apprête à lancer «Aval du futur», un gigantesque chantier pour assurer le recyclage des combustibles usés. Mais le",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "NZ’s climate in ‘uncharted territory’, with more extreme weather events ahead",
+          "link": "https://theconversation.com/nzs-climate-in-uncharted-territory-with-more-extreme-weather-events-ahead-294037",
+          "published": "2026-10-19T01:24:57+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A new report shows New Zealand faces a future of more frequent extreme droughts, heatwaves, floods and fires, with inevitable losses of infrastructure",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "There’s a hidden bias affecting what we know – and don’t know – about nature",
+          "link": "https://theconversation.com/theres-a-hidden-bias-affecting-what-we-know-and-dont-know-about-nature-293815",
+          "published": "2026-10-18T22:15:35+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "What drives scientists to uncover nature’s mysteries is curiosity. But what are they curious about?",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Your say: week beginning October 19",
+          "link": "https://theconversation.com/your-say-week-beginning-october-19-294661",
+          "published": "2026-10-18T19:50:21+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "On the struggle between Albanese and Chalmers, and looking beyond net zero: an edited selection of your views.",
           "image": null,
           "other_news": true
         },

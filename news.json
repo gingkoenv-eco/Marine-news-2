@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T14:43:41.422435+00:00",
+  "generated_at": "2026-10-19T18:42:53.016941+00:00",
   "categories": {
     "Politics & Policy": {
       "Deep Ocean & Mesophotic Ecosystems": [
@@ -79,6 +79,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Un rapport de l’ONG International council for animal welfare (Icaw) publié ce vendredi dénonce l’épédonculation des crevettes, soit la mutilation des",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Why Europe’s new defence agenda depends not only on armies, but also on citizens",
+          "link": "https://theconversation.com/why-europes-new-defence-agenda-depends-not-only-on-armies-but-also-on-citizens-293357",
+          "published": "2026-10-19T14:21:43+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The EU may not yet have a common army but via its citizens, member states can foster a culture of resilience and solidarity if all levels of society c",
           "image": null,
           "other_news": false
         },
@@ -268,6 +279,17 @@
           "other_news": false
         },
         {
+          "title": "Kipper cream or fish in custard? A century of magazine recipes reveals how Britain’s seafood tastes have narrowed",
+          "link": "https://theconversation.com/kipper-cream-or-fish-in-custard-a-century-of-magazine-recipes-reveals-how-britains-seafood-tastes-have-narrowed-293034",
+          "published": "2026-10-19T15:43:01+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Britain’s limited appetite for fish is often assumed to be a long-standing cultural norm. Recipes published in a Good Housekeeping suggest otherwise.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "How the “big five” fish took over the British dinner table",
           "link": "https://oceanographicmagazine.com/news/how-the-big-five-fish-took-over-the-british-dinner-table/",
           "published": "2026-10-19T09:38:00+00:00",
@@ -300,17 +322,6 @@
           "language": "en",
           "summary": "Adriana Hora dos Santos stands waist-deep in the water. Her dark hair is tied in a single braid; her arms and torso covered by a pink Lycra shirt. The",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16152749/adriana_cata_ostras-1800x1012-1-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Artificial mangrove roots offer a stopgap for Thailand’s eroding coastline",
-          "link": "https://news.mongabay.com/2026/10/artificial-mangrove-roots-offer-a-stopgap-for-thailands-eroding-coastline/",
-          "published": "2026-10-15T02:01:49+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Residents of Phra Samut Chedi, one of Thailand’s most erosion-prone districts, have long struggled against coastal erosion. It’s located in the muddy",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14130912/CP_01-768x512.png",
           "other_news": false
         }
       ],
@@ -514,17 +525,6 @@
           "type": "news",
           "language": "fr",
           "summary": "On a tendance à manger plus de grands poissons que de petits poissons. Pourtant privilégier les petits poissons a plus d’un intérêt pour la santé huma",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Des tonnes de plastique s’échouent sur les plages des Seychelles : nous avons retracé leur origine",
-          "link": "https://theconversation.com/des-tonnes-de-plastique-sechouent-sur-les-plages-des-seychelles-nous-avons-retrace-leur-origine-292467",
-          "published": "2026-09-26T07:05:20+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Aux Seychelles, dans l’océan Indien, des tonnes de plastique et d’engins de pêche s’échouent sur les plages. Une étude révèle l’origine de ces déchets",
           "image": null,
           "other_news": false
         },
@@ -738,6 +738,17 @@
           "other_news": false
         },
         {
+          "title": "Typhoon Champi strengthens to Category 5 but moves away from land; Trudy weakens",
+          "link": "https://news.mongabay.com/short-article/2026/10/typhoon-champi-strengthens-to-category-5-but-moves-away-from-land-trudy-weakens/",
+          "published": "2026-10-19T17:30:23+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Typhoon Champi has moved from the western Pacific into the Philippine Sea and has become a Category 5 super typhoon, according to the U.S. National We",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/19172332/AP26288473281669-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "This orca destroyed a sunfish and no one is sure why",
           "link": "https://news.mongabay.com/short-article/2026/10/this-orca-destroyed-a-sunfish-and-no-one-is-sure-why/",
           "published": "2026-10-17T07:27:04+00:00",
@@ -867,17 +878,6 @@
           "summary": "À l’approche d’échéances électorales cruciales, Vert veut produire les meilleures enquêtes sur deux sujets vitaux : la santé et les pollutions ; l’ext",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "African countries could save billions by cutting air pollution and greenhouse gases at the same time",
-          "link": "https://theconversation.com/african-countries-could-save-billions-by-cutting-air-pollution-and-greenhouse-gases-at-the-same-time-291944",
-          "published": "2026-10-18T09:22:22+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "African countries could save billions, prevent deaths and slow climate change by cutting air pollution.",
-          "image": null,
-          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -912,6 +912,17 @@
           "language": "en",
           "summary": "A major UN report that will inform biodiversity negotiations in Armenia shows countries have made some progress but are still off track for a landmark",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Comment les espèces sauvages tentent, tant bien que mal, de s’adapter au changement climatique",
+          "link": "https://www.lemonde.fr/sciences/article/2026/10/19/comment-les-especes-sauvages-tentent-tant-bien-que-mal-de-s-adapter-au-changement-climatique_6797558_1650684.html",
+          "published": "2026-10-19T18:00:11+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Selon les prévisions scientifiques, une espèce sur vingt serait aujourd’hui menacée d’extinction. Si le monde vivant dispose de capacités d’adaptation",
+          "image": "https://img.lemde.fr/2026/10/19/216/0/1024/512/644/322/60/0/b4299bd_upload-1-wz74ht0dvf1z-arche-def-1024.jpg",
           "other_news": true
         },
         {
@@ -1095,6 +1106,17 @@
           "other_news": true
         },
         {
+          "title": "Phoebe Giannisi’s eco-poetry challenges the idea that humans are separate from nature",
+          "link": "https://theconversation.com/phoebe-giannisis-eco-poetry-challenges-the-idea-that-humans-are-separate-from-nature-294214",
+          "published": "2026-10-19T16:05:16+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "What cicadas, shepherds and an ancient Greek monster reveal about our place in nature.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Five types of disinformation – and how to spot red flags that trigger climate inaction",
           "link": "https://theconversation.com/five-types-of-disinformation-and-how-to-spot-red-flags-that-trigger-climate-inaction-278588",
           "published": "2026-10-15T10:16:52+00:00",
@@ -1179,28 +1201,6 @@
           "type": "news",
           "language": "en",
           "summary": "Hospital journeys can be costly, exhausting and hard to plan. The timing and location of appointments can determine whether lower-carbon travel is pos",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Digger channels Kubrick’s Dr. Strangelove for the climate crisis – until its twist",
-          "link": "https://theconversation.com/digger-channels-kubricks-dr-strangelove-for-the-climate-crisis-until-its-twist-293720",
-          "published": "2026-10-06T15:26:05+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Digger’s hat is borrowed from Major ‘King’ Kong (Slim Pickens), a character in Stanley Kubrick’s film masterpiece.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Did the hot summer make more people worry about climate change? Here’s what the latest indications show",
-          "link": "https://theconversation.com/did-the-hot-summer-make-more-people-worry-about-climate-change-heres-what-the-latest-indications-show-292321",
-          "published": "2026-10-06T12:44:23+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Around 65% of the British public are now concerned about climate change.",
           "image": null,
           "other_news": true
         },
@@ -1711,6 +1711,17 @@
           "other_news": true
         },
         {
+          "title": "La foisonnante inventivité des chercheurs pour étudier les capacités d’adaptation des espèces",
+          "link": "https://www.lemonde.fr/sciences/article/2026/10/19/la-foisonnante-inventivite-des-chercheurs-pour-etudier-les-capacites-d-adaptation-des-especes_6797552_1650684.html",
+          "published": "2026-10-19T17:30:18+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Prédire l’imprévisible face au changement climatique, c’est le défi que doivent relever les scientifiques. Pour créer des conditions météorologiques e",
+          "image": "https://img.lemde.fr/2026/10/19/99/0/1200/600/644/322/60/0/f3b45eb_upload-1-5yymfv8gaoed-cnrs-20190066-0051-md.jpg",
+          "other_news": true
+        },
+        {
           "title": "COP17 sur la biodiversité à Erevan : les leviers dont dispose la communauté internationale pour corriger la trajectoire « avant qu’il ne soit trop tard »",
           "link": "https://www.lemonde.fr/planete/article/2026/10/19/cop17-sur-la-biodiversite-a-erevan-les-leviers-dont-dispose-la-communaute-internationale-pour-corriger-la-trajectoire-avant-qu-il-ne-soit-trop-tard_6797481_3244.html",
           "published": "2026-10-19T06:00:34+02:00",
@@ -1744,17 +1755,6 @@
           "other_news": true
         },
         {
-          "title": "Le ministre délégué à la transition écologique annonce une réforme de l’évaluation environnementale",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/15/le-ministre-delegue-a-la-transition-ecologique-annonce-une-reforme-de-l-evaluation-environnementale_6794620_3244.html",
-          "published": "2026-10-15T18:45:01+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Mathieu Lefèvre a présenté, jeudi, une réorganisation des autorités environnementales chargées d’émettre un avis sur l’impact sur l’environnement de g",
-          "image": "https://img.lemde.fr/2026/06/30/417/0/5009/2504/644/322/60/0/7d685ec_ftp-1-bjgwizs2qdaw-2026-06-30t135345z-310130075-rc2d4mat667x-rtrmadp-3-france-politics.JPG",
-          "other_news": true
-        },
-        {
           "title": "La COP17 sur la biodiversité s’ouvre en Arménie : les États du monde entier font face aux limites de leur action",
           "link": "https://vert.eco/biodiversite/la-cop17-sur-la-biodiversite-souvre-en-armenie-les-etats-du-monde-entier-font-face-a-leurs-promesses/",
           "published": "2026-10-19T10:04:05+00:00",
@@ -1784,6 +1784,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Ce géant de l’industrie nucléaire s’apprête à lancer «Aval du futur», un gigantesque chantier pour assurer le recyclage des combustibles usés. Mais le",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Tackling Lake Erie’s algal blooms requires targeted conservation strategies",
+          "link": "https://theconversation.com/tackling-lake-eries-algal-blooms-requires-targeted-conservation-strategies-293913",
+          "published": "2026-10-19T16:03:17+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Many of the excess nutrients causing algal blooms in Lake Erie come from nearby farms, and the challenge is keeping them out of waterways.",
           "image": null,
           "other_news": true
         },

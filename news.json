@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:42:53.016941+00:00",
+  "generated_at": "2026-10-19T19:21:15.868527+00:00",
   "categories": {
     "Politics & Policy": {
       "Deep Ocean & Mesophotic Ecosystems": [
@@ -212,7 +212,7 @@
         },
         {
           "title": "Could You Really Be Swallowed by a Whale?",
-          "link": "https://oceanconservancy.org/blog/2026/10/16/could-you-really-be-swallowed-by-a-whale/",
+          "link": "https://oceanconservancy.org/blog/2026/10/16/swallowed-by-a-whale/",
           "published": "2026-10-16T20:25:30+00:00",
           "source": "Ocean Conservancy",
           "type": "news",
@@ -943,7 +943,7 @@
           "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "&#160; An old elephant can remember where to find water when the usual pools have dried. Her death leaves the herd with fewer ways to survive a drough",
+          "summary": "&#160; Last year the Christmas Island shrew, slender-billed curlew, and three Australian bandicoots were among the species formally declared extinct.",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/19122516/blue_gecko_herps_639-768x512.jpg",
           "other_news": true
         },
@@ -1201,6 +1201,17 @@
           "type": "news",
           "language": "en",
           "summary": "Hospital journeys can be costly, exhausting and hard to plan. The timing and location of appointments can determine whether lower-carbon travel is pos",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Federal spending on climate change before 2024 election boosted incumbents of both parties",
+          "link": "https://theconversation.com/federal-spending-on-climate-change-before-2024-election-boosted-incumbents-of-both-parties-293791",
+          "published": "2026-10-19T18:49:58+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "Incumbents can still reap electoral rewards when federal money reaches their districts, even if they opposed the bill that provided it.",
           "image": null,
           "other_news": true
         },
@@ -1784,6 +1795,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Ce géant de l’industrie nucléaire s’apprête à lancer «Aval du futur», un gigantesque chantier pour assurer le recyclage des combustibles usés. Mais le",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Where does all the hardware go? The hidden environmental footprint of AI data centres",
+          "link": "https://theconversation.com/where-does-all-the-hardware-go-the-hidden-environmental-footprint-of-ai-data-centres-292732",
+          "published": "2026-10-19T18:59:17+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Canada’s new Responsible Data Centre Development Principles fail to address computer hardware alongside water and electricity usage.",
           "image": null,
           "other_news": true
         },

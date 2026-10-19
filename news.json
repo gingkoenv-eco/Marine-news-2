@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-10-19T05:02:08.656003+00:00",
+  "generated_at": "2026-10-19T13:18:11.020886+00:00",
   "categories": {
     "Politics & Policy": {
-      "Sustainable Fisheries": [
-        {
-          "title": "Supreme Court declines to hear the case of a lobster fisherman who opposes boat tracking",
-          "link": "https://news.mongabay.com/short-article/2026/10/supreme-court-declines-to-hear-the-case-of-a-lobster-fisherman-who-opposes-boat-tracking/",
-          "published": "2026-10-14T19:42:13+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "PORTLAND, Maine (AP) — The Supreme Court has declined to hear the case of a lobster fisherman who alleged the government requiring commercial fishing",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14193657/AP26257564634869-768x512.jpg",
-          "other_news": false
-        }
-      ],
       "Deep Ocean & Mesophotic Ecosystems": [
         {
           "title": "Belize looks to the deep sea to complete its 30% ocean protection pledge",
@@ -63,17 +50,6 @@
           "other_news": false
         },
         {
-          "title": "After Hormuz, Nepal and wildfires, people want action to make polluters pay",
-          "link": "https://www.climatechangenews.com/2026/09/22/after-hormuz-nepal-and-wildfires-people-demand-action-to-make-polluters-pay/",
-          "published": "2026-09-22T02:50:41+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "If governments are serious about boosting resilience and energy security, they must make the companies profiting from the fossil-fuel economy help foo",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "La biodiversité a aussi sa COP, on vous explique pourquoi c'est important",
           "link": "https://reporterre.net/COP17-biodiversite-les-enjeux-du-rendez-vous-en-Armenie-La-COP17-ne-sera-pas-celle-des",
           "published": "2026-10-18T13:00:00+00:00",
@@ -115,6 +91,17 @@
           "language": "en",
           "summary": "What started as protests about conditions in French schools has widened into riots about cost of living – and taken hold in other European countries,",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Funding uncertainty threatens Tasmania’s gains against kelp-grazing sea urchins",
+          "link": "https://news.mongabay.com/2026/10/funding-uncertainty-threatens-tasmanias-gains-against-kelp-grazing-sea-urchins/",
+          "published": "2026-10-19T06:00:06+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "For nearly a decade, divers off Tasmania’s east coast have been getting a boost from the government to harvest the invasive sea urchins killing off ke",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/15150851/giant-kelp-portrait-8_PortDavey_TAS_StefanAndrews-768x512.jpg",
           "other_news": false
         }
       ]
@@ -213,17 +200,6 @@
           "other_news": false
         },
         {
-          "title": "South Atlantic Whale Sanctuary bid fails a second time at IWC",
-          "link": "https://oceanographicmagazine.com/news/south-atlantic-whale-sanctuary-bid-fails-a-second-time-at-iwc/",
-          "published": "2026-10-02T12:30:54+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A proposed South Atlantic whale sanctuary has again failed to win the required 75 per cent majority at IWC70, as the UK marks 40 years of the global w",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Could You Really Be Swallowed by a Whale?",
           "link": "https://oceanconservancy.org/blog/2026/10/16/could-you-really-be-swallowed-by-a-whale/",
           "published": "2026-10-16T20:25:30+00:00",
@@ -289,6 +265,17 @@
           "language": "en",
           "summary": "Federal agencies told to prioritize recreational fishing and to reconsider scientific standards as well as regulationsDonald Trump’s latest fishing or",
           "image": "https://i.guim.co.uk/img/media/f8af944ce62f7aa2ef395db74a4348765e6746fb/330_0_3340_2672/master/3340.jpg?width=140&quality=85&auto=format&fit=max&s=2a2c9f94b1c2ae575cf57c36bdcbfbb9",
+          "other_news": false
+        },
+        {
+          "title": "How the “big five” fish took over the British dinner table",
+          "link": "https://oceanographicmagazine.com/news/how-the-big-five-fish-took-over-the-british-dinner-table/",
+          "published": "2026-10-19T09:38:00+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new study of recipes from the last 100 years shows how a varied seafood culture gave way to the \"big five\" that now make up about 80% of the fish ea",
+          "image": null,
           "other_news": false
         }
       ],
@@ -476,17 +463,6 @@
           "other_news": false
         },
         {
-          "title": "Seal pups spotted at nature reserve for 12th year",
-          "link": "https://www.bbc.co.uk/news/articles/c6jrwnzyv528o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-18T06:20:04+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Two pups have been recorded at South Walney, home to Cumbria's only breeding grey seal colony.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1960/live/ebe42590-c881-11f1-a2e8-f71844f8002e.jpg",
-          "other_news": false
-        },
-        {
           "title": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
           "link": "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-14T23:35:40+00:00",
@@ -663,25 +639,14 @@
           "other_news": false
         },
         {
-          "title": "« On soutient les agriculteurs en cas de difficultés » : les Amap, un modèle de résilience face au chaos climatique",
-          "link": "https://reporterre.net/On-soutient-les-agriculteurs-en-cas-de-difficultes-les-Amap-un-modele-de-resilience-face",
-          "published": "2026-10-10T05:00:00+00:00",
-          "source": "Reporterre",
+          "title": "Solent seabirds enjoy record breeding year after bird flu recovery",
+          "link": "https://oceanographicmagazine.com/news/solent-seabirds-enjoy-record-breeding-year-after-bird-flu-recovery/",
+          "published": "2026-10-19T11:12:06+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "language": "fr",
-          "summary": "Depuis plus de vingt ans, les Associations pour le maintien d'une agriculture paysanne mettent en lien direct des consommateurs",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/rid_260930-3-99b5a.jpg?1791608402",
-          "other_news": false
-        },
-        {
-          "title": "Nourrir les poissons d'élevage à base d'insectes ou de soja : l'idée miraculeuse qui s'est effondrée",
-          "link": "https://reporterre.net/Nourrir-les-poissons-d-elevage-a-base-d-insectes-ou-de-soja-l-idee-miraculeuse-qui",
-          "published": "2026-10-09T14:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Pour en finir avec la farine de poissons sauvages, l'aquaculture mise sur celles à base de soja et d'insectes pour nourrir ses p",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/afp__20180313__z451d__v1__highres__franceagriculturescienceresearchinnovationanimali-2-18804.jpg?1791554401",
+          "language": "en",
+          "summary": "Seabirds in the Solent have had a record breeding year, with Sandwich Terns rebounding at Pagham Harbour from zero pairs in 2023 to at least 756 after",
+          "image": null,
           "other_news": false
         },
         {
@@ -837,39 +802,6 @@
           "summary": "In recent years, there has been a steady stream of ocean conservation pledges, from French Polynesia extending marine protection across its nearly 5 m",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/03/12123146/64-Peruvian-artisanal-fisher-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "“Stunningly short-sighted.” NOAA grant cuts threaten US climate resilience",
-          "link": "https://news.mongabay.com/short-article/2026/10/stunningly-short-sighted-noaa-grant-cuts-threaten-us-climate-resilience/",
-          "published": "2026-10-14T22:52:47+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "After Donald Trump began his second term as president of the U.S. in 2025, his administration moved to dramatically cut federal funding for agencies i",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14224341/PHOTO-Biloxi-Mississippi-living-shoreline-060622-NOAA-Eric-Sparks.jpg-copy-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Act before El Niño: Expert worries about deepening hunger in East and South Africa",
-          "link": "https://news.mongabay.com/2026/10/act-before-el-nino-expert-worries-about-deepening-hunger-in-east-and-south-africa/",
-          "published": "2026-10-14T19:46:25+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "El Niño, a naturally occurring climate pattern that involves unusually warm surface waters in the central and eastern equatorial Pacific Ocean can alt",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14194014/Banner-image-vehicule-et-inondation-768x512.png",
-          "other_news": false
-        },
-        {
-          "title": "Researchers uncover hidden routes and patterns of Amazon wildlife trade",
-          "link": "https://news.mongabay.com/2026/10/researchers-uncover-hidden-routes-and-patterns-of-amazon-wildlife-trade/",
-          "published": "2026-10-14T17:36:34+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Rare fish and turtles sell for pennies at home, fetching fortunes in distant global markets.",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14163904/Podocnemis-unifilis_tracaja_Valdemir-Cunha-_-Greenpeace-1-768x512.png",
-          "other_news": false
         }
       ]
     },
@@ -903,17 +835,6 @@
     },
     "Other News": {
       "Plastic & Ocean Pollution": [
-        {
-          "title": "Corby metal pollution may harm people, says study",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2dgl087lzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-18T05:37:52+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "However, the Environment Agency says it has not found evidence that could cause significant harm.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dbd/live/16972b10-ca31-11f1-9ab2-b325ce61f9d2.jpg",
-          "other_news": true
-        },
         {
           "title": "Could your plastic film packaging serve a purpose? We won’t know until recycling laws change",
           "link": "https://theconversation.com/could-your-plastic-film-packaging-serve-a-purpose-we-wont-know-until-recycling-laws-change-293561",
@@ -1016,6 +937,17 @@
           "other_news": true
         },
         {
+          "title": "Conservation is bringing species back. Governments must help those gains last",
+          "link": "https://news.mongabay.com/2026/10/conservation-is-bringing-species-back-governments-must-help-those-gains-last/",
+          "published": "2026-10-19T12:38:55+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "&#160; An old elephant can remember where to find water when the usual pools have dried. Her death leaves the herd with fewer ways to survive a drough",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/19122516/blue_gecko_herps_639-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "Nearly 90% of countries adopt biodiversity targets, but most remain off track",
           "link": "https://news.mongabay.com/2026/10/nearly-90-of-countries-adopt-biodiversity-targets-but-most-remain-off-track/",
           "published": "2026-10-17T22:50:40+00:00",
@@ -1105,17 +1037,6 @@
           "language": "en",
           "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
-          "other_news": true
-        },
-        {
-          "title": "£15m for zero-emission testing at Belfast Harbour",
-          "link": "https://www.bbc.co.uk/news/articles/c6kgqr9n8082o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-15T14:55:03+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "It comes after a £15m investment from UK Research and Innovation's Local Innovation Partnerships Fund.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca1/live/a26c8a10-c8a4-11f1-929c-0b57deb4f9df.jpg",
           "other_news": true
         },
         {
@@ -1416,6 +1337,28 @@
           "other_news": true
         },
         {
+          "title": "IPCC scientists vow to press on with climate reports despite political deadlock",
+          "link": "https://www.climatechangenews.com/2026/10/19/ipcc-scientists-vow-to-press-on-with-climate-reports-despite-political-deadlock/",
+          "published": "2026-10-19T12:31:12+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "After governments again failed to agree a timeline, nearly 120 IPCC authors pledged to complete their assessment on time and with full scientific rigo",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Protecting nature is a public duty, not a Wall Street profit opportunity",
+          "link": "https://www.climatechangenews.com/2026/10/19/protecting-nature-is-a-public-duty-not-a-wall-street-profit-opportunity/",
+          "published": "2026-10-19T08:09:06+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "To raise the money needed, governments should focus on redirecting subsidies that currently harm nature, while working on a new convention to recover",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Under US pressure, World Bank says it will back gas “where appropriate”",
           "link": "https://www.climatechangenews.com/2026/10/16/under-us-pressure-world-bank-says-it-will-back-gas-where-appropriate/",
           "published": "2026-10-16T11:54:15+00:00",
@@ -1658,6 +1601,28 @@
           "other_news": true
         },
         {
+          "title": "Pesticides : paysan, il a perdu sa fille d'un cancer et va « régler ses comptes » devant les eurodéputés",
+          "link": "https://reporterre.net/Pesticides-paysan-il-a-perdu-sa-fille-d-un-cancer-et-va-regler-ses-comptes-devant-les",
+          "published": "2026-10-19T05:30:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors que l'Europe s'apprête à assouplir la législation sur les pesticides, Édouard Exilard, paysan basque qui a perdu sa fille",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/edouard-exilard_isabellemiquelestorena20_resized-a2562.jpg?1792387801",
+          "other_news": true
+        },
+        {
+          "title": "Du maïs à la place de la lavande ? Un immense projet d'irrigation divise la Provence",
+          "link": "https://reporterre.net/Du-mais-a-la-place-de-la-lavande-Un-immense-projet-d-irrigation-divise-la-Provence",
+          "published": "2026-10-19T05:30:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Pomper l'eau du Verdon pour arroser des champs situés 300 m plus haut : en Provence, un immense réseau d'irrigation doit presque",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/14092026-9-ab0ee.jpg?1792387801",
+          "other_news": true
+        },
+        {
           "title": "Des aides aux énergies renouvelables... redirigées vers le carburant",
           "link": "https://reporterre.net/Des-aides-aux-energies-renouvelables-redirigees-vers-le-carburant",
           "published": "2026-10-16T14:04:48+00:00",
@@ -1746,17 +1711,6 @@
           "other_news": true
         },
         {
-          "title": "Rights of Nature spreads as councils adopt River Avon Charter",
-          "link": "https://oceanographicmagazine.com/news/rights-of-nature-spreads-as-councils-adopt-river-avon-charter/",
-          "published": "2026-10-02T15:07:05+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Eleven councils have adopted a community-led charter recognising the River Avon as a living entity with rights, as campaigners say more than 20 simila",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "COP17 sur la biodiversité à Erevan : les leviers dont dispose la communauté internationale pour corriger la trajectoire « avant qu’il ne soit trop tard »",
           "link": "https://www.lemonde.fr/planete/article/2026/10/19/cop17-sur-la-biodiversite-a-erevan-les-leviers-dont-dispose-la-communaute-internationale-pour-corriger-la-trajectoire-avant-qu-il-ne-soit-trop-tard_6797481_3244.html",
           "published": "2026-10-19T06:00:34+02:00",
@@ -1770,7 +1724,7 @@
         {
           "title": "Au Brésil, la perspective d’un retour de l’extrême droite fait craindre de nouveaux reculs pour l’environnement",
           "link": "https://www.lemonde.fr/planete/article/2026/10/18/au-bresil-la-perspective-d-un-retour-de-l-extreme-droite-fait-craindre-de-nouveaux-reculs-pour-l-environnement_6796998_3244.html",
-          "published": "2026-10-18T06:05:10+02:00",
+          "published": "2026-10-18T06:05:07+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1801,6 +1755,17 @@
           "other_news": true
         },
         {
+          "title": "La COP17 sur la biodiversité s’ouvre en Arménie : les États du monde entier font face aux limites de leur action",
+          "link": "https://vert.eco/biodiversite/la-cop17-sur-la-biodiversite-souvre-en-armenie-les-etats-du-monde-entier-font-face-a-leurs-promesses/",
+          "published": "2026-10-19T10:04:05+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Ce lundi, les négociations de la 17ème conférence mondiale (COP17) sur la biodiversité ont démarré à Erevan, capitale de l’Arménie. Quatre ans après l",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Le gouvernement présente un «ambitieux» plan de restauration de la nature… sans convaincre les associations",
           "link": "https://vert.eco/biodiversite/le-gouvernement-presente-un-ambitieux-plan-de-restauration-de-la-nature-sans-convaincre-les-associations/",
           "published": "2026-10-15T08:49:17+00:00",
@@ -1819,6 +1784,28 @@
           "type": "news",
           "language": "fr",
           "summary": "Ce géant de l’industrie nucléaire s’apprête à lancer «Aval du futur», un gigantesque chantier pour assurer le recyclage des combustibles usés. Mais le",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "The science and politics behind the panic over ultraprocessed foods",
+          "link": "https://theconversation.com/the-science-and-politics-behind-the-panic-over-ultraprocessed-foods-292661",
+          "published": "2026-10-19T12:36:28+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "There’s no doubt that the modern food environment needs to be healthier. But are ultraprocessed foods as evil as their reputation suggests?",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How candidates are (quietly) talking about climate change – 3 election strategies you’ll see across the US",
+          "link": "https://theconversation.com/how-candidates-are-quietly-talking-about-climate-change-3-election-strategies-youll-see-across-the-us-293687",
+          "published": "2026-10-19T12:36:08+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Voters have a lot of weighty issues on their minds, but that doesn’t mean they aren’t worried about climate change.",
           "image": null,
           "other_news": true
         },

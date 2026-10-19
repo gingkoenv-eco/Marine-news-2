@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:18:11.020886+00:00",
+  "generated_at": "2026-10-19T14:43:41.422435+00:00",
   "categories": {
     "Politics & Policy": {
       "Deep Ocean & Mesophotic Ecosystems": [
@@ -694,17 +694,6 @@
           "other_news": false
         },
         {
-          "title": "L’Arabie saoudite, sous la pression des attaques des houthistes, tente de protéger ses exportations de pétrole",
-          "link": "https://www.lemonde.fr/economie/article/2026/10/15/petrole-sous-pression-des-attaques-l-arabie-saoudite-tente-de-proteger-ses-exportations_6794616_3234.html",
-          "published": "2026-10-15T18:30:10+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La résilience du principal producteur d’or noir du Golfe est mise à l’épreuve par les frappes des houthistes du Yémen, alliés de l’Iran, contre ses in",
-          "image": "https://img.lemde.fr/2026/10/15/469/0/3999/1999/644/322/60/0/5dd9fe7_upload-1-hn4u5qjef96i-000-d26c2ae.jpg",
-          "other_news": false
-        },
-        {
           "title": "«Reprendre la mer» : un manifeste percutant pour couler la «contre-pêche»",
           "link": "https://vert.eco/biodiversite/reprendre-la-mer-un-manifeste-percutant-pour-couler-la-contre-peche/",
           "published": "2026-10-16T09:21:00+00:00",
@@ -1212,6 +1201,17 @@
           "type": "news",
           "language": "en",
           "summary": "Around 65% of the British public are now concerned about climate change.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How candidates are (quietly) talking about climate change – 3 election strategies you’ll see across the US",
+          "link": "https://theconversation.com/how-candidates-are-quietly-talking-about-climate-change-3-election-strategies-youll-see-across-the-us-293687",
+          "published": "2026-10-19T12:36:08+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "Voters have a lot of weighty issues on their minds, but that doesn’t mean they aren’t worried about climate change.",
           "image": null,
           "other_news": true
         },
@@ -1795,17 +1795,6 @@
           "type": "news",
           "language": "en",
           "summary": "There’s no doubt that the modern food environment needs to be healthier. But are ultraprocessed foods as evil as their reputation suggests?",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "How candidates are (quietly) talking about climate change – 3 election strategies you’ll see across the US",
-          "link": "https://theconversation.com/how-candidates-are-quietly-talking-about-climate-change-3-election-strategies-youll-see-across-the-us-293687",
-          "published": "2026-10-19T12:36:08+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Voters have a lot of weighty issues on their minds, but that doesn’t mean they aren’t worried about climate change.",
           "image": null,
           "other_news": true
         },

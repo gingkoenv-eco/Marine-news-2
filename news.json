@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:08:42.572770+00:00",
+  "generated_at": "2026-10-20T18:00:18.959000+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -66,6 +66,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Un rapport de l’ONG International council for animal welfare (Icaw) publié ce vendredi dénonce l’épédonculation des crevettes, soit la mutilation des",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Celebrating 41 Years of the International Coastal Cleanup®",
+          "link": "https://oceanconservancy.org/blog/2026/10/20/celebrating-41-years-icc/",
+          "published": "2026-10-20T17:13:38+00:00",
+          "source": "Ocean Conservancy",
+          "type": "news",
+          "language": "en",
+          "summary": "This fall, Ocean Conservancy is celebrating its 41st annual International Coastal Cleanup® (ICC), once again bringing together volunteers to protect t",
           "image": null,
           "other_news": false
         },
@@ -1615,17 +1626,6 @@
           "type": "news",
           "language": "en",
           "summary": "Nepal's recent flash flood represents a shared emergency the world over, as more and more communities become victims to a climate crisis they did not",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "COP31 electrification pledge leaves out clean power commitment",
-          "link": "https://www.climatechangenews.com/2026/09/22/cop31-electrification-pledge-leaves-out-clean-power-commitment/",
-          "published": "2026-09-22T18:46:13+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Campaigners and experts say the goal's effectiveness in reducing emissions may be limited unless countries agree to meet it using only clean energy \nT",
           "image": null,
           "other_news": true
         },

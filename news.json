@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T12:46:02.708477+00:00",
+  "generated_at": "2026-10-20T17:08:42.572770+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -66,17 +66,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Un rapport de l’ONG International council for animal welfare (Icaw) publié ce vendredi dénonce l’épédonculation des crevettes, soit la mutilation des",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Why Europe’s new defence agenda depends not only on armies, but also on citizens",
-          "link": "https://theconversation.com/why-europes-new-defence-agenda-depends-not-only-on-armies-but-also-on-citizens-293357",
-          "published": "2026-10-19T14:21:43+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The EU may not yet have a common army but via its citizens, member states can foster a culture of resilience and solidarity if all levels of society c",
           "image": null,
           "other_news": false
         },
@@ -154,6 +143,17 @@
           "other_news": false
         },
         {
+          "title": "Huge fin whale filmed off Welsh coast",
+          "link": "https://www.bbc.co.uk/news/videos/cxly491v6p7yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-20T13:42:22+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Rhys Morgan captured footage of the world's second-largest whale species  lunge feeding on his drone.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/019f/live/1b569770-cc6c-11f1-a64c-550be9e3c66b.jpg",
+          "other_news": false
+        },
+        {
           "title": "Moment giant fin whale's huge mouth engulfs thousands of gallons of water",
           "link": "https://www.bbc.co.uk/news/articles/cjr4yeygwdxvo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-20T12:03:28+00:00",
@@ -209,14 +209,25 @@
           "other_news": false
         },
         {
-          "title": "Celebrity shark trapped in South Korean canal stirs concerns over warming seas",
-          "link": "https://news.mongabay.com/2026/10/celebrity-shark-trapped-in-south-korean-canal-stirs-concerns-over-warming-seas/",
-          "published": "2026-10-16T15:01:00+00:00",
+          "title": "As silky sharks decline, Costa Rica’s dominant trade faces a reckoning",
+          "link": "https://news.mongabay.com/2026/10/as-silky-sharks-decline-costa-ricas-dominant-trade-faces-a-reckoning/",
+          "published": "2026-10-20T17:03:20+00:00",
           "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "SEOUL — Wedged between skyscrapers and a bustling passenger ferry port in Busan, South Korea’s second-largest city, a celebrity of sorts is drawing th",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16144620/AP26273274507289-768x512.jpg",
+          "summary": "Inside an inspection facility in Hong Kong in 2018, shark biologist Diego Cardeñosa stared at dozens of large white bags. They were stacked, sometimes",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/17023353/silky1_Silky_shark_Bahamas_Brendan_Talwar-768x512.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Six new calves offer hope amid ongoing threats to Cambodia’s Irrawaddy dolphins",
+          "link": "https://news.mongabay.com/short-article/2026/10/six-new-calves-offer-hope-amid-ongoing-threats-to-cambodias-irrawaddy-dolphins/",
+          "published": "2026-10-20T12:55:29+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Cambodia’s population of critically endangered Irrawaddy dolphins has increased to an estimated 118 individuals since the confirmed birth of six calve",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20125459/Irrawaddy-dolphins-in-Cambodia-768x512.jpg",
           "other_news": false
         }
       ],
@@ -253,6 +264,17 @@
           "summary": "A new study of recipes from the last 100 years shows how a varied seafood culture gave way to the \"big five\" that now make up about 80% of the fish ea",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "Illegal fishing is thriving in African waters – a satellite system could help change that",
+          "link": "https://theconversation.com/illegal-fishing-is-thriving-in-african-waters-a-satellite-system-could-help-change-that-292685",
+          "published": "2026-10-20T14:01:20+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Monitoring boats on African waters is the easy part; the harder part is what comes next.",
+          "image": null,
+          "other_news": false
         }
       ],
       "Nature-Based Solutions & Restoration": [
@@ -265,17 +287,6 @@
           "language": "en",
           "summary": "Seagrass meadows off Cairns have recovered to pre-flood levels after a 98% collapse, but a 34-year study shows the fish living in them have reorganise",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "‘Enclosed river:’ Women shellfish gatherers fight for access to mangroves in Brazil",
-          "link": "https://news.mongabay.com/2026/10/enclosed-river-women-shellfish-gatherers-fight-for-access-to-mangroves-in-brazil/",
-          "published": "2026-10-16T15:38:23+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Adriana Hora dos Santos stands waist-deep in the water. Her dark hair is tied in a single braid; her arms and torso covered by a pink Lycra shirt. The",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16152749/adriana_cata_ostras-1800x1012-1-768x512.jpg",
           "other_news": false
         }
       ],
@@ -549,6 +560,17 @@
           "other_news": false
         },
         {
+          "title": "Q&A: Why a pivotal IPCC meeting in Ethiopia ended in ‘profound disappointment’",
+          "link": "https://www.carbonbrief.org/qa-why-a-pivotal-ipcc-meeting-in-ethiopia-ended-in-profound-disappointment",
+          "published": "2026-10-20T14:40:10+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Countries have failed – for the sixth time running – to agree on the timeline for publishing the Intergovernmental Panel&#8230;\nThe post Q&amp;A: Why",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature",
           "link": "https://www.carbonbrief.org/explainer-how-sea-level-rise-poses-an-existential-threat-to-humans-heritage-and-nature",
           "published": "2026-09-22T15:14:21+00:00",
@@ -670,6 +692,28 @@
           "other_news": false
         },
         {
+          "title": "What unrest on French streets could mean for next year’s presidential election",
+          "link": "https://theconversation.com/what-unrest-on-french-streets-could-mean-for-next-years-presidential-election-294788",
+          "published": "2026-10-20T15:24:35+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The recent turmoil in French cities will probably favour Marine Le Pen and the far-right.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Wainwright fire shows the importance of health-care system resilience to Canadian security",
+          "link": "https://theconversation.com/wainwright-fire-shows-the-importance-of-health-care-system-resilience-to-canadian-security-294715",
+          "published": "2026-10-20T14:09:10+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The response to a mass-casualty event does not play out in an otherwise empty health-care system. It competes with everyday care for staff, beds, tran",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "A new history of ‘blackbirding’ favours moral condemnation at the expense of complexity",
           "link": "https://theconversation.com/a-new-history-of-blackbirding-favours-moral-condemnation-at-the-expense-of-complexity-291169",
           "published": "2026-10-19T19:16:44+00:00",
@@ -714,6 +758,17 @@
           "other_news": false
         },
         {
+          "title": "Recycled glass offers a potential new tool to restore a vanishing coastline",
+          "link": "https://news.mongabay.com/2026/10/recycled-glass-offers-a-potential-new-tool-to-restore-a-vanishing-coastline/",
+          "published": "2026-10-20T15:35:36+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Every 100 minutes, the U.S. state of Louisiana loses a soccer field’s worth of land to coastal erosion. It’s a natural process intensified by the acce",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20143608/a.-%C2%A9-Sean-Krieg-original-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Typhoon Champi strengthens to Category 5 but moves away from land; Trudy weakens",
           "link": "https://news.mongabay.com/short-article/2026/10/typhoon-champi-strengthens-to-category-5-but-moves-away-from-land-trudy-weakens/",
           "published": "2026-10-19T17:30:23+00:00",
@@ -744,17 +799,6 @@
           "language": "en",
           "summary": "Promises by nations to spend hundreds of billions of dollars to finance nature and increase protections for oceans around the globe are falling short",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16175102/AP26287817872784-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Climate change could send more toxic mining waste into coastal waters, study warns",
-          "link": "https://news.mongabay.com/2026/10/climate-change-could-send-more-toxic-mining-waste-into-coastal-waters-study-warns/",
-          "published": "2026-10-16T09:45:00+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Demand for metals has exploded in recent decades, thanks to population growth, technological innovation, and economic development. The volume of metal",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/15115700/a.-BANNER-Mariana-dam-disaster-Brazil-23147142874_7e86046655_o1-768x512.jpg",
           "other_news": false
         }
       ]
@@ -1003,17 +1047,6 @@
           "other_news": true
         },
         {
-          "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-17T19:13:21+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67d1/live/5c4e9f00-c9c6-11f1-9624-cbdaf8e49de5.jpg",
-          "other_news": true
-        },
-        {
           "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
           "link": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-14T23:32:11+00:00",
@@ -1076,6 +1109,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Utilisé comme fongicide en agriculture, notamment biologique, le cuivre suscite des inquiétudes quant à sa toxicité sur l’environnement et la santé. Q",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Is it wrong to kill wild animals that attack humans? Sometimes conservation demands it",
+          "link": "https://theconversation.com/is-it-wrong-to-kill-wild-animals-that-attack-humans-sometimes-conservation-demands-it-294720",
+          "published": "2026-10-20T13:30:04+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "When wild animals kill people, the response can be controversial. But removing a dangerous individual can often protect people and other wildlife.",
           "image": null,
           "other_news": true
         },
@@ -1175,17 +1219,6 @@
           "type": "news",
           "language": "en",
           "summary": "A noise researcher compares London and Copenhagen and takes a closer look at what the countries’ different regulations say about how much noise we acc",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Hospital appointments can make greener travel harder",
-          "link": "https://theconversation.com/hospital-appointments-can-make-greener-travel-harder-293473",
-          "published": "2026-10-08T10:04:00+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Hospital journeys can be costly, exhausting and hard to plan. The timing and location of appointments can determine whether lower-carbon travel is pos",
           "image": null,
           "other_news": true
         },
@@ -1784,6 +1817,17 @@
           "other_news": true
         },
         {
+          "title": "Political power without balance leads to the erosion of democracy, what Montesquieu can teach modern-day France",
+          "link": "https://theconversation.com/political-power-without-balance-leads-to-the-erosion-of-democracy-what-montesquieu-can-teach-modern-day-france-294737",
+          "published": "2026-10-20T14:10:44+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Montesquieu’s philosophy on the need for counter-powers for safeguarding against revolt in societies serves as a reminder for France amid a climate of",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "NZ’s next government will inherit a Treaty debate that is far from resolved",
           "link": "https://theconversation.com/nzs-next-government-will-inherit-a-treaty-debate-that-is-far-from-resolved-292762",
           "published": "2026-10-20T02:31:50+00:00",
@@ -1817,14 +1861,14 @@
           "other_news": true
         },
         {
-          "title": "Tackling Lake Erie’s algal blooms requires targeted conservation strategies",
-          "link": "https://theconversation.com/tackling-lake-eries-algal-blooms-requires-targeted-conservation-strategies-293913",
-          "published": "2026-10-19T16:03:17+00:00",
-          "source": "The Conversation",
+          "title": "Can larger batteries safely power residential buildings? A project in New York aims to show how",
+          "link": "https://news.mongabay.com/short-article/2026/10/can-larger-batteries-safely-power-residential-buildings-a-project-in-new-york-aims-to-show-how/",
+          "published": "2026-10-20T15:41:06+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Many of the excess nutrients causing algal blooms in Lake Erie come from nearby farms, and the challenge is keeping them out of waterways.",
-          "image": null,
+          "summary": "A battery system that stores excess energy when it’s plentiful will power an apartment building in Buffalo, New York, when the grid is strained and el",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20153343/AP26292597463874-768x512.jpg",
           "other_news": true
         },
         {
@@ -1869,28 +1913,6 @@
           "language": "en",
           "summary": "The past two years have been a dramatic period for conservation funding. The greatest attention has focused on the sudden dissolution of USAID in earl",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/19230649/KWCA-Photos-banner-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Saving big cats: Storytelling duo Steve Winter & Sharon Guynup publish new book",
-          "link": "https://news.mongabay.com/2026/10/saving-big-cats-storytelling-duo-steve-winter-sharon-guynup-publish-new-book/",
-          "published": "2026-10-16T15:13:49+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "For more than two decades, National Geographic photographer Steve Winter and environmental journalist Sharon Guynup have followed big cats into some o",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16135236/6-BANNER-IMAGE-Hollywood-Cougar-Grey-Large-copy-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Vulture conservation project to target illegal killing and poisoning in Chad",
-          "link": "https://news.mongabay.com/short-article/2026/10/vulture-conservation-project-to-target-illegal-killing-and-poisoning-in-chad/",
-          "published": "2026-10-16T10:05:49+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Conservationists are launching a project to protect dwindling vulture populations in Chad amid a Central Africa-wide decline. Run by the nonprofit Sah",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16100125/An-Egyptian-vulture-in-Chad.-Image-courtesy-of-Sahara-Conservation-768x512.jpg",
           "other_news": true
         }
       ]

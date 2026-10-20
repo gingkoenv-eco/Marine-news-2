@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:38:42.694064+00:00",
+  "generated_at": "2026-10-20T12:46:02.708477+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -154,6 +154,17 @@
           "other_news": false
         },
         {
+          "title": "Moment giant fin whale's huge mouth engulfs thousands of gallons of water",
+          "link": "https://www.bbc.co.uk/news/articles/cjr4yeygwdxvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-20T12:03:28+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Videographer Rhys Morgan captured footage of the worlds second largest whale  lunge feeding on his drone.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e100/live/c8055510-cc62-11f1-bc2e-018d645d8d21.jpg",
+          "other_news": false
+        },
+        {
           "title": "3 iconic animals show the value of the US Endangered Species Act – and the harm in stripping it away",
           "link": "https://theconversation.com/3-iconic-animals-show-the-value-of-the-us-endangered-species-act-and-the-harm-in-stripping-it-away-292887",
           "published": "2026-10-01T12:42:43+00:00",
@@ -161,17 +172,6 @@
           "type": "news",
           "language": "en",
           "summary": "The stories of a whale, a panther and a butterfly help explain why new interpretations of the Endangered Species Act could be catastrophic for species",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "First new penguin species in a century found on Kerguelen Islands",
-          "link": "https://oceanographicmagazine.com/news/first-new-penguin-species-in-a-century-found-on-kerguelen-islands/",
-          "published": "2026-10-05T18:12:47+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Genomic analysis has split the gentoo penguin into four species, including the first newly named penguin in over a century, with three island-dwelling",
           "image": null,
           "other_news": false
         },
@@ -217,17 +217,6 @@
           "language": "en",
           "summary": "SEOUL — Wedged between skyscrapers and a bustling passenger ferry port in Busan, South Korea’s second-largest city, a celebrity of sorts is drawing th",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16144620/AP26273274507289-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Seagrass meadows may offer coastal communities a more nutritious catch than reefs",
-          "link": "https://news.mongabay.com/2026/10/seagrass-meadows-may-offer-coastal-communities-a-more-nutritious-catch-than-reefs/",
-          "published": "2026-10-16T07:13:38+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Researchers surveyed 40 sites along the East African coastline from Kenya to Mozambique, studying seagrass and coral reef ecosystems. They found that",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/15150732/3-768x512.png",
           "other_news": false
         }
       ],
@@ -291,17 +280,6 @@
         }
       ],
       "Polar & Reef Ecosystems & Resilience": [
-        {
-          "title": "Arctic infrastructure was built on frozen ground that’s starting to thaw – drones can help spot the permafrost changes coming",
-          "link": "https://theconversation.com/arctic-infrastructure-was-built-on-frozen-ground-thats-starting-to-thaw-drones-can-help-spot-the-permafrost-changes-coming-292097",
-          "published": "2026-09-29T12:45:24+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "A regional permafrost map can’t tell a builder if a particular foundation or road will survive as temperatures rise. Engineers need to see beneath the",
-          "image": null,
-          "other_news": false
-        },
         {
           "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
           "link": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
@@ -615,6 +593,28 @@
           "other_news": false
         },
         {
+          "title": "BP oil spill continues to decimate marine life off Gulf of Mexico 16 years on",
+          "link": "https://oceanographicmagazine.com/news/bp-oil-spill-continues-to-decimate-marine-life-off-gulf-of-mexico-16-years-on/",
+          "published": "2026-10-20T12:26:21+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Toxins from the 134-million-gallon spill were absorbed into marine animals’ eggs – and are still weakening deep-sea offspring today\nThe post BP oil sp",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "US to sell off seabed as scientists check damage from mining tests",
+          "link": "https://oceanographicmagazine.com/news/us-to-sell-off-seabed-as-scientists-check-damage-from-mining-tests/",
+          "published": "2026-10-20T12:23:36+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The US will hold its first deep-sea mining lease sale in November, offering 31 million acres off American Samoa, as scientists revisit a Pacific minin",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Solent seabirds enjoy record breeding year after bird flu recovery",
           "link": "https://oceanographicmagazine.com/news/solent-seabirds-enjoy-record-breeding-year-after-bird-flu-recovery/",
           "published": "2026-10-19T11:12:06+00:00",
@@ -772,19 +772,6 @@
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16144823/Photo-2-Wisye-Sahambangung-768x512.jpeg",
           "other_news": false
         }
-      ],
-      "Other Marine News": [
-        {
-          "title": "Deep-sea mining fails the money test, independent report finds",
-          "link": "https://oceanographicmagazine.com/news/deep-sea-mining-fails-the-money-test-independent-report-finds/",
-          "published": "2026-10-05T19:39:14+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Independent analysis of The Metals Company's own projections finds deep-sea mining destroys value in over eight in ten realistic scenarios and could l",
-          "image": null,
-          "other_news": false
-        }
       ]
     },
     "Other News": {
@@ -843,6 +830,17 @@
           "type": "news",
           "language": "en",
           "summary": "The WWF’s Living Planet Index is one of our best measures of biodiversity loss. But the populations it counts may not be representative of wildlife as",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Who should have a say in which species are saved? The California condor offers lessons for a global biodiversity treaty",
+          "link": "https://theconversation.com/who-should-have-a-say-in-which-species-are-saved-the-california-condor-offers-lessons-for-a-global-biodiversity-treaty-294659",
+          "published": "2026-10-20T12:36:46+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "When conservation affects local people, the question of who pays and who has a voice in decisions can make or break species recovery.",
           "image": null,
           "other_news": true
         },
@@ -944,6 +942,17 @@
           "type": "news",
           "language": "en",
           "summary": "The climate crisis is also a governance crisis - one with a persistent blindspot for women's leadership, ingenuity and readiness to take decisions for",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "US inequality is getting worse in ways you might not expect",
+          "link": "https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075",
+          "published": "2026-10-20T12:38:27+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "From tax policy to gas prices and tariffs, a mix of new factors is making inequality in the US more extreme.",
           "image": null,
           "other_news": true
         }
@@ -1700,11 +1709,11 @@
         {
           "title": "Dans les Pyrénées, 16 nouveaux oursons, mais des problèmes de consanguinité persistants",
           "link": "https://www.lemonde.fr/planete/article/2026/10/20/dans-les-pyrenees-16-nouveaux-oursons-mais-des-problemes-de-consanguinite-persistants_6797909_3244.html",
-          "published": "2026-10-20T13:00:06+02:00",
+          "published": "2026-10-20T13:00:02+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Selon le dernier bilan de suivi de l’ours publié par l’Office français de la biodiversité (OFB), près de 130 ours seraient présents dans les Pyrénées.",
+          "summary": "Selon le dernier bilan de suivi de l’ours publié par l’Office français de la biodiversité, près de 130 ours seraient présents dans les Pyrénées. Mais",
           "image": "https://img.lemde.fr/2026/10/19/154/0/5100/2550/644/322/60/0/35e04fd_upload-1-jgzpqlbysai0-capture-d-e-cran-2026-10-19-a-15-43-59.jpg",
           "other_news": true
         },
@@ -1819,14 +1828,25 @@
           "other_news": true
         },
         {
-          "title": "The science and politics behind the panic over ultraprocessed foods",
-          "link": "https://theconversation.com/the-science-and-politics-behind-the-panic-over-ultraprocessed-foods-292661",
-          "published": "2026-10-19T12:36:28+00:00",
-          "source": "The Conversation",
+          "title": "Nigeria’s parks chief stresses conservation gains amid struggle to protect wildlife",
+          "link": "https://news.mongabay.com/2026/10/nigerias-parks-chief-stresses-conservation-gains-amid-struggle-to-protect-wildlife/",
+          "published": "2026-10-20T12:03:52+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "There’s no doubt that the modern food environment needs to be healthier. But are ultraprocessed foods as evil as their reputation suggests?",
-          "image": null,
+          "summary": "Nigeria has scored a significant conservation victory with the closure of a major illegal gold mine near Gashaka-Gumti National Park, the country&#821",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20104510/489884393_4050728211875253_83195258688067382_n-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Bank credit remains scarce in Bangladesh where climate risks are highest",
+          "link": "https://news.mongabay.com/2026/10/bank-credit-remains-scarce-in-bangladesh-where-climate-risks-are-highest/",
+          "published": "2026-10-20T12:01:16+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "For 34-year-old Saiful Gazi — a resident of Ramjannagar Union in Shyamnagar, Satkhira, an area highly vulnerable to climate change — securing institut",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20113550/52423722318_20fc2ff926_o-768x512.jpg",
           "other_news": true
         },
         {

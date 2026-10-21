@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T12:58:36.920030+00:00",
+  "generated_at": "2026-10-21T17:11:54.507150+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -72,6 +72,17 @@
           "other_news": false
         },
         {
+          "title": "How Argentina’s Javier Milei hopes to exploit a dispute over Falklands oil in next year’s election",
+          "link": "https://theconversation.com/how-argentinas-javier-milei-hopes-to-exploit-a-dispute-over-falklands-oil-in-next-years-election-294163",
+          "published": "2026-10-21T15:10:27+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "It may not win sovereignty but the law of the sea may enable the Argentina government to score a small win over the UK.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Celebrating 41 Years of the International Coastal Cleanup®",
           "link": "https://oceanconservancy.org/blog/2026/10/20/celebrating-41-years-icc/",
           "published": "2026-10-20T17:13:38+00:00",
@@ -91,17 +102,6 @@
           "language": "en",
           "summary": "The International Seabed Authority (ISA), a U.N.-associated body, has long managed activities related to deep-sea mining in international waters. But",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20122409/seegurke_SO239_157ROV11-deep-sea-cucumber-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Funding uncertainty threatens Tasmania’s gains against kelp-grazing sea urchins",
-          "link": "https://news.mongabay.com/2026/10/funding-uncertainty-threatens-tasmanias-gains-against-kelp-grazing-sea-urchins/",
-          "published": "2026-10-19T06:00:06+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "For nearly a decade, divers off Tasmania’s east coast have been getting a boost from the government to harvest the invasive sea urchins killing off ke",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/15150851/giant-kelp-portrait-8_PortDavey_TAS_StefanAndrews-768x512.jpg",
           "other_news": false
         }
       ]
@@ -153,17 +153,6 @@
           "language": "en",
           "summary": "Known as the ‘energy bars of the sea’ the fish are a key food source for many species, but closing fisheries to allow numbers to recover would cost mi",
           "image": "https://i.guim.co.uk/img/media/b0442cb7456e30fa09806e40a26e1b95f4ea8450/311_0_3849_3079/master/3849.jpg?width=140&quality=85&auto=format&fit=max&s=75cc3e26b03bf349d7b51dd83a01cece",
-          "other_news": false
-        },
-        {
-          "title": "Huge fin whale filmed off Welsh coast",
-          "link": "https://www.bbc.co.uk/news/videos/cxly491v6p7yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-20T13:42:22+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Rhys Morgan captured footage of the world's second-largest whale species  lunge feeding on his drone.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/019f/live/1b569770-cc6c-11f1-a64c-550be9e3c66b.jpg",
           "other_news": false
         },
         {
@@ -286,17 +275,6 @@
           "type": "news",
           "language": "en",
           "summary": "A new study of recipes from the last 100 years shows how a varied seafood culture gave way to the \"big five\" that now make up about 80% of the fish ea",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Illegal fishing is thriving in African waters – a satellite system could help change that",
-          "link": "https://theconversation.com/illegal-fishing-is-thriving-in-african-waters-a-satellite-system-could-help-change-that-292685",
-          "published": "2026-10-20T14:01:20+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Monitoring boats on African waters is the easy part; the harder part is what comes next.",
           "image": null,
           "other_news": false
         }
@@ -463,28 +441,6 @@
           "other_news": false
         },
         {
-          "title": "Storm Austen to batter Wales coast with 70mph winds",
-          "link": "https://www.bbc.co.uk/news/articles/cm3wv9pdj33zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-21T10:10:40+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Gusts of wind about 50 to 60mph are likely to hit large parts of south Wales on Friday.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc86/live/e646fa70-cd38-11f1-935f-b9c228680c6f.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
-          "link": "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-14T23:35:40+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Sgiath is thought to be the UK's first sea squirt-hunting dog and has been trained to sniff out the marine pest.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9680/live/9db34b10-c720-11f1-b881-4391ac746e04.jpg",
-          "other_news": false
-        },
-        {
           "title": "World's oldest shipwreck found off coast of Turkey",
           "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-14T05:00:35+00:00",
@@ -639,6 +595,17 @@
           "other_news": false
         },
         {
+          "title": "Pour réduire les captures d'oiseaux marins, des pêcheurs testent des cerfs-volants effaroucheurs",
+          "link": "https://reporterre.net/Pour-reduire-les-captures-d-oiseaux-marins-des-pecheurs-testent-des-cerfs-volants",
+          "published": "2026-10-21T15:24:26+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Des dizaines de milliers d'oiseaux marins meurent chaque année à cause d'engins de pêche. Pour réduire ces captures accidentelle",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/reporterre_capferret_dejong-17_resized-d751e.jpg?1792596582",
+          "other_news": false
+        },
+        {
           "title": "Arrachage des yeux des crevettes : les supermarchés sommés d'arrêter une pratique cruelle",
           "link": "https://reporterre.net/Arrachage-des-yeux-des-crevettes-les-supermarches-sommes-d-arreter-une-pratique-cruelle",
           "published": "2026-10-16T12:44:23+00:00",
@@ -705,25 +672,14 @@
           "other_news": false
         },
         {
-          "title": "What unrest on French streets could mean for next year’s presidential election",
-          "link": "https://theconversation.com/what-unrest-on-french-streets-could-mean-for-next-years-presidential-election-294788",
-          "published": "2026-10-20T15:24:35+00:00",
-          "source": "The Conversation",
+          "title": "Au Royaume-Uni, le gouvernement travailliste critiqué pour avoir autorisé un forage gazier en mer du Nord",
+          "link": "https://www.lemonde.fr/international/article/2026/10/21/royaume-uni-le-gouvernement-travailliste-critique-pour-avoir-autorise-un-forage-gazier-en-mer-du-nord_6798258_3210.html",
+          "published": "2026-10-21T15:28:39+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
-          "language": "en",
-          "summary": "The recent turmoil in French cities will probably favour Marine Le Pen and the far-right.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Wainwright fire shows the importance of health-care system resilience to Canadian security",
-          "link": "https://theconversation.com/wainwright-fire-shows-the-importance-of-health-care-system-resilience-to-canadian-security-294715",
-          "published": "2026-10-20T14:09:10+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The response to a mass-casualty event does not play out in an otherwise empty health-care system. It competes with everyday care for staff, beds, tran",
-          "image": null,
+          "language": "fr",
+          "summary": "Au nom de la sécurité énergétique, le gouvernement d’Andy Burnham a donné son feu vert au forage du champ gazier Jackdaw, situé au large de l’Ecosse.",
+          "image": "https://img.lemde.fr/2026/10/21/80/0/5000/2500/644/322/60/0/ef95b9b_ftp-1-kcihnnp8twec-afp-d3wz24a.jpg",
           "other_news": false
         },
         {
@@ -757,6 +713,17 @@
           "language": "en",
           "summary": "Our ocean has absorbed more than 90% of excess heat caused by human-driven climate change and a quarter of the carbon dioxide we emit. In simple terms",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Seabird guano and native trees keep islands above rising seas: Study",
+          "link": "https://news.mongabay.com/2026/10/seabird-guano-and-native-trees-keep-islands-above-rising-seas-study/",
+          "published": "2026-10-21T16:48:25+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Low-lying tropical atoll islands appear remarkably vulnerable to climate change. But when shrouded with native forests and with abundant seabird popul",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/21114336/3-red-footed-booby_Jon-1-768x512.jpg",
           "other_news": false
         },
         {
@@ -919,17 +886,6 @@
           "summary": "As the U.N. Convention on Biological Diversity&#8217;s 17th summit opens in Yerevan, Armenia, on Oct. 19, what’s at stake for Africa? In 2022, parties",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/06/17140534/maasai-1-768x512.jpg",
           "other_news": true
-        },
-        {
-          "title": "Conservation is bringing species back. Governments must help those gains last",
-          "link": "https://news.mongabay.com/2026/10/conservation-is-bringing-species-back-governments-must-help-those-gains-last/",
-          "published": "2026-10-19T12:38:55+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "&#160; Last year the Christmas Island shrew, slender-billed curlew, and three Australian bandicoots were among the species formally declared extinct.",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/19122516/blue_gecko_herps_639-768x512.jpg",
-          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -945,13 +901,13 @@
           "other_news": true
         },
         {
-          "title": "US inequality is getting worse in ways you might not expect",
-          "link": "https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075",
-          "published": "2026-10-20T12:38:27+00:00",
+          "title": "An AI model’s false tip to Philadelphia police reveals how digital agents can do as they’re told and still cause trouble",
+          "link": "https://theconversation.com/an-ai-models-false-tip-to-philadelphia-police-reveals-how-digital-agents-can-do-as-theyre-told-and-still-cause-trouble-294228",
+          "published": "2026-10-21T12:48:18+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "From tax policy to gas prices and tariffs, a mix of new factors is making inequality in the US more extreme.",
+          "summary": "An expert on AI governance explains why these rare mistakes may soon be common, and with much higher stakes.",
           "image": null,
           "other_news": true
         }
@@ -991,17 +947,6 @@
           "other_news": true
         },
         {
-          "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
-          "link": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-21T10:55:32+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee09/live/4eec08b0-cd2d-11f1-bc2e-018d645d8d21.jpg",
-          "other_news": true
-        },
-        {
           "title": "Storm Austen to bring severe gales to UK as weather warning issued",
           "link": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-20T09:42:56+00:00",
@@ -1032,6 +977,28 @@
           "language": "en",
           "summary": "The insects lived in a nature reserve office for four months.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0343/live/1d8518f0-cca8-11f1-a5d0-db40ec16d9a9.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+          "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-21T15:36:31+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2643/live/6503a5b0-cd58-11f1-bc2e-018d645d8d21.jpg",
+          "other_news": true
+        },
+        {
+          "title": "How Jackdaw ignites row over climate and costs",
+          "link": "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-21T13:46:34+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "How Jackdaw ignites arguments over climate and costs",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8623/live/0da602d0-cd4f-11f1-a64c-550be9e3c66b.jpg",
           "other_news": true
         },
         {
@@ -1086,6 +1053,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Utilisé comme fongicide en agriculture, notamment biologique, le cuivre suscite des inquiétudes quant à sa toxicité sur l’environnement et la santé. Q",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Hot and cold climate extremes push UK’s energy system to its limits, new report reveals",
+          "link": "https://theconversation.com/hot-and-cold-climate-extremes-push-uks-energy-system-to-its-limits-new-report-reveals-293383",
+          "published": "2026-10-21T13:25:44+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "The Royal Meteorological Society’s annual report highlights how weather and climate affect the UK’s energy sector. Both winter and summer extremes pos",
           "image": null,
           "other_news": true
         },
@@ -1185,17 +1163,6 @@
           "type": "news",
           "language": "en",
           "summary": "Scientists aren’t focusing on the systems that may be closest to tipping.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "How much noise should we put up with? London and Copenhagen have different answers",
-          "link": "https://theconversation.com/how-much-noise-should-we-put-up-with-london-and-copenhagen-have-different-answers-285969",
-          "published": "2026-10-09T08:16:22+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "A noise researcher compares London and Copenhagen and takes a closer look at what the countries’ different regulations say about how much noise we acc",
           "image": null,
           "other_news": true
         },
@@ -1339,6 +1306,17 @@
           "type": "news",
           "language": "en",
           "summary": "Almost three-quarters of the 72 five-year plans published by China this year include policies or targets related to climate change&#8230;\nThe post Int",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "UK approves gas drilling despite admitting blow to “climate leadership” status",
+          "link": "https://www.climatechangenews.com/2026/10/21/uk-approves-gas-drilling-despite-admitting-blow-to-climate-leadership-status/",
+          "published": "2026-10-21T14:49:54+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "The government accepts that approving the Jackdaw field will weaken its climate reputation and downplays the legal weight of the International Court o",
           "image": null,
           "other_news": true
         },
@@ -1607,14 +1585,14 @@
           "other_news": true
         },
         {
-          "title": "The response to Nepal’s disaster is a test for global climate institutions",
-          "link": "https://www.climatechangenews.com/2026/09/23/the-response-to-nepals-disaster-is-a-test-for-global-climate-institutions/",
-          "published": "2026-09-23T13:45:19+00:00",
-          "source": "Climate change news",
+          "title": "Climat : le monde se dirige vers +2,6 °C d'ici 2100, alerte l'ONU",
+          "link": "https://reporterre.net/Climat-le-monde-se-dirige-vers-un-rechauffement-de-2-6oC-d-ici-2100-alerte-l-ONU",
+          "published": "2026-10-21T13:08:48+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Nepal's recent flash flood represents a shared emergency the world over, as more and more communities become victims to a climate crisis they did not",
-          "image": null,
+          "language": "fr",
+          "summary": "Les engagements climatiques actuels placent le monde sur une trajectoire de réchauffement de 2,6 °C d'ici la fin du siècle. Un c",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/13760-c70c4.jpg?1792588133",
           "other_news": true
         },
         {
@@ -1728,17 +1706,6 @@
           "other_news": true
         },
         {
-          "title": "Impôts favorables aux riches : Oxfam attaque l'État en justice",
-          "link": "https://reporterre.net/Impots-favorables-aux-riches-Oxfam-attaque-l-Etat-en-justice",
-          "published": "2026-10-12T22:01:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "La justice saisie contre la politique fiscale de la France. L'ONG Oxfam France a déposé, mardi 13 octobre, un recours en justice",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250612__49zz72v__v2__highres__francepoliticseconomydemo_1_-a9216.jpg?1791842463",
-          "other_news": true
-        },
-        {
           "title": "UK’s climate ambition ‘in tatters’ as Jackdaw gasfield gets go ahead",
           "link": "https://oceanographicmagazine.com/news/uk-s-climate-ambition-in-tatters-as-jackdaw-gasfield-get-go-ahead/",
           "published": "2026-10-21T11:44:44+00:00",
@@ -1805,17 +1772,6 @@
           "other_news": true
         },
         {
-          "title": "COP17 sur la biodiversité à Erevan : les leviers dont dispose la communauté internationale pour corriger la trajectoire « avant qu’il ne soit trop tard »",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/19/cop17-sur-la-biodiversite-a-erevan-les-leviers-dont-dispose-la-communaute-internationale-pour-corriger-la-trajectoire-avant-qu-il-ne-soit-trop-tard_6797481_3244.html",
-          "published": "2026-10-19T06:00:34+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "A Erevan, pendant deux semaines, 196 délégués vont essayer de faire avancer la protection de la biodiversité. Evaluer les efforts mis en place, négoci",
-          "image": "https://img.lemde.fr/2026/10/15/387/0/4648/2324/644/322/60/0/f68c1ec_ftp-1-9qv8uxmurdye-63f5bb94fc3644e3bcb3e0793cee225a-0-5822196e2092444eabeaf4595aa76816.jpg",
-          "other_news": true
-        },
-        {
           "title": "La COP17 sur la biodiversité s’ouvre en Arménie : les États du monde entier font face aux limites de leur action",
           "link": "https://vert.eco/biodiversite/la-cop17-sur-la-biodiversite-souvre-en-armenie-les-etats-du-monde-entier-font-face-a-leurs-promesses/",
           "published": "2026-10-19T10:04:05+00:00",
@@ -1827,6 +1783,50 @@
           "other_news": true
         },
         {
+          "title": "How 39 young people experience climate education in a rapidly changing world",
+          "link": "https://theconversation.com/how-39-young-people-experience-climate-education-in-a-rapidly-changing-world-291086",
+          "published": "2026-10-21T15:02:51+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Youth described wanting a politicized form of climate education rooted in emotion and relationality. They also want conversations in their immediate c",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Africa’s bats could survive climate change – if they can find somewhere to live",
+          "link": "https://theconversation.com/africas-bats-could-survive-climate-change-if-they-can-find-somewhere-to-live-293184",
+          "published": "2026-10-21T13:27:45+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As the climate changes, bats will need both suitable foraging landscapes and caves for roosting.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Africans reuse, repair, recycle and resell waste: what’s needed to build on the circular economy basics",
+          "link": "https://theconversation.com/africans-reuse-repair-recycle-and-resell-waste-whats-needed-to-build-on-the-circular-economy-basics-291851",
+          "published": "2026-10-21T13:27:25+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Africa’s circular economy is already at work in repair shops and scrap yards. Backing the people who keep goods in use could cut waste and create bett",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Human rights could improve – or worsen – based on how nations use the UN treaty against cybercrime",
+          "link": "https://theconversation.com/human-rights-could-improve-or-worsen-based-on-how-nations-use-the-un-treaty-against-cybercrime-269794",
+          "published": "2026-10-21T12:47:08+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "If the treaty enters into force, responsible nations will have to carefully monitor how other countries use it.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Adaptation policies must be built around the local communities facing climate change",
           "link": "https://theconversation.com/adaptation-policies-must-be-built-around-the-local-communities-facing-climate-change-293065",
           "published": "2026-10-20T19:30:36+00:00",
@@ -1834,17 +1834,6 @@
           "type": "news",
           "language": "en",
           "summary": "Adapting to a changing climate will require greater co-operation and co-ordination across various orders of government.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Political power without balance leads to the erosion of democracy, what Montesquieu can teach modern-day France",
-          "link": "https://theconversation.com/political-power-without-balance-leads-to-the-erosion-of-democracy-what-montesquieu-can-teach-modern-day-france-294737",
-          "published": "2026-10-20T14:10:44+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Montesquieu’s philosophy on the need for counter-powers for safeguarding against revolt in societies serves as a reminder for France amid a climate of",
           "image": null,
           "other_news": true
         },

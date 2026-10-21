@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T05:01:15.823498+00:00",
+  "generated_at": "2026-10-21T11:50:31.989287+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -209,6 +209,17 @@
           "other_news": false
         },
         {
+          "title": "Six beluga deaths cast a shadow over rescue from Canada’s Marineland",
+          "link": "https://news.mongabay.com/2026/10/six-beluga-deaths-cast-a-shadow-over-rescue-from-canadas-marineland/",
+          "published": "2026-10-21T10:04:44+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Six members of a pod of 30 belugas, a fifth of the whales that were transferred from a marine park in Canada to facilities in the U.S. and Spain as pa",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20160121/Credit-Shedd-Aquarium-Brenna-Hernandez-177-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "As silky sharks decline, Costa Rica’s dominant trade faces a reckoning",
           "link": "https://news.mongabay.com/2026/10/as-silky-sharks-decline-costa-ricas-dominant-trade-faces-a-reckoning/",
           "published": "2026-10-20T17:03:20+00:00",
@@ -277,15 +288,15 @@
           "other_news": false
         }
       ],
-      "Nature-Based Solutions & Restoration": [
+      "Fisheries & Climate Change Ecosystem": [
         {
-          "title": "Seagrass bounces back in Cairns, but fish populations are changed",
-          "link": "https://oceanographicmagazine.com/news/seagrass-bounces-back-in-cairns-but-fish-populations-are-changed/",
-          "published": "2026-10-06T14:25:06+00:00",
-          "source": "Oceanographic",
+          "title": "Wild fish are a precious resource – here’s how aquaculture can bolster food security",
+          "link": "https://theconversation.com/wild-fish-are-a-precious-resource-heres-how-aquaculture-can-bolster-food-security-276701",
+          "published": "2026-10-21T09:46:05+00:00",
+          "source": "The Conversation UK",
           "type": "news",
           "language": "en",
-          "summary": "Seagrass meadows off Cairns have recovered to pre-flood levels after a 98% collapse, but a 34-year study shows the fish living in them have reorganise",
+          "summary": "Some farmed fish rely on wild fish for feed but aquaculture should not compromise food security of vulnerable communities.",
           "image": null,
           "other_news": false
         }
@@ -439,6 +450,17 @@
           "other_news": false
         },
         {
+          "title": "Storm Austen to batter Wales coast with 70mph winds",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wv9pdj33zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-21T10:10:40+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Gusts of wind about 50 to 60mph are likely to hit large parts of south Wales on Friday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc86/live/e646fa70-cd38-11f1-935f-b9c228680c6f.jpg",
+          "other_news": false
+        },
+        {
           "title": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
           "link": "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-14T23:35:40+00:00",
@@ -479,6 +501,17 @@
           "type": "news",
           "language": "fr",
           "summary": "On a tendance à manger plus de grands poissons que de petits poissons. Pourtant privilégier les petits poissons a plus d’un intérêt pour la santé huma",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Jackdaw approval: what a new North Sea gasfield means for UK energy security, bills and tax",
+          "link": "https://theconversation.com/jackdaw-approval-what-a-new-north-sea-gasfield-means-for-uk-energy-security-bills-and-tax-291418",
+          "published": "2026-10-21T09:45:14+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Jackdaw gasfield could contribute to security of supply but not protect the UK from high prices.",
           "image": null,
           "other_news": false
         },
@@ -556,17 +589,6 @@
           "type": "news",
           "language": "en",
           "summary": "Countries have failed – for the sixth time running – to agree on the timeline for publishing the Intergovernmental Panel&#8230;\nThe post Q&amp;A: Why",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Explainer: How sea level rise poses an ‘existential threat’ to humans, heritage and nature",
-          "link": "https://www.carbonbrief.org/explainer-how-sea-level-rise-poses-an-existential-threat-to-humans-heritage-and-nature",
-          "published": "2026-09-22T15:14:21+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "For millions of people around the world, rising sea levels are already reshaping economies, livelihoods and cultures. The world’s oceans&#8230;\nThe po",
           "image": null,
           "other_news": false
         },
@@ -670,17 +692,6 @@
           "other_news": false
         },
         {
-          "title": "«Reprendre la mer» : un manifeste percutant pour couler la «contre-pêche»",
-          "link": "https://vert.eco/biodiversite/reprendre-la-mer-un-manifeste-percutant-pour-couler-la-contre-peche/",
-          "published": "2026-10-16T09:21:00+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans cet essai incisif, la militante écologiste Claire Nouvian, le philosophe Baptiste Morizot et le scientifique Daniel Pauly décryptent la pêche et",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "What unrest on French streets could mean for next year’s presidential election",
           "link": "https://theconversation.com/what-unrest-on-french-streets-could-mean-for-next-years-presidential-election-294788",
           "published": "2026-10-20T15:24:35+00:00",
@@ -759,21 +770,7 @@
         }
       ]
     },
-    "To Watch / Read / Listen": {
-      "Nature-Based Solutions & Restoration": [
-        {
-          "title": "Indonesian women cash in on mangrove restoration: Interview with community leader Wisye Sahambangung",
-          "link": "https://news.mongabay.com/2026/10/indonesian-women-cash-in-on-mangrove-restoration-interview-with-community-leader-wisye-sahambangung/",
-          "published": "2026-10-17T07:57:59+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "JAKARTA — Wisye Sahambangung is a fisher, community leader, and mangrove conservationist from Sarawet, a coastal Indonesian village in North Sulawesi",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16144823/Photo-2-Wisye-Sahambangung-768x512.jpeg",
-          "other_news": false
-        }
-      ]
-    },
+    "To Watch / Read / Listen": {},
     "Other News": {
       "Plastic & Ocean Pollution": [
         {
@@ -818,19 +815,19 @@
           "source": "The Guardian Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "In 2022, I helped push through the international agreement to protect biodiversity. Wars and economic pressures can make nature seem like a ‘nice-to-h",
+          "summary": "In 2022, I helped push through the international agreement to protect biodiversity. I know there is always a reason to stall, but ministers at Cop17 m",
           "image": "https://i.guim.co.uk/img/media/106b96be9a0dbcdf3cb19c187ca4e2b68dbc2ed7/0_0_1616_1293/master/1616.jpg?width=140&quality=85&auto=format&fit=max&s=673169024f5606b33d32d33eacededb9",
           "other_news": true
         },
         {
-          "title": "Wildlife populations have declined 73% since 1970 – but many of the world’s animals still aren’t being counted",
-          "link": "https://theconversation.com/wildlife-populations-have-declined-73-since-1970-but-many-of-the-worlds-animals-still-arent-being-counted-293867",
-          "published": "2026-10-08T14:46:44+00:00",
-          "source": "The Conversation UK",
+          "title": "Estate records 'abundance' of wildlife despite drought",
+          "link": "https://www.bbc.co.uk/news/articles/crgqw4lg3y83o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-21T05:25:33+00:00",
+          "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "The WWF’s Living Planet Index is one of our best measures of biodiversity loss. But the populations it counts may not be representative of wildlife as",
-          "image": null,
+          "summary": "Wimpole's \"long-term approach to nature recovery\" has seen more than 5,000 species recorded.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3233/live/450d3780-cc9a-11f1-94e6-edd4c60b2e1d.jpg",
           "other_news": true
         },
         {
@@ -878,17 +875,6 @@
           "other_news": true
         },
         {
-          "title": "COP17 d’Erevan : face à l’effondrement de la biodiversité, des efforts « inégaux et insuffisants » de l’humanité",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/18/cop17-d-erevan-face-a-l-effondrement-de-la-biodiversite-des-efforts-inegaux-et-insuffisants-de-l-humanite_6796960_3244.html",
-          "published": "2026-10-18T06:00:03+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Alors que la planète est au seuil d’une extinction de masse, les Etats doivent agir plus fortement pour atteindre les objectifs qu’ils se sont fixés e",
-          "image": "https://img.lemde.fr/2026/08/14/664/0/4429/2214/644/322/60/0/8f7b604_upload-1-bpqsimnronnx-26-07-12-1438.jpg",
-          "other_news": true
-        },
-        {
           "title": "Delegates at biodiversity COP17 should follow the lead of Global South women (commentary)",
           "link": "https://news.mongabay.com/2026/10/delegates-at-biodiversity-cop17-should-follow-the-lead-of-global-south-women-commentary/",
           "published": "2026-10-21T00:40:07+00:00",
@@ -931,17 +917,6 @@
           "summary": "&#160; Last year the Christmas Island shrew, slender-billed curlew, and three Australian bandicoots were among the species formally declared extinct.",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/19122516/blue_gecko_herps_639-768x512.jpg",
           "other_news": true
-        },
-        {
-          "title": "Nearly 90% of countries adopt biodiversity targets, but most remain off track",
-          "link": "https://news.mongabay.com/2026/10/nearly-90-of-countries-adopt-biodiversity-targets-but-most-remain-off-track/",
-          "published": "2026-10-17T22:50:40+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Thousands of delegates are now gathering in Yerevan to discuss the future of life on Earth as we know it at the U.N.’s COP17 biodiversity summit. Coun",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/10/14035049/andrean-cock-of-the-rock-768x512.jpg",
-          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -953,17 +928,6 @@
           "type": "news",
           "language": "en",
           "summary": "China has pursued a policy of using its panda conservation project as a trade and diplomacy tool.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Women are on deck – it’s time they steered",
-          "link": "https://www.climatechangenews.com/2026/09/23/women-are-on-deck-its-time-they-steered/",
-          "published": "2026-09-23T13:23:43+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The climate crisis is also a governance crisis - one with a persistent blindspot for women's leadership, ingenuity and readiness to take decisions for",
           "image": null,
           "other_news": true
         },
@@ -1003,6 +967,17 @@
           "other_news": true
         },
         {
+          "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
+          "link": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-21T10:55:32+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee09/live/4eec08b0-cd2d-11f1-bc2e-018d645d8d21.jpg",
+          "other_news": true
+        },
+        {
           "title": "Storm Austen to bring severe gales to UK as weather warning issued",
           "link": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-20T09:42:56+00:00",
@@ -1025,14 +1000,14 @@
           "other_news": true
         },
         {
-          "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-          "link": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-14T23:32:11+00:00",
+          "title": "Massive wasps' nest in wildlife office dismantled",
+          "link": "https://www.bbc.co.uk/news/articles/cwx28pkn8p8yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-21T05:35:38+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25f5/live/ee4847a0-c7ad-11f1-b41f-d7a6cb474575.jpg",
+          "summary": "The insects lived in a nature reserve office for four months.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0343/live/1d8518f0-cca8-11f1-a5d0-db40ec16d9a9.jpg",
           "other_news": true
         },
         {
@@ -1278,6 +1253,17 @@
           "other_news": true
         },
         {
+          "title": "UNEP: Opportunity has ‘been lost’ to meet 1.5C warming limit without ‘overshoot’",
+          "link": "https://www.carbonbrief.org/unep-opportunity-has-been-lost-to-meet-1-5c-warming-limit-without-overshoot",
+          "published": "2026-10-21T05:00:00+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "A temporary breach of the 1.5C global-warming limit is now “inevitable” following “decades of insufficient climate action”, says the UN&#8230;\nThe pos",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "COP17: Which countries have released new pledges to tackle nature loss?",
           "link": "https://www.carbonbrief.org/cop17-which-countries-have-released-new-pledges-to-tackle-nature-loss",
           "published": "2026-10-16T11:54:59+00:00",
@@ -1333,13 +1319,13 @@
           "other_news": true
         },
         {
-          "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in the UK",
-          "link": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
-          "published": "2026-09-24T11:49:03+00:00",
-          "source": "Carbonbrief",
+          "title": "Turkish giant sponsoring COP31 cut climate goals then cashed in on oil boom",
+          "link": "https://www.climatechangenews.com/2026/10/21/turkish-giant-sponsoring-cop31-cut-climate-goals-then-cashed-in-on-oil-boom/",
+          "published": "2026-10-21T08:30:00+00:00",
+          "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "The latest surge in fossil-fuel prices means it is now up to nine times cheaper in the UK to drive&#8230;\nThe post Analysis: EVs are now nine times ch",
+          "summary": "COP31 sponsors should be screened for “climate integrity”. Yet Koç Holding has become a top partner while its oil refiner runs flat out and its climat",
           "image": null,
           "other_news": true
         },
@@ -1608,6 +1594,17 @@
           "other_news": true
         },
         {
+          "title": "Randonnée, trail... « On conserve un regard très bourgeois et blanc sur la nature »",
+          "link": "https://reporterre.net/Randonnee-trail-On-conserve-un-regard-tres-bourgeois-et-blanc-sur-la-nature",
+          "published": "2026-10-21T07:46:07+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Élitisme, performance : alors que le nombre de randonneurs a doublé en dix ans, le journaliste Mathias Riquier analyse, dans son",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/hl_ecabane_3096406_resized-cb6ab.jpg?1792568770",
+          "other_news": true
+        },
+        {
           "title": "Biodiversité : chefs d'État et médias boudent la COP17, symptôme d'un désintérêt manifeste",
           "link": "https://reporterre.net/Biodiversite-chefs-d-Etat-et-medias-boudent-la-COP17-symptome-d-un-desinteret-manifeste",
           "published": "2026-10-20T06:00:00+00:00",
@@ -1718,9 +1715,20 @@
           "other_news": true
         },
         {
+          "title": "UK’s climate ambition ‘in tatters’ as Jackdaw gasfield gets go ahead",
+          "link": "https://oceanographicmagazine.com/news/uk-s-climate-ambition-in-tatters-as-jackdaw-gasfield-get-go-ahead/",
+          "published": "2026-10-21T11:44:44+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "While the move had been widely anticipated, it has been met with dismay from campaigners who liken the decision to ‘climate vandalism’ and an apparent",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "L’action climatique est « dangereusement insuffisante », alertent les Nations unies face au dépassement annoncé du seuil de 1,5 °C de réchauffement",
           "link": "https://www.lemonde.fr/planete/article/2026/10/21/l-action-climatique-est-dangereusement-insuffisante-alertent-les-nations-unies-face-au-depassement-annonce-du-seuil-de-1-5-c-de-rechauffement_6798118_3244.html",
-          "published": "2026-10-21T05:00:14+02:00",
+          "published": "2026-10-21T05:00:05+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1784,17 +1792,6 @@
           "other_news": true
         },
         {
-          "title": "Au Brésil, la perspective d’un retour de l’extrême droite fait craindre de nouveaux reculs pour l’environnement",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/18/au-bresil-la-perspective-d-un-retour-de-l-extreme-droite-fait-craindre-de-nouveaux-reculs-pour-l-environnement_6796998_3244.html",
-          "published": "2026-10-18T06:05:07+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "S’il est élu le 25 octobre, Flavio Bolsonaro entend notamment restreindre la démarcation de nouvelles terres indigènes, encourager la production de pe",
-          "image": "https://img.lemde.fr/2026/10/09/310/0/3718/1859/644/322/60/0/7ed9dbd_ftp-1-q2mh5c25kg3m-fffcf88ed1314502b1937e4c631d9783-0-82dc5e6b8cba480ebe74e0077c654e15.jpg",
-          "other_news": true
-        },
-        {
           "title": "La COP17 sur la biodiversité s’ouvre en Arménie : les États du monde entier font face aux limites de leur action",
           "link": "https://vert.eco/biodiversite/la-cop17-sur-la-biodiversite-souvre-en-armenie-les-etats-du-monde-entier-font-face-a-leurs-promesses/",
           "published": "2026-10-19T10:04:05+00:00",
@@ -1828,25 +1825,14 @@
           "other_news": true
         },
         {
-          "title": "NZ’s next government will inherit a Treaty debate that is far from resolved",
-          "link": "https://theconversation.com/nzs-next-government-will-inherit-a-treaty-debate-that-is-far-from-resolved-292762",
-          "published": "2026-10-20T02:31:50+00:00",
-          "source": "The Conversation",
+          "title": "Wildlife photography’s dirty little secret",
+          "link": "https://news.mongabay.com/short-article/2026/10/wildlife-photographys-dirty-little-secret/",
+          "published": "2026-10-21T09:55:25+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "How much should Māori voices count in public life? And when does decision-making belong outside government and within Māori institutions?",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "AI reveals how a warming climate will intensify NZ’s most extreme downpours",
-          "link": "https://theconversation.com/ai-reveals-how-a-warming-climate-will-intensify-nzs-most-extreme-downpours-294147",
-          "published": "2026-10-20T01:09:17+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "By running hundreds of climate simulations much faster than conventional models, AI can deliver better regional projections of what communities need t",
-          "image": null,
+          "summary": "Have you ever seen a wildlife photograph so spectacular that you’ve wondered if it was even real? Enter “photography game farms&#8221;: captive facili",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/21095451/ConservationEntangled_Featured-338x512.png",
           "other_news": true
         },
         {

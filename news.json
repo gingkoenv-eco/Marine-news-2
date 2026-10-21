@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-21T11:50:31.989287+00:00",
+  "generated_at": "2026-10-21T12:58:36.920030+00:00",
   "categories": {
     "Politics & Policy": {
+      "Sustainable Fisheries": [
+        {
+          "title": "Industrial fleets threaten millions of small-scale fishers, with Africa most at risk",
+          "link": "https://oceanographicmagazine.com/news/industrial-fleets-threaten-millions-of-small-scale-fishers-with-africa-most-at-risk/",
+          "published": "2026-10-21T12:58:00+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The first-of-its-kind study finds that reliance on small-scale fishing and weak governance, leave coastal communities more vulnerable to industry encr",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Other Marine News": [
         {
           "title": "UK to join EU ocean science scheme to better predict extreme weather events",
@@ -538,6 +551,17 @@
           "other_news": false
         },
         {
+          "title": "El Niño is threatening California’s fragile coast again – the 1982-83 El Niño opened eyes to the serious erosion risks",
+          "link": "https://theconversation.com/el-nino-is-threatening-californias-fragile-coast-again-the-1982-83-el-nino-opened-eyes-to-the-serious-erosion-risks-293298",
+          "published": "2026-10-21T12:47:33+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "The destructive 1982-83 El Niño, then the strongest on record, eroded cliffs, leaving homes hanging precariously over the edges. A coastal scientist e",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "California is taking a beating from an unusually destructive 2026 Pacific hurricane season",
           "link": "https://theconversation.com/california-is-taking-a-beating-from-an-unusually-destructive-2026-pacific-hurricane-season-294207",
           "published": "2026-10-12T19:13:40+00:00",
@@ -677,17 +701,6 @@
           "type": "news",
           "language": "en",
           "summary": "The world's oyster reefs could deliver $12 trillion a year in ecosystem benefits, but 90% of sites would need restoring first\nThe post Restored oyster",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Warming seas are reshuffling plankton and the marine food web",
-          "link": "https://oceanographicmagazine.com/news/warming-seas-are-reshuffling-plankton-and-the-marine-food-web/",
-          "published": "2026-10-06T15:29:20+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Researchers are now using AI to track plankton as warming seas reshuffle the base of the marine food web, with fish possibly getting less food and foo",
           "image": null,
           "other_news": false
         },
@@ -964,6 +977,17 @@
           "language": "en",
           "summary": "The Norwegian government has given a permit to a mining company to release waste into Førde fjord despite a 17-year battle by campaigners and a suprem",
           "image": "https://i.guim.co.uk/img/media/dc0441d99e158bcc614888c623997f70242554f1/170_0_3752_3001/master/3752.jpg?width=140&quality=85&auto=format&fit=max&s=044fc190d1e94ef92fac096be88129c2",
+          "other_news": true
+        },
+        {
+          "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
+          "link": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-21T11:57:49+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4da/live/ee815af0-cd3d-11f1-bc2e-018d645d8d21.png",
           "other_news": true
         },
         {

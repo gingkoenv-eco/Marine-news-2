@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:00:18.959000+00:00",
+  "generated_at": "2026-10-21T05:01:15.823498+00:00",
   "categories": {
     "Politics & Policy": {
       "Other Marine News": [
@@ -59,17 +59,6 @@
           "other_news": false
         },
         {
-          "title": "On leur arrache les yeux pour plus de productivité : la face cachée des crevettes de supermarché",
-          "link": "https://vert.eco/label-vert/on-leur-arrache-les-yeux-pour-plus-de-productivite-la-face-cachee-des-crevettes-de-supermarche/",
-          "published": "2026-10-16T05:00:00+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Un rapport de l’ONG International council for animal welfare (Icaw) publié ce vendredi dénonce l’épédonculation des crevettes, soit la mutilation des",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Celebrating 41 Years of the International Coastal Cleanup®",
           "link": "https://oceanconservancy.org/blog/2026/10/20/celebrating-41-years-icc/",
           "published": "2026-10-20T17:13:38+00:00",
@@ -78,6 +67,17 @@
           "language": "en",
           "summary": "This fall, Ocean Conservancy is celebrating its 41st annual International Coastal Cleanup® (ICC), once again bringing together volunteers to protect t",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "US deep-sea mining claims in Pacific’s high seas now rival the area set aside by international regulator",
+          "link": "https://news.mongabay.com/custom-story/2026/10/us-deep-sea-mining-claims-in-pacifics-high-seas-now-rival-the-area-set-aside-by-international-regulator/",
+          "published": "2026-10-20T18:28:59+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The International Seabed Authority (ISA), a U.N.-associated body, has long managed activities related to deep-sea mining in international waters. But",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20122409/seegurke_SO239_157ROV11-deep-sea-cucumber-768x512.jpg",
           "other_news": false
         },
         {
@@ -105,17 +105,6 @@
           "language": "en",
           "summary": "Popular ocean beach ranks as Sydney’s worst for faecal pollution – again – but Caitlin Cassidy discovers happy children and familiesIn the Dharug lang",
           "image": "https://i.guim.co.uk/img/media/dc5288e2f8ce3eca0a3aa0d3694a434f8bf472f6/256_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b9808a9c831bad87c0140aa9d63dfb5f",
-          "other_news": false
-        },
-        {
-          "title": "Plastic industry bookkeeping plans hide chemical recycling harms, critics say",
-          "link": "https://news.mongabay.com/2026/10/plastic-industry-bookkeeping-plans-hide-chemical-recycling-harms-critics-say/",
-          "published": "2026-10-16T15:54:29+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Plastic pollution has rapidly escalated into a global environmental crisis that threatens ecosystem function and human health at an epic scale. Soluti",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/15224641/1_B_Plastic_pollution_crisis_UNEP-768x512.jpg",
           "other_news": false
         }
       ],
@@ -450,17 +439,6 @@
           "other_news": false
         },
         {
-          "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
-          "link": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-18T08:12:24+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb7f/live/223a12e0-c0de-11f1-8cf3-7dbc6a5861dd.jpg",
-          "other_news": false
-        },
-        {
           "title": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
           "link": "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-14T23:35:40+00:00",
@@ -725,17 +703,6 @@
           "other_news": false
         },
         {
-          "title": "A new history of ‘blackbirding’ favours moral condemnation at the expense of complexity",
-          "link": "https://theconversation.com/a-new-history-of-blackbirding-favours-moral-condemnation-at-the-expense-of-complexity-291169",
-          "published": "2026-10-19T19:16:44+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Determined to illustrate ‘slavery’, Ryan Butta’s history of ‘blackbirding’ says little of the labourers’ recovery and resilience.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Cuts to Integrated Ocean Observing System Puts Ocean at Risk",
           "link": "https://oceanconservancy.org/blog/2026/10/05/integrated-ocean-observing-system/",
           "published": "2026-10-05T21:24:39+00:00",
@@ -788,28 +755,6 @@
           "language": "en",
           "summary": "Typhoon Champi has moved from the western Pacific into the Philippine Sea and has become a Category 5 super typhoon, according to the U.S. National We",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/19172332/AP26288473281669-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "This orca destroyed a sunfish and no one is sure why",
-          "link": "https://news.mongabay.com/short-article/2026/10/this-orca-destroyed-a-sunfish-and-no-one-is-sure-why/",
-          "published": "2026-10-17T07:27:04+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Scientists, on two separate occasions, have observed orcas ramming into heavy sunfish with such force that the boney fish literally explodes. But why?",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/17072642/Mongabay_Thumbnail_Orcas_Featured_600-337x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Fundraising to protect oceans, forests and other key nature sites falling short ahead of UN summit",
-          "link": "https://news.mongabay.com/short-article/2026/10/fundraising-to-protect-oceans-forests-and-other-key-nature-sites-falling-short-ahead-of-un-summit/",
-          "published": "2026-10-16T17:54:17+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Promises by nations to spend hundreds of billions of dollars to finance nature and increase protections for oceans around the globe are falling short",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16175102/AP26287817872784-768x512.jpg",
           "other_news": false
         }
       ]
@@ -941,6 +886,28 @@
           "language": "fr",
           "summary": "Alors que la planète est au seuil d’une extinction de masse, les Etats doivent agir plus fortement pour atteindre les objectifs qu’ils se sont fixés e",
           "image": "https://img.lemde.fr/2026/08/14/664/0/4429/2214/644/322/60/0/8f7b604_upload-1-bpqsimnronnx-26-07-12-1438.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Delegates at biodiversity COP17 should follow the lead of Global South women (commentary)",
+          "link": "https://news.mongabay.com/2026/10/delegates-at-biodiversity-cop17-should-follow-the-lead-of-global-south-women-commentary/",
+          "published": "2026-10-21T00:40:07+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "As global leaders convene in Armenia this week for the U.N. Convention on Biological Diversity (CBD) conference of the parties (COP17), it is difficul",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/09/24184300/Captura-de-pantalla-2025-06-26-a-las-1.57.38-p.m-768x512.png",
+          "other_news": true
+        },
+        {
+          "title": "Mozambique’s Maputo National Park showcases biodiversity and shelters migratory birds",
+          "link": "https://news.mongabay.com/short-article/2026/10/mozambiques-maputo-national-park-showcases-biodiversity-and-shelters-migratory-birds/",
+          "published": "2026-10-20T22:25:30+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A recent State of the World’s Birds report found nearly half of the migratory birds assessed are declining. The stark finding comes as world governmen",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20161411/Curlew_Sandpiper_Calidris_ferruginea_in_Breeding_plumage_by_Vedant_Kasambe_02-768x512.jpg",
           "other_news": true
         },
         {
@@ -1377,6 +1344,17 @@
           "other_news": true
         },
         {
+          "title": "UN sets steep emission cuts to reverse 1.5C overshoot by end of century",
+          "link": "https://www.climatechangenews.com/2026/10/21/un-sets-steep-emission-cuts-to-reverse-1-5c-overshoot-by-end-of-century/",
+          "published": "2026-10-21T05:00:00+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Emissions must by reduced by nearly 6% a year for the world to have a good chance of bringing global warming back down to the Paris Agreement limit, t",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "IPCC scientists vow to press on with climate reports despite political deadlock",
           "link": "https://www.climatechangenews.com/2026/10/19/ipcc-scientists-vow-to-press-on-with-climate-reports-despite-political-deadlock/",
           "published": "2026-10-19T12:31:12+00:00",
@@ -1740,6 +1718,17 @@
           "other_news": true
         },
         {
+          "title": "L’action climatique est « dangereusement insuffisante », alertent les Nations unies face au dépassement annoncé du seuil de 1,5 °C de réchauffement",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/21/l-action-climatique-est-dangereusement-insuffisante-alertent-les-nations-unies-face-au-depassement-annonce-du-seuil-de-1-5-c-de-rechauffement_6798118_3244.html",
+          "published": "2026-10-21T05:00:14+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "A quelques jours de l’ouverture de la COP31 en Turquie, le Progamme des Nations unies pour l’environnement prévoit, si les politiques actuelles se pou",
+          "image": "https://img.lemde.fr/2026/10/20/251/0/2997/1498/644/322/60/0/67fe086_upload-1-7dtagdec2qav-le-monde-ciren-030.jpg",
+          "other_news": true
+        },
+        {
           "title": "Dans les Pyrénées, 16 nouveaux oursons, mais des problèmes de consanguinité persistants",
           "link": "https://www.lemonde.fr/planete/article/2026/10/20/dans-les-pyrenees-16-nouveaux-oursons-mais-des-problemes-de-consanguinite-persistants_6797909_3244.html",
           "published": "2026-10-20T13:00:02+02:00",
@@ -1817,6 +1806,17 @@
           "other_news": true
         },
         {
+          "title": "Adaptation policies must be built around the local communities facing climate change",
+          "link": "https://theconversation.com/adaptation-policies-must-be-built-around-the-local-communities-facing-climate-change-293065",
+          "published": "2026-10-20T19:30:36+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Adapting to a changing climate will require greater co-operation and co-ordination across various orders of government.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Political power without balance leads to the erosion of democracy, what Montesquieu can teach modern-day France",
           "link": "https://theconversation.com/political-power-without-balance-leads-to-the-erosion-of-democracy-what-montesquieu-can-teach-modern-day-france-294737",
           "published": "2026-10-20T14:10:44+00:00",
@@ -1834,7 +1834,7 @@
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "How much should Māori voices count in public life? And when does decisionmaking belong outside government and within Māori institutions?",
+          "summary": "How much should Māori voices count in public life? And when does decision-making belong outside government and within Māori institutions?",
           "image": null,
           "other_news": true
         },
@@ -1846,17 +1846,6 @@
           "type": "news",
           "language": "en",
           "summary": "By running hundreds of climate simulations much faster than conventional models, AI can deliver better regional projections of what communities need t",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Where does all the hardware go? The hidden environmental footprint of AI data centres",
-          "link": "https://theconversation.com/where-does-all-the-hardware-go-the-hidden-environmental-footprint-of-ai-data-centres-292732",
-          "published": "2026-10-19T18:59:17+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Canada’s new Responsible Data Centre Development Principles fail to address computer hardware alongside water and electricity usage.",
           "image": null,
           "other_news": true
         },
@@ -1912,7 +1901,7 @@
           "type": "news",
           "language": "en",
           "summary": "The past two years have been a dramatic period for conservation funding. The greatest attention has focused on the sudden dissolution of USAID in earl",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/19230649/KWCA-Photos-banner-768x512.jpg",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20182411/Seaweed_farming_7277-768x512.jpg",
           "other_news": true
         }
       ]

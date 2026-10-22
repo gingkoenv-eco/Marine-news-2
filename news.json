@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T18:06:01.263247+00:00",
+  "generated_at": "2026-10-22T05:01:25.637355+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -441,6 +441,17 @@
           "other_news": false
         },
         {
+          "title": "Fuel leak which killed fish in River Taff stopped",
+          "link": "https://www.bbc.co.uk/news/articles/c6y8lvxzp59vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-21T18:28:06+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "GE Aerospace previously confirmed fuel got into the river while repair work took place nearby.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/996f/live/00f5b420-cae5-11f1-9a04-8f1bfcd98c61.jpg",
+          "other_news": false
+        },
+        {
           "title": "World's oldest shipwreck found off coast of Turkey",
           "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-14T05:00:35+00:00",
@@ -672,6 +683,17 @@
           "other_news": false
         },
         {
+          "title": "En Guyane, le préfet active le plan Orsec « sécheresse » pour ravitailler les communes isolées face aux effets d’El Niño",
+          "link": "https://www.lemonde.fr/outre-mer/article/2026/10/22/en-guyane-le-prefet-active-le-plan-orsec-secheresse-pour-ravitailler-les-communes-isolees-face-aux-effets-d-el-nino_6798413_1840826.html",
+          "published": "2026-10-22T03:00:20+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le déficit pluviométrique dans cette collectivité d’outre-mer a entraîné une forte baisse du niveau des cours d’eau et l’interruption progressive du t",
+          "image": "https://img.lemde.fr/2024/11/15/347/0/3504/1752/644/322/60/0/d128c2d_1731655892531-000-par1199688.jpg",
+          "other_news": false
+        },
+        {
           "title": "Au Royaume-Uni, le gouvernement travailliste critiqué pour avoir autorisé un forage gazier en mer du Nord",
           "link": "https://www.lemonde.fr/international/article/2026/10/21/royaume-uni-le-gouvernement-travailliste-critique-pour-avoir-autorise-un-forage-gazier-en-mer-du-nord_6798258_3210.html",
           "published": "2026-10-21T15:28:39+02:00",
@@ -789,17 +811,6 @@
           "other_news": true
         },
         {
-          "title": "Estate records 'abundance' of wildlife despite drought",
-          "link": "https://www.bbc.co.uk/news/articles/crgqw4lg3y83o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-21T05:25:33+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Wimpole's \"long-term approach to nature recovery\" has seen more than 5,000 species recorded.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3233/live/450d3780-cc9a-11f1-94e6-edd4c60b2e1d.jpg",
-          "other_news": true
-        },
-        {
           "title": "Who should have a say in which species are saved? The California condor offers lessons for a global biodiversity treaty",
           "link": "https://theconversation.com/who-should-have-a-say-in-which-species-are-saved-the-california-condor-offers-lessons-for-a-global-biodiversity-treaty-294659",
           "published": "2026-10-20T12:36:46+00:00",
@@ -841,6 +852,17 @@
           "language": "fr",
           "summary": "Selon les prévisions scientifiques, une espèce sur vingt serait aujourd’hui menacée d’extinction. Si le monde vivant dispose de capacités d’adaptation",
           "image": "https://img.lemde.fr/2026/10/19/216/0/1024/512/644/322/60/0/b4299bd_upload-1-wz74ht0dvf1z-arche-def-1024.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Nature has a new Noah’s Ark moment at the biodiversity summit (commentary)",
+          "link": "https://news.mongabay.com/2026/10/nature-has-a-new-noahs-ark-moment-at-the-biodiversity-summit-commentary/",
+          "published": "2026-10-21T19:21:07+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Delegates from most of the world’s governments are assembling this week in Yerevan, Armenia for the latest summit of the Convention on Biological Dive",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/21175138/ani-adigyozalyan-_vg33BH0KPM-unsplash-1-768x512.jpg",
           "other_news": true
         },
         {
@@ -958,14 +980,14 @@
           "other_news": true
         },
         {
-          "title": "Massive wasps' nest in wildlife office dismantled",
-          "link": "https://www.bbc.co.uk/news/articles/cwx28pkn8p8yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-21T05:35:38+00:00",
+          "title": "New lab to become centre for investigating uplands",
+          "link": "https://www.bbc.co.uk/news/articles/cmg473555gzko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-21T20:36:12+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "The insects lived in a nature reserve office for four months.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0343/live/1d8518f0-cca8-11f1-a5d0-db40ec16d9a9.jpg",
+          "summary": "The research facility in Penrith will also help train the next generation of environmental scientists.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1549/live/8803a970-cd5d-11f1-b962-b7ff822cde72.jpg",
           "other_news": true
         },
         {
@@ -1218,17 +1240,6 @@
           "type": "news",
           "language": "en",
           "summary": "If fossil fuel companies misled the public about the dangers of their products, should they be required to pay for damages from climate-related disast",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Criminal conspiracy to steal used cooking oil shows how trash can become treasure",
-          "link": "https://theconversation.com/criminal-conspiracy-to-steal-used-cooking-oil-shows-how-trash-can-become-treasure-292653",
-          "published": "2026-09-30T12:44:19+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "No longer viewed only as waste, used cooking oil is a common ingredient in biofuels.",
           "image": null,
           "other_news": true
         },
@@ -1706,6 +1717,17 @@
           "other_news": true
         },
         {
+          "title": "L’Omnibus X, cheval de Troie des « pesticides génétiques » en Europe",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/22/l-omnibus-x-cheval-de-troie-des-pesticides-genetiques-en-europe_6798555_3244.html",
+          "published": "2026-10-22T05:45:10+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La Commission européenne, qui souhaite assouplir la réglementation sur les produits phytosanitaires, prévoit de classer comme « produits de biocontrôl",
+          "image": "https://img.lemde.fr/2026/10/20/473/0/5678/2839/644/322/60/0/9ff93cc_ftp-1-iagxyb0apwbd-afp-d3td7nn.jpg",
+          "other_news": true
+        },
+        {
           "title": "L’action climatique est « dangereusement insuffisante », alertent les Nations unies face au dépassement annoncé du seuil de 1,5 °C de réchauffement",
           "link": "https://www.lemonde.fr/planete/article/2026/10/21/l-action-climatique-est-dangereusement-insuffisante-alertent-les-nations-unies-face-au-depassement-annonce-du-seuil-de-1-5-c-de-rechauffement_6798118_3244.html",
           "published": "2026-10-21T05:00:05+02:00",
@@ -1816,14 +1838,14 @@
           "other_news": true
         },
         {
-          "title": "Adaptation policies must be built around the local communities facing climate change",
-          "link": "https://theconversation.com/adaptation-policies-must-be-built-around-the-local-communities-facing-climate-change-293065",
-          "published": "2026-10-20T19:30:36+00:00",
-          "source": "The Conversation",
+          "title": "Extractive industries threaten global goal to protect 30% of nature by 2030, report finds",
+          "link": "https://news.mongabay.com/2026/10/extractive-industries-threaten-global-goal-to-protect-30-of-nature-by-2030-report-finds/",
+          "published": "2026-10-21T19:50:55+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Adapting to a changing climate will require greater co-operation and co-ordination across various orders of government.",
-          "image": null,
+          "summary": "A new report by Earth Insight finds more than 61.5 million hectares (151.9 million acres) of protected and conserved areas — an area roughly 2.5 times",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/21144245/alain-bonnardeaux-CeaBZ2F49x4-unsplash-768x512.jpg",
           "other_news": true
         },
         {

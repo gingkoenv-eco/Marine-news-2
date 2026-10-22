@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:54:19.222803+00:00",
+  "generated_at": "2026-10-22T13:00:38.773167+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -29,17 +29,6 @@
         }
       ],
       "Other Marine News": [
-        {
-          "title": "UK to join EU ocean science scheme to better predict extreme weather events",
-          "link": "https://www.theguardian.com/environment/2026/sep/23/britain-to-join-eu-global-ocean-monitoring-system-oceaneye",
-          "published": "2026-09-23T14:24:37+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Cooperation on OceanEye, which aims to create ‘real-time’ model of world’s oceans, comes amid efforts to boost EU tiesBritain is to join a major new o",
-          "image": "https://i.guim.co.uk/img/media/3acdb78ed68c2933fb82a16cdebf528c5b21c5e6/527_0_3832_3065/master/3832.jpg?width=140&quality=85&auto=format&fit=max&s=0683e4a798addc7823674e03e028b92a",
-          "other_news": false
-        },
         {
           "title": "Pacific leaders rail at climate finance failures after pre-COP trip to Tuvalu",
           "link": "https://www.climatechangenews.com/2026/10/06/pacific-leaders-rail-at-climate-finance-failures-after-pre-cop-trip-to-tuvalu/",
@@ -146,6 +135,17 @@
         }
       ],
       "Marine Biodiversity & Conservation": [
+        {
+          "title": "Almost every shallow-water coral reef on the planet faces ecosystem collapse by 2075, UN advisors say",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/22/shallow-water-coral-reef-ecosystem-collapse-by-2075-un-advisors-say",
+          "published": "2026-10-22T12:00:45+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Assessment finds global heating is endangering 96% of coral reefs across 80 countries – a figure scientists say should serve as a ‘wake-up call’Sign u",
+          "image": "https://i.guim.co.uk/img/media/c1d0cd51dc12a1cdab85e673f2c5f4da07499f11/439_0_3096_2477/master/3096.jpg?width=140&quality=85&auto=format&fit=max&s=6044542b9f8f6e9784bc12307a88d9ee",
+          "other_news": false
+        },
         {
           "title": "‘Like selling wolves from Yellowstone’: how protected US sharks are being sold off to foreign aquariums",
           "link": "https://www.theguardian.com/environment/2026/oct/15/conservation-aquariums-endangered-sharks-protected-waters-delaware-bay-us-sand-tiger-sharks",
@@ -1719,17 +1719,6 @@
           "other_news": true
         },
         {
-          "title": "COP17 sur la biodiversité à Erevan : la France, une bonne élève à l’échelle internationale, mais dont les « indicateurs nationaux continuent de s’effondrer »",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/20/cop17-sur-la-biodiversite-a-erevan-la-france-une-bonne-eleve-a-l-echelle-internationale-mais-dont-les-indicateurs-nationaux-continuent-de-s-effondrer_6797863_3244.html",
-          "published": "2026-10-20T06:00:03+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Lors de la réunion dans la capitale arménienne, la France a mis en avant ses progrès en matière de protection de la nature, notamment la création de z",
-          "image": "https://img.lemde.fr/2026/10/16/1056/0/8448/4224/644/322/60/0/e722581_upload-1-gtzr2ofqsejk-l1021054.jpg",
-          "other_news": true
-        },
-        {
           "title": "La COP17 sur la biodiversité s’ouvre en Arménie : les États du monde entier font face aux limites de leur action",
           "link": "https://vert.eco/biodiversite/la-cop17-sur-la-biodiversite-souvre-en-armenie-les-etats-du-monde-entier-font-face-a-leurs-promesses/",
           "published": "2026-10-19T10:04:05+00:00",
@@ -1848,17 +1837,6 @@
           "language": "en",
           "summary": "Great herds of elephants once crisscrossed Africa, and scientists have no doubt that they shaped the landscape, ecosystems and — as recent science has",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/16155427/c.-Julie-Larsen-_6422_African-Elephants_KEN_03-09-14-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Navigating crisis and opportunity in conservation funding (commentary)",
-          "link": "https://news.mongabay.com/2026/10/navigating-crisis-and-opportunity-in-conservation-funding-commentary/",
-          "published": "2026-10-19T23:10:39+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The past two years have been a dramatic period for conservation funding. The greatest attention has focused on the sudden dissolution of USAID in earl",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20182411/Seaweed_farming_7277-768x512.jpg",
           "other_news": true
         }
       ]

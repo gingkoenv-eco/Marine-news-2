@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-22T05:01:25.637355+00:00",
+  "generated_at": "2026-10-22T11:54:19.222803+00:00",
   "categories": {
     "Politics & Policy": {
+      "Marine Biodiversity & Conservation": [
+        {
+          "title": "Rare Indonesian maleo birds face new threat from international exotic pet trade",
+          "link": "https://news.mongabay.com/short-article/2026/10/rare-indonesian-maleo-birds-face-new-threat-from-international-exotic-pet-trade/",
+          "published": "2026-10-22T08:59:15+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Wildlife traffickers are increasingly targeting critically endangered maleo birds from coastal Indonesia for the international exotic pet trade, accor",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/22085840/Four-of-the-eight-maleos-768x512.jpg",
+          "other_news": false
+        }
+      ],
       "Sustainable Fisheries": [
         {
           "title": "Industrial fleets threaten millions of small-scale fishers, with Africa most at risk",
@@ -94,6 +107,17 @@
           "other_news": false
         },
         {
+          "title": "‘A decision to decide’: Greenland moves to suspend seabed mining until 2029",
+          "link": "https://news.mongabay.com/short-article/2026/10/a-decision-to-decide-greenland-moves-to-suspend-seabed-mining-until-2029/",
+          "published": "2026-10-22T10:44:54+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Greenland’s parliament has asked the government to pause licensing on seabed mining amid concerns about foreign interests in mining and potential envi",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/22104348/Inuit_Longline_Fishing_Boats-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "US deep-sea mining claims in Pacific’s high seas now rival the area set aside by international regulator",
           "link": "https://news.mongabay.com/custom-story/2026/10/us-deep-sea-mining-claims-in-pacifics-high-seas-now-rival-the-area-set-aside-by-international-regulator/",
           "published": "2026-10-20T18:28:59+00:00",
@@ -153,17 +177,6 @@
           "language": "en",
           "summary": "Known as the ‘energy bars of the sea’ the fish are a key food source for many species, but closing fisheries to allow numbers to recover would cost mi",
           "image": "https://i.guim.co.uk/img/media/b0442cb7456e30fa09806e40a26e1b95f4ea8450/311_0_3849_3079/master/3849.jpg?width=140&quality=85&auto=format&fit=max&s=75cc3e26b03bf349d7b51dd83a01cece",
-          "other_news": false
-        },
-        {
-          "title": "Moment giant fin whale's huge mouth engulfs thousands of gallons of water",
-          "link": "https://www.bbc.co.uk/news/articles/cjr4yeygwdxvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-20T12:03:28+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Videographer Rhys Morgan captured footage of the worlds second largest whale  lunge feeding on his drone.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e100/live/c8055510-cc62-11f1-bc2e-018d645d8d21.jpg",
           "other_news": false
         },
         {
@@ -294,6 +307,17 @@
       ],
       "Polar & Reef Ecosystems & Resilience": [
         {
+          "title": "Project aims to protect rare arctic-alpine plants",
+          "link": "https://www.bbc.co.uk/news/articles/c6ewe4zyyg0ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-22T11:11:13+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The three year scheme is awarded £65,000 to collect seeds and plant them in the fells.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3fa/live/9a244570-ce06-11f1-8991-296181d7e3de.jpg",
+          "other_news": false
+        },
+        {
           "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
           "link": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
           "published": "2026-09-25T12:45:39+00:00",
@@ -302,17 +326,6 @@
           "language": "en",
           "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.&#8230;\nThe post ‘Co",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Loss of a rare lake reveals how warming has hit the Canadian Arctic’s ‘planetary fridge’",
-          "link": "https://news.mongabay.com/2026/10/loss-of-a-rare-lake-reveals-how-warming-has-hit-the-canadian-arctics-planetary-fridge/",
-          "published": "2026-10-19T22:35:27+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "When an ice shelf blocks a polar fjord, it sparks the creation of an ecosystem like no other: the epishelf lake. Meltwater pools up behind the ice she",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/19154023/Polar_Bear_AdF-768x512.jpg",
           "other_news": false
         }
       ],
@@ -606,7 +619,7 @@
           "other_news": false
         },
         {
-          "title": "Pour réduire les captures d'oiseaux marins, des pêcheurs testent des cerfs-volants effaroucheurs",
+          "title": "Ils accrochent des cerfs volants à leur bateau pour protéger des oiseaux marins en danger d'exctinction",
           "link": "https://reporterre.net/Pour-reduire-les-captures-d-oiseaux-marins-des-pecheurs-testent-des-cerfs-volants",
           "published": "2026-10-21T15:24:26+00:00",
           "source": "Reporterre",
@@ -683,7 +696,7 @@
           "other_news": false
         },
         {
-          "title": "En Guyane, le préfet active le plan Orsec « sécheresse » pour ravitailler les communes isolées face aux effets d’El Niño",
+          "title": "En Guyane, le préfet active le plan Orsec « sécheresse » pour ravitailler les communes isolées face aux effets d’El Niño",
           "link": "https://www.lemonde.fr/outre-mer/article/2026/10/22/en-guyane-le-prefet-active-le-plan-orsec-secheresse-pour-ravitailler-les-communes-isolees-face-aux-effets-d-el-nino_6798413_1840826.html",
           "published": "2026-10-22T03:00:20+02:00",
           "source": "Le Monde Planète",
@@ -844,17 +857,6 @@
           "other_news": true
         },
         {
-          "title": "Comment les espèces sauvages tentent, tant bien que mal, de s’adapter au changement climatique",
-          "link": "https://www.lemonde.fr/sciences/article/2026/10/19/comment-les-especes-sauvages-tentent-tant-bien-que-mal-de-s-adapter-au-changement-climatique_6797558_1650684.html",
-          "published": "2026-10-19T18:00:06+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Selon les prévisions scientifiques, une espèce sur vingt serait aujourd’hui menacée d’extinction. Si le monde vivant dispose de capacités d’adaptation",
-          "image": "https://img.lemde.fr/2026/10/19/216/0/1024/512/644/322/60/0/b4299bd_upload-1-wz74ht0dvf1z-arche-def-1024.jpg",
-          "other_news": true
-        },
-        {
           "title": "Nature has a new Noah’s Ark moment at the biodiversity summit (commentary)",
           "link": "https://news.mongabay.com/2026/10/nature-has-a-new-noahs-ark-moment-at-the-biodiversity-summit-commentary/",
           "published": "2026-10-21T19:21:07+00:00",
@@ -885,17 +887,6 @@
           "language": "en",
           "summary": "A recent State of the World’s Birds report found nearly half of the migratory birds assessed are declining. The stark finding comes as world governmen",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20161411/Curlew_Sandpiper_Calidris_ferruginea_in_Breeding_plumage_by_Vedant_Kasambe_02-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Finance and Indigenous rights top Africans’ agenda as biodiversity summit opens in Yerevan",
-          "link": "https://news.mongabay.com/2026/10/finance-and-indigenous-rights-top-africans-agenda-as-biodiversity-summit-opens-in-yerevan/",
-          "published": "2026-10-19T20:23:35+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "As the U.N. Convention on Biological Diversity&#8217;s 17th summit opens in Yerevan, Armenia, on Oct. 19, what’s at stake for Africa? In 2022, parties",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/06/17140534/maasai-1-768x512.jpg",
           "other_news": true
         }
       ],
@@ -947,6 +938,17 @@
           "other_news": true
         },
         {
+          "title": "How Jackdaw ignites row over climate and costs",
+          "link": "https://www.bbc.co.uk/news/videos/c65ynpx07djvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-21T16:51:10+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The UK government approves production from Jackdaw amid intense debate about the project's environmental and economic impact.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32db/live/1ada51f0-cd71-11f1-9a39-31b474234113.jpg",
+          "other_news": true
+        },
+        {
           "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
           "link": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-21T11:57:49+00:00",
@@ -955,28 +957,6 @@
           "language": "en",
           "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4da/live/ee815af0-cd3d-11f1-bc2e-018d645d8d21.png",
-          "other_news": true
-        },
-        {
-          "title": "Storm Austen to bring severe gales to UK as weather warning issued",
-          "link": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-20T09:42:56+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The first named storm of the season - Austen - will bring damaging winds and heavy rain to parts of the UK on Friday.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58e2/live/9434c270-cc58-11f1-9b08-37acac6be953.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Northern Ireland needs 'courage and leadership' to tackle climate change",
-          "link": "https://www.bbc.co.uk/news/articles/cxzd6j5q0g7eo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-20T05:27:15+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The new chair of the Climate Change Committee is spending two days in Northern Ireland on a fact-finding mission.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f53/live/06d05290-cc72-11f1-a64c-550be9e3c66b.jpg",
           "other_news": true
         },
         {
@@ -999,17 +979,6 @@
           "language": "en",
           "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2643/live/6503a5b0-cd58-11f1-bc2e-018d645d8d21.jpg",
-          "other_news": true
-        },
-        {
-          "title": "How Jackdaw ignites row over climate and costs",
-          "link": "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-21T13:46:34+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "How Jackdaw ignites arguments over climate and costs",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/e6efb130-cd72-11f1-a64c-550be9e3c66b.jpg",
           "other_news": true
         },
         {
@@ -1064,6 +1033,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Utilisé comme fongicide en agriculture, notamment biologique, le cuivre suscite des inquiétudes quant à sa toxicité sur l’environnement et la santé. Q",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "When climate data is transformed into visuals some people and places get overlooked",
+          "link": "https://theconversation.com/when-climate-data-is-transformed-into-visuals-some-people-and-places-get-overlooked-293489",
+          "published": "2026-10-22T10:56:07+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Data visualisation can change how people see, feel and relate to climate disasters.",
           "image": null,
           "other_news": true
         },
@@ -1167,17 +1147,6 @@
           "other_news": true
         },
         {
-          "title": "Some climate tipping points are being studied far more than others – new research",
-          "link": "https://theconversation.com/some-climate-tipping-points-are-being-studied-far-more-than-others-new-research-293614",
-          "published": "2026-10-09T08:17:04+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Scientists aren’t focusing on the systems that may be closest to tipping.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Federal spending on climate change before 2024 election boosted incumbents of both parties",
           "link": "https://theconversation.com/federal-spending-on-climate-change-before-2024-election-boosted-incumbents-of-both-parties-293791",
           "published": "2026-10-19T18:49:58+00:00",
@@ -1244,6 +1213,17 @@
           "other_news": true
         },
         {
+          "title": "Experts: How are climate scientists using artificial intelligence?",
+          "link": "https://www.carbonbrief.org/experts-how-are-climate-scientists-using-artificial-intelligence",
+          "published": "2026-10-22T10:45:03+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Artificial intelligence (AI) is developing at a rapid pace and is increasingly being used by scientists to better understand climate&#8230;\nThe post E",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "UNEP: Opportunity has ‘been lost’ to meet 1.5C warming limit without ‘overshoot’",
           "link": "https://www.carbonbrief.org/unep-opportunity-has-been-lost-to-meet-1-5c-warming-limit-without-overshoot",
           "published": "2026-10-21T05:00:00+00:00",
@@ -1295,17 +1275,6 @@
           "type": "news",
           "language": "en",
           "summary": "The UK has avoided the need for gas imports worth £5.9bn since the start of the Hormuz crisis as a&#8230;\nThe post Analysis: Wind and solar save UK fr",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Interactive: What China’s dozens of ‘five-year plans’ say about climate and energy",
-          "link": "https://interactive.carbonbrief.org/china-plan-tracker/index.html",
-          "published": "2026-09-24T14:00:00+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Almost three-quarters of the 72 five-year plans published by China this year include policies or targets related to climate change&#8230;\nThe post Int",
           "image": null,
           "other_news": true
         },
@@ -1695,17 +1664,6 @@
           "other_news": true
         },
         {
-          "title": "Chauffage, transport : la baisse des émissions se poursuit, mais pas assez vite",
-          "link": "https://reporterre.net/Chauffage-transport-la-baisse-des-emissions-se-poursuit-mais-pas-assez-vite",
-          "published": "2026-10-13T09:19:35+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les émissions de gaz à effet de serre devraient reculer de 2,8 % en France en 2026. Ce ralentissement est dû à l'effet dissuasif",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/cars-in-a-rush-hour-1476873340nhb-387bd.jpg?1791883199",
-          "other_news": true
-        },
-        {
           "title": "UK’s climate ambition ‘in tatters’ as Jackdaw gasfield gets go ahead",
           "link": "https://oceanographicmagazine.com/news/uk-s-climate-ambition-in-tatters-as-jackdaw-gasfield-get-go-ahead/",
           "published": "2026-10-21T11:44:44+00:00",
@@ -1717,9 +1675,20 @@
           "other_news": true
         },
         {
-          "title": "L’Omnibus X, cheval de Troie des « pesticides génétiques » en Europe",
+          "title": "Le virus Shamonda détecté pour la première fois chez un humain, un patient immunodéprimé mort en France",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/22/le-virus-shamonda-detecte-pour-la-premiere-fois-chez-un-humain-un-patient-immunodeprime-mort-en-france_6798613_3244.html",
+          "published": "2026-10-22T13:20:39+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’infection par le virus Shamonda ne rentrant pas dans le cadre de la législation européenne, elle n’est soumise à aucune mesure officielle de surveil",
+          "image": "https://img.lemde.fr/2026/05/26/250/0/3000/1500/644/322/60/0/b94d607_upload-1-zgrh51cxh7lc-frame-650.jpg",
+          "other_news": true
+        },
+        {
+          "title": "L’Omnibus X, cheval de Troie des « pesticides génétiques » en Europe",
           "link": "https://www.lemonde.fr/planete/article/2026/10/22/l-omnibus-x-cheval-de-troie-des-pesticides-genetiques-en-europe_6798555_3244.html",
-          "published": "2026-10-22T05:45:10+02:00",
+          "published": "2026-10-22T05:45:05+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1758,28 +1727,6 @@
           "language": "fr",
           "summary": "Lors de la réunion dans la capitale arménienne, la France a mis en avant ses progrès en matière de protection de la nature, notamment la création de z",
           "image": "https://img.lemde.fr/2026/10/16/1056/0/8448/4224/644/322/60/0/e722581_upload-1-gtzr2ofqsejk-l1021054.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Comment on fournit de l’électricité à notre quartier en circuit court",
-          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/20/comment-on-fournit-de-l-electricite-a-notre-quartier-en-circuit-court_6797853_6125299.html",
-          "published": "2026-10-20T05:15:09+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Aujourd’hui,",
-          "image": "https://img.lemde.fr/2026/09/09/283/0/2997/1498/644/322/60/0/da9b180_upload-1-33kbohhbnsy7-le-monde-ciren-026.jpg",
-          "other_news": true
-        },
-        {
-          "title": "La foisonnante inventivité des chercheurs pour étudier les capacités d’adaptation des espèces",
-          "link": "https://www.lemonde.fr/sciences/article/2026/10/19/la-foisonnante-inventivite-des-chercheurs-pour-etudier-les-capacites-d-adaptation-des-especes_6797552_1650684.html",
-          "published": "2026-10-19T17:30:18+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Prédire l’imprévisible face au changement climatique, c’est le défi que doivent relever les scientifiques. Pour créer des conditions météorologiques e",
-          "image": "https://img.lemde.fr/2026/10/19/99/0/1200/600/644/322/60/0/f3b45eb_upload-1-5yymfv8gaoed-cnrs-20190066-0051-md.jpg",
           "other_news": true
         },
         {

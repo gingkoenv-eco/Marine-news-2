@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:00:38.773167+00:00",
+  "generated_at": "2026-10-22T17:10:19.688449+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -191,6 +191,28 @@
           "other_news": false
         },
         {
+          "title": "Protecting 30% of ocean will take until 2289 at current rate, Greenpeace warns",
+          "link": "https://oceanographicmagazine.com/news/protecting-30-of-ocean-will-take-until-2289-at-current-rate-greenpeace-warns/",
+          "published": "2026-10-22T14:39:23+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "As delegates assemble in Armenia for UN biodiversity talks at CBD COP17, a new report argues for a network of High Seas MPAs to create migratory safe",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Changement climatique : 96 % des récifs coralliens classés « en danger critique d’extinction » d’ici cinquante ans",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/22/changement-climatique-96-des-recifs-coralliens-classes-en-danger-critique-d-extinction-d-ici-cinquante-ans_6798628_3244.html",
+          "published": "2026-10-22T16:06:09+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Parmi les plus menacés figurent la Grande Barrière de corail en Australie, le Triangle de corail dans l’océan Pacifique occidental et en Asie du Sud-E",
+          "image": "https://img.lemde.fr/2026/10/22/288/0/3451/1725/644/322/60/0/9b11b00_ftp-1-7vm7g7dvjng4-0f561cb5cd854bfb9065df70384b64c4-1-0a4a0ce2e0a645b3ad40ac94b91b2514.jpg",
+          "other_news": false
+        },
+        {
           "title": "Could You Really Be Swallowed by a Whale?",
           "link": "https://oceanconservancy.org/blog/2026/10/16/swallowed-by-a-whale/",
           "published": "2026-10-16T20:25:30+00:00",
@@ -277,6 +299,17 @@
           "type": "news",
           "language": "en",
           "summary": "Britain’s limited appetite for fish is often assumed to be a long-standing cultural norm. Recipes published in a Good Housekeeping suggest otherwise.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Mexico ‘turns its back’ on remaining vaquita with new fishing rules",
+          "link": "https://oceanographicmagazine.com/news/mexico-turns-its-back-on-its-remaining-vaquita-with-new-fishing-rules/",
+          "published": "2026-10-22T15:08:39+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Mexico has cut the vaquita’s gillnet-free zone by 86 per cent, opening the Upper Gulf of California to the fishing gear that has pushed the porpoise t",
           "image": null,
           "other_news": false
         },
@@ -685,17 +718,6 @@
           "other_news": false
         },
         {
-          "title": "Restored oyster reefs could be worth $12 trillion a year, study finds",
-          "link": "https://oceanographicmagazine.com/news/restored-oyster-reefs-could-be-worth-12-trillion-a-year-study-finds/",
-          "published": "2026-10-08T11:57:51+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The world's oyster reefs could deliver $12 trillion a year in ecosystem benefits, but 90% of sites would need restoring first\nThe post Restored oyster",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "En Guyane, le préfet active le plan Orsec « sécheresse » pour ravitailler les communes isolées face aux effets d’El Niño",
           "link": "https://www.lemonde.fr/outre-mer/article/2026/10/22/en-guyane-le-prefet-active-le-plan-orsec-secheresse-pour-ravitailler-les-communes-isolees-face-aux-effets-d-el-nino_6798413_1840826.html",
           "published": "2026-10-22T03:00:20+02:00",
@@ -715,6 +737,17 @@
           "language": "fr",
           "summary": "Au nom de la sécurité énergétique, le gouvernement d’Andy Burnham a donné son feu vert au forage du champ gazier Jackdaw, situé au large de l’Ecosse.",
           "image": "https://img.lemde.fr/2026/10/21/80/0/5000/2500/644/322/60/0/ef95b9b_ftp-1-kcihnnp8twec-afp-d3wz24a.jpg",
+          "other_news": false
+        },
+        {
+          "title": "«Une immense victoire pour la pêche artisanale» : le gouvernement va interdire les chalutiers géants de la bande côtière dans l’est de la Manche",
+          "link": "https://vert.eco/biodiversite/une-immense-victoire-pour-la-peche-artisanale-le-gouvernement-va-interdire-les-chalutiers-geants-de-la-bande-cotiere-dans-lest-de-la-manche/",
+          "published": "2026-10-22T16:18:28+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Sous la pression du monde de la pêche et des associations écologistes, le ministère de la mer a annoncé ce jeudi lancer une consultation auprès des Ét",
+          "image": null,
           "other_news": false
         },
         {
@@ -890,30 +923,6 @@
           "other_news": true
         }
       ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "China’s panda diplomacy: how Beijing combines conservation and trade",
-          "link": "https://theconversation.com/chinas-panda-diplomacy-how-beijing-combines-conservation-and-trade-291830",
-          "published": "2026-10-12T09:28:09+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "China has pursued a policy of using its panda conservation project as a trade and diplomacy tool.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "An AI model’s false tip to Philadelphia police reveals how digital agents can do as they’re told and still cause trouble",
-          "link": "https://theconversation.com/an-ai-models-false-tip-to-philadelphia-police-reveals-how-digital-agents-can-do-as-theyre-told-and-still-cause-trouble-294228",
-          "published": "2026-10-21T12:48:18+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "An expert on AI governance explains why these rare mistakes may soon be common, and with much higher stakes.",
-          "image": null,
-          "other_news": true
-        }
-      ],
       "Other Marine News": [
         {
           "title": "Climate crisis is coming to crush many of world’s best surf breaks, study warns",
@@ -949,17 +958,6 @@
           "other_news": true
         },
         {
-          "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
-          "link": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-21T11:57:49+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4da/live/ee815af0-cd3d-11f1-bc2e-018d645d8d21.png",
-          "other_news": true
-        },
-        {
           "title": "New lab to become centre for investigating uplands",
           "link": "https://www.bbc.co.uk/news/articles/cmg473555gzko?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-21T20:36:12+00:00",
@@ -968,17 +966,6 @@
           "language": "en",
           "summary": "The research facility in Penrith will also help train the next generation of environmental scientists.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1549/live/8803a970-cd5d-11f1-b962-b7ff822cde72.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
-          "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-21T15:36:31+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2643/live/6503a5b0-cd58-11f1-bc2e-018d645d8d21.jpg",
           "other_news": true
         },
         {
@@ -1033,6 +1020,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Utilisé comme fongicide en agriculture, notamment biologique, le cuivre suscite des inquiétudes quant à sa toxicité sur l’environnement et la santé. Q",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Jackdaw decision could haunt the UK at future climate summits",
+          "link": "https://theconversation.com/jackdaw-decision-could-haunt-the-uk-at-future-climate-summits-294981",
+          "published": "2026-10-22T15:46:47+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "The UK can’t champion a fossil fuel phase-out while approving new gas fields.",
           "image": null,
           "other_news": true
         },
@@ -1543,17 +1541,6 @@
           "other_news": true
         },
         {
-          "title": "UN backs push to upgrade grids slowing clean power uptake in Africa and SE Asia",
-          "link": "https://www.climatechangenews.com/2026/09/23/un-backs-push-to-upgrade-grids-slowing-clean-power-uptake-in-africa-and-southeast-asia/",
-          "published": "2026-09-23T17:11:37+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The Global Grids Accelerator will help turn national and regional plans to expand electricity infrastructure into viable projects on the ground\nThe po",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Climat : le monde se dirige vers +2,6 °C d'ici 2100, alerte l'ONU",
           "link": "https://reporterre.net/Climat-le-monde-se-dirige-vers-un-rechauffement-de-2-6oC-d-ici-2100-alerte-l-ONU",
           "published": "2026-10-21T13:08:48+00:00",
@@ -1759,17 +1746,6 @@
           "type": "news",
           "language": "en",
           "summary": "Africa’s circular economy is already at work in repair shops and scrap yards. Backing the people who keep goods in use could cut waste and create bett",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Human rights could improve – or worsen – based on how nations use the UN treaty against cybercrime",
-          "link": "https://theconversation.com/human-rights-could-improve-or-worsen-based-on-how-nations-use-the-un-treaty-against-cybercrime-269794",
-          "published": "2026-10-21T12:47:08+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "If the treaty enters into force, responsible nations will have to carefully monitor how other countries use it.",
           "image": null,
           "other_news": true
         },

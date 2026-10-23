@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:01:36.329184+00:00",
+  "generated_at": "2026-10-23T05:01:21.552861+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -12,6 +12,19 @@
           "language": "en",
           "summary": "Wildlife traffickers are increasingly targeting critically endangered maleo birds from coastal Indonesia for the international exotic pet trade, accor",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/22085840/Four-of-the-eight-maleos-768x512.jpg",
+          "other_news": false
+        }
+      ],
+      "Sustainable Fisheries": [
+        {
+          "title": "Industrial fleets threaten millions of small-scale fishers, with Africa most at risk",
+          "link": "https://oceanographicmagazine.com/news/industrial-fleets-threaten-millions-of-small-scale-fishers-with-africa-most-at-risk/",
+          "published": "2026-10-21T12:58:00+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The first-of-its-kind study finds that reliance on small-scale fishing and weak governance, leave coastal communities more vulnerable to industry encr",
+          "image": null,
           "other_news": false
         }
       ],
@@ -50,13 +63,13 @@
           "other_news": false
         },
         {
-          "title": "How Argentina’s Javier Milei hopes to exploit a dispute over Falklands oil in next year’s election",
-          "link": "https://theconversation.com/how-argentinas-javier-milei-hopes-to-exploit-a-dispute-over-falklands-oil-in-next-years-election-294163",
-          "published": "2026-10-21T15:10:27+00:00",
-          "source": "The Conversation",
+          "title": "Scientists again advise zero cod catch across UK waters to prevent stock collapse",
+          "link": "https://oceanographicmagazine.com/news/scientists-again-advise-zero-cod-catch-across-uk-waters-to-prevent-stock-collapse/",
+          "published": "2026-10-09T12:38:35+00:00",
+          "source": "Oceanographic",
           "type": "news",
           "language": "en",
-          "summary": "It may not win sovereignty but the law of the sea may enable the Argentina government to score a small win over the UK.",
+          "summary": "The International Council for the Exploration of the Sea says cod in the North Sea, Irish Sea, Celtic Sea and English Channel is at risk of collapse,",
           "image": null,
           "other_news": false
         },
@@ -107,6 +120,17 @@
           "language": "en",
           "summary": "Popular ocean beach ranks as Sydney’s worst for faecal pollution – again – but Caitlin Cassidy discovers happy children and familiesIn the Dharug lang",
           "image": "https://i.guim.co.uk/img/media/dc5288e2f8ce3eca0a3aa0d3694a434f8bf472f6/256_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b9808a9c831bad87c0140aa9d63dfb5f",
+          "other_news": false
+        },
+        {
+          "title": "How Orlando Communities are Tackling Plastic Pollution",
+          "link": "https://oceanconservancy.org/blog/2026/10/22/zero-waste-orlando/",
+          "published": "2026-10-22T21:44:13+00:00",
+          "source": "Ocean Conservancy",
+          "type": "news",
+          "language": "en",
+          "summary": "The city of Orlando is known above all else for its world-class amusement parks. In fact, hundreds of thousands of people visit the city every year fr",
+          "image": null,
           "other_news": false
         }
       ],
@@ -167,9 +191,20 @@
           "other_news": false
         },
         {
-          "title": "Changement climatique : 96 % des récifs coralliens classés « en danger critique d’extinction » d’ici cinquante ans",
+          "title": "Protecting 30% of ocean will take until 2289 at current rate, Greenpeace warns",
+          "link": "https://oceanographicmagazine.com/news/protecting-30-of-ocean-will-take-until-2289-at-current-rate-greenpeace-warns/",
+          "published": "2026-10-22T14:39:23+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "As delegates assemble in Armenia for UN biodiversity talks at CBD COP17, a new report argues for a network of High Seas MPAs to create migratory safe",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Changement climatique : 96 % des récifs coralliens classés « en danger critique d’extinction » d’ici à cinquante ans",
           "link": "https://www.lemonde.fr/planete/article/2026/10/22/changement-climatique-96-des-recifs-coralliens-classes-en-danger-critique-d-extinction-d-ici-cinquante-ans_6798628_3244.html",
-          "published": "2026-10-22T16:06:09+02:00",
+          "published": "2026-10-22T16:06:07+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -231,17 +266,6 @@
           "summary": "Inside an inspection facility in Hong Kong in 2018, shark biologist Diego Cardeñosa stared at dozens of large white bags. They were stacked, sometimes",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/17023353/silky1_Silky_shark_Bahamas_Brendan_Talwar-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Six new calves offer hope amid ongoing threats to Cambodia’s Irrawaddy dolphins",
-          "link": "https://news.mongabay.com/short-article/2026/10/six-new-calves-offer-hope-amid-ongoing-threats-to-cambodias-irrawaddy-dolphins/",
-          "published": "2026-10-20T12:55:29+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Cambodia’s population of critically endangered Irrawaddy dolphins has increased to an estimated 118 individuals since the confirmed birth of six calve",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20125459/Irrawaddy-dolphins-in-Cambodia-768x512.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -265,6 +289,39 @@
           "language": "en",
           "summary": "Britain’s limited appetite for fish is often assumed to be a long-standing cultural norm. Recipes published in a Good Housekeeping suggest otherwise.",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Mexico ‘turns its back’ on remaining vaquita with new fishing rules",
+          "link": "https://oceanographicmagazine.com/news/mexico-turns-its-back-on-its-remaining-vaquita-with-new-fishing-rules/",
+          "published": "2026-10-22T15:08:39+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Mexico has cut the vaquita’s gillnet-free zone by 86 per cent, opening the Upper Gulf of California to the fishing gear that has pushed the porpoise t",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "How the “big five” fish took over the British dinner table",
+          "link": "https://oceanographicmagazine.com/news/how-the-big-five-fish-took-over-the-british-dinner-table/",
+          "published": "2026-10-19T09:38:00+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new study of recipes from the last 100 years shows how a varied seafood culture gave way to the \"big five\" that now make up about 80% of the fish ea",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Googly-eyed buoys and kites help keep seabirds out of fishing nets, study finds",
+          "link": "https://news.mongabay.com/2026/10/googly-eyed-buoys-and-kites-help-keep-seabirds-out-of-fishing-nets-study-finds/",
+          "published": "2026-10-23T04:55:20+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Off the coast of Cornwall in southwest England, a pole rises from a buoy with a pair of big eyes on top. The head spins, creating what researchers cal",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23043242/FISHTEK-LEB-stills-1-768x512.jpg",
           "other_news": false
         }
       ],
@@ -617,6 +674,50 @@
           "other_news": false
         },
         {
+          "title": "BP oil spill continues to decimate marine life off Gulf of Mexico 16 years on",
+          "link": "https://oceanographicmagazine.com/news/bp-oil-spill-continues-to-decimate-marine-life-off-gulf-of-mexico-16-years-on/",
+          "published": "2026-10-20T12:26:21+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Toxins from the 134-million-gallon spill were absorbed into marine animals’ eggs – and are still weakening deep-sea offspring today\nThe post BP oil sp",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "US to sell off seabed as scientists check damage from mining tests",
+          "link": "https://oceanographicmagazine.com/news/us-to-sell-off-seabed-as-scientists-check-damage-from-mining-tests/",
+          "published": "2026-10-20T12:23:36+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The US will hold its first deep-sea mining lease sale in November, offering 31 million acres off American Samoa, as scientists revisit a Pacific minin",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Solent seabirds enjoy record breeding year after bird flu recovery",
+          "link": "https://oceanographicmagazine.com/news/solent-seabirds-enjoy-record-breeding-year-after-bird-flu-recovery/",
+          "published": "2026-10-19T11:12:06+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Seabirds in the Solent have had a record breeding year, with Sandwich Terns rebounding at Pagham Harbour from zero pairs in 2023 to at least 756 after",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "World’s largest penguin colony suffers steep decline in numbers",
+          "link": "https://oceanographicmagazine.com/news/worlds-largest-penguin-colony-suffers-steep-decline-in-numbers/",
+          "published": "2026-10-09T12:43:10+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Occupied chinstrap nests on Zavodovski Island have fallen by 63% since 2011, scientists say, with warming seas pushing the penguins' krill prey out of",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "En Guyane, le préfet active le plan Orsec « sécheresse » pour ravitailler les communes isolées face aux effets d’El Niño",
           "link": "https://www.lemonde.fr/outre-mer/article/2026/10/22/en-guyane-le-prefet-active-le-plan-orsec-secheresse-pour-ravitailler-les-communes-isolees-face-aux-effets-d-el-nino_6798413_1840826.html",
           "published": "2026-10-22T03:00:20+02:00",
@@ -668,17 +769,6 @@
           "type": "news",
           "language": "en",
           "summary": "Our ocean is an incredibly vast and mysterious place. And there is no place where that is more evident than the deepest ocean area in the world: the l",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "The Ocean is Changing—Here’s What We Can Do About It",
-          "link": "https://oceanconservancy.org/blog/2026/09/22/ocean-is-changing/",
-          "published": "2026-09-22T21:43:33+00:00",
-          "source": "Ocean Conservancy",
-          "type": "news",
-          "language": "en",
-          "summary": "Our ocean has absorbed more than 90% of excess heat caused by human-driven climate change and a quarter of the carbon dioxide we emit. In simple terms",
           "image": null,
           "other_news": false
         },
@@ -857,14 +947,25 @@
           "other_news": true
         },
         {
-          "title": "How Jackdaw ignites row over climate and costs",
-          "link": "https://www.bbc.co.uk/news/videos/c65ynpx07djvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-21T16:51:10+00:00",
+          "title": "Amber warning in place as Storm Austen hits parts of UK",
+          "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-23T00:08:43+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "The UK government approves production from Jackdaw amid intense debate about the project's environmental and economic impact.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32db/live/1ada51f0-cd71-11f1-9a39-31b474234113.jpg",
+          "summary": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e2/live/63d08560-ce33-11f1-a86f-f78305ec9987.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Grid operator says lights will stay on this winter after concerns",
+          "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-22T23:04:38+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
           "other_news": true
         },
         {
@@ -1187,6 +1288,17 @@
           "other_news": true
         },
         {
+          "title": "Coal in a green mask: Indonesia’s co-firing plan will harm, not help, the climate",
+          "link": "https://www.climatechangenews.com/2026/10/23/coal-in-a-green-mask-indonesias-co-firing-plan-will-harm-not-help-the-climate/",
+          "published": "2026-10-23T00:00:00+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Indonesia's plan to mix in a little wood will give coal-fired power plants an excuse to  operate for longer and raise deforestation pressures\nThe post",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "UK approves gas drilling despite admitting blow to “climate leadership” status",
           "link": "https://www.climatechangenews.com/2026/10/21/uk-approves-gas-drilling-despite-admitting-blow-to-climate-leadership-status/",
           "published": "2026-10-21T14:49:54+00:00",
@@ -1440,17 +1552,6 @@
           "other_news": true
         },
         {
-          "title": "UN Climate Summit: UN chief says world has tools to end fossil fuel age",
-          "link": "https://www.climatechangenews.com/2026/09/23/un-summit-live-un-chief-says-world-has-tools-to-end-the-fossil-fuel-age/",
-          "published": "2026-09-23T19:54:55+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "At the UN Secretary-General's climate summit in New York, countries shared their energy transition plans while Nepal and island nations advocated for",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Climat : le monde se dirige vers +2,6 °C d'ici 2100, alerte l'ONU",
           "link": "https://reporterre.net/Climat-le-monde-se-dirige-vers-un-rechauffement-de-2-6oC-d-ici-2100-alerte-l-ONU",
           "published": "2026-10-21T13:08:48+00:00",
@@ -1561,6 +1662,28 @@
           "other_news": true
         },
         {
+          "title": "UK’s climate ambition ‘in tatters’ as Jackdaw gasfield gets go ahead",
+          "link": "https://oceanographicmagazine.com/news/uk-s-climate-ambition-in-tatters-as-jackdaw-gasfield-get-go-ahead/",
+          "published": "2026-10-21T11:44:44+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "While the move had been widely anticipated, it has been met with dismay from campaigners who liken the decision to ‘climate vandalism’ and an apparent",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Avec plus de 50 000 décès liés à la chaleur dont les deux tiers attribués au changement climatique, l’été 2026 a été le plus meurtrier dans les villes d’Europe",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/23/avec-plus-de-50-000-deces-lies-a-la-chaleur-dont-les-deux-tiers-attribues-au-changement-climatique-l-ete-2026-a-ete-le-plus-meurtrier-dans-les-villes-d-europe_6798935_3244.html",
+          "published": "2026-10-23T05:00:24+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Selon une étude menée par deux institutions britanniques et portant sur 854 agglomérations, les canicules de 2026 ont été beaucoup plus meurtrières qu",
+          "image": "https://img.lemde.fr/2026/07/17/218/0/5432/2716/644/322/60/0/bcdf974_upload-1-kaobjqiugfxa-chaudauchu-58.jpg",
+          "other_news": true
+        },
+        {
           "title": "Le virus Shamonda détecté pour la première fois chez un humain, un patient immunodéprimé mort en France",
           "link": "https://www.lemonde.fr/planete/article/2026/10/22/le-virus-shamonda-detecte-pour-la-premiere-fois-chez-un-humain-un-patient-immunodeprime-mort-en-france_6798613_3244.html",
           "published": "2026-10-22T13:20:39+02:00",
@@ -1583,35 +1706,24 @@
           "other_news": true
         },
         {
-          "title": "L’action climatique est « dangereusement insuffisante », alertent les Nations unies face au dépassement annoncé du seuil de 1,5 °C de réchauffement",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/21/l-action-climatique-est-dangereusement-insuffisante-alertent-les-nations-unies-face-au-depassement-annonce-du-seuil-de-1-5-c-de-rechauffement_6798118_3244.html",
-          "published": "2026-10-21T05:00:05+02:00",
-          "source": "Le Monde Planète",
+          "title": "Why Snowy Hydro’s $25 billion cost blowout is a warning sign for other megaprojects",
+          "link": "https://theconversation.com/why-snowy-hydros-25-billion-cost-blowout-is-a-warning-sign-for-other-megaprojects-295057",
+          "published": "2026-10-23T04:47:16+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "A quelques jours de l’ouverture de la COP31 en Turquie, le Progamme des Nations unies pour l’environnement prévoit, si les politiques actuelles se pou",
-          "image": "https://img.lemde.fr/2026/10/20/251/0/2997/1498/644/322/60/0/67fe086_upload-1-7dtagdec2qav-le-monde-ciren-030.jpg",
+          "language": "en",
+          "summary": "From the $93 billion High Speed Rail project to Melbourne’s Suburban Rail Loop, Australia needs a better approach on megaprojects – or history will ke",
+          "image": null,
           "other_news": true
         },
         {
-          "title": "Dans les Pyrénées, 16 nouveaux oursons, mais des problèmes de consanguinité persistants",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/20/dans-les-pyrenees-16-nouveaux-oursons-mais-des-problemes-de-consanguinite-persistants_6797909_3244.html",
-          "published": "2026-10-20T13:00:02+02:00",
-          "source": "Le Monde Planète",
+          "title": "Snowy 2.0 was never going to be cheap. But it will be much cheaper than relying on batteries for storage",
+          "link": "https://theconversation.com/snowy-2-0-was-never-going-to-be-cheap-but-it-will-be-much-cheaper-than-relying-on-batteries-for-storage-294949",
+          "published": "2026-10-23T02:39:57+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Selon le dernier bilan de suivi de l’ours publié par l’Office français de la biodiversité, près de 130 ours seraient présents dans les Pyrénées. Mais",
-          "image": "https://img.lemde.fr/2026/10/19/154/0/5100/2550/644/322/60/0/35e04fd_upload-1-jgzpqlbysai0-capture-d-e-cran-2026-10-19-a-15-43-59.jpg",
-          "other_news": true
-        },
-        {
-          "title": "La COP17 sur la biodiversité s’ouvre en Arménie : les États du monde entier font face aux limites de leur action",
-          "link": "https://vert.eco/biodiversite/la-cop17-sur-la-biodiversite-souvre-en-armenie-les-etats-du-monde-entier-font-face-a-leurs-promesses/",
-          "published": "2026-10-19T10:04:05+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Ce lundi, les négociations de la 17ème conférence mondiale (COP17) sur la biodiversité ont démarré à Erevan, capitale de l’Arménie. Quatre ans après l",
+          "language": "en",
+          "summary": "The original costings for Snowy 2.0 were wildly optimistic. But the troubled scheme is close to completion – and will help power the grid as coal exit",
           "image": null,
           "other_news": true
         },
@@ -1623,39 +1735,6 @@
           "type": "news",
           "language": "en",
           "summary": "Less frequent mowing and pesticide use can create environments that are more welcoming for pollinators like bees and butterflies.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "How 39 young people experience climate education in a rapidly changing world",
-          "link": "https://theconversation.com/how-39-young-people-experience-climate-education-in-a-rapidly-changing-world-291086",
-          "published": "2026-10-21T15:02:51+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Youth described wanting a politicized form of climate education rooted in emotion and relationality. They also want conversations in their immediate c",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Africa’s bats could survive climate change – if they can find somewhere to live",
-          "link": "https://theconversation.com/africas-bats-could-survive-climate-change-if-they-can-find-somewhere-to-live-293184",
-          "published": "2026-10-21T13:27:45+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "As the climate changes, bats will need both suitable foraging landscapes and caves for roosting.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Africans reuse, repair, recycle and resell waste: what’s needed to build on the circular economy basics",
-          "link": "https://theconversation.com/africans-reuse-repair-recycle-and-resell-waste-whats-needed-to-build-on-the-circular-economy-basics-291851",
-          "published": "2026-10-21T13:27:25+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Africa’s circular economy is already at work in repair shops and scrap yards. Backing the people who keep goods in use could cut waste and create bett",
           "image": null,
           "other_news": true
         },
@@ -1701,28 +1780,6 @@
           "language": "en",
           "summary": "A battery system that stores excess energy when it’s plentiful will power an apartment building in Buffalo, New York, when the grid is strained and el",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20153343/AP26292597463874-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Nigeria’s parks chief stresses conservation gains amid struggle to protect wildlife",
-          "link": "https://news.mongabay.com/2026/10/nigerias-parks-chief-stresses-conservation-gains-amid-struggle-to-protect-wildlife/",
-          "published": "2026-10-20T12:03:52+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Nigeria has scored a significant conservation victory with the closure of a major illegal gold mine near Gashaka-Gumti National Park, the country&#821",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20104510/489884393_4050728211875253_83195258688067382_n-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Bank credit remains scarce in Bangladesh where climate risks are highest",
-          "link": "https://news.mongabay.com/2026/10/bank-credit-remains-scarce-in-bangladesh-where-climate-risks-are-highest/",
-          "published": "2026-10-20T12:01:16+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "For 34-year-old Saiful Gazi — a resident of Ramjannagar Union in Shyamnagar, Satkhira, an area highly vulnerable to climate change — securing institut",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20113550/52423722318_20fc2ff926_o-768x512.jpg",
           "other_news": true
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:40:37.505685+00:00",
+  "generated_at": "2026-10-23T12:39:49.709446+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -329,17 +329,6 @@
       ],
       "Polar & Reef Ecosystems & Resilience": [
         {
-          "title": "Project aims to protect rare arctic-alpine plants",
-          "link": "https://www.bbc.co.uk/news/articles/c6ewe4zyyg0ro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-22T11:11:13+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The three year scheme is awarded £65,000 to collect seeds and plant them in the fells.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3fa/live/9a244570-ce06-11f1-8991-296181d7e3de.jpg",
-          "other_news": false
-        },
-        {
           "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
           "link": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
           "published": "2026-09-25T12:45:39+00:00",
@@ -627,6 +616,17 @@
           "language": "en",
           "summary": "Efforts to protect marine ecosystems and coastal communities have risen up the political agenda at the UN General Assembly in New York\nThe post Threat",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "« Une victoire historique » : la France va interdire les navires-usines près des côtes",
+          "link": "https://reporterre.net/Une-victoire-historique-la-France-va-interdire-les-navires-usines-pres-des-cotes",
+          "published": "2026-10-23T12:34:24+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Après des mois d'attente, la ministre de la Mer Catherine Chabaud a annoncé, jeudi 22 octobre, le lancement du processus visant",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/alapecheauxmesuresuresures-6d509.jpg?1792758868",
           "other_news": false
         },
         {
@@ -966,6 +966,17 @@
           "language": "en",
           "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Denmark nurdles may be from Tyne spill, agency says",
+          "link": "https://www.bbc.co.uk/news/articles/cqy43xv1jwv2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-23T11:56:14+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Danish Environment Protection Agency says nurdles it has tested are similar to the Tyne pellets.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fe0/live/3455ece0-cecd-11f1-8507-45cb00a1c41c.jpg",
           "other_news": true
         },
         {

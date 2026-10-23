@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:01:21.552861+00:00",
+  "generated_at": "2026-10-23T11:40:37.505685+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -60,17 +60,6 @@
           "language": "fr",
           "summary": "Protéger les terres et les océans, restaurer les écosystèmes dégradés, sortir des pesticides... La COP17 biodiversité s'ouvre le",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20220418__328h6zw__v1__highres__serbiaenvironmentpollutionwasteanimal_1_-1a324.jpg?1792328402",
-          "other_news": false
-        },
-        {
-          "title": "Scientists again advise zero cod catch across UK waters to prevent stock collapse",
-          "link": "https://oceanographicmagazine.com/news/scientists-again-advise-zero-cod-catch-across-uk-waters-to-prevent-stock-collapse/",
-          "published": "2026-10-09T12:38:35+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The International Council for the Exploration of the Sea says cod in the North Sea, Irish Sea, Celtic Sea and English Channel is at risk of collapse,",
-          "image": null,
           "other_news": false
         },
         {
@@ -191,6 +180,17 @@
           "other_news": false
         },
         {
+          "title": "Nearly all of the world’s coral reefs now Critically Endangered",
+          "link": "https://oceanographicmagazine.com/news/nearly-all-of-the-world-s-coral-reefs-now-critically-endangered/",
+          "published": "2026-10-23T11:23:30+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A first-ever IUCN Red List assessment finds 96 per cent of shallow-water coral reef ecosystems are Critically Endangered, with nearly all at extremely",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Protecting 30% of ocean will take until 2289 at current rate, Greenpeace warns",
           "link": "https://oceanographicmagazine.com/news/protecting-30-of-ocean-will-take-until-2289-at-current-rate-greenpeace-warns/",
           "published": "2026-10-22T14:39:23+00:00",
@@ -254,17 +254,6 @@
           "language": "en",
           "summary": "Six members of a pod of 30 belugas, a fifth of the whales that were transferred from a marine park in Canada to facilities in the U.S. and Spain as pa",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20160121/Credit-Shedd-Aquarium-Brenna-Hernandez-177-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "As silky sharks decline, Costa Rica’s dominant trade faces a reckoning",
-          "link": "https://news.mongabay.com/2026/10/as-silky-sharks-decline-costa-ricas-dominant-trade-faces-a-reckoning/",
-          "published": "2026-10-20T17:03:20+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Inside an inspection facility in Hong Kong in 2018, shark biologist Diego Cardeñosa stared at dozens of large white bags. They were stacked, sometimes",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/17023353/silky1_Silky_shark_Bahamas_Brendan_Talwar-768x512.jpg",
           "other_news": false
         }
       ],
@@ -484,17 +473,6 @@
           "language": "en",
           "summary": "The weather pattern is associated with extreme, stormy weather, but authorities predict a quiet year in one ocean at least‘Supersizing before our eyes",
           "image": "https://i.guim.co.uk/img/media/0c1b68edb76ca5aa7e473084894b0828bbddce5a/414_0_5794_4636/master/5794.jpg?width=140&quality=85&auto=format&fit=max&s=48f73c9faa1c9b0369a8fcd9237c7072",
-          "other_news": false
-        },
-        {
-          "title": "Fuel leak which killed fish in River Taff stopped",
-          "link": "https://www.bbc.co.uk/news/articles/c6y8lvxzp59vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-21T18:28:06+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "GE Aerospace previously confirmed fuel got into the river while repair work took place nearby.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/996f/live/00f5b420-cae5-11f1-9a04-8f1bfcd98c61.jpg",
           "other_news": false
         },
         {
@@ -782,17 +760,6 @@
           "summary": "Low-lying tropical atoll islands appear remarkably vulnerable to climate change. But when shrouded with native forests and with abundant seabird popul",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/21114336/3-red-footed-booby_Jon-1-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Recycled glass offers a potential new tool to restore a vanishing coastline",
-          "link": "https://news.mongabay.com/2026/10/recycled-glass-offers-a-potential-new-tool-to-restore-a-vanishing-coastline/",
-          "published": "2026-10-20T15:35:36+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Every 100 minutes, the U.S. state of Louisiana loses a soccer field’s worth of land to coastal erosion. It’s a natural process intensified by the acce",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20143608/a.-%C2%A9-Sean-Krieg-original-768x512.jpg",
-          "other_news": false
         }
       ]
     },
@@ -890,6 +857,17 @@
           "other_news": true
         },
         {
+          "title": "«Un signal d’alarme» : 96% des écosystèmes des récifs coralliens sont en «danger d’extinction»",
+          "link": "https://vert.eco/biodiversite/un-signal-dalarme-96-des-ecosystemes-des-recifs-coralliens-sont-en-danger-dextinction/",
+          "published": "2026-10-23T09:10:25+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Une grande majorité de ces écosystèmes pourraient disparaitre d’ici 2075, selon l’Union internationale pour la conservation de la nature. En cause, le",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Nature has a new Noah’s Ark moment at the biodiversity summit (commentary)",
           "link": "https://news.mongabay.com/2026/10/nature-has-a-new-noahs-ark-moment-at-the-biodiversity-summit-commentary/",
           "published": "2026-10-21T19:21:07+00:00",
@@ -947,9 +925,20 @@
           "other_news": true
         },
         {
-          "title": "Amber warning in place as Storm Austen hits parts of UK",
+          "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
+          "link": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-23T09:47:42+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53d5/live/1df63570-cec5-11f1-b9e0-e5f0da03dc7f.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Storm Austen hits UK as yellow wind warnings in effect",
           "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-23T00:08:43+00:00",
+          "published": "2026-10-23T09:30:03+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -958,25 +947,25 @@
           "other_news": true
         },
         {
-          "title": "Grid operator says lights will stay on this winter after concerns",
+          "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
+          "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-23T08:26:47+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/b0f3ac60-cec3-11f1-a701-fddedf244c16.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Lights will stay on this winter, grid operator says after concerns",
           "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-22T23:04:38+00:00",
+          "published": "2026-10-23T06:47:10+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
           "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
-          "other_news": true
-        },
-        {
-          "title": "New lab to become centre for investigating uplands",
-          "link": "https://www.bbc.co.uk/news/articles/cmg473555gzko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-21T20:36:12+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The research facility in Penrith will also help train the next generation of environmental scientists.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1549/live/8803a970-cd5d-11f1-b962-b7ff822cde72.jpg",
           "other_news": true
         },
         {
@@ -1288,6 +1277,17 @@
           "other_news": true
         },
         {
+          "title": "Early speakers’ list suggests few powerful leaders will attend COP31",
+          "link": "https://www.climatechangenews.com/2026/10/23/early-speakers-list-suggests-few-powerful-leaders-will-attend-cop31/",
+          "published": "2026-10-23T11:32:34+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Just 77 heads of state or government are scheduled to address the COP31 climate summit in Antalya, a third down on the COP28 peak\nThe post Early speak",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Coal in a green mask: Indonesia’s co-firing plan will harm, not help, the climate",
           "link": "https://www.climatechangenews.com/2026/10/23/coal-in-a-green-mask-indonesias-co-firing-plan-will-harm-not-help-the-climate/",
           "published": "2026-10-23T00:00:00+00:00",
@@ -1552,6 +1552,17 @@
           "other_news": true
         },
         {
+          "title": "Bolsonaro fils bientôt élu au Brésil ? Une « catastrophe » pour l'environnement et les autochtones",
+          "link": "https://reporterre.net/Bolsonaro-fils-bientot-elu-au-Bresil-Une-catastrophe-pour-l-environnement-et-les",
+          "published": "2026-10-23T07:52:38+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Invasion des terres autochtones, suppressions d'agences environnementales… Flavio Bolsonaro, candidat arrivé en tête du 1er tour",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/afp__20261019__marina_uezima_brazil_photo_press_19610__v1__midres__lulaandflaviobols-29fd5.jpg?1792741965",
+          "other_news": true
+        },
+        {
           "title": "Climat : le monde se dirige vers +2,6 °C d'ici 2100, alerte l'ONU",
           "link": "https://reporterre.net/Climat-le-monde-se-dirige-vers-un-rechauffement-de-2-6oC-d-ici-2100-alerte-l-ONU",
           "published": "2026-10-21T13:08:48+00:00",
@@ -1651,17 +1662,6 @@
           "other_news": true
         },
         {
-          "title": "Budget 2027 : réduire le déficit au détriment du climat est un calcul risqué",
-          "link": "https://reporterre.net/Budget-2027-reduire-le-deficit-au-detriment-du-climat-est-un-calcul-risque",
-          "published": "2026-10-14T12:58:38+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "L'Assemblée nationale se penche sur l'examen du budget 2027 depuis le 13 octobre. Au centre des inquiétudes, l'envolée de la det",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20251026__hl_xbouzas_2930717__v1__highres__francepoliticsbudgetplf2026nationala_1_-983e5.jpg?1791982721",
-          "other_news": true
-        },
-        {
           "title": "UK’s climate ambition ‘in tatters’ as Jackdaw gasfield gets go ahead",
           "link": "https://oceanographicmagazine.com/news/uk-s-climate-ambition-in-tatters-as-jackdaw-gasfield-get-go-ahead/",
           "published": "2026-10-21T11:44:44+00:00",
@@ -1675,11 +1675,11 @@
         {
           "title": "Avec plus de 50 000 décès liés à la chaleur dont les deux tiers attribués au changement climatique, l’été 2026 a été le plus meurtrier dans les villes d’Europe",
           "link": "https://www.lemonde.fr/planete/article/2026/10/23/avec-plus-de-50-000-deces-lies-a-la-chaleur-dont-les-deux-tiers-attribues-au-changement-climatique-l-ete-2026-a-ete-le-plus-meurtrier-dans-les-villes-d-europe_6798935_3244.html",
-          "published": "2026-10-23T05:00:24+02:00",
+          "published": "2026-10-23T05:00:19+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Selon une étude menée par deux institutions britanniques et portant sur 854 agglomérations, les canicules de 2026 ont été beaucoup plus meurtrières qu",
+          "summary": "Selon une étude menée par deux institutions britanniques et portant sur 854 agglomérations, les canicules de l’été ont causé davantage de morts que ce",
           "image": "https://img.lemde.fr/2026/07/17/218/0/5432/2716/644/322/60/0/bcdf974_upload-1-kaobjqiugfxa-chaudauchu-58.jpg",
           "other_news": true
         },
@@ -1739,6 +1739,39 @@
           "other_news": true
         },
         {
+          "title": "Two decades after crash, Nepal still searching for new generation of conservation visionaries",
+          "link": "https://news.mongabay.com/short-article/2026/10/two-decades-after-crash-nepal-still-searching-for-new-generation-of-conservation-visionaries/",
+          "published": "2026-10-23T09:40:22+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Twenty years after a helicopter crash killed some of Nepal’s most prominent environmental figures, the nation is celebrating ecological gains while gr",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23093956/IMG_3811-scaled-1-768x512.jpeg",
+          "other_news": true
+        },
+        {
+          "title": "Ahead of landmark climate trial in Canada, Indigenous youth eye impacts in the North",
+          "link": "https://news.mongabay.com/2026/10/ahead-of-landmark-climate-trial-in-canada-indigenous-youth-eye-impacts-in-the-north/",
+          "published": "2026-10-23T07:00:38+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Earlier this year, one of Leandrea Taylor Reeves’s best friends fell ill with a cold. “Maybe you need to go gather some Labrador,” said Reeves’ grandm",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/22223723/All-plaintifs-case-filing-day-2019-768x512.jpeg",
+          "other_news": true
+        },
+        {
+          "title": "World Snow Leopard Day: Community action and new science foster coexistence with humans",
+          "link": "https://news.mongabay.com/short-article/2026/10/world-snow-leopard-day-community-action-and-new-science-foster-coexistence-with-humans/",
+          "published": "2026-10-23T06:21:40+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Snow leopards range across Asia’s rugged mountains, where they face mounting threats from climate change, declining wild prey, and retaliatory killing",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23062110/snow-leopard-WWF-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "Water, carbon & the ‘tree of life’: Interview with Venezuela’s guardian of morichales",
           "link": "https://news.mongabay.com/2026/10/water-carbon-the-tree-of-life-interview-with-venezuelas-guardian-of-morichales/",
           "published": "2026-10-22T17:19:27+00:00",
@@ -1769,17 +1802,6 @@
           "language": "en",
           "summary": "Have you ever seen a wildlife photograph so spectacular that you’ve wondered if it was even real? Enter “photography game farms&#8221;: captive facili",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/21095451/ConservationEntangled_Featured-338x512.png",
-          "other_news": true
-        },
-        {
-          "title": "Can larger batteries safely power residential buildings? A project in New York aims to show how",
-          "link": "https://news.mongabay.com/short-article/2026/10/can-larger-batteries-safely-power-residential-buildings-a-project-in-new-york-aims-to-show-how/",
-          "published": "2026-10-20T15:41:06+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A battery system that stores excess energy when it’s plentiful will power an apartment building in Buffalo, New York, when the grid is strained and el",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20153343/AP26292597463874-768x512.jpg",
           "other_news": true
         }
       ]

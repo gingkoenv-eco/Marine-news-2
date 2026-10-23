@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T12:39:49.709446+00:00",
+  "generated_at": "2026-10-23T17:07:49.392044+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -16,6 +16,17 @@
         }
       ],
       "Sustainable Fisheries": [
+        {
+          "title": "Subsidies draining the sea cost governments more than they spend",
+          "link": "https://oceanographicmagazine.com/news/subsidies-draining-the-sea-cost-governments-more-than-they-spend/",
+          "published": "2026-10-23T12:57:30+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new Conservation International report finds harmful subsidies, including those driving overfishing and reef damage, leave a hidden bill of up to $24",
+          "image": null,
+          "other_news": false
+        },
         {
           "title": "Industrial fleets threaten millions of small-scale fishers, with Africa most at risk",
           "link": "https://oceanographicmagazine.com/news/industrial-fleets-threaten-millions-of-small-scale-fishers-with-africa-most-at-risk/",
@@ -82,17 +93,6 @@
           "language": "en",
           "summary": "Greenland’s parliament has asked the government to pause licensing on seabed mining amid concerns about foreign interests in mining and potential envi",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/22104348/Inuit_Longline_Fishing_Boats-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "US deep-sea mining claims in Pacific’s high seas now rival the area set aside by international regulator",
-          "link": "https://news.mongabay.com/custom-story/2026/10/us-deep-sea-mining-claims-in-pacifics-high-seas-now-rival-the-area-set-aside-by-international-regulator/",
-          "published": "2026-10-20T18:28:59+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The International Seabed Authority (ISA), a U.N.-associated body, has long managed activities related to deep-sea mining in international waters. But",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20122409/seegurke_SO239_157ROV11-deep-sea-cucumber-768x512.jpg",
           "other_news": false
         }
       ]
@@ -246,6 +246,17 @@
           "other_news": false
         },
         {
+          "title": "Nearly all the world’s coral reefs are at risk of collapse within 50 years, IUCN warns",
+          "link": "https://news.mongabay.com/short-article/2026/10/nearly-all-the-worlds-coral-reefs-are-at-risk-of-collapse-within-50-years-iucn-warns/",
+          "published": "2026-10-23T16:45:56+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Nearly every shallow-water coral reef ecosystem on Earth is at high risk of ecological collapse by 2075, according to the first coral reef assessment",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23163621/Sea_fans_coral_reef_Pagan_2022-768x512.png",
+          "other_news": false
+        },
+        {
           "title": "Six beluga deaths cast a shadow over rescue from Canada’s Marineland",
           "link": "https://news.mongabay.com/2026/10/six-beluga-deaths-cast-a-shadow-over-rescue-from-canadas-marineland/",
           "published": "2026-10-21T10:04:44+00:00",
@@ -323,19 +334,6 @@
           "type": "news",
           "language": "en",
           "summary": "Some farmed fish rely on wild fish for feed but aquaculture should not compromise food security of vulnerable communities.",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Polar & Reef Ecosystems & Resilience": [
-        {
-          "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
-          "link": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
-          "published": "2026-09-25T12:45:39+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.&#8230;\nThe post ‘Co",
           "image": null,
           "other_news": false
         }
@@ -465,6 +463,17 @@
           "other_news": false
         },
         {
+          "title": "Oil spill washes up on UAE beaches after tanker strike",
+          "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-23T15:30:47+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6926/live/c5f26d10-cef3-11f1-93e1-3b657b665bcf.png",
+          "other_news": false
+        },
+        {
           "title": "World's oldest shipwreck found off coast of Turkey",
           "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-14T05:00:35+00:00",
@@ -494,6 +503,28 @@
           "type": "news",
           "language": "fr",
           "summary": "On a tendance à manger plus de grands poissons que de petits poissons. Pourtant privilégier les petits poissons a plus d’un intérêt pour la santé huma",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "As flood risk rises, some communities question the idea of resilience",
+          "link": "https://theconversation.com/as-flood-risk-rises-some-communities-question-the-idea-of-resilience-292498",
+          "published": "2026-10-23T13:53:31+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "People are increasingly urged to become resilient to flooding. Yet many question whether this shifts responsibility from institutions to residents.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "The Jackdaw gasfield passed the legal test for North Sea drilling – Rosebank will find it much harder",
+          "link": "https://theconversation.com/the-jackdaw-gasfield-passed-the-legal-test-for-north-sea-drilling-rosebank-will-find-it-much-harder-295029",
+          "published": "2026-10-23T13:11:03+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "A landmark 2024 Supreme Court ruling forced ministers to account for emissions from burning fossil fuels.",
           "image": null,
           "other_news": false
         },
@@ -685,14 +716,14 @@
           "other_news": false
         },
         {
-          "title": "World’s largest penguin colony suffers steep decline in numbers",
-          "link": "https://oceanographicmagazine.com/news/worlds-largest-penguin-colony-suffers-steep-decline-in-numbers/",
-          "published": "2026-10-09T12:43:10+00:00",
-          "source": "Oceanographic",
+          "title": "La crise dans le Golfe accroît la dépendance au charbon des pays d’Afrique australe",
+          "link": "https://www.lemonde.fr/afrique/article/2026/10/23/la-crise-dans-le-golfe-accroit-la-dependance-au-charbon-des-pays-d-afrique-australe_6799095_3212.html",
+          "published": "2026-10-23T17:00:13+02:00",
+          "source": "Le Monde Planète",
           "type": "news",
-          "language": "en",
-          "summary": "Occupied chinstrap nests on Zavodovski Island have fallen by 63% since 2011, scientists say, with warming seas pushing the penguins' krill prey out of",
-          "image": null,
+          "language": "fr",
+          "summary": "Le blocage du détroit d’Ormuz a fait grimper les cours du charbon, énergie très polluante mais encore relativement bon marché. Pour les pays exportate",
+          "image": "https://img.lemde.fr/2026/10/20/375/0/4500/2250/644/322/60/0/257e4aa_upload-1-iyyeqvefzj2a-000-773x4xu.jpg",
           "other_news": false
         },
         {
@@ -704,28 +735,6 @@
           "language": "fr",
           "summary": "Le déficit pluviométrique dans cette collectivité d’outre-mer a entraîné une forte baisse du niveau des cours d’eau et l’interruption progressive du t",
           "image": "https://img.lemde.fr/2024/11/15/347/0/3504/1752/644/322/60/0/d128c2d_1731655892531-000-par1199688.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Au Royaume-Uni, le gouvernement travailliste critiqué pour avoir autorisé un forage gazier en mer du Nord",
-          "link": "https://www.lemonde.fr/international/article/2026/10/21/royaume-uni-le-gouvernement-travailliste-critique-pour-avoir-autorise-un-forage-gazier-en-mer-du-nord_6798258_3210.html",
-          "published": "2026-10-21T15:28:39+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Au nom de la sécurité énergétique, le gouvernement d’Andy Burnham a donné son feu vert au forage du champ gazier Jackdaw, situé au large de l’Ecosse.",
-          "image": "https://img.lemde.fr/2026/10/21/80/0/5000/2500/644/322/60/0/ef95b9b_ftp-1-kcihnnp8twec-afp-d3wz24a.jpg",
-          "other_news": false
-        },
-        {
-          "title": "«Une immense victoire pour la pêche artisanale» : le gouvernement va interdire les chalutiers géants de la bande côtière dans l’est de la Manche",
-          "link": "https://vert.eco/biodiversite/une-immense-victoire-pour-la-peche-artisanale-le-gouvernement-va-interdire-les-chalutiers-geants-de-la-bande-cotiere-dans-lest-de-la-manche/",
-          "published": "2026-10-22T16:18:28+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Sous la pression du monde de la pêche et des associations écologistes, le ministère de la mer a annoncé ce jeudi lancer une consultation auprès des Ét",
-          "image": null,
           "other_news": false
         },
         {
@@ -775,28 +784,6 @@
           "language": "en",
           "summary": "Hard-to-recycle plastic waste could be an untapped resource but current laws make it difficult for UK companies to innovate.",
           "image": null,
-          "other_news": true
-        },
-        {
-          "title": "How electric vehicles could help pollinators find flowers again",
-          "link": "https://theconversation.com/how-electric-vehicles-could-help-pollinators-find-flowers-again-289835",
-          "published": "2026-10-13T10:40:08+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Diesel pollution can disrupt floral scents. Switching to electric would help.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Les liens entre cancer et pollution enfin enseignés aux futurs médecins",
-          "link": "https://reporterre.net/Des-futurs-medecins-enfin-formes-aux-liens-entre-pollutions-et-cancer",
-          "published": "2026-10-15T07:22:41+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Pollution de l'air, pesticides… Une première formation spécifique sur les causes environnementales du cancer a été donnée aux in",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/octobre_2026_reporterre_cancer3-13e5b.jpg?1792049060",
           "other_news": true
         },
         {
@@ -857,17 +844,6 @@
           "other_news": true
         },
         {
-          "title": "«Un signal d’alarme» : 96% des écosystèmes des récifs coralliens sont en «danger d’extinction»",
-          "link": "https://vert.eco/biodiversite/un-signal-dalarme-96-des-ecosystemes-des-recifs-coralliens-sont-en-danger-dextinction/",
-          "published": "2026-10-23T09:10:25+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Une grande majorité de ces écosystèmes pourraient disparaitre d’ici 2075, selon l’Union internationale pour la conservation de la nature. En cause, le",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Nature has a new Noah’s Ark moment at the biodiversity summit (commentary)",
           "link": "https://news.mongabay.com/2026/10/nature-has-a-new-noahs-ark-moment-at-the-biodiversity-summit-commentary/",
           "published": "2026-10-21T19:21:07+00:00",
@@ -888,16 +864,18 @@
           "summary": "As global leaders convene in Armenia this week for the U.N. Convention on Biological Diversity (CBD) conference of the parties (COP17), it is difficul",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/09/24184300/Captura-de-pantalla-2025-06-26-a-las-1.57.38-p.m-768x512.png",
           "other_news": true
-        },
+        }
+      ],
+      "Marine Protected Areas & Policy": [
         {
-          "title": "Mozambique’s Maputo National Park showcases biodiversity and shelters migratory birds",
-          "link": "https://news.mongabay.com/short-article/2026/10/mozambiques-maputo-national-park-showcases-biodiversity-and-shelters-migratory-birds/",
-          "published": "2026-10-20T22:25:30+00:00",
+          "title": "Indonesians allege social media posts on wildfires and haze are being censored",
+          "link": "https://news.mongabay.com/2026/10/indonesians-allege-social-media-posts-on-wildfires-and-haze-are-being-censored/",
+          "published": "2026-10-23T14:33:52+00:00",
           "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "A recent State of the World’s Birds report found nearly half of the migratory birds assessed are declining. The stark finding comes as world governmen",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20161411/Curlew_Sandpiper_Calidris_ferruginea_in_Breeding_plumage_by_Vedant_Kasambe_02-768x512.jpg",
+          "summary": "JAKARTA — On Oct. 15, as thick smog continued to choke millions of people, Indonesian health policy research and advocacy organization the Nalar Rawat",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23140606/AP26296399833675-indonesia-haze-768x512.jpg",
           "other_news": true
         }
       ],
@@ -925,9 +903,20 @@
           "other_news": true
         },
         {
+          "title": "Thousands without power and travel disruption as Storm Austen batters southern UK",
+          "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-23T16:39:46+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "On Saturday, Storm Boelo is forecast to bring more strong winds and heavy rain to Scotland and parts of northern England.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/357e0110-ceec-11f1-bdca-23c64447299f.jpg",
+          "other_news": true
+        },
+        {
           "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
           "link": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-23T09:47:42+00:00",
+          "published": "2026-10-23T16:13:11+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -1035,6 +1024,28 @@
           "other_news": true
         },
         {
+          "title": "Greener maternity care starts with changing hospitals, without putting pressure on pregnant women",
+          "link": "https://theconversation.com/greener-maternity-care-starts-with-changing-hospitals-without-putting-pressure-on-pregnant-women-293497",
+          "published": "2026-10-23T16:04:19+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Birth involves emissions from travel, pain relief and disposable products, but system-level changes can reduce them without restricting choice.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How El Niño could push up your mortgage and grocery bills",
+          "link": "https://theconversation.com/how-el-nino-could-push-up-your-mortgage-and-grocery-bills-294378",
+          "published": "2026-10-23T13:54:10+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "A Pacific climate event has far reaching effects.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Jackdaw decision could haunt the UK at future climate summits",
           "link": "https://theconversation.com/jackdaw-decision-could-haunt-the-uk-at-future-climate-summits-294981",
           "published": "2026-10-22T15:46:47+00:00",
@@ -1112,50 +1123,6 @@
           "other_news": true
         },
         {
-          "title": "Councils that restrict harmful advertising won’t lose out on profits",
-          "link": "https://theconversation.com/councils-that-restrict-harmful-advertising-wont-lose-out-on-profits-293389",
-          "published": "2026-10-14T11:40:16+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Some councils are restricting advertising for carbon-intensive forms of consumption in publicly controlled spaces to avoid undermining health or envir",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Air conditioners contribute to climate change – this 40-year-old treaty aims to limit the harm",
-          "link": "https://theconversation.com/air-conditioners-contribute-to-climate-change-this-40-year-old-treaty-aims-to-limit-the-harm-293262",
-          "published": "2026-10-13T10:33:43+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "A decade ago, the international treaty that shapes what’s inside our cooling systems was amended to favour gases that contribute less to global warmin",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "China and the EU could turn Morocco into a surprise global hub for electric vehicles",
-          "link": "https://theconversation.com/china-and-the-eu-could-turn-morocco-into-a-surprise-global-hub-for-electric-vehicles-292164",
-          "published": "2026-10-12T14:18:40+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "The north African country has attracted huge amounts of investment.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Will AI be good or bad for the climate? Here’s what the latest evidence on energy use suggests",
-          "link": "https://theconversation.com/will-ai-be-good-or-bad-for-the-climate-heres-what-the-latest-evidence-on-energy-use-suggests-293889",
-          "published": "2026-10-12T09:33:19+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "AI data centres are using vast amounts of energy, but that is expected to grow fast.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Federal spending on climate change before 2024 election boosted incumbents of both parties",
           "link": "https://theconversation.com/federal-spending-on-climate-change-before-2024-election-boosted-incumbents-of-both-parties-293791",
           "published": "2026-10-19T18:49:58+00:00",
@@ -1218,6 +1185,17 @@
           "type": "news",
           "language": "en",
           "summary": "If fossil fuel companies misled the public about the dangers of their products, should they be required to pay for damages from climate-related disast",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Chart: A record two-thirds of car sales in China are now electric vehicles",
+          "link": "https://www.carbonbrief.org/chart-a-record-two-thirds-of-car-sales-in-china-are-now-electric-vehicles",
+          "published": "2026-10-23T15:55:26+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "For the first time, new-energy vehicles (NEVs) made up 67% of new car sales in China in September, according to&#8230;\nThe post Chart: A record two-th",
           "image": null,
           "other_news": true
         },
@@ -1294,7 +1272,7 @@
           "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Just 77 heads of state or government are scheduled to address the COP31 climate summit in Antalya, a third down on the COP28 peak\nThe post Early speak",
+          "summary": "Just 77 heads of state or government are scheduled to address the COP31 climate summit in Antalya, a third less than the COP28 peak\nThe post Early spe",
           "image": null,
           "other_news": true
         },
@@ -1662,17 +1640,6 @@
           "other_news": true
         },
         {
-          "title": "3 activistes arrêtés pour avoir perturbé un convoi de déchets radioactifs en Allemagne",
-          "link": "https://reporterre.net/3-activistes-arretes-pour-avoir-perturbe-un-convoi-de-dechets-radioactifs-en-Allemagne",
-          "published": "2026-10-15T12:03:15+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Un convoi de déchets radioactifs a été perturbé dans la nuit du 13 au 14 octobre près de Dorsten, dans l'ouest de l'Allemagne. D",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260325__a4l69yg__v1__highres__germanynuclearenergypolitics_1_-8601f.jpg?1792065797",
-          "other_news": true
-        },
-        {
           "title": "UK’s climate ambition ‘in tatters’ as Jackdaw gasfield gets go ahead",
           "link": "https://oceanographicmagazine.com/news/uk-s-climate-ambition-in-tatters-as-jackdaw-gasfield-get-go-ahead/",
           "published": "2026-10-21T11:44:44+00:00",
@@ -1681,6 +1648,17 @@
           "language": "en",
           "summary": "While the move had been widely anticipated, it has been met with dismay from campaigners who liken the decision to ‘climate vandalism’ and an apparent",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Sur un continent en manque de carburants, le milliardaire nigérian Aliko Dangote veut créer un réseau panafricain d’oléoducs",
+          "link": "https://www.lemonde.fr/afrique/article/2026/10/23/sur-un-continent-en-manque-de-carburants-le-milliardaire-nigerian-aliko-dangote-veut-creer-un-reseau-panafricain-d-oleoducs_6799123_3212.html",
+          "published": "2026-10-23T18:45:08+02:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’homme le plus riche d’Afrique a racheté 25 % de la société d’oléoducs du Kenya, où il doit construire une réplique de sa raffinerie nigériane. Il po",
+          "image": "https://img.lemde.fr/2026/09/30/458/0/5500/2750/644/322/60/0/d6dd230_ftp-1-mgk0wt07xhzx-2026-09-30t132130z-1488167040-rc2ptnaakk90-rtrmadp-3-kenya-dangote-refinery.JPG",
           "other_news": true
         },
         {
@@ -1747,6 +1725,17 @@
           "language": "en",
           "summary": "Less frequent mowing and pesticide use can create environments that are more welcoming for pollinators like bees and butterflies.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "COP17: Open letter urges governments to keep extractives out of protected areas",
+          "link": "https://news.mongabay.com/short-article/2026/10/cop17-open-letter-urges-governments-to-keep-extractives-out-of-protected-areas/",
+          "published": "2026-10-23T16:24:06+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "YEREVAN, Armenia — More than 80 conservation, Indigenous and civil society organizations have called on governments meeting at the COP17 U.N. biodiver",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23161919/658939825_10164173699294660_4388151972032530666_n-768x512.jpg",
           "other_news": true
         },
         {

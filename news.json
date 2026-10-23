@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:07:49.392044+00:00",
+  "generated_at": "2026-10-23T17:53:37.770220+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -738,6 +738,17 @@
           "other_news": false
         },
         {
+          "title": "«Une immense victoire pour la pêche artisanale» : le gouvernement va interdire les chalutiers géants de la bande côtière dans l’est de la Manche",
+          "link": "https://vert.eco/biodiversite/une-immense-victoire-pour-la-peche-artisanale-le-gouvernement-va-interdire-les-chalutiers-geants-de-la-bande-cotiere-dans-lest-de-la-manche/",
+          "published": "2026-10-22T16:18:28+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Sous la pression du monde de la pêche et des associations écologistes, le ministère de la mer a annoncé ce jeudi lancer une consultation auprès des Ét",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Cuts to Integrated Ocean Observing System Puts Ocean at Risk",
           "link": "https://oceanconservancy.org/blog/2026/10/05/integrated-ocean-observing-system/",
           "published": "2026-10-05T21:24:39+00:00",
@@ -844,6 +855,17 @@
           "other_news": true
         },
         {
+          "title": "«Un signal d’alarme» : 96% des écosystèmes des récifs coralliens sont en «danger d’extinction»",
+          "link": "https://vert.eco/biodiversite/un-signal-dalarme-96-des-ecosystemes-des-recifs-coralliens-sont-en-danger-dextinction/",
+          "published": "2026-10-23T09:10:25+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Une grande majorité de ces écosystèmes pourraient disparaitre d’ici 2075, selon l’Union internationale pour la conservation de la nature. En cause, le",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Nature has a new Noah’s Ark moment at the biodiversity summit (commentary)",
           "link": "https://news.mongabay.com/2026/10/nature-has-a-new-noahs-ark-moment-at-the-biodiversity-summit-commentary/",
           "published": "2026-10-21T19:21:07+00:00",
@@ -852,17 +874,6 @@
           "language": "en",
           "summary": "Delegates from most of the world’s governments are assembling this week in Yerevan, Armenia for the latest summit of the Convention on Biological Dive",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/21175138/ani-adigyozalyan-_vg33BH0KPM-unsplash-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Delegates at biodiversity COP17 should follow the lead of Global South women (commentary)",
-          "link": "https://news.mongabay.com/2026/10/delegates-at-biodiversity-cop17-should-follow-the-lead-of-global-south-women-commentary/",
-          "published": "2026-10-21T00:40:07+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "As global leaders convene in Armenia this week for the U.N. Convention on Biological Diversity (CBD) conference of the parties (COP17), it is difficul",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/09/24184300/Captura-de-pantalla-2025-06-26-a-las-1.57.38-p.m-768x512.png",
           "other_news": true
         }
       ],
@@ -1653,7 +1664,7 @@
         {
           "title": "Sur un continent en manque de carburants, le milliardaire nigérian Aliko Dangote veut créer un réseau panafricain d’oléoducs",
           "link": "https://www.lemonde.fr/afrique/article/2026/10/23/sur-un-continent-en-manque-de-carburants-le-milliardaire-nigerian-aliko-dangote-veut-creer-un-reseau-panafricain-d-oleoducs_6799123_3212.html",
-          "published": "2026-10-23T18:45:08+02:00",
+          "published": "2026-10-23T18:45:06+02:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1725,6 +1736,17 @@
           "language": "en",
           "summary": "Less frequent mowing and pesticide use can create environments that are more welcoming for pollinators like bees and butterflies.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "What if Flávio Bolsonaro wins? High stakes for the environment in Brazil’s 2026 elections (commentary)",
+          "link": "https://news.mongabay.com/2026/10/what-if-flavio-bolsonaro-wins-high-stakes-for-the-environment-in-brazils-2026-elections-commentary/",
+          "published": "2026-10-23T17:42:10+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Fear and disbelief prevail among those in Brazil who are concerned about the environment. A climate denier and voluble supporter of dismantling Brazil",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23173041/deforestation-in-the-brazilian-amazon-administration-768x512.jpg",
           "other_news": true
         },
         {

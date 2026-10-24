@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T12:02:38.940536+00:00",
+  "generated_at": "2026-10-24T15:56:30.161841+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -199,17 +199,6 @@
           "language": "en",
           "summary": "As delegates assemble in Armenia for UN biodiversity talks at CBD COP17, a new report argues for a network of High Seas MPAs to create migratory safe",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Changement climatique : 96 % des récifs coralliens classés « en danger critique d’extinction » d’ici à cinquante ans",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/22/changement-climatique-96-des-recifs-coralliens-classes-en-danger-critique-d-extinction-d-ici-cinquante-ans_6798628_3244.html",
-          "published": "2026-10-22T16:06:07+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Parmi les plus menacés figurent la Grande Barrière de corail en Australie, le Triangle de corail dans l’océan Pacifique occidental et en Asie du Sud-E",
-          "image": "https://img.lemde.fr/2026/10/22/288/0/3451/1725/644/322/60/0/9b11b00_ftp-1-7vm7g7dvjng4-0f561cb5cd854bfb9065df70384b64c4-1-0a4a0ce2e0a645b3ad40ac94b91b2514.jpg",
           "other_news": false
         },
         {
@@ -831,17 +820,6 @@
           "summary": "Une grande majorité de ces écosystèmes pourraient disparaitre d’ici 2075, selon l’Union internationale pour la conservation de la nature. En cause, le",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "Nature has a new Noah’s Ark moment at the biodiversity summit (commentary)",
-          "link": "https://news.mongabay.com/2026/10/nature-has-a-new-noahs-ark-moment-at-the-biodiversity-summit-commentary/",
-          "published": "2026-10-21T19:21:07+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Delegates from most of the world’s governments are assembling this week in Yerevan, Armenia for the latest summit of the Convention on Biological Dive",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/21175138/ani-adigyozalyan-_vg33BH0KPM-unsplash-1-768x512.jpg",
-          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -883,12 +861,23 @@
         {
           "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
           "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-24T09:41:10+00:00",
+          "published": "2026-10-24T15:08:19+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
           "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b118/live/2f6de9e0-cf03-11f1-b95c-310d5f3c558a.jpg",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6ae/live/683db880-cfbd-11f1-9012-0172b9f73a72.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Amber weather warning as Storm Boelo hits Scotland",
+          "link": "https://www.bbc.co.uk/news/videos/cmqlnkq6p6y7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-24T14:40:18+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d6/live/f305a660-cfb5-11f1-93e1-3b657b665bcf.jpg",
           "other_news": true
         },
         {
@@ -933,17 +922,6 @@
           "language": "en",
           "summary": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/b0f3ac60-cec3-11f1-a701-fddedf244c16.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Lights will stay on this winter, grid operator says after concerns",
-          "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-23T06:47:10+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
           "other_news": true
         },
         {

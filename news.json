@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T05:01:39.177278+00:00",
+  "generated_at": "2026-10-24T11:02:39.701911+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -166,17 +166,6 @@
           "language": "en",
           "summary": "Exclusive: Images show deep cuts and damage to tails and fins, as experts warn the migrating species often aren’t able to avoid a collision Gruesome i",
           "image": "https://i.guim.co.uk/img/media/de1c62e71454393aa2f4b132d298c3312ff69b9d/106_0_2554_2044/master/2554.jpg?width=140&quality=85&auto=format&fit=max&s=81497212f452a8c73b680056ff502de9",
-          "other_news": false
-        },
-        {
-          "title": "Mass sardine die-off pits survival of South Africa’s penguins against fishers’ livelihoods",
-          "link": "https://www.theguardian.com/environment/2026/sep/24/mass-sardine-die-off-pits-survival-of-south-africas-penguins-against-fishers-livelihoods",
-          "published": "2026-09-24T08:00:11+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Known as the ‘energy bars of the sea’ the fish are a key food source for many species, but closing fisheries to allow numbers to recover would cost mi",
-          "image": "https://i.guim.co.uk/img/media/b0442cb7456e30fa09806e40a26e1b95f4ea8450/311_0_3849_3079/master/3849.jpg?width=140&quality=85&auto=format&fit=max&s=75cc3e26b03bf349d7b51dd83a01cece",
           "other_news": false
         },
         {
@@ -747,17 +736,6 @@
           "summary": "Our ocean is an incredibly vast and mysterious place. And there is no place where that is more evident than the deepest ocean area in the world: the l",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "Seabird guano and native trees keep islands above rising seas: Study",
-          "link": "https://news.mongabay.com/2026/10/seabird-guano-and-native-trees-keep-islands-above-rising-seas-study/",
-          "published": "2026-10-21T16:48:25+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Low-lying tropical atoll islands appear remarkably vulnerable to climate change. But when shrouded with native forests and with abundant seabird popul",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/21114336/3-red-footed-booby_Jon-1-768x512.jpg",
-          "other_news": false
         }
       ]
     },
@@ -797,6 +775,17 @@
           "language": "en",
           "summary": "In 2022, I helped push through the international agreement to protect biodiversity. I know there is always a reason to stall, but ministers at Cop17 m",
           "image": "https://i.guim.co.uk/img/media/106b96be9a0dbcdf3cb19c187ca4e2b68dbc2ed7/0_0_1616_1293/master/1616.jpg?width=140&quality=85&auto=format&fit=max&s=673169024f5606b33d32d33eacededb9",
+          "other_news": true
+        },
+        {
+          "title": "Project to restore rare native trees with DNA testing",
+          "link": "https://www.bbc.co.uk/news/articles/cw240ln41mq2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-24T06:17:32+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Conservation groups say black poplars are endangered due to felling, land drainage and habitat loss.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1970/live/5a7fc940-cee6-11f1-bdca-23c64447299f.jpg",
           "other_news": true
         },
         {
@@ -892,14 +881,14 @@
           "other_news": true
         },
         {
-          "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
-          "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-24T02:25:54+00:00",
+          "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
+          "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-24T09:41:10+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2244/live/499dda70-cecf-11f1-8507-45cb00a1c41c.jpg",
+          "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b118/live/2f6de9e0-cf03-11f1-b95c-310d5f3c558a.jpg",
           "other_news": true
         },
         {
@@ -911,17 +900,6 @@
           "language": "en",
           "summary": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/357e0110-ceec-11f1-bdca-23c64447299f.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Trains cancelled and roads warnings as Scotland prepares for Storm Boelo",
-          "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-23T19:31:02+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b118/live/2f6de9e0-cf03-11f1-b95c-310d5f3c558a.jpg",
           "other_news": true
         },
         {
@@ -1670,17 +1648,6 @@
           "language": "fr",
           "summary": "Selon une étude menée par deux institutions britanniques et portant sur 854 agglomérations, les canicules de l’été ont causé davantage de morts que ce",
           "image": "https://img.lemde.fr/2026/07/17/218/0/5432/2716/644/322/60/0/bcdf974_upload-1-kaobjqiugfxa-chaudauchu-58.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Le virus Shamonda détecté pour la première fois chez un humain, un patient immunodéprimé mort en France",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/22/le-virus-shamonda-detecte-pour-la-premiere-fois-chez-un-humain-un-patient-immunodeprime-mort-en-france_6798613_3244.html",
-          "published": "2026-10-22T13:20:39+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "L’infection par le virus Shamonda ne rentrant pas dans le cadre de la législation européenne, elle n’est soumise à aucune mesure officielle de surveil",
-          "image": "https://img.lemde.fr/2026/05/26/250/0/3000/1500/644/322/60/0/b94d607_upload-1-zgrh51cxh7lc-frame-650.jpg",
           "other_news": true
         },
         {

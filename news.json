@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:53:37.770220+00:00",
+  "generated_at": "2026-10-24T05:01:39.177278+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -82,6 +82,17 @@
           "language": "en",
           "summary": "This fall, Ocean Conservancy is celebrating its 41st annual International Coastal Cleanup® (ICC), once again bringing together volunteers to protect t",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Bangladesh’s climate migrants are arriving in cities unprepared to protect them",
+          "link": "https://news.mongabay.com/2026/10/bangladeshs-climate-migrants-are-arriving-in-cities-unprepared-to-protect-them/",
+          "published": "2026-10-23T19:36:02+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In 2024, disasters displaced 2.4 million people within Bangladesh even as the International Monetary Fund predicts that rising seas could eliminate mo",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23153115/AP22228819567904-dhaka-climate-768x512.jpg",
           "other_news": false
         },
         {
@@ -254,17 +265,6 @@
           "language": "en",
           "summary": "Nearly every shallow-water coral reef ecosystem on Earth is at high risk of ecological collapse by 2075, according to the first coral reef assessment",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23163621/Sea_fans_coral_reef_Pagan_2022-768x512.png",
-          "other_news": false
-        },
-        {
-          "title": "Six beluga deaths cast a shadow over rescue from Canada’s Marineland",
-          "link": "https://news.mongabay.com/2026/10/six-beluga-deaths-cast-a-shadow-over-rescue-from-canadas-marineland/",
-          "published": "2026-10-21T10:04:44+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Six members of a pod of 30 belugas, a fifth of the whales that were transferred from a marine park in Canada to facilities in the U.S. and Spain as pa",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/20160121/Credit-Shedd-Aquarium-Brenna-Hernandez-177-768x512.jpg",
           "other_news": false
         }
       ],
@@ -449,17 +449,6 @@
           "language": "en",
           "summary": "The ocean phenomenon could raise sea levels by up to a foot as El Niño keeps warm water trapped along the coastConcerns are mounting about an ocean ph",
           "image": "https://i.guim.co.uk/img/media/9e5107f1d6a166f37f2f8a6a9f3796bed818b2b4/671_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=d6e24b94cd444b0d91f9f434736a578b",
-          "other_news": false
-        },
-        {
-          "title": "Why the strengthening El Niño means fewer Atlantic hurricanes",
-          "link": "https://www.theguardian.com/news/2026/sep/24/weatherwatch-el-nino-atlantic-hurricanes",
-          "published": "2026-09-24T05:00:09+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The weather pattern is associated with extreme, stormy weather, but authorities predict a quiet year in one ocean at least‘Supersizing before our eyes",
-          "image": "https://i.guim.co.uk/img/media/0c1b68edb76ca5aa7e473084894b0828bbddce5a/414_0_5794_4636/master/5794.jpg?width=140&quality=85&auto=format&fit=max&s=48f73c9faa1c9b0369a8fcd9237c7072",
           "other_news": false
         },
         {
@@ -727,17 +716,6 @@
           "other_news": false
         },
         {
-          "title": "En Guyane, le préfet active le plan Orsec « sécheresse » pour ravitailler les communes isolées face aux effets d’El Niño",
-          "link": "https://www.lemonde.fr/outre-mer/article/2026/10/22/en-guyane-le-prefet-active-le-plan-orsec-secheresse-pour-ravitailler-les-communes-isolees-face-aux-effets-d-el-nino_6798413_1840826.html",
-          "published": "2026-10-22T03:00:20+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le déficit pluviométrique dans cette collectivité d’outre-mer a entraîné une forte baisse du niveau des cours d’eau et l’interruption progressive du t",
-          "image": "https://img.lemde.fr/2024/11/15/347/0/3504/1752/644/322/60/0/d128c2d_1731655892531-000-par1199688.jpg",
-          "other_news": false
-        },
-        {
           "title": "«Une immense victoire pour la pêche artisanale» : le gouvernement va interdire les chalutiers géants de la bande côtière dans l’est de la Manche",
           "link": "https://vert.eco/biodiversite/une-immense-victoire-pour-la-peche-artisanale-le-gouvernement-va-interdire-les-chalutiers-geants-de-la-bande-cotiere-dans-lest-de-la-manche/",
           "published": "2026-10-22T16:18:28+00:00",
@@ -914,18 +892,40 @@
           "other_news": true
         },
         {
-          "title": "Thousands without power and travel disruption as Storm Austen batters southern UK",
-          "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-23T16:39:46+00:00",
+          "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
+          "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-24T02:25:54+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "On Saturday, Storm Boelo is forecast to bring more strong winds and heavy rain to Scotland and parts of northern England.",
+          "summary": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2244/live/499dda70-cecf-11f1-8507-45cb00a1c41c.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
+          "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-23T21:10:47+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/357e0110-ceec-11f1-bdca-23c64447299f.jpg",
           "other_news": true
         },
         {
-          "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
+          "title": "Trains cancelled and roads warnings as Scotland prepares for Storm Boelo",
+          "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-23T19:31:02+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b118/live/2f6de9e0-cf03-11f1-b95c-310d5f3c558a.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo warning upgraded to amber",
           "link": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-23T16:13:11+00:00",
           "source": "BBC Ocean & Marine",
@@ -1640,17 +1640,6 @@
           "other_news": true
         },
         {
-          "title": "Plan pour la nature : la France voit grand mais ne propose rien",
-          "link": "https://reporterre.net/Le-plan-pour-la-nature-de-la-France-n-a-aucune-ambition-malgre-l-insistance-de-l-Europe",
-          "published": "2026-10-15T13:45:22+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "La Commission européenne demande à ses États membres de restaurer l'ensemble des écosystèmes dégradés d'ici 2050. Réponse de la",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/24802805906_fdb35af39b_h-beb56.jpg?1792071924",
-          "other_news": true
-        },
-        {
           "title": "UK’s climate ambition ‘in tatters’ as Jackdaw gasfield gets go ahead",
           "link": "https://oceanographicmagazine.com/news/uk-s-climate-ambition-in-tatters-as-jackdaw-gasfield-get-go-ahead/",
           "published": "2026-10-21T11:44:44+00:00",
@@ -1695,17 +1684,6 @@
           "other_news": true
         },
         {
-          "title": "L’Omnibus X, cheval de Troie des « pesticides génétiques » en Europe",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/22/l-omnibus-x-cheval-de-troie-des-pesticides-genetiques-en-europe_6798555_3244.html",
-          "published": "2026-10-22T05:45:05+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La Commission européenne, qui souhaite assouplir la réglementation sur les produits phytosanitaires, prévoit de classer comme « produits de biocontrôl",
-          "image": "https://img.lemde.fr/2026/10/20/473/0/5678/2839/644/322/60/0/9ff93cc_ftp-1-iagxyb0apwbd-afp-d3td7nn.jpg",
-          "other_news": true
-        },
-        {
           "title": "Why Snowy Hydro’s $25 billion cost blowout is a warning sign for other megaprojects",
           "link": "https://theconversation.com/why-snowy-hydros-25-billion-cost-blowout-is-a-warning-sign-for-other-megaprojects-295057",
           "published": "2026-10-23T04:47:16+00:00",
@@ -1736,6 +1714,50 @@
           "language": "en",
           "summary": "Less frequent mowing and pesticide use can create environments that are more welcoming for pollinators like bees and butterflies.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "World Kangaroo Day: How climate change impacts Australia’s macropods",
+          "link": "https://news.mongabay.com/2026/10/world-kangaroo-day-how-climate-change-impacts-australias-macropods/",
+          "published": "2026-10-24T01:00:01+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "CANBERRA — World Kangaroo Day, on Oct. 24, celebrates one of Australia’s national symbols and the macropod’s special place in the country’s environmen",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/22124702/14582525532_c6239de35c_o-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Mozambique safari operator wins conservation award at COP17",
+          "link": "https://news.mongabay.com/short-article/2026/10/mozambique-safari-operator-wins-conservation-award-at-cop17/",
+          "published": "2026-10-23T21:39:24+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "YEREVAN, Armenia — A Mozambican safari operator credited with helping restore wildlife populations in Mozambique’s Zambezi Delta, has won the 2026 Mar",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23213221/488504017_17850218328436140_7523769475865190060_n-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Environmental officials fear new wave of harassment if Flavio Bolsonaro wins in Brazil",
+          "link": "https://news.mongabay.com/2026/10/environmental-officials-fear-new-wave-of-harassment-if-flavio-bolsonaro-wins-in-brazil/",
+          "published": "2026-10-23T19:06:43+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The memory of constant surveillance, transfers and locked computers haunts federal environmental servants.",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23184714/20240216_114941-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Critics call for halt to road construction in Mexico’s Sian Ka’an Biosphere Reserve",
+          "link": "https://news.mongabay.com/2026/10/critics-call-for-halt-to-road-construction-in-mexicos-sian-kaan-biosphere-reserve/",
+          "published": "2026-10-23T18:47:31+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "MEXICO CITY — In early October, Mexico’s environment ministry published a statement about minimizing infrastructure development inside the Sian Ka’an",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23172145/32498588713_1c22e72954_3k-768x512.jpg",
           "other_news": true
         },
         {
@@ -1813,17 +1835,6 @@
           "language": "en",
           "summary": "A new report by Earth Insight finds more than 61.5 million hectares (151.9 million acres) of protected and conserved areas — an area roughly 2.5 times",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/21144245/alain-bonnardeaux-CeaBZ2F49x4-unsplash-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Wildlife photography’s dirty little secret",
-          "link": "https://news.mongabay.com/short-article/2026/10/wildlife-photographys-dirty-little-secret/",
-          "published": "2026-10-21T09:55:25+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Have you ever seen a wildlife photograph so spectacular that you’ve wondered if it was even real? Enter “photography game farms&#8221;: captive facili",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/21095451/ConservationEntangled_Featured-338x512.png",
           "other_news": true
         }
       ]

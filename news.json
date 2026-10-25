@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T11:32:09.704218+00:00",
+  "generated_at": "2026-10-25T12:35:56.289778+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -237,17 +237,6 @@
       ],
       "Sustainable Fisheries": [
         {
-          "title": "Trump’s executive order on recreational fishing is a ‘giveaway of fish and ocean ecosystem’, advocates warn",
-          "link": "https://www.theguardian.com/us-news/2026/sep/25/recreational-fishing-trump-executive-order",
-          "published": "2026-09-25T12:00:50+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Federal agencies told to prioritize recreational fishing and to reconsider scientific standards as well as regulationsDonald Trump’s latest fishing or",
-          "image": "https://i.guim.co.uk/img/media/f8af944ce62f7aa2ef395db74a4348765e6746fb/330_0_3340_2672/master/3340.jpg?width=140&quality=85&auto=format&fit=max&s=2a2c9f94b1c2ae575cf57c36bdcbfbb9",
-          "other_news": false
-        },
-        {
           "title": "Kipper cream or fish in custard? A century of magazine recipes reveals how Britain’s seafood tastes have narrowed",
           "link": "https://theconversation.com/kipper-cream-or-fish-in-custard-a-century-of-magazine-recipes-reveals-how-britains-seafood-tastes-have-narrowed-293034",
           "published": "2026-10-19T15:43:01+00:00",
@@ -326,7 +315,7 @@
           "source": "The Guardian Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Every autumn, Corvo Island in thre Azores turns off its public lighting for a few key days to help fledgling Cory’s shearwaters as they attempt to fly",
+          "summary": "Every autumn, Corvo Island in the Azores turns off its public lighting for a few key days to help fledgling Cory’s shearwaters as they attempt to fly",
           "image": "https://i.guim.co.uk/img/media/63b9af7209a505695cd1ba9b5f0ff2ec06943393/168_0_1719_1376/master/1719.jpg?width=140&quality=85&auto=format&fit=max&s=a6a55d16ed120f699d9de0254749ba87",
           "other_news": false
         },
@@ -427,6 +416,17 @@
           "language": "en",
           "summary": "The ocean phenomenon could raise sea levels by up to a foot as El Niño keeps warm water trapped along the coastConcerns are mounting about an ocean ph",
           "image": "https://i.guim.co.uk/img/media/9e5107f1d6a166f37f2f8a6a9f3796bed818b2b4/671_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=d6e24b94cd444b0d91f9f434736a578b",
+          "other_news": false
+        },
+        {
+          "title": "'What was in the Clyde is basically now on the shore'",
+          "link": "https://www.bbc.co.uk/news/videos/cmg47e2znpzpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-25T11:42:17+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "BBC Scotland reports from the scene at Cardross as Storm Boelo batters the country.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ef/live/a2c0cfb0-d067-11f1-93e1-3b657b665bcf.jpg",
           "other_news": false
         },
         {
@@ -859,7 +859,7 @@
           "other_news": true
         },
         {
-          "title": "Overnight winds hit 85mph as Scotland is hit by Storm Beolo",
+          "title": "Overnight winds reach 85mph as Scotland is hit by Storm Boelo",
           "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-25T11:14:48+00:00",
           "source": "BBC Ocean & Marine",
@@ -867,17 +867,6 @@
           "language": "en",
           "summary": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6b7/live/8e2f3ad0-d05a-11f1-bbf5-99ed69f0d81f.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Wind gust of 84mph recorded as Storm Boelo brings disruption",
-          "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-25T10:54:23+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "More than 500 homes are without power and flooding and felled trees have been reported on roads.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a998/live/36317670-d048-11f1-852e-e52a0d42e3b5.jpg",
           "other_news": true
         },
         {
@@ -889,28 +878,6 @@
           "language": "en",
           "summary": "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d6/live/f305a660-cfb5-11f1-93e1-3b657b665bcf.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-          "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-23T21:10:47+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/357e0110-ceec-11f1-bdca-23c64447299f.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo warning upgraded to amber",
-          "link": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-23T16:13:11+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53d5/live/1df63570-cec5-11f1-b9e0-e5f0da03dc7f.jpg",
           "other_news": true
         },
         {

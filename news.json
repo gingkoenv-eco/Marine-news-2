@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:01:22.652739+00:00",
+  "generated_at": "2026-10-25T11:32:09.704218+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -12,6 +12,30 @@
           "language": "en",
           "summary": "Wildlife traffickers are increasingly targeting critically endangered maleo birds from coastal Indonesia for the international exotic pet trade, accor",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/22085840/Four-of-the-eight-maleos-768x512.jpg",
+          "other_news": false
+        }
+      ],
+      "Sustainable Fisheries": [
+        {
+          "title": "Subsidies draining the sea cost governments more than they spend",
+          "link": "https://oceanographicmagazine.com/news/subsidies-draining-the-sea-cost-governments-more-than-they-spend/",
+          "published": "2026-10-23T12:57:30+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new Conservation International report finds harmful subsidies, including those driving overfishing and reef damage, leave a hidden bill of up to $24",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Industrial fleets threaten millions of small-scale fishers, with Africa most at risk",
+          "link": "https://oceanographicmagazine.com/news/industrial-fleets-threaten-millions-of-small-scale-fishers-with-africa-most-at-risk/",
+          "published": "2026-10-21T12:58:00+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The first-of-its-kind study finds that reliance on small-scale fishing and weak governance, leave coastal communities more vulnerable to industry encr",
+          "image": null,
           "other_news": false
         }
       ],
@@ -145,6 +169,28 @@
           "other_news": false
         },
         {
+          "title": "Nearly all of the world’s coral reefs now Critically Endangered",
+          "link": "https://oceanographicmagazine.com/news/nearly-all-of-the-world-s-coral-reefs-now-critically-endangered/",
+          "published": "2026-10-23T11:23:30+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A first-ever IUCN Red List assessment finds 96 per cent of shallow-water coral reef ecosystems are Critically Endangered, with nearly all at extremely",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Protecting 30% of ocean will take until 2289 at current rate, Greenpeace warns",
+          "link": "https://oceanographicmagazine.com/news/protecting-30-of-ocean-will-take-until-2289-at-current-rate-greenpeace-warns/",
+          "published": "2026-10-22T14:39:23+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "As delegates assemble in Armenia for UN biodiversity talks at CBD COP17, a new report argues for a network of High Seas MPAs to create migratory safe",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Could You Really Be Swallowed by a Whale?",
           "link": "https://oceanconservancy.org/blog/2026/10/16/swallowed-by-a-whale/",
           "published": "2026-10-16T20:25:30+00:00",
@@ -213,6 +259,28 @@
           "other_news": false
         },
         {
+          "title": "Mexico ‘turns its back’ on remaining vaquita with new fishing rules",
+          "link": "https://oceanographicmagazine.com/news/mexico-turns-its-back-on-its-remaining-vaquita-with-new-fishing-rules/",
+          "published": "2026-10-22T15:08:39+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Mexico has cut the vaquita’s gillnet-free zone by 86 per cent, opening the Upper Gulf of California to the fishing gear that has pushed the porpoise t",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "How the “big five” fish took over the British dinner table",
+          "link": "https://oceanographicmagazine.com/news/how-the-big-five-fish-took-over-the-british-dinner-table/",
+          "published": "2026-10-19T09:38:00+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new study of recipes from the last 100 years shows how a varied seafood culture gave way to the \"big five\" that now make up about 80% of the fish ea",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Googly-eyed buoys and kites help keep seabirds out of fishing nets, study finds",
           "link": "https://news.mongabay.com/2026/10/googly-eyed-buoys-and-kites-help-keep-seabirds-out-of-fishing-nets-study-finds/",
           "published": "2026-10-23T04:55:20+00:00",
@@ -251,6 +319,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Lights out: the island that goes dark to save young seabirds – in pictures",
+          "link": "https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe",
+          "published": "2026-10-25T11:00:03+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Every autumn, Corvo Island in thre Azores turns off its public lighting for a few key days to help fledgling Cory’s shearwaters as they attempt to fly",
+          "image": "https://i.guim.co.uk/img/media/63b9af7209a505695cd1ba9b5f0ff2ec06943393/168_0_1719_1376/master/1719.jpg?width=140&quality=85&auto=format&fit=max&s=a6a55d16ed120f699d9de0254749ba87",
+          "other_news": false
+        },
         {
           "title": "Excessive wealth, extreme emissions – and ecocide: what I learned at Europe’s big superyacht show",
           "link": "https://www.theguardian.com/news/2026/oct/20/excessive-wealth-extreme-emissions-and-ecocide-what-i-learned-at-europes-big-superyacht-show",
@@ -351,14 +430,25 @@
           "other_news": false
         },
         {
-          "title": "Oil spill washes up on UAE beaches after tanker strike",
-          "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-23T15:30:47+00:00",
+          "title": "The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster",
+          "link": "https://www.bbc.co.uk/news/articles/c6dxwklr409eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-25T09:59:50+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6926/live/c5f26d10-cef3-11f1-93e1-3b657b665bcf.png",
+          "summary": "George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/978b/live/e520cd80-c8a4-11f1-929c-0b57deb4f9df.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Seabirds and sewage among UNESCO status challenges",
+          "link": "https://www.bbc.co.uk/news/articles/cwzrd1e364jlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-25T07:22:57+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A report marking 10 years of the Isle of Man as a UNESCO Biosphere highlights the scheme's progress.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aea/live/86a10c20-ce21-11f1-906e-e3128518d85d.png",
           "other_news": false
         },
         {
@@ -560,6 +650,39 @@
           "other_news": false
         },
         {
+          "title": "BP oil spill continues to decimate marine life off Gulf of Mexico 16 years on",
+          "link": "https://oceanographicmagazine.com/news/bp-oil-spill-continues-to-decimate-marine-life-off-gulf-of-mexico-16-years-on/",
+          "published": "2026-10-20T12:26:21+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Toxins from the 134-million-gallon spill were absorbed into marine animals’ eggs – and are still weakening deep-sea offspring today\nThe post BP oil sp",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "US to sell off seabed as scientists check damage from mining tests",
+          "link": "https://oceanographicmagazine.com/news/us-to-sell-off-seabed-as-scientists-check-damage-from-mining-tests/",
+          "published": "2026-10-20T12:23:36+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The US will hold its first deep-sea mining lease sale in November, offering 31 million acres off American Samoa, as scientists revisit a Pacific minin",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Solent seabirds enjoy record breeding year after bird flu recovery",
+          "link": "https://oceanographicmagazine.com/news/solent-seabirds-enjoy-record-breeding-year-after-bird-flu-recovery/",
+          "published": "2026-10-19T11:12:06+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Seabirds in the Solent have had a record breeding year, with Sandwich Terns rebounding at Pagham Harbour from zero pairs in 2023 to at least 756 after",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "La crise dans le Golfe accroît la dépendance au charbon des pays d’Afrique australe",
           "link": "https://www.lemonde.fr/afrique/article/2026/10/23/la-crise-dans-le-golfe-accroit-la-dependance-au-charbon-des-pays-d-afrique-australe_6799095_3212.html",
           "published": "2026-10-23T17:00:13+02:00",
@@ -578,6 +701,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Sous la pression du monde de la pêche et des associations écologistes, le ministère de la mer a annoncé ce jeudi lancer une consultation auprès des Ét",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Whose vision of development counts? South Africa’s Amadiba communities made maps of what matters",
+          "link": "https://theconversation.com/whose-vision-of-development-counts-south-africas-amadiba-communities-made-maps-of-what-matters-290034",
+          "published": "2026-10-25T06:09:49+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "In South Africa, a remote coastal community has used counter-maps to document wetlands and sacred sites, showing what mining and a toll road threaten",
           "image": null,
           "other_news": false
         },
@@ -725,14 +859,25 @@
           "other_news": true
         },
         {
-          "title": "Trains cancelled and road warnings as Storm Boelo sweeps into Scotland",
+          "title": "Overnight winds hit 85mph as Scotland is hit by Storm Beolo",
           "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-24T22:39:52+00:00",
+          "published": "2026-10-25T11:14:48+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6ae/live/683db880-cfbd-11f1-9012-0172b9f73a72.jpg",
+          "summary": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6b7/live/8e2f3ad0-d05a-11f1-bbf5-99ed69f0d81f.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Wind gust of 84mph recorded as Storm Boelo brings disruption",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-25T10:54:23+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "More than 500 homes are without power and flooding and felled trees have been reported on roads.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a998/live/36317670-d048-11f1-852e-e52a0d42e3b5.jpg",
           "other_news": true
         },
         {
@@ -769,14 +914,14 @@
           "other_news": true
         },
         {
-          "title": "Denmark nurdles may be from Tyne spill, agency says",
-          "link": "https://www.bbc.co.uk/news/articles/cqy43xv1jwv2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-23T11:56:14+00:00",
-          "source": "BBC Ocean & Marine",
+          "title": "Le prix des maisons reflète-t-il leurs émissions de gaz à effet de serre ? Ce que montre le nouveau calcul du DPE",
+          "link": "https://theconversation.com/le-prix-des-maisons-reflete-t-il-leurs-emissions-de-gaz-a-effet-de-serre-ce-que-montre-le-nouveau-calcul-du-dpe-292912",
+          "published": "2026-10-25T07:04:53+00:00",
+          "source": "The Conversation FR",
           "type": "news",
-          "language": "en",
-          "summary": "The Danish Environment Protection Agency says nurdles it has tested are similar to the Tyne pellets.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fe0/live/3455ece0-cecd-11f1-8507-45cb00a1c41c.jpg",
+          "language": "fr",
+          "summary": "Depuis 2021, la plus mauvaise performance entre consommation d’énergie primaire et émissions de gaz à effet de serre définit la classe de DPE d’un log",
+          "image": null,
           "other_news": true
         },
         {
@@ -1426,6 +1571,17 @@
           "language": "fr",
           "summary": "Le changement climatique touche le monde entier, et n'épargne pas les plus beaux sites français. Le Réseau Action Climat (RAC),",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/lascaux_iv_-_44_1_-ece4e.jpg?1792132511",
+          "other_news": true
+        },
+        {
+          "title": "UK’s climate ambition ‘in tatters’ as Jackdaw gasfield gets go ahead",
+          "link": "https://oceanographicmagazine.com/news/uk-s-climate-ambition-in-tatters-as-jackdaw-gasfield-get-go-ahead/",
+          "published": "2026-10-21T11:44:44+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "While the move had been widely anticipated, it has been met with dismay from campaigners who liken the decision to ‘climate vandalism’ and an apparent",
+          "image": null,
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T13:04:56.286408+00:00",
+  "generated_at": "2026-10-26T14:20:44.201712+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -111,6 +111,17 @@
         }
       ],
       "Marine Biodiversity & Conservation": [
+        {
+          "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
+          "published": "2026-10-26T14:00:45+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Exclusive: EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whalesSign up for climate and environment editor Adam Morton’s fre",
+          "image": "https://i.guim.co.uk/img/media/37e026264024c8b969ae4fa3d8d8601720087a90/625_0_6628_5304/master/6628.jpg?width=140&quality=85&auto=format&fit=max&s=6bb71c939b4be55c1dde8f059a0c009b",
+          "other_news": false
+        },
         {
           "title": "Almost every shallow-water coral reef on the planet faces ecosystem collapse by 2075, UN advisors say",
           "link": "https://www.theguardian.com/australia-news/2026/oct/22/shallow-water-coral-reef-ecosystem-collapse-by-2075-un-advisors-say",
@@ -1668,6 +1679,17 @@
           "language": "fr",
           "summary": "L’homme le plus riche d’Afrique a racheté 25 % de la société d’oléoducs du Kenya, où il doit construire une réplique de sa raffinerie nigériane. Il po",
           "image": "https://img.lemde.fr/2026/09/30/458/0/5500/2750/644/322/60/0/d6dd230_ftp-1-mgk0wt07xhzx-2026-09-30t132130z-1488167040-rc2ptnaakk90-rtrmadp-3-kenya-dangote-refinery.JPG",
+          "other_news": true
+        },
+        {
+          "title": "Can planting trees on riverbanks save salmon rivers from global warming?",
+          "link": "https://theconversation.com/can-planting-trees-on-riverbanks-save-salmon-rivers-from-global-warming-293780",
+          "published": "2026-10-26T12:41:04+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As rivers warm, reforesting their banks could help Atlantic salmon. A new method makes it possible to identify priority areas.",
+          "image": null,
           "other_news": true
         },
         {

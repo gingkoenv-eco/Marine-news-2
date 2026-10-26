@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T14:20:44.201712+00:00",
+  "generated_at": "2026-10-26T18:41:13.663322+00:00",
   "categories": {
     "Politics & Policy": {
       "Sustainable Fisheries": [
@@ -87,6 +87,17 @@
     "Research & Science": {},
     "General News": {
       "Plastic & Ocean Pollution": [
+        {
+          "title": "Les gestes individuels peuvent-ils quelque chose pour lutter contre la pollution plastique ?",
+          "link": "https://theconversation.com/les-gestes-individuels-peuvent-ils-quelque-chose-pour-lutter-contre-la-pollution-plastique-292314",
+          "published": "2026-10-26T15:06:37+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Des expériences réalisées dans divers endroits du monde montrent que les incitations financières individuelles semblent ne pas avoir grand effet sur l",
+          "image": null,
+          "other_news": false
+        },
         {
           "title": "How Orlando Communities are Tackling Plastic Pollution",
           "link": "https://oceanconservancy.org/blog/2026/10/22/zero-waste-orlando/",
@@ -200,6 +211,17 @@
           "other_news": false
         },
         {
+          "title": "Calling species ‘invasive’ – and culling them – isn’t done lightly. But it matters to Australia’s threatened species",
+          "link": "https://theconversation.com/calling-species-invasive-and-culling-them-isnt-done-lightly-but-it-matters-to-australias-threatened-species-294672",
+          "published": "2026-10-26T17:23:00+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Invasive species only want to live. But their success can come at great cost to native species. If we treat them the same, native animals lose.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Could You Really Be Swallowed by a Whale?",
           "link": "https://oceanconservancy.org/blog/2026/10/16/swallowed-by-a-whale/",
           "published": "2026-10-16T20:25:30+00:00",
@@ -268,17 +290,6 @@
           "other_news": false
         },
         {
-          "title": "How the “big five” fish took over the British dinner table",
-          "link": "https://oceanographicmagazine.com/news/how-the-big-five-fish-took-over-the-british-dinner-table/",
-          "published": "2026-10-19T09:38:00+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new study of recipes from the last 100 years shows how a varied seafood culture gave way to the \"big five\" that now make up about 80% of the fish ea",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Googly-eyed buoys and kites help keep seabirds out of fishing nets, study finds",
           "link": "https://news.mongabay.com/2026/10/googly-eyed-buoys-and-kites-help-keep-seabirds-out-of-fishing-nets-study-finds/",
           "published": "2026-10-23T04:55:20+00:00",
@@ -312,6 +323,19 @@
           "type": "news",
           "language": "en",
           "summary": "An early clue came from storks found in Europe with African arrows in their bodies. Today, an atlas reveals hundreds of bird migration routes that are",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Chumash-led protections helps California expand ocean network",
+          "link": "https://oceanographicmagazine.com/news/chumash-led-protections-helps-california-expand-ocean-network/",
+          "published": "2026-10-26T15:00:40+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "California has created its first new marine protected areas in over a decade, adding around 15,000 acres, protecting kelp forests and giving Chumash t",
           "image": null,
           "other_news": false
         }
@@ -428,14 +452,25 @@
           "other_news": false
         },
         {
-          "title": "'What was in the Clyde is basically now on the shore'",
-          "link": "https://www.bbc.co.uk/news/videos/cmg47e2znpzpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-25T11:42:17+00:00",
+          "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+          "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-26T17:22:51+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "BBC Scotland reports from the scene at Cardross as Storm Boelo batters the country.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ef/live/a2c0cfb0-d067-11f1-93e1-3b657b665bcf.jpg",
+          "summary": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fe/live/d45701d0-d165-11f1-93e1-3b657b665bcf.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Part of Antarctica named after former BBC science correspondent",
+          "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-26T14:54:40+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85dc/live/45574340-ce23-11f1-9f18-490cec60aa0f.jpg",
           "other_news": false
         },
         {
@@ -516,17 +551,6 @@
           "other_news": false
         },
         {
-          "title": "What an ancient volcanic eruption teaches us about resilience today",
-          "link": "https://theconversation.com/what-an-ancient-volcanic-eruption-teaches-us-about-resilience-today-294258",
-          "published": "2026-10-14T18:15:56+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Even in dire circumstances, people and communities have choices about how best they can adjust, collaborate and forge new social structures.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "El Niño is threatening California’s fragile coast again – the 1982-83 El Niño opened eyes to the serious erosion risks",
           "link": "https://theconversation.com/el-nino-is-threatening-californias-fragile-coast-again-the-1982-83-el-nino-opened-eyes-to-the-serious-erosion-risks-293298",
           "published": "2026-10-21T12:47:33+00:00",
@@ -593,6 +617,17 @@
           "other_news": false
         },
         {
+          "title": "La mer des batailles : comment défendre le vivant qu'on ne voit pas",
+          "link": "https://reporterre.net/La-mer-des-batailles-comment-defendre-le-vivant-qu-on-ne-voit-pas",
+          "published": "2026-10-26T15:15:16+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Longtemps méconnu, l'océan est devenu un objet de convoitise industrielle. Des poissons aux minerais, ses ressources s'arrachent",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/collage_-_format_site_web_10_-2-a4c72.png?1793027717",
+          "other_news": false
+        },
+        {
           "title": "« Une victoire historique » : la France va interdire les navires-usines près des côtes",
           "link": "https://reporterre.net/Une-victoire-historique-la-France-va-interdire-les-navires-usines-pres-des-cotes",
           "published": "2026-10-23T12:34:24+00:00",
@@ -615,17 +650,6 @@
           "other_news": false
         },
         {
-          "title": "Arrachage des yeux des crevettes : les supermarchés sommés d'arrêter une pratique cruelle",
-          "link": "https://reporterre.net/Arrachage-des-yeux-des-crevettes-les-supermarches-sommes-d-arreter-une-pratique-cruelle",
-          "published": "2026-10-16T12:44:23+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Arrachage des yeux à vif (épédonculation) et mort par suffocation dans de l'eau glacée : ce sont les sévices que subissent une g",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/food-mediterranean-seafood-fish-invertebrate-shrimp-1138325-pxhere_com-99c2b.jpg?1792154665",
-          "other_news": false
-        },
-        {
           "title": "BP oil spill continues to decimate marine life off Gulf of Mexico 16 years on",
           "link": "https://oceanographicmagazine.com/news/bp-oil-spill-continues-to-decimate-marine-life-off-gulf-of-mexico-16-years-on/",
           "published": "2026-10-20T12:26:21+00:00",
@@ -644,17 +668,6 @@
           "type": "news",
           "language": "en",
           "summary": "The US will hold its first deep-sea mining lease sale in November, offering 31 million acres off American Samoa, as scientists revisit a Pacific minin",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Solent seabirds enjoy record breeding year after bird flu recovery",
-          "link": "https://oceanographicmagazine.com/news/solent-seabirds-enjoy-record-breeding-year-after-bird-flu-recovery/",
-          "published": "2026-10-19T11:12:06+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Seabirds in the Solent have had a record breeding year, with Sandwich Terns rebounding at Pagham Harbour from zero pairs in 2023 to at least 756 after",
           "image": null,
           "other_news": false
         },
@@ -681,7 +694,7 @@
           "other_news": false
         },
         {
-          "title": "En meeting à Orléans, Marine Le Pen jure ne pas vouloir «refaire la France d’avant»… mais promet d’abroger la loi qui interdit la recherche de pétrole",
+          "title": "En meeting à Orléans, Marine Le Pen ne veut pas «refaire la France d’avant»… mais rêve de rouvrir des puits de pétrole",
           "link": "https://vert.eco/chaleurs-actuelles/a-orleans-marine-le-pen-jure-ne-pas-vouloir-refaire-la-france-davant-tout-en-promettant-dabroger-la-loi-interdisant-la-recherche-de-petrole/",
           "published": "2026-10-26T11:11:40+00:00",
           "source": "Vert Eco Articles",
@@ -725,17 +738,6 @@
           "other_news": false
         },
         {
-          "title": "Whose vision of development counts? South Africa’s Amadiba communities made maps of what matters",
-          "link": "https://theconversation.com/whose-vision-of-development-counts-south-africas-amadiba-communities-made-maps-of-what-matters-290034",
-          "published": "2026-10-25T06:09:49+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "In South Africa, a remote coastal community has used counter-maps to document wetlands and sacred sites, showing what mining and a toll road threaten",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Cuts to Integrated Ocean Observing System Puts Ocean at Risk",
           "link": "https://oceanconservancy.org/blog/2026/10/05/integrated-ocean-observing-system/",
           "published": "2026-10-05T21:24:39+00:00",
@@ -771,17 +773,6 @@
           "language": "fr",
           "summary": "Des rejets d'eau souillée dans un environnement sensible aux pollutions. L'État reproche au groupe agroalimentaire Terrena et à",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/andres-siimon-koh8shapwmw-unsplash_1_-88f5c.jpg?1793012959",
-          "other_news": true
-        },
-        {
-          "title": "Another mining-linked pollution incident raises alarm over Zambia’s Kafue River",
-          "link": "https://news.mongabay.com/short-article/2026/10/another-mining-linked-pollution-incident-raises-alarm-over-zambias-kafue-river/",
-          "published": "2026-10-22T17:48:11+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Zambian government has ordered a copper miner to assess its infrastructure for weaknesses and clean up areas affected by pollution of the Kafue Ri",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/22174656/LastYear-768x512.jpeg",
           "other_news": true
         }
       ],
@@ -840,6 +831,28 @@
           "summary": "Une grande majorité de ces écosystèmes pourraient disparaitre d’ici 2075, selon l’Union internationale pour la conservation de la nature. En cause, le",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "Fungi now have a global conservation strategy",
+          "link": "https://news.mongabay.com/short-article/2026/10/fungi-now-have-a-global-conservation-strategy/",
+          "published": "2026-10-26T18:32:09+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "YEREVAN, Armenia — Like the dark spaces they often prefer, mushrooms, yeasts, and some 160,000 known species of fungi rest in the background of conser",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/26134949/SPUN-Indonesia-Bantimurung-Bulusaraung-National-Park-Garry-Lotulung-C-Garry-Lotulung-SPUN-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "At Yerevan’s COP17 biodiversity summit, a steep climb ahead for ‘30 by 30’ target",
+          "link": "https://news.mongabay.com/2026/10/at-yerevans-cop17-biodiversity-summit-a-steep-climb-ahead-for-30-by-30-target/",
+          "published": "2026-10-26T16:37:58+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "GAYE TOWN, Liberia – Deep in the Liberian bush, there’s a dispute about what to do with a big swath of rainforest. The conservation group Wild Chimpan",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/04/10135023/QE3-2-768x512.jpg",
+          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -876,17 +889,6 @@
           "language": "en",
           "summary": "The Norwegian government has given a permit to a mining company to release waste into Førde fjord despite a 17-year battle by campaigners and a suprem",
           "image": "https://i.guim.co.uk/img/media/dc0441d99e158bcc614888c623997f70242554f1/170_0_3752_3001/master/3752.jpg?width=140&quality=85&auto=format&fit=max&s=044fc190d1e94ef92fac096be88129c2",
-          "other_news": true
-        },
-        {
-          "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
-          "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-26T12:00:20+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3365/live/16d03480-d118-11f1-b441-2b33b063138f.jpg",
           "other_news": true
         },
         {
@@ -1011,17 +1013,6 @@
           "other_news": true
         },
         {
-          "title": "En agriculture, peut-on utiliser du cuivre sans nuire à la vie des sols ?",
-          "link": "https://theconversation.com/en-agriculture-peut-on-utiliser-du-cuivre-sans-nuire-a-la-vie-des-sols-287103",
-          "published": "2026-09-29T14:17:25+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Utilisé comme fongicide en agriculture, notamment biologique, le cuivre suscite des inquiétudes quant à sa toxicité sur l’environnement et la santé. Q",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Greener maternity care starts with changing hospitals, without putting pressure on pregnant women",
           "link": "https://theconversation.com/greener-maternity-care-starts-with-changing-hospitals-without-putting-pressure-on-pregnant-women-293497",
           "published": "2026-10-23T16:04:19+00:00",
@@ -1106,17 +1097,6 @@
           "type": "news",
           "language": "en",
           "summary": "What cicadas, shepherds and an ancient Greek monster reveal about our place in nature.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Five types of disinformation – and how to spot red flags that trigger climate inaction",
-          "link": "https://theconversation.com/five-types-of-disinformation-and-how-to-spot-red-flags-that-trigger-climate-inaction-278588",
-          "published": "2026-10-15T10:16:52+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Disinformation is false, fabricated or manipulated information that intends to deceive. Here’s how to counter it with scientific evidence.",
           "image": null,
           "other_news": true
         },
@@ -1271,6 +1251,17 @@
           "type": "news",
           "language": "en",
           "summary": "The UK has avoided the need for gas imports worth £5.9bn since the start of the Hormuz crisis as a&#8230;\nThe post Analysis: Wind and solar save UK fr",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "African governments strengthen waste rules as solar and battery use surges",
+          "link": "https://www.climatechangenews.com/2026/10/26/african-governments-strengthen-waste-rules-as-solar-and-battery-use-surges/",
+          "published": "2026-10-26T16:43:07+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "With solar panels, batteries and inverters spreading, officials want to bolster weak recycling systems to protect the environment and reuse key materi",
           "image": null,
           "other_news": true
         },
@@ -1627,14 +1618,14 @@
           "other_news": true
         },
         {
-          "title": "Des aides aux énergies renouvelables... redirigées vers le carburant",
-          "link": "https://reporterre.net/Des-aides-aux-energies-renouvelables-redirigees-vers-le-carburant",
-          "published": "2026-10-16T14:04:48+00:00",
-          "source": "Reporterre",
+          "title": "Lula secures fourth term in historic victory over far-right Flavio Bolsonaro",
+          "link": "https://oceanographicmagazine.com/news/lula-secures-fourth-term-in-historic-victory-over-far-right-flavio-bolsonaro/",
+          "published": "2026-10-26T16:48:29+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "language": "fr",
-          "summary": "Financer les aides aux carburants en ponctionnant dans les énergies renouvelables. Le gouvernement a pris un décret d'annulation",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/pexels-enrique72-10785841_1_-0963a.jpg?1792159559",
+          "language": "en",
+          "summary": "Indigenous leaders and climate campaigners breathe a sigh of relief following the defeat of Flávio Bolsonaro, a staunch ally of industry and an open c",
+          "image": null,
           "other_news": true
         },
         {
@@ -1682,6 +1673,17 @@
           "other_news": true
         },
         {
+          "title": "Are you dressed yet? How parents can build child-friendly routines that kids can follow",
+          "link": "https://theconversation.com/are-you-dressed-yet-how-parents-can-build-child-friendly-routines-that-kids-can-follow-292432",
+          "published": "2026-10-26T15:19:16+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Parents can begin with setting up environments that are likely to help children remember and act without delay.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Can planting trees on riverbanks save salmon rivers from global warming?",
           "link": "https://theconversation.com/can-planting-trees-on-riverbanks-save-salmon-rivers-from-global-warming-293780",
           "published": "2026-10-26T12:41:04+00:00",
@@ -1704,25 +1706,14 @@
           "other_news": true
         },
         {
-          "title": "Your say: week beginning October 26",
-          "link": "https://theconversation.com/your-say-week-beginning-october-26-295147",
-          "published": "2026-10-25T22:47:21+00:00",
-          "source": "The Conversation",
+          "title": "Solar initiative brings power to clinics and jobs to displaced youths in Cameroon",
+          "link": "https://news.mongabay.com/2026/10/solar-initiative-brings-power-to-clinics-and-jobs-to-displaced-youths-in-cameroon/",
+          "published": "2026-10-26T15:52:53+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "On the importance of ecosystems and the state of Australian politics: an edited selection of your views.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "While some eucalypts are hard to kill, climate change may test the ability of others to survive",
-          "link": "https://theconversation.com/while-some-eucalypts-are-hard-to-kill-climate-change-may-test-the-ability-of-others-to-survive-293533",
-          "published": "2026-10-25T18:32:44+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Our latest research examined eucalypt forests burnt by the 2019-20 bushfires.",
-          "image": null,
+          "summary": "In Cameroon’s Northwest and Southwest regions, where a civil war has dragged on for 10 years, abundant sunshine has become a source of hope and opport",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/26131319/Solar-Bright-Future-Img-20-1-1-768x512.jpg",
           "other_news": true
         },
         {
@@ -1833,17 +1824,6 @@
           "language": "en",
           "summary": "Snow leopards range across Asia’s rugged mountains, where they face mounting threats from climate change, declining wild prey, and retaliatory killing",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23062110/snow-leopard-WWF-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Water, carbon & the ‘tree of life’: Interview with Venezuela’s guardian of morichales",
-          "link": "https://news.mongabay.com/2026/10/water-carbon-the-tree-of-life-interview-with-venezuelas-guardian-of-morichales/",
-          "published": "2026-10-22T17:19:27+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "While global climate conversations tend to center on the Amazon and temperate forests, a vital, quiet freshwater oasis across the Venezuelan savannas",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/22113920/1-Sanchez-Mercado-B-768x512.jpg",
           "other_news": true
         }
       ]

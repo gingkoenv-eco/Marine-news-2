@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:04:32.751208+00:00",
+  "generated_at": "2026-10-26T06:02:27.825362+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -705,6 +705,17 @@
           "other_news": false
         },
         {
+          "title": "We tracked a ship in North Korea’s shadow fleet. This is how it stays in the dark",
+          "link": "https://theconversation.com/we-tracked-a-ship-in-north-koreas-shadow-fleet-this-is-how-it-stays-in-the-dark-288088",
+          "published": "2026-10-26T01:03:43+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "There’s a giant game of cat-and-mouse playing out on the world’s oceans. Sanctions enforcers are always a step behind.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Whose vision of development counts? South Africa’s Amadiba communities made maps of what matters",
           "link": "https://theconversation.com/whose-vision-of-development-counts-south-africas-amadiba-communities-made-maps-of-what-matters-290034",
           "published": "2026-10-25T06:09:49+00:00",
@@ -859,25 +870,36 @@
           "other_news": true
         },
         {
+          "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
+          "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-26T04:41:36+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "An amber wind warning has now expired after severe weather sweeps across the UK.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3454/live/c15b5b00-d0af-11f1-84bc-f3a33719a550.jpg",
+          "other_news": true
+        },
+        {
+          "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
+          "link": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-25T21:11:43+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ec/live/12a2d690-d0ac-11f1-b441-2b33b063138f.jpg",
+          "other_news": true
+        },
+        {
           "title": "Man killed by falling tree as Storm Boelo batters Scotland",
           "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-25T16:55:05+00:00",
+          "published": "2026-10-25T21:09:58+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
           "summary": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03c/live/6db874d0-d067-11f1-bbf5-99ed69f0d81f.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Amber weather warning as Storm Boelo hits Scotland",
-          "link": "https://www.bbc.co.uk/news/videos/cmqlnkq6p6y7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-24T14:40:18+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d6/live/f305a660-cfb5-11f1-93e1-3b657b665bcf.jpg",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a290/live/f2b0ec40-d09d-11f1-aeb2-977af36708cb.jpg",
           "other_news": true
         },
         {
@@ -1552,6 +1574,17 @@
           "other_news": true
         },
         {
+          "title": "« L’usine Chemours a apporté des emplois. Mais à quel prix ? » : les PFAS et leurs dégâts au cœur du récit « Facteur X » dont « Le Monde » dévoile les extraits",
+          "link": "https://www.lemonde.fr/idees/article/2026/10/25/l-usine-chemours-a-apporte-des-emplois-mais-a-quel-prix-les-pfas-et-leurs-degats-au-c-ur-du-recit-facteur-x-dont-le-monde-devoile-les-extraits_6800107_3232.html",
+          "published": "2026-10-25T18:30:06+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans un livre-enquête incarné par nombre de rencontres, à paraître le 29 octobre aux éditions Les Arènes, la militante pour le climat Camille Etienne",
+          "image": "https://img.lemde.fr/2026/10/22/160/0/1920/960/644/322/60/0/f0d56b5_upload-1-wszwvffbyhis-generated-1792657928087.jpg",
+          "other_news": true
+        },
+        {
           "title": "« Le désir de dissimuler la science “indésirable” en dit long sur la pente trumpiste que dévale la vie politique française »",
           "link": "https://www.lemonde.fr/idees/article/2026/10/25/le-desir-de-dissimuler-la-science-indesirable-en-dit-long-sur-la-pente-trumpiste-que-devale-la-vie-politique-francaise_6800036_3232.html",
           "published": "2026-10-25T05:30:28+01:00",
@@ -1574,14 +1607,36 @@
           "other_news": true
         },
         {
-          "title": "Avec plus de 50 000 décès liés à la chaleur dont les deux tiers attribués au changement climatique, l’été 2026 a été le plus meurtrier dans les villes d’Europe",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/23/avec-plus-de-50-000-deces-lies-a-la-chaleur-dont-les-deux-tiers-attribues-au-changement-climatique-l-ete-2026-a-ete-le-plus-meurtrier-dans-les-villes-d-europe_6798935_3244.html",
-          "published": "2026-10-23T05:00:19+02:00",
-          "source": "Le Monde Planète",
+          "title": "The power of poo: why conservationists love animal scat",
+          "link": "https://theconversation.com/the-power-of-poo-why-conservationists-love-animal-scat-290147",
+          "published": "2026-10-26T02:53:57+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Selon une étude menée par deux institutions britanniques et portant sur 854 agglomérations, les canicules de l’été ont causé davantage de morts que ce",
-          "image": "https://img.lemde.fr/2026/07/17/218/0/5432/2716/644/322/60/0/bcdf974_upload-1-kaobjqiugfxa-chaudauchu-58.jpg",
+          "language": "en",
+          "summary": "Scat may be a waste product, but it holds crucial clues about an animal’s diet, disease risk and genetic health.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Your say: week beginning October 26",
+          "link": "https://theconversation.com/your-say-week-beginning-october-26-295147",
+          "published": "2026-10-25T22:47:21+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "On the importance of ecosystems and the state of Australian politics: an edited selection of your views.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "While some eucalypts are hard to kill, climate change may test the ability of others to survive",
+          "link": "https://theconversation.com/while-some-eucalypts-are-hard-to-kill-climate-change-may-test-the-ability-of-others-to-survive-293533",
+          "published": "2026-10-25T18:32:44+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Our latest research examined eucalypt forests burnt by the 2019-20 bushfires.",
+          "image": null,
           "other_news": true
         },
         {
@@ -1592,17 +1647,6 @@
           "type": "news",
           "language": "en",
           "summary": "From the $93 billion High Speed Rail project to Melbourne’s Suburban Rail Loop, Australia needs a better approach on megaprojects – or history will ke",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Snowy 2.0 was never going to be cheap. But it will be much cheaper than relying on batteries for storage",
-          "link": "https://theconversation.com/snowy-2-0-was-never-going-to-be-cheap-but-it-will-be-much-cheaper-than-relying-on-batteries-for-storage-294949",
-          "published": "2026-10-23T02:39:57+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The original costings for Snowy 2.0 were wildly optimistic. But the troubled scheme is close to completion – and will help power the grid as coal exit",
           "image": null,
           "other_news": true
         },

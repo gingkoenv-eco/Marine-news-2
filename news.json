@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T12:13:16.591492+00:00",
+  "generated_at": "2026-10-27T13:17:42.009967+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -60,17 +60,6 @@
           "language": "en",
           "summary": "Chile’s ocean protection record and concerns over a rival Chinese bid keep it in play, despite questions over the Kast government’s environmental poli",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "La biodiversité a aussi sa COP, on vous explique pourquoi c'est important",
-          "link": "https://reporterre.net/COP17-biodiversite-les-enjeux-du-rendez-vous-en-Armenie-La-COP17-ne-sera-pas-celle-des",
-          "published": "2026-10-18T13:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Protéger les terres et les océans, restaurer les écosystèmes dégradés, sortir des pesticides... La COP17 biodiversité s'ouvre le",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20220418__328h6zw__v1__highres__serbiaenvironmentpollutionwasteanimal_1_-1a324.jpg?1792328402",
           "other_news": false
         },
         {
@@ -288,6 +277,19 @@
           "type": "news",
           "language": "en",
           "summary": "Mexico has cut the vaquita’s gillnet-free zone by 86 per cent, opening the Upper Gulf of California to the fishing gear that has pushed the porpoise t",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Nature-Based Solutions & Restoration": [
+        {
+          "title": "Six in ten kelp forest regions degraded, but recovery efforts persist",
+          "link": "https://oceanographicmagazine.com/news/six-in-ten-kelp-forest-regions-degraded-but-recovery-efforts-persist/",
+          "published": "2026-10-27T12:20:49+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A new Kelp Forest Alliance report finds 60 per cent of assessed kelp forest regions are degraded, but restoration, protection and Indigenous stewardsh",
           "image": null,
           "other_news": false
         }
@@ -553,17 +555,6 @@
           "other_news": false
         },
         {
-          "title": "Antarctica’s ice loss is locked in, and extra snowfall won’t save it – that’s bad news for low-lying coastal areas elsewhere",
-          "link": "https://theconversation.com/antarcticas-ice-loss-is-locked-in-and-extra-snowfall-wont-save-it-thats-bad-news-for-low-lying-coastal-areas-elsewhere-293066",
-          "published": "2026-09-30T12:47:28+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "The Antarctic ice sheet’s future depends how a chain of events plays out. A new study finds the evidence points in one direction.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Q&A: Why a pivotal IPCC meeting in Ethiopia ended in ‘profound disappointment’",
           "link": "https://www.carbonbrief.org/qa-why-a-pivotal-ipcc-meeting-in-ethiopia-ended-in-profound-disappointment",
           "published": "2026-10-20T14:40:10+00:00",
@@ -626,17 +617,6 @@
           "type": "news",
           "language": "en",
           "summary": "The SS United States, the fastest passenger ship ever built, is due to be sunk in the Gulf of Mexico in November, giving fish a new home and divers a",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "BP oil spill continues to decimate marine life off Gulf of Mexico 16 years on",
-          "link": "https://oceanographicmagazine.com/news/bp-oil-spill-continues-to-decimate-marine-life-off-gulf-of-mexico-16-years-on/",
-          "published": "2026-10-20T12:26:21+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Toxins from the 134-million-gallon spill were absorbed into marine animals’ eggs – and are still weakening deep-sea offspring today\nThe post BP oil sp",
           "image": null,
           "other_news": false
         },
@@ -874,7 +854,7 @@
         {
           "title": "Scotland's recycling rates fall to lowest level in five years",
           "link": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-27T11:33:23+00:00",
+          "published": "2026-10-27T12:22:49+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -1066,6 +1046,17 @@
           "type": "news",
           "language": "en",
           "summary": "What cicadas, shepherds and an ancient Greek monster reveal about our place in nature.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Where humans build, mosquitoes follow – bringing dengue, West Nile and other diseases with them",
+          "link": "https://theconversation.com/where-humans-build-mosquitoes-follow-bringing-dengue-west-nile-and-other-diseases-with-them-295000",
+          "published": "2026-10-27T12:17:31+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "Disease-carrying mosquitoes are moving deeper into the US. Climate change is only part of the problem.",
           "image": null,
           "other_news": true
         },
@@ -1697,6 +1688,17 @@
           "other_news": true
         },
         {
+          "title": "How should AI be regulated? Follow the harm",
+          "link": "https://theconversation.com/how-should-ai-be-regulated-follow-the-harm-292350",
+          "published": "2026-10-27T12:18:08+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Instead of trying to restrict AI technologies, regulations could focus on the harm the technology causes people and companies.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Should Australians be preparing for disaster? Some are – but don’t call them ‘preppers’",
           "link": "https://theconversation.com/should-australians-be-preparing-for-disaster-some-are-but-dont-call-them-preppers-295155",
           "published": "2026-10-27T00:03:41+00:00",
@@ -1704,17 +1706,6 @@
           "type": "news",
           "language": "en",
           "summary": "As climate risks accelerate and a hot summer approaches, many ordinary Australians are preparing disaster kits and emergency plans. Is prepping becomi",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Are you dressed yet? How parents can build child-friendly routines that kids can follow",
-          "link": "https://theconversation.com/are-you-dressed-yet-how-parents-can-build-child-friendly-routines-that-kids-can-follow-292432",
-          "published": "2026-10-26T15:19:16+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Parents can begin with setting up environments that are likely to help children remember and act without delay.",
           "image": null,
           "other_news": true
         },

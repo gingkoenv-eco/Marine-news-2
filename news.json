@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-26T19:21:53.337793+00:00",
+  "generated_at": "2026-10-27T06:01:14.312961+00:00",
   "categories": {
     "Politics & Policy": {
+      "Marine Biodiversity & Conservation": [
+        {
+          "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
+          "published": "2026-10-26T14:00:45+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Exclusive: EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whalesFollow our Australian politics live blog for latest updatesS",
+          "image": "https://i.guim.co.uk/img/media/37e026264024c8b969ae4fa3d8d8601720087a90/625_0_6628_5304/master/6628.jpg?width=140&quality=85&auto=format&fit=max&s=6bb71c939b4be55c1dde8f059a0c009b",
+          "other_news": false
+        }
+      ],
       "Sustainable Fisheries": [
         {
           "title": "Subsidies draining the sea cost governments more than they spend",
@@ -122,17 +135,6 @@
         }
       ],
       "Marine Biodiversity & Conservation": [
-        {
-          "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
-          "link": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
-          "published": "2026-10-26T14:00:45+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Exclusive: EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whalesSign up for climate and environment editor Adam Morton’s fre",
-          "image": "https://i.guim.co.uk/img/media/37e026264024c8b969ae4fa3d8d8601720087a90/625_0_6628_5304/master/6628.jpg?width=140&quality=85&auto=format&fit=max&s=6bb71c939b4be55c1dde8f059a0c009b",
-          "other_news": false
-        },
         {
           "title": "Almost every shallow-water coral reef on the planet faces ecosystem collapse by 2075, UN advisors say",
           "link": "https://www.theguardian.com/australia-news/2026/oct/22/shallow-water-coral-reef-ecosystem-collapse-by-2075-un-advisors-say",
@@ -441,13 +443,13 @@
           "other_news": false
         },
         {
-          "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+          "title": "Storm Boelo leaves thousands without power as Met Office issues new wind warning",
           "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-26T17:22:51+00:00",
+          "published": "2026-10-27T04:13:56+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern",
+          "summary": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fe/live/d45701d0-d165-11f1-93e1-3b657b665bcf.jpg",
           "other_news": false
         },
@@ -716,17 +718,6 @@
           "other_news": false
         },
         {
-          "title": "We tracked a ship in North Korea’s shadow fleet. This is how it stays in the dark",
-          "link": "https://theconversation.com/we-tracked-a-ship-in-north-koreas-shadow-fleet-this-is-how-it-stays-in-the-dark-288088",
-          "published": "2026-10-26T01:03:43+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "There’s a giant game of cat-and-mouse playing out on the world’s oceans. Sanctions enforcers are always a step behind.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Cuts to Integrated Ocean Observing System Puts Ocean at Risk",
           "link": "https://oceanconservancy.org/blog/2026/10/05/integrated-ocean-observing-system/",
           "published": "2026-10-05T21:24:39+00:00",
@@ -846,14 +837,14 @@
       ],
       "Marine Protected Areas & Policy": [
         {
-          "title": "Indonesians allege social media posts on wildfires and haze are being censored",
-          "link": "https://news.mongabay.com/2026/10/indonesians-allege-social-media-posts-on-wildfires-and-haze-are-being-censored/",
-          "published": "2026-10-23T14:33:52+00:00",
-          "source": "Mongabay Marine",
+          "title": "How is access to UTI treatment and the pill changing? And is the policy backed by evidence?",
+          "link": "https://theconversation.com/how-is-access-to-uti-treatment-and-the-pill-changing-and-is-the-policy-backed-by-evidence-295165",
+          "published": "2026-10-27T03:23:32+00:00",
+          "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "JAKARTA — On Oct. 15, as thick smog continued to choke millions of people, Indonesian health policy research and advocacy organization the Nalar Rawat",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23140606/AP26296399833675-indonesia-haze-768x512.jpg",
+          "summary": "As part of a 12-month trial, eligible women will be able to consult a pharmacist for UTI treatment or the pill with no out-of-pocket consultation fee.",
+          "image": null,
           "other_news": true
         }
       ],
@@ -1519,6 +1510,17 @@
           "other_news": true
         },
         {
+          "title": "2L, rappeuse : « Il est important d'être une mauvaise herbe dans ce monde »",
+          "link": "https://reporterre.net/2L-rappeuse-Il-est-important-d-etre-une-mauvaise-herbe-dans-ce-monde",
+          "published": "2026-10-27T06:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Anticapitalisme, antiracime... Après l'émission « Nouvelle école », 2L est devenue l'une des voix du rap qui parlent aux luttes",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/14102026_nmn_5706_concert_2l__c_nnoman-4a84c.jpg?1793080801",
+          "other_news": true
+        },
+        {
           "title": "Lula remporte la présidentielle au Brésil, « immense soulagement » pour les défenseurs de l'environnement",
           "link": "https://reporterre.net/Lula-remporte-la-presidentielle-au-Bresil-immense-soulagement-pour-les-defenseurs-de-l-environnement",
           "published": "2026-10-26T07:49:08+00:00",
@@ -1629,6 +1631,17 @@
           "other_news": true
         },
         {
+          "title": "Comment on a redonné vie à notre bocage en replantant des haies et en creusant des mares",
+          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/27/comment-on-a-redonne-vie-a-notre-bocage-en-replantant-des-haies-et-en-creusant-des-mares_6801091_6125299.html",
+          "published": "2026-10-27T05:00:20+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Aujourd’hui,",
+          "image": "https://img.lemde.fr/2026/09/09/504/0/6016/3008/644/322/60/0/df90c2f_upload-1-oi95xg2k5olh-biodiversitehaies046.jpg",
+          "other_news": true
+        },
+        {
           "title": "« L’usine Chemours a apporté des emplois. Mais à quel prix ? » : les PFAS et leurs dégâts au cœur du récit « Facteur X » dont « Le Monde » dévoile les extraits",
           "link": "https://www.lemonde.fr/idees/article/2026/10/25/l-usine-chemours-a-apporte-des-emplois-mais-a-quel-prix-les-pfas-et-leurs-degats-au-c-ur-du-recit-facteur-x-dont-le-monde-devoile-les-extraits_6800107_3232.html",
           "published": "2026-10-25T18:30:06+01:00",
@@ -1662,6 +1675,17 @@
           "other_news": true
         },
         {
+          "title": "Should Australians be preparing for disaster? Some are – but don’t call them ‘preppers’",
+          "link": "https://theconversation.com/should-australians-be-preparing-for-disaster-some-are-but-dont-call-them-preppers-295155",
+          "published": "2026-10-27T00:03:41+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As climate risks accelerate and a hot summer approaches, many ordinary Australians are preparing disaster kits and emergency plans. Is prepping becomi",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Are you dressed yet? How parents can build child-friendly routines that kids can follow",
           "link": "https://theconversation.com/are-you-dressed-yet-how-parents-can-build-child-friendly-routines-that-kids-can-follow-292432",
           "published": "2026-10-26T15:19:16+00:00",
@@ -1684,14 +1708,25 @@
           "other_news": true
         },
         {
-          "title": "The power of poo: why conservationists love animal scat",
-          "link": "https://theconversation.com/the-power-of-poo-why-conservationists-love-animal-scat-290147",
-          "published": "2026-10-26T02:53:57+00:00",
-          "source": "The Conversation",
+          "title": "Who’s implementing EUDR?",
+          "link": "https://news.mongabay.com/specials/2026/10/whos-implementing-eudr/",
+          "published": "2026-10-27T02:44:35+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Scat may be a waste product, but it holds crucial clues about an animal’s diet, disease risk and genetic health.",
-          "image": null,
+          "summary": "As the EU’s deforestation regulation (EUDR) approaches enforcement after multiple delays, Mongabay’s Solutions Desk is examining how industries are wo",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/12/05084203/6.-foto_madeira_Image-courtesy-of-Marizilda-Cruppe_Greenpeace-768x512.png",
+          "other_news": true
+        },
+        {
+          "title": "A rare victory for multilateralism in the fight against environmental crime (commentary)",
+          "link": "https://news.mongabay.com/2026/10/a-rare-victory-for-multilateralism-in-the-fight-against-environmental-crime-commentary/",
+          "published": "2026-10-26T20:20:26+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Multilateralism has had a miserable few years. International institutions are under strain,  geopolitical rivalries are intensifying and governments s",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/26200756/colombia_2156_26-768x512.jpg",
           "other_news": true
         },
         {
@@ -1780,39 +1815,6 @@
           "language": "en",
           "summary": "YEREVAN, Armenia — More than 80 conservation, Indigenous and civil society organizations have called on governments meeting at the COP17 U.N. biodiver",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23161919/658939825_10164173699294660_4388151972032530666_n-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Two decades after crash, Nepal still searching for new generation of conservation visionaries",
-          "link": "https://news.mongabay.com/short-article/2026/10/two-decades-after-crash-nepal-still-searching-for-new-generation-of-conservation-visionaries/",
-          "published": "2026-10-23T09:40:22+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Twenty years after a helicopter crash killed some of Nepal’s most prominent environmental figures, the nation is celebrating ecological gains while gr",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23093956/IMG_3811-scaled-1-768x512.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "Ahead of landmark climate trial in Canada, Indigenous youth eye impacts in the North",
-          "link": "https://news.mongabay.com/2026/10/ahead-of-landmark-climate-trial-in-canada-indigenous-youth-eye-impacts-in-the-north/",
-          "published": "2026-10-23T07:00:38+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Earlier this year, one of Leandrea Taylor Reeves’s best friends fell ill with a cold. “Maybe you need to go gather some Labrador,” said Reeves’ grandm",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/22223723/All-plaintifs-case-filing-day-2019-768x512.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "World Snow Leopard Day: Community action and new science foster coexistence with humans",
-          "link": "https://news.mongabay.com/short-article/2026/10/world-snow-leopard-day-community-action-and-new-science-foster-coexistence-with-humans/",
-          "published": "2026-10-23T06:21:40+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Snow leopards range across Asia’s rugged mountains, where they face mounting threats from climate change, declining wild prey, and retaliatory killing",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23062110/snow-leopard-WWF-768x512.jpg",
           "other_news": true
         }
       ]

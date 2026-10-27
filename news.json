@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:01:14.312961+00:00",
+  "generated_at": "2026-10-27T12:13:16.591492+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -443,17 +443,6 @@
           "other_news": false
         },
         {
-          "title": "Storm Boelo leaves thousands without power as Met Office issues new wind warning",
-          "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-27T04:13:56+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fe/live/d45701d0-d165-11f1-93e1-3b657b665bcf.jpg",
-          "other_news": false
-        },
-        {
           "title": "Part of Antarctica named after former BBC science correspondent",
           "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-26T14:54:40+00:00",
@@ -527,17 +516,6 @@
           "type": "news",
           "language": "en",
           "summary": "Jackdaw gasfield could contribute to security of supply but not protect the UK from high prices.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Cities are sinking – but citywide averages hide the real problem",
-          "link": "https://theconversation.com/cities-are-sinking-but-citywide-averages-hide-the-real-problem-294213",
-          "published": "2026-10-15T10:47:21+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Satellite data shows how unevenly cities are sinking. In Jakarta, some coastal areas are subsiding by as much as 7cm a year.",
           "image": null,
           "other_news": false
         },
@@ -641,6 +619,17 @@
           "other_news": false
         },
         {
+          "title": "Record-breaking ship that carried presidents and Marilyn Monroe to become world’s largest artificial reef",
+          "link": "https://oceanographicmagazine.com/news/record-breaking-ship-that-carried-presidents-and-marilyn-monroe-to-become-worlds-largest-artificial-reef/",
+          "published": "2026-10-27T11:34:45+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The SS United States, the fastest passenger ship ever built, is due to be sunk in the Gulf of Mexico in November, giving fish a new home and divers a",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "BP oil spill continues to decimate marine life off Gulf of Mexico 16 years on",
           "link": "https://oceanographicmagazine.com/news/bp-oil-spill-continues-to-decimate-marine-life-off-gulf-of-mexico-16-years-on/",
           "published": "2026-10-20T12:26:21+00:00",
@@ -648,17 +637,6 @@
           "type": "news",
           "language": "en",
           "summary": "Toxins from the 134-million-gallon spill were absorbed into marine animals’ eggs – and are still weakening deep-sea offspring today\nThe post BP oil sp",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "US to sell off seabed as scientists check damage from mining tests",
-          "link": "https://oceanographicmagazine.com/news/us-to-sell-off-seabed-as-scientists-check-damage-from-mining-tests/",
-          "published": "2026-10-20T12:23:36+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The US will hold its first deep-sea mining lease sale in November, offering 31 million acres off American Samoa, as scientists revisit a Pacific minin",
           "image": null,
           "other_news": false
         },
@@ -671,17 +649,6 @@
           "language": "fr",
           "summary": "Les menaces qui pèsent sur la biodiversité sont d’autant plus prégnantes que les espèces de poissons devraient décliner. Des choix politiques difficil",
           "image": "https://img.lemde.fr/2026/10/23/262/0/5568/2784/644/322/60/0/d7faecc_upload-1-ppqrb4e7upg3-000-34jr9ae.jpg",
-          "other_news": false
-        },
-        {
-          "title": "La crise dans le Golfe accroît la dépendance au charbon des pays d’Afrique australe",
-          "link": "https://www.lemonde.fr/afrique/article/2026/10/23/la-crise-dans-le-golfe-accroit-la-dependance-au-charbon-des-pays-d-afrique-australe_6799095_3212.html",
-          "published": "2026-10-23T17:00:13+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le blocage du détroit d’Ormuz a fait grimper les cours du charbon, énergie très polluante mais encore relativement bon marché. Pour les pays exportate",
-          "image": "https://img.lemde.fr/2026/10/20/375/0/4500/2250/644/322/60/0/257e4aa_upload-1-iyyeqvefzj2a-000-773x4xu.jpg",
           "other_news": false
         },
         {
@@ -707,13 +674,24 @@
           "other_news": false
         },
         {
-          "title": "«Une immense victoire pour la pêche artisanale» : le gouvernement va interdire les chalutiers géants de la bande côtière dans l’est de la Manche",
-          "link": "https://vert.eco/biodiversite/une-immense-victoire-pour-la-peche-artisanale-le-gouvernement-va-interdire-les-chalutiers-geants-de-la-bande-cotiere-dans-lest-de-la-manche/",
-          "published": "2026-10-22T16:18:28+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Warmer seas and shifting pressure systems: the signs that suggest the Mediterranean’s climate is ‘tropicalising’",
+          "link": "https://theconversation.com/warmer-seas-and-shifting-pressure-systems-the-signs-that-suggest-the-mediterraneans-climate-is-tropicalising-295197",
+          "published": "2026-10-27T08:18:29+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Sous la pression du monde de la pêche et des associations écologistes, le ministère de la mer a annoncé ce jeudi lancer une consultation auprès des Ét",
+          "language": "en",
+          "summary": "Rising water and air temperatures are transforming the climate on Spain’s Mediterranean coast.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Bottom trawlers do huge damage to life on undersea mountains. Could an end finally be in sight?",
+          "link": "https://theconversation.com/bottom-trawlers-do-huge-damage-to-life-on-undersea-mountains-could-an-end-finally-be-in-sight-295166",
+          "published": "2026-10-27T05:40:31+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "These ocean oases could be protected from trawling – 20 years after the United Nations first called for protection.",
           "image": null,
           "other_news": false
         },
@@ -813,6 +791,17 @@
           "other_news": true
         },
         {
+          "title": "Five new mussel species reveal how much biodiversity US rivers still conceal",
+          "link": "https://news.mongabay.com/2026/10/five-new-mussel-species-reveal-how-much-biodiversity-us-rivers-still-conceal/",
+          "published": "2026-10-27T11:39:31+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "For 20 years, researchers snorkeled through rivers across the southern U.S., feeling along muddy bottoms for mussels. Many of the shells they pulled u",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/27053936/Shedd_048A1940_hpr-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "Fungi now have a global conservation strategy",
           "link": "https://news.mongabay.com/short-article/2026/10/fungi-now-have-a-global-conservation-strategy/",
           "published": "2026-10-26T18:32:09+00:00",
@@ -850,6 +839,17 @@
       ],
       "Other Marine News": [
         {
+          "title": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
+          "link": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
+          "published": "2026-10-27T11:00:38+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather eventsSwee",
+          "image": "https://i.guim.co.uk/img/media/177f777c410c1e1edbc2c7e8e9fd013495de2a9e/346_0_4867_3895/master/4867.jpg?width=140&quality=85&auto=format&fit=max&s=ffa1f1919e6c6d781f1902e29839f328",
+          "other_news": true
+        },
+        {
           "title": "Climate crisis is coming to crush many of world’s best surf breaks, study warns",
           "link": "https://www.theguardian.com/environment/2026/oct/10/climate-crisis-putting-world-best-surf-breaks-at-risk",
           "published": "2026-10-10T03:00:45+00:00",
@@ -869,6 +869,28 @@
           "language": "en",
           "summary": "The Norwegian government has given a permit to a mining company to release waste into Førde fjord despite a 17-year battle by campaigners and a suprem",
           "image": "https://i.guim.co.uk/img/media/dc0441d99e158bcc614888c623997f70242554f1/170_0_3752_3001/master/3752.jpg?width=140&quality=85&auto=format&fit=max&s=044fc190d1e94ef92fac096be88129c2",
+          "other_news": true
+        },
+        {
+          "title": "Scotland's recycling rates fall to lowest level in five years",
+          "link": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-27T11:33:23+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8931/live/e4ac55b0-d1f8-11f1-8c9f-8d21fef6ffad.jpg",
+          "other_news": true
+        },
+        {
+          "title": "More high winds hit parts of UK as Storm Boelo clean-up continues",
+          "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-27T10:30:40+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A Met Office weather warning is in place for Scotland and Northern Ireland for much of Tuesday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fd9/live/430c9a00-d1d3-11f1-93e1-3b657b665bcf.jpg",
           "other_news": true
         },
         {
@@ -901,40 +923,7 @@
           "type": "news",
           "language": "en",
           "summary": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ec/live/12a2d690-d0ac-11f1-b441-2b33b063138f.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Man killed by falling tree as Storm Boelo batters Scotland",
-          "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-25T21:09:58+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a290/live/f2b0ec40-d09d-11f1-aeb2-977af36708cb.jpg",
-          "other_news": true
-        },
-        {
-          "title": "The dump detectives on the trail of the fly-tippers",
-          "link": "https://www.bbc.co.uk/news/articles/cqy0ry25y32wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-26T06:09:56+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The BBC joins environmental enforcement officers as they sift through illegally-dumped waste for clues.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5faa/live/0c30cb10-ce17-11f1-bbba-c577fd901ff7.png",
-          "other_news": true
-        },
-        {
-          "title": "Fire-hit nature reserve 'will never be the same'",
-          "link": "https://www.bbc.co.uk/news/articles/c3vgxk9w9rqjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-26T06:03:12+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Three months on from a devastating wildfire, the RSPB says it will take 20 years to recover.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53f/live/03d53ed0-d103-11f1-8682-97cb7b6dc42a.jpg",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5be/live/60b779d0-d089-11f1-92f6-357f3b0f345f.jpg",
           "other_news": true
         },
         {
@@ -1510,13 +1499,35 @@
           "other_news": true
         },
         {
+          "title": "Émissions de gaz à effet de serre mondiales : la baisse de 6 % d'ici 2035 sera très insuffisante",
+          "link": "https://reporterre.net/Emissions-de-gaz-a-effet-de-serre-mondiales-la-baisse-de-6-d-ici-2035-sera-tres-insuffisante",
+          "published": "2026-10-27T11:25:53+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "C'est un énorme pavé dans la mare, à quelques semaines de l'ouverture de la COP31 sur le climat. D'après les derniers rapports d",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/carl-kho-uxkdo2sbh1g-unsplash_1_-e98da.jpg?1793100406",
+          "other_news": true
+        },
+        {
+          "title": "Se disant victimes d'un « apartheid environnemental », les Palestiniens d'Israël attendent peu des élections législatives",
+          "link": "https://reporterre.net/Se-disant-victimes-d-un-apartheid-environnemental-les-Palestiniens-d-Israel-attendent-peu-des-elections-legislatives",
+          "published": "2026-10-27T06:05:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Déchets non collectés, terres expropriées... Pour les Palestiniens d'Israël, la discrimination environnementale s'apparente à de",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/jamila_hardal_-5e011.jpg?1793081102",
+          "other_news": true
+        },
+        {
           "title": "2L, rappeuse : « Il est important d'être une mauvaise herbe dans ce monde »",
           "link": "https://reporterre.net/2L-rappeuse-Il-est-important-d-etre-une-mauvaise-herbe-dans-ce-monde",
           "published": "2026-10-27T06:00:00+00:00",
           "source": "Reporterre",
           "type": "news",
           "language": "fr",
-          "summary": "Anticapitalisme, antiracime... Après l'émission « Nouvelle école », 2L est devenue l'une des voix du rap qui parlent aux luttes",
+          "summary": "Anticapitalisme, antiracisme... Après l'émission « Nouvelle école », 2L est devenue l'une des voix du rap qui parlent aux luttes",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/14102026_nmn_5706_concert_2l__c_nnoman-4a84c.jpg?1793080801",
           "other_news": true
         },
@@ -1631,6 +1642,17 @@
           "other_news": true
         },
         {
+          "title": "COP biodiversité : les « subventions néfastes » à la nature au centre des négociations",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/27/cop-biodiversite-les-subventions-nefastes-a-la-nature-au-centre-des-negociations_6801267_3244.html",
+          "published": "2026-10-27T12:30:10+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La présidence arménienne de la COP a mis en avant, lundi, un objectif décidé en 2022 à Montréal visant à réduire les subventions néfastes à la biodive",
+          "image": "https://img.lemde.fr/2026/10/27/312/0/5361/2680/644/322/60/0/6392111_ftp-1-iganiz6dpf6e-afp-d4j496m.jpg",
+          "other_news": true
+        },
+        {
           "title": "Comment on a redonné vie à notre bocage en replantant des haies et en creusant des mares",
           "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/27/comment-on-a-redonne-vie-a-notre-bocage-en-replantant-des-haies-et-en-creusant-des-mares_6801091_6125299.html",
           "published": "2026-10-27T05:00:20+01:00",
@@ -1697,17 +1719,6 @@
           "other_news": true
         },
         {
-          "title": "Can planting trees on riverbanks save salmon rivers from global warming?",
-          "link": "https://theconversation.com/can-planting-trees-on-riverbanks-save-salmon-rivers-from-global-warming-293780",
-          "published": "2026-10-26T12:41:04+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "As rivers warm, reforesting their banks could help Atlantic salmon. A new method makes it possible to identify priority areas.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Who’s implementing EUDR?",
           "link": "https://news.mongabay.com/specials/2026/10/whos-implementing-eudr/",
           "published": "2026-10-27T02:44:35+00:00",
@@ -1727,17 +1738,6 @@
           "language": "en",
           "summary": "Multilateralism has had a miserable few years. International institutions are under strain,  geopolitical rivalries are intensifying and governments s",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/26200756/colombia_2156_26-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Solar initiative brings power to clinics and jobs to displaced youths in Cameroon",
-          "link": "https://news.mongabay.com/2026/10/solar-initiative-brings-power-to-clinics-and-jobs-to-displaced-youths-in-cameroon/",
-          "published": "2026-10-26T15:52:53+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In Cameroon’s Northwest and Southwest regions, where a civil war has dragged on for 10 years, abundant sunshine has become a source of hope and opport",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/26131319/Solar-Bright-Future-Img-20-1-1-768x512.jpg",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:17:42.009967+00:00",
+  "generated_at": "2026-10-27T18:00:49.686788+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -202,17 +202,6 @@
           "other_news": false
         },
         {
-          "title": "Calling species ‘invasive’ – and culling them – isn’t done lightly. But it matters to Australia’s threatened species",
-          "link": "https://theconversation.com/calling-species-invasive-and-culling-them-isnt-done-lightly-but-it-matters-to-australias-threatened-species-294672",
-          "published": "2026-10-26T17:23:00+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Invasive species only want to live. But their success can come at great cost to native species. If we treat them the same, native animals lose.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Could You Really Be Swallowed by a Whale?",
           "link": "https://oceanconservancy.org/blog/2026/10/16/swallowed-by-a-whale/",
           "published": "2026-10-16T20:25:30+00:00",
@@ -243,17 +232,6 @@
           "language": "en",
           "summary": "If you spend some time on the banks of the St. Lawrence River in Quebec, you just might catch a flash of white beneath the surface. A whale. A beluga",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Nearly all the world’s coral reefs are at risk of collapse within 50 years, IUCN warns",
-          "link": "https://news.mongabay.com/short-article/2026/10/nearly-all-the-worlds-coral-reefs-are-at-risk-of-collapse-within-50-years-iucn-warns/",
-          "published": "2026-10-23T16:45:56+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Nearly every shallow-water coral reef ecosystem on Earth is at high risk of ecological collapse by 2075, according to the first coral reef assessment",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23163621/Sea_fans_coral_reef_Pagan_2022-768x512.png",
           "other_news": false
         }
       ],
@@ -555,6 +533,17 @@
           "other_news": false
         },
         {
+          "title": "Q&A: Why are UK energy bills so high – and how could they be lowered?",
+          "link": "https://www.carbonbrief.org/qa-why-are-uk-energy-bills-so-high-and-how-could-they-be-lowered",
+          "published": "2026-10-27T16:47:54+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Energy bills in the UK have continued to soar in 2026, with intense debate raging about how to bring them&#8230;\nThe post Q&amp;A: Why are UK energy b",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Q&A: Why a pivotal IPCC meeting in Ethiopia ended in ‘profound disappointment’",
           "link": "https://www.carbonbrief.org/qa-why-a-pivotal-ipcc-meeting-in-ethiopia-ended-in-profound-disappointment",
           "published": "2026-10-20T14:40:10+00:00",
@@ -691,17 +680,6 @@
     "To Watch / Read / Listen": {},
     "Other News": {
       "Plastic & Ocean Pollution": [
-        {
-          "title": "Could your plastic film packaging serve a purpose? We won’t know until recycling laws change",
-          "link": "https://theconversation.com/could-your-plastic-film-packaging-serve-a-purpose-we-wont-know-until-recycling-laws-change-293561",
-          "published": "2026-10-16T09:59:15+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Hard-to-recycle plastic waste could be an untapped resource but current laws make it difficult for UK companies to innovate.",
-          "image": null,
-          "other_news": true
-        },
         {
           "title": "Un groupe agroalimentaire soupçonné d'avoir pollué les captages d'eau potable dans les Deux-Sèvres",
           "link": "https://reporterre.net/Un-groupe-agroalimentaire-soupconne-d-avoir-pollue-les-captages-d-eau-potable-dans-les-Deux-Sevres",
@@ -852,14 +830,36 @@
           "other_news": true
         },
         {
-          "title": "Scotland's recycling rates fall to lowest level in five years",
+          "title": "Will a new strategy help protect Northern Ireland's nature?",
+          "link": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-27T17:51:13+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da92/live/f806aa70-d202-11f1-b3b6-c1e79e957e40.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Scotland's recycling rates at five-year low. How is your area doing?",
           "link": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-27T12:22:49+00:00",
+          "published": "2026-10-27T15:32:40+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
           "summary": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8931/live/e4ac55b0-d1f8-11f1-8c9f-8d21fef6ffad.jpg",
+          "other_news": true
+        },
+        {
+          "title": "What's happening to our rubbish?",
+          "link": "https://www.bbc.co.uk/news/videos/c9ly02pj4kdjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-27T15:30:50+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "As Scotland's recycling rate falls to its lowest level in five years, Kevin Keane looks at what happens to our rubbish.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e05a/live/fe8aa330-d219-11f1-a701-fddedf244c16.jpg",
           "other_news": true
         },
         {
@@ -896,14 +896,14 @@
           "other_news": true
         },
         {
-          "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
-          "link": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-25T21:11:43+00:00",
-          "source": "BBC Ocean & Marine",
+          "title": "Protéger la biodiversité : et si avant de dépenser plus, on ciblait mieux les efforts ?",
+          "link": "https://theconversation.com/proteger-la-biodiversite-et-si-avant-de-depenser-plus-on-ciblait-mieux-les-efforts-292410",
+          "published": "2026-10-27T15:13:06+00:00",
+          "source": "The Conversation FR",
           "type": "news",
-          "language": "en",
-          "summary": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5be/live/60b779d0-d089-11f1-92f6-357f3b0f345f.jpg",
+          "language": "fr",
+          "summary": "Alors que les financements en faveur de la biodiversité diminuent, le choix des stratégies les plus efficaces au regard des objectifs recherchés est c",
+          "image": null,
           "other_news": true
         },
         {
@@ -958,6 +958,28 @@
           "type": "news",
           "language": "fr",
           "summary": "Les mesures de protection de la biodiversité ciblent souvent des espèces menacées emblématiques au détriment de la biodiversité dite «&nbsp;commune&nb",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Indonesia’s El Niño-driven peat fires are choking the region – and releasing centuries of stored carbon",
+          "link": "https://theconversation.com/indonesias-el-nino-driven-peat-fires-are-choking-the-region-and-releasing-centuries-of-stored-carbon-294838",
+          "published": "2026-10-27T16:52:57+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "An intense drought is the match. Decades of deforestation and peat draining provide the fuel.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "The greenest initiatives are often the most invisible – experts explain why that’s a problem",
+          "link": "https://theconversation.com/the-greenest-initiatives-are-often-the-most-invisible-experts-explain-why-thats-a-problem-294789",
+          "published": "2026-10-27T16:13:21+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Visible eco-friendly additions can signal that a company is making an effort and is committed to sustainability. A reduction leaves fewer obvious eco-",
           "image": null,
           "other_news": true
         },
@@ -1204,13 +1226,13 @@
           "other_news": true
         },
         {
-          "title": "Analysis: Wind and solar save UK from gas imports worth £5.9bn during Hormuz crisis",
-          "link": "https://www.carbonbrief.org/analysis-wind-and-solar-save-uk-from-gas-imports-worth-5-9bn-during-hormuz-crisis",
-          "published": "2026-09-30T14:12:01+00:00",
-          "source": "Carbonbrief",
+          "title": "National climate plans now promise half the emission cuts expected by UN",
+          "link": "https://www.climatechangenews.com/2026/10/27/national-climate-plans-now-promise-half-the-emission-cuts-expected-by-un/",
+          "published": "2026-10-27T13:51:00+00:00",
+          "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "The UK has avoided the need for gas imports worth £5.9bn since the start of the Hormuz crisis as a&#8230;\nThe post Analysis: Wind and solar save UK fr",
+          "summary": "The US exit from the Paris Agreement and weak new pledges leave 2035 emissions just 6% below 2019 levels, against 12% projected last year\nThe post Nat",
           "image": null,
           "other_news": true
         },
@@ -1501,7 +1523,7 @@
           "other_news": true
         },
         {
-          "title": "Se disant victimes d'un « apartheid environnemental », les Palestiniens d'Israël attendent peu des élections législatives",
+          "title": "Élections en Israël : usés par un « apartheid environnemental », les Palestiniens désabusés",
           "link": "https://reporterre.net/Se-disant-victimes-d-un-apartheid-environnemental-les-Palestiniens-d-Israel-attendent-peu-des-elections-legislatives",
           "published": "2026-10-27T06:05:00+00:00",
           "source": "Reporterre",
@@ -1512,7 +1534,7 @@
           "other_news": true
         },
         {
-          "title": "2L, rappeuse : « Il est important d'être une mauvaise herbe dans ce monde »",
+          "title": "« Il est important d'être une mauvaise herbe » : avec la chanteuse 2L, le rap comme terrain de lutte",
           "link": "https://reporterre.net/2L-rappeuse-Il-est-important-d-etre-une-mauvaise-herbe-dans-ce-monde",
           "published": "2026-10-27T06:00:00+00:00",
           "source": "Reporterre",
@@ -1589,28 +1611,6 @@
           "other_news": true
         },
         {
-          "title": "Pesticides : paysan, il a perdu sa fille d'un cancer et va « régler ses comptes » devant les eurodéputés",
-          "link": "https://reporterre.net/Pesticides-paysan-il-a-perdu-sa-fille-d-un-cancer-et-va-regler-ses-comptes-devant-les",
-          "published": "2026-10-19T05:30:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Alors que l'Europe s'apprête à assouplir la législation sur les pesticides, Édouard Exilard, paysan basque qui a perdu sa fille",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/edouard-exilard_isabellemiquelestorena20_resized-a2562.jpg?1792387801",
-          "other_news": true
-        },
-        {
-          "title": "Du maïs à la place de la lavande ? Un immense projet d'irrigation divise la Provence",
-          "link": "https://reporterre.net/Du-mais-a-la-place-de-la-lavande-Un-immense-projet-d-irrigation-divise-la-Provence",
-          "published": "2026-10-19T05:30:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Pomper l'eau du Verdon pour arroser des champs situés 300 m plus haut : en Provence, un immense réseau d'irrigation doit presque",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/14092026-9-ab0ee.jpg?1792387801",
-          "other_news": true
-        },
-        {
           "title": "Lula secures fourth term in historic victory over far-right Flavio Bolsonaro",
           "link": "https://oceanographicmagazine.com/news/lula-secures-fourth-term-in-historic-victory-over-far-right-flavio-bolsonaro/",
           "published": "2026-10-26T16:48:29+00:00",
@@ -1635,7 +1635,7 @@
         {
           "title": "COP biodiversité : les « subventions néfastes » à la nature au centre des négociations",
           "link": "https://www.lemonde.fr/planete/article/2026/10/27/cop-biodiversite-les-subventions-nefastes-a-la-nature-au-centre-des-negociations_6801267_3244.html",
-          "published": "2026-10-27T12:30:10+01:00",
+          "published": "2026-10-27T12:30:03+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1646,7 +1646,7 @@
         {
           "title": "Comment on a redonné vie à notre bocage en replantant des haies et en creusant des mares",
           "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/27/comment-on-a-redonne-vie-a-notre-bocage-en-replantant-des-haies-et-en-creusant-des-mares_6801091_6125299.html",
-          "published": "2026-10-27T05:00:20+01:00",
+          "published": "2026-10-27T05:00:18+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1677,17 +1677,6 @@
           "other_news": true
         },
         {
-          "title": "Sur un continent en manque de carburants, le milliardaire nigérian Aliko Dangote veut créer un réseau panafricain d’oléoducs",
-          "link": "https://www.lemonde.fr/afrique/article/2026/10/23/sur-un-continent-en-manque-de-carburants-le-milliardaire-nigerian-aliko-dangote-veut-creer-un-reseau-panafricain-d-oleoducs_6799123_3212.html",
-          "published": "2026-10-23T18:45:06+02:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "L’homme le plus riche d’Afrique a racheté 25 % de la société d’oléoducs du Kenya, où il doit construire une réplique de sa raffinerie nigériane. Il po",
-          "image": "https://img.lemde.fr/2026/09/30/458/0/5500/2750/644/322/60/0/d6dd230_ftp-1-mgk0wt07xhzx-2026-09-30t132130z-1488167040-rc2ptnaakk90-rtrmadp-3-kenya-dangote-refinery.JPG",
-          "other_news": true
-        },
-        {
           "title": "How should AI be regulated? Follow the harm",
           "link": "https://theconversation.com/how-should-ai-be-regulated-follow-the-harm-292350",
           "published": "2026-10-27T12:18:08+00:00",
@@ -1707,6 +1696,17 @@
           "language": "en",
           "summary": "As climate risks accelerate and a hot summer approaches, many ordinary Australians are preparing disaster kits and emergency plans. Is prepping becomi",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "The Philippine lawyer who beat an oil giant: Rose Liza Eisma-Osorio on defending Tañon Strait",
+          "link": "https://news.mongabay.com/2026/10/the-philippine-lawyer-who-beat-an-oil-giant-rose-liza-eisma-osorio-on-defending-tanon-strait/",
+          "published": "2026-10-27T14:15:37+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "CEBU CITY, Philippines — At a coffee meeting in 2007, Philippine environmental lawyer Rose Liza Eisma-Osorio and four other law professors in Cebu Cit",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/27140336/A-turtle-at-the-Tanon-Strait.-Photo-Courtesy-of-Tanon-Strait-Philippines-1-768x512.jpeg",
           "other_news": true
         },
         {
@@ -1784,28 +1784,6 @@
           "language": "en",
           "summary": "MEXICO CITY — In early October, Mexico’s environment ministry published a statement about minimizing infrastructure development inside the Sian Ka’an",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23172145/32498588713_1c22e72954_3k-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "What if Flávio Bolsonaro wins? High stakes for the environment in Brazil’s 2026 elections (commentary)",
-          "link": "https://news.mongabay.com/2026/10/what-if-flavio-bolsonaro-wins-high-stakes-for-the-environment-in-brazils-2026-elections-commentary/",
-          "published": "2026-10-23T17:42:10+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Fear and disbelief prevail among those in Brazil who are concerned about the environment. A climate denier and voluble supporter of dismantling Brazil",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23173041/deforestation-in-the-brazilian-amazon-administration-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "COP17: Open letter urges governments to keep extractives out of protected areas",
-          "link": "https://news.mongabay.com/short-article/2026/10/cop17-open-letter-urges-governments-to-keep-extractives-out-of-protected-areas/",
-          "published": "2026-10-23T16:24:06+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "YEREVAN, Armenia — More than 80 conservation, Indigenous and civil society organizations have called on governments meeting at the COP17 U.N. biodiver",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23161919/658939825_10164173699294660_4388151972032530666_n-768x512.jpg",
           "other_news": true
         }
       ]

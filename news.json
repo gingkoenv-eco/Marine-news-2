@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T18:00:49.686788+00:00",
+  "generated_at": "2026-10-27T18:42:48.098825+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -827,6 +827,17 @@
           "language": "en",
           "summary": "The Norwegian government has given a permit to a mining company to release waste into Førde fjord despite a 17-year battle by campaigners and a suprem",
           "image": "https://i.guim.co.uk/img/media/dc0441d99e158bcc614888c623997f70242554f1/170_0_3752_3001/master/3752.jpg?width=140&quality=85&auto=format&fit=max&s=044fc190d1e94ef92fac096be88129c2",
+          "other_news": true
+        },
+        {
+          "title": "Weather warning lifted as third storm to hit Scotland eases off",
+          "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-27T18:09:24+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Several thousand properties in the north of Scotland are still without power after days of high winds and heavy rain.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aba6/live/8eb52fa0-d14a-11f1-9eb5-811878e0f07d.jpg",
           "other_news": true
         },
         {
@@ -1699,6 +1710,17 @@
           "other_news": true
         },
         {
+          "title": "Countries take first step toward global crackdown on environmental crime",
+          "link": "https://news.mongabay.com/short-article/2026/10/countries-take-first-step-toward-global-crackdown-on-environmental-crime/",
+          "published": "2026-10-27T18:30:38+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Negotiations are set to begin on the world’s first international protocol to fight environmental crime, including wildlife trafficking, illegal defore",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/07/29073157/tigers-drink-water-1-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "The Philippine lawyer who beat an oil giant: Rose Liza Eisma-Osorio on defending Tañon Strait",
           "link": "https://news.mongabay.com/2026/10/the-philippine-lawyer-who-beat-an-oil-giant-rose-liza-eisma-osorio-on-defending-tanon-strait/",
           "published": "2026-10-27T14:15:37+00:00",
@@ -1773,17 +1795,6 @@
           "language": "en",
           "summary": "The memory of constant surveillance, transfers and locked computers haunts federal environmental servants.",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23184714/20240216_114941-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Critics call for halt to road construction in Mexico’s Sian Ka’an Biosphere Reserve",
-          "link": "https://news.mongabay.com/2026/10/critics-call-for-halt-to-road-construction-in-mexicos-sian-kaan-biosphere-reserve/",
-          "published": "2026-10-23T18:47:31+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "MEXICO CITY — In early October, Mexico’s environment ministry published a statement about minimizing infrastructure development inside the Sian Ka’an",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23172145/32498588713_1c22e72954_3k-768x512.jpg",
           "other_news": true
         }
       ]

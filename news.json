@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T14:04:05.927773+00:00",
+  "generated_at": "2026-10-28T18:21:04.621907+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -17,6 +17,17 @@
       ],
       "Sustainable Fisheries": [
         {
+          "title": "Fishing 72% higher inside EU marine protected areas than outside",
+          "link": "https://oceanographicmagazine.com/news/fishing-72-higher-inside-eu-marine-protected-areas-than-outside/",
+          "published": "2026-10-28T14:51:33+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The European Court of Auditors finds only 1 per cent of EU marine waters are strictly protected and fishing is 72 per cent higher inside Natura 2000 s",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Subsidies draining the sea cost governments more than they spend",
           "link": "https://oceanographicmagazine.com/news/subsidies-draining-the-sea-cost-governments-more-than-they-spend/",
           "published": "2026-10-23T12:57:30+00:00",
@@ -26,15 +37,17 @@
           "summary": "A new Conservation International report finds harmful subsidies, including those driving overfishing and reef damage, leave a hidden bill of up to $24",
           "image": null,
           "other_news": false
-        },
+        }
+      ],
+      "Polar & Reef Ecosystems & Resilience": [
         {
-          "title": "Industrial fleets threaten millions of small-scale fishers, with Africa most at risk",
-          "link": "https://oceanographicmagazine.com/news/industrial-fleets-threaten-millions-of-small-scale-fishers-with-africa-most-at-risk/",
-          "published": "2026-10-21T12:58:00+00:00",
-          "source": "Oceanographic",
+          "title": "EU’s new Arctic strategy signals shift in its geopolitical mindset",
+          "link": "https://theconversation.com/eus-new-arctic-strategy-signals-shift-in-its-geopolitical-mindset-294978",
+          "published": "2026-10-28T13:46:02+00:00",
+          "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "The first-of-its-kind study finds that reliance on small-scale fishing and weak governance, leave coastal communities more vulnerable to industry encr",
+          "summary": "The EU has unveiled its first Arctic strategy since Russia’s invasion of Ukraine.",
           "image": null,
           "other_news": false
         }
@@ -623,6 +636,17 @@
           "other_news": false
         },
         {
+          "title": "«Trappes est une République islamique en miniature» : le RN et les banlieues, trente années de propos stigmatisants",
+          "link": "https://vert.eco/chaleurs-actuelles/trappes-est-une-republique-islamique-en-miniature-le-rn-et-les-banlieues-trente-annees-de-propos-stigmatisants/",
+          "published": "2026-10-28T16:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Après l’attentat raciste survenu à Trappes, vendredi dernier, des déclarations de Marine Le Pen et Jordan Bardella sur la commune des Yvelines ont rap",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "En meeting à Orléans, Marine Le Pen ne veut pas «refaire la France d’avant»… mais rêve de rouvrir des puits de pétrole",
           "link": "https://vert.eco/chaleurs-actuelles/a-orleans-marine-le-pen-jure-ne-pas-vouloir-refaire-la-france-davant-tout-en-promettant-dabroger-la-loi-interdisant-la-recherche-de-petrole/",
           "published": "2026-10-26T11:11:40+00:00",
@@ -641,6 +665,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Le Brésil enregistre son plus faible niveau de déforestation depuis près de quarante ans, les chalutiers géants bientôt interdits près des côtes dans",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Autistic children come to A&E in mental health crisis from as young as eight",
+          "link": "https://theconversation.com/autistic-children-come-to-aande-in-mental-health-crisis-from-as-young-as-eight-292292",
+          "published": "2026-10-28T13:49:09+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The data showed autistic children were seeking help for suicidal thoughts in A&amp;E at significantly younger ages than their non-autistic peers.",
           "image": null,
           "other_news": false
         },
@@ -667,6 +702,17 @@
           "other_news": false
         },
         {
+          "title": "Cyclone batters India’s eastern coast, killing 3 and damaging homes and farmland",
+          "link": "https://news.mongabay.com/short-article/2026/10/cyclone-batters-indias-eastern-coast-killing-3-and-damaging-homes-and-farmland/",
+          "published": "2026-10-28T15:58:43+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "KAKINADA, India (AP) — A powerful cyclone battered India ’s Andhra Pradesh state on Wednesday, killing at least three people and damaging homes and fa",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28155029/AP26301169116911-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Pangolin scale lawsuit in Indonesia could shake up how wildlife traffickers pay",
           "link": "https://news.mongabay.com/2026/10/pangolin-scale-lawsuit-in-indonesia-could-shake-up-how-wildlife-traffickers-pay/",
           "published": "2026-10-28T07:53:07+00:00",
@@ -683,7 +729,7 @@
     "Other News": {
       "Plastic & Ocean Pollution": [
         {
-          "title": "Comment la désinformation climatique nous tue",
+          "title": "Les fausses informations nous exposent aux pollutions, aux maladies, aux incendies",
           "link": "https://reporterre.net/Comment-la-desinformation-climatique-nous-tue",
           "published": "2026-10-28T13:47:38+00:00",
           "source": "Reporterre",
@@ -781,17 +827,6 @@
           "language": "en",
           "summary": "YEREVAN, Armenia — Like the dark spaces they often prefer, mushrooms, yeasts, and some 160,000 known species of fungi rest in the background of conser",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/26134949/SPUN-Indonesia-Bantimurung-Bulusaraung-National-Park-Garry-Lotulung-C-Garry-Lotulung-SPUN-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "At Yerevan’s COP17 biodiversity summit, a steep climb ahead for ‘30 by 30’ target",
-          "link": "https://news.mongabay.com/2026/10/at-yerevans-cop17-biodiversity-summit-a-steep-climb-ahead-for-30-by-30-target/",
-          "published": "2026-10-26T16:37:58+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "GAYE TOWN, Liberia – Deep in the Liberian bush, there’s a dispute about what to do with a big swath of rainforest. The conservation group Wild Chimpan",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/04/10135023/QE3-2-768x512.jpg",
           "other_news": true
         }
       ],
@@ -986,13 +1021,13 @@
           "other_news": true
         },
         {
-          "title": "La biodiversité commune, grande oubliée des politiques de conservation en Europe",
-          "link": "https://theconversation.com/la-biodiversite-commune-grande-oubliee-des-politiques-de-conservation-en-europe-292260",
-          "published": "2026-10-01T09:10:00+00:00",
-          "source": "The Conversation FR",
+          "title": "The risk of Atlantic current collapse is missing from almost all national climate plans – new study",
+          "link": "https://theconversation.com/the-risk-of-atlantic-current-collapse-is-missing-from-almost-all-national-climate-plans-new-study-295234",
+          "published": "2026-10-28T16:14:24+00:00",
+          "source": "The Conversation UK",
           "type": "news",
-          "language": "fr",
-          "summary": "Les mesures de protection de la biodiversité ciblent souvent des espèces menacées emblématiques au détriment de la biodiversité dite «&nbsp;commune&nb",
+          "language": "en",
+          "summary": "An Amoc collapse would&nbsp;dramatically alter the world’s climate – often in unexpected ways. Our new study shows how governments should prepare.",
           "image": null,
           "other_news": true
         },
@@ -1283,6 +1318,17 @@
           "other_news": true
         },
         {
+          "title": "Africa wants adaptation finance on COP31 agenda, raising risk of a fight",
+          "link": "https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/",
+          "published": "2026-10-28T15:57:17+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "The African Group wants dedicated space on tripling adaptation finance, the Green Climate Fund and trade, setting up a possible clash\nThe post Africa",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Why COP31 needs to start talking about just transition finance",
           "link": "https://www.climatechangenews.com/2026/10/28/why-cop31-needs-to-start-talking-about-just-transition-finance/",
           "published": "2026-10-28T10:56:06+00:00",
@@ -1536,17 +1582,6 @@
           "other_news": true
         },
         {
-          "title": "Jordan’s mega-plan for water security risks locking in fossil gas demand",
-          "link": "https://www.climatechangenews.com/2026/10/01/jordans-mega-plan-for-water-security-risks-locking-in-fossil-gas-demand/",
-          "published": "2026-10-01T13:57:34+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "A giant desalination plant will help Jordan confront water scarcity, but solar power’s limited role in the energy-hungry project has raised questions",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Attentat de Trappes : comment la « complaisance journalistique » diffuse les idées d'extrême droite",
           "link": "https://reporterre.net/Attentat-de-Trappes-Il-faut-penser-ce-qui-relie-les-actes-de-racisme-quotidien-et-ce-type-d-evenements-extremes",
           "published": "2026-10-28T06:00:00+00:00",
@@ -1659,7 +1694,7 @@
         {
           "title": "Climat : 79 millions d’heures de travail potentielles perdues en France chaque année en raison de l’exposition aux chaleurs",
           "link": "https://www.lemonde.fr/planete/article/2026/10/28/climat-79-millions-d-heures-de-travail-potentielles-perdues-en-france-chaque-annee-en-raison-de-l-exposition-aux-chaleurs_6801529_3244.html",
-          "published": "2026-10-28T05:45:11+01:00",
+          "published": "2026-10-28T05:45:09+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1745,6 +1780,28 @@
           "other_news": true
         },
         {
+          "title": "Why the WHO must declare climate change a public health emergency",
+          "link": "https://theconversation.com/why-the-who-must-declare-climate-change-a-public-health-emergency-294724",
+          "published": "2026-10-28T15:48:46+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Climate change is an immediate threat to the world’s most vulnerable communities and people.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Who gets the clean energy jobs and contracts? How Ghana and South Africa’s plans can do more for women",
+          "link": "https://theconversation.com/who-gets-the-clean-energy-jobs-and-contracts-how-ghana-and-south-africas-plans-can-do-more-for-women-290663",
+          "published": "2026-10-28T13:33:03+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Solar and wind could bring women jobs and businesses in Ghana and South Africa, but governments must overturn inequalities in access to skills, loans",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "I’ve been talking to MAGA supporters for years, and here’s why some are sticking with Trump — and others are not",
           "link": "https://theconversation.com/ive-been-talking-to-maga-supporters-for-years-and-heres-why-some-are-sticking-with-trump-and-others-are-not-294771",
           "published": "2026-10-28T12:22:00+00:00",
@@ -1775,6 +1832,28 @@
           "language": "en",
           "summary": "The most successful campaigns combine conviction with clear, specific goals.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "A town-wide ‘living laboratory’ shows how green spaces can combat climate extremes",
+          "link": "https://news.mongabay.com/2026/10/a-town-wide-living-laboratory-shows-how-green-spaces-can-combat-climate-extremes/",
+          "published": "2026-10-28T17:01:56+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Stoke Park is a natural haven in a busy British town. Centered in Guildford, Surrey, its rolling fields pop with wildflowers in the spring; birds sing",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28121856/Guildford_-_Stoke_Park_Gardens_-_geograph.org-edit-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Why I sent my archive of nature’s sounds to France (commentary)",
+          "link": "https://news.mongabay.com/2026/10/why-i-sent-my-archive-of-natures-sounds-to-france-commentary/",
+          "published": "2026-10-28T16:55:07+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "It is a peculiar irony: as technology reaches ever deeper into Earth’s living systems, the primal sonic expressions of the natural world—wind, water,",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28164909/1-Krause-%40-St.-Vincent-Is-FL-2003-768x512.jpg",
           "other_news": true
         },
         {
@@ -1819,28 +1898,6 @@
           "language": "en",
           "summary": "Multilateralism has had a miserable few years. International institutions are under strain,  geopolitical rivalries are intensifying and governments s",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/26200756/colombia_2156_26-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Solar initiative brings power to clinics and jobs to displaced youths in Cameroon",
-          "link": "https://news.mongabay.com/2026/10/solar-initiative-brings-power-to-clinics-and-jobs-to-displaced-youths-in-cameroon/",
-          "published": "2026-10-26T15:52:53+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In Cameroon’s Northwest and Southwest regions, where a civil war has dragged on for 10 years, abundant sunshine has become a source of hope and opport",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/26131319/Solar-Bright-Future-Img-20-1-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Taiwan’s tea growers let nature take back control as climate pressures mount",
-          "link": "https://news.mongabay.com/2026/10/taiwans-tea-growers-let-nature-take-back-control-as-climate-pressures-mount/",
-          "published": "2026-10-26T11:09:39+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "MEISHAN TOWNSHIP, Taiwan — Lin Kuang-li’s tea plants blend in among the dozens of others that blanket this tea-producing village in Alishan, a mountai",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23155216/Lin-Kuang-li-1-768x512.jpg",
           "other_news": true
         }
       ]

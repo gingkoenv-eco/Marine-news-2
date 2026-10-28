@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T18:42:48.098825+00:00",
+  "generated_at": "2026-10-28T06:02:05.101296+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -71,17 +71,6 @@
           "language": "en",
           "summary": "This fall, Ocean Conservancy is celebrating its 41st annual International Coastal Cleanup® (ICC), once again bringing together volunteers to protect t",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Bangladesh’s climate migrants are arriving in cities unprepared to protect them",
-          "link": "https://news.mongabay.com/2026/10/bangladeshs-climate-migrants-are-arriving-in-cities-unprepared-to-protect-them/",
-          "published": "2026-10-23T19:36:02+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In 2024, disasters displaced 2.4 million people within Bangladesh even as the International Monetary Fund predicts that rising seas could eliminate mo",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23153115/AP22228819567904-dhaka-climate-768x512.jpg",
           "other_news": false
         }
       ]
@@ -643,24 +632,13 @@
           "other_news": false
         },
         {
-          "title": "Warmer seas and shifting pressure systems: the signs that suggest the Mediterranean’s climate is ‘tropicalising’",
-          "link": "https://theconversation.com/warmer-seas-and-shifting-pressure-systems-the-signs-that-suggest-the-mediterraneans-climate-is-tropicalising-295197",
-          "published": "2026-10-27T08:18:29+00:00",
+          "title": "The phantom lighthouse: new research explains one of Australia’s strangest illusions",
+          "link": "https://theconversation.com/the-phantom-lighthouse-new-research-explains-one-of-australias-strangest-illusions-294683",
+          "published": "2026-10-27T19:11:43+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Rising water and air temperatures are transforming the climate on Spain’s Mediterranean coast.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Bottom trawlers do huge damage to life on undersea mountains. Could an end finally be in sight?",
-          "link": "https://theconversation.com/bottom-trawlers-do-huge-damage-to-life-on-undersea-mountains-could-an-end-finally-be-in-sight-295166",
-          "published": "2026-10-27T05:40:31+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "These ocean oases could be protected from trawling – 20 years after the United Nations first called for protection.",
+          "summary": "Visitors to Lady Elliot Island report seeing a lighthouse far out to sea at night – and scientists have at last figured out why.",
           "image": null,
           "other_news": false
         },
@@ -738,17 +716,6 @@
           "other_news": true
         },
         {
-          "title": "«Un signal d’alarme» : 96% des écosystèmes des récifs coralliens sont en «danger d’extinction»",
-          "link": "https://vert.eco/biodiversite/un-signal-dalarme-96-des-ecosystemes-des-recifs-coralliens-sont-en-danger-dextinction/",
-          "published": "2026-10-23T09:10:25+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Une grande majorité de ces écosystèmes pourraient disparaitre d’ici 2075, selon l’Union internationale pour la conservation de la nature. En cause, le",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Five new mussel species reveal how much biodiversity US rivers still conceal",
           "link": "https://news.mongabay.com/2026/10/five-new-mussel-species-reveal-how-much-biodiversity-us-rivers-still-conceal/",
           "published": "2026-10-27T11:39:31+00:00",
@@ -784,13 +751,24 @@
       ],
       "Marine Protected Areas & Policy": [
         {
-          "title": "How is access to UTI treatment and the pill changing? And is the policy backed by evidence?",
-          "link": "https://theconversation.com/how-is-access-to-uti-treatment-and-the-pill-changing-and-is-the-policy-backed-by-evidence-295165",
-          "published": "2026-10-27T03:23:32+00:00",
+          "title": "Parents have one of Australia’s most important jobs, so why don’t we have policy for them?",
+          "link": "https://theconversation.com/parents-have-one-of-australias-most-important-jobs-so-why-dont-we-have-policy-for-them-293334",
+          "published": "2026-10-28T04:49:43+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "As part of a 12-month trial, eligible women will be able to consult a pharmacist for UTI treatment or the pill with no out-of-pocket consultation fee.",
+          "summary": "Australia invests billions in children annually, but we still struggle to keep them safe, happy and healthy. It’s time to include the missing puzzle p",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Most New Zealanders worry about AI’s risks, even as many expect to use it – new survey",
+          "link": "https://theconversation.com/most-new-zealanders-worry-about-ais-risks-even-as-many-expect-to-use-it-new-survey-294573",
+          "published": "2026-10-27T21:13:25+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As experts propose a new public institute to guide AI policy,  national survey findings show high concern among Māori and Asian people about how their",
           "image": null,
           "other_news": true
         }
@@ -799,7 +777,7 @@
         {
           "title": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
           "link": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
-          "published": "2026-10-27T11:00:38+00:00",
+          "published": "2026-10-27T21:34:54+00:00",
           "source": "The Guardian Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -832,11 +810,11 @@
         {
           "title": "Weather warning lifted as third storm to hit Scotland eases off",
           "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-27T18:09:24+00:00",
+          "published": "2026-10-27T21:20:52+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Several thousand properties in the north of Scotland are still without power after days of high winds and heavy rain.",
+          "summary": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aba6/live/8eb52fa0-d14a-11f1-9eb5-811878e0f07d.jpg",
           "other_news": true
         },
@@ -1523,6 +1501,17 @@
           "other_news": true
         },
         {
+          "title": "Attentat de Trappes : « Il faut penser ce qui relie les actes de racisme quotidien et ce type d'événements extrêmes »",
+          "link": "https://reporterre.net/Attentat-de-Trappes-Il-faut-penser-ce-qui-relie-les-actes-de-racisme-quotidien-et-ce-type-d-evenements-extremes",
+          "published": "2026-10-28T06:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Politiques, médias... La sociologue Solène Brun pointe la « banalisation des discours d'extrême droite », un climat raciste qui",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261026__d4gw7fn__v1__highres__francecrimepoliticsceremonydemo-31e3b.jpg?1793167201",
+          "other_news": true
+        },
+        {
           "title": "Émissions de gaz à effet de serre mondiales : la baisse de 6 % d'ici 2035 sera très insuffisante",
           "link": "https://reporterre.net/Emissions-de-gaz-a-effet-de-serre-mondiales-la-baisse-de-6-d-ici-2035-sera-tres-insuffisante",
           "published": "2026-10-27T11:25:53+00:00",
@@ -1644,6 +1633,39 @@
           "other_news": true
         },
         {
+          "title": "Climat : 79 millions d’heures de travail potentielles perdues en France chaque année en raison de l’exposition aux chaleurs",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/28/climat-79-millions-d-heures-de-travail-potentielles-perdues-en-france-chaque-annee-en-raison-de-l-exposition-aux-chaleurs_6801529_3244.html",
+          "published": "2026-10-28T05:45:11+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les chercheurs du Lancet Countdown ont estimé, pays par pays, le fardeau sanitaire du réchauffement climatique. Le secteur du bâtiment est le plus tou",
+          "image": "https://img.lemde.fr/2026/06/11/1146/0/6875/3437/644/322/60/0/c805fb0_ftp-1-btgzfxu3qwzp-5287990-01-06.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Changement climatique : la communauté scientifique appelle à décréter une « urgence sanitaire mondiale »",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/28/changement-climatique-la-communaute-scientifique-appelle-a-decreter-une-urgence-sanitaire-mondiale_6801524_3244.html",
+          "published": "2026-10-28T05:00:38+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le 10ᵉ rapport du Lancet Countdown montre que les effets du réchauffement sur la santé comme le nombre de décès liés à la chaleur se sont considérable",
+          "image": "https://img.lemde.fr/2026/10/26/479/0/3543/1771/644/322/60/0/d4505ed_upload-1-hdoiyr8bdubj-000-b82x6t3-1.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Donald Trump abroge des règles sur la limitation des émissions de méthane, un gaz à effet de serre extrêmement polluant",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/28/donald-trump-abroge-des-regles-sur-la-limitation-des-emissions-de-methane-un-gaz-a-effet-de-serre-extremement-polluant_6801449_3244.html",
+          "published": "2026-10-28T03:19:38+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les nouvelles mesures voulues par le président américain supprimeraient notamment un programme permettant à des observateurs agréés de signaler de gra",
+          "image": "https://img.lemde.fr/2026/10/27/990/0/5940/2970/644/322/60/0/d57f736_ftp-1-nozjqqfkn2rd-33be28176fa7411e90920d68859bab90-0-b45d7ad6581448f5a12d9d3b3fad9495.jpg",
+          "other_news": true
+        },
+        {
           "title": "COP biodiversité : les « subventions néfastes » à la nature au centre des négociations",
           "link": "https://www.lemonde.fr/planete/article/2026/10/27/cop-biodiversite-les-subventions-nefastes-a-la-nature-au-centre-des-negociations_6801267_3244.html",
           "published": "2026-10-27T12:30:03+01:00",
@@ -1688,6 +1710,17 @@
           "other_news": true
         },
         {
+          "title": "What makes a winning environmental campaign? We studied six decades of activism to find out",
+          "link": "https://theconversation.com/what-makes-a-winning-environmental-campaign-we-studied-six-decades-of-activism-to-find-out-294669",
+          "published": "2026-10-27T19:10:29+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The most successful campaigns combine conviction with clear, specific goals.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "How should AI be regulated? Follow the harm",
           "link": "https://theconversation.com/how-should-ai-be-regulated-follow-the-harm-292350",
           "published": "2026-10-27T12:18:08+00:00",
@@ -1695,17 +1728,6 @@
           "type": "news",
           "language": "en",
           "summary": "Instead of trying to restrict AI technologies, regulations could focus on the harm the technology causes people and companies.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Should Australians be preparing for disaster? Some are – but don’t call them ‘preppers’",
-          "link": "https://theconversation.com/should-australians-be-preparing-for-disaster-some-are-but-dont-call-them-preppers-295155",
-          "published": "2026-10-27T00:03:41+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "As climate risks accelerate and a hot summer approaches, many ordinary Australians are preparing disaster kits and emergency plans. Is prepping becomi",
           "image": null,
           "other_news": true
         },
@@ -1762,39 +1784,6 @@
           "language": "en",
           "summary": "MEISHAN TOWNSHIP, Taiwan — Lin Kuang-li’s tea plants blend in among the dozens of others that blanket this tea-producing village in Alishan, a mountai",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23155216/Lin-Kuang-li-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "World Kangaroo Day: How climate change impacts Australia’s macropods",
-          "link": "https://news.mongabay.com/2026/10/world-kangaroo-day-how-climate-change-impacts-australias-macropods/",
-          "published": "2026-10-24T01:00:01+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "CANBERRA — World Kangaroo Day, on Oct. 24, celebrates one of Australia’s national symbols and the macropod’s special place in the country’s environmen",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/22124702/14582525532_c6239de35c_o-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Mozambique safari operator wins conservation award at COP17",
-          "link": "https://news.mongabay.com/short-article/2026/10/mozambique-safari-operator-wins-conservation-award-at-cop17/",
-          "published": "2026-10-23T21:39:24+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "YEREVAN, Armenia — A Mozambican safari operator credited with helping restore wildlife populations in Mozambique’s Zambezi Delta, has won the 2026 Mar",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23213221/488504017_17850218328436140_7523769475865190060_n-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Environmental officials fear new wave of harassment if Flavio Bolsonaro wins in Brazil",
-          "link": "https://news.mongabay.com/2026/10/environmental-officials-fear-new-wave-of-harassment-if-flavio-bolsonaro-wins-in-brazil/",
-          "published": "2026-10-23T19:06:43+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The memory of constant surveillance, transfers and locked computers haunts federal environmental servants.",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23184714/20240216_114941-768x512.jpg",
           "other_news": true
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:02:05.101296+00:00",
+  "generated_at": "2026-10-28T12:56:51.638012+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -222,6 +222,17 @@
           "summary": "If you spend some time on the banks of the St. Lawrence River in Quebec, you just might catch a flash of white beneath the surface. A whale. A beluga",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "As the sea swallows a Nigerian community, migratory bird habitat disappears",
+          "link": "https://news.mongabay.com/2026/10/as-the-sea-swallows-a-nigerian-community-migratory-bird-habitat-disappears/",
+          "published": "2026-10-28T07:58:40+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The point where land meets sea at Ayetoro, in southwestern Nigeria, is marked by the skeletons of now-submerged landmarks. Birdcalls, crashing waves,",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28070226/EurasianWhimbrel.Numenius.phaeopus_KalaibiamiIRiversNigeria_AdedotunAjibadeINaturalist_BY-NC4.0-768x512.jpeg",
+          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -270,6 +281,19 @@
           "type": "news",
           "language": "en",
           "summary": "Some farmed fish rely on wild fish for feed but aquaculture should not compromise food security of vulnerable communities.",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Polar & Reef Ecosystems & Resilience": [
+        {
+          "title": "The deep ocean’s protection against warming started to change in 2016. Nobody knows what happens now",
+          "link": "https://theconversation.com/the-deep-oceans-protection-against-warming-started-to-change-in-2016-nobody-knows-what-happens-now-293088",
+          "published": "2026-10-28T10:10:33+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Melting sea ice protects the deep ocean from warming – but when sea ice levels declined, the system began to break down.",
           "image": null,
           "other_news": false
         }
@@ -398,17 +422,6 @@
           "language": "en",
           "summary": "The injection of thermal energy comes amid an increasing rise in sea levels and continuing acidificationA record-breaking 23 zettajoules of heat was s",
           "image": "https://i.guim.co.uk/img/media/2bdc72b5bc11ccf5d1859f17fd5d425d21944b92/1093_0_5466_4373/master/5466.jpg?width=140&quality=85&auto=format&fit=max&s=bb495ba2af8b9dd353841ce4469bc6ab",
-          "other_news": false
-        },
-        {
-          "title": "Concern mounts over slow-moving, planetary-scale ‘Kelvin’ wave heading for California",
-          "link": "https://www.theguardian.com/us-news/2026/sep/28/california-kelvin-wave",
-          "published": "2026-09-28T11:00:33+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The ocean phenomenon could raise sea levels by up to a foot as El Niño keeps warm water trapped along the coastConcerns are mounting about an ocean ph",
-          "image": "https://i.guim.co.uk/img/media/9e5107f1d6a166f37f2f8a6a9f3796bed818b2b4/671_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=d6e24b94cd444b0d91f9f434736a578b",
           "other_news": false
         },
         {
@@ -652,6 +665,17 @@
           "summary": "Most Americans have likely never heard of the United States Integrated Ocean Observing System, or IOOS. Yet if you have ever checked conditions before",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "Pangolin scale lawsuit in Indonesia could shake up how wildlife traffickers pay",
+          "link": "https://news.mongabay.com/2026/10/pangolin-scale-lawsuit-in-indonesia-could-shake-up-how-wildlife-traffickers-pay/",
+          "published": "2026-10-28T07:53:07+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "When customs officials at Jakarta’s Tanjung Priok Port opened a shipping container flagged for inspection in February 2026, they expected to find sea",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28073343/a.-%C2%A9-thepunggolin-original-768x512.jpg",
+          "other_news": false
         }
       ]
     },
@@ -690,17 +714,6 @@
           "type": "news",
           "language": "en",
           "summary": "When conservation affects local people, the question of who pays and who has a voice in decisions can make or break species recovery.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Interactive: Tracking negotiating texts at the COP17 biodiversity summit",
-          "link": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop17-biodiversity-summit",
-          "published": "2026-10-12T14:31:06+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Next week, diplomats from around the world will descend on Yerevan, Armenia, to negotiate a series of decisions under the&#8230;\nThe post Interactive:",
           "image": null,
           "other_news": true
         },
@@ -1149,6 +1162,28 @@
           "other_news": true
         },
         {
+          "title": "Revealed: UK relied on £2bn of ‘questionable accounting’ to hit its climate-aid goal",
+          "link": "https://www.carbonbrief.org/revealed-uk-relied-on-2bn-of-questionable-accounting-to-hit-its-climate-aid-goal",
+          "published": "2026-10-28T07:00:00+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "The UK has beaten its target to provide £11.6bn of climate aid to developing countries by 2026 – but only&#8230;\nThe post Revealed: UK relied on £2bn",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Analysis: How the UK spent more than £11.6bn on climate aid since 2021",
+          "link": "https://www.carbonbrief.org/analysis-how-the-uk-spent-more-than-11-6bn-on-climate-aid-since-2021",
+          "published": "2026-10-28T07:00:00+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "The UK has spent £12.8bn on climate aid for developing countries since 2021, according to official figures obtained by Carbon&#8230;\nThe post Analysis",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Chart: A record two-thirds of car sales in China are now electric vehicles",
           "link": "https://www.carbonbrief.org/chart-a-record-two-thirds-of-car-sales-in-china-are-now-electric-vehicles",
           "published": "2026-10-23T15:55:26+00:00",
@@ -1211,6 +1246,17 @@
           "type": "news",
           "language": "en",
           "summary": "The amount of finance for nature delivered to date “falls far short” of what is needed to meet the UN’s&#8230;\nThe post COP17: Developed countries ‘fa",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Why COP31 needs to start talking about just transition finance",
+          "link": "https://www.climatechangenews.com/2026/10/28/why-cop31-needs-to-start-talking-about-just-transition-finance/",
+          "published": "2026-10-28T10:56:06+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Funding that helps workers and communities navigate the clean energy switch remains overlooked, splintered and poorly tracked - a blindspot that could",
           "image": null,
           "other_news": true
         },
@@ -1479,29 +1525,7 @@
           "other_news": true
         },
         {
-          "title": "Brazil confident new rainforest fund will reach $10bn donor milestone",
-          "link": "https://www.climatechangenews.com/2026/09/29/brazil-confident-new-rainforest-fund-tfff-10bn-fund-finance/",
-          "published": "2026-09-29T15:22:03+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Brazil's environment minister said the Tropical Forest Forever Facility has raised billions in record time - which he hopes will convince more investo",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "COP31 must aim higher to cut emissions from the use of materials",
-          "link": "https://www.climatechangenews.com/2026/09/29/cop31-must-aim-higher-to-cut-emissions-from-the-use-of-materials/",
-          "published": "2026-09-29T10:37:14+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "November's climate summit is an opportunity to connect material circularity with stronger carbon-cutting pathways but Türkiye's proposed goals need to",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Attentat de Trappes : « Il faut penser ce qui relie les actes de racisme quotidien et ce type d'événements extrêmes »",
+          "title": "Attentat de Trappes : comment la « complaisance journalistique » diffuse les idées d'extrême droite",
           "link": "https://reporterre.net/Attentat-de-Trappes-Il-faut-penser-ce-qui-relie-les-actes-de-racisme-quotidien-et-ce-type-d-evenements-extremes",
           "published": "2026-10-28T06:00:00+00:00",
           "source": "Reporterre",
@@ -1710,6 +1734,39 @@
           "other_news": true
         },
         {
+          "title": "Le changement climatique doit être déclaré «urgence sanitaire mondiale», alertent les scientifiques du Lancet",
+          "link": "https://vert.eco/climat/le-changement-climatique-doit-etre-declare-urgence-sanitaire-mondiale-alertent-les-scientifiques-du-lancet/",
+          "published": "2026-10-28T11:10:52+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Près de 3 millions de décès liés à la chaleur entre 2016 et 2023, une insécurité alimentaire aggravée, des fumées d’incendies toujours plus meurtrière",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "I’ve been talking to MAGA supporters for years, and here’s why some are sticking with Trump — and others are not",
+          "link": "https://theconversation.com/ive-been-talking-to-maga-supporters-for-years-and-heres-why-some-are-sticking-with-trump-and-others-are-not-294771",
+          "published": "2026-10-28T12:22:00+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Despite the headwinds that have cratered support for Donald Trump – high prices, the Iran war, corruption – many of Trump’s MAGA loyalists still back",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "The hydrogen atom: the raw material of the universe barely exists on Earth – now we’ve made it in a flask",
+          "link": "https://theconversation.com/the-hydrogen-atom-the-raw-material-of-the-universe-barely-exists-on-earth-now-weve-made-it-in-a-flask-291590",
+          "published": "2026-10-28T12:11:28+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The hydrogen atom: the universe built almost everything with it. Synthetic chemists are only just learning to use it in the lab.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "What makes a winning environmental campaign? We studied six decades of activism to find out",
           "link": "https://theconversation.com/what-makes-a-winning-environmental-campaign-we-studied-six-decades-of-activism-to-find-out-294669",
           "published": "2026-10-27T19:10:29+00:00",
@@ -1717,17 +1774,6 @@
           "type": "news",
           "language": "en",
           "summary": "The most successful campaigns combine conviction with clear, specific goals.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "How should AI be regulated? Follow the harm",
-          "link": "https://theconversation.com/how-should-ai-be-regulated-follow-the-harm-292350",
-          "published": "2026-10-27T12:18:08+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Instead of trying to restrict AI technologies, regulations could focus on the harm the technology causes people and companies.",
           "image": null,
           "other_news": true
         },
@@ -1773,6 +1819,17 @@
           "language": "en",
           "summary": "Multilateralism has had a miserable few years. International institutions are under strain,  geopolitical rivalries are intensifying and governments s",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/26200756/colombia_2156_26-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Solar initiative brings power to clinics and jobs to displaced youths in Cameroon",
+          "link": "https://news.mongabay.com/2026/10/solar-initiative-brings-power-to-clinics-and-jobs-to-displaced-youths-in-cameroon/",
+          "published": "2026-10-26T15:52:53+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In Cameroon’s Northwest and Southwest regions, where a civil war has dragged on for 10 years, abundant sunshine has become a source of hope and opport",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/26131319/Solar-Bright-Future-Img-20-1-1-768x512.jpg",
           "other_news": true
         },
         {

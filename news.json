@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:21:04.621907+00:00",
+  "generated_at": "2026-10-28T18:52:47.006148+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -817,17 +817,6 @@
           "summary": "For 20 years, researchers snorkeled through rivers across the southern U.S., feeling along muddy bottoms for mussels. Many of the shells they pulled u",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/27053936/Shedd_048A1940_hpr-768x512.jpg",
           "other_news": true
-        },
-        {
-          "title": "Fungi now have a global conservation strategy",
-          "link": "https://news.mongabay.com/short-article/2026/10/fungi-now-have-a-global-conservation-strategy/",
-          "published": "2026-10-26T18:32:09+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "YEREVAN, Armenia — Like the dark spaces they often prefer, mushrooms, yeasts, and some 160,000 known species of fungi rest in the background of conser",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/26134949/SPUN-Indonesia-Bantimurung-Bulusaraung-National-Park-Garry-Lotulung-C-Garry-Lotulung-SPUN-768x512.jpg",
-          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -1021,8 +1010,8 @@
           "other_news": true
         },
         {
-          "title": "The risk of Atlantic current collapse is missing from almost all national climate plans – new study",
-          "link": "https://theconversation.com/the-risk-of-atlantic-current-collapse-is-missing-from-almost-all-national-climate-plans-new-study-295234",
+          "title": "Key Atlantic currents could collapse this century, but the risk is missing from almost all national climate plans – new study",
+          "link": "https://theconversation.com/key-atlantic-currents-could-collapse-this-century-but-the-risk-is-missing-from-almost-all-national-climate-plans-new-study-295234",
           "published": "2026-10-28T16:14:24+00:00",
           "source": "The Conversation UK",
           "type": "news",
@@ -1230,6 +1219,17 @@
           "other_news": true
         },
         {
+          "title": "UK budget 2026: Key climate and energy announcements",
+          "link": "https://www.carbonbrief.org/uk-budget-2026-key-climate-and-energy-announcements",
+          "published": "2026-10-28T18:16:58+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Chancellor John Healey has announced a “new course on energy” for the UK, focused on keeping bills low amid the&#8230;\nThe post UK budget 2026: Key cl",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Revealed: UK relied on £2bn of ‘questionable accounting’ to hit its climate-aid goal",
           "link": "https://www.carbonbrief.org/revealed-uk-relied-on-2bn-of-questionable-accounting-to-hit-its-climate-aid-goal",
           "published": "2026-10-28T07:00:00+00:00",
@@ -1303,17 +1303,6 @@
           "type": "news",
           "language": "en",
           "summary": "Countries will meet in Armenia this month to carry out the first global review of progress towards meeting key nature&#8230;\nThe post COP17: Tracking",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "COP17: Developed countries ‘fall far short’ of UN targets for nature finance",
-          "link": "https://www.carbonbrief.org/cop17-developed-countries-fall-far-short-of-un-targets-for-nature-finance",
-          "published": "2026-10-15T15:40:15+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "The amount of finance for nature delivered to date “falls far short” of what is needed to meet the UN’s&#8230;\nThe post COP17: Developed countries ‘fa",
           "image": null,
           "other_news": true
         },
@@ -1692,6 +1681,17 @@
           "other_news": true
         },
         {
+          "title": "Billy Barr, ermite moderne et vigie du climat dans les Rocheuses du Colorado",
+          "link": "https://www.lemonde.fr/international/article/2026/10/28/billy-barr-ermite-moderne-et-vigie-du-climat-dans-les-rocheuses-du-colorado_6801631_3210.html",
+          "published": "2026-10-28T19:30:02+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Installé en haute montagne, seul au monde dans un village fantôme, le biologiste américain s’est mis à mesurer l’enneigement en 1974 pour tromper l’en",
+          "image": "https://img.lemde.fr/2026/10/27/296/0/3553/1776/644/322/60/0/ccd8dbc_upload-1-0gbfaxepcuws-ap24092809149582.jpg",
+          "other_news": true
+        },
+        {
           "title": "Climat : 79 millions d’heures de travail potentielles perdues en France chaque année en raison de l’exposition aux chaleurs",
           "link": "https://www.lemonde.fr/planete/article/2026/10/28/climat-79-millions-d-heures-de-travail-potentielles-perdues-en-france-chaque-annee-en-raison-de-l-exposition-aux-chaleurs_6801529_3244.html",
           "published": "2026-10-28T05:45:09+01:00",
@@ -1824,14 +1824,14 @@
           "other_news": true
         },
         {
-          "title": "What makes a winning environmental campaign? We studied six decades of activism to find out",
-          "link": "https://theconversation.com/what-makes-a-winning-environmental-campaign-we-studied-six-decades-of-activism-to-find-out-294669",
-          "published": "2026-10-27T19:10:29+00:00",
-          "source": "The Conversation",
+          "title": "Suriname’s rich archaeological history may hold keys to conservation",
+          "link": "https://news.mongabay.com/2026/10/surinames-rich-archaeological-history-may-hold-keys-to-conservation/",
+          "published": "2026-10-28T18:37:56+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "The most successful campaigns combine conviction with clear, specific goals.",
-          "image": null,
+          "summary": "Suriname pledges to save its forests but neglects the ancient human history hidden within them, experts say.",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/27170358/h-watercolor-by-the-Indigenous-Wayana-banner-768x512.jpg",
           "other_news": true
         },
         {

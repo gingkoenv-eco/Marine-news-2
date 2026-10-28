@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:56:51.638012+00:00",
+  "generated_at": "2026-10-28T14:04:05.927773+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -98,17 +98,6 @@
           "language": "en",
           "summary": "The city of Orlando is known above all else for its world-class amusement parks. In fact, hundreds of thousands of people visit the city every year fr",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Corals keep a record of pollution, pointing to a new monitoring method: Study",
-          "link": "https://news.mongabay.com/2026/10/corals-keep-a-record-of-pollution-pointing-to-a-new-monitoring-method-study/",
-          "published": "2026-10-26T10:59:01+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Maui, an island in the isolated Hawaiian archipelago, isn’t in one of the world’s most heavily developed or polluted coral-reef regions. Yet even ther",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23204708/4_Lobe_coral_Greg_Asner_divephoto-768x512.png",
           "other_news": false
         }
       ],
@@ -601,6 +590,17 @@
           "other_news": false
         },
         {
+          "title": "Antarctic meltwater engine sputters as key ocean layer reverses",
+          "link": "https://oceanographicmagazine.com/news/antarctic-meltwater-engine-sputters-as-key-ocean-layer-reverses/",
+          "published": "2026-10-28T13:36:04+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A key Southern Ocean water layer has turned saltier, denser and deeper since 2016 as Antarctic meltwater input fell, research suggests, with possible",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Record-breaking ship that carried presidents and Marilyn Monroe to become world’s largest artificial reef",
           "link": "https://oceanographicmagazine.com/news/record-breaking-ship-that-carried-presidents-and-marilyn-monroe-to-become-worlds-largest-artificial-reef/",
           "published": "2026-10-27T11:34:45+00:00",
@@ -683,6 +683,17 @@
     "Other News": {
       "Plastic & Ocean Pollution": [
         {
+          "title": "Comment la désinformation climatique nous tue",
+          "link": "https://reporterre.net/Comment-la-desinformation-climatique-nous-tue",
+          "published": "2026-10-28T13:47:38+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les fake news des industries des énergies fossiles et leurs alliés économiques et politiques nous surexposent aux pollutions, au",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250910__hl_cschmitt_2874127__v1__highres__franceprotestseptember10bloquonstou_1_-b9076.jpg?1793195263",
+          "other_news": true
+        },
+        {
           "title": "Un groupe agroalimentaire soupçonné d'avoir pollué les captages d'eau potable dans les Deux-Sèvres",
           "link": "https://reporterre.net/Un-groupe-agroalimentaire-soupconne-d-avoir-pollue-les-captages-d-eau-potable-dans-les-Deux-Sevres",
           "published": "2026-10-26T11:08:52+00:00",
@@ -718,6 +729,17 @@
           "other_news": true
         },
         {
+          "title": "Stalemate on finance at COP17 nature talks exposes need for new sources",
+          "link": "https://www.climatechangenews.com/2026/10/28/stalemate-finance-cop17-nature-un-exposes-need-new-sources-yerevan/",
+          "published": "2026-10-28T13:04:32+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "At talks in Yerevan, the EU has proposed expanding the list of nature donors so that large emerging economies like China can help fund biodiversity pr",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Countries urged to ramp up “insufficient” nature policies at COP17",
           "link": "https://www.climatechangenews.com/2026/10/15/countries-ramp-up-insufficient-nature-policies-un-report-cop17-armenia/",
           "published": "2026-10-15T19:25:25+00:00",
@@ -726,6 +748,17 @@
           "language": "en",
           "summary": "A major UN report that will inform biodiversity negotiations in Armenia shows countries have made some progress but are still off track for a landmark",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "‘A proper seat at the table’: Lucy Mulenkei on Indigenous decision-making at the COP17 biodiversity summit",
+          "link": "https://news.mongabay.com/2026/10/a-proper-seat-at-the-table-lucy-mulenkei-on-indigenous-decision-making-at-the-cop17-biodiversity-summit/",
+          "published": "2026-10-28T13:41:39+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "YEREVAN, Armenia — Two years ago at the 2024 U.N. biodiversity conference (COP 16) in Cali, Colombia, a meeting room packed with people representing s",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28133853/WhatsApp-Image-2026-10-24-at-16.57.46-1-768x512.jpeg",
           "other_news": true
         },
         {
@@ -1514,17 +1547,6 @@
           "other_news": true
         },
         {
-          "title": "Editor’s Desk: Nepal’s disaster has laid bare the world’s adaptation accountability gap",
-          "link": "https://www.climatechangenews.com/2026/09/30/nepals-disaster-has-laid-bare-the-worlds-adaptation-accountability-gap/",
-          "published": "2026-09-30T10:27:45+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Knowledge about accelerating climate risks and how to adapt to them has grown over the past two decades - but it hasn't been put into practice fast en",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Attentat de Trappes : comment la « complaisance journalistique » diffuse les idées d'extrême droite",
           "link": "https://reporterre.net/Attentat-de-Trappes-Il-faut-penser-ce-qui-relie-les-actes-de-racisme-quotidien-et-ce-type-d-evenements-extremes",
           "published": "2026-10-28T06:00:00+00:00",
@@ -1624,17 +1646,6 @@
           "other_news": true
         },
         {
-          "title": "Biodiversité : chefs d'État et médias boudent la COP17, symptôme d'un désintérêt manifeste",
-          "link": "https://reporterre.net/Biodiversite-chefs-d-Etat-et-medias-boudent-la-COP17-symptome-d-un-desinteret-manifeste",
-          "published": "2026-10-20T06:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Chefs d'État absents, médias peu présents... La COP17 biodiversité s'est ouverte en Arménie dans une certaine indifférence. De n",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/2026-04-04_cha_gonzalez-5100-188fc.jpg?1792476002",
-          "other_news": true
-        },
-        {
           "title": "Lula secures fourth term in historic victory over far-right Flavio Bolsonaro",
           "link": "https://oceanographicmagazine.com/news/lula-secures-fourth-term-in-historic-victory-over-far-right-flavio-bolsonaro/",
           "published": "2026-10-26T16:48:29+00:00",
@@ -1642,17 +1653,6 @@
           "type": "news",
           "language": "en",
           "summary": "Indigenous leaders and climate campaigners breathe a sigh of relief following the defeat of Flávio Bolsonaro, a staunch ally of industry and an open c",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "UK’s climate ambition ‘in tatters’ as Jackdaw gasfield gets go ahead",
-          "link": "https://oceanographicmagazine.com/news/uk-s-climate-ambition-in-tatters-as-jackdaw-gasfield-get-go-ahead/",
-          "published": "2026-10-21T11:44:44+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "While the move had been widely anticipated, it has been met with dismay from campaigners who liken the decision to ‘climate vandalism’ and an apparent",
           "image": null,
           "other_news": true
         },

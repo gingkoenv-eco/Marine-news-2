@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:52:47.006148+00:00",
+  "generated_at": "2026-10-29T06:01:32.821351+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -193,6 +193,17 @@
           "other_news": false
         },
         {
+          "title": "Unlike anything I’ve seen: why this whale season has marine scientists puzzled",
+          "link": "https://theconversation.com/unlike-anything-ive-seen-why-this-whale-season-has-marine-scientists-puzzled-295074",
+          "published": "2026-10-29T04:04:06+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Researchers across the southern hemisphere have observed fewer migrating whales and more entanglements.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Could You Really Be Swallowed by a Whale?",
           "link": "https://oceanconservancy.org/blog/2026/10/16/swallowed-by-a-whale/",
           "published": "2026-10-16T20:25:30+00:00",
@@ -223,6 +234,17 @@
           "language": "en",
           "summary": "If you spend some time on the banks of the St. Lawrence River in Quebec, you just might catch a flash of white beneath the surface. A whale. A beluga",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Eradicating invasive bass gives endangered South African fish room to recover",
+          "link": "https://news.mongabay.com/short-article/2026/10/eradicating-invasive-bass-gives-endangered-south-african-fish-room-to-recover/",
+          "published": "2026-10-28T19:23:45+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "An ambitious effort to eradicate invasive spotted bass from South Africa’s Breekkrans River has unfolded about two hours north of Cape Town. Removing",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28192257/Breekkrans-River-Restoration_Jeremy-Shelton_4-768x512.jpg",
           "other_news": false
         },
         {
@@ -259,6 +281,17 @@
           "summary": "Mexico has cut the vaquita’s gillnet-free zone by 86 per cent, opening the Upper Gulf of California to the fishing gear that has pushed the porpoise t",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "Fishing cat rescue-and-release offers potential model for conservation in Bangladesh",
+          "link": "https://news.mongabay.com/short-article/2026/10/fishing-cat-rescue-and-release-offers-potential-model-for-conservation-in-bangladesh/",
+          "published": "2026-10-29T05:46:54+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A fishing cat found badly injured and malnourished in northern Bangladesh has been returned to the wild following months of intensive rehabilitation.",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29054627/61-768x512.jpg",
+          "other_news": false
         }
       ],
       "Nature-Based Solutions & Restoration": [
@@ -283,19 +316,6 @@
           "type": "news",
           "language": "en",
           "summary": "Some farmed fish rely on wild fish for feed but aquaculture should not compromise food security of vulnerable communities.",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Polar & Reef Ecosystems & Resilience": [
-        {
-          "title": "The deep ocean’s protection against warming started to change in 2016. Nobody knows what happens now",
-          "link": "https://theconversation.com/the-deep-oceans-protection-against-warming-started-to-change-in-2016-nobody-knows-what-happens-now-293088",
-          "published": "2026-10-28T10:10:33+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Melting sea ice protects the deep ocean from warming – but when sea ice levels declined, the system began to break down.",
           "image": null,
           "other_news": false
         }
@@ -327,6 +347,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Record-breaking high tides spark chaos – and kayak commutes – across California",
+          "link": "https://www.theguardian.com/us-news/2026/oct/28/california-extreme-weather-high-tides",
+          "published": "2026-10-28T22:22:39+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Seawater surges into low-lying communities from San Diego to San Francisco Bay Area, submerging streets, homes and businessesHistoric high tides have",
+          "image": "https://i.guim.co.uk/img/media/b20120c4b553d362873c54211e1576d96863c482/463_0_4626_3701/master/4626.jpg?width=140&quality=85&auto=format&fit=max&s=496f2c81ac0f2a0381f611dead0b776d",
+          "other_news": false
+        },
         {
           "title": "Lights out: the island that goes dark to save young seabirds – in pictures",
           "link": "https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe",
@@ -658,17 +689,6 @@
           "other_news": false
         },
         {
-          "title": "De nouveaux oursons observés dans les Pyrénées, New York interdit les calèches dans Central Park : les bonnes nouvelles de la semaine",
-          "link": "https://vert.eco/culture/de-nouveaux-oursons-observes-dans-les-pyrenees-new-york-interdit-les-caleches-dans-central-park-les-bonnes-nouvelles-de-la-semaine/",
-          "published": "2026-10-26T10:00:43+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le Brésil enregistre son plus faible niveau de déforestation depuis près de quarante ans, les chalutiers géants bientôt interdits près des côtes dans",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Autistic children come to A&E in mental health crisis from as young as eight",
           "link": "https://theconversation.com/autistic-children-come-to-aande-in-mental-health-crisis-from-as-young-as-eight-292292",
           "published": "2026-10-28T13:49:09+00:00",
@@ -676,17 +696,6 @@
           "type": "news",
           "language": "en",
           "summary": "The data showed autistic children were seeking help for suicidal thoughts in A&amp;E at significantly younger ages than their non-autistic peers.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "The phantom lighthouse: new research explains one of Australia’s strangest illusions",
-          "link": "https://theconversation.com/the-phantom-lighthouse-new-research-explains-one-of-australias-strangest-illusions-294683",
-          "published": "2026-10-27T19:11:43+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Visitors to Lady Elliot Island report seeing a lighthouse far out to sea at night – and scientists have at last figured out why.",
           "image": null,
           "other_news": false
         },
@@ -699,6 +708,17 @@
           "language": "en",
           "summary": "Most Americans have likely never heard of the United States Integrated Ocean Observing System, or IOOS. Yet if you have ever checked conditions before",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Fishers in eastern Indonesia struggle as rough seas keep them ashore",
+          "link": "https://news.mongabay.com/2026/10/fishers-in-eastern-indonesia-struggle-as-rough-seas-keep-them-ashore/",
+          "published": "2026-10-29T05:19:57+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Fishers in the east Indonesian Maluku Islands say rough seas are keeping them ashore and shrinking their catches as El Niño builds, according to early",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29045302/WhatsApp-Image-2026-10-22-at-09.37.32-768x512.jpeg",
           "other_news": false
         },
         {
@@ -819,30 +839,6 @@
           "other_news": true
         }
       ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "Parents have one of Australia’s most important jobs, so why don’t we have policy for them?",
-          "link": "https://theconversation.com/parents-have-one-of-australias-most-important-jobs-so-why-dont-we-have-policy-for-them-293334",
-          "published": "2026-10-28T04:49:43+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Australia invests billions in children annually, but we still struggle to keep them safe, happy and healthy. It’s time to include the missing puzzle p",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Most New Zealanders worry about AI’s risks, even as many expect to use it – new survey",
-          "link": "https://theconversation.com/most-new-zealanders-worry-about-ais-risks-even-as-many-expect-to-use-it-new-survey-294573",
-          "published": "2026-10-27T21:13:25+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "As experts propose a new public institute to guide AI policy,  national survey findings show high concern among Māori and Asian people about how their",
-          "image": null,
-          "other_news": true
-        }
-      ],
       "Other Marine News": [
         {
           "title": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
@@ -941,17 +937,6 @@
           "language": "en",
           "summary": "Another area of low pressure will pass close to the north-west UK with a Met Office yellow wind warning issued for Tuesday.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03a/live/f0799ce0-d07c-11f1-a4ba-351760cfea6a.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
-          "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-26T04:41:36+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "An amber wind warning has now expired after severe weather sweeps across the UK.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e48f/live/1f535ba0-d10e-11f1-a701-fddedf244c16.jpg",
           "other_news": true
         },
         {
@@ -1681,9 +1666,31 @@
           "other_news": true
         },
         {
+          "title": "Les efforts mondiaux de restauration de la nature jugés « encourageants » mais toujours très insuffisants",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/29/les-efforts-mondiaux-de-restauration-de-la-nature-juges-encourageants-mais-toujours-tres-insuffisants_6802123_3244.html",
+          "published": "2026-10-29T07:00:08+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Un rapport de l’ONU montre que 252 millions d’hectares font actuellement l’objet d’actions de restauration dans le monde. Une surface importante, tout",
+          "image": "https://img.lemde.fr/2026/10/22/479/0/5600/2800/644/322/60/0/52918c8_ftp-1-ul0r8egllngd-afp-d42v663.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Le changement climatique, enjeu majeur pour le patrimoine culturel à l’horizon 2050",
+          "link": "https://www.lemonde.fr/culture/article/2026/10/29/le-changement-climatique-enjeu-majeur-pour-le-patrimoine-culturel-a-l-horizon-2050_6802014_3246.html",
+          "published": "2026-10-29T05:30:21+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les châteaux de la Loire, le Mont-Saint-Michel, le fort Saint-André à Villeneuve-lès-Avignon ou encore l’abbaye de Fontfroide dans l’Aude… Trois étude",
+          "image": "https://img.lemde.fr/2026/10/16/62/0/2756/1378/644/322/60/0/81af02c_upload-1-fieshdmlkw9o-20261016nrc1976.jpg",
+          "other_news": true
+        },
+        {
           "title": "Billy Barr, ermite moderne et vigie du climat dans les Rocheuses du Colorado",
           "link": "https://www.lemonde.fr/international/article/2026/10/28/billy-barr-ermite-moderne-et-vigie-du-climat-dans-les-rocheuses-du-colorado_6801631_3210.html",
-          "published": "2026-10-28T19:30:02+01:00",
+          "published": "2026-10-28T19:30:01+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1758,14 +1765,14 @@
           "other_news": true
         },
         {
-          "title": "« Le désir de dissimuler la science “indésirable” en dit long sur la pente trumpiste que dévale la vie politique française »",
-          "link": "https://www.lemonde.fr/idees/article/2026/10/25/le-desir-de-dissimuler-la-science-indesirable-en-dit-long-sur-la-pente-trumpiste-que-devale-la-vie-politique-francaise_6800036_3232.html",
-          "published": "2026-10-25T05:30:28+01:00",
-          "source": "Le Monde Planète",
+          "title": "Des centaines de procès et des peines qui s’alourdissent : les chiffres inédits sur la répression judiciaire des militants écolos",
+          "link": "https://vert.eco/rapports-de-force/des-centaines-de-proces-et-des-peines-qui-salourdissent-les-chiffres-inedits-sur-la-repression-judiciaire-des-militants-ecolos/",
+          "published": "2026-10-29T05:00:00+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Dans sa chronique, Stéphane Foucart, journaliste au « Monde » se penche sur une « note scientifique » faisant état de fortes préoccupations quant aux",
-          "image": "https://img.lemde.fr/2026/10/24/763/0/5755/2877/644/322/60/0/7e54924_upload-1-krpytkipf88x-hanslucas-hl-xbouzas-2979686.jpg",
+          "summary": "Créée par le Mouvement de soutien aux défenseur·ses de l’environnement, une nouvelle plateforme répertorie les procès intentés aux militant·es écologi",
+          "image": null,
           "other_news": true
         },
         {
@@ -1776,6 +1783,28 @@
           "type": "news",
           "language": "fr",
           "summary": "Près de 3 millions de décès liés à la chaleur entre 2016 et 2023, une insécurité alimentaire aggravée, des fumées d’incendies toujours plus meurtrière",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Victorian state election: what’s at stake for treaty and Indigenous self-determination?",
+          "link": "https://theconversation.com/victorian-state-election-whats-at-stake-for-treaty-and-indigenous-self-determination-294873",
+          "published": "2026-10-28T23:03:13+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Victoria has made significant progress in advancing Indigenous rights. However, those achievements sit precariously as the state heads to an election",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Climate change is killing the plants of Uluṟu-Kata Tjuṯa. Aṉangu traditional owners are concerned",
+          "link": "https://theconversation.com/climate-change-is-killing-the-plants-of-ulur-u-kata-tju-a-an-angu-traditional-owners-are-concerned-295240",
+          "published": "2026-10-28T20:09:30+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Extreme temperatures combined with withering drought mean plants and animals on Aṉangu land are struggling to bounce back.",
           "image": null,
           "other_news": true
         },
@@ -1813,14 +1842,25 @@
           "other_news": true
         },
         {
-          "title": "The hydrogen atom: the raw material of the universe barely exists on Earth – now we’ve made it in a flask",
-          "link": "https://theconversation.com/the-hydrogen-atom-the-raw-material-of-the-universe-barely-exists-on-earth-now-weve-made-it-in-a-flask-291590",
-          "published": "2026-10-28T12:11:28+00:00",
-          "source": "The Conversation",
+          "title": "‘Historic win’: Australian state approves national koala park despite controversial funding",
+          "link": "https://news.mongabay.com/2026/10/historic-win-australian-state-approves-national-koala-park-despite-controversial-funding/",
+          "published": "2026-10-29T01:28:15+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "The hydrogen atom: the universe built almost everything with it. Synthetic chemists are only just learning to use it in the lab.",
-          "image": null,
+          "summary": "SYDNEY — After more than a decade of campaigning, Australian conservation and community groups celebrated a historic win on Oct. 23 after legislation",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28133825/kenny-van-roosbroek-CG2AtzDOLFg-unsplash-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Netherlands pledges $500 million to help conserve tropical forests",
+          "link": "https://news.mongabay.com/short-article/2026/10/netherlands-pledges-500-million-to-help-conserve-tropical-forests/",
+          "published": "2026-10-28T22:47:09+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Tropical Forest Forever Facility (TFFF), which was created to fund long-term conservation of tropical forests, recently received a $500-million pl",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28223755/Mountain_gorilla_Gorilla_beringei_beringei_three_2-year-olds-768x512.jpg",
           "other_news": true
         },
         {
@@ -1876,28 +1916,6 @@
           "language": "en",
           "summary": "CEBU CITY, Philippines — At a coffee meeting in 2007, Philippine environmental lawyer Rose Liza Eisma-Osorio and four other law professors in Cebu Cit",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/27140336/A-turtle-at-the-Tanon-Strait.-Photo-Courtesy-of-Tanon-Strait-Philippines-1-768x512.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "Who’s implementing EUDR?",
-          "link": "https://news.mongabay.com/specials/2026/10/whos-implementing-eudr/",
-          "published": "2026-10-27T02:44:35+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "As the EU’s deforestation regulation (EUDR) approaches enforcement after multiple delays, Mongabay’s Solutions Desk is examining how industries are wo",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/12/05084203/6.-foto_madeira_Image-courtesy-of-Marizilda-Cruppe_Greenpeace-768x512.png",
-          "other_news": true
-        },
-        {
-          "title": "A rare victory for multilateralism in the fight against environmental crime (commentary)",
-          "link": "https://news.mongabay.com/2026/10/a-rare-victory-for-multilateralism-in-the-fight-against-environmental-crime-commentary/",
-          "published": "2026-10-26T20:20:26+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Multilateralism has had a miserable few years. International institutions are under strain,  geopolitical rivalries are intensifying and governments s",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/26200756/colombia_2156_26-768x512.jpg",
           "other_news": true
         }
       ]

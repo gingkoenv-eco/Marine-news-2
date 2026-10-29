@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T14:25:42.476224+00:00",
+  "generated_at": "2026-10-29T18:28:05.763063+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -599,17 +599,6 @@
           "other_news": false
         },
         {
-          "title": "Ils accrochent des cerfs volants à leur bateau pour protéger des oiseaux marins en danger d'exctinction",
-          "link": "https://reporterre.net/Pour-reduire-les-captures-d-oiseaux-marins-des-pecheurs-testent-des-cerfs-volants",
-          "published": "2026-10-21T15:24:26+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Des dizaines de milliers d'oiseaux marins meurent chaque année à cause d'engins de pêche. Pour réduire ces captures accidentelle",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/reporterre_capferret_dejong-17_resized-d751e.jpg?1792596582",
-          "other_news": false
-        },
-        {
           "title": "Rare footage of barreleye fish with see-through head",
           "link": "https://oceanographicmagazine.com/news/rare-footage-of-barreleye-fish-with-see-through-head/",
           "published": "2026-10-29T10:59:01+00:00",
@@ -850,6 +839,17 @@
       ],
       "Marine Protected Areas & Policy": [
         {
+          "title": "After three years of relentless reform, what lies beyond the election for education?",
+          "link": "https://theconversation.com/after-three-years-of-relentless-reform-what-lies-beyond-the-election-for-education-293794",
+          "published": "2026-10-29T17:26:26+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Sweeping changes to the curriculum, NCEA and school governance have divided the education sector, all while major challenges remain overlooked.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Why Donald Trump’s foreign policy could cost Republicans in the midterm elections",
           "link": "https://theconversation.com/why-donald-trumps-foreign-policy-could-cost-republicans-in-the-midterm-elections-295382",
           "published": "2026-10-29T13:18:56+00:00",
@@ -962,6 +962,28 @@
           "other_news": true
         },
         {
+          "title": "BBC Inside Science",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-29T17:00:00+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Time is running out for one of the most ambitious environmental pledges in history.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Le condor est de retour, mais qui a eu son mot à dire ?",
+          "link": "https://theconversation.com/le-condor-est-de-retour-mais-qui-a-eu-son-mot-a-dire-295220",
+          "published": "2026-10-29T17:21:11+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Quand la conservation touche les populations locales, qui paie et qui a son mot à dire&nbsp;? Le rétablissement du condor de Californie éclaire les dé",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Effacement électrique : la Cour des comptes dénonce une politique coûteuse et inefficace",
           "link": "https://theconversation.com/effacement-electrique-la-cour-des-comptes-denonce-une-politique-couteuse-et-inefficace-294262",
           "published": "2026-10-29T09:35:54+00:00",
@@ -1013,17 +1035,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Une étude inédite montre que l’implantation d’éoliennes est associée à une hausse locale du vote d’extrême droite dès le dépôt du permis, avant même l",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Comment des crottes de brebis ou du crottin de chevaux sauvages peuvent modifier un paysage",
-          "link": "https://theconversation.com/comment-des-crottes-de-brebis-ou-du-crottin-de-chevaux-sauvages-peuvent-modifier-un-paysage-290388",
-          "published": "2026-10-05T12:17:05+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "En Europe, les troupeaux d’élevage ont en grande partie remplacés les herbivores sauvages. Ce changement impacte tout l’écosystème pâturé.",
           "image": null,
           "other_news": true
         },
@@ -1138,17 +1149,6 @@
           "other_news": true
         },
         {
-          "title": "Phoebe Giannisi’s eco-poetry challenges the idea that humans are separate from nature",
-          "link": "https://theconversation.com/phoebe-giannisis-eco-poetry-challenges-the-idea-that-humans-are-separate-from-nature-294214",
-          "published": "2026-10-19T16:05:16+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "What cicadas, shepherds and an ancient Greek monster reveal about our place in nature.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Where humans build, mosquitoes follow – bringing dengue, West Nile and other diseases with them",
           "link": "https://theconversation.com/where-humans-build-mosquitoes-follow-bringing-dengue-west-nile-and-other-diseases-with-them-295000",
           "published": "2026-10-27T12:17:31+00:00",
@@ -1237,6 +1237,17 @@
           "other_news": true
         },
         {
+          "title": "Experts: What China wants from the COP31 climate talks",
+          "link": "https://www.carbonbrief.org/experts-what-china-wants-from-the-cop31-climate-talks",
+          "published": "2026-10-29T14:25:40+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "With the COP31 climate summit in Turkey looming, all eyes are on China to see what the country will push&#8230;\nThe post Experts: What China wants fro",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Analysis: China’s clean-tech exports in 2026 to avoid as much CO2 as Brazil emits in a year",
           "link": "https://www.carbonbrief.org/analysis-chinas-clean-tech-exports-in-2026-to-avoid-as-much-co2-as-brazil-emits-in-a-year",
           "published": "2026-10-29T07:51:24+00:00",
@@ -1314,13 +1325,13 @@
           "other_news": true
         },
         {
-          "title": "COP17: Which countries have released new pledges to tackle nature loss?",
-          "link": "https://www.carbonbrief.org/cop17-which-countries-have-released-new-pledges-to-tackle-nature-loss",
-          "published": "2026-10-16T11:54:59+00:00",
-          "source": "Carbonbrief",
+          "title": "Editor’s Desk: COP reform is happening quietly, behind the headlines",
+          "link": "https://www.climatechangenews.com/2026/10/29/editors-desk-cop-reform-is-happening-quietly-behind-the-headlines/",
+          "published": "2026-10-29T17:51:12+00:00",
+          "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Some 58% of countries have met a UN call to submit new pledges on addressing nature loss – two years&#8230;\nThe post COP17: Which countries have relea",
+          "summary": "It may seem like little has changed in how the UN climate summits are run, but there's been a gradual shift as action becomes as important as negotiat",
           "image": null,
           "other_news": true
         },
@@ -1578,14 +1589,14 @@
           "other_news": true
         },
         {
-          "title": "As COP31 co-host, Australia should make its polluters pay for climate damage",
-          "link": "https://www.climatechangenews.com/2026/10/02/as-cop31-co-host-australia-should-make-its-polluters-pay-for-climate-damage/",
-          "published": "2026-10-02T06:44:49+00:00",
-          "source": "Climate change news",
+          "title": "Restauration des écosystèmes : le monde doit tripler ses efforts",
+          "link": "https://reporterre.net/Restauration-des-ecosystemes-le-monde-doit-tripler-ses-efforts",
+          "published": "2026-10-29T15:15:33+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "With UN climate funds running short on cash, now is the time to start taxing the companies whose emissions are driving harm in the Pacific and other v",
-          "image": null,
+          "language": "fr",
+          "summary": "Les efforts mondiaux pour restaurer la nature restent très insuffisants. Selon un rapport publié jeudi 29 octobre par l'Organisa",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/restauranthumide-0ca2c.jpg?1793286935",
           "other_news": true
         },
         {
@@ -1842,6 +1853,17 @@
           "other_news": true
         },
         {
+          "title": "China’s record-breaking exports of clean tech are making a big dent in emissions, report says",
+          "link": "https://news.mongabay.com/short-article/2026/10/chinas-record-breaking-exports-of-clean-tech-are-making-a-big-dent-in-emissions-report-says/",
+          "published": "2026-10-29T15:51:49+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "BANGKOK (AP) — China is exporting a record amount of clean energy technology and that is making a dent in global emissions. Interest in renewables has",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29154834/AP26301615747100-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "Investigations into Singapore palm oil firm find family ties to Borneo deforesters",
           "link": "https://news.mongabay.com/2026/10/investigations-into-singapore-palm-oil-firm-find-family-ties-to-borneo-deforesters/",
           "published": "2026-10-29T13:57:08+00:00",
@@ -1905,17 +1927,6 @@
           "language": "en",
           "summary": "It is a peculiar irony: as technology reaches ever deeper into Earth’s living systems, the primal sonic expressions of the natural world—wind, water,",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28164909/1-Krause-%40-St.-Vincent-Is-FL-2003-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Countries take first step toward global crackdown on environmental crime",
-          "link": "https://news.mongabay.com/short-article/2026/10/countries-take-first-step-toward-global-crackdown-on-environmental-crime/",
-          "published": "2026-10-27T18:30:38+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Negotiations are set to begin on the world’s first international protocol to fight environmental crime, including wildlife trafficking, illegal defore",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/07/29073157/tigers-drink-water-1-768x512.jpg",
           "other_news": true
         }
       ]

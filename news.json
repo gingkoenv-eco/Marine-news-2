@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T06:01:32.821351+00:00",
+  "generated_at": "2026-10-29T13:03:10.043426+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -35,19 +35,6 @@
           "type": "news",
           "language": "en",
           "summary": "A new Conservation International report finds harmful subsidies, including those driving overfishing and reef damage, leave a hidden bill of up to $24",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Polar & Reef Ecosystems & Resilience": [
-        {
-          "title": "EU’s new Arctic strategy signals shift in its geopolitical mindset",
-          "link": "https://theconversation.com/eus-new-arctic-strategy-signals-shift-in-its-geopolitical-mindset-294978",
-          "published": "2026-10-28T13:46:02+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The EU has unveiled its first Arctic strategy since Russia’s invasion of Ukraine.",
           "image": null,
           "other_news": false
         }
@@ -182,17 +169,6 @@
           "other_news": false
         },
         {
-          "title": "Protecting 30% of ocean will take until 2289 at current rate, Greenpeace warns",
-          "link": "https://oceanographicmagazine.com/news/protecting-30-of-ocean-will-take-until-2289-at-current-rate-greenpeace-warns/",
-          "published": "2026-10-22T14:39:23+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "As delegates assemble in Armenia for UN biodiversity talks at CBD COP17, a new report argues for a network of High Seas MPAs to create migratory safe",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Unlike anything I’ve seen: why this whale season has marine scientists puzzled",
           "link": "https://theconversation.com/unlike-anything-ive-seen-why-this-whale-season-has-marine-scientists-puzzled-295074",
           "published": "2026-10-29T04:04:06+00:00",
@@ -260,17 +236,6 @@
         }
       ],
       "Sustainable Fisheries": [
-        {
-          "title": "Kipper cream or fish in custard? A century of magazine recipes reveals how Britain’s seafood tastes have narrowed",
-          "link": "https://theconversation.com/kipper-cream-or-fish-in-custard-a-century-of-magazine-recipes-reveals-how-britains-seafood-tastes-have-narrowed-293034",
-          "published": "2026-10-19T15:43:01+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Britain’s limited appetite for fish is often assumed to be a long-standing cultural norm. Recipes published in a Good Housekeeping suggest otherwise.",
-          "image": null,
-          "other_news": false
-        },
         {
           "title": "Mexico ‘turns its back’ on remaining vaquita with new fishing rules",
           "link": "https://oceanographicmagazine.com/news/mexico-turns-its-back-on-its-remaining-vaquita-with-new-fishing-rules/",
@@ -343,6 +308,17 @@
           "language": "en",
           "summary": "California has created its first new marine protected areas in over a decade, adding around 15,000 acres, protecting kelp forests and giving Chumash t",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Pemba’s new marine protected areas show the power of collaboration to meet 30×30 goal",
+          "link": "https://news.mongabay.com/2026/10/pembas-new-marine-protected-areas-show-the-power-of-collaboration-to-meet-30x30-goal/",
+          "published": "2026-10-29T07:45:46+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Omar Hamad Salim, like many other fishermen from Tumbe village, relies on the ocean for food, an income and a way of life. A number of years ago, he a",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29063925/DSC04884_AdrianPonsardWCS-scaled-1-768x512.jpg",
           "other_news": false
         }
       ],
@@ -634,6 +610,17 @@
           "other_news": false
         },
         {
+          "title": "Rare footage of barreleye fish with see-through head",
+          "link": "https://oceanographicmagazine.com/news/rare-footage-of-barreleye-fish-with-see-through-head/",
+          "published": "2026-10-29T10:59:01+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "MBARI scientists aboard the David Packard have filmed a rare barreleye fish with a transparent head in 4K and 3D, only the eleventh sighting in nearly",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Antarctic meltwater engine sputters as key ocean layer reverses",
           "link": "https://oceanographicmagazine.com/news/antarctic-meltwater-engine-sputters-as-key-ocean-layer-reverses/",
           "published": "2026-10-28T13:36:04+00:00",
@@ -678,13 +665,13 @@
           "other_news": false
         },
         {
-          "title": "En meeting à Orléans, Marine Le Pen ne veut pas «refaire la France d’avant»… mais rêve de rouvrir des puits de pétrole",
-          "link": "https://vert.eco/chaleurs-actuelles/a-orleans-marine-le-pen-jure-ne-pas-vouloir-refaire-la-france-davant-tout-en-promettant-dabroger-la-loi-interdisant-la-recherche-de-petrole/",
-          "published": "2026-10-26T11:11:40+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Pan’s Labyrinth at 20: a powerful, symbolic tribute to Spanish resilience in the face of fascism",
+          "link": "https://theconversation.com/pans-labyrinth-at-20-a-powerful-symbolic-tribute-to-spanish-resilience-in-the-face-of-fascism-295387",
+          "published": "2026-10-29T12:29:13+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Dimanche, la candidate d’extrême droite a officiellement lancé sa quatrième candidature à l’élection présidentielle. Promettant de recourir au référen",
+          "language": "en",
+          "summary": "Censorship, and the rebellious ways art can respond to it through potent symbolism, are central to the film.",
           "image": null,
           "other_news": false
         },
@@ -749,6 +736,28 @@
     "Other News": {
       "Plastic & Ocean Pollution": [
         {
+          "title": "Serious pollution by water industry remains high despite £5bn investment",
+          "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-29T12:08:01+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/934c/live/6b157700-d396-11f1-b490-07d78ce4b8e5.jpg",
+          "other_news": true
+        },
+        {
+          "title": "South West Water given lowest environmental rating",
+          "link": "https://www.bbc.co.uk/news/articles/c574p7r0xnvpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-29T12:56:58+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The water firm is performing \"significantly below target\" for pollution, the Environment Agency says.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e805/live/2da7e170-51db-11f0-b293-81e1c23535ff.jpg",
+          "other_news": true
+        },
+        {
           "title": "Les fausses informations nous exposent aux pollutions, aux maladies, aux incendies",
           "link": "https://reporterre.net/Comment-la-desinformation-climatique-nous-tue",
           "published": "2026-10-28T13:47:38+00:00",
@@ -781,6 +790,17 @@
           "language": "en",
           "summary": "In 2022, I helped push through the international agreement to protect biodiversity. I know there is always a reason to stall, but ministers at Cop17 m",
           "image": "https://i.guim.co.uk/img/media/106b96be9a0dbcdf3cb19c187ca4e2b68dbc2ed7/0_0_1616_1293/master/1616.jpg?width=140&quality=85&auto=format&fit=max&s=673169024f5606b33d32d33eacededb9",
+          "other_news": true
+        },
+        {
+          "title": "Mini-gardens for bees on bus stop roofs approved",
+          "link": "https://www.bbc.co.uk/news/articles/c62e9vynyvdpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-29T11:58:00+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Living Roofs aimed at boosting biodiversity in urban areas will be installed under a new bus stop contract.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/395f/live/d4ff77d0-cee9-11f1-bdca-23c64447299f.jpg",
           "other_news": true
         },
         {
@@ -817,6 +837,17 @@
           "other_news": true
         },
         {
+          "title": "‘Design conservation with those who will live with it’: 30 by 30 in Africa",
+          "link": "https://news.mongabay.com/2026/10/design-conservation-with-those-who-will-live-with-it-30-by-30-in-africa/",
+          "published": "2026-10-29T08:58:34+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Perhaps the best-known target of the Kunming-Montreal Global Biodiversity Framework (GBF) is what’s commonly known as “30 by 30,” the aim to bring at",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29083339/DSC05020_AdrianPonsardWCS-1-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "‘A proper seat at the table’: Lucy Mulenkei on Indigenous decision-making at the COP17 biodiversity summit",
           "link": "https://news.mongabay.com/2026/10/a-proper-seat-at-the-table-lucy-mulenkei-on-indigenous-decision-making-at-the-cop17-biodiversity-summit/",
           "published": "2026-10-28T13:41:39+00:00",
@@ -826,16 +857,18 @@
           "summary": "YEREVAN, Armenia — Two years ago at the 2024 U.N. biodiversity conference (COP 16) in Cali, Colombia, a meeting room packed with people representing s",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28133853/WhatsApp-Image-2026-10-24-at-16.57.46-1-768x512.jpeg",
           "other_news": true
-        },
+        }
+      ],
+      "Marine Protected Areas & Policy": [
         {
-          "title": "Five new mussel species reveal how much biodiversity US rivers still conceal",
-          "link": "https://news.mongabay.com/2026/10/five-new-mussel-species-reveal-how-much-biodiversity-us-rivers-still-conceal/",
-          "published": "2026-10-27T11:39:31+00:00",
-          "source": "Mongabay Marine",
+          "title": "Federal policy helped widen rural America’s fresh food gap, but a 90-year-old law could help close it",
+          "link": "https://theconversation.com/federal-policy-helped-widen-rural-americas-fresh-food-gap-but-a-90-year-old-law-could-help-close-it-290124",
+          "published": "2026-10-29T12:23:06+00:00",
+          "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "For 20 years, researchers snorkeled through rivers across the southern U.S., feeling along muddy bottoms for mussels. Many of the shells they pulled u",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/27053936/Shedd_048A1940_hpr-768x512.jpg",
+          "summary": "A food systems researcher shows how trucking deregulation and lax antitrust enforcement let big grocery chains grow as rural distribution thinned.",
+          "image": null,
           "other_news": true
         }
       ],
@@ -929,14 +962,14 @@
           "other_news": true
         },
         {
-          "title": "Storm Boelo clears but more wind and rain bear down on UK",
-          "link": "https://www.bbc.co.uk/weather/articles/cqwy7w8dryrxo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-26T11:21:24+00:00",
-          "source": "BBC Ocean & Marine",
+          "title": "Effacement électrique : la Cour des comptes dénonce une politique coûteuse et inefficace",
+          "link": "https://theconversation.com/effacement-electrique-la-cour-des-comptes-denonce-une-politique-couteuse-et-inefficace-294262",
+          "published": "2026-10-29T09:35:54+00:00",
+          "source": "The Conversation FR",
           "type": "news",
-          "language": "en",
-          "summary": "Another area of low pressure will pass close to the north-west UK with a Met Office yellow wind warning issued for Tuesday.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03a/live/f0799ce0-d07c-11f1-a4ba-351760cfea6a.jpg",
+          "language": "fr",
+          "summary": "La Cour des comptes a récemment publié un bilan sévère, qui pointe de nombreux dysfonctionnements du dispositif qui existait jusqu’en 2026.",
+          "image": null,
           "other_news": true
         },
         {
@@ -957,7 +990,7 @@
           "source": "The Conversation FR",
           "type": "news",
           "language": "fr",
-          "summary": "Depuis 2021, la plus mauvaise performance entre consommation d’énergie primaire et émissions de gaz à effet de serre définit la classe de DPE d’un log",
+          "summary": "Depuis 2021, la plus mauvaise performance en matière de consommation d’énergie primaire et d’émissions de gaz à effet de serre définit la classe du di",
           "image": null,
           "other_news": true
         },
@@ -1204,6 +1237,17 @@
           "other_news": true
         },
         {
+          "title": "Analysis: China’s clean-tech exports in 2026 to avoid as much CO2 as Brazil emits in a year",
+          "link": "https://www.carbonbrief.org/analysis-chinas-clean-tech-exports-in-2026-to-avoid-as-much-co2-as-brazil-emits-in-a-year",
+          "published": "2026-10-29T07:51:24+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "China’s exports in 2026 of clean-energy technologies, such as solar panels, batteries and electric vehicles, are on track to cut&#8230;\nThe post Analy",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "UK budget 2026: Key climate and energy announcements",
           "link": "https://www.carbonbrief.org/uk-budget-2026-key-climate-and-energy-announcements",
           "published": "2026-10-28T18:16:58+00:00",
@@ -1281,13 +1325,13 @@
           "other_news": true
         },
         {
-          "title": "COP17: Tracking progress towards the UN’s 2030 nature targets",
-          "link": "https://interactive.carbonbrief.org/nature-targets-2030-progress/",
-          "published": "2026-10-15T16:07:42+00:00",
-          "source": "Carbonbrief",
+          "title": "From Australia to Chile, our cities are driving a green investment boom",
+          "link": "https://www.climatechangenews.com/2026/10/29/from-australia-to-chile-our-cities-are-driving-a-green-investment-boom/",
+          "published": "2026-10-29T08:43:50+00:00",
+          "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Countries will meet in Armenia this month to carry out the first global review of progress towards meeting key nature&#8230;\nThe post COP17: Tracking",
+          "summary": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities fo",
           "image": null,
           "other_news": true
         },
@@ -1545,14 +1589,14 @@
           "other_news": true
         },
         {
-          "title": "What’s on the climate calendar for October 2026?",
-          "link": "https://www.climatechangenews.com/2026/10/01/whats-on-the-climate-calendar-for-october-2026/",
-          "published": "2026-10-01T16:46:03+00:00",
-          "source": "Climate change news",
+          "title": "Cigéo : à Bure, la poubelle nucléaire prend l'eau (ou ce qu'il en reste)",
+          "link": "https://reporterre.net/Cigeo-a-Bure-la-poubelle-nucleaire-prend-l-eau-ou-ce-qu-il-en-reste",
+          "published": "2026-10-29T07:10:38+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Brazilians are heading to the polls, diplomats are gathering in the Pacific for pre-COP, and it's crunch time for the IPCC\nThe post What&#8217;s on th",
-          "image": null,
+          "language": "fr",
+          "summary": "Alors que la Meuse connaît une sécheresse et des restrictions d'eau, le projet d'enfouissement de déchets radioactifs prévu à Bu",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/reporterre-eau-eabe2.jpg?1793257883",
           "other_news": true
         },
         {
@@ -1633,28 +1677,6 @@
           "other_news": true
         },
         {
-          "title": "Climat : le monde se dirige vers +2,6 °C d'ici 2100, alerte l'ONU",
-          "link": "https://reporterre.net/Climat-le-monde-se-dirige-vers-un-rechauffement-de-2-6oC-d-ici-2100-alerte-l-ONU",
-          "published": "2026-10-21T13:08:48+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les engagements climatiques actuels placent le monde sur une trajectoire de réchauffement de 2,6 °C d'ici la fin du siècle. Un c",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/13760-c70c4.jpg?1792588133",
-          "other_news": true
-        },
-        {
-          "title": "Randonnée, trail... « On conserve un regard très bourgeois et blanc sur la nature »",
-          "link": "https://reporterre.net/Randonnee-trail-On-conserve-un-regard-tres-bourgeois-et-blanc-sur-la-nature",
-          "published": "2026-10-21T07:46:07+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Élitisme, performance : alors que le nombre de randonneurs a doublé en dix ans, le journaliste Mathias Riquier analyse, dans son",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/hl_ecabane_3096406_resized-cb6ab.jpg?1792568770",
-          "other_news": true
-        },
-        {
           "title": "Lula secures fourth term in historic victory over far-right Flavio Bolsonaro",
           "link": "https://oceanographicmagazine.com/news/lula-secures-fourth-term-in-historic-victory-over-far-right-flavio-bolsonaro/",
           "published": "2026-10-26T16:48:29+00:00",
@@ -1663,6 +1685,17 @@
           "language": "en",
           "summary": "Indigenous leaders and climate campaigners breathe a sigh of relief following the defeat of Flávio Bolsonaro, a staunch ally of industry and an open c",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "COP biodiversité : intenses négociations pour sauver le fonds Cali sur la protection de la nature",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/29/cop-biodiversite-intenses-negociations-pour-sauver-le-fonds-cali-sur-la-protection-de-la-nature_6802312_3244.html",
+          "published": "2026-10-29T11:38:43+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le mécanisme financier censé aider les populations autochtones et communautés locales qui protègent la nature, mis sur pied lors de la dernière COP bi",
+          "image": "https://img.lemde.fr/2024/11/02/633/0/7595/3797/644/322/60/0/37027d4_5138896-01-06.jpg",
           "other_news": true
         },
         {
@@ -1679,7 +1712,7 @@
         {
           "title": "Le changement climatique, enjeu majeur pour le patrimoine culturel à l’horizon 2050",
           "link": "https://www.lemonde.fr/culture/article/2026/10/29/le-changement-climatique-enjeu-majeur-pour-le-patrimoine-culturel-a-l-horizon-2050_6802014_3246.html",
-          "published": "2026-10-29T05:30:21+01:00",
+          "published": "2026-10-29T05:30:13+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1754,14 +1787,14 @@
           "other_news": true
         },
         {
-          "title": "« L’usine Chemours a apporté des emplois. Mais à quel prix ? » : les PFAS et leurs dégâts au cœur du récit « Facteur X » dont « Le Monde » dévoile les extraits",
-          "link": "https://www.lemonde.fr/idees/article/2026/10/25/l-usine-chemours-a-apporte-des-emplois-mais-a-quel-prix-les-pfas-et-leurs-degats-au-c-ur-du-recit-facteur-x-dont-le-monde-devoile-les-extraits_6800107_3232.html",
-          "published": "2026-10-25T18:30:06+01:00",
-          "source": "Le Monde Planète",
+          "title": "«Pas en avant» ou «occasion ratée» ? Pour la première fois, l’UE propose un règlement sur l’adaptation au changement climatique",
+          "link": "https://vert.eco/climat/pas-en-avant-ou-occasion-ratee-pour-la-premiere-fois-lue-propose-un-reglement-sur-ladaptation-au-changement-climatique/",
+          "published": "2026-10-29T09:40:49+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Dans un livre-enquête incarné par nombre de rencontres, à paraître le 29 octobre aux éditions Les Arènes, la militante pour le climat Camille Etienne",
-          "image": "https://img.lemde.fr/2026/10/22/160/0/1920/960/644/322/60/0/f0d56b5_upload-1-wszwvffbyhis-generated-1792657928087.jpg",
+          "summary": "Mardi, Bruxelles a présenté une proposition de loi pour accélérer l’adaptation au changement climatique sur le continent. Ce «règlement sur la résilie",
+          "image": null,
           "other_news": true
         },
         {
@@ -1816,28 +1849,6 @@
           "type": "news",
           "language": "en",
           "summary": "Climate change is an immediate threat to the world’s most vulnerable communities and people.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Who gets the clean energy jobs and contracts? How Ghana and South Africa’s plans can do more for women",
-          "link": "https://theconversation.com/who-gets-the-clean-energy-jobs-and-contracts-how-ghana-and-south-africas-plans-can-do-more-for-women-290663",
-          "published": "2026-10-28T13:33:03+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Solar and wind could bring women jobs and businesses in Ghana and South Africa, but governments must overturn inequalities in access to skills, loans",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "I’ve been talking to MAGA supporters for years, and here’s why some are sticking with Trump — and others are not",
-          "link": "https://theconversation.com/ive-been-talking-to-maga-supporters-for-years-and-heres-why-some-are-sticking-with-trump-and-others-are-not-294771",
-          "published": "2026-10-28T12:22:00+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Despite the headwinds that have cratered support for Donald Trump – high prices, the Iran war, corruption – many of Trump’s MAGA loyalists still back",
           "image": null,
           "other_news": true
         },
@@ -1905,17 +1916,6 @@
           "language": "en",
           "summary": "Negotiations are set to begin on the world’s first international protocol to fight environmental crime, including wildlife trafficking, illegal defore",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/07/29073157/tigers-drink-water-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "The Philippine lawyer who beat an oil giant: Rose Liza Eisma-Osorio on defending Tañon Strait",
-          "link": "https://news.mongabay.com/2026/10/the-philippine-lawyer-who-beat-an-oil-giant-rose-liza-eisma-osorio-on-defending-tanon-strait/",
-          "published": "2026-10-27T14:15:37+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "CEBU CITY, Philippines — At a coffee meeting in 2007, Philippine environmental lawyer Rose Liza Eisma-Osorio and four other law professors in Cebu Cit",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/27140336/A-turtle-at-the-Tanon-Strait.-Photo-Courtesy-of-Tanon-Strait-Philippines-1-768x512.jpeg",
           "other_news": true
         }
       ]

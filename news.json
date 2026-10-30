@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:00:28.159779+00:00",
+  "generated_at": "2026-10-30T18:38:46.103955+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -585,6 +585,17 @@
           "language": "en",
           "summary": "The SS United States, the fastest passenger ship ever built, is due to be sunk in the Gulf of Mexico in November, giving fish a new home and divers a",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "« Reprendre la mer », une invitation à sauver la pêche et les océans des chalutiers démesurés",
+          "link": "https://www.lemonde.fr/idees/article/2026/10/30/reprendre-la-mer-une-invitation-a-sauver-la-peche-et-les-oceans-des-chalutiers-demesures_6803128_3232.html",
+          "published": "2026-10-30T19:00:02+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans cet ouvrage, la militante écologiste Claire Nouvian, le philosophe du vivant Baptiste Morizot et le biologiste marin Daniel Pauly proposent le dé",
+          "image": "https://img.lemde.fr/2026/10/27/160/0/1920/960/644/322/60/0/4a3dfb0_upload-1-874bigmrzonf-reprendre-la-mer.jpg",
           "other_news": false
         },
         {
@@ -1677,17 +1688,6 @@
           "other_news": true
         },
         {
-          "title": "Climat : 79 millions d’heures de travail potentielles perdues en France chaque année en raison de l’exposition aux chaleurs",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/28/climat-79-millions-d-heures-de-travail-potentielles-perdues-en-france-chaque-annee-en-raison-de-l-exposition-aux-chaleurs_6801529_3244.html",
-          "published": "2026-10-28T05:45:09+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les chercheurs du Lancet Countdown ont estimé, pays par pays, le fardeau sanitaire du réchauffement climatique. Le secteur du bâtiment est le plus tou",
-          "image": "https://img.lemde.fr/2026/06/11/1146/0/6875/3437/644/322/60/0/c805fb0_ftp-1-btgzfxu3qwzp-5287990-01-06.jpg",
-          "other_news": true
-        },
-        {
           "title": "«Pas en avant» ou «occasion ratée» ? Pour la première fois, l’UE propose un règlement sur l’adaptation au changement climatique",
           "link": "https://vert.eco/climat/pas-en-avant-ou-occasion-ratee-pour-la-premiere-fois-lue-propose-un-reglement-sur-ladaptation-au-changement-climatique/",
           "published": "2026-10-29T09:40:49+00:00",
@@ -1729,6 +1729,17 @@
           "language": "en",
           "summary": "Passing away this week at 86, Stewart will be remembered as actor, dramaturge, Shakespearean exemplar, mutant professor, and distinguished Starfleet c",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Given a chance, women-led microenterprises uplift Nepali communities & conservation",
+          "link": "https://news.mongabay.com/2026/10/given-a-chance-women-led-microenterprises-uplift-nepali-communities-conservation/",
+          "published": "2026-10-30T18:02:46+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "NAYA PADAMPUR, Nepal — A spinning wheel whirs on a rooftop in Naya Padampur in south-central Nepal, sending ivory strands of yarn through Bin Maya Gur",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/30164427/Spinning-Wool2_NadiaWhite_19May2026-768x512.jpeg",
           "other_news": true
         },
         {
@@ -1806,17 +1817,6 @@
           "language": "en",
           "summary": "Suriname pledges to save its forests but neglects the ancient human history hidden within them, experts say.",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/27170358/h-watercolor-by-the-Indigenous-Wayana-banner-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "A town-wide ‘living laboratory’ shows how green spaces can combat climate extremes",
-          "link": "https://news.mongabay.com/2026/10/a-town-wide-living-laboratory-shows-how-green-spaces-can-combat-climate-extremes/",
-          "published": "2026-10-28T17:01:56+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Stoke Park is a natural haven in a busy British town. Centered in Guildford, Surrey, its rolling fields pop with wildflowers in the spring; birds sing",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28121856/Guildford_-_Stoke_Park_Gardens_-_geograph.org-edit-768x512.jpg",
           "other_news": true
         }
       ]

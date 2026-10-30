@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T06:01:22.226282+00:00",
+  "generated_at": "2026-10-30T12:57:01.412439+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -26,17 +26,6 @@
           "summary": "The European Court of Auditors finds only 1 per cent of EU marine waters are strictly protected and fishing is 72 per cent higher inside Natura 2000 s",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "Subsidies draining the sea cost governments more than they spend",
-          "link": "https://oceanographicmagazine.com/news/subsidies-draining-the-sea-cost-governments-more-than-they-spend/",
-          "published": "2026-10-23T12:57:30+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new Conservation International report finds harmful subsidies, including those driving overfishing and reef damage, leave a hidden bill of up to $24",
-          "image": null,
-          "other_news": false
         }
       ],
       "Other Marine News": [
@@ -59,6 +48,17 @@
           "type": "news",
           "language": "en",
           "summary": "Chile’s ocean protection record and concerns over a rival Chinese bid keep it in play, despite questions over the Kast government’s environmental poli",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "EU blocks extension of Mediterranean deep-sea trawling ban",
+          "link": "https://oceanographicmagazine.com/news/eu-blocks-extension-of-mediterranean-deep-sea-trawling-ban/",
+          "published": "2026-10-30T10:32:06+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A proposal to extend the ban on deep-sea bottom trawling in the Mediterranean and Black Sea from 1,000 to 800 metres depth has been blocked by the EU",
           "image": null,
           "other_news": false
         },
@@ -158,13 +158,13 @@
           "other_news": false
         },
         {
-          "title": "Nearly all of the world’s coral reefs now Critically Endangered",
-          "link": "https://oceanographicmagazine.com/news/nearly-all-of-the-world-s-coral-reefs-now-critically-endangered/",
-          "published": "2026-10-23T11:23:30+00:00",
+          "title": "Whale song hints when endangered pygmy blue whales are feeding",
+          "link": "https://oceanographicmagazine.com/news/whale-song-hints-when-endangered-pygmy-blue-whales-are-feeding/",
+          "published": "2026-10-30T11:04:41+00:00",
           "source": "Oceanographic",
           "type": "news",
           "language": "en",
-          "summary": "A first-ever IUCN Red List assessment finds 96 per cent of shallow-water coral reef ecosystems are Critically Endangered, with nearly all at extremely",
+          "summary": "A new Curtin University-led study, published in Royal Society Open Science, found that pygmy blue whales generally feed during daylight hours, leaving",
           "image": null,
           "other_news": false
         },
@@ -210,17 +210,6 @@
           "language": "en",
           "summary": "An ambitious effort to eradicate invasive spotted bass from South Africa’s Breekkrans River has unfolded about two hours north of Cape Town. Removing",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28192257/Breekkrans-River-Restoration_Jeremy-Shelton_4-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "As the sea swallows a Nigerian community, migratory bird habitat disappears",
-          "link": "https://news.mongabay.com/2026/10/as-the-sea-swallows-a-nigerian-community-migratory-bird-habitat-disappears/",
-          "published": "2026-10-28T07:58:40+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The point where land meets sea at Ayetoro, in southwestern Nigeria, is marked by the skeletons of now-submerged landmarks. Birdcalls, crashing waves,",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28070226/EurasianWhimbrel.Numenius.phaeopus_KalaibiamiIRiversNigeria_AdedotunAjibadeINaturalist_BY-NC4.0-768x512.jpeg",
           "other_news": false
         }
       ],
@@ -376,28 +365,6 @@
           "language": "en",
           "summary": "Designer showcases wool alternatives and ocean-inspired clothes and says ‘kindness requires real work’Stella McCartney has been talking about animal r",
           "image": "https://i.guim.co.uk/img/media/23285cebf4c09566ec575ed291a5d85c5f90fdce/0_186_3045_2437/master/3045.jpg?width=140&quality=85&auto=format&fit=max&s=62eaf63fc79101df22e433596175f8a2",
-          "other_news": false
-        },
-        {
-          "title": "California rushes to prepare for massive ‘Kelvin’ wave and predicted sea level rise",
-          "link": "https://www.theguardian.com/us-news/2026/sep/30/california-kelvin-wave-sea-level-rise",
-          "published": "2026-09-30T11:00:39+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Wave nearing southern California expected to reach San Francisco Bay Area by October as it crawls toward AlaskaCommunities across California are rushi",
-          "image": "https://i.guim.co.uk/img/media/3012a692470bc55fb6169ac325755d5b8fa99adf/308_0_3075_2460/master/3075.jpg?width=140&quality=85&auto=format&fit=max&s=923144f54f0513f8a8305757d27d40d6",
-          "other_news": false
-        },
-        {
-          "title": "‘Beyond priceless’: how a halt to dredging saved the seas of Scotland’s Summer Isles",
-          "link": "https://www.theguardian.com/environment/2026/sep/30/beyond-priceless-how-a-halt-to-dredging-saved-the-seas-of-scotlands-summer-isles",
-          "published": "2026-09-30T10:00:22+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Fish and shellfish populations were falling rapidly as scallop dredgers devastated the seabed, but local activists and small-scale fishers battled har",
-          "image": "https://i.guim.co.uk/img/media/5d922620ec925ee3e6e3972c09aadf5a0c9162c1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f302e4613e5ddf4cb637912dd2f1ac9d",
           "other_news": false
         },
         {
@@ -632,17 +599,6 @@
           "other_news": false
         },
         {
-          "title": "Pan’s Labyrinth at 20: a powerful, symbolic tribute to Spanish resilience in the face of fascism",
-          "link": "https://theconversation.com/pans-labyrinth-at-20-a-powerful-symbolic-tribute-to-spanish-resilience-in-the-face-of-fascism-295387",
-          "published": "2026-10-29T12:29:13+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Censorship, and the rebellious ways art can respond to it through potent symbolism, are central to the film.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Cuts to Integrated Ocean Observing System Puts Ocean at Risk",
           "link": "https://oceanconservancy.org/blog/2026/10/05/integrated-ocean-observing-system/",
           "published": "2026-10-05T21:24:39+00:00",
@@ -734,6 +690,17 @@
           "summary": "Des rejets d'eau souillée dans un environnement sensible aux pollutions. L'État reproche au groupe agroalimentaire Terrena et à",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/andres-siimon-koh8shapwmw-unsplash_1_-88f5c.jpg?1793012959",
           "other_news": true
+        },
+        {
+          "title": "En Indonésie, la pollution de l’air due aux incendies a causé la mort de 3 560 personnes en septembre",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/30/en-indonesie-les-incendies-ont-cause-3-560-morts-liees-a-la-pollution-de-l-air-en-septembre_6802919_3244.html",
+          "published": "2026-10-30T09:40:02+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Frappé par une sécheresse aggravée par le phénomène climatique El Niño, le pays lutte depuis des mois contre des feux de forêt qui, selon l’organisme",
+          "image": "https://img.lemde.fr/2026/10/09/720/0/8640/4320/644/322/60/0/6ef2d7e_ftp-1-k030gnofjg12-27eac39bcba64d729889b0e59fd1ad73-0-9b1d2525f71f4166a70da0310bc7dc09.jpg",
+          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -746,17 +713,6 @@
           "language": "en",
           "summary": "In 2022, I helped push through the international agreement to protect biodiversity. I know there is always a reason to stall, but ministers at Cop17 m",
           "image": "https://i.guim.co.uk/img/media/106b96be9a0dbcdf3cb19c187ca4e2b68dbc2ed7/0_0_1616_1293/master/1616.jpg?width=140&quality=85&auto=format&fit=max&s=673169024f5606b33d32d33eacededb9",
-          "other_news": true
-        },
-        {
-          "title": "Mini-gardens for bees on bus stop roofs approved",
-          "link": "https://www.bbc.co.uk/news/articles/c62e9vynyvdpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-29T11:58:00+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Living Roofs aimed at boosting biodiversity in urban areas will be installed under a new bus stop contract.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/395f/live/d4ff77d0-cee9-11f1-bdca-23c64447299f.jpg",
           "other_news": true
         },
         {
@@ -817,6 +773,17 @@
       ],
       "Marine Protected Areas & Policy": [
         {
+          "title": "Fascism mixed into cringey online content is easy to mock – but no less dangerous",
+          "link": "https://theconversation.com/fascism-mixed-into-cringey-online-content-is-easy-to-mock-but-no-less-dangerous-292643",
+          "published": "2026-10-30T12:12:08+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Cringe can generate enthusiasm among conservative voters by trolling the left while reducing serious policy debates to the level of online memes.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "After three years of relentless reform, what lies beyond the election for education?",
           "link": "https://theconversation.com/after-three-years-of-relentless-reform-what-lies-beyond-the-election-for-education-293794",
           "published": "2026-10-29T17:26:26+00:00",
@@ -835,17 +802,6 @@
           "type": "news",
           "language": "en",
           "summary": "Voters say they care about the economy, but many blame Trump’s wars and tariffs for their bills.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Federal policy helped widen rural America’s fresh food gap, but a 90-year-old law could help close it",
-          "link": "https://theconversation.com/federal-policy-helped-widen-rural-americas-fresh-food-gap-but-a-90-year-old-law-could-help-close-it-290124",
-          "published": "2026-10-29T12:23:06+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "A food systems researcher shows how trucking deregulation and lax antitrust enforcement let big grocery chains grow as rural distribution thinned.",
           "image": null,
           "other_news": true
         }
@@ -929,17 +885,6 @@
           "other_news": true
         },
         {
-          "title": "More high winds hit parts of UK as Storm Boelo clean-up continues",
-          "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-27T10:30:40+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A Met Office weather warning is in place for Scotland and Northern Ireland for much of Tuesday.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fd9/live/430c9a00-d1d3-11f1-93e1-3b657b665bcf.jpg",
-          "other_news": true
-        },
-        {
           "title": "BBC Inside Science",
           "link": "https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-29T21:00:00+00:00",
@@ -951,8 +896,8 @@
           "other_news": true
         },
         {
-          "title": "Le condor est de retour, mais qui a eu son mot à dire ?",
-          "link": "https://theconversation.com/le-condor-est-de-retour-mais-qui-a-eu-son-mot-a-dire-295220",
+          "title": "Le condor de Californie a été sauvé, mais à quel prix, et pour qui ?",
+          "link": "https://theconversation.com/le-condor-de-californie-a-ete-sauve-mais-a-quel-prix-et-pour-qui-295220",
           "published": "2026-10-29T17:21:11+00:00",
           "source": "The Conversation FR",
           "type": "news",
@@ -1567,13 +1512,13 @@
           "other_news": true
         },
         {
-          "title": "Biodiversité : à la COP17 comme au gouvernement, l'hypocrisie antiscientifique de l'État français",
+          "title": "Biodiversité : l'hypocrisie antiscience de la France",
           "link": "https://reporterre.net/Biodiversite-a-la-COP17-comme-au-gouvernement-l-hypocrisie-antiscientifique-de-l-Etat-francais",
           "published": "2026-10-30T06:00:00+00:00",
           "source": "Reporterre",
           "type": "news",
           "language": "fr",
-          "summary": "La ministre de l'Écologie a défendu des politiques basées sur la science à la COP17 sur la biodiversité. Une science que les gou",
+          "summary": "La ministre de la Transition écologique a défendu des politiques basées sur la science à la COP17 sur la biodiversité. Une scien",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/moniquebetlabiodiversitemacroniste-11205.jpg?1793340002",
           "other_news": true
         },
@@ -1688,6 +1633,17 @@
           "other_news": true
         },
         {
+          "title": "Au Brésil, les marges de manœuvre limitées de Lula sur la protection de l’environnement",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/30/au-bresil-les-marges-de-man-uvre-limitees-de-lula-sur-la-protection-de-l-environnement_6803076_3244.html",
+          "published": "2026-10-30T12:00:08+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Pour son quatrième mandat, le président Luiz Inacio Lula da Silva devra composer avec la présence renforcée d’élus d’extrême droite, largement acquis",
+          "image": "https://img.lemde.fr/2026/10/30/154/0/6960/3480/644/322/60/0/1df629d_upload-1-aoozmbenp7cs-000-d2tv7cj.jpg",
+          "other_news": true
+        },
+        {
           "title": "Climat, biodiversité : cinq initiatives citoyennes qui font avancer les choses",
           "link": "https://www.lemonde.fr/planete/article/2026/10/30/climat-biodiversite-cinq-initiatives-citoyennes-qui-font-avancer-les-choses_6802806_3244.html",
           "published": "2026-10-30T06:30:07+01:00",
@@ -1751,39 +1707,6 @@
           "language": "fr",
           "summary": "Les chercheurs du Lancet Countdown ont estimé, pays par pays, le fardeau sanitaire du réchauffement climatique. Le secteur du bâtiment est le plus tou",
           "image": "https://img.lemde.fr/2026/06/11/1146/0/6875/3437/644/322/60/0/c805fb0_ftp-1-btgzfxu3qwzp-5287990-01-06.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Changement climatique : la communauté scientifique appelle à décréter une « urgence sanitaire mondiale »",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/28/changement-climatique-la-communaute-scientifique-appelle-a-decreter-une-urgence-sanitaire-mondiale_6801524_3244.html",
-          "published": "2026-10-28T05:00:38+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le 10ᵉ rapport du Lancet Countdown montre que les effets du réchauffement sur la santé comme le nombre de décès liés à la chaleur se sont considérable",
-          "image": "https://img.lemde.fr/2026/10/26/479/0/3543/1771/644/322/60/0/d4505ed_upload-1-hdoiyr8bdubj-000-b82x6t3-1.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Donald Trump abroge des règles sur la limitation des émissions de méthane, un gaz à effet de serre extrêmement polluant",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/28/donald-trump-abroge-des-regles-sur-la-limitation-des-emissions-de-methane-un-gaz-a-effet-de-serre-extremement-polluant_6801449_3244.html",
-          "published": "2026-10-28T03:19:38+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les nouvelles mesures voulues par le président américain supprimeraient notamment un programme permettant à des observateurs agréés de signaler de gra",
-          "image": "https://img.lemde.fr/2026/10/27/990/0/5940/2970/644/322/60/0/d57f736_ftp-1-nozjqqfkn2rd-33be28176fa7411e90920d68859bab90-0-b45d7ad6581448f5a12d9d3b3fad9495.jpg",
-          "other_news": true
-        },
-        {
-          "title": "COP biodiversité : les « subventions néfastes » à la nature au centre des négociations",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/27/cop-biodiversite-les-subventions-nefastes-a-la-nature-au-centre-des-negociations_6801267_3244.html",
-          "published": "2026-10-27T12:30:03+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La présidence arménienne de la COP a mis en avant, lundi, un objectif décidé en 2022 à Montréal visant à réduire les subventions néfastes à la biodive",
-          "image": "https://img.lemde.fr/2026/10/27/312/0/5361/2680/644/322/60/0/6392111_ftp-1-iganiz6dpf6e-afp-d4j496m.jpg",
           "other_news": true
         },
         {

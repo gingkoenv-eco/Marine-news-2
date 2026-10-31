@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T13:41:23.379077+00:00",
+  "generated_at": "2026-10-31T17:14:57.662052+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -797,6 +797,17 @@
           "other_news": true
         },
         {
+          "title": "Bute House protested by environmental campaigners",
+          "link": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-31T13:41:07+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b14/live/e53f9f80-d52e-11f1-866a-b522399149a0.jpg",
+          "other_news": true
+        },
+        {
           "title": "Global nature talks reach deal but money remains an issue",
           "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-31T01:27:05+00:00",
@@ -827,17 +838,6 @@
           "language": "en",
           "summary": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\".",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da92/live/f806aa70-d202-11f1-b3b6-c1e79e957e40.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Scotland's recycling rates at five-year low. How is your area doing?",
-          "link": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-27T15:32:40+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8931/live/e4ac55b0-d1f8-11f1-8c9f-8d21fef6ffad.jpg",
           "other_news": true
         },
         {

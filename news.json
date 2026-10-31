@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T06:01:20.165029+00:00",
+  "generated_at": "2026-10-31T12:32:06.230754+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -357,17 +357,6 @@
           "other_news": false
         },
         {
-          "title": "Stella McCartney makes waves with ‘sea life, not sea food’ theme in zero-wool Paris show",
-          "link": "https://www.theguardian.com/fashion/2026/sep/30/stella-mccartney-sea-life-paris-fashion-week-animal-rights",
-          "published": "2026-10-01T08:46:09+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Designer showcases wool alternatives and ocean-inspired clothes and says ‘kindness requires real work’Stella McCartney has been talking about animal r",
-          "image": "https://i.guim.co.uk/img/media/23285cebf4c09566ec575ed291a5d85c5f90fdce/0_186_3045_2437/master/3045.jpg?width=140&quality=85&auto=format&fit=max&s=62eaf63fc79101df22e433596175f8a2",
-          "other_news": false
-        },
-        {
           "title": "Part of Antarctica named after former BBC science correspondent",
           "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-26T14:54:40+00:00",
@@ -705,6 +694,17 @@
           "other_news": true
         },
         {
+          "title": "COP17 delivers fragile deal to boost conservation and funding for nature",
+          "link": "https://www.climatechangenews.com/2026/10/31/cop17-delivers-fragile-deal-scaling-up-biodiversity-conservation-armenia-cbd/",
+          "published": "2026-10-31T11:50:27+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "After a two-week stalemate, countries agreed to invite wealthy emerging economies like China to assume donor status and help fund biodiversity protect",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Stalemate on finance at COP17 nature talks exposes need for new sources",
           "link": "https://www.climatechangenews.com/2026/10/28/stalemate-finance-cop17-nature-un-exposes-need-new-sources-yerevan/",
           "published": "2026-10-28T13:04:32+00:00",
@@ -724,6 +724,17 @@
           "language": "en",
           "summary": "A major UN report that will inform biodiversity negotiations in Armenia shows countries have made some progress but are still off track for a landmark",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Leaders grapple with finance and harmful subsidies at UN’s COP17 biodiversity conference",
+          "link": "https://news.mongabay.com/2026/10/leaders-grapple-with-finance-and-harmful-subsidies-at-uns-cop17-biodiversity-conference/",
+          "published": "2026-10-31T07:07:34+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "YEREVAN, Armenia — Visitors entering the main hallway of the 2026 U.N. biodiversity conference (COP17) encounter a mural of a herd of elephants. The i",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/31062001/DSC_9185-768x512.jpeg",
           "other_news": true
         },
         {
@@ -1446,14 +1457,14 @@
           "other_news": true
         },
         {
-          "title": "Big banks behind “net zero” alliance continued lending to coal firms",
-          "link": "https://www.climatechangenews.com/2026/10/02/major-banks-behind-net-zero-alliance-continued-lending-to-coal-firms/",
-          "published": "2026-10-02T15:20:10+00:00",
-          "source": "Climate change news",
+          "title": "COP biodiversité : des avancées trop timides pour enrayer l'érosion massive du vivant",
+          "link": "https://reporterre.net/COP-biodiversite-des-avancees-trop-timides-pour-enrayer-l-erosion-massive-du-vivant",
+          "published": "2026-10-31T09:40:18+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "New data shows coal finance has stayed steady at the global level since 2022, as international efforts to cut the ties between lending and emissions f",
-          "image": null,
+          "language": "fr",
+          "summary": "La COP17 sur la biodiversité, qui s'est clôturée dans la nuit du 30 octobre en Arménie, n'aura pas permis d'avancée notable. Un",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260919__c8ra8m6__v2__highres__topshotindonesiaenvironmentclimatefiresoranguta_1_-bbb93.jpg?1793439674",
           "other_news": true
         },
         {
@@ -1589,6 +1600,39 @@
           "other_news": true
         },
         {
+          "title": "« Les économistes abordent l’environnement avec une boîte à outils plus riche qu’il y a vingt ans »",
+          "link": "https://www.lemonde.fr/idees/article/2026/10/31/les-economistes-abordent-l-environnement-avec-une-boite-a-outils-plus-riche-qu-il-y-a-vingt-ans_6803492_3232.html",
+          "published": "2026-10-31T11:00:25+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La tentation est forte, pour les pays, de laisser les autres s’occuper de la lutte contre le réchauffement climatique. Un mauvais calcul, selon les éc",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/dc0e248_upload-1-6oyyppysqvd6-frame-807.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Adrien Bilal, Prix du meilleur jeune économiste 2026 : « La croissance n’est pas l’adversaire de la politique climatique, c’est même l’inverse »",
+          "link": "https://www.lemonde.fr/idees/article/2026/10/31/adrien-bilal-prix-du-meilleur-jeune-economiste-2026-la-croissance-n-est-pas-l-adversaire-de-la-politique-climatique-c-est-meme-l-inverse_6803479_3232.html",
+          "published": "2026-10-31T09:30:07+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les dommages du réchauffement climatique sont considérables : ils rognent la croissance et, avec elle, les marges budgétaires de la France. Réduire no",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/3e6bf69_upload-1-kkrxrwjpujdy-frame-964.jpg",
+          "other_news": true
+        },
+        {
+          "title": "COP biodiversité : à Erevan, en Arménie, près de 200 Etats s’accordent sur des textes-clés mais à l’ambition affaiblie",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/31/cop-biodiversite-a-erevan-en-armenie-pres-de-200-etats-s-accordent-sur-des-textes-cles-mais-a-l-ambition-affaiblie_6803471_3244.html",
+          "published": "2026-10-31T08:23:05+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Après deux semaines de difficiles débats, les participants à la COP17 ont adopté une cinquantaine de textes essentiels pour poursuivre la lutte contre",
+          "image": "https://img.lemde.fr/2026/10/26/504/0/6048/3024/644/322/60/0/0b04f44_ftp-1-47qya3mixh39-afp-d4gf3b7.jpg",
+          "other_news": true
+        },
+        {
           "title": "En Guyane, une sécheresse record complique l’accès à l’eau potable",
           "link": "https://www.lemonde.fr/planete/article/2026/10/31/en-guyane-une-secheresse-record-complique-l-acces-a-l-eau-potable_6803397_3244.html",
           "published": "2026-10-31T06:00:44+01:00",
@@ -1606,7 +1650,7 @@
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Le premier texte est censé représenter un « examen mondial » d’un accord sur la biodiversité de 2022. Et un autre concerne le financement et la partic",
+          "summary": "Le premier texte est censé représenter un « examen mondial » d’un accord de 2022 relatif à la biodiversité. Le second concerne le financement et la pa",
           "image": "https://img.lemde.fr/2026/10/30/122/0/3631/1815/644/322/60/0/f571bfe_ftp-1-f7sjjm1uk05q-afp-d4xd3xa.jpg",
           "other_news": true
         },
@@ -1641,28 +1685,6 @@
           "language": "fr",
           "summary": "Le mécanisme financier censé aider les populations autochtones et communautés locales qui protègent la nature, mis sur pied lors de la dernière COP bi",
           "image": "https://img.lemde.fr/2024/11/02/633/0/7595/3797/644/322/60/0/37027d4_5138896-01-06.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Les efforts mondiaux de restauration de la nature jugés « encourageants » mais toujours très insuffisants",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/29/les-efforts-mondiaux-de-restauration-de-la-nature-juges-encourageants-mais-toujours-tres-insuffisants_6802123_3244.html",
-          "published": "2026-10-29T07:00:08+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Un rapport de l’ONU montre que 252 millions d’hectares font actuellement l’objet d’actions de restauration dans le monde. Une surface importante, tout",
-          "image": "https://img.lemde.fr/2026/10/22/479/0/5600/2800/644/322/60/0/52918c8_ftp-1-ul0r8egllngd-afp-d42v663.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Le changement climatique, enjeu majeur pour le patrimoine culturel à l’horizon 2050",
-          "link": "https://www.lemonde.fr/culture/article/2026/10/29/le-changement-climatique-enjeu-majeur-pour-le-patrimoine-culturel-a-l-horizon-2050_6802014_3246.html",
-          "published": "2026-10-29T05:30:13+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les châteaux de la Loire, le Mont-Saint-Michel, le fort Saint-André à Villeneuve-lès-Avignon ou encore l’abbaye de Fontfroide dans l’Aude… Trois étude",
-          "image": "https://img.lemde.fr/2026/10/16/62/0/2756/1378/644/322/60/0/81af02c_upload-1-fieshdmlkw9o-20261016nrc1976.jpg",
           "other_news": true
         },
         {
@@ -1773,17 +1795,6 @@
           "language": "en",
           "summary": "SYDNEY — After more than a decade of campaigning, Australian conservation and community groups celebrated a historic win on Oct. 23 after legislation",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28133825/kenny-van-roosbroek-CG2AtzDOLFg-unsplash-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Netherlands pledges $500 million to help conserve tropical forests",
-          "link": "https://news.mongabay.com/short-article/2026/10/netherlands-pledges-500-million-to-help-conserve-tropical-forests/",
-          "published": "2026-10-28T22:47:09+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Tropical Forest Forever Facility (TFFF), which was created to fund long-term conservation of tropical forests, recently received a $500-million pl",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28223755/Mountain_gorilla_Gorilla_beringei_beringei_three_2-year-olds-768x512.jpg",
           "other_news": true
         }
       ]

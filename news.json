@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:38:46.103955+00:00",
+  "generated_at": "2026-10-31T06:01:20.165029+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -199,17 +199,6 @@
           "language": "en",
           "summary": "If you spend some time on the banks of the St. Lawrence River in Quebec, you just might catch a flash of white beneath the surface. A whale. A beluga",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Eradicating invasive bass gives endangered South African fish room to recover",
-          "link": "https://news.mongabay.com/short-article/2026/10/eradicating-invasive-bass-gives-endangered-south-african-fish-room-to-recover/",
-          "published": "2026-10-28T19:23:45+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "An ambitious effort to eradicate invasive spotted bass from South Africa’s Breekkrans River has unfolded about two hours north of Cape Town. Removing",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28192257/Breekkrans-River-Restoration_Jeremy-Shelton_4-768x512.jpg",
           "other_news": false
         }
       ],
@@ -533,17 +522,6 @@
           "other_news": false
         },
         {
-          "title": "« Une victoire historique » : la France va interdire les navires-usines près des côtes",
-          "link": "https://reporterre.net/Une-victoire-historique-la-France-va-interdire-les-navires-usines-pres-des-cotes",
-          "published": "2026-10-23T12:34:24+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Après des mois d'attente, la ministre de la Mer Catherine Chabaud a annoncé, jeudi 22 octobre, le lancement du processus visant",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/alapecheauxmesuresuresures-6d509.jpg?1792758868",
-          "other_news": false
-        },
-        {
           "title": "Marine heatwaves and hungry fish decimate Japan’s vital kelp forests",
           "link": "https://oceanographicmagazine.com/news/marine-heatwaves-and-hungry-fish-decimate-japans-vital-kelp-forests/",
           "published": "2026-10-29T19:16:17+00:00",
@@ -819,6 +797,17 @@
           "other_news": true
         },
         {
+          "title": "Global nature talks reach deal but money remains an issue",
+          "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-31T01:27:05+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c07/live/57283d20-d4b5-11f1-a58c-6d26609b0a57.jpg",
+          "other_news": true
+        },
+        {
           "title": "Weather warning lifted as third storm to hit Scotland eases off",
           "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-27T21:20:52+00:00",
@@ -849,17 +838,6 @@
           "language": "en",
           "summary": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8931/live/e4ac55b0-d1f8-11f1-8c9f-8d21fef6ffad.jpg",
-          "other_news": true
-        },
-        {
-          "title": "What's happening to our rubbish?",
-          "link": "https://www.bbc.co.uk/news/videos/c9ly02pj4kdjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-27T15:30:50+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "As Scotland's recycling rate falls to its lowest level in five years, Kevin Keane looks at what happens to our rubbish.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e05a/live/fe8aa330-d219-11f1-a701-fddedf244c16.jpg",
           "other_news": true
         },
         {
@@ -1123,17 +1101,6 @@
           "type": "news",
           "language": "en",
           "summary": "Engineers are using a unique test facility called the Wall of Wind to develop housing that’s both affordable and disaster-resistant. Their tests show",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Question of whether taxpayers or fossil fuel companies pay for climate change damage heads to Supreme Court",
-          "link": "https://theconversation.com/question-of-whether-taxpayers-or-fossil-fuel-companies-pay-for-climate-change-damage-heads-to-supreme-court-292847",
-          "published": "2026-09-30T20:21:09+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "If fossil fuel companies misled the public about the dangers of their products, should they be required to pay for damages from climate-related disast",
           "image": null,
           "other_news": true
         },
@@ -1622,6 +1589,28 @@
           "other_news": true
         },
         {
+          "title": "En Guyane, une sécheresse record complique l’accès à l’eau potable",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/31/en-guyane-une-secheresse-record-complique-l-acces-a-l-eau-potable_6803397_3244.html",
+          "published": "2026-10-31T06:00:44+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Décuplée par l’intensité du phénomène El Niño et le changement climatique, la sécheresse qui sévit actuellement dans le territoire amazonien exacerbe",
+          "image": "https://img.lemde.fr/2026/10/29/594/0/1440/720/644/322/60/0/46ab26d_upload-1-p1c6sobzoqkr-869886831-18126649246909854-8746968507958421324-n.jpg",
+          "other_news": true
+        },
+        {
+          "title": "A la COP17 d’Erevan, malgré les divergences, les Etats s’entendent sur des textes pour tenter de protéger la nature",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/30/a-la-cop17-d-erevan-malgre-les-divergences-les-etats-s-entendent-sur-des-textes-pour-tenter-de-proteger-la-nature_6803202_3244.html",
+          "published": "2026-10-30T23:56:30+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le premier texte est censé représenter un « examen mondial » d’un accord sur la biodiversité de 2022. Et un autre concerne le financement et la partic",
+          "image": "https://img.lemde.fr/2026/10/30/122/0/3631/1815/644/322/60/0/f571bfe_ftp-1-f7sjjm1uk05q-afp-d4xd3xa.jpg",
+          "other_news": true
+        },
+        {
           "title": "Au Brésil, les marges de manœuvre limitées de Lula sur la protection de l’environnement",
           "link": "https://www.lemonde.fr/planete/article/2026/10/30/au-bresil-les-marges-de-man-uvre-limitees-de-lula-sur-la-protection-de-l-environnement_6803076_3244.html",
           "published": "2026-10-30T12:00:08+01:00",
@@ -1674,17 +1663,6 @@
           "language": "fr",
           "summary": "Les châteaux de la Loire, le Mont-Saint-Michel, le fort Saint-André à Villeneuve-lès-Avignon ou encore l’abbaye de Fontfroide dans l’Aude… Trois étude",
           "image": "https://img.lemde.fr/2026/10/16/62/0/2756/1378/644/322/60/0/81af02c_upload-1-fieshdmlkw9o-20261016nrc1976.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Billy Barr, ermite moderne et vigie du climat dans les Rocheuses du Colorado",
-          "link": "https://www.lemonde.fr/international/article/2026/10/28/billy-barr-ermite-moderne-et-vigie-du-climat-dans-les-rocheuses-du-colorado_6801631_3210.html",
-          "published": "2026-10-28T19:30:01+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Installé en haute montagne, seul au monde dans un village fantôme, le biologiste américain s’est mis à mesurer l’enneigement en 1974 pour tromper l’en",
-          "image": "https://img.lemde.fr/2026/10/27/296/0/3553/1776/644/322/60/0/ccd8dbc_upload-1-0gbfaxepcuws-ap24092809149582.jpg",
           "other_news": true
         },
         {
@@ -1806,17 +1784,6 @@
           "language": "en",
           "summary": "The Tropical Forest Forever Facility (TFFF), which was created to fund long-term conservation of tropical forests, recently received a $500-million pl",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28223755/Mountain_gorilla_Gorilla_beringei_beringei_three_2-year-olds-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Suriname’s rich archaeological history may hold keys to conservation",
-          "link": "https://news.mongabay.com/2026/10/surinames-rich-archaeological-history-may-hold-keys-to-conservation/",
-          "published": "2026-10-28T18:37:56+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Suriname pledges to save its forests but neglects the ancient human history hidden within them, experts say.",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/27170358/h-watercolor-by-the-Indigenous-Wayana-banner-768x512.jpg",
           "other_news": true
         }
       ]

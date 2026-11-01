@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:18:41.227672+00:00",
+  "generated_at": "2026-11-01T17:56:04.007015+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -1589,6 +1589,17 @@
           "other_news": true
         },
         {
+          "title": "« Après le mégafeu de Gironde, créons la plus grande réserve naturelle d’Europe de l’Ouest »",
+          "link": "https://www.lemonde.fr/idees/article/2026/11/01/apres-le-megafeu-de-gironde-creons-la-plus-grande-reserve-naturelle-d-europe-de-l-ouest_6804525_3232.html",
+          "published": "2026-11-01T17:30:10+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les incendies de l’été dans le sud-ouest de la France doivent provoquer un sursaut politique pour transformer la plantation artificielle inflammable e",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/0d46916_upload-1-slnbljri1xqm-frame-790.jpg",
+          "other_news": true
+        },
+        {
           "title": "Economie et environnement : « Il faut donner une valeur à ce qui n’a pas de prix pour éclairer nos choix collectifs »",
           "link": "https://www.lemonde.fr/idees/article/2026/11/01/economie-et-environnement-il-faut-donner-une-valeur-a-ce-qui-n-a-pas-de-prix-pour-eclairer-nos-choix-collectifs_6804376_3232.html",
           "published": "2026-11-01T15:00:11+01:00",
@@ -1646,7 +1657,7 @@
         {
           "title": "En Guyane, une sécheresse record complique l’accès à l’eau potable",
           "link": "https://www.lemonde.fr/planete/article/2026/10/31/en-guyane-une-secheresse-record-complique-l-acces-a-l-eau-potable_6803397_3244.html",
-          "published": "2026-10-31T06:00:44+01:00",
+          "published": "2026-10-31T06:00:31+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1688,17 +1699,6 @@
           "other_news": true
         },
         {
-          "title": "COP biodiversité : intenses négociations pour sauver le fonds Cali sur la protection de la nature",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/29/cop-biodiversite-intenses-negociations-pour-sauver-le-fonds-cali-sur-la-protection-de-la-nature_6802312_3244.html",
-          "published": "2026-10-29T11:38:43+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le mécanisme financier censé aider les populations autochtones et communautés locales qui protègent la nature, mis sur pied lors de la dernière COP bi",
-          "image": "https://img.lemde.fr/2024/11/02/633/0/7595/3797/644/322/60/0/37027d4_5138896-01-06.jpg",
-          "other_news": true
-        },
-        {
           "title": "«Pas en avant» ou «occasion ratée» ? Pour la première fois, l’UE propose un règlement sur l’adaptation au changement climatique",
           "link": "https://vert.eco/climat/pas-en-avant-ou-occasion-ratee-pour-la-premiere-fois-lue-propose-un-reglement-sur-ladaptation-au-changement-climatique/",
           "published": "2026-10-29T09:40:49+00:00",
@@ -1728,6 +1728,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Près de 3 millions de décès liés à la chaleur entre 2016 et 2023, une insécurité alimentaire aggravée, des fumées d’incendies toujours plus meurtrière",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "NZ’s resource management rules have been rewritten. What happens after the election?",
+          "link": "https://theconversation.com/nzs-resource-management-rules-have-been-rewritten-what-happens-after-the-election-294046",
+          "published": "2026-11-01T17:39:36+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "NZ’s environmental problems are mounting, while the regulatory system managing them has undergone radical change.",
           "image": null,
           "other_news": true
         },

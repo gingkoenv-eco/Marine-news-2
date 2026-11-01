@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T17:47:21.586829+00:00",
+  "generated_at": "2026-11-01T06:01:43.403927+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -475,6 +475,17 @@
           "language": "en",
           "summary": "Adaptation must go beyond infrastructure and resilience to address colonial extraction, unequal development and debt dependency, which continue to fue",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Les morts amènent la vie : comment cadavres d'animaux, arbres calcinés et récifs inertes nourrissent leurs congénères",
+          "link": "https://reporterre.net/Les-morts-amenent-la-vie-comment-cadavres-d-animaux-arbres-calcines-et-recifs-inertes-nourrissent-leurs-congeneres",
+          "published": "2026-11-01T06:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Arbres morts qui hébergent des insectes, carcasses de baleines nourricières... Une recherche d'ampleur a été menée pour étudier",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/mort_et_vie-ef403.jpg?1793512800",
           "other_news": false
         },
         {
@@ -1589,6 +1600,17 @@
           "other_news": true
         },
         {
+          "title": "La COP d’Erevan analysée par Steven Guilbeault, figure des négociations sur la biodiversité : « La question des subventions néfastes est probablement le cheval de bataille des prochaines années »",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/01/cop-biodiversite-a-erevan-la-presidence-armenienne-a-fait-un-travail-exemplaire_6803972_3244.html",
+          "published": "2026-11-01T05:00:27+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’ancien ministre de l’environnement du Canada, et artisan de l’accord de Kunming-Montréal de 2022, un texte fondateur pour le vivant, porte un regard",
+          "image": "https://img.lemde.fr/2022/12/19/510/0/6123/3061/644/322/60/0/d682dda_1671492391494-491546.jpg",
+          "other_news": true
+        },
+        {
           "title": "« Les économistes abordent l’environnement avec une boîte à outils plus riche qu’il y a vingt ans »",
           "link": "https://www.lemonde.fr/idees/article/2026/10/31/les-economistes-abordent-l-environnement-avec-une-boite-a-outils-plus-riche-qu-il-y-a-vingt-ans_6803492_3232.html",
           "published": "2026-10-31T11:00:25+01:00",
@@ -1721,6 +1743,17 @@
           "other_news": true
         },
         {
+          "title": "Environmental defenders testify about attacks in Latin America linked to Canadian mining companies",
+          "link": "https://news.mongabay.com/2026/10/environmental-defenders-testify-about-attacks-in-latin-america-linked-to-canadian-mining-companies/",
+          "published": "2026-10-31T18:16:46+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Inter-American Commission on Human Rights heard testimony Oct. 27 from representatives of six countries alleging harm linked to Canadian mining co",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/31174758/a.-Photo-3-Earthworks-Mayerly-IACHR-Hearing-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "Given a chance, women-led microenterprises uplift Nepali communities & conservation",
           "link": "https://news.mongabay.com/2026/10/given-a-chance-women-led-microenterprises-uplift-nepali-communities-conservation/",
           "published": "2026-10-30T18:02:46+00:00",
@@ -1773,17 +1806,6 @@
           "language": "en",
           "summary": "Investigations by environmental groups have found new evidence that companies linked to deforestation in Borneo are likely controlled by First Resourc",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29135043/DJI_20260701144528_0163_D_SAAJETTY-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "‘Historic win’: Australian state approves national koala park despite controversial funding",
-          "link": "https://news.mongabay.com/2026/10/historic-win-australian-state-approves-national-koala-park-despite-controversial-funding/",
-          "published": "2026-10-29T01:28:15+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "SYDNEY — After more than a decade of campaigning, Australian conservation and community groups celebrated a historic win on Oct. 23 after legislation",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/28133825/kenny-van-roosbroek-CG2AtzDOLFg-unsplash-768x512.jpg",
           "other_news": true
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:01:43.403927+00:00",
+  "generated_at": "2026-11-01T13:26:07.357162+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -133,6 +133,17 @@
           "language": "en",
           "summary": "Exclusive: Images show deep cuts and damage to tails and fins, as experts warn the migrating species often aren’t able to avoid a collision Gruesome i",
           "image": "https://i.guim.co.uk/img/media/de1c62e71454393aa2f4b132d298c3312ff69b9d/106_0_2554_2044/master/2554.jpg?width=140&quality=85&auto=format&fit=max&s=81497212f452a8c73b680056ff502de9",
+          "other_news": false
+        },
+        {
+          "title": "Aquarium shark that helped 'dispel myths' dies",
+          "link": "https://www.bbc.co.uk/news/articles/c64g18lkz0kno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-01T12:13:50+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Staff at Plymouth's aquarium pay tribute to a sand tiger shark believed to be almost 30 years old.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6e/live/db0e3e20-d472-11f1-9dda-1ba6fcc7d159.png",
           "other_news": false
         },
         {
@@ -827,28 +838,6 @@
           "language": "en",
           "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c07/live/57283d20-d4b5-11f1-a58c-6d26609b0a57.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Weather warning lifted as third storm to hit Scotland eases off",
-          "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-27T21:20:52+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aba6/live/8eb52fa0-d14a-11f1-9eb5-811878e0f07d.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Will a new strategy help protect Northern Ireland's nature?",
-          "link": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-27T17:51:13+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da92/live/f806aa70-d202-11f1-b3b6-c1e79e957e40.jpg",
           "other_news": true
         },
         {

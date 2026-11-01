@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:26:07.357162+00:00",
+  "generated_at": "2026-11-01T14:18:41.227672+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -738,6 +738,17 @@
           "other_news": true
         },
         {
+          "title": "Canada can develop infrastructure and protect biodiversity",
+          "link": "https://theconversation.com/canada-can-develop-infrastructure-and-protect-biodiversity-293521",
+          "published": "2026-11-01T13:08:02+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Effective environmental policy requires early relationship-building, trust, shared goals, clear communication and long-term funding.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Leaders grapple with finance and harmful subsidies at UN’s COP17 biodiversity conference",
           "link": "https://news.mongabay.com/2026/10/leaders-grapple-with-finance-and-harmful-subsidies-at-uns-cop17-biodiversity-conference/",
           "published": "2026-10-31T07:07:34+00:00",
@@ -769,17 +780,6 @@
           "type": "news",
           "language": "en",
           "summary": "Cringe can generate enthusiasm among conservative voters by trolling the left while reducing serious policy debates to the level of online memes.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "After three years of relentless reform, what lies beyond the election for education?",
-          "link": "https://theconversation.com/after-three-years-of-relentless-reform-what-lies-beyond-the-election-for-education-293794",
-          "published": "2026-10-29T17:26:26+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Sweeping changes to the curriculum, NCEA and school governance have divided the education sector, all while major challenges remain overlooked.",
           "image": null,
           "other_news": true
         }
@@ -1586,6 +1586,17 @@
           "language": "en",
           "summary": "Indigenous leaders and climate campaigners breathe a sigh of relief following the defeat of Flávio Bolsonaro, a staunch ally of industry and an open c",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Economie et environnement : « Il faut donner une valeur à ce qui n’a pas de prix pour éclairer nos choix collectifs »",
+          "link": "https://www.lemonde.fr/idees/article/2026/11/01/economie-et-environnement-il-faut-donner-une-valeur-a-ce-qui-n-a-pas-de-prix-pour-eclairer-nos-choix-collectifs_6804376_3232.html",
+          "published": "2026-11-01T15:00:11+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Des méthodes ont été développées afin d’évaluer la valeur des services rendus par la nature comme des dégradations qu’elle subit, et que le produit in",
+          "image": "https://img.lemde.fr/2026/02/25/112/0/1500/750/644/322/60/0/0d46916_upload-1-slnbljri1xqm-frame-790.jpg",
           "other_news": true
         },
         {

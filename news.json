@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T17:08:39.015218+00:00",
+  "generated_at": "2026-11-02T21:42:34.411638+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -125,17 +125,6 @@
           "other_news": false
         },
         {
-          "title": "Whales on Australia’s ‘humpback highway’ are at growing risk of injury from boat and propeller strikes",
-          "link": "https://www.theguardian.com/environment/2026/oct/04/whales-australia-humpback-highway-boat-propellor-strikes",
-          "published": "2026-10-03T19:00:06+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Exclusive: Images show deep cuts and damage to tails and fins, as experts warn the migrating species often aren’t able to avoid a collision Gruesome i",
-          "image": "https://i.guim.co.uk/img/media/de1c62e71454393aa2f4b132d298c3312ff69b9d/106_0_2554_2044/master/2554.jpg?width=140&quality=85&auto=format&fit=max&s=81497212f452a8c73b680056ff502de9",
-          "other_news": false
-        },
-        {
           "title": "Aquarium shark that helped 'dispel myths' dies",
           "link": "https://www.bbc.co.uk/news/articles/c64g18lkz0kno?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-01T12:13:50+00:00",
@@ -247,6 +236,17 @@
           "language": "en",
           "summary": "Some farmed fish rely on wild fish for feed but aquaculture should not compromise food security of vulnerable communities.",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "New index tracks countries’ vulnerability to conflict between large and small-scale fishers",
+          "link": "https://news.mongabay.com/2026/11/new-index-tracks-countries-vulnerability-to-conflict-between-large-and-small-scale-fishers/",
+          "published": "2026-11-02T17:19:05+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Competition between small-scale fishers and industrial vessels can threaten food security and livelihoods in coastal communities  especially in the Gl",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/02153353/3-coast-of-Gambia-768x512.jpg",
           "other_news": false
         }
       ],
@@ -692,14 +692,14 @@
           "other_news": true
         },
         {
-          "title": "Canada can develop infrastructure and protect biodiversity",
-          "link": "https://theconversation.com/canada-can-develop-infrastructure-and-protect-biodiversity-293521",
-          "published": "2026-11-01T13:08:02+00:00",
-          "source": "The Conversation",
+          "title": "Indigenous peoples and local communities solidify decision-making powers at COP17",
+          "link": "https://news.mongabay.com/short-article/2026/11/indigenous-peoples-and-local-communities-solidify-decision-making-powers-at-cop17/",
+          "published": "2026-11-02T21:19:11+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Effective environmental policy requires early relationship-building, trust, shared goals, clear communication and long-term funding.",
-          "image": null,
+          "summary": "At the 2026 U.N. Biodiversity Conference in Armenia (COP17), Indigenous peoples and local communities strengthened their role in the decision-making o",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2022/03/31072953/Sami-Indigenous-people-tends-a-reindeer-in-Sweden-768x512.jpg",
           "other_news": true
         },
         {
@@ -727,13 +727,24 @@
       ],
       "Marine Protected Areas & Policy": [
         {
+          "title": "Trust in democracy is in decline in NZ. Could citizens’ assemblies help restore it?",
+          "link": "https://theconversation.com/trust-in-democracy-is-in-decline-in-nz-could-citizens-assemblies-help-restore-it-293792",
+          "published": "2026-11-02T18:28:01+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Citizens’ assemblies are emerging as a response to sinking trust in government. They bring ordinary people into policy decisions earlier, and on more",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "View from The Hill: Jim Chalmers has a lot of weight on his shoulders in the run-up to Christmas",
           "link": "https://theconversation.com/view-from-the-hill-jim-chalmers-has-a-lot-of-weight-on-his-shoulders-in-the-run-up-to-christmas-295657",
           "published": "2026-11-02T07:34:31+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "If the Reserve Bank raises rates again on Tuesday, Chalmers will face a barrage of questions about getting his fiscal policy in better shape.",
+          "summary": "If the Reserve Bank raises rates again today, Chalmers will face a barrage of questions about getting his fiscal policy in better shape.",
           "image": null,
           "other_news": true
         }
@@ -1675,6 +1686,17 @@
           "other_news": true
         },
         {
+          "title": "Wildfires could cost Canada billions over the coming century",
+          "link": "https://theconversation.com/wildfires-could-cost-canada-billions-over-the-coming-century-294451",
+          "published": "2026-11-02T18:39:48+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "New research estimates how climate change will influence the economic costs of Canadian wildfires.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "When a bull falls for a donkey: what an unlikely relationship reveals about animal sexuality",
           "link": "https://theconversation.com/when-a-bull-falls-for-a-donkey-what-an-unlikely-relationship-reveals-about-animal-sexuality-295306",
           "published": "2026-11-02T16:15:01+00:00",
@@ -1705,6 +1727,17 @@
           "language": "en",
           "summary": "NZ’s environmental problems are mounting, while the regulatory system managing them has undergone radical change.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Diverse forests can better withstand extreme weather events, study finds. Here’s why",
+          "link": "https://news.mongabay.com/2026/11/diverse-forests-can-better-withstand-extreme-weather-events-study-finds-heres-why/",
+          "published": "2026-11-02T21:04:55+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Forests around the world face mounting pressures as the climate changes.  In order to understand how they will fare, new research suggests looking at",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/02164751/andy-holmes-TxkisEuUs7w-unsplash-768x512.jpg",
           "other_news": true
         },
         {
@@ -1749,28 +1782,6 @@
           "language": "en",
           "summary": "PAMARAWAN, Philippines — For years, residents of Pamarawan barangay, or village, in the City of Malolos, had to live with floodwater inundating their",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29135605/1000020683-Pamarawan-barangay-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "China’s record-breaking exports of clean tech are making a big dent in emissions, report says",
-          "link": "https://news.mongabay.com/short-article/2026/10/chinas-record-breaking-exports-of-clean-tech-are-making-a-big-dent-in-emissions-report-says/",
-          "published": "2026-10-29T15:51:49+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "BANGKOK (AP) — China is exporting a record amount of clean energy technology and that is making a dent in global emissions. Interest in renewables has",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29154834/AP26301615747100-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Investigations into Singapore palm oil firm find family ties to Borneo deforesters",
-          "link": "https://news.mongabay.com/2026/10/investigations-into-singapore-palm-oil-firm-find-family-ties-to-borneo-deforesters/",
-          "published": "2026-10-29T13:57:08+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Investigations by environmental groups have found new evidence that companies linked to deforestation in Borneo are likely controlled by First Resourc",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29135043/DJI_20260701144528_0163_D_SAAJETTY-768x512.jpg",
           "other_news": true
         }
       ]

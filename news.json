@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T06:01:46.490259+00:00",
+  "generated_at": "2026-11-02T15:55:16.730316+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -202,19 +202,6 @@
           "other_news": false
         }
       ],
-      "Sustainable Fisheries": [
-        {
-          "title": "Fishing cat rescue-and-release offers potential model for conservation in Bangladesh",
-          "link": "https://news.mongabay.com/short-article/2026/10/fishing-cat-rescue-and-release-offers-potential-model-for-conservation-in-bangladesh/",
-          "published": "2026-10-29T05:46:54+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A fishing cat found badly injured and malnourished in northern Bangladesh has been returned to the wild following months of intensive rehabilitation.",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29054627/61-768x512.jpg",
-          "other_news": false
-        }
-      ],
       "Nature-Based Solutions & Restoration": [
         {
           "title": "Six in ten kelp forest regions degraded, but recovery efforts persist",
@@ -267,25 +254,14 @@
       ],
       "Marine Protected Areas & Policy": [
         {
-          "title": "Chumash-led protections helps California expand ocean network",
-          "link": "https://oceanographicmagazine.com/news/chumash-led-protections-helps-california-expand-ocean-network/",
-          "published": "2026-10-26T15:00:40+00:00",
+          "title": "Boulder approach: Greenpeace blocks trawlers in UK’s North Sea",
+          "link": "https://oceanographicmagazine.com/news/boulder-approach-greenpeace-blocks-trawlers-in-uks-north-sea/",
+          "published": "2026-11-02T12:25:55+00:00",
           "source": "Oceanographic",
           "type": "news",
           "language": "en",
-          "summary": "California has created its first new marine protected areas in over a decade, adding around 15,000 acres, protecting kelp forests and giving Chumash t",
+          "summary": "Campaigners say they have closed 116 sq km of the Southern North Sea, an MPA created to protect harbour porpoises, to bottom trawling, after analysis",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Pemba’s new marine protected areas show the power of collaboration to meet 30×30 goal",
-          "link": "https://news.mongabay.com/2026/10/pembas-new-marine-protected-areas-show-the-power-of-collaboration-to-meet-30x30-goal/",
-          "published": "2026-10-29T07:45:46+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Omar Hamad Salim, like many other fishermen from Tumbe village, relies on the ocean for food, an income and a way of life. A number of years ago, he a",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29063925/DSC04884_AdrianPonsardWCS-scaled-1-768x512.jpg",
           "other_news": false
         }
       ],
@@ -354,6 +330,17 @@
           "language": "en",
           "summary": "15 October 1926: Some half-dozen sported alongside the boat, keeping pace with us as they sprang again and again clear from the waterBAY OF BISCAY: De",
           "image": "https://i.guim.co.uk/img/media/fee1c82ff6a474d86ac7009a0a8cda1894639d7f/998_0_2421_1937/master/2421.jpg?width=140&quality=85&auto=format&fit=max&s=b604d1b9988c3f32621d5212da25be0c",
+          "other_news": false
+        },
+        {
+          "title": "Verdict delayed on controversial sea defences",
+          "link": "https://www.bbc.co.uk/news/articles/cq9vz2jj409vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-02T06:16:34+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The council have deferred a decision on the building of 17 rock groynes after RNLI safety concerns.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d2/live/f8328830-d5ee-11f1-a6a8-6dc45e4fc351.jpg",
           "other_news": false
         },
         {
@@ -597,17 +584,6 @@
           "summary": "KAWEMHAKAN, Suriname — Beneath thousands of square kilometers of rainforest here lie vast deposits of gold and other minerals. Around a million ounces",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29181238/IMG_3302-JPEG-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Fishers in eastern Indonesia struggle as rough seas keep them ashore",
-          "link": "https://news.mongabay.com/2026/10/fishers-in-eastern-indonesia-struggle-as-rough-seas-keep-them-ashore/",
-          "published": "2026-10-29T05:19:57+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Fishers in the east Indonesian Maluku Islands say rough seas are keeping them ashore and shrinking their catches as El Niño builds, according to early",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29045302/WhatsApp-Image-2026-10-22-at-09.37.32-768x512.jpeg",
-          "other_news": false
         }
       ]
     },
@@ -634,28 +610,6 @@
           "language": "fr",
           "summary": "Les fake news des industries des énergies fossiles et leurs alliés économiques et politiques nous surexposent aux pollutions, au",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250910__hl_cschmitt_2874127__v1__highres__franceprotestseptember10bloquonstou_1_-b9076.jpg?1793195263",
-          "other_news": true
-        },
-        {
-          "title": "Un groupe agroalimentaire soupçonné d'avoir pollué les captages d'eau potable dans les Deux-Sèvres",
-          "link": "https://reporterre.net/Un-groupe-agroalimentaire-soupconne-d-avoir-pollue-les-captages-d-eau-potable-dans-les-Deux-Sevres",
-          "published": "2026-10-26T11:08:52+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Des rejets d'eau souillée dans un environnement sensible aux pollutions. L'État reproche au groupe agroalimentaire Terrena et à",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/andres-siimon-koh8shapwmw-unsplash_1_-88f5c.jpg?1793012959",
-          "other_news": true
-        },
-        {
-          "title": "En Indonésie, la pollution de l’air due aux incendies a causé la mort de 3 560 personnes en septembre",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/30/en-indonesie-les-incendies-ont-cause-3-560-morts-liees-a-la-pollution-de-l-air-en-septembre_6802919_3244.html",
-          "published": "2026-10-30T09:40:02+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Frappé par une sécheresse aggravée par le phénomène climatique El Niño, le pays lutte depuis des mois contre des feux de forêt qui, selon l’organisme",
-          "image": "https://img.lemde.fr/2026/10/09/720/0/8640/4320/644/322/60/0/6ef2d7e_ftp-1-k030gnofjg12-27eac39bcba64d729889b0e59fd1ad73-0-9b1d2525f71f4166a70da0310bc7dc09.jpg",
           "other_news": true
         }
       ],
@@ -738,6 +692,17 @@
           "other_news": true
         },
         {
+          "title": "Togo’s growing belief-based use trade sweeping up avian biodiversity, says study",
+          "link": "https://news.mongabay.com/short-article/2026/11/togos-growing-belief-based-use-trade-sweeping-up-avian-biodiversity-says-study/",
+          "published": "2026-11-02T13:31:05+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "One of West Africa’s largest markets selling wildlife for belief-based uses has expanded rapidly over the past decade, according to a recent study. Re",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/02132742/Image_1_csp270423-fig-0003-m-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "Leaders grapple with finance and harmful subsidies at UN’s COP17 biodiversity conference",
           "link": "https://news.mongabay.com/2026/10/leaders-grapple-with-finance-and-harmful-subsidies-at-uns-cop17-biodiversity-conference/",
           "published": "2026-10-31T07:07:34+00:00",
@@ -762,13 +727,13 @@
       ],
       "Marine Protected Areas & Policy": [
         {
-          "title": "Fascism mixed into cringey online content is easy to mock – but no less dangerous",
-          "link": "https://theconversation.com/fascism-mixed-into-cringey-online-content-is-easy-to-mock-but-no-less-dangerous-292643",
-          "published": "2026-10-30T12:12:08+00:00",
+          "title": "View from The Hill: Jim Chalmers has a lot of weight on his shoulders in the run-up to Christmas",
+          "link": "https://theconversation.com/view-from-the-hill-jim-chalmers-has-a-lot-of-weight-on-his-shoulders-in-the-run-up-to-christmas-295657",
+          "published": "2026-11-02T07:34:31+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Cringe can generate enthusiasm among conservative voters by trolling the left while reducing serious policy debates to the level of online memes.",
+          "summary": "If the Reserve Bank raises rates again on Tuesday, Chalmers will face a barrage of questions about getting his fiscal policy in better shape.",
           "image": null,
           "other_news": true
         }
@@ -1002,17 +967,6 @@
           "type": "news",
           "language": "en",
           "summary": "The Royal Meteorological Society’s annual report highlights how weather and climate affect the UK’s energy sector. Both winter and summer extremes pos",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Is it wrong to kill wild animals that attack humans? Sometimes conservation demands it",
-          "link": "https://theconversation.com/is-it-wrong-to-kill-wild-animals-that-attack-humans-sometimes-conservation-demands-it-294720",
-          "published": "2026-10-20T13:30:04+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "When wild animals kill people, the response can be controversial. But removing a dangerous individual can often protect people and other wildlife.",
           "image": null,
           "other_news": true
         },
@@ -1435,6 +1389,28 @@
           "other_news": true
         },
         {
+          "title": "Lobbyistes fossiles emmenés aux COP climat : la France sur le podium des pires délégations",
+          "link": "https://reporterre.net/Lobbyistes-fossiles-emmenes-aux-COP-climat-la-France-sur-le-podium-des-pires-delegations",
+          "published": "2026-11-02T11:30:36+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "L'an dernier, lors des grandes négociations climatiques internationales de la COP30, au Brésil, plus de 1 600 lobbyistes des éne",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH466/allcop31aaaaaaa-f1f6c.jpg?1793619038",
+          "other_news": true
+        },
+        {
+          "title": "Octobre rose devient « Octobre Colère »",
+          "link": "https://reporterre.net/Octobre-rose-devient-Octobre-Colere",
+          "published": "2026-11-02T09:52:57+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Pour politiser le cancer du sein en le liant directement aux politiques agricoles et à l'usage des pesticides, le collectif Canc",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261003__d24z4hp__v1__highres__franceagricultureenvironmentpesticidesdemo_1_-53355.jpg?1793613195",
+          "other_news": true
+        },
+        {
           "title": "COP biodiversité : des avancées trop timides pour enrayer l'érosion massive du vivant",
           "link": "https://reporterre.net/COP-biodiversite-des-avancees-trop-timides-pour-enrayer-l-erosion-massive-du-vivant",
           "published": "2026-10-31T09:40:18+00:00",
@@ -1545,36 +1521,14 @@
           "other_news": true
         },
         {
-          "title": "Lula remporte la présidentielle au Brésil, « immense soulagement » pour les défenseurs de l'environnement",
-          "link": "https://reporterre.net/Lula-remporte-la-presidentielle-au-Bresil-immense-soulagement-pour-les-defenseurs-de-l-environnement",
-          "published": "2026-10-26T07:49:08+00:00",
-          "source": "Reporterre",
+          "title": "Voitures électriques : la troisième édition du leasing social peine à atteindre les 50 000 bénéficiaires",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/02/voitures-electriques-la-troisieme-edition-du-leasing-social-peine-a-atteindre-les-50-000-beneficiaires_6805260_3244.html",
+          "published": "2026-11-02T14:30:07+01:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Contrariant les sondages, le président Lula a remporté le 25 octobre la présidentielle au Brésil, face au candidat d'extrême dro",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/lulalalabolsonaronono-ec4cd.jpg?1793000953",
-          "other_news": true
-        },
-        {
-          "title": "Le changement climatique efface les glaciers de nos cartes de randonnée",
-          "link": "https://reporterre.net/Pourquoi-des-glaciers-disparaissent-de-nos-cartes-de-randonnee",
-          "published": "2026-10-26T07:27:37+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Avec le réchauffement climatique, les glaciers fondent et certains disparaissent. De quoi obliger l'IGN à mettre à jour ses célè",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/rando_ffr289_1_-c4dda.jpg?1792999668",
-          "other_news": true
-        },
-        {
-          "title": "Lula secures fourth term in historic victory over far-right Flavio Bolsonaro",
-          "link": "https://oceanographicmagazine.com/news/lula-secures-fourth-term-in-historic-victory-over-far-right-flavio-bolsonaro/",
-          "published": "2026-10-26T16:48:29+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Indigenous leaders and climate campaigners breathe a sigh of relief following the defeat of Flávio Bolsonaro, a staunch ally of industry and an open c",
-          "image": null,
+          "summary": "Le dispositif, qui permet de donner accès à un véhicule électrique à des ménages modestes, est moins séduisant qu’à son lancement. Fin octobre, seulem",
+          "image": "https://img.lemde.fr/2026/11/02/684/0/8192/4096/644/322/60/0/b33fa5b_upload-1-4iy7swfwacjh-maxnewsspecialtwo347584.jpg",
           "other_news": true
         },
         {
@@ -1677,6 +1631,17 @@
           "other_news": true
         },
         {
+          "title": "Petites avancées et gros échecs : huit chiffres clés pour tout comprendre à la COP17 sur la biodiversité",
+          "link": "https://vert.eco/biodiversite/petites-avancees-et-gros-echecs-huit-chiffres-cles-pour-tout-comprendre-a-la-cop17-sur-la-biodiversite/",
+          "published": "2026-11-02T11:06:22+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "La 17ème conférence mondiale (COP17) sur la biodiversité s’est achevée samedi à Erevan, en Arménie. La communauté internationale a reconnu qu’il falla",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "«Pas en avant» ou «occasion ratée» ? Pour la première fois, l’UE propose un règlement sur l’adaptation au changement climatique",
           "link": "https://vert.eco/climat/pas-en-avant-ou-occasion-ratee-pour-la-premiere-fois-lue-propose-un-reglement-sur-ladaptation-au-changement-climatique/",
           "published": "2026-10-29T09:40:49+00:00",
@@ -1688,7 +1653,7 @@
           "other_news": true
         },
         {
-          "title": "Des centaines de procès et des peines qui s’alourdissent : les chiffres inédits sur la répression judiciaire des militants écolos",
+          "title": "Des centaines de procès et des peines qui s’alourdissent : les chiffres chocs sur la répression judiciaire des militants écolos",
           "link": "https://vert.eco/rapports-de-force/des-centaines-de-proces-et-des-peines-qui-salourdissent-les-chiffres-inedits-sur-la-repression-judiciaire-des-militants-ecolos/",
           "published": "2026-10-29T05:00:00+00:00",
           "source": "Vert Eco Articles",
@@ -1706,6 +1671,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Près de 3 millions de décès liés à la chaleur entre 2016 et 2023, une insécurité alimentaire aggravée, des fumées d’incendies toujours plus meurtrière",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Supreme Court decision on gerrymandering will wind back progress on racial justice",
+          "link": "https://theconversation.com/supreme-court-decision-on-gerrymandering-will-wind-back-progress-on-racial-justice-295176",
+          "published": "2026-11-02T13:12:17+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Both Democrat and Republican states are changing the boundaries of voting districts, often along racial llines.",
           "image": null,
           "other_news": true
         },

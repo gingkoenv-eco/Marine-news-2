@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:55:16.730316+00:00",
+  "generated_at": "2026-11-02T17:08:39.015218+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -165,6 +165,17 @@
           "type": "news",
           "language": "en",
           "summary": "A new Curtin University-led study, published in Royal Society Open Science, found that pygmy blue whales generally feed during daylight hours, leaving",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Microbes at the end of the earth: Antarctica’s hidden biodiversity",
+          "link": "https://theconversation.com/microbes-at-the-end-of-the-earth-antarcticas-hidden-biodiversity-294180",
+          "published": "2026-11-02T15:03:20+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "It looks as though Antarctica’s conditions have allowed unique microbial communities to develop.",
           "image": null,
           "other_news": false
         },
@@ -712,17 +723,6 @@
           "summary": "YEREVAN, Armenia — Visitors entering the main hallway of the 2026 U.N. biodiversity conference (COP17) encounter a mural of a herd of elephants. The i",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/31062001/DSC_9185-768x512.jpeg",
           "other_news": true
-        },
-        {
-          "title": "‘Design conservation with those who will live with it’: 30 by 30 in Africa",
-          "link": "https://news.mongabay.com/2026/10/design-conservation-with-those-who-will-live-with-it-30-by-30-in-africa/",
-          "published": "2026-10-29T08:58:34+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Perhaps the best-known target of the Kunming-Montreal Global Biodiversity Framework (GBF) is what’s commonly known as “30 by 30,” the aim to bring at",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29083339/DSC05020_AdrianPonsardWCS-1-768x512.jpg",
-          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -1048,6 +1048,17 @@
           "other_news": true
         },
         {
+          "title": "Interactive: Who wants what at the COP31 climate change summit",
+          "link": "https://www.carbonbrief.org/interactive-who-wants-what-at-the-cop31-climate-change-summit",
+          "published": "2026-11-02T16:57:31+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Delegates will soon gather in the Turkish resort city of Antalya for UN climate negotiations, against a backdrop of war,&#8230;\nThe post Interactive:",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Experts: What China wants from the COP31 climate talks",
           "link": "https://www.carbonbrief.org/experts-what-china-wants-from-the-cop31-climate-talks",
           "published": "2026-10-29T14:25:40+00:00",
@@ -1121,17 +1132,6 @@
           "type": "news",
           "language": "en",
           "summary": "Artificial intelligence (AI) is developing at a rapid pace and is increasingly being used by scientists to better understand climate&#8230;\nThe post E",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "UNEP: Opportunity has ‘been lost’ to meet 1.5C warming limit without ‘overshoot’",
-          "link": "https://www.carbonbrief.org/unep-opportunity-has-been-lost-to-meet-1-5c-warming-limit-without-overshoot",
-          "published": "2026-10-21T05:00:00+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "A temporary breach of the 1.5C global-warming limit is now “inevitable” following “decades of insufficient climate action”, says the UN&#8230;\nThe pos",
           "image": null,
           "other_news": true
         },
@@ -1671,6 +1671,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Près de 3 millions de décès liés à la chaleur entre 2016 et 2023, une insécurité alimentaire aggravée, des fumées d’incendies toujours plus meurtrière",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "When a bull falls for a donkey: what an unlikely relationship reveals about animal sexuality",
+          "link": "https://theconversation.com/when-a-bull-falls-for-a-donkey-what-an-unlikely-relationship-reveals-about-animal-sexuality-295306",
+          "published": "2026-11-02T16:15:01+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Same-sex behaviour is common in animals, but a bull and a male donkey in Ethiopia are an unusual pair. What might they tell us about sex in nature?",
           "image": null,
           "other_news": true
         },

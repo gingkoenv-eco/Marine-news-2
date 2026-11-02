@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T18:26:44.705090+00:00",
+  "generated_at": "2026-11-02T06:01:46.490259+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -573,17 +573,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Après l’attentat raciste survenu à Trappes, vendredi dernier, des déclarations de Marine Le Pen et Jordan Bardella sur la commune des Yvelines ont rap",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "A wise woman who turned fish eggs into beasts: meet an ancient witch from Mesopotamia",
-          "link": "https://theconversation.com/a-wise-woman-who-turned-fish-eggs-into-beasts-meet-an-ancient-witch-from-mesopotamia-294580",
-          "published": "2026-10-29T19:13:05+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Ancient evidence tells us that belief in witchcraft – and fear of witches – is more than 4,000 years old.",
           "image": null,
           "other_news": false
         },
@@ -1617,7 +1606,7 @@
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "L’ancien ministre de l’environnement du Canada, et artisan de l’accord de Kunming-Montréal de 2022, un texte fondateur pour le vivant, porte un regard",
+          "summary": "L’ancien ministre de l’environnement du Canada, et artisan de l’accord de Kunming-Montréal de 2022, un texte fondateur pour le vivant, porte, dans un",
           "image": "https://img.lemde.fr/2022/12/19/510/0/6123/3061/644/322/60/0/d682dda_1671492391494-491546.jpg",
           "other_news": true
         },
@@ -1688,17 +1677,6 @@
           "other_news": true
         },
         {
-          "title": "Climat, biodiversité : cinq initiatives citoyennes qui font avancer les choses",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/30/climat-biodiversite-cinq-initiatives-citoyennes-qui-font-avancer-les-choses_6802806_3244.html",
-          "published": "2026-10-30T06:30:07+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans la série « On avance », les journalistes du « Monde » vont à la rencontre de projets locaux concrets pour le climat et la protection du vivant",
-          "image": "https://img.lemde.fr/2025/10/23/250/0/3000/1500/644/322/60/0/269a2c5_upload-1-unixw4s49jcr-frame-70.jpg",
-          "other_news": true
-        },
-        {
           "title": "«Pas en avant» ou «occasion ratée» ? Pour la première fois, l’UE propose un règlement sur l’adaptation au changement climatique",
           "link": "https://vert.eco/climat/pas-en-avant-ou-occasion-ratee-pour-la-premiere-fois-lue-propose-un-reglement-sur-ladaptation-au-changement-climatique/",
           "published": "2026-10-29T09:40:49+00:00",
@@ -1739,17 +1717,6 @@
           "type": "news",
           "language": "en",
           "summary": "NZ’s environmental problems are mounting, while the regulatory system managing them has undergone radical change.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "‘What we leave behind is not as important as how we’ve lived’: remembering actor Patrick Stewart",
-          "link": "https://theconversation.com/what-we-leave-behind-is-not-as-important-as-how-weve-lived-remembering-actor-patrick-stewart-295542",
-          "published": "2026-10-30T01:15:11+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Passing away this week at 86, Stewart will be remembered as actor, dramaturge, Shakespearean exemplar, mutant professor, and distinguished Starfleet c",
           "image": null,
           "other_news": true
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:16:47.413771+00:00",
+  "generated_at": "2026-11-03T15:15:37.988711+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -72,6 +72,17 @@
           "type": "news",
           "language": "en",
           "summary": "A proposal to extend the ban on deep-sea bottom trawling in the Mediterranean and Black Sea from 1,000 to 800 metres depth has been blocked by the EU",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "North Africa’s green hydrogen exports to Europe could harm water supply and marine life – study",
+          "link": "https://theconversation.com/north-africas-green-hydrogen-exports-to-europe-could-harm-water-supply-and-marine-life-study-294368",
+          "published": "2026-11-03T14:09:22+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "European countries want north Africa to set up  green hydrogen industries for them, but this will come at a huge cost to water supplies and coastal ar",
           "image": null,
           "other_news": false
         },
@@ -218,17 +229,6 @@
         }
       ],
       "Nature-Based Solutions & Restoration": [
-        {
-          "title": "Six in ten kelp forest regions degraded, but recovery efforts persist",
-          "link": "https://oceanographicmagazine.com/news/six-in-ten-kelp-forest-regions-degraded-but-recovery-efforts-persist/",
-          "published": "2026-10-27T12:20:49+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new Kelp Forest Alliance report finds 60 per cent of assessed kelp forest regions are degraded, but restoration, protection and Indigenous stewardsh",
-          "image": null,
-          "other_news": false
-        },
         {
           "title": "Aztec methods and crocodiles: How biologists are restoring mangroves in Mexico",
           "link": "https://news.mongabay.com/2026/10/aztec-techniques-and-crocodiles-how-biologists-are-restoring-mangroves-in-mexico/",
@@ -488,6 +488,17 @@
           "language": "fr",
           "summary": "Arbres morts qui hébergent des insectes, carcasses de baleines nourricières... Une recherche d'ampleur a été menée pour étudier",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/mort_et_vie-ef403.jpg?1793512800",
+          "other_news": false
+        },
+        {
+          "title": "Indigenous shell-scattering technique shields marine life from acidic seas",
+          "link": "https://oceanographicmagazine.com/news/indigenous-shell-scattering-technique-shields-marine-life-from-acidic-seas/",
+          "published": "2026-11-03T15:08:24+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Crushed shells mixed into coastal sand neutralise acidic waters and erase genetic stress in young shellfish study finds, validating long-standing Indi",
+          "image": null,
           "other_news": false
         },
         {
@@ -1514,17 +1525,6 @@
           "other_news": true
         },
         {
-          "title": "« Il est important d'être une mauvaise herbe » : avec la chanteuse 2L, le rap comme terrain de lutte",
-          "link": "https://reporterre.net/2L-rappeuse-Il-est-important-d-etre-une-mauvaise-herbe-dans-ce-monde",
-          "published": "2026-10-27T06:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Anticapitalisme, antiracisme... Après l'émission « Nouvelle école », 2L est devenue l'une des voix du rap qui parlent aux luttes",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/14102026_nmn_5706_concert_2l__c_nnoman-4a84c.jpg?1793080801",
-          "other_news": true
-        },
-        {
           "title": "La bataille pour le climat est-elle féministe ?",
           "link": "https://www.lemonde.fr/podcasts/article/2026/11/03/la-bataille-pour-le-climat-est-elle-feministe_6805539_5463015.html",
           "published": "2026-11-03T07:30:00+01:00",
@@ -1621,17 +1621,6 @@
           "language": "fr",
           "summary": "Les dommages du réchauffement climatique sont considérables : ils rognent la croissance et, avec elle, les marges budgétaires de la France. Réduire no",
           "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/3e6bf69_upload-1-kkrxrwjpujdy-frame-964.jpg",
-          "other_news": true
-        },
-        {
-          "title": "COP biodiversité : à Erevan, en Arménie, près de 200 Etats s’accordent sur des textes-clés mais à l’ambition affaiblie",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/31/cop-biodiversite-a-erevan-en-armenie-pres-de-200-etats-s-accordent-sur-des-textes-cles-mais-a-l-ambition-affaiblie_6803471_3244.html",
-          "published": "2026-10-31T08:23:05+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Après deux semaines de difficiles débats, les participants à la COP17 ont adopté une cinquantaine de textes essentiels pour poursuivre la lutte contre",
-          "image": "https://img.lemde.fr/2026/10/26/504/0/6048/3024/644/322/60/0/0b04f44_ftp-1-47qya3mixh39-afp-d4gf3b7.jpg",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:02:00.550014+00:00",
+  "generated_at": "2026-11-03T14:16:47.413771+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -24,6 +24,19 @@
           "type": "news",
           "language": "en",
           "summary": "The European Court of Auditors finds only 1 per cent of EU marine waters are strictly protected and fishing is 72 per cent higher inside Natura 2000 s",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Antarctic protection stalls again as CCAMLR fails MPA delivery",
+          "link": "https://oceanographicmagazine.com/news/antarctic-protection-stalls-again-as-ccamlr-fails-mpa-delivery/",
+          "published": "2026-11-03T13:04:59+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Two weeks of negotiations at the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR) have ended in Hobart without agreement",
           "image": null,
           "other_news": false
         }
@@ -195,7 +208,7 @@
         {
           "title": "Boulders dropped off coast to disrupt deep fishing",
           "link": "https://www.bbc.co.uk/news/articles/c3j47k8rrkr5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-03T05:44:42+00:00",
+          "published": "2026-11-03T10:53:09+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -229,17 +242,6 @@
         }
       ],
       "Fisheries & Climate Change Ecosystem": [
-        {
-          "title": "Wild fish are a precious resource – here’s how aquaculture can bolster food security",
-          "link": "https://theconversation.com/wild-fish-are-a-precious-resource-heres-how-aquaculture-can-bolster-food-security-276701",
-          "published": "2026-10-21T09:46:05+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Some farmed fish rely on wild fish for feed but aquaculture should not compromise food security of vulnerable communities.",
-          "image": null,
-          "other_news": false
-        },
         {
           "title": "New index tracks countries’ vulnerability to conflict between large and small-scale fishers",
           "link": "https://news.mongabay.com/2026/11/new-index-tracks-countries-vulnerability-to-conflict-between-large-and-small-scale-fishers/",
@@ -346,20 +348,9 @@
           "other_news": false
         },
         {
-          "title": "Verdict delayed on controversial sea defences",
-          "link": "https://www.bbc.co.uk/news/articles/cq9vz2jj409vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-02T06:16:34+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The council have deferred a decision on the building of 17 rock groynes after RNLI safety concerns.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d2/live/f8328830-d5ee-11f1-a6a8-6dc45e4fc351.jpg",
-          "other_news": false
-        },
-        {
           "title": "Do the Shetland Isles need Cold War-style military protection?",
           "link": "https://www.bbc.co.uk/news/articles/cjg47dq6q775o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-02T22:45:57+00:00",
+          "published": "2026-11-03T06:07:33+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -412,6 +403,17 @@
           "other_news": false
         },
         {
+          "title": "Five ways that sea-level rise affects your daily life, even if you live inland",
+          "link": "https://theconversation.com/five-ways-that-sea-level-rise-affects-your-daily-life-even-if-you-live-inland-294708",
+          "published": "2026-11-03T08:53:10+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Reducing greenhouse gas emissions and improving coastal adaptation will help determine how severely sea level rise affects everyone.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "As flood risk rises, some communities question the idea of resilience",
           "link": "https://theconversation.com/as-flood-risk-rises-some-communities-question-the-idea-of-resilience-292498",
           "published": "2026-10-23T13:53:31+00:00",
@@ -430,17 +432,6 @@
           "type": "news",
           "language": "en",
           "summary": "A landmark 2024 Supreme Court ruling forced ministers to account for emissions from burning fossil fuels.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Jackdaw approval: what a new North Sea gasfield means for UK energy security, bills and tax",
-          "link": "https://theconversation.com/jackdaw-approval-what-a-new-north-sea-gasfield-means-for-uk-energy-security-bills-and-tax-291418",
-          "published": "2026-10-21T09:45:14+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Jackdaw gasfield could contribute to security of supply but not protect the UK from high prices.",
           "image": null,
           "other_news": false
         },
@@ -489,17 +480,6 @@
           "other_news": false
         },
         {
-          "title": "Africa should not have to adapt to an unjust climate system",
-          "link": "https://www.climatechangenews.com/2026/10/05/africa-should-not-have-to-adapt-to-an-unjust-climate-system/",
-          "published": "2026-10-05T15:54:01+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Adaptation must go beyond infrastructure and resilience to address colonial extraction, unequal development and debt dependency, which continue to fue",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Les morts amènent la vie : comment cadavres d'animaux, arbres calcinés et récifs inertes nourrissent leurs congénères",
           "link": "https://reporterre.net/Les-morts-amenent-la-vie-comment-cadavres-d-animaux-arbres-calcines-et-recifs-inertes-nourrissent-leurs-congeneres",
           "published": "2026-11-01T06:00:00+00:00",
@@ -508,17 +488,6 @@
           "language": "fr",
           "summary": "Arbres morts qui hébergent des insectes, carcasses de baleines nourricières... Une recherche d'ampleur a été menée pour étudier",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/mort_et_vie-ef403.jpg?1793512800",
-          "other_news": false
-        },
-        {
-          "title": "La mer des batailles : comment défendre le vivant qu'on ne voit pas",
-          "link": "https://reporterre.net/La-mer-des-batailles-comment-defendre-le-vivant-qu-on-ne-voit-pas",
-          "published": "2026-10-26T15:15:16+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Longtemps méconnu, l'océan est devenu un objet de convoitise industrielle. Des poissons aux minerais, ses ressources s'arrachent",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/collage_-_format_site_web_10_-2-a4c72.png?1793027717",
           "other_news": false
         },
         {
@@ -555,28 +524,6 @@
           "other_news": false
         },
         {
-          "title": "Record-breaking ship that carried presidents and Marilyn Monroe to become world’s largest artificial reef",
-          "link": "https://oceanographicmagazine.com/news/record-breaking-ship-that-carried-presidents-and-marilyn-monroe-to-become-worlds-largest-artificial-reef/",
-          "published": "2026-10-27T11:34:45+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The SS United States, the fastest passenger ship ever built, is due to be sunk in the Gulf of Mexico in November, giving fish a new home and divers a",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "« Reprendre la mer », une invitation à sauver la pêche et les océans des chalutiers démesurés",
-          "link": "https://www.lemonde.fr/idees/article/2026/10/30/reprendre-la-mer-une-invitation-a-sauver-la-peche-et-les-oceans-des-chalutiers-demesures_6803128_3232.html",
-          "published": "2026-10-30T19:00:02+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans cet ouvrage, la militante écologiste Claire Nouvian, le philosophe du vivant Baptiste Morizot et le biologiste marin Daniel Pauly proposent le dé",
-          "image": "https://img.lemde.fr/2026/10/27/160/0/1920/960/644/322/60/0/4a3dfb0_upload-1-874bigmrzonf-reprendre-la-mer.jpg",
-          "other_news": false
-        },
-        {
           "title": "«Trappes est une République islamique en miniature» : le RN et les banlieues, trente années de propos stigmatisants",
           "link": "https://vert.eco/chaleurs-actuelles/trappes-est-une-republique-islamique-en-miniature-le-rn-et-les-banlieues-trente-annees-de-propos-stigmatisants/",
           "published": "2026-10-28T16:00:00+00:00",
@@ -596,17 +543,6 @@
           "language": "en",
           "summary": "Most Americans have likely never heard of the United States Integrated Ocean Observing System, or IOOS. Yet if you have ever checked conditions before",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "In Suriname’s Amazon, the Wayana community struggling to keep gold miners at bay",
-          "link": "https://news.mongabay.com/2026/10/in-surinames-amazon-the-wayana-community-struggling-to-keep-gold-miners-at-bay/",
-          "published": "2026-10-29T18:47:56+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "KAWEMHAKAN, Suriname — Beneath thousands of square kilometers of rainforest here lie vast deposits of gold and other minerals. Around a million ounces",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29181238/IMG_3302-JPEG-768x512.jpg",
           "other_news": false
         }
       ]
@@ -694,6 +630,17 @@
           "other_news": true
         },
         {
+          "title": "Global biodiversity summit ends with shortfall of funding for Africa, despite 30×30 push",
+          "link": "https://news.mongabay.com/short-article/2026/11/global-biodiversity-summit-ends-with-shortfall-of-funding-for-africa-despite-30x30-push/",
+          "published": "2026-11-03T11:06:30+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "African countries left the United Nations biodiversity conference in Yerevan, Armenia, with an unresolved funding gap for conservation. International",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/03110331/CBDCOP17-1678_0-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "Indigenous peoples and local communities solidify decision-making powers at COP17",
           "link": "https://news.mongabay.com/short-article/2026/11/indigenous-peoples-and-local-communities-solidify-decision-making-powers-at-cop17/",
           "published": "2026-11-02T21:19:11+00:00",
@@ -738,17 +685,6 @@
           "summary": "Citizens’ assemblies are emerging as a response to sinking trust in government. They bring ordinary people into policy decisions earlier, and on more",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "View from The Hill: Jim Chalmers has a lot of weight on his shoulders in the run-up to Christmas",
-          "link": "https://theconversation.com/view-from-the-hill-jim-chalmers-has-a-lot-of-weight-on-his-shoulders-in-the-run-up-to-christmas-295657",
-          "published": "2026-11-02T07:34:31+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "If the Reserve Bank raises rates again today, Chalmers will face a barrage of questions about getting his fiscal policy in better shape.",
-          "image": null,
-          "other_news": true
         }
       ],
       "Other Marine News": [
@@ -783,6 +719,28 @@
           "language": "en",
           "summary": "The Norwegian government has given a permit to a mining company to release waste into Førde fjord despite a 17-year battle by campaigners and a suprem",
           "image": "https://i.guim.co.uk/img/media/dc0441d99e158bcc614888c623997f70242554f1/170_0_3752_3001/master/3752.jpg?width=140&quality=85&auto=format&fit=max&s=044fc190d1e94ef92fac096be88129c2",
+          "other_news": true
+        },
+        {
+          "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+          "link": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T08:57:20+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A watchdog has criticised the lack of progress made by organisations in tackling climate change.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c5e/live/72a9ebc0-d6d6-11f1-b2be-0146bf989691.jpg",
+          "other_news": true
+        },
+        {
+          "title": "AI data centres could undermine UK's emissions goals",
+          "link": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T06:27:17+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Four planned \"hyperscale\" data centres consider using gas-fired power for their electricity needs.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d46/live/2f770bd0-d6bd-11f1-aacc-5b5f23abff4b.jpg",
           "other_news": true
         },
         {
@@ -881,6 +839,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Une étude inédite montre que l’implantation d’éoliennes est associée à une hausse locale du vote d’extrême droite dès le dépôt du permis, avant même l",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Vocational GCSEs won’t arrive until 2029 – but clean energy skills can be found in the curriculum now",
+          "link": "https://theconversation.com/vocational-gcses-wont-arrive-until-2029-but-clean-energy-skills-can-be-found-in-the-curriculum-now-295008",
+          "published": "2026-11-03T11:59:35+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "UK clean energy jobs are expected to double by 2030.",
           "image": null,
           "other_news": true
         },
@@ -1017,8 +986,8 @@
           "other_news": true
         },
         {
-          "title": "How candidates are (quietly) talking about climate change – 3 election strategies you’ll see across the US",
-          "link": "https://theconversation.com/how-candidates-are-quietly-talking-about-climate-change-3-election-strategies-youll-see-across-the-us-293687",
+          "title": "Candidates are quietly talking about climate change – 3 election strategies you’ll see across the US",
+          "link": "https://theconversation.com/candidates-are-quietly-talking-about-climate-change-3-election-strategies-youll-see-across-the-us-293687",
           "published": "2026-10-19T12:36:08+00:00",
           "source": "The Conversation US",
           "type": "news",
@@ -1057,6 +1026,17 @@
           "type": "news",
           "language": "en",
           "summary": "Engineers are using a unique test facility called the Wall of Wind to develop housing that’s both affordable and disaster-resistant. Their tests show",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "State of the climate: 2026 likely to tie with 2024 as the warmest year on record",
+          "link": "https://www.carbonbrief.org/state-of-the-climate-2026-likely-to-tie-with-2024-as-the-warmest-year-on-record",
+          "published": "2026-11-03T13:48:04+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "With three-quarters of the year now past, it is virtually certain that 2026 will be the warmest or second-warmest year&#8230;\nThe post State of the cl",
           "image": null,
           "other_news": true
         },
@@ -1402,6 +1382,17 @@
           "other_news": true
         },
         {
+          "title": "Essais nucléaires : l'Algérie réclame à la France l'emplacement des déchets radioactifs enfouis dans son sol",
+          "link": "https://reporterre.net/Essais-nucleaires-l-Algerie-reclame-a-la-France-l-emplacement-des-dechets-radioactifs",
+          "published": "2026-11-03T11:30:06+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "L'Algérie poursuit le nettoyage des déchets radioactifs laissés par les essais nucléaires français. Le ministère algérien de la",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20100225__par3081437__v1001__highres-d2e0e.jpg?1793705522",
+          "other_news": true
+        },
+        {
           "title": "Lobbyistes fossiles emmenés aux COP climat : la France sur le podium des pires délégations",
           "link": "https://reporterre.net/Lobbyistes-fossiles-emmenes-aux-COP-climat-la-France-sur-le-podium-des-pires-delegations",
           "published": "2026-11-02T11:30:36+00:00",
@@ -1534,9 +1525,20 @@
           "other_news": true
         },
         {
+          "title": "La bataille pour le climat est-elle féministe ?",
+          "link": "https://www.lemonde.fr/podcasts/article/2026/11/03/la-bataille-pour-le-climat-est-elle-feministe_6805539_5463015.html",
+          "published": "2026-11-03T07:30:00+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le changement climatique exacerbe les inégalités de genre et il faut en tenir compte pour réussir la transition. La climatologue Valérie Masson-Delmot",
+          "image": "https://img.lemde.fr/2026/11/02/55/0/1778/889/644/322/60/0/4ec97c4_upload-1-0sx5rlwenbfr-01-09-massondelmotte.jpg",
+          "other_news": true
+        },
+        {
           "title": "En Finlande, l’abattage sans autorisation de 250 000 arbres pour construire un data center de Google embarrasse le gouvernement",
           "link": "https://www.lemonde.fr/planete/article/2026/11/03/en-finlande-l-abattage-sans-autorisation-de-250-000-arbres-pour-construire-un-data-center-de-google-embarrasse-le-gouvernement_6805532_3244.html",
-          "published": "2026-11-03T05:45:08+01:00",
+          "published": "2026-11-03T05:45:04+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1633,28 +1635,6 @@
           "other_news": true
         },
         {
-          "title": "En Guyane, une sécheresse record complique l’accès à l’eau potable",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/31/en-guyane-une-secheresse-record-complique-l-acces-a-l-eau-potable_6803397_3244.html",
-          "published": "2026-10-31T06:00:31+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Décuplée par l’intensité du phénomène El Niño et le changement climatique, la sécheresse qui sévit actuellement dans le territoire amazonien exacerbe",
-          "image": "https://img.lemde.fr/2026/10/29/594/0/1440/720/644/322/60/0/46ab26d_upload-1-p1c6sobzoqkr-869886831-18126649246909854-8746968507958421324-n.jpg",
-          "other_news": true
-        },
-        {
-          "title": "A la COP17 d’Erevan, malgré les divergences, les Etats s’entendent sur des textes pour tenter de protéger la nature",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/30/a-la-cop17-d-erevan-malgre-les-divergences-les-etats-s-entendent-sur-des-textes-pour-tenter-de-proteger-la-nature_6803202_3244.html",
-          "published": "2026-10-30T23:56:30+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le premier texte est censé représenter un « examen mondial » d’un accord de 2022 relatif à la biodiversité. Le second concerne le financement et la pa",
-          "image": "https://img.lemde.fr/2026/10/30/122/0/3631/1815/644/322/60/0/f571bfe_ftp-1-f7sjjm1uk05q-afp-d4xd3xa.jpg",
-          "other_news": true
-        },
-        {
           "title": "RN, dette et pauvreté en hausse, démocratie et climat en berne : le lourd bilan d’Emmanuel Macron en graphiques",
           "link": "https://vert.eco/politique/rn-dette-et-pauvrete-en-hausse-democratie-et-climat-en-berne-le-lourd-bilan-demmanuel-macron-en-graphiques/",
           "published": "2026-11-03T05:00:00+00:00",
@@ -1695,17 +1675,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Créée par le Mouvement de soutien aux défenseur·ses de l’environnement, une nouvelle plateforme répertorie les procès intentés aux militant·es écologi",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Le changement climatique doit être déclaré «urgence sanitaire mondiale», alertent les scientifiques du Lancet",
-          "link": "https://vert.eco/climat/le-changement-climatique-doit-etre-declare-urgence-sanitaire-mondiale-alertent-les-scientifiques-du-lancet/",
-          "published": "2026-10-28T11:10:52+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Près de 3 millions de décès liés à la chaleur entre 2016 et 2023, une insécurité alimentaire aggravée, des fumées d’incendies toujours plus meurtrière",
           "image": null,
           "other_news": true
         },
@@ -1773,17 +1742,6 @@
           "language": "en",
           "summary": "NAYA PADAMPUR, Nepal — A spinning wheel whirs on a rooftop in Naya Padampur in south-central Nepal, sending ivory strands of yarn through Bin Maya Gur",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/30164427/Spinning-Wool2_NadiaWhite_19May2026-768x512.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "Philippine village uses nature to defend against floods with bamboo, shells and husks",
-          "link": "https://news.mongabay.com/2026/10/philippine-village-uses-nature-to-defend-against-floods-with-bamboo-shells-and-husks/",
-          "published": "2026-10-30T01:17:43+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "PAMARAWAN, Philippines — For years, residents of Pamarawan barangay, or village, in the City of Malolos, had to live with floodwater inundating their",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/29135605/1000020683-Pamarawan-barangay-768x512.jpg",
           "other_news": true
         }
       ]

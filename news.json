@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T22:20:33.822958+00:00",
+  "generated_at": "2026-11-03T06:02:00.550014+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -125,17 +125,6 @@
           "other_news": false
         },
         {
-          "title": "Aquarium shark that helped 'dispel myths' dies",
-          "link": "https://www.bbc.co.uk/news/articles/c64g18lkz0kno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-01T12:13:50+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Staff at Plymouth's aquarium pay tribute to a sand tiger shark believed to be almost 30 years old.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6e/live/db0e3e20-d472-11f1-9dda-1ba6fcc7d159.png",
-          "other_news": false
-        },
-        {
           "title": "18 million people living in poverty depend on underwater meadows for food and income - but these vital habitats are under threat",
           "link": "https://theconversation.com/18-million-people-living-in-poverty-depend-on-underwater-meadows-for-food-and-income-but-these-vital-habitats-are-under-threat-293971",
           "published": "2026-10-26T10:27:43+00:00",
@@ -199,6 +188,19 @@
           "language": "en",
           "summary": "If you spend some time on the banks of the St. Lawrence River in Quebec, you just might catch a flash of white beneath the surface. A whale. A beluga",
           "image": null,
+          "other_news": false
+        }
+      ],
+      "Sustainable Fisheries": [
+        {
+          "title": "Boulders dropped off coast to disrupt deep fishing",
+          "link": "https://www.bbc.co.uk/news/articles/c3j47k8rrkr5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T05:44:42+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Greenpeace drops nine large rocks to create a barrier to bottom-trawling fishing vessels.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18be/live/41bac5d0-d6da-11f1-b2be-0146bf989691.jpg",
           "other_news": false
         }
       ],
@@ -352,6 +354,17 @@
           "language": "en",
           "summary": "The council have deferred a decision on the building of 17 rock groynes after RNLI safety concerns.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d2/live/f8328830-d5ee-11f1-a6a8-6dc45e4fc351.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Do the Shetland Isles need Cold War-style military protection?",
+          "link": "https://www.bbc.co.uk/news/articles/cjg47dq6q775o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-02T22:45:57+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4228/live/040f9890-d6bd-11f1-aacc-5b5f23abff4b.jpg",
           "other_news": false
         },
         {
@@ -601,17 +614,6 @@
     "To Watch / Read / Listen": {},
     "Other News": {
       "Plastic & Ocean Pollution": [
-        {
-          "title": "Serious pollution by water industry remains high despite £5bn investment",
-          "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-29T12:08:01+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/934c/live/6b157700-d396-11f1-b490-07d78ce4b8e5.jpg",
-          "other_news": true
-        },
         {
           "title": "Les fausses informations nous exposent aux pollutions, aux maladies, aux incendies",
           "link": "https://reporterre.net/Comment-la-desinformation-climatique-nous-tue",
@@ -1147,6 +1149,17 @@
           "other_news": true
         },
         {
+          "title": "What’s on the climate calendar for November 2026?",
+          "link": "https://www.climatechangenews.com/2026/11/02/whats-on-the-climate-calendar-for-november-2026/",
+          "published": "2026-11-02T23:57:00+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "After the US midterms and the launch of the COP30 roadmaps, the climate world's attention turns to Antalya for COP31\nThe post What’s on the climate ca",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Editor’s Desk: COP reform is happening quietly, behind the headlines",
           "link": "https://www.climatechangenews.com/2026/10/29/editors-desk-cop-reform-is-happening-quietly-behind-the-headlines/",
           "published": "2026-10-29T17:51:12+00:00",
@@ -1389,17 +1402,6 @@
           "other_news": true
         },
         {
-          "title": "At pre-COP, UN climate chief warns of heat threat to mothers and babies",
-          "link": "https://www.climatechangenews.com/2026/10/05/at-pre-cop-un-climate-chief-warns-of-heat-threat-to-mothers-and-babies/",
-          "published": "2026-10-05T12:43:43+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The spotlight on maternal health came on the first day of the pre-COP31 meeting in Fiji, where Pacific concerns are set to top the agenda as ministers",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Lobbyistes fossiles emmenés aux COP climat : la France sur le podium des pires délégations",
           "link": "https://reporterre.net/Lobbyistes-fossiles-emmenes-aux-COP-climat-la-France-sur-le-podium-des-pires-delegations",
           "published": "2026-11-02T11:30:36+00:00",
@@ -1532,6 +1534,28 @@
           "other_news": true
         },
         {
+          "title": "En Finlande, l’abattage sans autorisation de 250 000 arbres pour construire un data center de Google embarrasse le gouvernement",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/03/en-finlande-l-abattage-sans-autorisation-de-250-000-arbres-pour-construire-un-data-center-de-google-embarrasse-le-gouvernement_6805532_3244.html",
+          "published": "2026-11-03T05:45:08+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Sans attendre l’étude d’impact environnemental ni le plan d’aménagement du territoire, le géant américain a coupé à blanc 530 hectares de forêts sur d",
+          "image": "https://img.lemde.fr/2026/10/29/192/0/6144/3072/644/322/60/0/ec86749_ftp-1-g3mh3l1rkbto-2026-10-29t122335z-1529635026-rc2ycoamhyau-rtrmadp-3-alphabet-ai-finland.JPG",
+          "other_news": true
+        },
+        {
+          "title": "En Bretagne, comment ces propriétaires ont isolé leur maison grâce à un chantier participatif",
+          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/11/03/comment-on-a-isole-notre-maison-grace-a-un-chantier-participatif_6805524_6125299.html",
+          "published": "2026-11-03T05:00:45+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Aujourd’hui,",
+          "image": "https://img.lemde.fr/2026/10/29/0/0/2997/1498/644/322/60/0/10f0160_upload-1-1dilrt8xtqub-le-monde-chantier-041-1.jpg",
+          "other_news": true
+        },
+        {
           "title": "Voitures électriques : la troisième édition du leasing social peine à atteindre les 50 000 bénéficiaires",
           "link": "https://www.lemonde.fr/planete/article/2026/11/02/voitures-electriques-la-troisieme-edition-du-leasing-social-peine-a-atteindre-les-50-000-beneficiaires_6805260_3244.html",
           "published": "2026-11-02T14:30:07+01:00",
@@ -1631,14 +1655,14 @@
           "other_news": true
         },
         {
-          "title": "Au Brésil, les marges de manœuvre limitées de Lula sur la protection de l’environnement",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/30/au-bresil-les-marges-de-man-uvre-limitees-de-lula-sur-la-protection-de-l-environnement_6803076_3244.html",
-          "published": "2026-10-30T12:00:08+01:00",
-          "source": "Le Monde Planète",
+          "title": "RN, dette et pauvreté en hausse, démocratie et climat en berne : le lourd bilan d’Emmanuel Macron en graphiques",
+          "link": "https://vert.eco/politique/rn-dette-et-pauvrete-en-hausse-democratie-et-climat-en-berne-le-lourd-bilan-demmanuel-macron-en-graphiques/",
+          "published": "2026-11-03T05:00:00+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Pour son quatrième mandat, le président Luiz Inacio Lula da Silva devra composer avec la présence renforcée d’élus d’extrême droite, largement acquis",
-          "image": "https://img.lemde.fr/2026/10/30/154/0/6960/3480/644/322/60/0/1df629d_upload-1-aoozmbenp7cs-000-d2tv7cj.jpg",
+          "summary": "Le 2 mai 2027, Emmanuel Macron passera le relais après deux quinquennats à façonner le pays. Il y a dix ans, il parlait de l'écologie comme «du combat",
+          "image": null,
           "other_news": true
         },
         {
@@ -1719,17 +1743,6 @@
           "other_news": true
         },
         {
-          "title": "NZ’s resource management rules have been rewritten. What happens after the election?",
-          "link": "https://theconversation.com/nzs-resource-management-rules-have-been-rewritten-what-happens-after-the-election-294046",
-          "published": "2026-11-01T17:39:36+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "NZ’s environmental problems are mounting, while the regulatory system managing them has undergone radical change.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Diverse forests can better withstand extreme weather events, study finds. Here’s why",
           "link": "https://news.mongabay.com/2026/11/diverse-forests-can-better-withstand-extreme-weather-events-study-finds-heres-why/",
           "published": "2026-11-02T21:04:55+00:00",
@@ -1760,17 +1773,6 @@
           "language": "en",
           "summary": "NAYA PADAMPUR, Nepal — A spinning wheel whirs on a rooftop in Naya Padampur in south-central Nepal, sending ivory strands of yarn through Bin Maya Gur",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/30164427/Spinning-Wool2_NadiaWhite_19May2026-768x512.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "Philippines halts U.S. e-waste imports but struggles to police customs-free zones",
-          "link": "https://news.mongabay.com/2026/10/philippines-halts-u-s-e-waste-imports-but-struggles-to-police-customs-free-zones/",
-          "published": "2026-10-30T16:13:31+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "After months of scrutiny, the Philippines has closed its doors to electronic waste from the United States, ending, for now, a stream of shipments that",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23181923/GP0STPYT3_Low-res-800px-768x512.jpg",
           "other_news": true
         },
         {

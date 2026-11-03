@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:15:37.988711+00:00",
+  "generated_at": "2026-11-03T19:29:58.199534+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -26,6 +26,17 @@
           "summary": "The European Court of Auditors finds only 1 per cent of EU marine waters are strictly protected and fishing is 72 per cent higher inside Natura 2000 s",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "High expectations but no agreement on Antarctic marine protection, krill fishing",
+          "link": "https://news.mongabay.com/2026/11/high-expectations-but-no-agreement-on-antarctic-marine-protection-krill-fishing/",
+          "published": "2026-11-03T18:02:40+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The multilateral body charged with regulating fishing and protecting ecosystems in the Southern Ocean reached no agreements on establishing new marine",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/03115956/Penguin_in_Antarctica_jumping_out_of_the_water-edit-768x512.jpg",
+          "other_news": false
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -42,28 +53,6 @@
         }
       ],
       "Other Marine News": [
-        {
-          "title": "Pacific leaders rail at climate finance failures after pre-COP trip to Tuvalu",
-          "link": "https://www.climatechangenews.com/2026/10/06/pacific-leaders-rail-at-climate-finance-failures-after-pre-cop-trip-to-tuvalu/",
-          "published": "2026-10-06T16:40:55+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Island nations seek invest in their own Pacific Resilience Facility, as they struggle with the red-tape of international climate funds\nThe post Pacifi",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Race to host High Seas Treaty HQ heats up as Chile reaffirms bid",
-          "link": "https://www.climatechangenews.com/2026/10/06/race-to-host-high-seas-treaty-hq-heats-up-as-chile-reaffirms-bid/",
-          "published": "2026-10-06T07:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Chile’s ocean protection record and concerns over a rival Chinese bid keep it in play, despite questions over the Kast government’s environmental poli",
-          "image": null,
-          "other_news": false
-        },
         {
           "title": "EU blocks extension of Mediterranean deep-sea trawling ban",
           "link": "https://oceanographicmagazine.com/news/eu-blocks-extension-of-mediterranean-deep-sea-trawling-ban/",
@@ -171,17 +160,6 @@
           "other_news": false
         },
         {
-          "title": "Microbes at the end of the earth: Antarctica’s hidden biodiversity",
-          "link": "https://theconversation.com/microbes-at-the-end-of-the-earth-antarcticas-hidden-biodiversity-294180",
-          "published": "2026-11-02T15:03:20+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "It looks as though Antarctica’s conditions have allowed unique microbial communities to develop.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Could You Really Be Swallowed by a Whale?",
           "link": "https://oceanconservancy.org/blog/2026/10/16/swallowed-by-a-whale/",
           "published": "2026-10-16T20:25:30+00:00",
@@ -225,19 +203,6 @@
           "language": "en",
           "summary": "Greenpeace drops nine large rocks to create a barrier to bottom-trawling fishing vessels.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18be/live/41bac5d0-d6da-11f1-b2be-0146bf989691.jpg",
-          "other_news": false
-        }
-      ],
-      "Nature-Based Solutions & Restoration": [
-        {
-          "title": "Aztec methods and crocodiles: How biologists are restoring mangroves in Mexico",
-          "link": "https://news.mongabay.com/2026/10/aztec-techniques-and-crocodiles-how-biologists-are-restoring-mangroves-in-mexico/",
-          "published": "2026-10-30T17:05:17+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In 2017, Omar Trujillo Santos was sitting in a small wooden boat holding a crocodile, its skin soft like a snake. He helped untie the reptile, a juven",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/30152724/Cocodrilo4-Morelets-crocodile--768x512.jpg",
           "other_news": false
         }
       ],
@@ -558,7 +523,21 @@
         }
       ]
     },
-    "To Watch / Read / Listen": {},
+    "To Watch / Read / Listen": {
+      "Marine Biodiversity & Conservation": [
+        {
+          "title": "Governments must include small-scale fishers in their plans to protect the oceans: Report",
+          "link": "https://news.mongabay.com/2026/11/governments-must-include-small-scale-fishers-in-their-plans-to-protect-the-oceans-report/",
+          "published": "2026-11-03T16:03:14+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A new report finds that countries around the world have committed to supporting sustainable fishing as a way to counter marine biodiversity loss, but",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/03151848/WhatsApp-Image-2026-10-22-at-12.16.33-4-768x512.jpg",
+          "other_news": false
+        }
+      ]
+    },
     "Other News": {
       "Plastic & Ocean Pollution": [
         {
@@ -583,6 +562,28 @@
           "language": "en",
           "summary": "In 2022, I helped push through the international agreement to protect biodiversity. I know there is always a reason to stall, but ministers at Cop17 m",
           "image": "https://i.guim.co.uk/img/media/106b96be9a0dbcdf3cb19c187ca4e2b68dbc2ed7/0_0_1616_1293/master/1616.jpg?width=140&quality=85&auto=format&fit=max&s=673169024f5606b33d32d33eacededb9",
+          "other_news": true
+        },
+        {
+          "title": "Action needed to tackle 'biodiversity crisis'",
+          "link": "https://www.bbc.co.uk/news/articles/c8wy94ewzw03o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T17:25:10+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The issue is part of wider concerns the government is not focused enough on the environment.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92a6/live/b5b3ff00-d794-11f1-a701-fddedf244c16.jpg",
+          "other_news": true
+        },
+        {
+          "title": "The world promised to halt biodiversity loss by 2030 – now it needs to turn pledges into action",
+          "link": "https://theconversation.com/the-world-promised-to-halt-biodiversity-loss-by-2030-now-it-needs-to-turn-pledges-into-action-295028",
+          "published": "2026-11-03T17:20:19+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "A recent UN biodiversity summit showed little progress has been made.",
+          "image": null,
           "other_news": true
         },
         {
@@ -682,6 +683,19 @@
           "language": "en",
           "summary": "YEREVAN, Armenia — Visitors entering the main hallway of the 2026 U.N. biodiversity conference (COP17) encounter a mural of a herd of elephants. The i",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/31062001/DSC_9185-768x512.jpeg",
+          "other_news": true
+        }
+      ],
+      "Nature-Based Solutions & Restoration": [
+        {
+          "title": "UN recognizes ongoing restoration work inside Ethiopia’s Desa’a forest amid conflict",
+          "link": "https://news.mongabay.com/2026/11/un-recognizes-ongoing-restoration-work-inside-ethiopias-desaa-forest-amid-conflict/",
+          "published": "2026-11-03T15:28:24+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "On Oct. 29, 2026, the United Nations Environment Programme (UNEP) recognized the Desa’a project, an initiative to restore Ethiopia’s forests in the Gr",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/03094624/1_20260509_UNEP-Decade-on-Ecosystem-Restoration_Ethiopias-Great-Rift-Valley_Sosina-Mengistu_13-768x512.jpg",
           "other_news": true
         }
       ],
@@ -854,6 +868,17 @@
           "other_news": true
         },
         {
+          "title": "Climate change is killing hundreds of thousands – a kidney specialist’s concerns",
+          "link": "https://theconversation.com/climate-change-is-killing-hundreds-of-thousands-a-kidney-specialists-concerns-295393",
+          "published": "2026-11-03T16:42:05+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "The 2026 Lancet Countdown reveals the growing health toll of extreme heat, while references to climate and health in UN speeches have declined.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Vocational GCSEs won’t arrive until 2029 – but clean energy skills can be found in the curriculum now",
           "link": "https://theconversation.com/vocational-gcses-wont-arrive-until-2029-but-clean-energy-skills-can-be-found-in-the-curriculum-now-295008",
           "published": "2026-11-03T11:59:35+00:00",
@@ -942,28 +967,6 @@
           "other_news": true
         },
         {
-          "title": "When climate data is transformed into visuals some people and places get overlooked",
-          "link": "https://theconversation.com/when-climate-data-is-transformed-into-visuals-some-people-and-places-get-overlooked-293489",
-          "published": "2026-10-22T10:56:07+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Data visualisation can change how people see, feel and relate to climate disasters.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Hot and cold climate extremes push UK’s energy system to its limits, new report reveals",
-          "link": "https://theconversation.com/hot-and-cold-climate-extremes-push-uks-energy-system-to-its-limits-new-report-reveals-293383",
-          "published": "2026-10-21T13:25:44+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "The Royal Meteorological Society’s annual report highlights how weather and climate affect the UK’s energy sector. Both winter and summer extremes pos",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Where humans build, mosquitoes follow – bringing dengue, West Nile and other diseases with them",
           "link": "https://theconversation.com/where-humans-build-mosquitoes-follow-bringing-dengue-west-nile-and-other-diseases-with-them-295000",
           "published": "2026-10-27T12:17:31+00:00",
@@ -1037,6 +1040,17 @@
           "type": "news",
           "language": "en",
           "summary": "Engineers are using a unique test facility called the Wall of Wind to develop housing that’s both affordable and disaster-resistant. Their tests show",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "UK climate minister Katie White: COP31 must respond to ‘really scary’ science",
+          "link": "https://www.carbonbrief.org/uk-climate-minister-katie-white-cop31-must-respond-to-really-scary-science",
+          "published": "2026-11-03T16:50:09+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "The upcoming COP31 climate talks in Antalya, Turkey need to respond to the latest science on global warming, which is&#8230;\nThe post UK climate minis",
           "image": null,
           "other_news": true
         },
@@ -1129,13 +1143,13 @@
           "other_news": true
         },
         {
-          "title": "Experts: How are climate scientists using artificial intelligence?",
-          "link": "https://www.carbonbrief.org/experts-how-are-climate-scientists-using-artificial-intelligence",
-          "published": "2026-10-22T10:45:03+00:00",
-          "source": "Carbonbrief",
+          "title": "Brazil’s fossil fuel roadmap sketches out first global timetable",
+          "link": "https://www.climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable/",
+          "published": "2026-11-03T18:37:22+00:00",
+          "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Artificial intelligence (AI) is developing at a rapid pace and is increasingly being used by scientists to better understand climate&#8230;\nThe post E",
+          "summary": "The COP30 presidency’s voluntary timetable asks countries to plan first, then build up clean energy - only turning to oil and gas supplies from 2031\nT",
           "image": null,
           "other_news": true
         },
@@ -1514,14 +1528,14 @@
           "other_news": true
         },
         {
-          "title": "Élections en Israël : usés par un « apartheid environnemental », les Palestiniens désabusés",
-          "link": "https://reporterre.net/Se-disant-victimes-d-un-apartheid-environnemental-les-Palestiniens-d-Israel-attendent-peu-des-elections-legislatives",
-          "published": "2026-10-27T06:05:00+00:00",
-          "source": "Reporterre",
+          "title": "Dans les Pyrénées, le mystérieux « rat-trompette » menacé par un projet hydroélectrique",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/03/dans-les-pyrenees-le-mysterieux-rat-trompette-menace-par-un-projet-hydroelectrique_6805617_3244.html",
+          "published": "2026-11-03T17:00:04+01:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Déchets non collectés, terres expropriées... Pour les Palestiniens d'Israël, la discrimination environnementale s'apparente à de",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/jamila_hardal_-5e011.jpg?1793081102",
+          "summary": "A Bedous, dans le Béarn, des associations environnementales s’inquiètent des effets d’un projet hydroélectrique sur le desman des Pyrénées, une espèce",
+          "image": "https://img.lemde.fr/2026/11/02/501/0/5405/2702/644/322/60/0/cb1a8ab_upload-1-kdiscqjsabgm-058-1357508.jpg",
           "other_news": true
         },
         {
@@ -1549,7 +1563,7 @@
         {
           "title": "En Bretagne, comment ces propriétaires ont isolé leur maison grâce à un chantier participatif",
           "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/11/03/comment-on-a-isole-notre-maison-grace-a-un-chantier-participatif_6805524_6125299.html",
-          "published": "2026-11-03T05:00:45+01:00",
+          "published": "2026-11-03T05:00:30+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1577,50 +1591,6 @@
           "language": "fr",
           "summary": "Les incendies de l’été dans le sud-ouest de la France doivent provoquer un sursaut politique pour transformer la plantation artificielle inflammable e",
           "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/0d46916_upload-1-slnbljri1xqm-frame-790.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Economie et environnement : « Il faut donner une valeur à ce qui n’a pas de prix pour éclairer nos choix collectifs »",
-          "link": "https://www.lemonde.fr/idees/article/2026/11/01/economie-et-environnement-il-faut-donner-une-valeur-a-ce-qui-n-a-pas-de-prix-pour-eclairer-nos-choix-collectifs_6804376_3232.html",
-          "published": "2026-11-01T15:00:11+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Des méthodes ont été développées afin d’évaluer la valeur des services rendus par la nature comme des dégradations qu’elle subit, et que le produit in",
-          "image": "https://img.lemde.fr/2026/02/25/112/0/1500/750/644/322/60/0/0d46916_upload-1-slnbljri1xqm-frame-790.jpg",
-          "other_news": true
-        },
-        {
-          "title": "La COP d’Erevan analysée par Steven Guilbeault, figure des négociations sur la biodiversité : « La question des subventions néfastes est probablement le cheval de bataille des prochaines années »",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/01/cop-biodiversite-a-erevan-la-presidence-armenienne-a-fait-un-travail-exemplaire_6803972_3244.html",
-          "published": "2026-11-01T05:00:27+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "L’ancien ministre de l’environnement du Canada, et artisan de l’accord de Kunming-Montréal de 2022, un texte fondateur pour le vivant, porte, dans un",
-          "image": "https://img.lemde.fr/2022/12/19/510/0/6123/3061/644/322/60/0/d682dda_1671492391494-491546.jpg",
-          "other_news": true
-        },
-        {
-          "title": "« Les économistes abordent l’environnement avec une boîte à outils plus riche qu’il y a vingt ans »",
-          "link": "https://www.lemonde.fr/idees/article/2026/10/31/les-economistes-abordent-l-environnement-avec-une-boite-a-outils-plus-riche-qu-il-y-a-vingt-ans_6803492_3232.html",
-          "published": "2026-10-31T11:00:25+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La tentation est forte, pour les pays, de laisser les autres s’occuper de la lutte contre le réchauffement climatique. Un mauvais calcul, selon les éc",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/dc0e248_upload-1-6oyyppysqvd6-frame-807.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Adrien Bilal, Prix du meilleur jeune économiste 2026 : « La croissance n’est pas l’adversaire de la politique climatique, c’est même l’inverse »",
-          "link": "https://www.lemonde.fr/idees/article/2026/10/31/adrien-bilal-prix-du-meilleur-jeune-economiste-2026-la-croissance-n-est-pas-l-adversaire-de-la-politique-climatique-c-est-meme-l-inverse_6803479_3232.html",
-          "published": "2026-10-31T09:30:07+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les dommages du réchauffement climatique sont considérables : ils rognent la croissance et, avec elle, les marges budgétaires de la France. Réduire no",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/3e6bf69_upload-1-kkrxrwjpujdy-frame-964.jpg",
           "other_news": true
         },
         {
@@ -1679,25 +1649,14 @@
           "other_news": true
         },
         {
-          "title": "When a bull falls for a donkey: what an unlikely relationship reveals about animal sexuality",
-          "link": "https://theconversation.com/when-a-bull-falls-for-a-donkey-what-an-unlikely-relationship-reveals-about-animal-sexuality-295306",
-          "published": "2026-11-02T16:15:01+00:00",
-          "source": "The Conversation",
+          "title": "Afghanistan’s Taliban officials will attend a UN climate summit for the second time as observers",
+          "link": "https://news.mongabay.com/short-article/2026/11/afghanistans-taliban-officials-will-attend-a-un-climate-summit-for-the-second-time-as-observers/",
+          "published": "2026-11-03T15:59:48+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Same-sex behaviour is common in animals, but a bull and a male donkey in Ethiopia are an unusual pair. What might they tell us about sex in nature?",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Supreme Court decision on gerrymandering will wind back progress on racial justice",
-          "link": "https://theconversation.com/supreme-court-decision-on-gerrymandering-will-wind-back-progress-on-racial-justice-295176",
-          "published": "2026-11-02T13:12:17+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Both Democrat and Republican states are changing the boundaries of voting districts, often along racial llines.",
-          "image": null,
+          "summary": "ISLAMABAD (AP) — Afghanistan&#8217;s Taliban officials have been invited and will attend the upcoming U.N. climate summit as observers. The summit sta",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/03155657/AP26307442803923-768x512.jpg",
           "other_news": true
         },
         {

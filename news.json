@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:01:49.944455+00:00",
+  "generated_at": "2026-11-04T14:33:38.167768+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -65,17 +65,6 @@
           "other_news": false
         },
         {
-          "title": "North Africa’s green hydrogen exports to Europe could harm water supply and marine life – study",
-          "link": "https://theconversation.com/north-africas-green-hydrogen-exports-to-europe-could-harm-water-supply-and-marine-life-study-294368",
-          "published": "2026-11-03T14:09:22+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "European countries want north Africa to set up  green hydrogen industries for them, but this will come at a huge cost to water supplies and coastal ar",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Celebrating 41 Years of the International Coastal Cleanup®",
           "link": "https://oceanconservancy.org/blog/2026/10/20/celebrating-41-years-icc/",
           "published": "2026-10-20T17:13:38+00:00",
@@ -111,6 +100,17 @@
           "language": "en",
           "summary": "The city of Orlando is known above all else for its world-class amusement parks. In fact, hundreds of thousands of people visit the city every year fr",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Microplastics pollute nearly two-thirds of corals in Malaysia’s marine protected area, study finds",
+          "link": "https://news.mongabay.com/2026/11/microplastics-pollute-nearly-two-thirds-of-corals-in-malaysias-marine-protected-area-study-finds/",
+          "published": "2026-11-04T09:33:30+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "KUALA LUMPUR — Microplastics, tiny plastic particles about 5 millimeters (0.2 inches) or smaller, have settled into the skeletons of corals in a marin",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/04090518/coral-sampling-by-SCUBA-diving-768x512.jpg",
           "other_news": false
         }
       ],
@@ -191,18 +191,29 @@
           "summary": "If you spend some time on the banks of the St. Lawrence River in Quebec, you just might catch a flash of white beneath the surface. A whale. A beluga",
           "image": null,
           "other_news": false
-        }
-      ],
-      "Sustainable Fisheries": [
+        },
         {
-          "title": "Boulders dropped off coast to disrupt deep fishing",
-          "link": "https://www.bbc.co.uk/news/articles/c3j47k8rrkr5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-03T10:53:09+00:00",
-          "source": "BBC Ocean & Marine",
+          "title": "How a ‘living breakwater’ in Hawai‘i aims to create coral habitat and protect coastline",
+          "link": "https://news.mongabay.com/2026/11/how-a-living-breakwater-in-hawaii-aims-to-create-coral-habitat-and-protect-coastline/",
+          "published": "2026-11-04T09:19:32+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Greenpeace drops nine large rocks to create a barrier to bottom-trawling fishing vessels.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18be/live/41bac5d0-d6da-11f1-b2be-0146bf989691.jpg",
+          "summary": "On Sept. 8, Hurricane Lowell ripped across the Pacific Ocean and around Hawai‘i, sloshing huge waves onto O‘ahu’s west flank and spitting baseball-siz",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/04123831/a-hybrid-reef-system--768x512.jpg",
+          "other_news": false
+        }
+      ],
+      "Nature-Based Solutions & Restoration": [
+        {
+          "title": "Artificial mangrove roots offer temporary shield for Thailand’s eroding coastline",
+          "link": "https://news.mongabay.com/short-article/2026/11/artificial-mangrove-roots-offer-temporary-shield-for-thailands-eroding-coastline/",
+          "published": "2026-11-04T10:23:06+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Coastal communities near Bangkok in Thailand are testing artificial mangrove roots to combat severe shoreline erosion, reports Mongabay’s Carolyn Cowa",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/04102237/mangrove-thailand-768x512.jpg",
           "other_news": false
         }
       ],
@@ -445,6 +456,17 @@
           "other_news": false
         },
         {
+          "title": "India builds deep-sea capacity in bet on critical minerals future",
+          "link": "https://www.climatechangenews.com/2026/11/04/india-builds-deep-sea-capacity-in-bet-on-critical-minerals-future/",
+          "published": "2026-11-04T12:53:31+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Striving to keep up with regional competitors, India has built up its ocean mining capacity - despite a push by 46 countries and marine scientists for",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Les morts amènent la vie : comment cadavres d'animaux, arbres calcinés et récifs inertes nourrissent leurs congénères",
           "link": "https://reporterre.net/Les-morts-amenent-la-vie-comment-cadavres-d-animaux-arbres-calcines-et-recifs-inertes-nourrissent-leurs-congeneres",
           "published": "2026-11-01T06:00:00+00:00",
@@ -500,6 +522,17 @@
           "other_news": false
         },
         {
+          "title": "A Feejee Mermaid on display in Colorado may shock and intrigue – but it’s no longer considered a ‘missing link’ on the evolutionary tree",
+          "link": "https://theconversation.com/a-feejee-mermaid-on-display-in-colorado-may-shock-and-intrigue-but-its-no-longer-considered-a-missing-link-on-the-evolutionary-tree-294775",
+          "published": "2026-11-04T13:28:34+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "All hoax – no science – the Feejee Mermaid startled American audiences that imagined it a real sea creature.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Climate change, El Niño and a Warming Ocean",
           "link": "https://oceanconservancy.org/blog/2026/11/03/climate-change-el-nino-warming-ocean/",
           "published": "2026-11-03T20:56:20+00:00",
@@ -519,6 +552,17 @@
           "language": "en",
           "summary": "Most Americans have likely never heard of the United States Integrated Ocean Observing System, or IOOS. Yet if you have ever checked conditions before",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Scientists call on Ecuador to stop the rising trafficking of Galápagos iguanas",
+          "link": "https://news.mongabay.com/2026/11/scientists-call-on-ecuador-to-stop-the-rising-trafficking-of-galapagos-iguanas/",
+          "published": "2026-11-04T12:04:51+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Ecuadorian authorities said they caught a Russian woman at the airport in Quito, the capital city, trying to smuggle 32 live marine iguanas, endemic t",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/04115037/Marine-iguana-1-768x512.jpg",
           "other_news": false
         },
         {
@@ -620,6 +664,17 @@
           "other_news": true
         },
         {
+          "title": "CB Live: Carbon Brief’s team at COP17 on the nature talks’ key outcomes",
+          "link": "https://www.carbonbrief.org/cb-live-carbon-briefs-team-at-cop17-on-the-nature-talks-key-outcomes",
+          "published": "2026-11-04T10:40:52+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit.&#8230;",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan",
           "link": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan",
           "published": "2026-10-31T13:30:22+00:00",
@@ -706,17 +761,6 @@
           "summary": "One of West Africa’s largest markets selling wildlife for belief-based uses has expanded rapidly over the past decade, according to a recent study. Re",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/02132742/Image_1_csp270423-fig-0003-m-768x512.jpg",
           "other_news": true
-        },
-        {
-          "title": "Leaders grapple with finance and harmful subsidies at UN’s COP17 biodiversity conference",
-          "link": "https://news.mongabay.com/2026/10/leaders-grapple-with-finance-and-harmful-subsidies-at-uns-cop17-biodiversity-conference/",
-          "published": "2026-10-31T07:07:34+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "YEREVAN, Armenia — Visitors entering the main hallway of the 2026 U.N. biodiversity conference (COP17) encounter a mural of a herd of elephants. The i",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/31062001/DSC_9185-768x512.jpeg",
-          "other_news": true
         }
       ],
       "Nature-Based Solutions & Restoration": [
@@ -729,6 +773,19 @@
           "language": "en",
           "summary": "On Oct. 29, 2026, the United Nations Environment Programme (UNEP) recognized the Desa’a project, an initiative to restore Ethiopia’s forests in the Gr",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/03094624/1_20260509_UNEP-Decade-on-Ecosystem-Restoration_Ethiopias-Great-Rift-Valley_Sosina-Mengistu_13-768x512.jpg",
+          "other_news": true
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Donald Trump’s Republicans suffer landslide defeat – what this means for the world",
+          "link": "https://theconversation.com/donald-trumps-republicans-suffer-landslide-defeat-what-this-means-for-the-world-295769",
+          "published": "2026-11-04T06:36:59+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Facing a hostile Congress, the US president is likely to focus on foreign policy to secure his legacy.",
+          "image": null,
           "other_news": true
         }
       ],
@@ -769,7 +826,7 @@
         {
           "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
           "link": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-03T23:00:14+00:00",
+          "published": "2026-11-04T06:11:43+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -800,25 +857,14 @@
           "other_news": true
         },
         {
-          "title": "Bute House protested by environmental campaigners",
-          "link": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-31T13:41:07+00:00",
+          "title": "Tiktoker 'super excited' to co-host BBC nature show",
+          "link": "https://www.bbc.co.uk/news/articles/c6y93pgydvzdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-04T06:15:01+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b14/live/e53f9f80-d52e-11f1-866a-b522399149a0.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Global nature talks reach deal but money remains an issue",
-          "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-31T01:27:05+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c07/live/57283d20-d4b5-11f1-a58c-6d26609b0a57.jpg",
+          "summary": "Naturewatch, hosted by Chris Packham, Megan McCubbin and Kyle Thomas, is being made in Bristol.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e0/live/7b5d81c0-ce05-11f1-bc2e-018d645d8d21.jpg",
           "other_news": true
         },
         {
@@ -830,6 +876,17 @@
           "language": "en",
           "summary": "Flatford Wildlife Garden is bought by the National Trust after being run by the RSPB for 15 years.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d9f/live/eef58360-a424-11ef-bdf5-b7cb2fa86e10.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Bute House protested by environmental campaigners",
+          "link": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-31T13:41:07+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b14/live/e53f9f80-d52e-11f1-866a-b522399149a0.jpg",
           "other_news": true
         },
         {
@@ -906,6 +963,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Une étude inédite montre que l’implantation d’éoliennes est associée à une hausse locale du vote d’extrême droite dès le dépôt du permis, avant même l",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Fireworks provide a few minutes of joy, but the economic and environmental costs last much longer",
+          "link": "https://theconversation.com/fireworks-provide-a-few-minutes-of-joy-but-the-economic-and-environmental-costs-last-much-longer-295775",
+          "published": "2026-11-04T12:20:56+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "The consequences of lighting firework displays are spread among households, public services and wildlife.",
           "image": null,
           "other_news": true
         },
@@ -1009,6 +1077,17 @@
           "other_news": true
         },
         {
+          "title": "Short supplies of crucial equipment stymie changes to US electricity grid",
+          "link": "https://theconversation.com/short-supplies-of-crucial-equipment-stymie-changes-to-us-electricity-grid-293650",
+          "published": "2026-11-04T13:27:29+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "Whether you want renewable energy, fossil fuel power plants, data centers or reduced storm vulnerability, it will require equipment that’s hard to mak",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Where humans build, mosquitoes follow – bringing dengue, West Nile and other diseases with them",
           "link": "https://theconversation.com/where-humans-build-mosquitoes-follow-bringing-dengue-west-nile-and-other-diseases-with-them-295000",
           "published": "2026-10-27T12:17:31+00:00",
@@ -1071,17 +1150,6 @@
           "type": "news",
           "language": "en",
           "summary": "Opposition to data centers is widespread across the US, uniting people despite other differences on political and environmental issues.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "We blasted mobile homes with hurricane-force winds to test how they fail – and found clues for making affordable housing safer",
-          "link": "https://theconversation.com/we-blasted-mobile-homes-with-hurricane-force-winds-to-test-how-they-fail-and-found-clues-for-making-affordable-housing-safer-292074",
-          "published": "2026-10-09T12:06:04+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Engineers are using a unique test facility called the Wall of Wind to develop housing that’s both affordable and disaster-resistant. Their tests show",
           "image": null,
           "other_news": true
         },
@@ -1170,17 +1238,6 @@
           "type": "news",
           "language": "en",
           "summary": "The UK has spent £12.8bn on climate aid for developing countries since 2021, according to official figures obtained by Carbon&#8230;\nThe post Analysis",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Chart: A record two-thirds of car sales in China are now electric vehicles",
-          "link": "https://www.carbonbrief.org/chart-a-record-two-thirds-of-car-sales-in-china-are-now-electric-vehicles",
-          "published": "2026-10-23T15:55:26+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "For the first time, new-energy vehicles (NEVs) made up 67% of new car sales in China in September, according to&#8230;\nThe post Chart: A record two-th",
           "image": null,
           "other_news": true
         },
@@ -1559,24 +1616,24 @@
           "other_news": true
         },
         {
-          "title": "Émissions de gaz à effet de serre mondiales : la baisse de 6 % d'ici 2035 sera très insuffisante",
-          "link": "https://reporterre.net/Emissions-de-gaz-a-effet-de-serre-mondiales-la-baisse-de-6-d-ici-2035-sera-tres-insuffisante",
-          "published": "2026-10-27T11:25:53+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "C'est un énorme pavé dans la mare, à quelques semaines de l'ouverture de la COP31 sur le climat. D'après les derniers rapports d",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/carl-kho-uxkdo2sbh1g-unsplash_1_-e98da.jpg?1793100406",
-          "other_news": true
-        },
-        {
-          "title": "Electrifier les usages tout en freinant sur les énergies renouvelables : la politique paradoxale de la France",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/04/electrifier-les-usages-tout-en-freinant-sur-les-energies-renouvelables-la-politique-paradoxale-de-la-france_6806071_3244.html",
-          "published": "2026-11-04T06:00:21+01:00",
+          "title": "« La taxe carbone, principale recommandation de William Nordhaus, est devenue la martingale des économistes contre le réchauffement climatique »",
+          "link": "https://www.lemonde.fr/idees/article/2026/11/04/la-taxe-carbone-principale-recommandation-de-william-nordhaus-est-devenue-la-martingale-des-economistes-contre-le-rechauffement-climatique_6806230_3232.html",
+          "published": "2026-11-04T14:33:16+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Alors que le pays connaît un certain déséquilibre entre sa production et sa consommation d’électricité bas-carbone, les acteurs du solaire et de l’éol",
+          "summary": "Si l’on n’avait pas suivi les recommandations de l’économiste américain, mort le 30 octobre à 85 ans, une autre économie du climat aurait pu s’imposer",
+          "image": "https://img.lemde.fr/2026/11/02/219/0/5760/2880/644/322/60/0/b7894ef_upload-1-v15f0nk20fle-2018-10-08t140913z-754191553-rc143af1ca50-rtrmadp-3-nobel-prizes-economics.JPG",
+          "other_news": true
+        },
+        {
+          "title": "Electrifier les usages tout en freinant sur les énergies renouvelables, la politique paradoxale de la France",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/04/electrifier-les-usages-tout-en-freinant-sur-les-energies-renouvelables-la-politique-paradoxale-de-la-france_6806071_3244.html",
+          "published": "2026-11-04T06:00:13+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors que le pays connaît un déséquilibre entre sa production et sa consommation d’électricité bas-carbone, les acteurs du solaire et de l’éolien s’in",
           "image": "https://img.lemde.fr/2026/11/03/282/0/3385/1692/644/322/60/0/ad4b310_upload-1-isgzpwczp0fb-000-63774zp-1.jpg",
           "other_news": true
         },
@@ -1636,6 +1693,17 @@
           "other_news": true
         },
         {
+          "title": "Abdul El-Sayed, Deb Haaland, Chris Pappas… Ces victoires démocrates historiques aux élections de mi-mandat aux États-Unis",
+          "link": "https://vert.eco/international/abdul-el-sayed-deb-haaland-chris-pappas-ces-victoires-democrates-historiques-aux-elections-de-mi-mandat-aux-etats-unis/",
+          "published": "2026-11-04T11:27:16+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Au-delà de la défaite du camp républicain, les élections de mi-mandat aux États-Unis ont vu la victoire de femmes et d’hommes politiques au parcours u",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "RN, dette et pauvreté en hausse, démocratie et climat en berne : le lourd bilan d’Emmanuel Macron en graphiques",
           "link": "https://vert.eco/politique/rn-dette-et-pauvrete-en-hausse-democratie-et-climat-en-berne-le-lourd-bilan-demmanuel-macron-en-graphiques/",
           "published": "2026-11-03T05:00:00+00:00",
@@ -1658,24 +1726,24 @@
           "other_news": true
         },
         {
-          "title": "«Pas en avant» ou «occasion ratée» ? Pour la première fois, l’UE propose un règlement sur l’adaptation au changement climatique",
-          "link": "https://vert.eco/climat/pas-en-avant-ou-occasion-ratee-pour-la-premiere-fois-lue-propose-un-reglement-sur-ladaptation-au-changement-climatique/",
-          "published": "2026-10-29T09:40:49+00:00",
-          "source": "Vert Eco Articles",
+          "title": "US midterms: why a Democrat Congress could mean less political gridlock, not more",
+          "link": "https://theconversation.com/us-midterms-why-a-democrat-congress-could-mean-less-political-gridlock-not-more-295678",
+          "published": "2026-11-04T14:14:25+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Mardi, Bruxelles a présenté une proposition de loi pour accélérer l’adaptation au changement climatique sur le continent. Ce «règlement sur la résilie",
+          "language": "en",
+          "summary": "History shows that opposition control of both chambers of US Congress need not mean less legislation.",
           "image": null,
           "other_news": true
         },
         {
-          "title": "Des centaines de procès et des peines qui s’alourdissent : les chiffres chocs sur la répression judiciaire des militants écolos",
-          "link": "https://vert.eco/rapports-de-force/des-centaines-de-proces-et-des-peines-qui-salourdissent-les-chiffres-inedits-sur-la-repression-judiciaire-des-militants-ecolos/",
-          "published": "2026-10-29T05:00:00+00:00",
-          "source": "Vert Eco Articles",
+          "title": "How space weather powers auroras in the sky and threatens power grids on the ground",
+          "link": "https://theconversation.com/how-space-weather-powers-auroras-in-the-sky-and-threatens-power-grids-on-the-ground-291841",
+          "published": "2026-11-04T13:28:08+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Créée par le Mouvement de soutien aux défenseur·ses de l’environnement, une nouvelle plateforme répertorie les procès intentés aux militant·es écologi",
+          "language": "en",
+          "summary": "When an aurora lights up the sky, electric currents can also flow through the ground beneath your feet.",
           "image": null,
           "other_news": true
         },
@@ -1710,17 +1778,6 @@
           "language": "en",
           "summary": "The Inter-American Commission on Human Rights heard testimony Oct. 27 from representatives of six countries alleging harm linked to Canadian mining co",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/31174758/a.-Photo-3-Earthworks-Mayerly-IACHR-Hearing-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Given a chance, women-led microenterprises uplift Nepali communities & conservation",
-          "link": "https://news.mongabay.com/2026/10/given-a-chance-women-led-microenterprises-uplift-nepali-communities-conservation/",
-          "published": "2026-10-30T18:02:46+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "NAYA PADAMPUR, Nepal — A spinning wheel whirs on a rooftop in Naya Padampur in south-central Nepal, sending ivory strands of yarn through Bin Maya Gur",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/30164427/Spinning-Wool2_NadiaWhite_19May2026-768x512.jpeg",
           "other_news": true
         }
       ]

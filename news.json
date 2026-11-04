@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T15:29:20.455623+00:00",
+  "generated_at": "2026-11-04T19:45:00.815686+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -16,17 +16,6 @@
         }
       ],
       "Sustainable Fisheries": [
-        {
-          "title": "Fishing 72% higher inside EU marine protected areas than outside",
-          "link": "https://oceanographicmagazine.com/news/fishing-72-higher-inside-eu-marine-protected-areas-than-outside/",
-          "published": "2026-10-28T14:51:33+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The European Court of Auditors finds only 1 per cent of EU marine waters are strictly protected and fishing is 72 per cent higher inside Natura 2000 s",
-          "image": null,
-          "other_news": false
-        },
         {
           "title": "High expectations but no agreement on Antarctic marine protection, krill fishing",
           "link": "https://news.mongabay.com/2026/11/high-expectations-but-no-agreement-on-antarctic-marine-protection-krill-fishing/",
@@ -149,6 +138,28 @@
           "other_news": false
         },
         {
+          "title": "Warming seas are rewiring the Channel’s food web, spelling trouble for fish stocks, seabirds and marine mammals",
+          "link": "https://oceanographicmagazine.com/news/warming-seas-are-rewiring-the-channels-food-web-spelling-trouble-for-fish-stocks-seabirds-and-marine-mammals/",
+          "published": "2026-11-04T16:35:52+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Changing ocean chemistry is helping smaller plankton thrive while bigger species decline, a 35-year study off Plymouth has revealed\nThe post Warming s",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "ClientEarth takes Spain to court over whale and dolphin bycatch",
+          "link": "https://oceanographicmagazine.com/news/client-earth-takes-spain-to-court-over-whale-and-dolphin-bycatch/",
+          "published": "2026-11-04T16:32:57+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Legal action seeks effective monitoring and mitigation measures to stop the incidental deaths of cetaceans in Spanish Atlantic waters, where at least",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Whale song hints when endangered pygmy blue whales are feeding",
           "link": "https://oceanographicmagazine.com/news/whale-song-hints-when-endangered-pygmy-blue-whales-are-feeding/",
           "published": "2026-10-30T11:04:41+00:00",
@@ -225,7 +236,7 @@
           "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Competition between small-scale fishers and industrial vessels can threaten food security and livelihoods in coastal communities  especially in the Gl",
+          "summary": "Competition between small-scale fishers and industrial vessels can threaten food security and livelihoods in coastal communities, especially in the Gl",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/02153353/3-coast-of-Gambia-768x512.jpg",
           "other_news": false
         }
@@ -240,6 +251,17 @@
           "language": "en",
           "summary": "An early clue came from storks found in Europe with African arrows in their bodies. Today, an atlas reveals hundreds of bird migration routes that are",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Mapping the ‘lines of life’ of South Sudan’s vast antelope migration",
+          "link": "https://news.mongabay.com/2026/11/mapping-the-lines-of-life-of-south-sudans-vast-antelope-migration/",
+          "published": "2026-11-04T19:23:09+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The lines on the map resemble the gossamer threads of dense spiders’ webs. Conservationists in South Sudan call them the “lines of life.” The map was",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/04192222/TiangDamaliscus.lunatus.tiang_BadingiloNPSouthSudan_IngeVanDenMeirackerINaturalistBYNC4.0-CROP-768x512.jpg",
           "other_news": false
         }
       ],
@@ -368,17 +390,6 @@
           "other_news": false
         },
         {
-          "title": "Vaut-il mieux manger de petits poissons ou de grands poissons ?",
-          "link": "https://theconversation.com/vaut-il-mieux-manger-de-petits-poissons-ou-de-grands-poissons-291616",
-          "published": "2026-10-08T10:22:13+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "On a tendance à manger plus de grands poissons que de petits poissons. Pourtant privilégier les petits poissons a plus d’un intérêt pour la santé huma",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Five ways that sea-level rise affects your daily life, even if you live inland",
           "link": "https://theconversation.com/five-ways-that-sea-level-rise-affects-your-daily-life-even-if-you-live-inland-294708",
           "published": "2026-11-03T08:53:10+00:00",
@@ -445,17 +456,6 @@
           "other_news": false
         },
         {
-          "title": "Q&A: Why are UK energy bills so high – and how could they be lowered?",
-          "link": "https://www.carbonbrief.org/qa-why-are-uk-energy-bills-so-high-and-how-could-they-be-lowered",
-          "published": "2026-10-27T16:47:54+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Energy bills in the UK have continued to soar in 2026, with intense debate raging about how to bring them&#8230;\nThe post Q&amp;A: Why are UK energy b",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "India builds deep-sea capacity in bet on critical minerals future",
           "link": "https://www.climatechangenews.com/2026/11/04/india-builds-deep-sea-capacity-in-bet-on-critical-minerals-future/",
           "published": "2026-11-04T12:53:31+00:00",
@@ -507,17 +507,6 @@
           "type": "news",
           "language": "en",
           "summary": "MBARI scientists aboard the David Packard have filmed a rare barreleye fish with a transparent head in 4K and 3D, only the eleventh sighting in nearly",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Antarctic meltwater engine sputters as key ocean layer reverses",
-          "link": "https://oceanographicmagazine.com/news/antarctic-meltwater-engine-sputters-as-key-ocean-layer-reverses/",
-          "published": "2026-10-28T13:36:04+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A key Southern Ocean water layer has turned saltier, denser and deeper since 2016 as Antarctic meltwater input fell, research suggests, with possible",
           "image": null,
           "other_news": false
         },
@@ -595,6 +584,17 @@
     },
     "Other News": {
       "Plastic & Ocean Pollution": [
+        {
+          "title": "The great disaster divide: How the super-rich are profiting from global climate suffering",
+          "link": "https://www.climatechangenews.com/2026/11/04/the-great-disaster-divide-how-the-super-rich-are-profiting-from-global-climate-suffering/",
+          "published": "2026-11-04T17:29:57+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "New research from Oxfam shows the wealthiest 0.1% are making money from the climate crisis their pollution has caused, while buying protection for the",
+          "image": null,
+          "other_news": true
+        },
         {
           "title": "Les fausses informations nous exposent aux pollutions, aux maladies, aux incendies",
           "link": "https://reporterre.net/Comment-la-desinformation-climatique-nous-tue",
@@ -771,7 +771,7 @@
           "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "On Oct. 29, 2026, the United Nations Environment Programme (UNEP) recognized the Desa’a project, an initiative to restore Ethiopia’s forests in the Gr",
+          "summary": "On Oct. 29, 2026, the United Nations Environment Programme (UNEP) and FAO recognized the Desa’a project, an initiative to restore Ethiopia’s forests i",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/03094624/1_20260509_UNEP-Decade-on-Ecosystem-Restoration_Ethiopias-Great-Rift-Valley_Sosina-Mengistu_13-768x512.jpg",
           "other_news": true
         }
@@ -1154,6 +1154,17 @@
           "other_news": true
         },
         {
+          "title": "Q&A: What is the Brazil-led ‘deforestation roadmap’?",
+          "link": "https://www.carbonbrief.org/qa-what-is-the-brazil-led-deforestation-roadmap",
+          "published": "2026-11-04T15:39:10+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "On 3 November, the Brazilian presidency of the COP30 climate talks released its long-awaited “roadmap” on ending deforestation.&#160; Ahead of&#8230;",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "UK climate minister Katie White: COP31 must respond to ‘really scary’ science",
           "link": "https://www.carbonbrief.org/uk-climate-minister-katie-white-cop31-must-respond-to-really-scary-science",
           "published": "2026-11-03T16:50:09+00:00",
@@ -1238,6 +1249,17 @@
           "type": "news",
           "language": "en",
           "summary": "The UK has spent £12.8bn on climate aid for developing countries since 2021, according to official figures obtained by Carbon&#8230;\nThe post Analysis",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "COP31 must deliver finance for Africa or there will be no implementation",
+          "link": "https://www.climatechangenews.com/2026/11/04/cop31-must-deliver-finance-for-africa-or-there-will-be-no-implementation/",
+          "published": "2026-11-04T15:46:23+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Without real progress in Antalya on finance for adaptation and energy transition, next year's Africa-hosted COP will inherit the same unmet promises\nT",
           "image": null,
           "other_news": true
         },
@@ -1484,28 +1506,6 @@
           "other_news": true
         },
         {
-          "title": "Pre-COP draws attention to Pacific’s climate plight and 1.5C goal",
-          "link": "https://www.climatechangenews.com/2026/10/08/pre-cop-draws-attention-to-pacifics-climate-plight-and-1-5c-goal/",
-          "published": "2026-10-08T11:52:15+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "After visiting Tuvalu's shrinking land, COP31 President Murat Kurum said that the global 1.5C warming limit is \"a matter of survival\" for the Pacific",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "New Zealand accused of breaching EU trade deal over climate rollbacks",
-          "link": "https://www.climatechangenews.com/2026/10/07/new-zealand-accused-breaching-eu-trade-deal-climate-rollbacks-fta/",
-          "published": "2026-10-07T16:37:02+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The EU's climate trade rules face their first major test after a green group alleged New Zealand violated binding environmental provisions under its t",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Essais nucléaires : l'Algérie réclame à la France l'emplacement des déchets radioactifs enfouis dans son sol",
           "link": "https://reporterre.net/Essais-nucleaires-l-Algerie-reclame-a-la-France-l-emplacement-des-dechets-radioactifs",
           "published": "2026-11-03T11:30:06+00:00",
@@ -1671,17 +1671,6 @@
           "other_news": true
         },
         {
-          "title": "Voitures électriques : la troisième édition du leasing social peine à atteindre les 50 000 bénéficiaires",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/02/voitures-electriques-la-troisieme-edition-du-leasing-social-peine-a-atteindre-les-50-000-beneficiaires_6805260_3244.html",
-          "published": "2026-11-02T14:30:07+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le dispositif, qui permet de donner accès à un véhicule électrique à des ménages modestes, est moins séduisant qu’à son lancement. Fin octobre, seulem",
-          "image": "https://img.lemde.fr/2026/11/02/684/0/8192/4096/644/322/60/0/b33fa5b_upload-1-4iy7swfwacjh-maxnewsspecialtwo347584.jpg",
-          "other_news": true
-        },
-        {
           "title": "Abdul El-Sayed, Deb Haaland, Chris Pappas… Ces victoires démocrates historiques aux élections de mi-mandat aux États-Unis",
           "link": "https://vert.eco/international/abdul-el-sayed-deb-haaland-chris-pappas-ces-victoires-democrates-historiques-aux-elections-de-mi-mandat-aux-etats-unis/",
           "published": "2026-11-04T11:27:16+00:00",
@@ -1711,6 +1700,28 @@
           "type": "news",
           "language": "fr",
           "summary": "La 17ème conférence mondiale (COP17) sur la biodiversité s’est achevée samedi à Erevan, en Arménie. La communauté internationale a reconnu qu’il falla",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Climate change is undermining our health and the burden falls heaviest on women",
+          "link": "https://theconversation.com/climate-change-is-undermining-our-health-and-the-burden-falls-heaviest-on-women-295355",
+          "published": "2026-11-04T19:04:04+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Our response to climate change must reflect the everyday health realities people face.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Corporate green reports: do independent checks really help companies deliver measurable action?",
+          "link": "https://theconversation.com/corporate-green-reports-do-independent-checks-really-help-companies-deliver-measurable-action-295282",
+          "published": "2026-11-04T15:37:33+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A new study shows that companies whose green claims are vetted tend to follow through and deliver on their promises to cut greenhouse gas emissions or",
           "image": null,
           "other_news": true
         },
@@ -1756,17 +1767,6 @@
           "language": "en",
           "summary": "Forests around the world face mounting pressures as the climate changes.  In order to understand how they will fare, new research suggests looking at",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/02164751/andy-holmes-TxkisEuUs7w-unsplash-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Environmental defenders testify about attacks in Latin America linked to Canadian mining companies",
-          "link": "https://news.mongabay.com/2026/10/environmental-defenders-testify-about-attacks-in-latin-america-linked-to-canadian-mining-companies/",
-          "published": "2026-10-31T18:16:46+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Inter-American Commission on Human Rights heard testimony Oct. 27 from representatives of six countries alleging harm linked to Canadian mining co",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/31174758/a.-Photo-3-Earthworks-Mayerly-IACHR-Hearing-768x512.jpg",
           "other_news": true
         }
       ]

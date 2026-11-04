@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T20:08:25.862423+00:00",
+  "generated_at": "2026-11-04T06:01:49.944455+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -500,13 +500,13 @@
           "other_news": false
         },
         {
-          "title": "«Trappes est une République islamique en miniature» : le RN et les banlieues, trente années de propos stigmatisants",
-          "link": "https://vert.eco/chaleurs-actuelles/trappes-est-une-republique-islamique-en-miniature-le-rn-et-les-banlieues-trente-annees-de-propos-stigmatisants/",
-          "published": "2026-10-28T16:00:00+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Climate change, El Niño and a Warming Ocean",
+          "link": "https://oceanconservancy.org/blog/2026/11/03/climate-change-el-nino-warming-ocean/",
+          "published": "2026-11-03T20:56:20+00:00",
+          "source": "Ocean Conservancy",
           "type": "news",
-          "language": "fr",
-          "summary": "Après l’attentat raciste survenu à Trappes, vendredi dernier, des déclarations de Marine Le Pen et Jordan Bardella sur la commune des Yvelines ont rap",
+          "language": "en",
+          "summary": "What is El Niño and why is this year’s different? A strengthening El Niño layered on top of decades of human-caused climate change is pushing ocean te",
           "image": null,
           "other_news": false
         },
@@ -519,6 +519,17 @@
           "language": "en",
           "summary": "Most Americans have likely never heard of the United States Integrated Ocean Observing System, or IOOS. Yet if you have ever checked conditions before",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Photograph helps identify a West African bird not seen in 13 years",
+          "link": "https://news.mongabay.com/short-article/2026/11/photograph-helps-identify-a-west-african-bird-not-seen-in-13-years/",
+          "published": "2026-11-03T22:16:25+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Researchers recently spotted the brightly colored Ghana cuckooshrike in Côte d’Ivoire’s Taï National Park. The “lost” bird hadn’t been seen in 13 year",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23130024/Ghana-cuckooshrike-2--768x512.jpg",
           "other_news": false
         }
       ]
@@ -549,6 +560,17 @@
           "language": "fr",
           "summary": "Les fake news des industries des énergies fossiles et leurs alliés économiques et politiques nous surexposent aux pollutions, au",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250910__hl_cschmitt_2874127__v1__highres__franceprotestseptember10bloquonstou_1_-b9076.jpg?1793195263",
+          "other_news": true
+        },
+        {
+          "title": "Bâtons de charbon, carafes filtrantes, réduction des pollutions… Quelles solutions pour éviter les pesticides dans l’eau potable ?",
+          "link": "https://vert.eco/sante-environnement/batons-de-charbon-carafes-filtrantes-reduction-des-pollutions-quelles-solutions-pour-eviter-les-pesticides-dans-leau-potable/",
+          "published": "2026-11-04T05:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Il existe plusieurs solutions techniques pour limiter son exposition aux pesticides, mais elles sont coûteuses et limitées. L’enjeu est avant tout col",
+          "image": null,
           "other_news": true
         }
       ],
@@ -642,6 +664,17 @@
           "other_news": true
         },
         {
+          "title": "Millions of bogong moths are blanketing our cities and they are still endangered",
+          "link": "https://theconversation.com/millions-of-bogong-moths-are-blanketing-our-cities-and-they-are-still-endangered-294774",
+          "published": "2026-11-04T03:50:27+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "These unassuming insects are increasingly under pressure from climate change.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Global biodiversity summit ends with shortfall of funding for Africa, despite 30×30 push",
           "link": "https://news.mongabay.com/short-article/2026/11/global-biodiversity-summit-ends-with-shortfall-of-funding-for-africa-despite-30x30-push/",
           "published": "2026-11-03T11:06:30+00:00",
@@ -699,19 +732,6 @@
           "other_news": true
         }
       ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "Trust in democracy is in decline in NZ. Could citizens’ assemblies help restore it?",
-          "link": "https://theconversation.com/trust-in-democracy-is-in-decline-in-nz-could-citizens-assemblies-help-restore-it-293792",
-          "published": "2026-11-02T18:28:01+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Citizens’ assemblies are emerging as a response to sinking trust in government. They bring ordinary people into policy decisions earlier, and on more",
-          "image": null,
-          "other_news": true
-        }
-      ],
       "Other Marine News": [
         {
           "title": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
@@ -744,6 +764,17 @@
           "language": "en",
           "summary": "The Norwegian government has given a permit to a mining company to release waste into Førde fjord despite a 17-year battle by campaigners and a suprem",
           "image": "https://i.guim.co.uk/img/media/dc0441d99e158bcc614888c623997f70242554f1/170_0_3752_3001/master/3752.jpg?width=140&quality=85&auto=format&fit=max&s=044fc190d1e94ef92fac096be88129c2",
+          "other_news": true
+        },
+        {
+          "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
+          "link": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T23:00:14+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/a1474180-d7da-11f1-8cb0-d304936875f3.png",
           "other_news": true
         },
         {
@@ -788,6 +819,17 @@
           "language": "en",
           "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c07/live/57283d20-d4b5-11f1-a58c-6d26609b0a57.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Trust vows to 'maintain spirit' of nature reserve",
+          "link": "https://www.bbc.co.uk/news/articles/cr3wv0ywnvl7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-04T05:57:48+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Flatford Wildlife Garden is bought by the National Trust after being run by the RSPB for 15 years.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d9f/live/eef58360-a424-11ef-bdf5-b7cb2fa86e10.jpg",
           "other_news": true
         },
         {
@@ -1528,6 +1570,17 @@
           "other_news": true
         },
         {
+          "title": "Electrifier les usages tout en freinant sur les énergies renouvelables : la politique paradoxale de la France",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/04/electrifier-les-usages-tout-en-freinant-sur-les-energies-renouvelables-la-politique-paradoxale-de-la-france_6806071_3244.html",
+          "published": "2026-11-04T06:00:21+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors que le pays connaît un certain déséquilibre entre sa production et sa consommation d’électricité bas-carbone, les acteurs du solaire et de l’éol",
+          "image": "https://img.lemde.fr/2026/11/03/282/0/3385/1692/644/322/60/0/ad4b310_upload-1-isgzpwczp0fb-000-63774zp-1.jpg",
+          "other_news": true
+        },
+        {
           "title": "Dans les Pyrénées, le mystérieux « rat-trompette » menacé par un projet hydroélectrique",
           "link": "https://www.lemonde.fr/planete/article/2026/11/03/dans-les-pyrenees-le-mysterieux-rat-trompette-menace-par-un-projet-hydroelectrique_6805617_3244.html",
           "published": "2026-11-03T17:00:04+01:00",
@@ -1583,17 +1636,6 @@
           "other_news": true
         },
         {
-          "title": "« Après le mégafeu de Gironde, créons la plus grande réserve naturelle d’Europe de l’Ouest »",
-          "link": "https://www.lemonde.fr/idees/article/2026/11/01/apres-le-megafeu-de-gironde-creons-la-plus-grande-reserve-naturelle-d-europe-de-l-ouest_6804525_3232.html",
-          "published": "2026-11-01T17:30:10+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les incendies de l’été dans le sud-ouest de la France doivent provoquer un sursaut politique pour transformer la plantation artificielle inflammable e",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/0d46916_upload-1-slnbljri1xqm-frame-790.jpg",
-          "other_news": true
-        },
-        {
           "title": "RN, dette et pauvreté en hausse, démocratie et climat en berne : le lourd bilan d’Emmanuel Macron en graphiques",
           "link": "https://vert.eco/politique/rn-dette-et-pauvrete-en-hausse-democratie-et-climat-en-berne-le-lourd-bilan-demmanuel-macron-en-graphiques/",
           "published": "2026-11-03T05:00:00+00:00",
@@ -1634,17 +1676,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Créée par le Mouvement de soutien aux défenseur·ses de l’environnement, une nouvelle plateforme répertorie les procès intentés aux militant·es écologi",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Wildfires could cost Canada billions over the coming century",
-          "link": "https://theconversation.com/wildfires-could-cost-canada-billions-over-the-coming-century-294451",
-          "published": "2026-11-02T18:39:48+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "New research estimates how climate change will influence the economic costs of Canadian wildfires.",
           "image": null,
           "other_news": true
         },

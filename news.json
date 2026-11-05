@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:01:22.788672+00:00",
+  "generated_at": "2026-11-05T14:40:35.486915+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -36,7 +36,7 @@
           "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Rapid clean power growth and electrification have boosted China's energy resilience as well as confidence in its energy policy ahead of COP31, experts",
+          "summary": "Rapid clean power growth and electrification have boosted China's energy resilience as well as its confidence in its energy policy pre-COP31, experts",
           "image": null,
           "other_news": false
         },
@@ -80,6 +80,28 @@
     "Research & Science": {},
     "General News": {
       "Plastic & Ocean Pollution": [
+        {
+          "title": "‘No one cares about the little guy’: Sri Lanka’s fishers still reeling from 2021 toxic plastic spill",
+          "link": "https://www.theguardian.com/environment/2026/nov/05/no-one-cares-about-the-little-guy-sri-lankas-fishers-still-reeling-from-2021-toxic-plastic-spill",
+          "published": "2026-11-05T10:00:00+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A stricken container ship shed tonnes of tiny pellets called nurdles on the west coast. Five years on, locals are counting the cost to marine life and",
+          "image": "https://i.guim.co.uk/img/media/31fef1b111e6c8c308bc52edb8569cc4fa0885c8/725_0_6493_5195/master/6493.jpg?width=140&quality=85&auto=format&fit=max&s=60c8d4595cb5386c9c3374dec1fee665",
+          "other_news": false
+        },
+        {
+          "title": "Investigation into 'major fish kill' after pollution incident",
+          "link": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T12:26:00+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d4/live/0f9efad0-d90f-11f1-94c6-3f8050561bf5.jpg",
+          "other_news": false
+        },
         {
           "title": "Les gestes individuels peuvent-ils quelque chose pour lutter contre la pollution plastique ?",
           "link": "https://theconversation.com/les-gestes-individuels-peuvent-ils-quelque-chose-pour-lutter-contre-la-pollution-plastique-292314",
@@ -533,17 +555,6 @@
           "other_news": false
         },
         {
-          "title": "A Feejee Mermaid on display in Colorado may shock and intrigue – but it’s no longer considered a ‘missing link’ on the evolutionary tree",
-          "link": "https://theconversation.com/a-feejee-mermaid-on-display-in-colorado-may-shock-and-intrigue-but-its-no-longer-considered-a-missing-link-on-the-evolutionary-tree-294775",
-          "published": "2026-11-04T13:28:34+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "All hoax – no science – the Feejee Mermaid startled American audiences that imagined it a real sea creature.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Climate change, El Niño and a Warming Ocean",
           "link": "https://oceanconservancy.org/blog/2026/11/03/climate-change-el-nino-warming-ocean/",
           "published": "2026-11-03T20:56:20+00:00",
@@ -591,6 +602,19 @@
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/03151848/WhatsApp-Image-2026-10-22-at-12.16.33-4-768x512.jpg",
           "other_news": false
         }
+      ],
+      "Fisheries & Climate Change Ecosystem": [
+        {
+          "title": "Warming UK seas could ‘fundamentally reshape marine ecosystems’ – report",
+          "link": "https://www.theguardian.com/environment/2026/nov/05/warming-uk-seas-could-fundamentally-reshape-marine-ecosystems-report",
+          "published": "2026-11-05T07:00:56+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Four-year study warns destabilised marine food webs could jeopardise food security by 2050Warming seas around the UK and the wider north-east Atlantic",
+          "image": "https://i.guim.co.uk/img/media/02e296e4df0fea6e4441d0acc9dc29f8ffe4bc87/0_797_1386_1108/master/1386.jpg?width=140&quality=85&auto=format&fit=max&s=fe97e33bfd39c0c24ea2d235bcbc2840",
+          "other_news": false
+        }
       ]
     },
     "Other News": {
@@ -604,17 +628,6 @@
           "language": "en",
           "summary": "New research from Oxfam shows the wealthiest 0.1% are making money from the climate crisis their pollution has caused, while buying protection for the",
           "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Les fausses informations nous exposent aux pollutions, aux maladies, aux incendies",
-          "link": "https://reporterre.net/Comment-la-desinformation-climatique-nous-tue",
-          "published": "2026-10-28T13:47:38+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les fake news des industries des énergies fossiles et leurs alliés économiques et politiques nous surexposent aux pollutions, au",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250910__hl_cschmitt_2874127__v1__highres__franceprotestseptember10bloquonstou_1_-b9076.jpg?1793195263",
           "other_news": true
         },
         {
@@ -639,17 +652,6 @@
           "language": "en",
           "summary": "In 2022, I helped push through the international agreement to protect biodiversity. I know there is always a reason to stall, but ministers at Cop17 m",
           "image": "https://i.guim.co.uk/img/media/106b96be9a0dbcdf3cb19c187ca4e2b68dbc2ed7/0_0_1616_1293/master/1616.jpg?width=140&quality=85&auto=format&fit=max&s=673169024f5606b33d32d33eacededb9",
-          "other_news": true
-        },
-        {
-          "title": "Action needed to tackle 'biodiversity crisis'",
-          "link": "https://www.bbc.co.uk/news/articles/c8wy94ewzw03o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-03T17:25:10+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The issue is part of wider concerns the government is not focused enough on the environment.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92a6/live/b5b3ff00-d794-11f1-a701-fddedf244c16.jpg",
           "other_news": true
         },
         {
@@ -749,17 +751,6 @@
           "language": "en",
           "summary": "At the 2026 U.N. Biodiversity Conference in Armenia (COP17), Indigenous peoples and local communities strengthened their role in the decision-making o",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2022/03/31072953/Sami-Indigenous-people-tends-a-reindeer-in-Sweden-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Togo’s growing belief-based use trade sweeping up avian biodiversity, says study",
-          "link": "https://news.mongabay.com/short-article/2026/11/togos-growing-belief-based-use-trade-sweeping-up-avian-biodiversity-says-study/",
-          "published": "2026-11-02T13:31:05+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "One of West Africa’s largest markets selling wildlife for belief-based uses has expanded rapidly over the past decade, according to a recent study. Re",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/02132742/Image_1_csp270423-fig-0003-m-768x512.jpg",
           "other_news": true
         }
       ],
@@ -943,6 +934,17 @@
           "other_news": true
         },
         {
+          "title": "From doctors and teachers to lawyers, every profession has a duty to align with climate goals",
+          "link": "https://theconversation.com/from-doctors-and-teachers-to-lawyers-every-profession-has-a-duty-to-align-with-climate-goals-294914",
+          "published": "2026-11-05T08:25:38+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "New research outlines how climate responsibility can become part of professional practice.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Fireworks provide a few minutes of joy, but the economic and environmental costs last much longer",
           "link": "https://theconversation.com/fireworks-provide-a-few-minutes-of-joy-but-the-economic-and-environmental-costs-last-much-longer-295775",
           "published": "2026-11-04T12:20:56+00:00",
@@ -1042,17 +1044,6 @@
           "other_news": true
         },
         {
-          "title": "Jackdaw decision could haunt the UK at future climate summits",
-          "link": "https://theconversation.com/jackdaw-decision-could-haunt-the-uk-at-future-climate-summits-294981",
-          "published": "2026-10-22T15:46:47+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "The UK can’t champion a fossil fuel phase-out while approving new gas fields.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Short supplies of crucial equipment stymie changes to US electricity grid",
           "link": "https://theconversation.com/short-supplies-of-crucial-equipment-stymie-changes-to-us-electricity-grid-293650",
           "published": "2026-11-04T13:27:29+00:00",
@@ -1126,6 +1117,17 @@
           "type": "news",
           "language": "en",
           "summary": "Opposition to data centers is widespread across the US, uniting people despite other differences on political and environmental issues.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Interactive: Tracking negotiating texts at the COP31 climate summit",
+          "link": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
+          "published": "2026-11-05T14:13:38+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal&#8230;\nThe post Interactive: Tracking",
           "image": null,
           "other_news": true
         },
@@ -1218,13 +1220,13 @@
           "other_news": true
         },
         {
-          "title": "Analysis: How the UK spent more than £11.6bn on climate aid since 2021",
-          "link": "https://www.carbonbrief.org/analysis-how-the-uk-spent-more-than-11-6bn-on-climate-aid-since-2021",
-          "published": "2026-10-28T07:00:00+00:00",
-          "source": "Carbonbrief",
+          "title": "COP31 Briefing: What to expect from the Antalya climate summit?",
+          "link": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
+          "published": "2026-11-05T14:09:45+00:00",
+          "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "The UK has spent £12.8bn on climate aid for developing countries since 2021, according to official figures obtained by Carbon&#8230;\nThe post Analysis",
+          "summary": "Electrification, the fossil fuel transition, adaptation to rising impacts, climate science and trade are key themes as governments gather for COP31 in",
           "image": null,
           "other_news": true
         },
@@ -1449,25 +1451,14 @@
           "other_news": true
         },
         {
-          "title": "SE Asia speeds up plan for connected clean power grid after oil shock",
-          "link": "https://www.climatechangenews.com/2026/10/13/se-asia-speeds-up-plan-for-connected-clean-power-grid-after-oil-shock/",
-          "published": "2026-10-13T15:34:59+00:00",
-          "source": "Climate change news",
+          "title": "« L'Amazonie est une zone en guerre, la guerre du climat »",
+          "link": "https://reporterre.net/Bruno-Meyerfeld-prix-Albert-Londres-L-Amazonie-est-une-zone-en-guerre-la-guerre-du-climat",
+          "published": "2026-11-05T06:31:00+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Countries are redoubling efforts to link their grids to bolster energy security and reduce their dependence on fossil fuels - but many challenges rema",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "UN carbon market forces cookstove projects to protect against forest loss",
-          "link": "https://www.climatechangenews.com/2026/10/12/un-carbon-market-forces-cookstove-projects-protect-forest-loss-credits/",
-          "published": "2026-10-12T17:53:54+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Despite lobbying for an exemption, the UN regulator has for the first time made cookstove projects cover the risk that the trees they save are later d",
-          "image": null,
+          "language": "fr",
+          "summary": "Le journaliste Bruno Meyerfeld a remporté le 27 octobre le 88e prix Albert Londres pour ses reportages sur l'Amazonie publiés da",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/grasset_2_-d8187.jpg?1793860263",
           "other_news": true
         },
         {
@@ -1559,14 +1550,14 @@
           "other_news": true
         },
         {
-          "title": "Cigéo : à Bure, la poubelle nucléaire prend l'eau (ou ce qu'il en reste)",
-          "link": "https://reporterre.net/Cigeo-a-Bure-la-poubelle-nucleaire-prend-l-eau-ou-ce-qu-il-en-reste",
-          "published": "2026-10-29T07:10:38+00:00",
-          "source": "Reporterre",
+          "title": "« Face à la colère sociale, la transformation écologique est une réponse très concrète, à hauteur de vie »",
+          "link": "https://www.lemonde.fr/idees/article/2026/11/05/face-a-la-colere-sociale-la-transformation-ecologique-est-une-reponse-tres-concrete-a-hauteur-de-vie_6806856_3232.html",
+          "published": "2026-11-05T12:30:07+01:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Alors que la Meuse connaît une sécheresse et des restrictions d'eau, le projet d'enfouissement de déchets radioactifs prévu à Bu",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/reporterre-eau-eabe2.jpg?1793257883",
+          "summary": "Le politiste Théodore Tallent défend, dans une tribune au « Monde », l’idée que des politiques publiques qui assureraient une protection à la fois con",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/237e9fa_upload-1-wkwklf1ebg8t-frame-808.jpg",
           "other_news": true
         },
         {
@@ -1600,39 +1591,6 @@
           "language": "fr",
           "summary": "A Bedous, dans le Béarn, des associations environnementales s’inquiètent des effets d’un projet hydroélectrique sur le desman des Pyrénées, une espèce",
           "image": "https://img.lemde.fr/2026/11/02/501/0/5405/2702/644/322/60/0/cb1a8ab_upload-1-kdiscqjsabgm-058-1357508.jpg",
-          "other_news": true
-        },
-        {
-          "title": "La bataille pour le climat est-elle féministe ?",
-          "link": "https://www.lemonde.fr/podcasts/article/2026/11/03/la-bataille-pour-le-climat-est-elle-feministe_6805539_5463015.html",
-          "published": "2026-11-03T07:30:00+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le changement climatique exacerbe les inégalités de genre et il faut en tenir compte pour réussir la transition. La climatologue Valérie Masson-Delmot",
-          "image": "https://img.lemde.fr/2026/11/02/55/0/1778/889/644/322/60/0/4ec97c4_upload-1-0sx5rlwenbfr-01-09-massondelmotte.jpg",
-          "other_news": true
-        },
-        {
-          "title": "En Finlande, l’abattage sans autorisation de 250 000 arbres pour construire un data center de Google embarrasse le gouvernement",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/03/en-finlande-l-abattage-sans-autorisation-de-250-000-arbres-pour-construire-un-data-center-de-google-embarrasse-le-gouvernement_6805532_3244.html",
-          "published": "2026-11-03T05:45:04+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Sans attendre l’étude d’impact environnemental ni le plan d’aménagement du territoire, le géant américain a coupé à blanc 530 hectares de forêts sur d",
-          "image": "https://img.lemde.fr/2026/10/29/192/0/6144/3072/644/322/60/0/ec86749_ftp-1-g3mh3l1rkbto-2026-10-29t122335z-1529635026-rc2ycoamhyau-rtrmadp-3-alphabet-ai-finland.JPG",
-          "other_news": true
-        },
-        {
-          "title": "En Bretagne, comment ces propriétaires ont isolé leur maison grâce à un chantier participatif",
-          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/11/03/comment-on-a-isole-notre-maison-grace-a-un-chantier-participatif_6805524_6125299.html",
-          "published": "2026-11-03T05:00:30+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Aujourd’hui,",
-          "image": "https://img.lemde.fr/2026/10/29/0/0/2997/1498/644/322/60/0/10f0160_upload-1-1dilrt8xtqub-le-monde-chantier-041-1.jpg",
           "other_news": true
         },
         {
@@ -1680,6 +1638,17 @@
           "other_news": true
         },
         {
+          "title": "Clothes on the bed, nothing feels right: the psychology behind your seasonal wardrobe meltdown",
+          "link": "https://theconversation.com/clothes-on-the-bed-nothing-feels-right-the-psychology-behind-your-seasonal-wardrobe-meltdown-295598",
+          "published": "2026-11-05T13:07:03+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "If you’ve ended up staring at a pile of rejected clothes this week, you’re not alone.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Climate change is undermining our health and the burden falls heaviest on women",
           "link": "https://theconversation.com/climate-change-is-undermining-our-health-and-the-burden-falls-heaviest-on-women-295355",
           "published": "2026-11-04T19:04:04+00:00",
@@ -1709,17 +1678,6 @@
           "type": "news",
           "language": "en",
           "summary": "History shows that opposition control of both chambers of US Congress need not mean less legislation.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "How space weather powers auroras in the sky and threatens power grids on the ground",
-          "link": "https://theconversation.com/how-space-weather-powers-auroras-in-the-sky-and-threatens-power-grids-on-the-ground-291841",
-          "published": "2026-11-04T13:28:08+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "When an aurora lights up the sky, electric currents can also flow through the ground beneath your feet.",
           "image": null,
           "other_news": true
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:32:41.283926+00:00",
+  "generated_at": "2026-11-05T19:57:01.714894+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -261,19 +261,6 @@
           "other_news": false
         }
       ],
-      "Fisheries & Climate Change Ecosystem": [
-        {
-          "title": "New index tracks countries’ vulnerability to conflict between large and small-scale fishers",
-          "link": "https://news.mongabay.com/2026/11/new-index-tracks-countries-vulnerability-to-conflict-between-large-and-small-scale-fishers/",
-          "published": "2026-11-02T17:19:05+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Competition between small-scale fishers and industrial vessels can threaten food security and livelihoods in coastal communities, especially in the Gl",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/02153353/3-coast-of-Gambia-768x512.jpg",
-          "other_news": false
-        }
-      ],
       "Species Migration & Habitat Change": [
         {
           "title": "For centuries, bird migration was a mystery – a tech revolution is changing that, and could help save these amazing creatures",
@@ -511,6 +498,28 @@
           "other_news": false
         },
         {
+          "title": "Landmark 100-year study shows Irish sea-levels rising at their fastest pace in a century",
+          "link": "https://oceanographicmagazine.com/news/landmark-100-year-study-shows-irish-sea-levels-rising-at-their-fastest-pace-in-a-century/",
+          "published": "2026-11-05T16:46:08+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "With waters rising fastest along the south and west, researchers warn Ireland's coastal defences need to be updated.\nThe post Landmark 100-year study",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "New York Harbour becomes classroom for thousands of students",
+          "link": "https://oceanographicmagazine.com/news/new-york-harbour-becomes-classroom-for-thousands-of-students/",
+          "published": "2026-11-05T16:40:23+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "NYC Ferry vessels will be turned into science classrooms under a new partnership with Billion Oyster Project, aiming to bring more than 10,000 public",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Indigenous shell-scattering technique shields marine life from acidic seas",
           "link": "https://oceanographicmagazine.com/news/indigenous-shell-scattering-technique-shields-marine-life-from-acidic-seas/",
           "published": "2026-11-03T15:08:24+00:00",
@@ -522,25 +531,14 @@
           "other_news": false
         },
         {
-          "title": "Marine heatwaves and hungry fish decimate Japan’s vital kelp forests",
-          "link": "https://oceanographicmagazine.com/news/marine-heatwaves-and-hungry-fish-decimate-japans-vital-kelp-forests/",
-          "published": "2026-10-29T19:16:17+00:00",
-          "source": "Oceanographic",
+          "title": "Vanté par Donald Trump, l’accord américano-russe sur le gazole bat de l’aile",
+          "link": "https://www.lemonde.fr/international/article/2026/11/05/vante-par-donald-trump-l-accord-americano-russe-sur-le-gazole-bat-de-l-aile_6807332_3210.html",
+          "published": "2026-11-05T19:38:21+01:00",
+          "source": "Le Monde Planète",
           "type": "news",
-          "language": "en",
-          "summary": "Marine heatwaves pushed kelp beyond its heat tolerance while warmer seas gave plant-eating fish up to 86 more days a year to graze, researchers say\nTh",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Rare footage of barreleye fish with see-through head",
-          "link": "https://oceanographicmagazine.com/news/rare-footage-of-barreleye-fish-with-see-through-head/",
-          "published": "2026-10-29T10:59:01+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "MBARI scientists aboard the David Packard have filmed a rare barreleye fish with a transparent head in 4K and 3D, only the eleventh sighting in nearly",
-          "image": null,
+          "language": "fr",
+          "summary": "Plusieurs navires russes chargés de gazole destiné au marché américain ont brusquement changé de cap en haute mer, ces derniers jours. Craignant les r",
+          "image": "https://img.lemde.fr/2026/10/23/456/0/5472/2736/644/322/60/0/04f2f25_ftp-1-3gguvi4bg3gm-2026-10-23t145021z-390419433-rc2f47arwow1-rtrmadp-3-russia-diesel-exports.JPG",
           "other_news": false
         },
         {
@@ -628,6 +626,17 @@
           "language": "en",
           "summary": "New research from Oxfam shows the wealthiest 0.1% are making money from the climate crisis their pollution has caused, while buying protection for the",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Le bruit, une “source de stress omniprésent” pour la biodiversité",
+          "link": "https://reporterre.net/Le-bruit-une-source-de-stress-omnipresent-pour-la-biodiversite",
+          "published": "2026-11-05T19:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Pour l'ensemble du vivant, la pollution sonore représente une menace globale. C'est le message, peu surprenant mais inquiétant,",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH473/sturnus_vulgaris_2__marek_szczepanek_-fc828.jpg?1793905200",
           "other_news": true
         },
         {
@@ -1220,6 +1229,17 @@
           "other_news": true
         },
         {
+          "title": "Turkey must make COP31 a turning point for global climate action",
+          "link": "https://www.climatechangenews.com/2026/11/05/turkey-must-make-cop31-a-turning-point-for-global-climate-action/",
+          "published": "2026-11-05T17:25:01+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Turkey, which bridges developed and developing economies, is well placed to build consensus and partnerships at the Antalya summit - but it can set a",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "COP31 Briefing: What to expect from the Antalya climate summit?",
           "link": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
           "published": "2026-11-05T14:09:45+00:00",
@@ -1429,28 +1449,6 @@
           "other_news": true
         },
         {
-          "title": "Carbon capture industry faces tough future, as UK raids green spending",
-          "link": "https://www.climatechangenews.com/2026/10/14/carbon-capture-industry-faces-tough-future-as-uk-raids-green-spending/",
-          "published": "2026-10-14T14:22:08+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Despite a spate of projects getting underway, the mood at an industry conference in London this week was low with government subsidies set to shrink\nT",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "World Bank and IMF should lead the financial system in responding to the climate crisis",
-          "link": "https://www.climatechangenews.com/2026/10/14/world-bank-and-imf-should-lead-the-financial-system-in-responding-to-the-climate-crisis/",
-          "published": "2026-10-14T00:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Multilateral development banks have a vital role to play in delivering on donors' climate finance promises and protecting the most vulnerable\nThe post",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "« L'Amazonie est une zone en guerre, la guerre du climat »",
           "link": "https://reporterre.net/Bruno-Meyerfeld-prix-Albert-Londres-L-Amazonie-est-une-zone-en-guerre-la-guerre-du-climat",
           "published": "2026-11-05T06:31:00+00:00",
@@ -1550,6 +1548,17 @@
           "other_news": true
         },
         {
+          "title": "Midterms 2026 : « Il y a désormais un fort potentiel d’avancées en matière climatique aux Etats-Unis »",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/05/midterms-2026-il-y-a-desormais-un-fort-potentiel-d-avancees-en-matiere-climatique-aux-etats-unis_6807334_3244.html",
+          "published": "2026-11-05T20:00:09+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Spécialiste des politiques environnementales et professeure associée à l’université de Californie à Santa Barbara, Leah C. Stokes juge, dans un entret",
+          "image": "https://img.lemde.fr/2026/10/05/500/0/6000/3000/644/322/60/0/5a4e00a_ftp-1-rsyc94rlf4gx-2026-10-05t154930z-987644547-rc22xnasle43-rtrmadp-3-usa-court-climate.JPG",
+          "other_news": true
+        },
+        {
           "title": "« Face à la colère sociale, la transformation écologique est une réponse très concrète, à hauteur de vie »",
           "link": "https://www.lemonde.fr/idees/article/2026/11/05/face-a-la-colere-sociale-la-transformation-ecologique-est-une-reponse-tres-concrete-a-hauteur-de-vie_6806856_3232.html",
           "published": "2026-11-05T12:30:07+01:00",
@@ -1638,6 +1647,17 @@
           "other_news": true
         },
         {
+          "title": "Devices aren’t lasting as long as they should. Here’s why",
+          "link": "https://theconversation.com/devices-arent-lasting-as-long-as-they-should-heres-why-294674",
+          "published": "2026-11-05T18:52:29+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Broken devices are contributing to a growing mountain of e-waste.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Clothes on the bed, nothing feels right: the psychology behind your seasonal wardrobe meltdown",
           "link": "https://theconversation.com/clothes-on-the-bed-nothing-feels-right-the-psychology-behind-your-seasonal-wardrobe-meltdown-295598",
           "published": "2026-11-05T13:07:03+00:00",
@@ -1649,14 +1669,14 @@
           "other_news": true
         },
         {
-          "title": "Climate change is undermining our health and the burden falls heaviest on women",
-          "link": "https://theconversation.com/climate-change-is-undermining-our-health-and-the-burden-falls-heaviest-on-women-295355",
-          "published": "2026-11-04T19:04:04+00:00",
-          "source": "The Conversation",
+          "title": "Money laundering complaints target JBS, Barclays over profits linked to illegal deforestation",
+          "link": "https://news.mongabay.com/short-article/2026/11/money-laundering-complaints-target-jbs-barclays-over-profits-linked-to-illegal-deforestation/",
+          "published": "2026-11-05T19:50:37+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Our response to climate change must reflect the everyday health realities people face.",
-          "image": null,
+          "summary": "A coalition of legal and environmental groups has filed money laundering complaints against JBS, the world’s largest meat processor, and 12 financial",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/05194546/Fires_in_Amazon_Apyterewa_Indige.2e16d0ba.fill-2520x1480-1-768x512.jpg",
           "other_news": true
         },
         {

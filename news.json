@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:40:35.486915+00:00",
+  "generated_at": "2026-11-05T15:32:41.283926+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -94,7 +94,7 @@
         {
           "title": "Investigation into 'major fish kill' after pollution incident",
           "link": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-05T12:26:00+00:00",
+          "published": "2026-11-05T14:51:45+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -423,6 +423,17 @@
           "other_news": false
         },
         {
+          "title": "Imagine newsletter: the power of plankton",
+          "link": "https://theconversation.com/imagine-newsletter-the-power-of-plankton-296012",
+          "published": "2026-11-05T14:41:47+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "From photosynthesis to fluffy cloud formation, plankton play a huge role in planetary systems, from marine food chains to the carbon cycle.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Five ways that sea-level rise affects your daily life, even if you live inland",
           "link": "https://theconversation.com/five-ways-that-sea-level-rise-affects-your-daily-life-even-if-you-live-inland-294708",
           "published": "2026-11-03T08:53:10+00:00",
@@ -441,17 +452,6 @@
           "type": "news",
           "language": "en",
           "summary": "People are increasingly urged to become resilient to flooding. Yet many question whether this shifts responsibility from institutions to residents.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "The Jackdaw gasfield passed the legal test for North Sea drilling – Rosebank will find it much harder",
-          "link": "https://theconversation.com/the-jackdaw-gasfield-passed-the-legal-test-for-north-sea-drilling-rosebank-will-find-it-much-harder-295029",
-          "published": "2026-10-23T13:11:03+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "A landmark 2024 Supreme Court ruling forced ministers to account for emissions from burning fossil fuels.",
           "image": null,
           "other_news": false
         },
@@ -1656,28 +1656,6 @@
           "type": "news",
           "language": "en",
           "summary": "Our response to climate change must reflect the everyday health realities people face.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Corporate green reports: do independent checks really help companies deliver measurable action?",
-          "link": "https://theconversation.com/corporate-green-reports-do-independent-checks-really-help-companies-deliver-measurable-action-295282",
-          "published": "2026-11-04T15:37:33+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "A new study shows that companies whose green claims are vetted tend to follow through and deliver on their promises to cut greenhouse gas emissions or",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "US midterms: why a Democrat Congress could mean less political gridlock, not more",
-          "link": "https://theconversation.com/us-midterms-why-a-democrat-congress-could-mean-less-political-gridlock-not-more-295678",
-          "published": "2026-11-04T14:14:25+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "History shows that opposition control of both chambers of US Congress need not mean less legislation.",
           "image": null,
           "other_news": true
         },

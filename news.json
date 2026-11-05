@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:57:01.714894+00:00",
+  "generated_at": "2026-11-05T20:41:26.210247+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -844,6 +844,17 @@
           "other_news": true
         },
         {
+          "title": "Over 1,000 tonnes of sewage seen at landfill site",
+          "link": "https://www.bbc.co.uk/news/articles/cmp8ggn9gpjjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T20:01:05+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Environment Agency says it has issued the operator with a series of actions after an inspection.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee88/live/57121fe0-d951-11f1-b2ee-87d22b17ac74.jpg",
+          "other_news": true
+        },
+        {
           "title": "Tiktoker 'super excited' to co-host BBC nature show",
           "link": "https://www.bbc.co.uk/news/articles/c6y93pgydvzdo?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-04T06:15:01+00:00",
@@ -852,17 +863,6 @@
           "language": "en",
           "summary": "Naturewatch, hosted by Chris Packham, Megan McCubbin and Kyle Thomas, is being made in Bristol.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e0/live/7b5d81c0-ce05-11f1-bc2e-018d645d8d21.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Trust vows to 'maintain spirit' of nature reserve",
-          "link": "https://www.bbc.co.uk/news/articles/cr3wv0ywnvl7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-04T05:57:48+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Flatford Wildlife Garden is bought by the National Trust after being run by the RSPB for 15 years.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d9f/live/eef58360-a424-11ef-bdf5-b7cb2fa86e10.jpg",
           "other_news": true
         },
         {

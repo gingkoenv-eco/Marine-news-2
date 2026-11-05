@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T20:26:58.500978+00:00",
+  "generated_at": "2026-11-05T06:01:22.788672+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -29,6 +29,17 @@
         }
       ],
       "Marine Protected Areas & Policy": [
+        {
+          "title": "Clean power shields China from oil shock more than any other country",
+          "link": "https://www.climatechangenews.com/2026/11/05/clean-power-shields-china-from-oil-shock-more-than-any-other-country/",
+          "published": "2026-11-05T01:00:00+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Rapid clean power growth and electrification have boosted China's energy resilience as well as confidence in its energy policy ahead of COP31, experts",
+          "image": null,
+          "other_news": false
+        },
         {
           "title": "Antarctic protection stalls again as CCAMLR fails MPA delivery",
           "link": "https://oceanographicmagazine.com/news/antarctic-protection-stalls-again-as-ccamlr-fails-mpa-delivery/",
@@ -511,6 +522,17 @@
           "other_news": false
         },
         {
+          "title": "As diesel from the Gulf and Russia dried up, Australia had to find new suppliers – at a cost",
+          "link": "https://theconversation.com/as-diesel-from-the-gulf-and-russia-dried-up-australia-had-to-find-new-suppliers-at-a-cost-295461",
+          "published": "2026-11-05T03:40:31+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The US–Iran war has upended the diesel supply chain. Australia’s supply of diesel has held up, but it now leans on fewer suppliers and a longer, more",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "A Feejee Mermaid on display in Colorado may shock and intrigue – but it’s no longer considered a ‘missing link’ on the evolutionary tree",
           "link": "https://theconversation.com/a-feejee-mermaid-on-display-in-colorado-may-shock-and-intrigue-but-its-no-longer-considered-a-missing-link-on-the-evolutionary-tree-294775",
           "published": "2026-11-04T13:28:34+00:00",
@@ -529,17 +551,6 @@
           "type": "news",
           "language": "en",
           "summary": "What is El Niño and why is this year’s different? A strengthening El Niño layered on top of decades of human-caused climate change is pushing ocean te",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Cuts to Integrated Ocean Observing System Puts Ocean at Risk",
-          "link": "https://oceanconservancy.org/blog/2026/10/05/integrated-ocean-observing-system/",
-          "published": "2026-10-05T21:24:39+00:00",
-          "source": "Ocean Conservancy",
-          "type": "news",
-          "language": "en",
-          "summary": "Most Americans have likely never heard of the United States Integrated Ocean Observing System, or IOOS. Yet if you have ever checked conditions before",
           "image": null,
           "other_news": false
         },
@@ -719,17 +730,6 @@
           "other_news": true
         },
         {
-          "title": "Millions of bogong moths are blanketing our cities and they are still endangered",
-          "link": "https://theconversation.com/millions-of-bogong-moths-are-blanketing-our-cities-and-they-are-still-endangered-294774",
-          "published": "2026-11-04T03:50:27+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "These unassuming insects are increasingly under pressure from climate change.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Global biodiversity summit ends with shortfall of funding for Africa, despite 30×30 push",
           "link": "https://news.mongabay.com/short-article/2026/11/global-biodiversity-summit-ends-with-shortfall-of-funding-for-africa-despite-30x30-push/",
           "published": "2026-11-03T11:06:30+00:00",
@@ -773,19 +773,6 @@
           "language": "en",
           "summary": "On Oct. 29, 2026, the United Nations Environment Programme (UNEP) and FAO recognized the Desa’a project, an initiative to restore Ethiopia’s forests i",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/03094624/1_20260509_UNEP-Decade-on-Ecosystem-Restoration_Ethiopias-Great-Rift-Valley_Sosina-Mengistu_13-768x512.jpg",
-          "other_news": true
-        }
-      ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "Donald Trump’s Republicans suffer landslide defeat – what this means for the world",
-          "link": "https://theconversation.com/donald-trumps-republicans-suffer-landslide-defeat-what-this-means-for-the-world-295769",
-          "published": "2026-11-04T06:36:59+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Facing a hostile Congress, the US president is likely to focus on foreign policy to secure his legacy.",
-          "image": null,
           "other_news": true
         }
       ],
@@ -876,17 +863,6 @@
           "language": "en",
           "summary": "Flatford Wildlife Garden is bought by the National Trust after being run by the RSPB for 15 years.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d9f/live/eef58360-a424-11ef-bdf5-b7cb2fa86e10.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Bute House protested by environmental campaigners",
-          "link": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-31T13:41:07+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b14/live/e53f9f80-d52e-11f1-866a-b522399149a0.jpg",
           "other_news": true
         },
         {
@@ -1495,17 +1471,6 @@
           "other_news": true
         },
         {
-          "title": "Governments that support climate science must stand firm against naysayers",
-          "link": "https://www.climatechangenews.com/2026/10/12/governments-that-support-climate-science-must-stand-firm-against-naysayers/",
-          "published": "2026-10-12T08:53:51+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The IPCC is meeting to decide the timing of its next major report, as some countries try to delay it and weaken the case for faster emissions cuts\nThe",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Essais nucléaires : l'Algérie réclame à la France l'emplacement des déchets radioactifs enfouis dans son sol",
           "link": "https://reporterre.net/Essais-nucleaires-l-Algerie-reclame-a-la-France-l-emplacement-des-dechets-radioactifs",
           "published": "2026-11-03T11:30:06+00:00",
@@ -1668,6 +1633,17 @@
           "language": "fr",
           "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Aujourd’hui,",
           "image": "https://img.lemde.fr/2026/10/29/0/0/2997/1498/644/322/60/0/10f0160_upload-1-1dilrt8xtqub-le-monde-chantier-041-1.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Hubert Peres, spécialiste de la politique espagnole : «La droite n’a aucune chance d’arriver au pouvoir sans l’appui de l’extrême droite»",
+          "link": "https://vert.eco/chaleurs-actuelles/hubert-peres-specialiste-de-la-politique-espagnole-la-droite-na-aucune-chance-darriver-au-pouvoir-sans-lappui-de-lextreme-droite/",
+          "published": "2026-11-05T06:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Prévues fin novembre, les élections législatives espagnoles pourraient marquer le retour au pouvoir des conservateurs, avec le soutien de l’extrême dr",
+          "image": null,
           "other_news": true
         },
         {

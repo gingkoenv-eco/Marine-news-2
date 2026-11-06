@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:17:20.830776+00:00",
+  "generated_at": "2026-11-06T15:07:28.199720+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -12,6 +12,17 @@
           "language": "en",
           "summary": "Exclusive: EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whalesFollow our Australian politics live blog for latest updatesS",
           "image": "https://i.guim.co.uk/img/media/37e026264024c8b969ae4fa3d8d8601720087a90/625_0_6628_5304/master/6628.jpg?width=140&quality=85&auto=format&fit=max&s=6bb71c939b4be55c1dde8f059a0c009b",
+          "other_news": false
+        },
+        {
+          "title": "Mediterranean fisheries commission adopts species management plans but punts on deep-sea protections",
+          "link": "https://news.mongabay.com/2026/11/mediterranean-fisheries-commission-adopts-species-management-plans-but-punts-on-deep-sea-protections/",
+          "published": "2026-11-06T14:43:47+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The international organization responsible for regulating fisheries in the Mediterranean and Black seas concluded its annual meeting with the adoption",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/06074209/Fishmonger-Malaga-53236699475_c008cee0f3_k-768x512.jpg",
           "other_news": false
         }
       ],
@@ -754,17 +765,6 @@
           "other_news": true
         },
         {
-          "title": "Countries urged to ramp up “insufficient” nature policies at COP17",
-          "link": "https://www.climatechangenews.com/2026/10/15/countries-ramp-up-insufficient-nature-policies-un-report-cop17-armenia/",
-          "published": "2026-10-15T19:25:25+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "A major UN report that will inform biodiversity negotiations in Armenia shows countries have made some progress but are still off track for a landmark",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "The hidden ways insects support animal life – from habitat to health – go way beyond being food",
           "link": "https://theconversation.com/the-hidden-ways-insects-support-animal-life-from-habitat-to-health-go-way-beyond-being-food-294617",
           "published": "2026-11-06T13:11:26+00:00",
@@ -1253,6 +1253,17 @@
           "other_news": true
         },
         {
+          "title": "Nepal seeks stronger recognition of mountain issues in UN climate process",
+          "link": "https://www.climatechangenews.com/2026/11/06/nepal-seeks-stronger-recognition-of-mountain-issues-in-un-climate-process/",
+          "published": "2026-11-06T14:57:02+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Flood-hit Nepal wants COP31 to adopt a new agenda item formalising work on mountains and climate change and boosting the response to rising risks\nThe",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "European nations signal support for fossil fuels roadmap, says COP30 president",
           "link": "https://www.climatechangenews.com/2026/11/06/european-nations-uk-fossil-fuel-roadmaps-brazil-cop30-president/",
           "published": "2026-11-06T12:44:50+00:00",
@@ -1484,6 +1495,17 @@
           "other_news": true
         },
         {
+          "title": "COP31 : pour stopper les pollueurs, « il est grand temps de réformer la gouvernance climatique »",
+          "link": "https://reporterre.net/COP31-pour-stopper-les-pollueurs-il-est-grand-temps-de-reformer-la-gouvernance-climatique",
+          "published": "2026-11-06T15:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "À l'approche de la COP31, les auteurs de cette tribune appellent la France, garante de l'Accord de Paris, à mettre fin à la redo",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/photoafp-5458a.jpg?1793977202",
+          "other_news": true
+        },
+        {
           "title": "« L'Amazonie est une zone en guerre, la guerre du climat »",
           "link": "https://reporterre.net/Bruno-Meyerfeld-prix-Albert-Londres-L-Amazonie-est-une-zone-en-guerre-la-guerre-du-climat",
           "published": "2026-11-05T06:31:00+00:00",
@@ -1558,6 +1580,17 @@
           "language": "fr",
           "summary": "Les lobbies industriels trustent la COP17 biodiversité à Erevan, alerte le média Contexte. Selon la liste officielle des partici",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/cop17-e16c9.jpg?1793365564",
+          "other_news": true
+        },
+        {
+          "title": "Deux ans après le retour de Donald Trump au pouvoir, le bilan alarmant des climatologues américains",
+          "link": "https://www.lemonde.fr/sciences/article/2026/11/06/deux-ans-apres-le-retour-de-donald-trump-au-pouvoir-le-bilan-alarmant-des-climatologues-americains_6807798_1650684.html",
+          "published": "2026-11-06T15:30:03+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Des chercheurs en sciences du climat accusent l’administration américaine de « chercher à briser le moral de la communauté » scientifique, avec la sup",
+          "image": "https://img.lemde.fr/2026/11/05/325/0/3900/1950/644/322/60/0/28ae6aa_upload-1-17aotfusbxjt-000-48pd9u9.jpg",
           "other_news": true
         },
         {

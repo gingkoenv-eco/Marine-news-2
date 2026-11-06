@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T20:41:26.210247+00:00",
+  "generated_at": "2026-11-06T06:01:51.256668+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -248,6 +248,19 @@
           "other_news": false
         }
       ],
+      "Sustainable Fisheries": [
+        {
+          "title": "Singapore sand imports threaten an already sinking Cambodian fishing community, again",
+          "link": "https://news.mongabay.com/2026/11/singapore-sand-imports-threaten-an-already-sinking-cambodian-fishing-community-again/",
+          "published": "2026-11-06T00:15:50+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Editor’s note: *Cambodian fishers who spoke to Mongabay asked that pseudonyms be used, fearing reprisals. BANGKOK, Thailand — Sand mining vessels were",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/05234928/DSC09394-768x512.jpg",
+          "other_news": false
+        }
+      ],
       "Nature-Based Solutions & Restoration": [
         {
           "title": "Artificial mangrove roots offer temporary shield for Thailand’s eroding coastline",
@@ -270,6 +283,17 @@
           "type": "news",
           "language": "en",
           "summary": "An early clue came from storks found in Europe with African arrows in their bodies. Today, an atlas reveals hundreds of bird migration routes that are",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Born in Aussie or NZ, playing for the Pacific: the startling demographics of the Rugby League World Cup",
+          "link": "https://theconversation.com/born-in-aussie-or-nz-playing-for-the-pacific-the-startling-demographics-of-the-rugby-league-world-cup-295966",
+          "published": "2026-11-06T00:20:24+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A delve into the Rugby League World Cup’s demographic data reveals a story about family ties, migration and opportunity across the ocean.",
           "image": null,
           "other_news": false
         },
@@ -432,17 +456,6 @@
           "other_news": false
         },
         {
-          "title": "As flood risk rises, some communities question the idea of resilience",
-          "link": "https://theconversation.com/as-flood-risk-rises-some-communities-question-the-idea-of-resilience-292498",
-          "published": "2026-10-23T13:53:31+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "People are increasingly urged to become resilient to flooding. Yet many question whether this shifts responsibility from institutions to residents.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "El Niño is threatening California’s fragile coast again – the 1982-83 El Niño opened eyes to the serious erosion risks",
           "link": "https://theconversation.com/el-nino-is-threatening-californias-fragile-coast-again-the-1982-83-el-nino-opened-eyes-to-the-serious-erosion-risks-293298",
           "published": "2026-10-21T12:47:33+00:00",
@@ -542,17 +555,6 @@
           "other_news": false
         },
         {
-          "title": "As diesel from the Gulf and Russia dried up, Australia had to find new suppliers – at a cost",
-          "link": "https://theconversation.com/as-diesel-from-the-gulf-and-russia-dried-up-australia-had-to-find-new-suppliers-at-a-cost-295461",
-          "published": "2026-11-05T03:40:31+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The US–Iran war has upended the diesel supply chain. Australia’s supply of diesel has held up, but it now leans on fewer suppliers and a longer, more",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Climate change, El Niño and a Warming Ocean",
           "link": "https://oceanconservancy.org/blog/2026/11/03/climate-change-el-nino-warming-ocean/",
           "published": "2026-11-03T20:56:20+00:00",
@@ -617,6 +619,17 @@
     },
     "Other News": {
       "Plastic & Ocean Pollution": [
+        {
+          "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+          "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T23:16:53+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26c/live/86fa1990-d94e-11f1-a701-fddedf244c16.jpg",
+          "other_news": true
+        },
         {
           "title": "The great disaster divide: How the super-rich are profiting from global climate suffering",
           "link": "https://www.climatechangenews.com/2026/11/04/the-great-disaster-divide-how-the-super-rich-are-profiting-from-global-climate-suffering/",
@@ -750,17 +763,6 @@
           "summary": "African countries left the United Nations biodiversity conference in Yerevan, Armenia, with an unresolved funding gap for conservation. International",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/03110331/CBDCOP17-1678_0-768x512.jpg",
           "other_news": true
-        },
-        {
-          "title": "Indigenous peoples and local communities solidify decision-making powers at COP17",
-          "link": "https://news.mongabay.com/short-article/2026/11/indigenous-peoples-and-local-communities-solidify-decision-making-powers-at-cop17/",
-          "published": "2026-11-02T21:19:11+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "At the 2026 U.N. Biodiversity Conference in Armenia (COP17), Indigenous peoples and local communities strengthened their role in the decision-making o",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2022/03/31072953/Sami-Indigenous-people-tends-a-reindeer-in-Sweden-768x512.jpg",
-          "other_news": true
         }
       ],
       "Nature-Based Solutions & Restoration": [
@@ -855,17 +857,6 @@
           "other_news": true
         },
         {
-          "title": "Tiktoker 'super excited' to co-host BBC nature show",
-          "link": "https://www.bbc.co.uk/news/articles/c6y93pgydvzdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-04T06:15:01+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Naturewatch, hosted by Chris Packham, Megan McCubbin and Kyle Thomas, is being made in Bristol.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e0/live/7b5d81c0-ce05-11f1-bc2e-018d645d8d21.jpg",
-          "other_news": true
-        },
-        {
           "title": "BBC Inside Science",
           "link": "https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-29T21:00:00+00:00",
@@ -939,6 +930,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Une étude inédite montre que l’implantation d’éoliennes est associée à une hausse locale du vote d’extrême droite dès le dépôt du permis, avant même l",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "The worse climate change gets, the harder it becomes to stop it",
+          "link": "https://theconversation.com/the-worse-climate-change-gets-the-harder-it-becomes-to-stop-it-293987",
+          "published": "2026-11-06T00:19:23+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Climate breakdown could undermine the social trust, political cooperation and financial resources needed to tackle it –&nbsp;new research shows how th",
           "image": null,
           "other_news": true
         },
@@ -1130,6 +1132,17 @@
           "other_news": true
         },
         {
+          "title": "Analysis: China’s quarterly CO2 falls 3% in largest drop since Covid",
+          "link": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
+          "published": "2026-11-06T00:01:00+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "China’s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to&#8230;\nThe post Analysis: China’s",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Interactive: Tracking negotiating texts at the COP31 climate summit",
           "link": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
           "published": "2026-11-05T14:13:38+00:00",
@@ -1214,17 +1227,6 @@
           "type": "news",
           "language": "en",
           "summary": "Chancellor John Healey has announced a “new course on energy” for the UK, focused on keeping bills low amid the&#8230;\nThe post UK budget 2026: Key cl",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Revealed: UK relied on £2bn of ‘questionable accounting’ to hit its climate-aid goal",
-          "link": "https://www.carbonbrief.org/revealed-uk-relied-on-2bn-of-questionable-accounting-to-hit-its-climate-aid-goal",
-          "published": "2026-10-28T07:00:00+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "The UK has beaten its target to provide £11.6bn of climate aid to developing countries by 2026 – but only&#8230;\nThe post Revealed: UK relied on £2bn",
           "image": null,
           "other_news": true
         },
@@ -1548,6 +1550,17 @@
           "other_news": true
         },
         {
+          "title": "Sait-on recycler les batteries électriques ?",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/06/sait-on-recycler-les-batteries-electriques_6807730_3244.html",
+          "published": "2026-11-06T06:30:07+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Chaque semaine, l’équipe du podcast « Chaleur humaine » répond à vos questions sur la transition climatique",
+          "image": "https://img.lemde.fr/2025/10/23/250/0/3000/1500/644/322/60/0/269a2c5_upload-1-unixw4s49jcr-frame-70.jpg",
+          "other_news": true
+        },
+        {
           "title": "Midterms 2026 : « Il y a désormais un fort potentiel d’avancées en matière climatique aux Etats-Unis »",
           "link": "https://www.lemonde.fr/planete/article/2026/11/05/midterms-2026-il-y-a-desormais-un-fort-potentiel-d-avancees-en-matiere-climatique-aux-etats-unis_6807334_3244.html",
           "published": "2026-11-05T20:00:09+01:00",
@@ -1600,6 +1613,17 @@
           "language": "fr",
           "summary": "A Bedous, dans le Béarn, des associations environnementales s’inquiètent des effets d’un projet hydroélectrique sur le desman des Pyrénées, une espèce",
           "image": "https://img.lemde.fr/2026/11/02/501/0/5405/2702/644/322/60/0/cb1a8ab_upload-1-kdiscqjsabgm-058-1357508.jpg",
+          "other_news": true
+        },
+        {
+          "title": "«C’est un problème de santé publique» : en Turquie, les déchets plastiques européens polluent les sols et les cours d’eau",
+          "link": "https://vert.eco/international/cest-un-probleme-de-sante-publique-en-turquie-les-dechets-plastiques-europeens-polluent-les-sols-et-les-cours-deau/",
+          "published": "2026-11-06T05:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Hôte de la prochaine COP, du 9 au 20 novembre, le pays est la principale destination des déchets plastiques de l’Union européenne. Seuls environ 10% s",
+          "image": null,
           "other_news": true
         },
         {
@@ -1688,17 +1712,6 @@
           "language": "en",
           "summary": "ISLAMABAD (AP) — Afghanistan&#8217;s Taliban officials have been invited and will attend the upcoming U.N. climate summit as observers. The summit sta",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/03155657/AP26307442803923-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Diverse forests can better withstand extreme weather events, study finds. Here’s why",
-          "link": "https://news.mongabay.com/2026/11/diverse-forests-can-better-withstand-extreme-weather-events-study-finds-heres-why/",
-          "published": "2026-11-02T21:04:55+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Forests around the world face mounting pressures as the climate changes.  In order to understand how they will fare, new research suggests looking at",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/02164751/andy-holmes-TxkisEuUs7w-unsplash-768x512.jpg",
           "other_news": true
         }
       ]

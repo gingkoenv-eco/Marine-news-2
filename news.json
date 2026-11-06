@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T06:01:51.256668+00:00",
+  "generated_at": "2026-11-06T14:17:20.830776+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -81,13 +81,13 @@
     "General News": {
       "Plastic & Ocean Pollution": [
         {
-          "title": "‘No one cares about the little guy’: Sri Lanka’s fishers still reeling from 2021 toxic plastic spill",
+          "title": "‘No one cares about the little guy’: plastic nurdles still washing ashore in Sri Lanka five years after toxic spill",
           "link": "https://www.theguardian.com/environment/2026/nov/05/no-one-cares-about-the-little-guy-sri-lankas-fishers-still-reeling-from-2021-toxic-plastic-spill",
           "published": "2026-11-05T10:00:00+00:00",
           "source": "The Guardian Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "A stricken container ship shed tonnes of tiny pellets called nurdles on the west coast. Five years on, locals are counting the cost to marine life and",
+          "summary": "A stricken container ship shed tonnes of the tiny pellets on the west coast in May 2021. Today, locals are counting the cost to marine life and liveli",
           "image": "https://i.guim.co.uk/img/media/31fef1b111e6c8c308bc52edb8569cc4fa0885c8/725_0_6493_5195/master/6493.jpg?width=140&quality=85&auto=format&fit=max&s=60c8d4595cb5386c9c3374dec1fee665",
           "other_news": false
         },
@@ -522,17 +522,6 @@
           "other_news": false
         },
         {
-          "title": "New York Harbour becomes classroom for thousands of students",
-          "link": "https://oceanographicmagazine.com/news/new-york-harbour-becomes-classroom-for-thousands-of-students/",
-          "published": "2026-11-05T16:40:23+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "NYC Ferry vessels will be turned into science classrooms under a new partnership with Billion Oyster Project, aiming to bring more than 10,000 public",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Indigenous shell-scattering technique shields marine life from acidic seas",
           "link": "https://oceanographicmagazine.com/news/indigenous-shell-scattering-technique-shields-marine-life-from-acidic-seas/",
           "published": "2026-11-03T15:08:24+00:00",
@@ -544,7 +533,18 @@
           "other_news": false
         },
         {
-          "title": "Vanté par Donald Trump, l’accord américano-russe sur le gazole bat de l’aile",
+          "title": "Marine heatwaves and hungry fish decimate Japan’s vital kelp forests",
+          "link": "https://oceanographicmagazine.com/news/marine-heatwaves-and-hungry-fish-decimate-japans-vital-kelp-forests/",
+          "published": "2026-10-29T19:16:17+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Marine heatwaves pushed kelp beyond its heat tolerance while warmer seas gave plant-eating fish up to 86 more days a year to graze, researchers say\nTh",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "L’accord américano-russe sur le gazole vanté par Donald Trump bat de l’aile",
           "link": "https://www.lemonde.fr/international/article/2026/11/05/vante-par-donald-trump-l-accord-americano-russe-sur-le-gazole-bat-de-l-aile_6807332_3210.html",
           "published": "2026-11-05T19:38:21+01:00",
           "source": "Le Monde Planète",
@@ -563,6 +563,17 @@
           "language": "en",
           "summary": "What is El Niño and why is this year’s different? A strengthening El Niño layered on top of decades of human-caused climate change is pushing ocean te",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Scientists confirm horseshoe crabs in a second Philippine province, urge conservation",
+          "link": "https://news.mongabay.com/short-article/2026/11/scientists-confirm-horseshoe-crabs-in-a-second-philippine-province-urge-conservation/",
+          "published": "2026-11-06T07:15:43+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Philippine researchers have confirmed the presence of horseshoe crabs in the southern island province of Tawi-Tawi for the first time through intervie",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/06071257/1920px-Mangrove_Horseshoe_Crab_Carcinoscorpius_rotundicauda_6707310189-768x512.jpeg",
           "other_news": false
         },
         {
@@ -642,7 +653,7 @@
           "other_news": true
         },
         {
-          "title": "Le bruit, une “source de stress omniprésent” pour la biodiversité",
+          "title": "Le bruit, une « source de stress omniprésent » pour la biodiversité",
           "link": "https://reporterre.net/Le-bruit-une-source-de-stress-omnipresent-pour-la-biodiversite",
           "published": "2026-11-05T19:00:00+00:00",
           "source": "Reporterre",
@@ -754,6 +765,28 @@
           "other_news": true
         },
         {
+          "title": "The hidden ways insects support animal life – from habitat to health – go way beyond being food",
+          "link": "https://theconversation.com/the-hidden-ways-insects-support-animal-life-from-habitat-to-health-go-way-beyond-being-food-294617",
+          "published": "2026-11-06T13:11:26+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As insect biodiversity declines, people and all the other species on Earth stand to lose the beneficial ‘ecosystem services’ bugs provide.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Kenya launches $160 million conservation initiative to support communities and biodiversity",
+          "link": "https://news.mongabay.com/2026/11/kenya-launches-160-million-conservation-initiative-to-support-communities-and-biodiversity/",
+          "published": "2026-11-06T10:52:44+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The government of Kenya has launched a 10-year, $160 million conservation program that will target 17.3 million hectares (43 million acres) of existin",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/05164636/Rebecca-M-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "Global biodiversity summit ends with shortfall of funding for Africa, despite 30×30 push",
           "link": "https://news.mongabay.com/short-article/2026/11/global-biodiversity-summit-ends-with-shortfall-of-funding-for-africa-despite-30x30-push/",
           "published": "2026-11-03T11:06:30+00:00",
@@ -843,6 +876,17 @@
           "language": "en",
           "summary": "Four planned \"hyperscale\" data centres consider using gas-fired power for their electricity needs.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d46/live/2f770bd0-d6bd-11f1-aacc-5b5f23abff4b.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Could you live on a remote island as a job?",
+          "link": "https://www.bbc.co.uk/news/videos/c6kg77jqpwk2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T10:14:18+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The new manager will start each workday surrounded by nature at the island wildlife reserve.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d10/live/823b5890-d9c8-11f1-bb8e-efaa31738708.jpg",
           "other_news": true
         },
         {
@@ -1044,17 +1088,6 @@
           "other_news": true
         },
         {
-          "title": "How El Niño could push up your mortgage and grocery bills",
-          "link": "https://theconversation.com/how-el-nino-could-push-up-your-mortgage-and-grocery-bills-294378",
-          "published": "2026-10-23T13:54:10+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "A Pacific climate event has far reaching effects.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Short supplies of crucial equipment stymie changes to US electricity grid",
           "link": "https://theconversation.com/short-supplies-of-crucial-equipment-stymie-changes-to-us-electricity-grid-293650",
           "published": "2026-11-04T13:27:29+00:00",
@@ -1220,13 +1253,13 @@
           "other_news": true
         },
         {
-          "title": "UK budget 2026: Key climate and energy announcements",
-          "link": "https://www.carbonbrief.org/uk-budget-2026-key-climate-and-energy-announcements",
-          "published": "2026-10-28T18:16:58+00:00",
-          "source": "Carbonbrief",
+          "title": "European nations signal support for fossil fuels roadmap, says COP30 president",
+          "link": "https://www.climatechangenews.com/2026/11/06/european-nations-uk-fossil-fuel-roadmaps-brazil-cop30-president/",
+          "published": "2026-11-06T12:44:50+00:00",
+          "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Chancellor John Healey has announced a “new course on energy” for the UK, focused on keeping bills low amid the&#8230;\nThe post UK budget 2026: Key cl",
+          "summary": "André Corrêa do Lago told Climate Home News that it's up to other nations to decide how the fossil fuel and deforestation roadmaps are used\nThe post E",
           "image": null,
           "other_news": true
         },
@@ -1528,28 +1561,6 @@
           "other_news": true
         },
         {
-          "title": "Biodiversité : l'hypocrisie antiscience de la France",
-          "link": "https://reporterre.net/Biodiversite-a-la-COP17-comme-au-gouvernement-l-hypocrisie-antiscientifique-de-l-Etat-francais",
-          "published": "2026-10-30T06:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "La ministre de la Transition écologique a défendu des politiques basées sur la science à la COP17 sur la biodiversité. Une scien",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/moniquebetlabiodiversitemacroniste-11205.jpg?1793340002",
-          "other_news": true
-        },
-        {
-          "title": "Restauration des écosystèmes : le monde doit tripler ses efforts",
-          "link": "https://reporterre.net/Restauration-des-ecosystemes-le-monde-doit-tripler-ses-efforts",
-          "published": "2026-10-29T15:15:33+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les efforts mondiaux pour restaurer la nature restent très insuffisants. Selon un rapport publié jeudi 29 octobre par l'Organisa",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/restauranthumide-0ca2c.jpg?1793286935",
-          "other_news": true
-        },
-        {
           "title": "Sait-on recycler les batteries électriques ?",
           "link": "https://www.lemonde.fr/planete/article/2026/11/06/sait-on-recycler-les-batteries-electriques_6807730_3244.html",
           "published": "2026-11-06T06:30:07+01:00",
@@ -1563,7 +1574,7 @@
         {
           "title": "Midterms 2026 : « Il y a désormais un fort potentiel d’avancées en matière climatique aux Etats-Unis »",
           "link": "https://www.lemonde.fr/planete/article/2026/11/05/midterms-2026-il-y-a-desormais-un-fort-potentiel-d-avancees-en-matiere-climatique-aux-etats-unis_6807334_3244.html",
-          "published": "2026-11-05T20:00:09+01:00",
+          "published": "2026-11-05T20:00:08+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1574,7 +1585,7 @@
         {
           "title": "« Face à la colère sociale, la transformation écologique est une réponse très concrète, à hauteur de vie »",
           "link": "https://www.lemonde.fr/idees/article/2026/11/05/face-a-la-colere-sociale-la-transformation-ecologique-est-une-reponse-tres-concrete-a-hauteur-de-vie_6806856_3232.html",
-          "published": "2026-11-05T12:30:07+01:00",
+          "published": "2026-11-05T12:30:06+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1605,14 +1616,14 @@
           "other_news": true
         },
         {
-          "title": "Dans les Pyrénées, le mystérieux « rat-trompette » menacé par un projet hydroélectrique",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/03/dans-les-pyrenees-le-mysterieux-rat-trompette-menace-par-un-projet-hydroelectrique_6805617_3244.html",
-          "published": "2026-11-03T17:00:04+01:00",
-          "source": "Le Monde Planète",
+          "title": "Écorégions, 100% renouvelables, sortie des pesticides… Ce que contient le programme de La France insoumise sur l’écologie",
+          "link": "https://vert.eco/politique/ecoregions-100-renouvelables-sortie-des-pesticides-ce-que-contient-le-programme-de-la-france-insoumise-sur-lecologie/",
+          "published": "2026-11-06T10:50:29+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "A Bedous, dans le Béarn, des associations environnementales s’inquiètent des effets d’un projet hydroélectrique sur le desman des Pyrénées, une espèce",
-          "image": "https://img.lemde.fr/2026/11/02/501/0/5405/2702/644/322/60/0/cb1a8ab_upload-1-kdiscqjsabgm-058-1357508.jpg",
+          "summary": "Le mouvement politique de Jean-Luc Mélenchon présente ce vendredi ses mesures phares pour l’élection présidentielle de 2027. Le leader de la gauche ra",
+          "image": null,
           "other_news": true
         },
         {
@@ -1671,6 +1682,28 @@
           "other_news": true
         },
         {
+          "title": "‘I heard a barnacle’ – how paying attention to nature’s background noise can reveal animal secrets",
+          "link": "https://theconversation.com/i-heard-a-barnacle-how-paying-attention-to-natures-background-noise-can-reveal-animal-secrets-290033",
+          "published": "2026-11-06T13:11:07+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Letting the ordinary become interesting again is a key part of studying natural history and animal behavior.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "View from The Hill: an over-committed Albanese is scrambling to keep his eyes on the main game",
+          "link": "https://theconversation.com/view-from-the-hill-an-over-committed-albanese-is-scrambling-to-keep-his-eyes-on-the-main-game-295659",
+          "published": "2026-11-06T06:21:40+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The PM will devote Monday to chair meetings on the mid-December budget update before flying off again for the COP summit in Turkey.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Devices aren’t lasting as long as they should. Here’s why",
           "link": "https://theconversation.com/devices-arent-lasting-as-long-as-they-should-heres-why-294674",
           "published": "2026-11-05T18:52:29+00:00",
@@ -1678,17 +1711,6 @@
           "type": "news",
           "language": "en",
           "summary": "Broken devices are contributing to a growing mountain of e-waste.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Clothes on the bed, nothing feels right: the psychology behind your seasonal wardrobe meltdown",
-          "link": "https://theconversation.com/clothes-on-the-bed-nothing-feels-right-the-psychology-behind-your-seasonal-wardrobe-meltdown-295598",
-          "published": "2026-11-05T13:07:03+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "If you’ve ended up staring at a pile of rejected clothes this week, you’re not alone.",
           "image": null,
           "other_news": true
         },

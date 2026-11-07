@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:03:24.217685+00:00",
+  "generated_at": "2026-11-07T14:07:00.149477+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -1557,6 +1557,17 @@
           "other_news": true
         },
         {
+          "title": "En Turquie, pays d’accueil de la COP31, les ravages sans fin de la double centrale au charbon d’Afsin-Elbistan",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/07/en-turquie-pays-d-accueil-de-la-cop31-les-ravages-sans-fin-de-la-double-centrale-au-charbon-d-afsin-elbistan_6808282_3244.html",
+          "published": "2026-11-07T15:00:05+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "A quelque 560 kilomètres de la station balnéaire d’Antalya, où se tiendra à partir de lundi la 31ᵉ Conférence des parties sur le climat, le village de",
+          "image": "https://img.lemde.fr/2026/11/04/398/0/3543/1771/644/322/60/0/b0fdaf3_upload-1-2okv4k8hawba-000-97qb463.jpg",
+          "other_news": true
+        },
+        {
           "title": "COP31 : trop grosses, trop lentes, inefficaces… Les conférences mondiales sur le climat peuvent-elles être réformées ?",
           "link": "https://www.lemonde.fr/planete/article/2026/11/07/cop31-trop-grosses-trop-lentes-inefficaces-les-conferences-mondiales-sur-le-climat-peuvent-elles-etre-reformees_6808253_3244.html",
           "published": "2026-11-07T09:39:34+01:00",
@@ -1609,17 +1620,6 @@
           "language": "fr",
           "summary": "Le politiste Théodore Tallent défend, dans une tribune au « Monde », l’idée que des politiques publiques qui assureraient une protection à la fois con",
           "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/237e9fa_upload-1-wkwklf1ebg8t-frame-808.jpg",
-          "other_news": true
-        },
-        {
-          "title": "« La taxe carbone, principale recommandation de William Nordhaus, est devenue la martingale des économistes contre le réchauffement climatique »",
-          "link": "https://www.lemonde.fr/idees/article/2026/11/04/la-taxe-carbone-principale-recommandation-de-william-nordhaus-est-devenue-la-martingale-des-economistes-contre-le-rechauffement-climatique_6806230_3232.html",
-          "published": "2026-11-04T14:33:16+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Si l’on n’avait pas suivi les recommandations de l’économiste américain, mort le 30 octobre à 85 ans, une autre économie du climat aurait pu s’imposer",
-          "image": "https://img.lemde.fr/2026/11/02/219/0/5760/2880/644/322/60/0/b7894ef_upload-1-v15f0nk20fle-2018-10-08t140913z-754191553-rc143af1ca50-rtrmadp-3-nobel-prizes-economics.JPG",
           "other_news": true
         },
         {

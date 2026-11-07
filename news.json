@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:58:06.953782+00:00",
+  "generated_at": "2026-11-07T06:01:22.322889+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -588,6 +588,17 @@
           "other_news": false
         },
         {
+          "title": "COP31 Must Deliver for Our Ocean",
+          "link": "https://oceanconservancy.org/blog/2026/11/06/cop31/",
+          "published": "2026-11-06T22:43:46+00:00",
+          "source": "Ocean Conservancy",
+          "type": "news",
+          "language": "en",
+          "summary": "Our ocean is bearing the brunt of the climate crisis, but it is also where communities are adapting, and major opportunities for a clean energy transi",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Climate change, El Niño and a Warming Ocean",
           "link": "https://oceanconservancy.org/blog/2026/11/03/climate-change-el-nino-warming-ocean/",
           "published": "2026-11-03T20:56:20+00:00",
@@ -831,17 +842,6 @@
           "other_news": true
         },
         {
-          "title": "This is one of Norway’s most pristine fjords. So why is it being used as a dumping site for mine waste?",
-          "link": "https://www.theguardian.com/environment/2026/oct/08/norway-environment-nordic-mining-waste-pollution-fjord-dumping-salmon",
-          "published": "2026-10-08T04:00:09+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Norwegian government has given a permit to a mining company to release waste into Førde fjord despite a 17-year battle by campaigners and a suprem",
-          "image": "https://i.guim.co.uk/img/media/dc0441d99e158bcc614888c623997f70242554f1/170_0_3752_3001/master/3752.jpg?width=140&quality=85&auto=format&fit=max&s=044fc190d1e94ef92fac096be88129c2",
-          "other_news": true
-        },
-        {
           "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
           "link": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-06T16:43:30+00:00",
@@ -883,17 +883,6 @@
           "language": "en",
           "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/a1474180-d7da-11f1-8cb0-d304936875f3.png",
-          "other_news": true
-        },
-        {
-          "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-03T08:57:20+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A watchdog has criticised the lack of progress made by organisations in tackling climate change.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c5e/live/72a9ebc0-d6d6-11f1-b2be-0146bf989691.jpg",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T06:01:22.322889+00:00",
+  "generated_at": "2026-11-07T13:03:24.217685+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -23,19 +23,6 @@
           "language": "en",
           "summary": "The international organization responsible for regulating fisheries in the Mediterranean and Black seas concluded its annual meeting with the adoption",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/06074209/Fishmonger-Malaga-53236699475_c008cee0f3_k-768x512.jpg",
-          "other_news": false
-        }
-      ],
-      "Sustainable Fisheries": [
-        {
-          "title": "High expectations but no agreement on Antarctic marine protection, krill fishing",
-          "link": "https://news.mongabay.com/2026/11/high-expectations-but-no-agreement-on-antarctic-marine-protection-krill-fishing/",
-          "published": "2026-11-03T18:02:40+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The multilateral body charged with regulating fishing and protecting ecosystems in the Southern Ocean reached no agreements on establishing new marine",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/03115956/Penguin_in_Antarctica_jumping_out_of_the_water-edit-768x512.jpg",
           "other_news": false
         }
       ],
@@ -256,6 +243,17 @@
           "language": "en",
           "summary": "If you spend some time on the banks of the St. Lawrence River in Quebec, you just might catch a flash of white beneath the surface. A whale. A beluga",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "These divers are killing a beautiful coral to save Brazil’s marine life",
+          "link": "https://news.mongabay.com/video/2026/11/these-divers-are-killing-a-beautiful-coral-to-save-brazils-marine-life/",
+          "published": "2026-11-07T11:19:00+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "RIO DE JANEIRO — Beneath the surface of Brazil’s coastal waters, a silent invasion is transforming marine ecosystems. Sun coral (Tubastraea coccinea a",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/07111547/Mongabay_Thumbnail_SunCoral_Featured-768x512.jpg",
           "other_news": false
         },
         {
@@ -818,6 +816,19 @@
           "other_news": true
         }
       ],
+      "Nature-Based Solutions & Restoration": [
+        {
+          "title": "New Forest wildfire restoration work begins",
+          "link": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-07T07:14:33+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Work begins to restore nature to part of the New Forest destroyed by a summer wildfire.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3410/live/ef5a4170-da04-11f1-84c1-dbcae60402d7.png",
+          "other_news": true
+        }
+      ],
       "Other Marine News": [
         {
           "title": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
@@ -894,17 +905,6 @@
           "language": "en",
           "summary": "The new manager will start each workday surrounded by nature at the island wildlife reserve.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d10/live/823b5890-d9c8-11f1-bb8e-efaa31738708.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Over 1,000 tonnes of sewage seen at landfill site",
-          "link": "https://www.bbc.co.uk/news/articles/cmp8ggn9gpjjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-05T20:01:05+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Environment Agency says it has issued the operator with a series of actions after an inspection.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee88/live/57121fe0-d951-11f1-b2ee-87d22b17ac74.jpg",
           "other_news": true
         },
         {
@@ -1557,25 +1557,14 @@
           "other_news": true
         },
         {
-          "title": "Climat : « Nous avons perdu du temps et la situation est très dangereuse »",
-          "link": "https://reporterre.net/Nicholas-Stern-sur-le-changement-climatique-Il-faut-une-refonte-de-l-economie",
-          "published": "2026-10-30T14:00:00+00:00",
-          "source": "Reporterre",
+          "title": "COP31 : trop grosses, trop lentes, inefficaces… Les conférences mondiales sur le climat peuvent-elles être réformées ?",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/07/cop31-trop-grosses-trop-lentes-inefficaces-les-conferences-mondiales-sur-le-climat-peuvent-elles-etre-reformees_6808253_3244.html",
+          "published": "2026-11-07T09:39:34+01:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Investissements privés, nucléaire, fin des énergies fossiles : l'économiste Nicholas Stern continue de croire au pouvoir salvate",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/cover-3dbbf.jpg?1793368802",
-          "other_news": true
-        },
-        {
-          "title": "COP17 : les lobbies industriels au cœur des négociations sur la biodiversité",
-          "link": "https://reporterre.net/COP17-les-lobbies-industriels-au-coeur-des-negociations-sur-la-biodiversite",
-          "published": "2026-10-30T13:05:41+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les lobbies industriels trustent la COP17 biodiversité à Erevan, alerte le média Contexte. Selon la liste officielle des partici",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/cop17-e16c9.jpg?1793365564",
+          "summary": "La 31ᵉ Conférence des parties sur le climat s’ouvre lundi dans la station balnéaire d’Antalya, en Turquie. Si ces grands sommets annuels restent indis",
+          "image": "https://img.lemde.fr/2026/11/05/376/0/4500/2250/644/322/60/0/e3e7f1e_ftp-1-hdin4elqxpkq-afp-d6hq8cq.jpg",
           "other_news": true
         },
         {
@@ -1634,6 +1623,17 @@
           "other_news": true
         },
         {
+          "title": "En plein «embrasement autoritaire», la Turquie accueille la COP31 sur le climat",
+          "link": "https://vert.eco/international/en-plein-embrasement-autoritaire-la-turquie-accueille-la-cop31-sur-le-climat/",
+          "published": "2026-11-07T06:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le 31ème sommet mondial sur le climat s’apprête à débuter à Antalya, au sud de la Turquie. Alors que le pays a intensifié la répression des militant·e",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Écorégions, 100% renouvelables, sortie des pesticides… Ce que contient le programme de La France insoumise sur l’écologie",
           "link": "https://vert.eco/politique/ecoregions-100-renouvelables-sortie-des-pesticides-ce-que-contient-le-programme-de-la-france-insoumise-sur-lecologie/",
           "published": "2026-11-06T10:50:29+00:00",
@@ -1685,17 +1685,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Le 2 mai 2027, Emmanuel Macron passera le relais après deux quinquennats à façonner le pays. Il y a dix ans, il parlait de l'écologie comme «du combat",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Petites avancées et gros échecs : huit chiffres clés pour tout comprendre à la COP17 sur la biodiversité",
-          "link": "https://vert.eco/biodiversite/petites-avancees-et-gros-echecs-huit-chiffres-cles-pour-tout-comprendre-a-la-cop17-sur-la-biodiversite/",
-          "published": "2026-11-02T11:06:22+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "La 17ème conférence mondiale (COP17) sur la biodiversité s’est achevée samedi à Erevan, en Arménie. La communauté internationale a reconnu qu’il falla",
           "image": null,
           "other_news": true
         },

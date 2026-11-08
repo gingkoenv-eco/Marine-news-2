@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T14:20:23.399756+00:00",
+  "generated_at": "2026-11-08T17:55:35.027588+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -243,6 +243,17 @@
           "language": "en",
           "summary": "If you spend some time on the banks of the St. Lawrence River in Quebec, you just might catch a flash of white beneath the surface. A whale. A beluga",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Killing a dangerous coral",
+          "link": "https://news.mongabay.com/short-article/2026/11/killing-a-dangerous-coral/",
+          "published": "2026-11-08T15:40:02+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A Brazilian biologist and a team of volunteer divers are killing coral to save a marine protected area just off the famous Ipanema beach. They&#8217;r",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/08153612/Mongabay_Thumbnail_SunCoral_Vertical_Featured-338x512.jpg",
           "other_news": false
         },
         {
@@ -586,17 +597,6 @@
           "other_news": false
         },
         {
-          "title": "L’accord américano-russe sur le gazole vanté par Donald Trump bat de l’aile",
-          "link": "https://www.lemonde.fr/international/article/2026/11/05/vante-par-donald-trump-l-accord-americano-russe-sur-le-gazole-bat-de-l-aile_6807332_3210.html",
-          "published": "2026-11-05T19:38:21+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Plusieurs navires russes chargés de gazole destiné au marché américain ont brusquement changé de cap en haute mer, ces derniers jours. Craignant les r",
-          "image": "https://img.lemde.fr/2026/10/23/456/0/5472/2736/644/322/60/0/04f2f25_ftp-1-3gguvi4bg3gm-2026-10-23t145021z-390419433-rc2f47arwow1-rtrmadp-3-russia-diesel-exports.JPG",
-          "other_news": false
-        },
-        {
           "title": "COP31 Must Deliver for Our Ocean",
           "link": "https://oceanconservancy.org/blog/2026/11/06/cop31/",
           "published": "2026-11-06T22:43:46+00:00",
@@ -649,17 +649,6 @@
           "language": "en",
           "summary": "Ecuadorian authorities said they caught a Russian woman at the airport in Quito, the capital city, trying to smuggle 32 live marine iguanas, endemic t",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/04115037/Marine-iguana-1-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Photograph helps identify a West African bird not seen in 13 years",
-          "link": "https://news.mongabay.com/short-article/2026/11/photograph-helps-identify-a-west-african-bird-not-seen-in-13-years/",
-          "published": "2026-11-03T22:16:25+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Researchers recently spotted the brightly colored Ghana cuckooshrike in Côte d’Ivoire’s Taï National Park. The “lost” bird hadn’t been seen in 13 year",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/23130024/Ghana-cuckooshrike-2--768x512.jpg",
           "other_news": false
         }
       ]
@@ -837,6 +826,19 @@
           "language": "en",
           "summary": "Work begins to restore nature to part of the New Forest destroyed by a summer wildfire.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3410/live/ef5a4170-da04-11f1-84c1-dbcae60402d7.png",
+          "other_news": true
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Canada’s new open-access policy expands access to research, but leaves publishing fees unchecked",
+          "link": "https://theconversation.com/canadas-new-open-access-policy-expands-access-to-research-but-leaves-publishing-fees-unchecked-294648",
+          "published": "2026-11-08T15:00:54+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Ending paywalls for Canadian research is a public win. But until funders cap commercial publishing fees, taxpayer money will keep fuelling publisher p",
+          "image": null,
           "other_news": true
         }
       ],
@@ -1568,6 +1570,28 @@
           "other_news": true
         },
         {
+          "title": "Le mémo de la COP31 : agenda, organisation et enjeux de la conférence climat d’Antalya",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/08/le-memo-de-la-cop31-agenda-organisation-et-enjeux-de-la-conference-climat-d-antalya_6808459_3244.html",
+          "published": "2026-11-08T18:30:04+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Tout savoir en bref sur la 31ᵉ conférence mondiale sur le climat qui débute lundi 9 novembre dans la station balnéaire des rives méditerranéennes de l",
+          "image": "https://img.lemde.fr/2026/11/08/459/0/5500/2750/644/322/60/0/fe2d2fc_ftp-1-3sqdw6b98hno-2026-11-08t135826z-1147880897-rc2ojoawz925-rtrmadp-3-climate-cop31.JPG",
+          "other_news": true
+        },
+        {
+          "title": "En Turquie, la COP31 vise à remettre le climat en haut de l’agenda, dans un monde percuté par les crises",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/08/en-turquie-la-cop31-vise-a-remettre-le-climat-en-haut-de-l-agenda-dans-un-monde-percute-par-les-crises_6808456_3244.html",
+          "published": "2026-11-08T18:00:07+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La 31ᵉ conférence mondiale sur le climat s’ouvre lundi à Antalya. Sur fond de crise énergétique et de tensions géopolitiques, ces négociations interna",
+          "image": "https://img.lemde.fr/2026/11/06/144/0/4619/2309/644/322/60/0/4a04eae_upload-1-vvq1g79wlrxy-068-aa-02112026-3022578-1.jpg",
+          "other_news": true
+        },
+        {
           "title": "L’urine, nouvelle ressource : « On veut s’engager dans la révolution du pipi utile »",
           "link": "https://www.lemonde.fr/m-perso/article/2026/11/08/l-urine-nouvelle-ressource-on-veut-s-engager-dans-la-revolution-du-pipi-utile_6808399_4497916.html",
           "published": "2026-11-08T06:00:17+01:00",
@@ -1620,17 +1644,6 @@
           "language": "fr",
           "summary": "Chaque semaine, l’équipe du podcast « Chaleur humaine » répond à vos questions sur la transition climatique",
           "image": "https://img.lemde.fr/2025/10/23/250/0/3000/1500/644/322/60/0/269a2c5_upload-1-unixw4s49jcr-frame-70.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Midterms 2026 : « Il y a désormais un fort potentiel d’avancées en matière climatique aux Etats-Unis »",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/05/midterms-2026-il-y-a-desormais-un-fort-potentiel-d-avancees-en-matiere-climatique-aux-etats-unis_6807334_3244.html",
-          "published": "2026-11-05T20:00:08+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Spécialiste des politiques environnementales et professeure associée à l’université de Californie à Santa Barbara, Leah C. Stokes juge, dans un entret",
-          "image": "https://img.lemde.fr/2026/10/05/500/0/6000/3000/644/322/60/0/5a4e00a_ftp-1-rsyc94rlf4gx-2026-10-05t154930z-987644547-rc22xnasle43-rtrmadp-3-usa-court-climate.JPG",
           "other_news": true
         },
         {
@@ -1689,6 +1702,17 @@
           "other_news": true
         },
         {
+          "title": "Misinformation won: How divisive politics doomed Canada’s carbon tax",
+          "link": "https://theconversation.com/misinformation-won-how-divisive-politics-doomed-canadas-carbon-tax-295644",
+          "published": "2026-11-08T15:04:58+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "New research suggests Canadian opposition to the carbon tax was based on misinformation, partisan politics and serious misconceptions about how much i",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Climate change and funding cuts threaten malaria targets: what SADC countries can do",
           "link": "https://theconversation.com/climate-change-and-funding-cuts-threaten-malaria-targets-what-sadc-countries-can-do-295573",
           "published": "2026-11-08T09:30:14+00:00",
@@ -1729,17 +1753,6 @@
           "type": "news",
           "language": "en",
           "summary": "The PM will devote Monday to chair meetings on the mid-December budget update before flying off again for the COP summit in Turkey.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Devices aren’t lasting as long as they should. Here’s why",
-          "link": "https://theconversation.com/devices-arent-lasting-as-long-as-they-should-heres-why-294674",
-          "published": "2026-11-05T18:52:29+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Broken devices are contributing to a growing mountain of e-waste.",
           "image": null,
           "other_news": true
         },

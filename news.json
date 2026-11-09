@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T16:21:18.631932+00:00",
+  "generated_at": "2026-11-09T17:36:23.536771+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -157,17 +157,6 @@
           "language": "en",
           "summary": "While anglers cannot take endangered sand tiger sharks, a loophole lets private firms catch the fish to sell abroad, profiting from Delaware Bay’s con",
           "image": "https://i.guim.co.uk/img/media/59bed300ee04ff5471e838c9e51271cb36e08e85/181_0_5010_4008/master/5010.jpg?width=140&quality=85&auto=format&fit=max&s=7cc15723849af8c44ca28cf5e583468b",
-          "other_news": false
-        },
-        {
-          "title": "18 million people living in poverty depend on underwater meadows for food and income - but these vital habitats are under threat",
-          "link": "https://theconversation.com/18-million-people-living-in-poverty-depend-on-underwater-meadows-for-food-and-income-but-these-vital-habitats-are-under-threat-293971",
-          "published": "2026-10-26T10:27:43+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Seagrass meadows have a vital role in the fight against poverty.",
-          "image": null,
           "other_news": false
         },
         {
@@ -432,17 +421,6 @@
           "other_news": false
         },
         {
-          "title": "Entre lumière et ténèbres, comment la profondeur et l’alternance jour nuit organisent la vie dans l’océan",
-          "link": "https://theconversation.com/entre-lumiere-et-tenebres-comment-la-profondeur-et-lalternance-jour-nuit-organisent-la-vie-dans-locean-293958",
-          "published": "2026-10-15T08:56:23+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les proies reviennent en surface la nuit pour se nourrir, souvent au risque d’être mangées par leurs prédateurs. Une organisation fragile que le chang",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Imagine newsletter: the power of plankton",
           "link": "https://theconversation.com/imagine-newsletter-the-power-of-plankton-296012",
           "published": "2026-11-05T14:41:47+00:00",
@@ -606,17 +584,6 @@
           "summary": "Philippine researchers have confirmed the presence of horseshoe crabs in the southern island province of Tawi-Tawi for the first time through intervie",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/06071257/1920px-Mangrove_Horseshoe_Crab_Carcinoscorpius_rotundicauda_6707310189-768x512.jpeg",
           "other_news": false
-        },
-        {
-          "title": "Scientists call on Ecuador to stop the rising trafficking of Galápagos iguanas",
-          "link": "https://news.mongabay.com/2026/11/scientists-call-on-ecuador-to-stop-the-rising-trafficking-of-galapagos-iguanas/",
-          "published": "2026-11-04T12:04:51+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Ecuadorian authorities said they caught a Russian woman at the airport in Quito, the capital city, trying to smuggle 32 live marine iguanas, endemic t",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/04115037/Marine-iguana-1-768x512.jpg",
-          "other_news": false
         }
       ]
     },
@@ -679,6 +646,17 @@
           "language": "fr",
           "summary": "En consultant la liste des substances soumises à la redevance pour pollutions diffuses, reversée aux agences et offices de l’eau, l’association Généra",
           "image": "https://img.lemde.fr/2026/06/04/226/0/2712/1356/644/322/60/0/c15ace2_upload-1-cdjljx5ip6c6-frame-1135.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+          "link": "https://news.mongabay.com/short-article/2026/11/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution/",
+          "published": "2026-11-09T17:02:47+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "NEW DELHI (AP) — A thick blanket of smog shrouded India’s capital Monday after firecrackers lit up the skies over New Delhi during Diwali celebrations",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/09165833/AP26313155760421-768x512.jpg",
           "other_news": true
         }
       ],
@@ -773,6 +751,17 @@
         }
       ],
       "Marine Protected Areas & Policy": [
+        {
+          "title": "Canada wants to rebuild its manufacturing sector, but it’s losing the immigrant workers it needs",
+          "link": "https://theconversation.com/canada-wants-to-rebuild-its-manufacturing-sector-but-its-losing-the-immigrant-workers-it-needs-295833",
+          "published": "2026-11-09T17:03:38+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Canada’s manufacturing revival depends on skilled immigrant workers, yet tariff-related layoffs and policy gaps are pushing many out of the sector.",
+          "image": null,
+          "other_news": true
+        },
         {
           "title": "Canada’s new open-access policy expands access to research, but leaves publishing fees unchecked",
           "link": "https://theconversation.com/canadas-new-open-access-policy-expands-access-to-research-but-leaves-publishing-fees-unchecked-294648",
@@ -937,17 +926,6 @@
           "type": "news",
           "language": "fr",
           "summary": "La présence de certains plastiques considérés à tort comme étant compatibles avec la méthanisation freine les processus de valorisation.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Projets éoliens et vote d’extrême droite : ce que révèle une étude inédite",
-          "link": "https://theconversation.com/projets-eoliens-et-vote-dextreme-droite-ce-que-revele-une-etude-inedite-293774",
-          "published": "2026-10-14T14:20:36+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Une étude inédite montre que l’implantation d’éoliennes est associée à une hausse locale du vote d’extrême droite dès le dépôt du permis, avant même l",
           "image": null,
           "other_news": true
         },
@@ -1469,7 +1447,7 @@
           "other_news": true
         },
         {
-          "title": "Patrick Pouyanné peut dormir sur ses deux oreilles : la COP s'ouvre sans mention des énergies fossiles",
+          "title": "Le PDG de Total peut dormir sur ses deux oreilles : la COP s'ouvre sans mention des énergies fossiles",
           "link": "https://reporterre.net/Patrick-Pouyanne-peut-dormir-sur-ses-deux-oreilles-la-COP-s-ouvre-sans-mention-des-energies-fossiles",
           "published": "2026-11-09T16:00:49+00:00",
           "source": "Reporterre",
@@ -1477,17 +1455,6 @@
           "language": "fr",
           "summary": "La sortie des hydrocarbures est aux abonnés absents à la COP31 en Turquie. Ce silence n'a rien d'étonnant, tant cette grand-mess",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261109__d6vq7cn__v1__highres__cop31unclimatechangeconference_1_-58f2e.jpg?1794240097",
-          "other_news": true
-        },
-        {
-          "title": "Lobbying massif et sujets tabous : les COP sont-elles à bout de souffle ?",
-          "link": "https://reporterre.net/COP31-qu-attendre-de-ce-nouveau-sommet-pour-le-climat",
-          "published": "2026-11-09T06:30:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Fin des combustibles fossiles, versement des contributions à l'adaptation climatique, limiter le réchauffement... La COP31 qui s",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/onemorecopjustonemorecopbroiswearthistimeitsgonnasolvetheclimate-eaa49.jpg?1794205801",
           "other_news": true
         },
         {
@@ -1678,17 +1645,6 @@
           "other_news": true
         },
         {
-          "title": "Abdul El-Sayed, Deb Haaland, Chris Pappas… Ces victoires démocrates historiques aux élections de mi-mandat aux États-Unis",
-          "link": "https://vert.eco/international/abdul-el-sayed-deb-haaland-chris-pappas-ces-victoires-democrates-historiques-aux-elections-de-mi-mandat-aux-etats-unis/",
-          "published": "2026-11-04T11:27:16+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Au-delà de la défaite du camp républicain, les élections de mi-mandat aux États-Unis ont vu la victoire de femmes et d’hommes politiques au parcours u",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "For veterans with mild traumatic brain injury, a restaurant or other noisy environment can feel like a battlefield",
           "link": "https://theconversation.com/for-veterans-with-mild-traumatic-brain-injury-a-restaurant-or-other-noisy-environment-can-feel-like-a-battlefield-295941",
           "published": "2026-11-09T13:41:46+00:00",
@@ -1740,17 +1696,6 @@
           "type": "news",
           "language": "en",
           "summary": "New research suggests Canadian opposition to the carbon tax was based on misinformation, partisan politics and serious misconceptions about how much i",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Climate change and funding cuts threaten malaria targets: what SADC countries can do",
-          "link": "https://theconversation.com/climate-change-and-funding-cuts-threaten-malaria-targets-what-sadc-countries-can-do-295573",
-          "published": "2026-11-08T09:30:14+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Getting the SADC region back on track is going to take collective action and strong regional collaboration.",
           "image": null,
           "other_news": true
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:01:22.082091+00:00",
+  "generated_at": "2026-11-09T16:21:18.631932+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -23,6 +23,19 @@
           "language": "en",
           "summary": "The international organization responsible for regulating fisheries in the Mediterranean and Black seas concluded its annual meeting with the adoption",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/06074209/Fishmonger-Malaga-53236699475_c008cee0f3_k-768x512.jpg",
+          "other_news": false
+        }
+      ],
+      "Species Migration & Habitat Change": [
+        {
+          "title": "Research on migration is going unheard – how can we remedy that?",
+          "link": "https://theconversation.com/research-on-migration-is-going-unheard-how-can-we-remedy-that-295312",
+          "published": "2026-11-09T15:59:12+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "New European research explores the reasons behind the disconnect between policymakers and researchers on migration.",
+          "image": null,
           "other_news": false
         }
       ],
@@ -52,13 +65,13 @@
       ],
       "Other Marine News": [
         {
-          "title": "EU blocks extension of Mediterranean deep-sea trawling ban",
-          "link": "https://oceanographicmagazine.com/news/eu-blocks-extension-of-mediterranean-deep-sea-trawling-ban/",
-          "published": "2026-10-30T10:32:06+00:00",
-          "source": "Oceanographic",
+          "title": "Q&A: What is the Belém-Antalya mechanism for a ‘just transition’?",
+          "link": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
+          "published": "2026-11-09T08:00:00+00:00",
+          "source": "Carbonbrief",
           "type": "news",
           "language": "en",
-          "summary": "A proposal to extend the ban on deep-sea bottom trawling in the Mediterranean and Black Sea from 1,000 to 800 metres depth has been blocked by the EU",
+          "summary": "One of the key expected outcomes from the upcoming COP31 climate summit in Antalya, Turkey, is the launch of a&#8230;\nThe post Q&amp;A: What is the Be",
           "image": null,
           "other_news": false
         },
@@ -120,17 +133,6 @@
           "language": "en",
           "summary": "The city of Orlando is known above all else for its world-class amusement parks. In fact, hundreds of thousands of people visit the city every year fr",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Microplastics pollute nearly two-thirds of corals in Malaysia’s marine protected area, study finds",
-          "link": "https://news.mongabay.com/2026/11/microplastics-pollute-nearly-two-thirds-of-corals-in-malaysias-marine-protected-area-study-finds/",
-          "published": "2026-11-04T09:33:30+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "KUALA LUMPUR — Microplastics, tiny plastic particles about 5 millimeters (0.2 inches) or smaller, have settled into the skeletons of corals in a marin",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/04090518/coral-sampling-by-SCUBA-diving-768x512.jpg",
           "other_news": false
         }
       ],
@@ -277,17 +279,6 @@
           "summary": "PORTLAND, Maine (AP) — Scientists who study whales are heartened by an unexpected discovery of a baby right whale off Canada. Researchers in Canada ca",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/06170019/AP26203535889739-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "How a ‘living breakwater’ in Hawai‘i aims to create coral habitat and protect coastline",
-          "link": "https://news.mongabay.com/2026/11/how-a-living-breakwater-in-hawaii-aims-to-create-coral-habitat-and-protect-coastline/",
-          "published": "2026-11-04T09:19:32+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "On Sept. 8, Hurricane Lowell ripped across the Pacific Ocean and around Hawai‘i, sloshing huge waves onto O‘ahu’s west flank and spitting baseball-siz",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/04123831/a-hybrid-reef-system--768x512.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -300,30 +291,6 @@
           "language": "en",
           "summary": "Editor’s note: *Cambodian fishers who spoke to Mongabay asked that pseudonyms be used, fearing reprisals. BANGKOK, Thailand — Sand mining vessels were",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/05234928/DSC09394-768x512.jpg",
-          "other_news": false
-        }
-      ],
-      "Nature-Based Solutions & Restoration": [
-        {
-          "title": "Hundreds of seagrass shoots found in estuary",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvx3r9rgeo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-08T07:06:13+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "There were fears a restoration trial may not succeed when only six seedlings had emerged in April.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65d8/live/be838570-d85b-11f1-94f3-cf7d1e52bb8c.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Artificial mangrove roots offer temporary shield for Thailand’s eroding coastline",
-          "link": "https://news.mongabay.com/short-article/2026/11/artificial-mangrove-roots-offer-temporary-shield-for-thailands-eroding-coastline/",
-          "published": "2026-11-04T10:23:06+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Coastal communities near Bangkok in Thailand are testing artificial mangrove roots to combat severe shoreline erosion, reports Mongabay’s Carolyn Cowa",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/04102237/mangrove-thailand-768x512.jpg",
           "other_news": false
         }
       ],
@@ -520,17 +487,6 @@
           "other_news": false
         },
         {
-          "title": "Physics Nobel highlights Antarctica’s role in exploring the cosmos",
-          "link": "https://theconversation.com/physics-nobel-highlights-antarcticas-role-in-exploring-the-cosmos-293906",
-          "published": "2026-10-12T12:20:36+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "For more than a century, scientists have treated Antarctica’s environments as windows into worlds beyond Earth.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "‘Blue COP31’ set to spotlight need for ocean protections amid record heat",
           "link": "https://www.climatechangenews.com/2026/11/06/blue-cop31-antalya-ocean-protections-record-heat-climate-finance/",
           "published": "2026-11-06T17:16:31+00:00",
@@ -553,17 +509,6 @@
           "other_news": false
         },
         {
-          "title": "Les morts amènent la vie : comment cadavres d'animaux, arbres calcinés et récifs inertes nourrissent leurs congénères",
-          "link": "https://reporterre.net/Les-morts-amenent-la-vie-comment-cadavres-d-animaux-arbres-calcines-et-recifs-inertes-nourrissent-leurs-congeneres",
-          "published": "2026-11-01T06:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Arbres morts qui hébergent des insectes, carcasses de baleines nourricières... Une recherche d'ampleur a été menée pour étudier",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/mort_et_vie-ef403.jpg?1793512800",
-          "other_news": false
-        },
-        {
           "title": "Landmark 100-year study shows Irish sea-levels rising at their fastest pace in a century",
           "link": "https://oceanographicmagazine.com/news/landmark-100-year-study-shows-irish-sea-levels-rising-at-their-fastest-pace-in-a-century/",
           "published": "2026-11-05T16:46:08+00:00",
@@ -575,6 +520,17 @@
           "other_news": false
         },
         {
+          "title": "New York Harbour becomes classroom for thousands of students",
+          "link": "https://oceanographicmagazine.com/news/new-york-harbour-becomes-classroom-for-thousands-of-students/",
+          "published": "2026-11-05T16:40:23+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "NYC Ferry vessels will be turned into science classrooms under a new partnership with Billion Oyster Project, aiming to bring more than 10,000 public",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Indigenous shell-scattering technique shields marine life from acidic seas",
           "link": "https://oceanographicmagazine.com/news/indigenous-shell-scattering-technique-shields-marine-life-from-acidic-seas/",
           "published": "2026-11-03T15:08:24+00:00",
@@ -582,6 +538,28 @@
           "type": "news",
           "language": "en",
           "summary": "Crushed shells mixed into coastal sand neutralise acidic waters and erase genetic stress in young shellfish study finds, validating long-standing Indi",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "The Odyssey’s sea monsters are terrifying expressions of ‘ecohorror’",
+          "link": "https://theconversation.com/the-odysseys-sea-monsters-are-terrifying-expressions-of-ecohorror-295046",
+          "published": "2026-11-09T12:43:35+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Homer’s famous sea monsters reveal how ancient Greek sailors projected their deepest fears onto the ocean itself.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Tiny crystals from volcanoes could reveal when they are about to erupt",
+          "link": "https://theconversation.com/tiny-crystals-from-volcanoes-could-reveal-when-they-are-about-to-erupt-294679",
+          "published": "2026-11-09T10:01:09+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Calcium chemical map of plagioclase crystals from Tuzgle volcano, obtained using X-ray fluorescence microscopy at the Australian Synchrotron.",
           "image": null,
           "other_news": false
         },
@@ -695,7 +673,7 @@
         {
           "title": "Pollution aux pesticides : en restreignant la portée d’une taxe, le gouvernement a privé les agences de l’eau de plus de 90 millions d’euros de redevance",
           "link": "https://www.lemonde.fr/planete/article/2026/11/09/pollution-aux-pesticides-en-restreignant-la-portee-d-une-taxe-le-gouvernement-a-prive-les-agences-de-l-eau-de-plus-de-90-millions-d-euros-de-redevance_6808615_3244.html",
-          "published": "2026-11-09T06:00:56+01:00",
+          "published": "2026-11-09T06:00:42+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -783,17 +761,6 @@
           "other_news": true
         },
         {
-          "title": "The hidden ways insects support animal life – from habitat to health – go way beyond being food",
-          "link": "https://theconversation.com/the-hidden-ways-insects-support-animal-life-from-habitat-to-health-go-way-beyond-being-food-294617",
-          "published": "2026-11-06T13:11:26+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "As insect biodiversity declines, people and all the other species on Earth stand to lose the beneficial ‘ecosystem services’ bugs provide.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Kenya launches $160 million conservation initiative to support communities and biodiversity",
           "link": "https://news.mongabay.com/2026/11/kenya-launches-160-million-conservation-initiative-to-support-communities-and-biodiversity/",
           "published": "2026-11-06T10:52:44+00:00",
@@ -802,19 +769,6 @@
           "language": "en",
           "summary": "The government of Kenya has launched a 10-year, $160 million conservation program that will target 17.3 million hectares (43 million acres) of existin",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/05164636/Rebecca-M-768x512.jpg",
-          "other_news": true
-        }
-      ],
-      "Nature-Based Solutions & Restoration": [
-        {
-          "title": "New Forest wildfire restoration work begins",
-          "link": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-07T07:14:33+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Work begins to restore nature to part of the New Forest destroyed by a summer wildfire.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3410/live/ef5a4170-da04-11f1-84c1-dbcae60402d7.png",
           "other_news": true
         }
       ],
@@ -833,6 +787,17 @@
       ],
       "Other Marine News": [
         {
+          "title": "‘A new age of climate extremes’: Earth accumulating heat at accelerating rate",
+          "link": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-extremes-earth-global-heating",
+          "published": "2026-11-09T07:30:02+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Increased heat will supercharge extreme weather events, warns UN agency as Cop31 climate summit beginsHeat is accumulating in Earth’s systems at an ac",
+          "image": "https://i.guim.co.uk/img/media/eb665636b7d46f13bb5787c1e6b8739556eaf980/54_0_3541_2832/master/3541.jpg?width=140&quality=85&auto=format&fit=max&s=dbafacee9d0936827f87a6999640874a",
+          "other_news": true
+        },
+        {
           "title": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
           "link": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
           "published": "2026-10-27T21:34:54+00:00",
@@ -841,6 +806,17 @@
           "language": "en",
           "summary": "President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather eventsSwee",
           "image": "https://i.guim.co.uk/img/media/177f777c410c1e1edbc2c7e8e9fd013495de2a9e/346_0_4867_3895/master/4867.jpg?width=140&quality=85&auto=format&fit=max&s=ffa1f1919e6c6d781f1902e29839f328",
+          "other_news": true
+        },
+        {
+          "title": "Scientists predict 2026 hottest year on record as climate talks begin",
+          "link": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-09T07:30:12+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d7/live/1adcf6d0-db63-11f1-adda-c54f54e3ce6a.jpg",
           "other_news": true
         },
         {
@@ -877,25 +853,25 @@
           "other_news": true
         },
         {
-          "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-          "link": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-04T06:11:43+00:00",
+          "title": "Rising cost of living tests UK's net zero ambitions",
+          "link": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-09T13:42:03+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/a1474180-d7da-11f1-8cb0-d304936875f3.png",
+          "summary": "From floods to wildfires to heatwaves, 2026 is the year it became hard to ignore the impact of climate change on UK weather. But will soaring living c",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0086/live/20d5ad30-dc43-11f1-b441-2b33b063138f.jpg",
           "other_news": true
         },
         {
-          "title": "Countryside managers prepare for climate change",
-          "link": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-08T07:16:55+00:00",
+          "title": "How yesterday's waste is becoming tomorrow's fashion",
+          "link": "https://www.bbc.co.uk/news/articles/cm5yd1q12g1no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-09T13:18:38+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "North Pennines National Landscape's plan includes restoring peatland and wildfire preparedness.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c2/live/fa52ad30-d91c-11f1-ad94-e17fee4cd332.jpg",
+          "summary": "Brands including Dr Martens, Nike and Coach are among those using recycled materials.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b38/live/3e241d60-d791-11f1-801d-cf196dc7232c.jpg",
           "other_news": true
         },
         {
@@ -1086,6 +1062,28 @@
           "other_news": true
         },
         {
+          "title": "5 ways countries stymie climate negotiations without actually saying ‘no’",
+          "link": "https://theconversation.com/5-ways-countries-stymie-climate-negotiations-without-actually-saying-no-295589",
+          "published": "2026-11-09T13:43:27+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "The methods can be subtle but effective at slowing progress, particularly when fossil fuels are involved. Here’s what to watch for as the latest globa",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How protection of public land shapes political strategies in the American West",
+          "link": "https://theconversation.com/how-protection-of-public-land-shapes-political-strategies-in-the-american-west-295334",
+          "published": "2026-11-09T13:43:11+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "Americans are standing up to protect public lands and bringing concerns about conservation and management into broader public discussion.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Short supplies of crucial equipment stymie changes to US electricity grid",
           "link": "https://theconversation.com/short-supplies-of-crucial-equipment-stymie-changes-to-us-electricity-grid-293650",
           "published": "2026-11-04T13:27:29+00:00",
@@ -1240,13 +1238,13 @@
           "other_news": true
         },
         {
-          "title": "Analysis: China’s clean-tech exports in 2026 to avoid as much CO2 as Brazil emits in a year",
-          "link": "https://www.carbonbrief.org/analysis-chinas-clean-tech-exports-in-2026-to-avoid-as-much-co2-as-brazil-emits-in-a-year",
-          "published": "2026-10-29T07:51:24+00:00",
-          "source": "Carbonbrief",
+          "title": "COP31 Bulletin Day 1: Agenda settled as COP urged to “supercharge solutions”",
+          "link": "https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/",
+          "published": "2026-11-09T10:01:38+00:00",
+          "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "China’s exports in 2026 of clean-energy technologies, such as solar panels, batteries and electric vehicles, are on track to cut&#8230;\nThe post Analy",
+          "summary": "An agenda row is averted at the opening session, where the UN climate chief said strong results are needed from the talks to boost \"real-world outcome",
           "image": null,
           "other_news": true
         },
@@ -1471,14 +1469,25 @@
           "other_news": true
         },
         {
-          "title": "Under US pressure, World Bank says it will back gas “where appropriate”",
-          "link": "https://www.climatechangenews.com/2026/10/16/under-us-pressure-world-bank-says-it-will-back-gas-where-appropriate/",
-          "published": "2026-10-16T11:54:15+00:00",
-          "source": "Climate change news",
+          "title": "Patrick Pouyanné peut dormir sur ses deux oreilles : la COP s'ouvre sans mention des énergies fossiles",
+          "link": "https://reporterre.net/Patrick-Pouyanne-peut-dormir-sur-ses-deux-oreilles-la-COP-s-ouvre-sans-mention-des-energies-fossiles",
+          "published": "2026-11-09T16:00:49+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "The US wants the World Bank to expand its gas support while climate campaigners are pushing for it to end - its head spoke this week of limited backin",
-          "image": null,
+          "language": "fr",
+          "summary": "La sortie des hydrocarbures est aux abonnés absents à la COP31 en Turquie. Ce silence n'a rien d'étonnant, tant cette grand-mess",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261109__d6vq7cn__v1__highres__cop31unclimatechangeconference_1_-58f2e.jpg?1794240097",
+          "other_news": true
+        },
+        {
+          "title": "Lobbying massif et sujets tabous : les COP sont-elles à bout de souffle ?",
+          "link": "https://reporterre.net/COP31-qu-attendre-de-ce-nouveau-sommet-pour-le-climat",
+          "published": "2026-11-09T06:30:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Fin des combustibles fossiles, versement des contributions à l'adaptation climatique, limiter le réchauffement... La COP31 qui s",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/onemorecopjustonemorecopbroiswearthistimeitsgonnasolvetheclimate-eaa49.jpg?1794205801",
           "other_news": true
         },
         {
@@ -1537,20 +1546,20 @@
           "other_news": true
         },
         {
-          "title": "COP biodiversité : des avancées trop timides pour enrayer l'érosion massive du vivant",
-          "link": "https://reporterre.net/COP-biodiversite-des-avancees-trop-timides-pour-enrayer-l-erosion-massive-du-vivant",
-          "published": "2026-10-31T09:40:18+00:00",
-          "source": "Reporterre",
+          "title": "« Un El Niño hors norme entre en collision avec une planète déjà surchauffée » : l’année 2026 sera l’une des plus chaudes jamais enregistrées",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/09/un-el-nino-hors-norme-entre-en-collision-avec-une-planete-deja-surchauffee-2026-sera-l-une-des-annees-les-plus-chaudes-jamais-enregistrees_6808623_3244.html",
+          "published": "2026-11-09T08:30:09+01:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "La COP17 sur la biodiversité, qui s'est clôturée dans la nuit du 30 octobre en Arménie, n'aura pas permis d'avancée notable. Un",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260919__c8ra8m6__v2__highres__topshotindonesiaenvironmentclimatefiresoranguta_1_-bbb93.jpg?1793439674",
+          "summary": "Alors que la COP31 s’ouvre lundi en Turquie, l’Organisation météorologique mondiale publie son bulletin annuel sur l’état du climat.",
+          "image": "https://img.lemde.fr/2026/09/08/536/0/8640/4320/644/322/60/0/bededcf_ftp-1-oipyw9z5il96-a0b5762e033042279f321b876124be78-0-412c544787564f0ca573c62b71c0c46f.jpg",
           "other_news": true
         },
         {
           "title": "COP31 : la Turquie et l’Australie, deux pays fortement dépendants du charbon, aux manettes du principal sommet sur le climat",
           "link": "https://www.lemonde.fr/planete/article/2026/11/09/cop31-la-turquie-et-l-australie-deux-pays-fortement-dependants-du-charbon-aux-manettes-du-principal-sommet-sur-le-climat_6808608_3244.html",
-          "published": "2026-11-09T06:00:32+01:00",
+          "published": "2026-11-09T06:00:20+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1570,13 +1579,13 @@
           "other_news": true
         },
         {
-          "title": "En Turquie, la COP31 vise à remettre le climat en haut de l’agenda, dans un monde percuté par les crises",
+          "title": "La COP31, qui s’ouvre en Turquie, vise à remettre le climat en haut de l’agenda, dans un monde percuté par les crises",
           "link": "https://www.lemonde.fr/planete/article/2026/11/08/en-turquie-la-cop31-vise-a-remettre-le-climat-en-haut-de-l-agenda-dans-un-monde-percute-par-les-crises_6808456_3244.html",
           "published": "2026-11-08T18:00:00+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "La 31ᵉ conférence mondiale sur le climat s’ouvre lundi à Antalya. Sur fond de crise énergétique et de tensions géopolitiques, ces négociations interna",
+          "summary": "Sur fond de crise énergétique et de tensions géopolitiques, ces négociations internationales doivent aplanir les obstacles qui freinent la décarbonati",
           "image": "https://img.lemde.fr/2026/11/06/210/0/4619/2309/644/322/60/0/4a04eae_upload-1-vvq1g79wlrxy-068-aa-02112026-3022578-1.jpg",
           "other_news": true
         },
@@ -1614,14 +1623,14 @@
           "other_news": true
         },
         {
-          "title": "Deux ans après le retour de Donald Trump au pouvoir, le bilan alarmant des climatologues américains",
-          "link": "https://www.lemonde.fr/sciences/article/2026/11/06/deux-ans-apres-le-retour-de-donald-trump-au-pouvoir-le-bilan-alarmant-des-climatologues-americains_6807798_1650684.html",
-          "published": "2026-11-06T15:30:02+01:00",
-          "source": "Le Monde Planète",
+          "title": "La COP31 s’ouvre en Turquie : que peut-on en espérer ?",
+          "link": "https://vert.eco/climat/la-cop31-souvre-en-turquie-que-peut-on-en-esperer/",
+          "published": "2026-11-09T06:00:00+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Des chercheurs en sciences du climat accusent l’administration américaine de « chercher à briser le moral de la communauté » scientifique, avec la sup",
-          "image": "https://img.lemde.fr/2026/11/05/325/0/3900/1950/644/322/60/0/28ae6aa_upload-1-17aotfusbxjt-000-48pd9u9.jpg",
+          "summary": "Pour la première fois, le sommet mondial (COP31) sur le climat qui s’ouvre ce lundi est organisé par deux pays : la Turquie l’accueille et l’Australie",
+          "image": null,
           "other_news": true
         },
         {
@@ -1676,6 +1685,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Au-delà de la défaite du camp républicain, les élections de mi-mandat aux États-Unis ont vu la victoire de femmes et d’hommes politiques au parcours u",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "For veterans with mild traumatic brain injury, a restaurant or other noisy environment can feel like a battlefield",
+          "link": "https://theconversation.com/for-veterans-with-mild-traumatic-brain-injury-a-restaurant-or-other-noisy-environment-can-feel-like-a-battlefield-295941",
+          "published": "2026-11-09T13:41:46+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "For veterans with brain injuries, noisy, overstimulating environments can lead to high stress and irritability, making them want to avoid such situati",
           "image": null,
           "other_news": true
         },
@@ -1735,25 +1755,14 @@
           "other_news": true
         },
         {
-          "title": "COP 31: West Africa’s climate plans put a price on ruined roads and crops – how to add invisible losses",
-          "link": "https://theconversation.com/cop-31-west-africas-climate-plans-put-a-price-on-ruined-roads-and-crops-how-to-add-invisible-losses-294627",
-          "published": "2026-11-08T09:29:57+00:00",
-          "source": "The Conversation",
+          "title": "South Korea’s beloved squid may vanish from its waters due to climate change, heat waves",
+          "link": "https://news.mongabay.com/2026/11/south-koreas-beloved-squid-may-vanish-from-its-waters-due-to-climate-change-heat-waves/",
+          "published": "2026-11-09T10:13:28+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "West Africa’s climate plans count physical damage but often overlook the cost of lost heritage and the community ties that disasters tear apart.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "‘I heard a barnacle’ – how paying attention to nature’s background noise can reveal animal secrets",
-          "link": "https://theconversation.com/i-heard-a-barnacle-how-paying-attention-to-natures-background-noise-can-reveal-animal-secrets-290033",
-          "published": "2026-11-06T13:11:07+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Letting the ordinary become interesting again is a key part of studying natural history and animal behavior.",
-          "image": null,
+          "summary": "SEOUL — Many South Koreans remember days when squid was inexpensive, everyday food: Stir-fried with spicy chili flakes, steamed in a bath of water and",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/09083127/2874300199_1750979361_o-768x512.jpg",
           "other_news": true
         },
         {

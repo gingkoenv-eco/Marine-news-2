@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T15:38:29.535531+00:00",
+  "generated_at": "2026-11-10T19:43:13.199933+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -23,19 +23,6 @@
           "language": "en",
           "summary": "The international organization responsible for regulating fisheries in the Mediterranean and Black seas concluded its annual meeting with the adoption",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/06074209/Fishmonger-Malaga-53236699475_c008cee0f3_k-768x512.jpg",
-          "other_news": false
-        }
-      ],
-      "Species Migration & Habitat Change": [
-        {
-          "title": "Research on migration is going unheard – how can we remedy that?",
-          "link": "https://theconversation.com/research-on-migration-is-going-unheard-how-can-we-remedy-that-295312",
-          "published": "2026-11-09T15:59:12+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "New European research explores the reasons behind the disconnect between policymakers and researchers on migration.",
-          "image": null,
           "other_news": false
         }
       ],
@@ -212,19 +199,6 @@
           "language": "en",
           "summary": "PORTLAND, Maine (AP) — Scientists who study whales are heartened by an unexpected discovery of a baby right whale off Canada. Researchers in Canada ca",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/06170019/AP26203535889739-768x512.jpg",
-          "other_news": false
-        }
-      ],
-      "Sustainable Fisheries": [
-        {
-          "title": "Singapore sand imports threaten an already sinking Cambodian fishing community, again",
-          "link": "https://news.mongabay.com/2026/11/singapore-sand-imports-threaten-an-already-sinking-cambodian-fishing-community-again/",
-          "published": "2026-11-06T00:15:50+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Editor’s note: *Cambodian fishers who spoke to Mongabay asked that pseudonyms be used, fearing reprisals. BANGKOK, Thailand — Sand mining vessels were",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/05234928/DSC09394-768x512.jpg",
           "other_news": false
         }
       ],
@@ -419,6 +393,17 @@
           "other_news": false
         },
         {
+          "title": "You’ve been told to prep three days of food, but moving past day four will need stronger supply chains",
+          "link": "https://theconversation.com/youve-been-told-to-prep-three-days-of-food-but-moving-past-day-four-will-need-stronger-supply-chains-295937",
+          "published": "2026-11-10T16:44:21+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Supply chains have been designed for efficiency rather than resilience.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "COP31 Must Deliver for Our Ocean",
           "link": "https://oceanconservancy.org/blog/2026/11/06/cop31/",
           "published": "2026-11-06T22:43:46+00:00",
@@ -438,6 +423,17 @@
           "language": "en",
           "summary": "What is El Niño and why is this year’s different? A strengthening El Niño layered on top of decades of human-caused climate change is pushing ocean te",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "US stakes competing claims to Pacific seabed mining areas, challenging UN authority",
+          "link": "https://news.mongabay.com/podcast/2026/11/us-stakes-competing-claims-to-pacific-seabed-mining-areas-challenging-un-authority/",
+          "published": "2026-11-10T19:22:22+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A recent Mongabay investigation by Elizabeth Claire Alberts and Andrés Alegría reveals that the Clarion-Clipperton Zone of the Pacific Ocean, a swath",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/07/08000613/960px-Psychropotes_longicauda_sur_nodules_polymetalliques-768x512.jpg",
           "other_news": false
         },
         {
@@ -537,6 +533,17 @@
           "other_news": true
         },
         {
+          "title": "En Corrèze, une condamnation « historique » d’un syndicat de distribution d’eau pour pollution au CVM, un gaz cancérogène",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/10/en-correze-une-condamnation-historique-d-un-syndicat-de-distribution-d-eau-pour-pollution-au-cvm-un-gaz-cancerogene_6808884_3244.html",
+          "published": "2026-11-10T18:25:53+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "A la fin de septembre, le tribunal judiciaire de Tulle a condamné le syndicat à verser 2 000 euros à une usagère, exposée à ce gaz incolore et inodore",
+          "image": "https://img.lemde.fr/2026/06/04/226/0/2712/1356/644/322/60/0/c15ace2_upload-1-cdjljx5ip6c6-frame-1135.jpg",
+          "other_news": true
+        },
+        {
           "title": "Pollution aux pesticides : en restreignant la portée d’une taxe, le gouvernement a privé les agences de l’eau de plus de 90 millions d’euros de redevance",
           "link": "https://www.lemonde.fr/planete/article/2026/11/09/pollution-aux-pesticides-en-restreignant-la-portee-d-une-taxe-le-gouvernement-a-prive-les-agences-de-l-eau-de-plus-de-90-millions-d-euros-de-redevance_6808615_3244.html",
           "published": "2026-11-09T06:00:42+01:00",
@@ -616,17 +623,6 @@
           "other_news": true
         },
         {
-          "title": "COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan",
-          "link": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan",
-          "published": "2026-10-31T13:30:22+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Countries have completed the first “global review” of their progress towards reversing nature loss by 2030 at the COP17 biodiversity&#8230;\nThe post C",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "COP17 delivers fragile deal to boost conservation and funding for nature",
           "link": "https://www.climatechangenews.com/2026/10/31/cop17-delivers-fragile-deal-scaling-up-biodiversity-conservation-armenia-cbd/",
           "published": "2026-10-31T11:50:27+00:00",
@@ -679,19 +675,6 @@
           "language": "en",
           "summary": "The government of Kenya has launched a 10-year, $160 million conservation program that will target 17.3 million hectares (43 million acres) of existin",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/05164636/Rebecca-M-768x512.jpg",
-          "other_news": true
-        }
-      ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "Canada wants to rebuild its manufacturing sector, but it’s losing the immigrant workers it needs",
-          "link": "https://theconversation.com/canada-wants-to-rebuild-its-manufacturing-sector-but-its-losing-the-immigrant-workers-it-needs-295833",
-          "published": "2026-11-09T17:03:38+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Canada’s manufacturing revival depends on skilled immigrant workers, yet tariff-related layoffs and policy gaps are pushing many out of the sector.",
-          "image": null,
           "other_news": true
         }
       ],
@@ -829,13 +812,24 @@
           "other_news": true
         },
         {
-          "title": "Dans nos déchets organiques, du plastique qui limite l’efficacité de la collecte",
-          "link": "https://theconversation.com/dans-nos-dechets-organiques-du-plastique-qui-limite-lefficacite-de-la-collecte-287105",
-          "published": "2026-10-17T08:09:01+00:00",
-          "source": "The Conversation FR",
+          "title": "Turkey hosts UN climate summit while pursuing new fossil fuel projects",
+          "link": "https://theconversation.com/turkey-hosts-un-climate-summit-while-pursuing-new-fossil-fuel-projects-296322",
+          "published": "2026-11-10T16:06:32+00:00",
+          "source": "The Conversation UK",
           "type": "news",
-          "language": "fr",
-          "summary": "La présence de certains plastiques considérés à tort comme étant compatibles avec la méthanisation freine les processus de valorisation.",
+          "language": "en",
+          "summary": "The Cop31 host wants to accelerate electrification, but its dependence on coal tells another story.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "States like Samoa face brutal 2027 storm season – every dollar of ‘climate cash’ counts for small islands",
+          "link": "https://theconversation.com/states-like-samoa-face-brutal-2027-storm-season-every-dollar-of-climate-cash-counts-for-small-islands-295712",
+          "published": "2026-11-10T15:54:35+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Samoa is one of 39 island nations recognised by the UN as being exceptionally vulnerable to climate change.",
           "image": null,
           "other_news": true
         },
@@ -1071,6 +1065,17 @@
           "other_news": true
         },
         {
+          "title": "Analysis: Which countries have sent the most delegates to COP31?",
+          "link": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31",
+          "published": "2026-11-10T17:21:37+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "More than 92,000 people have registered to attend the COP31 climate summit in Antalya, Turkey, potentially making it the largest&#8230;\nThe post Analy",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran conflict hits oil use",
           "link": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
           "published": "2026-11-10T01:01:00+00:00",
@@ -1144,6 +1149,17 @@
           "type": "news",
           "language": "en",
           "summary": "Delegates will soon gather in the Turkish resort city of Antalya for UN climate negotiations, against a backdrop of war,&#8230;\nThe post Interactive:",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Big fossil-fuel countries back Brazil-led transition roadmap",
+          "link": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/",
+          "published": "2026-11-10T17:26:10+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Some countries including Germany and the Netherlands call for the roadmaps to inform a key global review of climate progress in 2028\nThe post Big foss",
           "image": null,
           "other_news": true
         },
@@ -1357,14 +1373,14 @@
           "other_news": true
         },
         {
-          "title": "UN sets steep emission cuts to reverse 1.5C overshoot by end of century",
-          "link": "https://www.climatechangenews.com/2026/10/21/un-sets-steep-emission-cuts-to-reverse-1-5c-overshoot-by-end-of-century/",
-          "published": "2026-10-21T05:00:00+00:00",
-          "source": "Climate change news",
+          "title": "IA : le géant Anthropic achète des turbines à gaz pour alimenter ses centres de données",
+          "link": "https://reporterre.net/IA-le-geant-Anthropic-achete-des-turbines-a-gaz-pour-alimenter-ses-centres-de-donnees",
+          "published": "2026-11-10T16:23:26+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Emissions must by reduced by nearly 6% a year for the world to have a good chance of bringing global warming back down to the Paris Agreement limit, t",
-          "image": null,
+          "language": "fr",
+          "summary": "En pleine COP, où les États tentent de préserver les apparences mais ne font aucune mention de la sortie des hydrocarbures, le s",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/cern_server_03_resized-8dd58.jpg?1794327830",
           "other_news": true
         },
         {
@@ -1409,6 +1425,17 @@
           "language": "fr",
           "summary": "L'Algérie poursuit le nettoyage des déchets radioactifs laissés par les essais nucléaires français. Le ministère algérien de la",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20100225__par3081437__v1001__highres-d2e0e.jpg?1793705522",
+          "other_news": true
+        },
+        {
+          "title": "COP31 : pourquoi l’électrification est au cœur des discussions de la conférence sur le climat",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/10/cop31-pourquoi-l-electrification-est-au-c-ur-des-discussions-de-la-conference-sur-le-climat_6808886_3244.html",
+          "published": "2026-11-10T18:30:07+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La Turquie et l’Australie, qui partagent la présidence de la conférence mondiale qui a démarré lundi à Antalya, veulent rallier le plus grand nombre d",
+          "image": "https://img.lemde.fr/2026/10/26/748/0/5500/2750/644/322/60/0/d10f73f_ftp-1-rcxcjvjtli2r-2026-10-26t131128z-1314782666-rc2m7oa0odb2-rtrmadp-3-slovakia-nuclear.JPG",
           "other_news": true
         },
         {
@@ -1478,14 +1505,14 @@
           "other_news": true
         },
         {
-          "title": "La COP31, qui s’ouvre en Turquie, vise à remettre le climat en haut de l’agenda, dans un monde percuté par les crises",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/08/en-turquie-la-cop31-vise-a-remettre-le-climat-en-haut-de-l-agenda-dans-un-monde-percute-par-les-crises_6808456_3244.html",
-          "published": "2026-11-08T18:00:00+01:00",
-          "source": "Le Monde Planète",
+          "title": "Patrick Pouyanné, PDG de TotalEnergies, est membre de la délégation française à la COP31 sur le climat",
+          "link": "https://vert.eco/climat/patrick-pouyanne-pdg-de-totalenergies-est-membre-de-la-delegation-francaise-a-la-cop31-sur-le-climat/",
+          "published": "2026-11-10T17:44:38+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Sur fond de crise énergétique et de tensions géopolitiques, ces négociations internationales doivent aplanir les obstacles qui freinent la décarbonati",
-          "image": "https://img.lemde.fr/2026/11/06/210/0/4619/2309/644/322/60/0/4a04eae_upload-1-vvq1g79wlrxy-068-aa-02112026-3022578-1.jpg",
+          "summary": "L’influent patron de la major pétrogazière a été choisi par le France pour intégrer sa délégation à la COP en Turquie. Ce mardi, il a pu louer les mér",
+          "image": null,
           "other_news": true
         },
         {
@@ -1522,36 +1549,14 @@
           "other_news": true
         },
         {
-          "title": "En plein «embrasement autoritaire», la Turquie accueille la COP31 sur le climat",
-          "link": "https://vert.eco/international/en-plein-embrasement-autoritaire-la-turquie-accueille-la-cop31-sur-le-climat/",
-          "published": "2026-11-07T06:00:00+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le 31ème sommet mondial sur le climat s’apprête à débuter à Antalya, au sud de la Turquie. Alors que le pays a intensifié la répression des militant·e",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Éco-régions, 100% renouvelables, sortie des pesticides… Ce que contient le programme de La France insoumise sur l’écologie",
-          "link": "https://vert.eco/politique/ecoregions-100-renouvelables-sortie-des-pesticides-ce-que-contient-le-programme-de-la-france-insoumise-sur-lecologie/",
-          "published": "2026-11-06T10:50:29+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le mouvement politique de Jean-Luc Mélenchon présente ce vendredi ses mesures phares pour l’élection présidentielle de 2027. Le leader de la gauche ra",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The world will soon shoot past 1.5°C. What does this mean?",
-          "link": "https://theconversation.com/the-world-will-soon-shoot-past-1-5-c-what-does-this-mean-294577",
-          "published": "2026-11-09T18:41:20+00:00",
-          "source": "The Conversation",
+          "title": "Greta Thunberg arrives at UN climate talks saying ‘everything we love is at stake’",
+          "link": "https://news.mongabay.com/short-article/2026/11/greta-thunberg-arrives-at-un-climate-talks-saying-everything-we-love-is-at-stake/",
+          "published": "2026-11-10T16:17:23+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Global emissions reductions have not been enough to stop global warming passing 1.5°C in the next few years.",
-          "image": null,
+          "summary": "ANTALYA, Turkey (AP) — Prominent climate change activist Greta Thunberg arrived Tuesday at the U.N. climate meeting, where she emphasized the need to",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/10161314/AP26314413945260-768x512.jpg",
           "other_news": true
         },
         {
@@ -1585,17 +1590,6 @@
           "language": "en",
           "summary": "As climate change intensifies, drought is widening globally, causing alterations in water-dependent pathogen patterns, leaving scientists scrambling t",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/06153125/3-forest-dwelling-mosquitoes--768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Money laundering complaints target JBS, Barclays over profits linked to illegal deforestation",
-          "link": "https://news.mongabay.com/short-article/2026/11/money-laundering-complaints-target-jbs-barclays-over-profits-linked-to-illegal-deforestation/",
-          "published": "2026-11-05T19:50:37+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A coalition of legal and environmental groups has filed money laundering complaints against JBS, the world’s largest meat processor, and 12 financial",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/05194546/Fires_in_Amazon_Apyterewa_Indige.2e16d0ba.fill-2520x1480-1-768x512.jpg",
           "other_news": true
         }
       ]

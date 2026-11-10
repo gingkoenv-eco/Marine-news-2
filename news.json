@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T06:01:38.776481+00:00",
+  "generated_at": "2026-11-10T14:54:07.409898+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -50,17 +50,6 @@
           "summary": "Rapid clean power growth and electrification have boosted China's energy resilience as well as its confidence in its energy policy pre-COP31, experts",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "Antarctic protection stalls again as CCAMLR fails MPA delivery",
-          "link": "https://oceanographicmagazine.com/news/antarctic-protection-stalls-again-as-ccamlr-fails-mpa-delivery/",
-          "published": "2026-11-03T13:04:59+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Two weeks of negotiations at the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR) have ended in Hobart without agreement",
-          "image": null,
-          "other_news": false
         }
       ],
       "Other Marine News": [
@@ -103,17 +92,6 @@
           "other_news": false
         },
         {
-          "title": "Investigation into 'major fish kill' after pollution incident",
-          "link": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-05T14:51:45+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d4/live/0f9efad0-d90f-11f1-94c6-3f8050561bf5.jpg",
-          "other_news": false
-        },
-        {
           "title": "Les gestes individuels peuvent-ils quelque chose pour lutter contre la pollution plastique ?",
           "link": "https://theconversation.com/les-gestes-individuels-peuvent-ils-quelque-chose-pour-lutter-contre-la-pollution-plastique-292314",
           "published": "2026-10-26T15:06:37+00:00",
@@ -149,6 +127,17 @@
       ],
       "Marine Biodiversity & Conservation": [
         {
+          "title": "Surf’s up, lights up: floodlight-lit night surfing could be coming to the Gold Coast – but could it bring unwanted fins?",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/11/surfs-up-lights-up-floodlight-lit-night-surfing-could-be-coming-to-the-gold-coast-but-could-it-bring-unwanted-fins",
+          "published": "2026-11-10T14:00:54+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Lighting up Snapper Rocks by night could help with overcrowding, but some fear permanent floodlights could attract sharks or turn their community into",
+          "image": "https://i.guim.co.uk/img/media/ceff0d68963e0956beb1bd1b442537a22d151a04/1143_0_6663_5333/master/6663.jpg?width=140&quality=85&auto=format&fit=max&s=65e0db88ea40995b2d8b919c91946f04",
+          "other_news": false
+        },
+        {
           "title": "Almost every shallow-water coral reef on the planet faces ecosystem collapse by 2075, UN advisors say",
           "link": "https://www.theguardian.com/australia-news/2026/oct/22/shallow-water-coral-reef-ecosystem-collapse-by-2075-un-advisors-say",
           "published": "2026-10-22T12:00:45+00:00",
@@ -168,50 +157,6 @@
           "language": "en",
           "summary": "While anglers cannot take endangered sand tiger sharks, a loophole lets private firms catch the fish to sell abroad, profiting from Delaware Bay’s con",
           "image": "https://i.guim.co.uk/img/media/59bed300ee04ff5471e838c9e51271cb36e08e85/181_0_5010_4008/master/5010.jpg?width=140&quality=85&auto=format&fit=max&s=7cc15723849af8c44ca28cf5e583468b",
-          "other_news": false
-        },
-        {
-          "title": "Offshore wind turbines might act as artificial reefs, study suggests",
-          "link": "https://oceanographicmagazine.com/news/offshore-wind-turbines-might-act-as-artificial-reefs-study-suggests/",
-          "published": "2026-11-06T16:46:51+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Turbine bases can create stable new habitats for marine life, but researchers say critical data about the seabed remains missing\nThe post Offshore win",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Warming seas are rewiring the Channel’s food web, spelling trouble for fish stocks, seabirds and marine mammals",
-          "link": "https://oceanographicmagazine.com/news/warming-seas-are-rewiring-the-channels-food-web-spelling-trouble-for-fish-stocks-seabirds-and-marine-mammals/",
-          "published": "2026-11-04T16:35:52+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Changing ocean chemistry is helping smaller plankton thrive while bigger species decline, a 35-year study off Plymouth has revealed\nThe post Warming s",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "ClientEarth takes Spain to court over whale and dolphin bycatch",
-          "link": "https://oceanographicmagazine.com/news/client-earth-takes-spain-to-court-over-whale-and-dolphin-bycatch/",
-          "published": "2026-11-04T16:32:57+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Legal action seeks effective monitoring and mitigation measures to stop the incidental deaths of cetaceans in Spanish Atlantic waters, where at least",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Whale song hints when endangered pygmy blue whales are feeding",
-          "link": "https://oceanographicmagazine.com/news/whale-song-hints-when-endangered-pygmy-blue-whales-are-feeding/",
-          "published": "2026-10-30T11:04:41+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new Curtin University-led study, published in Royal Society Open Science, found that pygmy blue whales generally feed during daylight hours, leaving",
-          "image": null,
           "other_news": false
         },
         {
@@ -292,19 +237,6 @@
           "type": "news",
           "language": "en",
           "summary": "An early clue came from storks found in Europe with African arrows in their bodies. Today, an atlas reveals hundreds of bird migration routes that are",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "Boulder approach: Greenpeace blocks trawlers in UK’s North Sea",
-          "link": "https://oceanographicmagazine.com/news/boulder-approach-greenpeace-blocks-trawlers-in-uks-north-sea/",
-          "published": "2026-11-02T12:25:55+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Campaigners say they have closed 116 sq km of the Southern North Sea, an MPA created to protect harbour porpoises, to bottom trawling, after analysis",
           "image": null,
           "other_news": false
         }
@@ -476,39 +408,6 @@
           "other_news": false
         },
         {
-          "title": "Landmark 100-year study shows Irish sea-levels rising at their fastest pace in a century",
-          "link": "https://oceanographicmagazine.com/news/landmark-100-year-study-shows-irish-sea-levels-rising-at-their-fastest-pace-in-a-century/",
-          "published": "2026-11-05T16:46:08+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "With waters rising fastest along the south and west, researchers warn Ireland's coastal defences need to be updated.\nThe post Landmark 100-year study",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "New York Harbour becomes classroom for thousands of students",
-          "link": "https://oceanographicmagazine.com/news/new-york-harbour-becomes-classroom-for-thousands-of-students/",
-          "published": "2026-11-05T16:40:23+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "NYC Ferry vessels will be turned into science classrooms under a new partnership with Billion Oyster Project, aiming to bring more than 10,000 public",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Indigenous shell-scattering technique shields marine life from acidic seas",
-          "link": "https://oceanographicmagazine.com/news/indigenous-shell-scattering-technique-shields-marine-life-from-acidic-seas/",
-          "published": "2026-11-03T15:08:24+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Crushed shells mixed into coastal sand neutralise acidic waters and erase genetic stress in young shellfish study finds, validating long-standing Indi",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Heures creuses d’électricité : Enedis adapte les plages horaires selon les saisons pour 9,3 millions de clients",
           "link": "https://www.lemonde.fr/planete/article/2026/11/10/heures-creuses-d-electricite-enedis-adapte-les-plages-horaires-selon-les-saisons-pour-9-3-millions-de-clients_6808707_3244.html",
           "published": "2026-11-10T00:16:16+01:00",
@@ -517,17 +416,6 @@
           "language": "fr",
           "summary": "A partir du 1ᵉʳ décembre, le gestionnaire du réseau de distribution d’électricité mettra en place la deuxième phase de la réforme des heures creuses,",
           "image": "https://img.lemde.fr/2026/11/09/356/0/2969/1484/644/322/60/0/a01382d_upload-1-tyuy5m9n2vrl-000-32jc9kf.jpg",
-          "other_news": false
-        },
-        {
-          "title": "The Odyssey’s sea monsters are terrifying expressions of ‘ecohorror’",
-          "link": "https://theconversation.com/the-odysseys-sea-monsters-are-terrifying-expressions-of-ecohorror-295046",
-          "published": "2026-11-09T12:43:35+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Homer’s famous sea monsters reveal how ancient Greek sailors projected their deepest fears onto the ocean itself.",
-          "image": null,
           "other_news": false
         },
         {
@@ -550,6 +438,17 @@
           "language": "en",
           "summary": "What is El Niño and why is this year’s different? A strengthening El Niño layered on top of decades of human-caused climate change is pushing ocean te",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "How did these shrines survive a tsunami?",
+          "link": "https://news.mongabay.com/short-article/2026/11/how-did-these-shrines-survive-a-tsunami/",
+          "published": "2026-11-10T09:02:55+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "When the 2011 tsunami devastated Japan’s coast, patches of forest were left standing amid the destruction. Many surrounded Shinto shrines, ancient chi",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/10090216/Mongabay_Thumbnail_Tsunami_Featured-338x512.jpg",
           "other_news": false
         },
         {
@@ -646,6 +545,17 @@
           "language": "fr",
           "summary": "En consultant la liste des substances soumises à la redevance pour pollutions diffuses, reversée aux agences et offices de l’eau, l’association Généra",
           "image": "https://img.lemde.fr/2026/06/04/226/0/2712/1356/644/322/60/0/c15ace2_upload-1-cdjljx5ip6c6-frame-1135.jpg",
+          "other_news": true
+        },
+        {
+          "title": "DRC residents sue Chinese mining company over alleged pollution in Kolwezi",
+          "link": "https://news.mongabay.com/2026/11/drc-residents-sue-chinese-mining-company-over-alleged-pollution-in-kolwezi/",
+          "published": "2026-11-10T12:05:37+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Twenty-seven residents of Kolwezi, a major copper and cobalt mining hub in southeastern Democratic Republic of Congo, have taken Chinese-controlled mi",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/10115909/Cite-Gecamines-Kolwezi-1-768x512.jpg",
           "other_news": true
         },
         {
@@ -809,6 +719,17 @@
           "other_news": true
         },
         {
+          "title": "The swan sanctuary wetland fighting climate change",
+          "link": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-10T06:30:29+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/8890dd70-d912-11f1-a81d-35e942472442.png",
+          "other_news": true
+        },
+        {
           "title": "Scientists predict 2026 hottest year on record as climate talks begin",
           "link": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-09T07:30:12+00:00",
@@ -850,28 +771,6 @@
           "language": "en",
           "summary": "Reaching net zero carbon emissions worldwide is essential to limit global warming, UN scientists say.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bc1/live/2716e410-ba35-11f0-9bc3-15f9891aeafa.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Rising cost of living tests UK's net zero ambitions",
-          "link": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-09T13:42:03+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "From floods to wildfires to heatwaves, 2026 is the year it became hard to ignore the impact of climate change on UK weather. But will soaring living c",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0086/live/20d5ad30-dc43-11f1-b441-2b33b063138f.jpg",
-          "other_news": true
-        },
-        {
-          "title": "How yesterday's waste is becoming tomorrow's fashion",
-          "link": "https://www.bbc.co.uk/news/articles/cm5yd1q12g1no?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-09T13:18:38+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Brands including Dr Martens, Nike and Coach are among those using recycled materials.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b38/live/3e241d60-d791-11f1-801d-cf196dc7232c.jpg",
           "other_news": true
         },
         {
@@ -937,6 +836,17 @@
           "type": "news",
           "language": "fr",
           "summary": "La présence de certains plastiques considérés à tort comme étant compatibles avec la méthanisation freine les processus de valorisation.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Andy Burnham and climate change: where does the prime minister really stand?",
+          "link": "https://theconversation.com/andy-burnham-and-climate-change-where-does-the-prime-minister-really-stand-296200",
+          "published": "2026-11-10T14:24:03+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Despite going to the UN summit, Cop31, he still hasn’t been clear about where climate sits on his agenda.",
           "image": null,
           "other_news": true
         },
@@ -1047,6 +957,17 @@
           "type": "news",
           "language": "en",
           "summary": "Visible eco-friendly additions can signal that a company is making an effort and is committed to sustainability. A reduction leaves fewer obvious eco-",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "COP31: Governments are failing to rein in emissions from their own power plants",
+          "link": "https://theconversation.com/cop31-governments-are-failing-to-rein-in-emissions-from-their-own-power-plants-295592",
+          "published": "2026-11-10T13:36:45+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "A new study compared power plants’ carbon emissions and found government-owned plants’ emissions were much higher and less responsive to climate polic",
           "image": null,
           "other_news": true
         },
@@ -1227,7 +1148,7 @@
           "other_news": true
         },
         {
-          "title": "Developing countries face climate finance deficit as loan repayments soar",
+          "title": "Developing countries face climate finance deficit as loan payments soar",
           "link": "https://www.climatechangenews.com/2026/11/10/developing-countries-face-climate-finance-deficit-as-loan-repayments-soar/",
           "published": "2026-11-10T05:00:00+00:00",
           "source": "Climate change news",
@@ -1447,28 +1368,6 @@
           "other_news": true
         },
         {
-          "title": "IPCC scientists vow to press on with climate reports despite political deadlock",
-          "link": "https://www.climatechangenews.com/2026/10/19/ipcc-scientists-vow-to-press-on-with-climate-reports-despite-political-deadlock/",
-          "published": "2026-10-19T12:31:12+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "After governments again failed to agree a timeline, nearly 120 IPCC authors pledged to complete their assessment on time and with full scientific rigo",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Protecting nature is a public duty, not a Wall Street profit opportunity",
-          "link": "https://www.climatechangenews.com/2026/10/19/protecting-nature-is-a-public-duty-not-a-wall-street-profit-opportunity/",
-          "published": "2026-10-19T08:09:06+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "To raise the money needed, governments should focus on redirecting subsidies that currently harm nature, while working on a new convention to recover",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Le PDG de Total peut dormir sur ses deux oreilles : la COP s'ouvre sans mention des énergies fossiles",
           "link": "https://reporterre.net/Patrick-Pouyanne-peut-dormir-sur-ses-deux-oreilles-la-COP-s-ouvre-sans-mention-des-energies-fossiles",
           "published": "2026-11-09T16:00:49+00:00",
@@ -1513,20 +1412,31 @@
           "other_news": true
         },
         {
-          "title": "Les émissions de CO₂ liées aux énergies fossiles en très légère baisse dans le monde, un signal encourageant mais insuffisant",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/10/les-emissions-de-co-liees-aux-energies-fossiles-en-tres-legere-baisse-dans-le-monde-un-signal-encourageant-mais-insuffisant_6808774_3244.html",
-          "published": "2026-11-10T05:00:19+01:00",
+          "title": "Les îles du Pacifique, aux avant-postes de la lutte contre le changement climatique, veulent se faire entendre à la COP31",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/10/cop31-sur-la-ligne-de-front-du-rechauffement-climatique-les-etats-insulaires-du-pacifique-veulent-se-faire-entendre_6808818_3244.html",
+          "published": "2026-11-10T11:30:05+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Selon le Global Carbon Project, les émissions provoquées par la combustion de charbon, de pétrole et de gaz devraient baisser de 0,4 % en 2026 grâce a",
+          "summary": "Aux avant-postes de la lutte contre le changement climatique, les îles du Pacifique sont, avec la Turquie et l’Australie, le troisième acteur de la CO",
+          "image": "https://img.lemde.fr/2026/10/14/411/0/3747/1873/644/322/60/0/a100643_ftp-1-kecghemeqmkd-2026-10-14t060826z-325871741-rc2cxnaarnj4-rtrmadp-3-tuvalu-dailylife.JPG",
+          "other_news": true
+        },
+        {
+          "title": "Les émissions de CO₂ liées aux énergies fossiles en très légère baisse dans le monde, un signal encourageant mais insuffisant",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/10/les-emissions-de-co-liees-aux-energies-fossiles-en-tres-legere-baisse-dans-le-monde-un-signal-encourageant-mais-insuffisant_6808774_3244.html",
+          "published": "2026-11-10T05:00:14+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Selon le Global Carbon Project, les émissions provoquées par la combustion de charbon, de pétrole et de gaz devraient baisser de 0,4 % en 2026 grâce a",
           "image": "https://img.lemde.fr/2026/11/09/126/0/4985/2492/644/322/60/0/0c7a44e_ftp-1-cy27wp2pdfjb-2026-11-09t010009z-250805003-rc21hka6ea2u-rtrmadp-3-climate-cop31.JPG",
           "other_news": true
         },
         {
           "title": "Comment on a redonné vie à des variétés locales de blé capables de s’adapter au changement climatique",
           "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/11/10/comment-on-a-redonne-vie-a-des-varietes-locales-de-ble-capables-de-s-adapter-au-changement-climatique_6808772_6125299.html",
-          "published": "2026-11-10T05:00:07+01:00",
+          "published": "2026-11-10T05:00:02+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1579,29 +1489,18 @@
           "other_news": true
         },
         {
-          "title": "L’urine, nouvelle ressource : « On veut s’engager dans la révolution du pipi utile »",
-          "link": "https://www.lemonde.fr/m-perso/article/2026/11/08/l-urine-nouvelle-ressource-on-veut-s-engager-dans-la-revolution-du-pipi-utile_6808399_4497916.html",
-          "published": "2026-11-08T06:00:17+01:00",
-          "source": "Le Monde Planète",
+          "title": "Exclusif : TotalEnergies finance une vingtaine de lobbies qui attaquent les réglementations sur le méthane partout dans le monde",
+          "link": "https://vert.eco/climat/exclusif-totalenergies-finance-une-vingtaine-de-lobbies-qui-attaquent-les-reglementations-sur-le-methane-partout-dans-le-monde/",
+          "published": "2026-11-10T10:44:11+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Dans un cadre dérogatoire, en l’absence de réglementations, partout en France les projets de valorisation des excreta humains fleurissent. A la clé, d",
-          "image": "https://img.lemde.fr/2026/10/30/171/0/2636/1318/644/322/60/0/c9b5ad7_upload-1-bf8m1d1mcxck-pns-5615184-hd.jpg",
+          "summary": "En contradiction avec ses propres «principes climatiques», TotalEnergies finance une vingtaine de lobbies à travers le monde qui freinent les efforts",
+          "image": null,
           "other_news": true
         },
         {
-          "title": "En Turquie, pays d’accueil de la COP31, les ravages sans fin de la double centrale au charbon d’Afsin-Elbistan",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/07/en-turquie-pays-d-accueil-de-la-cop31-les-ravages-sans-fin-de-la-double-centrale-au-charbon-d-afsin-elbistan_6808282_3244.html",
-          "published": "2026-11-07T15:00:05+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "A quelque 560 kilomètres de la station balnéaire d’Antalya, où se tiendra à partir de lundi la 31ᵉ Conférence des parties sur le climat, le village de",
-          "image": "https://img.lemde.fr/2026/11/04/398/0/3543/1771/644/322/60/0/b0fdaf3_upload-1-2okv4k8hawba-000-97qb463.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Dans «Gouverner», Jordan Bardella se dit prêt à relever le «défi environnemental»… sans s’attarder sur les mesures à prendre",
+          "title": "On a lu le chapitre sur l’écologie du dernier livre de Jordan Bardella : un pamphlet contre «le retour à l’âge de pierre» en guise de programme",
           "link": "https://vert.eco/chaleurs-actuelles/dans-gouverner-jordan-bardella-se-dit-pret-a-relever-le-defi-environnemental-sans-sattarder-sur-les-mesures-a-prendre/",
           "published": "2026-11-10T05:00:00+00:00",
           "source": "Vert Eco Articles",
@@ -1634,7 +1533,7 @@
           "other_news": true
         },
         {
-          "title": "Écorégions, 100% renouvelables, sortie des pesticides… Ce que contient le programme de La France insoumise sur l’écologie",
+          "title": "Éco-régions, 100% renouvelables, sortie des pesticides… Ce que contient le programme de La France insoumise sur l’écologie",
           "link": "https://vert.eco/politique/ecoregions-100-renouvelables-sortie-des-pesticides-ce-que-contient-le-programme-de-la-france-insoumise-sur-lecologie/",
           "published": "2026-11-06T10:50:29+00:00",
           "source": "Vert Eco Articles",
@@ -1667,14 +1566,14 @@
           "other_news": true
         },
         {
-          "title": "For veterans with mild traumatic brain injury, a restaurant or other noisy environment can feel like a battlefield",
-          "link": "https://theconversation.com/for-veterans-with-mild-traumatic-brain-injury-a-restaurant-or-other-noisy-environment-can-feel-like-a-battlefield-295941",
-          "published": "2026-11-09T13:41:46+00:00",
-          "source": "The Conversation",
+          "title": "California’s Wolf Divide",
+          "link": "https://news.mongabay.com/specials/2026/11/californias-wolf-divide/",
+          "published": "2026-11-10T09:33:42+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "For veterans with brain injuries, noisy, overstimulating environments can lead to high stress and irritability, making them want to avoid such situati",
-          "image": null,
+          "summary": "After nearly a century’s absence, gray wolves are recolonizing California, altering ecosystems and landscapes in the U.S.’s most populous state. Monga",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/12/10144826/animals_06697-768x512.jpg",
           "other_news": true
         },
         {

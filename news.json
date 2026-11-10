@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:43:13.199933+00:00",
+  "generated_at": "2026-11-10T20:28:50.641321+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -468,17 +468,6 @@
           "summary": "ASCEA and CASTEL VOLTURNO, Italy, and BARCELONA, Spain — In the early hours of a warm July day, regular rows of still-folded sun umbrellas stand along",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/06133823/OceanImageBank_LewisBurnett_10-loggerhead-turtle-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Scientists confirm horseshoe crabs in a second Philippine province, urge conservation",
-          "link": "https://news.mongabay.com/short-article/2026/11/scientists-confirm-horseshoe-crabs-in-a-second-philippine-province-urge-conservation/",
-          "published": "2026-11-06T07:15:43+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Philippine researchers have confirmed the presence of horseshoe crabs in the southern island province of Tawi-Tawi for the first time through intervie",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/06071257/1920px-Mangrove_Horseshoe_Crab_Carcinoscorpius_rotundicauda_6707310189-768x512.jpeg",
-          "other_news": false
         }
       ]
     },
@@ -641,17 +630,6 @@
           "type": "news",
           "language": "en",
           "summary": "At talks in Yerevan, the EU has proposed expanding the list of nature donors so that large emerging economies like China can help fund biodiversity pr",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The pet and skin trades pose little threat to reptile species: new research",
-          "link": "https://theconversation.com/the-pet-and-skin-trades-pose-little-threat-to-reptile-species-new-research-287964",
-          "published": "2026-11-10T03:13:48+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The international reptile trade has long been viewed as a conservation threat, but recent research suggests that’s not the full story.",
           "image": null,
           "other_news": true
         },
@@ -1545,6 +1523,28 @@
           "type": "news",
           "language": "fr",
           "summary": "Pour la première fois, le sommet mondial (COP31) sur le climat qui s’ouvre ce lundi est organisé par deux pays : la Turquie l’accueille et l’Australie",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "AI has turned university assessments into a ‘wicked problem’ – and we don’t have all the answers",
+          "link": "https://theconversation.com/ai-has-turned-university-assessments-into-a-wicked-problem-and-we-dont-have-all-the-answers-294350",
+          "published": "2026-11-10T19:12:54+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Unis must ensure degrees demonstrate students’ learning, rather than how well they’ve used artificial intelligence. But it’s an ongoing challenge.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "The world needs to get serious about electrification – here’s why",
+          "link": "https://theconversation.com/the-world-needs-to-get-serious-about-electrification-heres-why-296062",
+          "published": "2026-11-10T19:12:39+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The UN climate summit COP31 has a strong focus on electrification. But is it realistic? Our analysis has the answers.",
           "image": null,
           "other_news": true
         },

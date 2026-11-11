@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:01:39.350396+00:00",
+  "generated_at": "2026-11-11T14:24:24.411427+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -13,16 +13,18 @@
           "summary": "Exclusive: EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whalesFollow our Australian politics live blog for latest updatesS",
           "image": "https://i.guim.co.uk/img/media/37e026264024c8b969ae4fa3d8d8601720087a90/625_0_6628_5304/master/6628.jpg?width=140&quality=85&auto=format&fit=max&s=6bb71c939b4be55c1dde8f059a0c009b",
           "other_news": false
-        },
+        }
+      ],
+      "Species Migration & Habitat Change": [
         {
-          "title": "Mediterranean fisheries commission adopts species management plans but punts on deep-sea protections",
-          "link": "https://news.mongabay.com/2026/11/mediterranean-fisheries-commission-adopts-species-management-plans-but-punts-on-deep-sea-protections/",
-          "published": "2026-11-06T14:43:47+00:00",
-          "source": "Mongabay Marine",
+          "title": "East Africa’s migration story is not just about Europe – what policymakers get wrong",
+          "link": "https://theconversation.com/east-africas-migration-story-is-not-just-about-europe-what-policymakers-get-wrong-294918",
+          "published": "2026-11-11T13:19:43+00:00",
+          "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "The international organization responsible for regulating fisheries in the Mediterranean and Black seas concluded its annual meeting with the adoption",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/06074209/Fishmonger-Malaga-53236699475_c008cee0f3_k-768x512.jpg",
+          "summary": "Stories about migration influence which problems governments prioritise.",
+          "image": null,
           "other_news": false
         }
       ],
@@ -169,6 +171,17 @@
           "other_news": false
         },
         {
+          "title": "Cambodia’s mangrove forests offer vital refuge for threatened wildlife, 7-year study finds",
+          "link": "https://news.mongabay.com/short-article/2026/11/cambodias-mangrove-forests-offer-vital-refuge-for-threatened-wildlife-7-year-study-finds/",
+          "published": "2026-11-11T06:48:25+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Cambodia’s mangrove forests and the wetlands associated with them provide critical refuge for several threatened and elusive species, including fishin",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/07/30070112/Fishing-cat-cam-PKWS-2017_1-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Rising seas could reshape habitats for more than 40% of world’s land vertebrates",
           "link": "https://news.mongabay.com/2026/11/rising-seas-could-reshape-habitats-for-more-than-40-of-worlds-land-vertebrates/",
           "published": "2026-11-11T02:01:22+00:00",
@@ -189,27 +202,18 @@
           "summary": "A Brazilian biologist and a team of volunteer divers are killing coral to save a marine protected area just off the famous Ipanema beach. They&#8217;r",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/08153612/Mongabay_Thumbnail_SunCoral_Vertical_Featured-338x512.jpg",
           "other_news": false
-        },
+        }
+      ],
+      "Sustainable Fisheries": [
         {
-          "title": "These divers are killing a beautiful coral to save Brazil’s marine life",
-          "link": "https://news.mongabay.com/video/2026/11/these-divers-are-killing-a-beautiful-coral-to-save-brazils-marine-life/",
-          "published": "2026-11-07T11:19:00+00:00",
+          "title": "US brand StarKist suspends tuna sourcing from vessels accused of exploiting Indonesian fishers",
+          "link": "https://news.mongabay.com/2026/11/us-brand-starkist-suspends-tuna-sourcing-from-vessels-accused-of-exploiting-indonesian-fishers/",
+          "published": "2026-11-11T12:39:25+00:00",
           "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "RIO DE JANEIRO — Beneath the surface of Brazil’s coastal waters, a silent invasion is transforming marine ecosystems. Sun coral (Tubastraea coccinea a",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/07111547/Mongabay_Thumbnail_SunCoral_Featured-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Scientists discovered an unknown baby right whale off Canada. They say it’s a cause for joy",
-          "link": "https://news.mongabay.com/short-article/2026/11/scientists-discovered-an-unknown-baby-right-whale-off-canada-they-say-its-a-cause-for-joy/",
-          "published": "2026-11-06T17:03:15+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "PORTLAND, Maine (AP) — Scientists who study whales are heartened by an unexpected discovery of a baby right whale off Canada. Researchers in Canada ca",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/06170019/AP26203535889739-768x512.jpg",
+          "summary": "U.S. tuna brand StarKist has announced a halt on purchases from fishing vessels linked to forced labor practices in a recent report. It also says it h",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11101724/49449442138_68e63d7eff_o-768x512.jpg",
           "other_news": false
         }
       ],
@@ -382,9 +386,9 @@
           "other_news": false
         },
         {
-          "title": "Dans le Calvados, l’interdiction du ramassage des fossiles sur les plages ne passe pas : « On nous contraint à laisser la marée les emporter »",
+          "title": "Dans le Calvados, l’interdiction du ramassage des fossiles sur les plages ne passe pas : « On nous contraint à laisser la marée les emporter »",
           "link": "https://www.lemonde.fr/planete/article/2026/11/11/dans-le-calvados-l-interdiction-du-ramassage-des-fossiles-sur-les-plages-ne-passe-pas-on-nous-contraint-a-laisser-la-maree-les-emporter_6808932_3244.html",
-          "published": "2026-11-11T06:00:25+01:00",
+          "published": "2026-11-11T06:00:15+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -401,6 +405,17 @@
           "language": "fr",
           "summary": "A partir du 1ᵉʳ décembre, le gestionnaire du réseau de distribution d’électricité mettra en place la deuxième phase de la réforme des heures creuses,",
           "image": "https://img.lemde.fr/2026/11/09/356/0/2969/1484/644/322/60/0/a01382d_upload-1-tyuy5m9n2vrl-000-32jc9kf.jpg",
+          "other_news": false
+        },
+        {
+          "title": "What lurks ‘Below’ Newfoundland waters? A marine biologist explains the science behind the show",
+          "link": "https://theconversation.com/what-lurks-below-newfoundland-waters-a-marine-biologist-explains-the-science-behind-the-show-295615",
+          "published": "2026-11-11T12:10:37+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "While Below may have some things wrong —&nbsp;giant squid probably aren’t vindictive, for example — a Newfoundland ocean sciences expert praises the N",
+          "image": null,
           "other_news": false
         },
         {
@@ -468,17 +483,6 @@
           "summary": "MANJUYOD, Philippines — For years, Jonalyn Rentuaya, president of Alangilanan United Seaweed Growers Association, began her mornings the same way. By",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/05141918/Jonalyn-Rentuaya-by-Pippo-Carmona-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "As loggerhead turtles spread west, Mediterranean beach resorts learn to share the sand",
-          "link": "https://news.mongabay.com/2026/11/as-loggerhead-turtles-spread-west-mediterranean-beach-resorts-learn-to-share-the-sand/",
-          "published": "2026-11-06T17:05:17+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "ASCEA and CASTEL VOLTURNO, Italy, and BARCELONA, Spain — In the early hours of a warm July day, regular rows of still-folded sun umbrellas stand along",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/06133823/OceanImageBank_LewisBurnett_10-loggerhead-turtle-768x512.jpg",
-          "other_news": false
         }
       ]
     },
@@ -499,6 +503,17 @@
     },
     "Other News": {
       "Plastic & Ocean Pollution": [
+        {
+          "title": "Türkiye pushes “zero waste” at COP31, but is it delivering at home?",
+          "link": "https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/",
+          "published": "2026-11-11T07:00:32+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Türkiye is hosting a Zero Waste Day at the UN climate summit, led by its First Lady, but its own waste generation keeps rising while plastic imports f",
+          "image": null,
+          "other_news": true
+        },
         {
           "title": "The great disaster divide: How the super-rich are profiting from global climate suffering",
           "link": "https://www.climatechangenews.com/2026/11/04/the-great-disaster-divide-how-the-super-rich-are-profiting-from-global-climate-suffering/",
@@ -529,17 +544,6 @@
           "type": "news",
           "language": "fr",
           "summary": "A la fin de septembre, le tribunal judiciaire de Tulle a condamné le syndicat à verser 2 000 euros à une usagère, exposée à ce gaz incolore et inodore",
-          "image": "https://img.lemde.fr/2026/06/04/226/0/2712/1356/644/322/60/0/c15ace2_upload-1-cdjljx5ip6c6-frame-1135.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Pollution aux pesticides : en restreignant la portée d’une taxe, le gouvernement a privé les agences de l’eau de plus de 90 millions d’euros de redevance",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/09/pollution-aux-pesticides-en-restreignant-la-portee-d-une-taxe-le-gouvernement-a-prive-les-agences-de-l-eau-de-plus-de-90-millions-d-euros-de-redevance_6808615_3244.html",
-          "published": "2026-11-09T06:00:42+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "En consultant la liste des substances soumises à la redevance pour pollutions diffuses, reversée aux agences et offices de l’eau, l’association Généra",
           "image": "https://img.lemde.fr/2026/06/04/226/0/2712/1356/644/322/60/0/c15ace2_upload-1-cdjljx5ip6c6-frame-1135.jpg",
           "other_news": true
         },
@@ -645,6 +649,30 @@
           "other_news": true
         }
       ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Transforming climate policy into creative writing: an alternative way to experience UN summits",
+          "link": "https://theconversation.com/transforming-climate-policy-into-creative-writing-an-alternative-way-to-experience-un-summits-294270",
+          "published": "2026-11-11T12:04:17+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Policy jargon, though often dense and alienating, can serve as an effective springboard for discussing difficult realities.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Canada’s international student cap hit Atlantic universities hard. Here’s why it matters",
+          "link": "https://theconversation.com/canadas-international-student-cap-hit-atlantic-universities-hard-heres-why-it-matters-295649",
+          "published": "2026-11-11T12:10:44+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Atlantic Canada’s experiences show that reducing international student numbers is not enough to judge whether a policy works. Its impacts on universit",
+          "image": null,
+          "other_news": true
+        }
+      ],
       "Other Marine News": [
         {
           "title": "‘A new age of climate extremes’: Earth accumulating heat at accelerating rate",
@@ -713,14 +741,14 @@
           "other_news": true
         },
         {
-          "title": "What is net zero and is the UK on track to achieve it?",
-          "link": "https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-06T16:22:51+00:00",
+          "title": "Bid to restore rare Atlantic rainforest secures £6m lottery grant",
+          "link": "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-11T06:37:12+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Reaching net zero carbon emissions worldwide is essential to limit global warming, UN scientists say.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bc1/live/2716e410-ba35-11f0-9bc3-15f9891aeafa.jpg",
+          "summary": "Hubs offering training in conservation work are to be set up in Torridon, Morvern and mid-Argyll.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b5/live/154dac30-dd9a-11f1-841d-6fd98310705b.jpg",
           "other_news": true
         },
         {
@@ -911,17 +939,6 @@
           "other_news": true
         },
         {
-          "title": "The greenest initiatives are often the most invisible – experts explain why that’s a problem",
-          "link": "https://theconversation.com/the-greenest-initiatives-are-often-the-most-invisible-experts-explain-why-thats-a-problem-294789",
-          "published": "2026-10-27T16:13:21+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Visible eco-friendly additions can signal that a company is making an effort and is committed to sustainability. A reduction leaves fewer obvious eco-",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "COP31: Governments are failing to rein in emissions from their own power plants",
           "link": "https://theconversation.com/cop31-governments-are-failing-to-rein-in-emissions-from-their-own-power-plants-295592",
           "published": "2026-11-10T13:36:45+00:00",
@@ -1032,6 +1049,17 @@
           "other_news": true
         },
         {
+          "title": "Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
+          "link": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
+          "published": "2026-11-11T07:00:00+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "The amount of public funding pledged to help developing countries tackle climate change has dropped by more than 70% in&#8230;\nThe post Analysis: Clim",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Analysis: Which countries have sent the most delegates to COP31?",
           "link": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31",
           "published": "2026-11-10T17:21:37+00:00",
@@ -1109,13 +1137,13 @@
           "other_news": true
         },
         {
-          "title": "Interactive: Who wants what at the COP31 climate change summit",
-          "link": "https://www.carbonbrief.org/interactive-who-wants-what-at-the-cop31-climate-change-summit",
-          "published": "2026-11-02T16:57:31+00:00",
-          "source": "Carbonbrief",
+          "title": "COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in",
+          "link": "https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/",
+          "published": "2026-11-11T10:31:13+00:00",
+          "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Delegates will soon gather in the Turkish resort city of Antalya for UN climate negotiations, against a backdrop of war,&#8230;\nThe post Interactive:",
+          "summary": "Roads around the COP31 venue have been closed so that 40 leaders - including Lula, Erdoğan and Albanese - can address the UN climate summit in Antalya",
           "image": null,
           "other_news": true
         },
@@ -1318,28 +1346,6 @@
           "other_news": true
         },
         {
-          "title": "UK approves gas drilling despite admitting blow to “climate leadership” status",
-          "link": "https://www.climatechangenews.com/2026/10/21/uk-approves-gas-drilling-despite-admitting-blow-to-climate-leadership-status/",
-          "published": "2026-10-21T14:49:54+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The government accepts that approving the Jackdaw field will weaken its climate reputation and downplays the legal weight of the International Court o",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Turkish giant sponsoring COP31 cut climate goals then cashed in on oil boom",
-          "link": "https://www.climatechangenews.com/2026/10/21/turkish-giant-sponsoring-cop31-cut-climate-goals-then-cashed-in-on-oil-boom/",
-          "published": "2026-10-21T08:30:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "COP31 sponsors should be screened for “climate integrity”. Yet Koç Holding has become a top partner while its oil refiner runs flat out and its climat",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "« Les puissances fossiles défendent leurs intérêts de façon beaucoup plus explicite »",
           "link": "https://reporterre.net/Les-puissances-fossiles-defendent-leurs-interets-de-facon-beaucoup-plus-explicite-article",
           "published": "2026-11-11T06:00:00+00:00",
@@ -1395,14 +1401,14 @@
           "other_news": true
         },
         {
-          "title": "Essais nucléaires : l'Algérie réclame à la France l'emplacement des déchets radioactifs enfouis dans son sol",
-          "link": "https://reporterre.net/Essais-nucleaires-l-Algerie-reclame-a-la-France-l-emplacement-des-dechets-radioactifs",
-          "published": "2026-11-03T11:30:06+00:00",
-          "source": "Reporterre",
+          "title": "A la COP31, l’ONU presse les dirigeants d’agir contre les énergies fossiles : « La vérité, brutale, est que la crise du climat nous dépasse », déclare Antonio Guterres",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/11/a-la-cop31-l-onu-presse-les-dirigeants-d-agir-contre-les-energies-fossiles-la-verite-brutale-est-que-la-crise-du-climat-nous-depasse-declare-antonio-guterres_6808958_3244.html",
+          "published": "2026-11-11T12:01:50+01:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "L'Algérie poursuit le nettoyage des déchets radioactifs laissés par les essais nucléaires français. Le ministère algérien de la",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20100225__par3081437__v1001__highres-d2e0e.jpg?1793705522",
+          "summary": "Le chef de l’ONU a exhorté les responsables réunis pour parler du climat à éliminer les énergies fossiles et à mettre de côté leurs différends, de man",
+          "image": "https://img.lemde.fr/2026/11/11/0/0/2146/1073/644/322/60/0/32dfe9e_ftp-1-gwknyncg9g55-17b3cc977d1343688c011deb89568e7d-0-5eeefc433aa2401e9d61eca1f06c020a.jpg",
           "other_news": true
         },
         {
@@ -1461,13 +1467,24 @@
           "other_news": true
         },
         {
+          "title": "En République démocratique du Congo, l’industrie minière détruit la forêt pour la transition énergétique des pays riches",
+          "link": "https://vert.eco/biodiversite/en-republique-democratique-du-congo-lindustrie-miniere-detruit-la-foret-pour-la-transition-energetique-des-pays-riches/",
+          "published": "2026-11-11T10:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Au sud de la République démocratique du Congo, les mines de cuivre et de cobalt alimentent la transition énergétique mondiale. Autour des concessions,",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Patrick Pouyanné, PDG de TotalEnergies, est membre de la délégation française à la COP31 sur le climat",
           "link": "https://vert.eco/climat/patrick-pouyanne-pdg-de-totalenergies-est-membre-de-la-delegation-francaise-a-la-cop31-sur-le-climat/",
           "published": "2026-11-10T17:44:38+00:00",
           "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "L’influent patron de la major pétrogazière a été choisi par le France pour intégrer sa délégation à la COP en Turquie. Ce mardi, il a pu louer les mér",
+          "summary": "L’influent patron de la major pétrogazière a été choisi par la France pour intégrer sa délégation à la COP en Turquie. Ce mardi, il a pu louer les mér",
           "image": null,
           "other_news": true
         },
@@ -1505,6 +1522,17 @@
           "other_news": true
         },
         {
+          "title": "COP 31: what South Africa must do to deliver on its climate promises",
+          "link": "https://theconversation.com/cop-31-what-south-africa-must-do-to-deliver-on-its-climate-promises-294222",
+          "published": "2026-11-11T09:38:05+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As COP31 approaches, South Africa must enforce its climate laws, reduce coal dependence and protect workers and communities who rely on coal to surviv",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Global carbon emissions may have peaked in 2026 – but only time will tell",
           "link": "https://theconversation.com/global-carbon-emissions-may-have-peaked-in-2026-but-only-time-will-tell-296152",
           "published": "2026-11-11T02:28:16+00:00",
@@ -1538,6 +1566,17 @@
           "other_news": true
         },
         {
+          "title": "Angolan hunters protect Southern Africa’s internationally important wetland",
+          "link": "https://news.mongabay.com/2026/11/angolan-hunters-protect-southern-africas-internationally-important-wetland/",
+          "published": "2026-11-11T13:30:33+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Four years ago, elders from several different communities in Angola’s southeastern highlands approached environmental anthropologist Kerllen Costa, sa",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11131517/Tunyiungi_2-CONTRAST-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "Greta Thunberg arrives at UN climate talks saying ‘everything we love is at stake’",
           "link": "https://news.mongabay.com/short-article/2026/11/greta-thunberg-arrives-at-un-climate-talks-saying-everything-we-love-is-at-stake/",
           "published": "2026-11-10T16:17:23+00:00",
@@ -1568,17 +1607,6 @@
           "language": "en",
           "summary": "SEOUL — Many South Koreans remember days when squid was inexpensive, everyday food: Stir-fried with spicy chili flakes, steamed in a bath of water and",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/09083127/2874300199_1750979361_o-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Drought driven by climate change is redefining how disease spreads, study finds",
-          "link": "https://news.mongabay.com/2026/11/drought-driven-by-climate-change-is-redefining-how-disease-spreads-study-finds/",
-          "published": "2026-11-06T16:16:11+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "As climate change intensifies, drought is widening globally, causing alterations in water-dependent pathogen patterns, leaving scientists scrambling t",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/06153125/3-forest-dwelling-mosquitoes--768x512.jpg",
           "other_news": true
         }
       ]

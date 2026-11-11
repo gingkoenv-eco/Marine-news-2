@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:28:50.641321+00:00",
+  "generated_at": "2026-11-11T06:01:39.350396+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -114,13 +114,13 @@
       ],
       "Marine Biodiversity & Conservation": [
         {
-          "title": "Surf’s up, lights up: floodlight-lit night surfing could be coming to the Gold Coast – but could it bring unwanted fins?",
+          "title": "Night surfing may be coming to the Gold Coast - but could the $100,000 plan attract sharks?",
           "link": "https://www.theguardian.com/australia-news/2026/nov/11/surfs-up-lights-up-floodlight-lit-night-surfing-could-be-coming-to-the-gold-coast-but-could-it-bring-unwanted-fins",
           "published": "2026-11-10T14:00:54+00:00",
           "source": "The Guardian Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Lighting up Snapper Rocks by night could help with overcrowding, but some fear permanent floodlights could attract sharks or turn their community into",
+          "summary": "Temporary trial at Snapper Rocks would be part of the 2027 World Surf League event at Coolangatta – but locals fear it’ll become a ‘theme park’Get our",
           "image": "https://i.guim.co.uk/img/media/ceff0d68963e0956beb1bd1b442537a22d151a04/1143_0_6663_5333/master/6663.jpg?width=140&quality=85&auto=format&fit=max&s=65e0db88ea40995b2d8b919c91946f04",
           "other_news": false
         },
@@ -166,6 +166,17 @@
           "language": "en",
           "summary": "United States ocean waters are home to diverse species of fish that feed families, anchor economies and draw millions of recreational anglers to the c",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Rising seas could reshape habitats for more than 40% of world’s land vertebrates",
+          "link": "https://news.mongabay.com/2026/11/rising-seas-could-reshape-habitats-for-more-than-40-of-worlds-land-vertebrates/",
+          "published": "2026-11-11T02:01:22+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Sea level rise driven by climate change could see more than 42% of terrestrial land vertebrates lose parts of their habitats to the ocean by the end o",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/10150256/Proboscis-monkey_RhettAB-768x512.jpg",
           "other_news": false
         },
         {
@@ -272,17 +283,6 @@
           "other_news": false
         },
         {
-          "title": "Country diary 1926: Dolphin watching in the Bay of Biscay",
-          "link": "https://www.theguardian.com/environment/2026/oct/12/country-diary-1926-dolphin-watching-in-the-bay-of-biscay",
-          "published": "2026-10-12T05:00:46+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "15 October 1926: Some half-dozen sported alongside the boat, keeping pace with us as they sprang again and again clear from the waterBAY OF BISCAY: De",
-          "image": "https://i.guim.co.uk/img/media/fee1c82ff6a474d86ac7009a0a8cda1894639d7f/998_0_2421_1937/master/2421.jpg?width=140&quality=85&auto=format&fit=max&s=b604d1b9988c3f32621d5212da25be0c",
-          "other_news": false
-        },
-        {
           "title": "Do the Shetland Isles need Cold War-style military protection?",
           "link": "https://www.bbc.co.uk/news/articles/cjg47dq6q775o?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-03T06:07:33+00:00",
@@ -379,6 +379,17 @@
           "language": "en",
           "summary": "Striving to keep up with regional competitors, India has built up its ocean mining capacity - despite a push by 46 countries and marine scientists for",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Dans le Calvados, l’interdiction du ramassage des fossiles sur les plages ne passe pas : « On nous contraint à laisser la marée les emporter »",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/11/dans-le-calvados-l-interdiction-du-ramassage-des-fossiles-sur-les-plages-ne-passe-pas-on-nous-contraint-a-laisser-la-maree-les-emporter_6808932_3244.html",
+          "published": "2026-11-11T06:00:25+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Entre Villers-sur-Mer et Houlgate, les falaises des Vaches noires recèlent de nombreux fossiles qui se déposent sur la plage. Mais la création d’une r",
+          "image": "https://img.lemde.fr/2026/11/10/195/0/2006/1003/644/322/60/0/4548b08_upload-1-qrx8f3t9bfp9-img-20260331-wa0027rec.jpg",
           "other_news": false
         },
         {
@@ -488,17 +499,6 @@
     },
     "Other News": {
       "Plastic & Ocean Pollution": [
-        {
-          "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-          "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-05T23:16:53+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26c/live/86fa1990-d94e-11f1-a701-fddedf244c16.jpg",
-          "other_news": true
-        },
         {
           "title": "The great disaster divide: How the super-rich are profiting from global climate suffering",
           "link": "https://www.climatechangenews.com/2026/11/04/the-great-disaster-divide-how-the-super-rich-are-profiting-from-global-climate-suffering/",
@@ -642,17 +642,6 @@
           "language": "en",
           "summary": "At the COP17 biodiversity summit in Yerevan, Armenia, conservation leaders from around the world gathered to conduct the first global review of progre",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/09203428/WW1439035-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Kenya launches $160 million conservation initiative to support communities and biodiversity",
-          "link": "https://news.mongabay.com/2026/11/kenya-launches-160-million-conservation-initiative-to-support-communities-and-biodiversity/",
-          "published": "2026-11-06T10:52:44+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The government of Kenya has launched a 10-year, $160 million conservation program that will target 17.3 million hectares (43 million acres) of existin",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/05164636/Rebecca-M-768x512.jpg",
           "other_news": true
         }
       ],
@@ -1351,6 +1340,17 @@
           "other_news": true
         },
         {
+          "title": "« Les puissances fossiles défendent leurs intérêts de façon beaucoup plus explicite »",
+          "link": "https://reporterre.net/Les-puissances-fossiles-defendent-leurs-interets-de-facon-beaucoup-plus-explicite-article",
+          "published": "2026-11-11T06:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Avec « La Mutation climatique », Amy Dahan et Stefan C. Aykut décrivent un monde où la crise du climat se mêle aux guerres et au",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/20261106_reporterre_amy_dahan_stefan_aykut_015-1461a.jpg?1794376801",
+          "other_news": true
+        },
+        {
           "title": "IA : le géant Anthropic achète des turbines à gaz pour alimenter ses centres de données",
           "link": "https://reporterre.net/IA-le-geant-Anthropic-achete-des-turbines-a-gaz-pour-alimenter-ses-centres-de-donnees",
           "published": "2026-11-10T16:23:26+00:00",
@@ -1408,11 +1408,11 @@
         {
           "title": "COP31 : pourquoi l’électrification est au cœur des discussions de la conférence sur le climat",
           "link": "https://www.lemonde.fr/planete/article/2026/11/10/cop31-pourquoi-l-electrification-est-au-c-ur-des-discussions-de-la-conference-sur-le-climat_6808886_3244.html",
-          "published": "2026-11-10T18:30:07+01:00",
+          "published": "2026-11-10T18:30:01+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "La Turquie et l’Australie, qui partagent la présidence de la conférence mondiale qui a démarré lundi à Antalya, veulent rallier le plus grand nombre d",
+          "summary": "La Turquie et l’Australie, qui partagent la présidence de la conférence mondiale qui a démarré lundi à Antalya, veulent rallier le plus grand nombre d",
           "image": "https://img.lemde.fr/2026/10/26/748/0/5500/2750/644/322/60/0/d10f73f_ftp-1-rcxcjvjtli2r-2026-10-26t131128z-1314782666-rc2m7oa0odb2-rtrmadp-3-slovakia-nuclear.JPG",
           "other_news": true
         },
@@ -1461,28 +1461,6 @@
           "other_news": true
         },
         {
-          "title": "COP31 : la Turquie et l’Australie, deux pays fortement dépendants du charbon, aux manettes du principal sommet sur le climat",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/09/cop31-la-turquie-et-l-australie-deux-pays-fortement-dependants-du-charbon-aux-manettes-du-principal-sommet-sur-le-climat_6808608_3244.html",
-          "published": "2026-11-09T06:00:20+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Pour la première fois, la présidence de la conférence mondiale, qui s’ouvre lundi à Antalya, est partagée entre deux Etats. Ces deux derniers ont jusq",
-          "image": "https://img.lemde.fr/2026/11/05/348/0/4500/2250/644/322/60/0/4273e99_ftp-1-4lq8hlbxorm0-afp-d6kn99e.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Le mémo de la COP31 : agenda, organisation et enjeux de la conférence climat d’Antalya",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/08/le-memo-de-la-cop31-agenda-organisation-et-enjeux-de-la-conference-climat-d-antalya_6808459_3244.html",
-          "published": "2026-11-08T18:30:02+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Tout savoir en bref sur la 31ᵉ conférence mondiale sur le climat qui débute lundi 9 novembre dans la station balnéaire des rives méditerranéennes de l",
-          "image": "https://img.lemde.fr/2026/11/08/459/0/5500/2750/644/322/60/0/fe2d2fc_ftp-1-3sqdw6b98hno-2026-11-08t135826z-1147880897-rc2ojoawz925-rtrmadp-3-climate-cop31.JPG",
-          "other_news": true
-        },
-        {
           "title": "Patrick Pouyanné, PDG de TotalEnergies, est membre de la délégation française à la COP31 sur le climat",
           "link": "https://vert.eco/climat/patrick-pouyanne-pdg-de-totalenergies-est-membre-de-la-delegation-francaise-a-la-cop31-sur-le-climat/",
           "published": "2026-11-10T17:44:38+00:00",
@@ -1523,6 +1501,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Pour la première fois, le sommet mondial (COP31) sur le climat qui s’ouvre ce lundi est organisé par deux pays : la Turquie l’accueille et l’Australie",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Global carbon emissions may have peaked in 2026 – but only time will tell",
+          "link": "https://theconversation.com/global-carbon-emissions-may-have-peaked-in-2026-but-only-time-will-tell-296152",
+          "published": "2026-11-11T02:28:16+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A new report suggests the world is burning fewer fossil fuels, potentially due to international conflicts and surging energy prices.",
           "image": null,
           "other_news": true
         },

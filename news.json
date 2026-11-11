@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T15:18:53.071034+00:00",
+  "generated_at": "2026-11-11T19:35:06.226103+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -12,6 +12,17 @@
           "language": "en",
           "summary": "Exclusive: EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whalesFollow our Australian politics live blog for latest updatesS",
           "image": "https://i.guim.co.uk/img/media/37e026264024c8b969ae4fa3d8d8601720087a90/625_0_6628_5304/master/6628.jpg?width=140&quality=85&auto=format&fit=max&s=6bb71c939b4be55c1dde8f059a0c009b",
+          "other_news": false
+        },
+        {
+          "title": "Audit says Europe’s marine protected areas failing as 2030 deadline looms",
+          "link": "https://news.mongabay.com/2026/11/audit-says-europes-marine-protected-areas-failing-as-2030-deadline-looms/",
+          "published": "2026-11-11T16:14:04+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The European Union has for many years been a key player in international biodiversity negotiations, pushing hard for the world’s nations to protect 30",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11125104/1-feature-768x512.jpg",
           "other_news": false
         }
       ],
@@ -62,6 +73,17 @@
           "language": "en",
           "summary": "This fall, Ocean Conservancy is celebrating its 41st annual International Coastal Cleanup® (ICC), once again bringing together volunteers to protect t",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "US companies apply to explore deep-sea mining in area bordering Pacific island states",
+          "link": "https://news.mongabay.com/2026/11/us-companies-apply-to-explore-deep-sea-mining-in-area-bordering-pacific-island-states/",
+          "published": "2026-11-11T15:29:42+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Two U.S. companies have applied to the U.S. government for seabed mining exploration licenses in two large patches of international waters near the Co",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11121233/oceanic-whitetip-shark-Carcharhinus-longimanus-768x512.jpg",
           "other_news": false
         }
       ]
@@ -342,17 +364,6 @@
           "other_news": false
         },
         {
-          "title": "California is taking a beating from an unusually destructive 2026 Pacific hurricane season",
-          "link": "https://theconversation.com/california-is-taking-a-beating-from-an-unusually-destructive-2026-pacific-hurricane-season-294207",
-          "published": "2026-10-12T19:13:40+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Tropical storms rarely survive in the cool water off California, but waves from storms far to the south can still damaged coastal areas. And flooding",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "‘Blue COP31’ set to spotlight need for ocean protections amid record heat",
           "link": "https://www.climatechangenews.com/2026/11/06/blue-cop31-antalya-ocean-protections-record-heat-climate-finance/",
           "published": "2026-11-06T17:16:31+00:00",
@@ -404,17 +415,6 @@
           "type": "news",
           "language": "en",
           "summary": "While Below may have some things wrong —&nbsp;giant squid probably aren’t vindictive, for example — a Newfoundland ocean sciences expert praises the N",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "You’ve been told to prep three days of food, but moving past day four will need stronger supply chains",
-          "link": "https://theconversation.com/youve-been-told-to-prep-three-days-of-food-but-moving-past-day-four-will-need-stronger-supply-chains-295937",
-          "published": "2026-11-10T16:44:21+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Supply chains have been designed for efficiency rather than resilience.",
           "image": null,
           "other_news": false
         },
@@ -546,17 +546,6 @@
           "summary": "Twenty-seven residents of Kolwezi, a major copper and cobalt mining hub in southeastern Democratic Republic of Congo, have taken Chinese-controlled mi",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/10115909/Cite-Gecamines-Kolwezi-1-768x512.jpg",
           "other_news": true
-        },
-        {
-          "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
-          "link": "https://news.mongabay.com/short-article/2026/11/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution/",
-          "published": "2026-11-09T17:02:47+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "NEW DELHI (AP) — A thick blanket of smog shrouded India’s capital Monday after firecrackers lit up the skies over New Delhi during Diwali celebrations",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/09165833/AP26313155760421-768x512.jpg",
-          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -627,14 +616,14 @@
           "other_news": true
         },
         {
-          "title": "Rangers’ role must be built into biodiversity conservation commitments (commentary)",
-          "link": "https://news.mongabay.com/2026/11/rangers-role-must-be-built-into-biodiversity-conservation-commitments-commentary/",
-          "published": "2026-11-09T21:07:45+00:00",
+          "title": "‘Developed nations are not honoring their commitments’: DRC negotiator on biodiversity finance",
+          "link": "https://news.mongabay.com/2026/11/developed-nations-are-not-honoring-their-commitments-drc-negotiator-on-biodiversity-finance/",
+          "published": "2026-11-11T19:27:37+00:00",
           "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "At the COP17 biodiversity summit in Yerevan, Armenia, conservation leaders from around the world gathered to conduct the first global review of progre",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/09203428/WW1439035-768x512.jpg",
+          "summary": "YEREVAN, Armenia — Discussions were running much longer — and tenser — than they were supposed to during one of the last sessions of the 2026 U.N. bio",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11164749/Daniel-Mukubi-Kikuni-DRC_IPCC65_14Oct2026_photo_0-768x512.jpg",
           "other_news": true
         }
       ],
@@ -796,6 +785,17 @@
           "other_news": true
         },
         {
+          "title": "Democrats are at Cop31 to show that the US has not abandoned the fight against climate change",
+          "link": "https://theconversation.com/democrats-are-at-cop31-to-show-that-the-us-has-not-abandoned-the-fight-against-climate-change-296218",
+          "published": "2026-11-11T17:31:32+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Democratic control of Congress means they have more power to challenge Trump’s environmental stance.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Turkey hosts UN climate summit while pursuing new fossil fuel projects",
           "link": "https://theconversation.com/turkey-hosts-un-climate-summit-while-pursuing-new-fossil-fuel-projects-296322",
           "published": "2026-11-10T16:06:32+00:00",
@@ -913,17 +913,6 @@
           "type": "news",
           "language": "en",
           "summary": "An Amoc collapse would&nbsp;dramatically alter the world’s climate – often in unexpected ways. Our new study shows how governments should prepare.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Indonesia’s El Niño-driven peat fires are choking the region – and releasing centuries of stored carbon",
-          "link": "https://theconversation.com/indonesias-el-nino-driven-peat-fires-are-choking-the-region-and-releasing-centuries-of-stored-carbon-294838",
-          "published": "2026-10-27T16:52:57+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "An intense drought is the match. Decades of deforestation and peat draining provide the fuel.",
           "image": null,
           "other_news": true
         },
@@ -1335,7 +1324,7 @@
           "other_news": true
         },
         {
-          "title": "« Les puissances fossiles défendent leurs intérêts de façon beaucoup plus explicite »",
+          "title": "Face aux puissances industrielles et autoritaires, la bataille du climat est-elle perdue ? Pas encore, assurent ces chercheurs",
           "link": "https://reporterre.net/Les-puissances-fossiles-defendent-leurs-interets-de-facon-beaucoup-plus-explicite-article",
           "published": "2026-11-11T06:00:00+00:00",
           "source": "Reporterre",
@@ -1387,6 +1376,17 @@
           "language": "fr",
           "summary": "Le journaliste Bruno Meyerfeld a remporté le 27 octobre le 88e prix Albert Londres pour ses reportages sur l'Amazonie publiés da",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/grasset_2_-d8187.jpg?1793860263",
+          "other_news": true
+        },
+        {
+          "title": "Les voitures électriques, un gouffre financier pour les assureurs",
+          "link": "https://www.lemonde.fr/economie/article/2026/11/11/les-voitures-electriques-un-gouffre-financier-pour-les-assureurs_6809004_3234.html",
+          "published": "2026-11-11T18:00:08+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La réparation des véhicules électriques coûte 14 % de plus que celle des modèles thermiques. En cause : des batteries peu réparables, des dommages plu",
+          "image": "https://img.lemde.fr/2026/11/11/675/0/8104/4052/644/322/60/0/0bf3314_upload-1-salcsggrzktu-000-32wz63l.jpg",
           "other_news": true
         },
         {
@@ -1445,17 +1445,6 @@
           "other_news": true
         },
         {
-          "title": "« Un El Niño hors norme entre en collision avec une planète déjà surchauffée » : l’année 2026 sera l’une des plus chaudes jamais enregistrées",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/09/un-el-nino-hors-norme-entre-en-collision-avec-une-planete-deja-surchauffee-2026-sera-l-une-des-annees-les-plus-chaudes-jamais-enregistrees_6808623_3244.html",
-          "published": "2026-11-09T08:30:09+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Alors que la COP31 s’ouvre lundi en Turquie, l’Organisation météorologique mondiale publie son bulletin annuel sur l’état du climat.",
-          "image": "https://img.lemde.fr/2026/09/08/536/0/8640/4320/644/322/60/0/bededcf_ftp-1-oipyw9z5il96-a0b5762e033042279f321b876124be78-0-412c544787564f0ca573c62b71c0c46f.jpg",
-          "other_news": true
-        },
-        {
           "title": "En République démocratique du Congo, l’industrie minière détruit la forêt pour la transition énergétique des pays riches",
           "link": "https://vert.eco/biodiversite/en-republique-democratique-du-congo-lindustrie-miniere-detruit-la-foret-pour-la-transition-energetique-des-pays-riches/",
           "published": "2026-11-11T10:00:00+00:00",
@@ -1473,7 +1462,7 @@
           "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "L’influent patron de la major pétrogazière a été choisi par la France pour intégrer sa délégation à la COP en Turquie. Ce mardi, il a pu louer les mér",
+          "summary": "Comme dans de précédentes COP sur le climat, l’influent patron de la major pétrogazière a été choisi par la France pour intégrer sa délégation en Turq",
           "image": null,
           "other_news": true
         },
@@ -1511,6 +1500,17 @@
           "other_news": true
         },
         {
+          "title": "Nepal-Tibet floods showed the need for greater climate finance. Is the world listening?",
+          "link": "https://theconversation.com/nepal-tibet-floods-showed-the-need-for-greater-climate-finance-is-the-world-listening-294675",
+          "published": "2026-11-11T17:29:31+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As president of COP31 negotiations, Australia has the opportunity to rally more backing for climate finance for those on the frontline.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "COP 31: what South Africa must do to deliver on its climate promises",
           "link": "https://theconversation.com/cop-31-what-south-africa-must-do-to-deliver-on-its-climate-promises-294222",
           "published": "2026-11-11T09:38:05+00:00",
@@ -1529,28 +1529,6 @@
           "type": "news",
           "language": "en",
           "summary": "A new report suggests the world is burning fewer fossil fuels, potentially due to international conflicts and surging energy prices.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "AI has turned university assessments into a ‘wicked problem’ – and we don’t have all the answers",
-          "link": "https://theconversation.com/ai-has-turned-university-assessments-into-a-wicked-problem-and-we-dont-have-all-the-answers-294350",
-          "published": "2026-11-10T19:12:54+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Unis must ensure degrees demonstrate students’ learning, rather than how well they’ve used artificial intelligence. But it’s an ongoing challenge.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The world needs to get serious about electrification – here’s why",
-          "link": "https://theconversation.com/the-world-needs-to-get-serious-about-electrification-heres-why-296062",
-          "published": "2026-11-10T19:12:39+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The UN climate summit COP31 has a strong focus on electrification. But is it realistic? Our analysis has the answers.",
           "image": null,
           "other_news": true
         },
@@ -1596,17 +1574,6 @@
           "language": "en",
           "summary": "After nearly a century’s absence, gray wolves are recolonizing California, altering ecosystems and landscapes in the U.S.’s most populous state. Monga",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/12/10144826/animals_06697-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "South Korea’s beloved squid may vanish from its waters due to climate change, heat waves",
-          "link": "https://news.mongabay.com/2026/11/south-koreas-beloved-squid-may-vanish-from-its-waters-due-to-climate-change-heat-waves/",
-          "published": "2026-11-09T10:13:28+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "SEOUL — Many South Koreans remember days when squid was inexpensive, everyday food: Stir-fried with spicy chili flakes, steamed in a bath of water and",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/09083127/2874300199_1750979361_o-768x512.jpg",
           "other_news": true
         }
       ]

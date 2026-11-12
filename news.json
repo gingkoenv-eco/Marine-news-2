@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T20:13:34.265048+00:00",
+  "generated_at": "2026-11-12T06:01:34.927145+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -243,6 +243,17 @@
       ],
       "Other Marine News": [
         {
+          "title": "Historic US ocean liner sinks near Florida to become world’s largest artificial reef",
+          "link": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
+          "published": "2026-11-12T03:07:16+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "SS United States, which set transatlantic speed record during maiden voyage in 1952, is sunk off coast of DestinThe historic SS United States has reac",
+          "image": "https://i.guim.co.uk/img/media/8fd60b61479519c751873c078dc512af7092ed65/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=9c566e41195cc25e767c4ccf33bd91b5",
+          "other_news": false
+        },
+        {
           "title": "Record-breaking high tides spark chaos – and kayak commutes – across California",
           "link": "https://www.theguardian.com/us-news/2026/oct/28/california-extreme-weather-high-tides",
           "published": "2026-10-28T22:22:39+00:00",
@@ -386,6 +397,17 @@
           "other_news": false
         },
         {
+          "title": "Dans la mer d’Aral en voie d’assèchement, le « miracle » éphémère de la crevette artémia, ressource prisée de l’aquaculture mondiale",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/12/dans-la-mer-d-aral-en-voie-d-assechement-le-miracle-ephemere-de-la-crevette-artemia-ressource-prisee-de-l-aquaculture-mondiale_6809056_3244.html",
+          "published": "2026-11-12T06:00:36+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "A l’origine, immense lac d’eau douce partagé entre Ouzbékistan et Kazakhstan, la mer d’Aral a vu ses rives reculer sous l’effet de la culture industri",
+          "image": "https://img.lemde.fr/2026/11/11/456/0/4008/2004/644/322/60/0/ef5b2e5_upload-1-m9gdwu23crmq-hl-hildegardleloue-mer-aral-artemia-25-sur-25.jpg",
+          "other_news": false
+        },
+        {
           "title": "Dans le Calvados, l’interdiction du ramassage des fossiles sur les plages ne passe pas : « On nous contraint à laisser la marée les emporter »",
           "link": "https://www.lemonde.fr/planete/article/2026/11/11/dans-le-calvados-l-interdiction-du-ramassage-des-fossiles-sur-les-plages-ne-passe-pas-on-nous-contraint-a-laisser-la-maree-les-emporter_6808932_3244.html",
           "published": "2026-11-11T06:00:15+01:00",
@@ -441,6 +463,28 @@
           "other_news": false
         },
         {
+          "title": "To boost conservation of kelp forests, start by naming them (commentary)",
+          "link": "https://news.mongabay.com/2026/11/to-boost-conservation-of-kelp-forests-start-by-naming-them-commentary/",
+          "published": "2026-11-12T01:01:25+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Beneath the coppery fronds of the only floating bamboo kelp forest in the world, a creature shapeshifts across the reef. A tuberculate cuttlefish (Sep",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/10204648/Cape-fur-seal-by-Helen-Walne-768x512.png",
+          "other_news": false
+        },
+        {
+          "title": "This ocean liner was the world’s fastest. It’s being sunk to make the largest artificial reef",
+          "link": "https://news.mongabay.com/short-article/2026/11/this-ocean-liner-was-the-worlds-fastest-its-being-sunk-to-make-the-largest-artificial-reef/",
+          "published": "2026-11-11T22:10:05+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "DESTIN, Fla. (AP) — An ocean liner that once was the fastest on the seas is headed to its final home on the floor of the Gulf of Mexico as the world’s",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11220520/AP26299375080227-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "US stakes competing claims to Pacific seabed mining areas, challenging UN authority",
           "link": "https://news.mongabay.com/podcast/2026/11/us-stakes-competing-claims-to-pacific-seabed-mining-areas-challenging-un-authority/",
           "published": "2026-11-10T19:22:22+00:00",
@@ -460,17 +504,6 @@
           "language": "en",
           "summary": "When the 2011 tsunami devastated Japan’s coast, patches of forest were left standing amid the destruction. Many surrounded Shinto shrines, ancient chi",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/10090216/Mongabay_Thumbnail_Tsunami_Featured-338x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "A year after a wastewater spill in the Philippines, communities fight to save a dying sea",
-          "link": "https://news.mongabay.com/2026/11/a-year-after-a-wastewater-spill-in-the-philippines-communities-fight-to-save-a-dying-sea/",
-          "published": "2026-11-10T05:17:44+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "MANJUYOD, Philippines — For years, Jonalyn Rentuaya, president of Alangilanan United Seaweed Growers Association, began her mornings the same way. By",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/05141918/Jonalyn-Rentuaya-by-Pippo-Carmona-768x512.jpg",
           "other_news": false
         }
       ]
@@ -623,7 +656,7 @@
           "type": "news",
           "language": "en",
           "summary": "YEREVAN, Armenia — Discussions were running much longer — and tenser — than they were supposed to during one of the last sessions of the 2026 U.N. bio",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11164749/Daniel-Mukubi-Kikuni-DRC_IPCC65_14Oct2026_photo_0-768x512.jpg",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/11/15143842/51873438083_6748c806ef_k-e1794432760721-768x512.jpg",
           "other_news": true
         }
       ],
@@ -675,6 +708,17 @@
           "other_news": true
         },
         {
+          "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
+          "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-11T22:48:59+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, says expert.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d987/live/52d3e450-de0f-11f1-ae98-5daa7957bf8b.jpg",
+          "other_news": true
+        },
+        {
           "title": "The swan sanctuary wetland fighting climate change",
           "link": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-10T06:30:29+00:00",
@@ -705,17 +749,6 @@
           "language": "en",
           "summary": "Rising global temperatures mean extreme weather events are becoming more common and more intense.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7d4/live/77b64d80-d78e-11f1-9440-953b82c8f55a.jpg",
-          "other_news": true
-        },
-        {
-          "title": "A really simple guide to climate change",
-          "link": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-06T16:40:51+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Human activities are causing the world to heat up, posing serious threats to people and nature.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f74b/live/4c6e7a90-d9db-11f1-b4ca-fd31344b71b9.jpg",
           "other_news": true
         },
         {
@@ -1121,7 +1154,7 @@
           "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Roads around the COP31 venue have been closed so that 40 leaders - including Lula, Erdoğan and Albanese - can address the UN climate summit in Antalya",
+          "summary": "Around 40 leaders, including Lula, Erdoğan and Albanese, addressed the summit in Antalya, where the UN chief proposed a \"climate justice compact\"\nThe",
           "image": null,
           "other_news": true
         },
@@ -1500,6 +1533,39 @@
           "other_news": true
         },
         {
+          "title": "‘Plenty of reasons for hope’: what 30 years of climate talks have achieved",
+          "link": "https://theconversation.com/plenty-of-reasons-for-hope-what-30-years-of-climate-talks-have-achieved-296398",
+          "published": "2026-11-12T03:43:58+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "After 30 years of global climate talks, there has been more progress than you might think. A climate diplomacy expert explains why there’s still reaso",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "It’s possible to make great concrete without the huge emissions from cement. Why isn’t this common?",
+          "link": "https://theconversation.com/its-possible-to-make-great-concrete-without-the-huge-emissions-from-cement-why-isnt-this-common-292236",
+          "published": "2026-11-11T22:24:01+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Cement produces huge volumes of emissions – comparable to Russia or India. Why isn’t this alternative being used?",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "COP31: How AI can help us adapt to climate change",
+          "link": "https://theconversation.com/cop31-how-ai-can-help-us-adapt-to-climate-change-294050",
+          "published": "2026-11-11T20:15:12+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Artificial intelligence is attracting attention for its potential to deepen our understanding of climate risks and inform our responses.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Nepal-Tibet floods showed the need for greater climate finance. Is the world listening?",
           "link": "https://theconversation.com/nepal-tibet-floods-showed-the-need-for-greater-climate-finance-is-the-world-listening-294675",
           "published": "2026-11-11T17:29:31+00:00",
@@ -1530,6 +1596,17 @@
           "language": "en",
           "summary": "A new report suggests the world is burning fewer fossil fuels, potentially due to international conflicts and surging energy prices.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Wildlife trade regulator CITES lifts sanctions against Laos, prompting conservation concerns",
+          "link": "https://news.mongabay.com/2026/11/wildlife-trade-regulator-cites-lifts-sanctions-against-laos-prompting-conservation-concerns/",
+          "published": "2026-11-12T03:33:47+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "CHIANG MAI, Thailand — Global wildlife trade regulator CITES has lifted trade sanctions against Laos, opening the door for the Southeast Asian nation",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/04/23023516/Sookvannaseng-4-supplied-by-source-768x512.jpg",
           "other_news": true
         },
         {

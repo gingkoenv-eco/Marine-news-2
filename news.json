@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T19:53:17.984445+00:00",
+  "generated_at": "2026-11-12T20:51:24.551341+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -23,6 +23,19 @@
           "language": "en",
           "summary": "The European Union has for many years been a key player in international biodiversity negotiations, pushing hard for the world’s nations to protect 30",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11125104/1-feature-768x512.jpg",
+          "other_news": false
+        }
+      ],
+      "Sustainable Fisheries": [
+        {
+          "title": "US renews push to open Pacific marine protected area to fishing",
+          "link": "https://news.mongabay.com/short-article/2026/11/us-renews-push-to-open-pacific-marine-protected-area-to-fishing/",
+          "published": "2026-11-12T20:06:26+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The U.S. government has published proposed rules to allow commercial fishing in an area more than double the size of California inside a Pacific marin",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/12175037/Coral_at_Jarvis_Island_National_Wildlife_Refuge-768x512.jpg",
           "other_news": false
         }
       ],
@@ -1667,17 +1680,6 @@
           "type": "news",
           "language": "en",
           "summary": "For the first time, Australia’s climate change data will distinguish between men and women. This is long overdue.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "I’ve studied how groomers operate – here’s how victims become trapped",
-          "link": "https://theconversation.com/ive-studied-how-groomers-operate-heres-how-victims-become-trapped-296535",
-          "published": "2026-11-12T16:54:19+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The claims against David Walliams have raised some familiar tropes.",
           "image": null,
           "other_news": true
         },

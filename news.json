@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T06:01:34.927145+00:00",
+  "generated_at": "2026-11-12T15:16:52.018737+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -103,6 +103,17 @@
           "other_news": false
         },
         {
+          "title": "Nurdle impact to be researched for a year",
+          "link": "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-12T11:38:35+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8122/live/f5479a00-de01-11f1-8445-15eb55286f71.jpg",
+          "other_news": false
+        },
+        {
           "title": "Les gestes individuels peuvent-ils quelque chose pour lutter contre la pollution plastique ?",
           "link": "https://theconversation.com/les-gestes-individuels-peuvent-ils-quelque-chose-pour-lutter-contre-la-pollution-plastique-292314",
           "published": "2026-10-26T15:06:37+00:00",
@@ -171,6 +182,50 @@
           "other_news": false
         },
         {
+          "title": "Huge 140-bus-long coral colony mapped by scientists for first time",
+          "link": "https://oceanographicmagazine.com/news/huge-140-bus-long-coral-colony-mapped-by-scientists-for-first-time/",
+          "published": "2026-11-11T09:00:02+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The coral was first discovered three decades ago but researchers only realised how big it was when they began mapping the region\nThe post Huge 140-bus",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Offshore wind turbines might act as artificial reefs, study suggests",
+          "link": "https://oceanographicmagazine.com/news/offshore-wind-turbines-might-act-as-artificial-reefs-study-suggests/",
+          "published": "2026-11-06T16:46:51+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Turbine bases can create stable new habitats for marine life, but researchers say critical data about the seabed remains missing\nThe post Offshore win",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Warming seas are rewiring the Channel’s food web, spelling trouble for fish stocks, seabirds and marine mammals",
+          "link": "https://oceanographicmagazine.com/news/warming-seas-are-rewiring-the-channels-food-web-spelling-trouble-for-fish-stocks-seabirds-and-marine-mammals/",
+          "published": "2026-11-04T16:35:52+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Changing ocean chemistry is helping smaller plankton thrive while bigger species decline, a 35-year study off Plymouth has revealed\nThe post Warming s",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "ClientEarth takes Spain to court over whale and dolphin bycatch",
+          "link": "https://oceanographicmagazine.com/news/client-earth-takes-spain-to-court-over-whale-and-dolphin-bycatch/",
+          "published": "2026-11-04T16:32:57+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Legal action seeks effective monitoring and mitigation measures to stop the incidental deaths of cetaceans in Spanish Atlantic waters, where at least",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Could You Really Be Swallowed by a Whale?",
           "link": "https://oceanconservancy.org/blog/2026/10/16/swallowed-by-a-whale/",
           "published": "2026-10-16T20:25:30+00:00",
@@ -225,6 +280,19 @@
           "language": "en",
           "summary": "U.S. tuna brand StarKist has announced a halt on purchases from fishing vessels linked to forced labor practices in a recent report. It also says it h",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11101724/49449442138_68e63d7eff_o-768x512.jpg",
+          "other_news": false
+        }
+      ],
+      "Blue Carbon & Carbon Cycling": [
+        {
+          "title": "First guidelines on attempts to manipulate the ocean put spotlight on geoengineering industry",
+          "link": "https://www.theguardian.com/environment/2026/nov/12/canada-climate-geoengineering-marine-carbon-credits-biology-ocean-alkalinity-enhancement",
+          "published": "2026-11-12T11:00:47+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Proponents argue ocean carbon removal is necessary to counteract the effects of the climate crisis but critics say more research is needed A cluster o",
+          "image": "https://i.guim.co.uk/img/media/3c561805685030208ac5f4bb8e73a9cc273ad328/1034_0_6251_5000/master/6251.jpg?width=140&quality=85&auto=format&fit=max&s=1eb17a5695d4a9d96236985c9f534ec6",
           "other_news": false
         }
       ],
@@ -295,17 +363,6 @@
           "language": "en",
           "summary": "Rapid coastal erosion threatens coastal homes and economies, and as Super El Niño rounds the corner, a town is reckoning with the reality of climate c",
           "image": "https://i.guim.co.uk/img/media/6e094a4a6106c307ef4374556750b743b4a5d555/0_0_5590_4470/master/5590.jpg?width=140&quality=85&auto=format&fit=max&s=88187eae26c33dc0533b9e9b27d82cac",
-          "other_news": false
-        },
-        {
-          "title": "Scientists deploy a 24-armed secret weapon to save California’s kelp forests",
-          "link": "https://www.theguardian.com/environment/2026/oct/13/sunflower-sea-star-california-kelp-forests",
-          "published": "2026-10-13T12:00:01+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Team works to restore the sunflower sea star as 95% of these key underwater ecosystems have been decimated along the Pacific coast in past decadeOff t",
-          "image": "https://i.guim.co.uk/img/media/dfcb746c1eb83c289abdeb6dc4a0d699c51d1f17/329_0_2388_1911/master/2388.jpg?width=140&quality=85&auto=format&fit=max&s=a992cbb39e8be1ca9e292b3413a21cc4",
           "other_news": false
         },
         {
@@ -397,13 +454,46 @@
           "other_news": false
         },
         {
+          "title": "Clownfish turn frown-fish when their anemone partners bleach",
+          "link": "https://oceanographicmagazine.com/news/clownfish-turn-frown-fish-when-their-anemone-partners-bleach/",
+          "published": "2026-11-11T10:20:09+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The post Clownfish turn frown-fish when their anemone partners bleach appeared first on Oceanographic.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Landmark 100-year study shows Irish sea-levels rising at their fastest pace in a century",
+          "link": "https://oceanographicmagazine.com/news/landmark-100-year-study-shows-irish-sea-levels-rising-at-their-fastest-pace-in-a-century/",
+          "published": "2026-11-05T16:46:08+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "With waters rising fastest along the south and west, researchers warn Ireland's coastal defences need to be updated.\nThe post Landmark 100-year study",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "New York Harbour becomes classroom for thousands of students",
+          "link": "https://oceanographicmagazine.com/news/new-york-harbour-becomes-classroom-for-thousands-of-students/",
+          "published": "2026-11-05T16:40:23+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "NYC Ferry vessels will be turned into science classrooms under a new partnership with Billion Oyster Project, aiming to bring more than 10,000 public",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Dans la mer d’Aral en voie d’assèchement, le « miracle » éphémère de la crevette artémia, ressource prisée de l’aquaculture mondiale",
           "link": "https://www.lemonde.fr/planete/article/2026/11/12/dans-la-mer-d-aral-en-voie-d-assechement-le-miracle-ephemere-de-la-crevette-artemia-ressource-prisee-de-l-aquaculture-mondiale_6809056_3244.html",
-          "published": "2026-11-12T06:00:36+01:00",
+          "published": "2026-11-12T06:00:28+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "A l’origine, immense lac d’eau douce partagé entre Ouzbékistan et Kazakhstan, la mer d’Aral a vu ses rives reculer sous l’effet de la culture industri",
+          "summary": "A l’origine immense lac partagé entre Ouzbékistan et Kazakhstan, la mer d’Aral a vu ses rives reculer sous l’effet de la culture industrielle du coton",
           "image": "https://img.lemde.fr/2026/11/11/456/0/4008/2004/644/322/60/0/ef5b2e5_upload-1-m9gdwu23crmq-hl-hildegardleloue-mer-aral-artemia-25-sur-25.jpg",
           "other_news": false
         },
@@ -416,28 +506,6 @@
           "language": "fr",
           "summary": "Entre Villers-sur-Mer et Houlgate, les falaises des Vaches noires recèlent de nombreux fossiles qui se déposent sur la plage. Mais la création d’une r",
           "image": "https://img.lemde.fr/2026/11/10/195/0/2006/1003/644/322/60/0/4548b08_upload-1-qrx8f3t9bfp9-img-20260331-wa0027rec.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Heures creuses d’électricité : Enedis adapte les plages horaires selon les saisons pour 9,3 millions de clients",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/10/heures-creuses-d-electricite-enedis-adapte-les-plages-horaires-selon-les-saisons-pour-9-3-millions-de-clients_6808707_3244.html",
-          "published": "2026-11-10T00:16:16+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "A partir du 1ᵉʳ décembre, le gestionnaire du réseau de distribution d’électricité mettra en place la deuxième phase de la réforme des heures creuses,",
-          "image": "https://img.lemde.fr/2026/11/09/356/0/2969/1484/644/322/60/0/a01382d_upload-1-tyuy5m9n2vrl-000-32jc9kf.jpg",
-          "other_news": false
-        },
-        {
-          "title": "What lurks ‘Below’ Newfoundland waters? A marine biologist explains the science behind the show",
-          "link": "https://theconversation.com/what-lurks-below-newfoundland-waters-a-marine-biologist-explains-the-science-behind-the-show-295615",
-          "published": "2026-11-11T12:10:37+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "While Below may have some things wrong —&nbsp;giant squid probably aren’t vindictive, for example — a Newfoundland ocean sciences expert praises the N",
-          "image": null,
           "other_news": false
         },
         {
@@ -460,6 +528,17 @@
           "language": "en",
           "summary": "What is El Niño and why is this year’s different? A strengthening El Niño layered on top of decades of human-caused climate change is pushing ocean te",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Vietnam’s freshwater obsession leaves decades-long scars for Mekong Delta farmers",
+          "link": "https://news.mongabay.com/2026/11/vietnams-freshwater-obsession-leaves-decades-long-scars-for-mekong-delta-farmers/",
+          "published": "2026-11-12T09:45:31+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "BÌNH ĐẠI, Vietnam — For centuries, the Mekong River emptied into the South China Sea through nine vast estuaries, earning it the name Cửu Long, Vietna",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/12105012/17196457289_ef08c0aa7a_coconuts-768x512.jpg",
           "other_news": false
         },
         {
@@ -649,6 +728,17 @@
           "other_news": true
         },
         {
+          "title": "Black rhinos are mostly loners, but not always: why this matters for saving the species",
+          "link": "https://theconversation.com/black-rhinos-are-mostly-loners-but-not-always-why-this-matters-for-saving-the-species-294251",
+          "published": "2026-11-12T14:48:03+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Understanding how to avoid aggression between animals is important when moving them for conservation purposes.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "‘Developed nations are not honoring their commitments’: DRC negotiator on biodiversity finance",
           "link": "https://news.mongabay.com/2026/11/developed-nations-are-not-honoring-their-commitments-drc-negotiator-on-biodiversity-finance/",
           "published": "2026-11-11T19:27:37+00:00",
@@ -669,17 +759,6 @@
           "type": "news",
           "language": "en",
           "summary": "Policy jargon, though often dense and alienating, can serve as an effective springboard for discussing difficult realities.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Canada’s international student cap hit Atlantic universities hard. Here’s why it matters",
-          "link": "https://theconversation.com/canadas-international-student-cap-hit-atlantic-universities-hard-heres-why-it-matters-295649",
-          "published": "2026-11-11T12:10:44+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Atlantic Canada’s experiences show that reducing international student numbers is not enough to judge whether a policy works. Its impacts on universit",
           "image": null,
           "other_news": true
         }
@@ -708,14 +787,25 @@
           "other_news": true
         },
         {
-          "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
-          "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-11T22:48:59+00:00",
+          "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
+          "link": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-12T11:03:53+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, says expert.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d987/live/52d3e450-de0f-11f1-ae98-5daa7957bf8b.jpg",
+          "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b233/live/7e5aee10-de7e-11f1-b88b-3f1671ea859d.jpg",
+          "other_news": true
+        },
+        {
+          "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
+          "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-12T06:02:55+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e0/live/4c115b80-de72-11f1-b441-2b33b063138f.jpg",
           "other_news": true
         },
         {
@@ -741,17 +831,6 @@
           "other_news": true
         },
         {
-          "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
-          "link": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-06T16:43:30+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Rising global temperatures mean extreme weather events are becoming more common and more intense.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7d4/live/77b64d80-d78e-11f1-9440-953b82c8f55a.jpg",
-          "other_news": true
-        },
-        {
           "title": "Bid to restore rare Atlantic rainforest secures £6m lottery grant",
           "link": "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-11T06:37:12+00:00",
@@ -771,6 +850,28 @@
           "language": "en",
           "summary": "Time is running out for one of the most ambitious environmental pledges in history.",
           "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+          "other_news": true
+        },
+        {
+          "title": "L’empreinte carbone astronomique des preuves mathématiques d’OpenAI",
+          "link": "https://theconversation.com/lempreinte-carbone-astronomique-des-preuves-mathematiques-dopenai-294894",
+          "published": "2026-11-12T11:34:32+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’empreinte carbone de cette preuve mathématique, même si elle est difficile à estimer avec précision, est d’un ordre de grandeur considérable&nbsp;:",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "COP31 : les États peinent à freiner les émissions de leurs propres centrales électriques",
+          "link": "https://theconversation.com/cop31-les-etats-peinent-a-freiner-les-emissions-de-leurs-propres-centrales-electriques-296515",
+          "published": "2026-11-12T09:40:51+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors que la conférence des Nations unies sur le climat se tient en Turquie, une étude portant sur 134 pays montre que les centrales électriques déten",
+          "image": null,
           "other_news": true
         },
         {
@@ -814,6 +915,28 @@
           "type": "news",
           "language": "fr",
           "summary": "Depuis 2021, la plus mauvaise performance en matière de consommation d’énergie primaire et d’émissions de gaz à effet de serre définit la classe du di",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Climate change has different consequences for the health of women and men – but the systems tracking it don’t reflect that",
+          "link": "https://theconversation.com/climate-change-has-different-consequences-for-the-health-of-women-and-men-but-the-systems-tracking-it-dont-reflect-that-296199",
+          "published": "2026-11-12T11:50:02+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Only one of 45 global climate and health indicators that measure people says whether women or men are affected. The data to fix that mostly exists alr",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "BBC documentary takes eight children on a nature field trip to explore eco-anxiety",
+          "link": "https://theconversation.com/bbc-documentary-takes-eight-children-on-a-nature-field-trip-to-explore-eco-anxiety-296327",
+          "published": "2026-11-12T11:46:01+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Magical realism is a theme that runs through the film and through some environmental storytelling research.",
           "image": null,
           "other_news": true
         },
@@ -939,13 +1062,13 @@
           "other_news": true
         },
         {
-          "title": "Key Atlantic currents could collapse this century, but the risk is missing from almost all national climate plans – new study",
-          "link": "https://theconversation.com/key-atlantic-currents-could-collapse-this-century-but-the-risk-is-missing-from-almost-all-national-climate-plans-new-study-295234",
-          "published": "2026-10-28T16:14:24+00:00",
-          "source": "The Conversation UK",
+          "title": "Extreme weather risk is scaring big corporations away from poorer countries – that hurts the companies, too",
+          "link": "https://theconversation.com/extreme-weather-risk-is-scaring-big-corporations-away-from-poorer-countries-that-hurts-the-companies-too-295591",
+          "published": "2026-11-12T13:42:26+00:00",
+          "source": "The Conversation US",
           "type": "news",
           "language": "en",
-          "summary": "An Amoc collapse would&nbsp;dramatically alter the world’s climate – often in unexpected ways. Our new study shows how governments should prepare.",
+          "summary": "When floods, heat waves and other climate disasters cost companies money, the results can shape their willingness to invest there in the future.",
           "image": null,
           "other_news": true
         },
@@ -1034,28 +1157,6 @@
           "type": "news",
           "language": "en",
           "summary": "Voters have a lot of weighty issues on their minds, but that doesn’t mean they aren’t worried about climate change.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Americans are stressed about grocery prices, so why do they toss or overlook so much ‘misfit’ food?",
-          "link": "https://theconversation.com/americans-are-stressed-about-grocery-prices-so-why-do-they-toss-or-overlook-so-much-misfit-food-293526",
-          "published": "2026-10-13T12:20:03+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Quality, rather than discounts or environmental benefits, is what’s needed to encourage shoppers to consider odd-shaped produce.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Across the US, people don’t want data centers coming to their communities",
-          "link": "https://theconversation.com/across-the-us-people-dont-want-data-centers-coming-to-their-communities-291630",
-          "published": "2026-10-13T12:19:28+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Opposition to data centers is widespread across the US, uniting people despite other differences on political and environmental issues.",
           "image": null,
           "other_news": true
         },
@@ -1357,6 +1458,17 @@
           "other_news": true
         },
         {
+          "title": "« Toute politique climatique est contre le peuple » : comment l'extrême droite instrumentalise la « guerre contre la voiture »",
+          "link": "https://reporterre.net/La-guerre-contre-la-voiture-est-l-une-des-principales-paniques-morales-generees-par-l-extreme-droite",
+          "published": "2026-11-12T06:05:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le chercheur William Callison du Zetkin Collective analyse comment l'extrême droite a fait de l'écologie un ennemi existentiel p",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/lesvoitures-89d3c.jpg?1794463502",
+          "other_news": true
+        },
+        {
           "title": "Face aux puissances industrielles et autoritaires, la bataille du climat est-elle perdue ? Pas encore, assurent ces chercheurs",
           "link": "https://reporterre.net/Les-puissances-fossiles-defendent-leurs-interets-de-facon-beaucoup-plus-explicite-article",
           "published": "2026-11-11T06:00:00+00:00",
@@ -1409,6 +1521,28 @@
           "language": "fr",
           "summary": "Le journaliste Bruno Meyerfeld a remporté le 27 octobre le 88e prix Albert Londres pour ses reportages sur l'Amazonie publiés da",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/grasset_2_-d8187.jpg?1793860263",
+          "other_news": true
+        },
+        {
+          "title": "British salmon stripped of organic status by Soil Association",
+          "link": "https://oceanographicmagazine.com/news/british-salmon-stripped-of-organic-status-by-soil-association/",
+          "published": "2026-11-12T10:31:41+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The accreditation body said high mortality rates, low environmental standards and a lack of progress were the reason for the move\nThe post British sal",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Solar, wind and Iran conflict push fossil emissions down",
+          "link": "https://oceanographicmagazine.com/news/solar-wind-and-iran-conflict-push-fossil-emissions-down/",
+          "published": "2026-11-10T12:46:36+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Fossil CO2 emissions are set to fall 0.4% in 2026, driven by solar, wind and the Iran conflict, but total emissions rise and under four years of 1.5°C",
+          "image": null,
           "other_news": true
         },
         {
@@ -1533,6 +1667,17 @@
           "other_news": true
         },
         {
+          "title": "What Bill C-39’s loosened environmental regulations could mean for Canadians",
+          "link": "https://theconversation.com/what-bill-c-39s-loosened-environmental-regulations-could-mean-for-canadians-294851",
+          "published": "2026-11-12T14:34:34+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Under Bill C-39, Ottawa would be able to permit preliminary construction to begin, before environmental impact assessments are completed.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "‘Plenty of reasons for hope’: what 30 years of climate talks have achieved",
           "link": "https://theconversation.com/plenty-of-reasons-for-hope-what-30-years-of-climate-talks-have-achieved-296398",
           "published": "2026-11-12T03:43:58+00:00",
@@ -1577,25 +1722,14 @@
           "other_news": true
         },
         {
-          "title": "COP 31: what South Africa must do to deliver on its climate promises",
-          "link": "https://theconversation.com/cop-31-what-south-africa-must-do-to-deliver-on-its-climate-promises-294222",
-          "published": "2026-11-11T09:38:05+00:00",
-          "source": "The Conversation",
+          "title": "Communities around DRC’s Upemba National Park say conservation comes at a cost",
+          "link": "https://news.mongabay.com/2026/11/communities-around-drcs-upemba-national-park-say-conservation-comes-at-a-cost/",
+          "published": "2026-11-12T14:49:02+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "As COP31 approaches, South Africa must enforce its climate laws, reduce coal dependence and protect workers and communities who rely on coal to surviv",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Global carbon emissions may have peaked in 2026 – but only time will tell",
-          "link": "https://theconversation.com/global-carbon-emissions-may-have-peaked-in-2026-but-only-time-will-tell-296152",
-          "published": "2026-11-11T02:28:16+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "A new report suggests the world is burning fewer fossil fuels, potentially due to international conflicts and surging energy prices.",
-          "image": null,
+          "summary": "A forest can be many things to the communities that live in and around it. It can serve as farmland, a pharmacy, a food source or a cultural center. T",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/02/06124058/PHOTO-2025-05-21-15-28-27-768x512.jpg",
           "other_news": true
         },
         {

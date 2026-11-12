@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T15:16:52.018737+00:00",
+  "generated_at": "2026-11-12T16:00:59.928809+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -23,32 +23,6 @@
           "language": "en",
           "summary": "The European Union has for many years been a key player in international biodiversity negotiations, pushing hard for the world’s nations to protect 30",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11125104/1-feature-768x512.jpg",
-          "other_news": false
-        }
-      ],
-      "Species Migration & Habitat Change": [
-        {
-          "title": "East Africa’s migration story is not just about Europe – what policymakers get wrong",
-          "link": "https://theconversation.com/east-africas-migration-story-is-not-just-about-europe-what-policymakers-get-wrong-294918",
-          "published": "2026-11-11T13:19:43+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Stories about migration influence which problems governments prioritise.",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "Clean power shields China from oil shock more than any other country",
-          "link": "https://www.climatechangenews.com/2026/11/05/clean-power-shields-china-from-oil-shock-more-than-any-other-country/",
-          "published": "2026-11-05T01:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Rapid clean power growth and electrification have boosted China's energy resilience as well as its confidence in its energy policy pre-COP31, experts",
-          "image": null,
           "other_news": false
         }
       ],
@@ -399,6 +373,17 @@
           "other_news": false
         },
         {
+          "title": "Surveiller l’état de santé de poissons exposés à des agents chimiques et biologiques grâce à des outils moléculaires non invasifs",
+          "link": "https://theconversation.com/surveiller-letat-de-sante-de-poissons-exposes-a-des-agents-chimiques-et-biologiques-grace-a-des-outils-moleculaires-non-invasifs-295925",
+          "published": "2026-11-12T15:36:40+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Une approche non invasive se fonde sur l’étude de fragments d’ADN, contenus dans l’urine, le sang ou le mucus de poissons exposés à des contaminants d",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Imagine newsletter: the power of plankton",
           "link": "https://theconversation.com/imagine-newsletter-the-power-of-plankton-296012",
           "published": "2026-11-05T14:41:47+00:00",
@@ -428,28 +413,6 @@
           "type": "news",
           "language": "en",
           "summary": "The destructive 1982-83 El Niño, then the strongest on record, eroded cliffs, leaving homes hanging precariously over the edges. A coastal scientist e",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "‘Blue COP31’ set to spotlight need for ocean protections amid record heat",
-          "link": "https://www.climatechangenews.com/2026/11/06/blue-cop31-antalya-ocean-protections-record-heat-climate-finance/",
-          "published": "2026-11-06T17:16:31+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "A block of over 100 countries has pushed for a plan on ocean measures at COP31, as an extreme El Niño breaks temperature records at sea\nThe post &#821",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "India builds deep-sea capacity in bet on critical minerals future",
-          "link": "https://www.climatechangenews.com/2026/11/04/india-builds-deep-sea-capacity-in-bet-on-critical-minerals-future/",
-          "published": "2026-11-04T12:53:31+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Striving to keep up with regional competitors, India has built up its ocean mining capacity - despite a push by 46 countries and marine scientists for",
           "image": null,
           "other_news": false
         },
@@ -573,17 +536,6 @@
           "summary": "A recent Mongabay investigation by Elizabeth Claire Alberts and Andrés Alegría reveals that the Clarion-Clipperton Zone of the Pacific Ocean, a swath",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/07/08000613/960px-Psychropotes_longicauda_sur_nodules_polymetalliques-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "How did these shrines survive a tsunami?",
-          "link": "https://news.mongabay.com/short-article/2026/11/how-did-these-shrines-survive-a-tsunami/",
-          "published": "2026-11-10T09:02:55+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "When the 2011 tsunami devastated Japan’s coast, patches of forest were left standing amid the destruction. Many surrounded Shinto shrines, ancient chi",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/10090216/Mongabay_Thumbnail_Tsunami_Featured-338x512.jpg",
-          "other_news": false
         }
       ]
     },
@@ -600,32 +552,23 @@
           "image": "https://i.guim.co.uk/img/media/02e296e4df0fea6e4441d0acc9dc29f8ffe4bc87/0_797_1386_1108/master/1386.jpg?width=140&quality=85&auto=format&fit=max&s=fe97e33bfd39c0c24ea2d235bcbc2840",
           "other_news": false
         }
+      ],
+      "Other Marine News": [
+        {
+          "title": "Historic ocean liner sunk off the coast of Florida to become artificial reef – video",
+          "link": "https://www.theguardian.com/global/video/2026/nov/12/historic-ocean-liner-sunk-off-the-coast-of-florida-to-become-artificial-reef-video",
+          "published": "2026-11-12T15:45:09+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The historic SS United States ocean liner has marked the end of its journey at sea, as it was sunk off the coast of Florida to become the 'world's lar",
+          "image": "https://i.guim.co.uk/img/media/57e2ef9468fe2164b111342fd96abb875e35d8ae/570_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=86e579e49a8bb93c2b770c3a7f7e5193",
+          "other_news": false
+        }
       ]
     },
     "Other News": {
       "Plastic & Ocean Pollution": [
-        {
-          "title": "Türkiye pushes “zero waste” at COP31, but is it delivering at home?",
-          "link": "https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/",
-          "published": "2026-11-11T07:00:32+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Türkiye is hosting a Zero Waste Day at the UN climate summit, led by its First Lady, but its own waste generation keeps rising while plastic imports f",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The great disaster divide: How the super-rich are profiting from global climate suffering",
-          "link": "https://www.climatechangenews.com/2026/11/04/the-great-disaster-divide-how-the-super-rich-are-profiting-from-global-climate-suffering/",
-          "published": "2026-11-04T17:29:57+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "New research from Oxfam shows the wealthiest 0.1% are making money from the climate crisis their pollution has caused, while buying protection for the",
-          "image": null,
-          "other_news": true
-        },
         {
           "title": "Le bruit, une « source de stress omniprésent » pour la biodiversité",
           "link": "https://reporterre.net/Le-bruit-une-source-de-stress-omnipresent-pour-la-biodiversite",
@@ -706,28 +649,6 @@
           "other_news": true
         },
         {
-          "title": "COP17 delivers fragile deal to boost conservation and funding for nature",
-          "link": "https://www.climatechangenews.com/2026/10/31/cop17-delivers-fragile-deal-scaling-up-biodiversity-conservation-armenia-cbd/",
-          "published": "2026-10-31T11:50:27+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "After a two-week stalemate, countries agreed to invite wealthy emerging economies like China to assume donor status and help fund biodiversity protect",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Stalemate on finance at COP17 nature talks exposes need for new sources",
-          "link": "https://www.climatechangenews.com/2026/10/28/stalemate-finance-cop17-nature-un-exposes-need-new-sources-yerevan/",
-          "published": "2026-10-28T13:04:32+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "At talks in Yerevan, the EU has proposed expanding the list of nature donors so that large emerging economies like China can help fund biodiversity pr",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Black rhinos are mostly loners, but not always: why this matters for saving the species",
           "link": "https://theconversation.com/black-rhinos-are-mostly-loners-but-not-always-why-this-matters-for-saving-the-species-294251",
           "published": "2026-11-12T14:48:03+00:00",
@@ -747,6 +668,19 @@
           "language": "en",
           "summary": "YEREVAN, Armenia — Discussions were running much longer — and tenser — than they were supposed to during one of the last sessions of the 2026 U.N. bio",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/11/15143842/51873438083_6748c806ef_k-e1794432760721-768x512.jpg",
+          "other_news": true
+        }
+      ],
+      "Fisheries & Climate Change Ecosystem": [
+        {
+          "title": "UK appoints new climate security envoy – here’s what she could change",
+          "link": "https://theconversation.com/uk-appoints-new-climate-security-envoy-heres-what-she-could-change-296525",
+          "published": "2026-11-12T15:15:34+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The state of national food security will need to be a key focus.",
+          "image": null,
           "other_news": true
         }
       ],
@@ -904,17 +838,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Alors que les financements en faveur de la biodiversité diminuent, le choix des stratégies les plus efficaces au regard des objectifs recherchés est c",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Le prix des maisons reflète-t-il leurs émissions de gaz à effet de serre ? Ce que montre le nouveau calcul du DPE",
-          "link": "https://theconversation.com/le-prix-des-maisons-reflete-t-il-leurs-emissions-de-gaz-a-effet-de-serre-ce-que-montre-le-nouveau-calcul-du-dpe-292912",
-          "published": "2026-10-25T07:04:53+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Depuis 2021, la plus mauvaise performance en matière de consommation d’énergie primaire et d’émissions de gaz à effet de serre définit la classe du di",
           "image": null,
           "other_news": true
         },
@@ -1249,215 +1172,6 @@
           "other_news": true
         },
         {
-          "title": "COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in",
-          "link": "https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/",
-          "published": "2026-11-11T10:31:13+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Around 40 leaders, including Lula, Erdoğan and Albanese, addressed the summit in Antalya, where the UN chief proposed a \"climate justice compact\"\nThe",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Big fossil-fuel countries back Brazil-led transition roadmap",
-          "link": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/",
-          "published": "2026-11-10T17:26:10+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Some countries including Germany and the Netherlands call for the roadmaps to inform a key global review of climate progress in 2028\nThe post Big foss",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Developing countries face climate finance deficit as loan payments soar",
-          "link": "https://www.climatechangenews.com/2026/11/10/developing-countries-face-climate-finance-deficit-as-loan-repayments-soar/",
-          "published": "2026-11-10T05:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Repayments on climate loans could overtake new lending by 2036, according to CARE analysis shared exclusively with Climate Home News\nThe post Developi",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "COP31 Bulletin Day 1: Agenda settled as COP urged to “supercharge solutions”",
-          "link": "https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/",
-          "published": "2026-11-09T10:01:38+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "An agenda row is averted at the opening session, where the UN climate chief said strong results are needed from the talks to boost \"real-world outcome",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Nepal seeks stronger recognition of mountain issues in UN climate process",
-          "link": "https://www.climatechangenews.com/2026/11/06/nepal-seeks-stronger-recognition-of-mountain-issues-in-un-climate-process/",
-          "published": "2026-11-06T14:57:02+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Flood-hit Nepal wants COP31 to adopt a new agenda item formalising work on mountains and climate change and boosting the response to rising risks\nThe",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "European nations signal support for fossil fuel roadmap, says COP30 president",
-          "link": "https://www.climatechangenews.com/2026/11/06/european-nations-uk-fossil-fuel-roadmaps-brazil-cop30-president/",
-          "published": "2026-11-06T12:44:50+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "André Corrêa do Lago told Climate Home News that it's up to other nations to decide how the fossil fuel and deforestation roadmaps are used\nThe post E",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Turkey must make COP31 a turning point for global climate action",
-          "link": "https://www.climatechangenews.com/2026/11/05/turkey-must-make-cop31-a-turning-point-for-global-climate-action/",
-          "published": "2026-11-05T17:25:01+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Turkey, which bridges developed and developing economies, is well placed to build consensus and partnerships at the Antalya summit - but it can set a",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "COP31 Briefing: What to expect from the Antalya climate summit?",
-          "link": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
-          "published": "2026-11-05T14:09:45+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Electrification, the fossil fuel transition, adaptation to rising impacts, climate science and trade are key themes as governments gather for COP31 in",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "COP31 must deliver finance for Africa or there will be no implementation",
-          "link": "https://www.climatechangenews.com/2026/11/04/cop31-must-deliver-finance-for-africa-or-there-will-be-no-implementation/",
-          "published": "2026-11-04T15:46:23+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Without real progress in Antalya on finance for adaptation and energy transition, next year's Africa-hosted COP will inherit the same unmet promises\nT",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Brazil’s fossil fuel roadmap sketches out first global timetable",
-          "link": "https://www.climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable/",
-          "published": "2026-11-03T18:37:22+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The COP30 presidency’s voluntary timetable asks countries to plan first, then build up clean energy - only turning to oil and gas supplies from 2031\nT",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "What’s on the climate calendar for November 2026?",
-          "link": "https://www.climatechangenews.com/2026/11/02/whats-on-the-climate-calendar-for-november-2026/",
-          "published": "2026-11-02T23:57:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "After the US midterms and the launch of the COP30 roadmaps, the climate world's attention turns to Antalya for COP31\nThe post What’s on the climate ca",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Editor’s Desk: COP reform is happening quietly, behind the headlines",
-          "link": "https://www.climatechangenews.com/2026/10/29/editors-desk-cop-reform-is-happening-quietly-behind-the-headlines/",
-          "published": "2026-10-29T17:51:12+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "It may seem like little has changed in how the UN climate summits are run, but there's been a gradual shift as action becomes as important as negotiat",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "From Australia to Chile, our cities are driving a green investment boom",
-          "link": "https://www.climatechangenews.com/2026/10/29/from-australia-to-chile-our-cities-are-driving-a-green-investment-boom/",
-          "published": "2026-10-29T08:43:50+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities fo",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Africa wants adaptation finance on COP31 agenda, raising risk of a fight",
-          "link": "https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/",
-          "published": "2026-10-28T15:57:17+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The African Group wants dedicated space on tripling adaptation finance, the Green Climate Fund and trade, setting up a possible clash\nThe post Africa",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Why COP31 needs to start talking about just transition finance",
-          "link": "https://www.climatechangenews.com/2026/10/28/why-cop31-needs-to-start-talking-about-just-transition-finance/",
-          "published": "2026-10-28T10:56:06+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Funding that helps workers and communities navigate the clean energy switch remains overlooked, splintered and poorly tracked - a blindspot that could",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "National climate plans now promise half the emission cuts expected by UN",
-          "link": "https://www.climatechangenews.com/2026/10/27/national-climate-plans-now-promise-half-the-emission-cuts-expected-by-un/",
-          "published": "2026-10-27T13:51:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The US exit from the Paris Agreement and weak new pledges leave 2035 emissions just 6% below 2019 levels, against 12% projected last year\nThe post Nat",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "African governments strengthen waste rules as solar and battery use surges",
-          "link": "https://www.climatechangenews.com/2026/10/26/african-governments-strengthen-waste-rules-as-solar-and-battery-use-surges/",
-          "published": "2026-10-26T16:43:07+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "With solar panels, batteries and inverters spreading, officials want to bolster weak recycling systems to protect the environment and reuse key materi",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Early speakers’ list suggests few powerful leaders will attend COP31",
-          "link": "https://www.climatechangenews.com/2026/10/23/early-speakers-list-suggests-few-powerful-leaders-will-attend-cop31/",
-          "published": "2026-10-23T11:32:34+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Just 77 heads of state or government are scheduled to address the COP31 climate summit in Antalya, a third less than the COP28 peak\nThe post Early spe",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Coal in a green mask: Indonesia’s co-firing plan will harm, not help, the climate",
-          "link": "https://www.climatechangenews.com/2026/10/23/coal-in-a-green-mask-indonesias-co-firing-plan-will-harm-not-help-the-climate/",
-          "published": "2026-10-23T00:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Indonesia's plan to mix in a little wood will give coal-fired power plants an excuse to  operate for longer and raise deforestation pressures\nThe post",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "« Toute politique climatique est contre le peuple » : comment l'extrême droite instrumentalise la « guerre contre la voiture »",
           "link": "https://reporterre.net/La-guerre-contre-la-voiture-est-l-une-des-principales-paniques-morales-generees-par-l-extreme-droite",
           "published": "2026-11-12T06:05:00+00:00",
@@ -1719,6 +1433,17 @@
           "language": "en",
           "summary": "As president of COP31 negotiations, Australia has the opportunity to rally more backing for climate finance for those on the frontline.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Taiwan’s tea growers adapt to climate change by letting nature take control",
+          "link": "https://news.mongabay.com/short-article/2026/11/taiwans-tea-growers-adapt-to-climate-change-by-letting-nature-take-control/",
+          "published": "2026-11-12T15:13:38+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In the high-altitude Alishan mountain region of central Taiwan, tea growers cultivating prized oolong tea face mounting environmental crises: Between",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/23160012/Lin-Kuang-li-2-768x512.jpg",
           "other_news": true
         },
         {

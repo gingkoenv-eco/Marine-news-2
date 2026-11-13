@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:36:07.442308+00:00",
+  "generated_at": "2026-11-13T15:27:56.814107+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -235,17 +235,6 @@
           "summary": "United States ocean waters are home to diverse species of fish that feed families, anchor economies and draw millions of recreational anglers to the c",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "Cambodia’s mangrove forests offer vital refuge for threatened wildlife, 7-year study finds",
-          "link": "https://news.mongabay.com/short-article/2026/11/cambodias-mangrove-forests-offer-vital-refuge-for-threatened-wildlife-7-year-study-finds/",
-          "published": "2026-11-11T06:48:25+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Cambodia’s mangrove forests and the wetlands associated with them provide critical refuge for several threatened and elusive species, including fishin",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/07/30070112/Fishing-cat-cam-PKWS-2017_1-768x512.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -315,7 +304,7 @@
       ],
       "Other Marine News": [
         {
-          "title": "A super El Niño brings life and death to the California coast: ‘like nothing we’ve ever seen’",
+          "title": "A super El Niño brings startling changes for marine life on California coast: ‘like nothing we’ve ever seen’",
           "link": "https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay",
           "published": "2026-11-13T12:00:19+00:00",
           "source": "The Guardian Ocean & Marine",
@@ -554,6 +543,28 @@
           "language": "en",
           "summary": "With waters rising fastest along the south and west, researchers warn Ireland's coastal defences need to be updated.\nThe post Landmark 100-year study",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "La Cour suprême norvégienne invalide trois licences pétrolières en mer du Nord, un « jugement historique »",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/13/la-cour-supreme-norvegienne-invalide-trois-licences-petrolieres-en-mer-du-nord-un-jugement-historique_6809339_3244.html",
+          "published": "2026-11-13T16:10:46+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Si elle n’a pas d’effet immédiat sur la production, la décision de la plus haute instance de justice à Oslo contraint l’Etat à calculer les émissions",
+          "image": "https://img.lemde.fr/2026/11/13/385/0/8438/4219/644/322/60/0/3492f83_upload-1-74sasl4j3xqc-000-d7d36t3.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Du Moyen-Orient à l’Asie, la grande course au stockage du pétrole",
+          "link": "https://www.lemonde.fr/economie/article/2026/11/13/du-moyen-orient-en-asie-la-grande-course-au-stockage-du-petrole_6809338_3234.html",
+          "published": "2026-11-13T16:00:06+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La crise du détroit d’Ormuz pousse les producteurs du Golfe et les importateurs asiatiques à créer de nouvelles capacités de réserve pour mieux surmon",
+          "image": "https://img.lemde.fr/2026/11/12/706/0/7557/3778/644/322/60/0/86c4ba9_upload-1-xvew5bilznyg-2026-03-24t144136z-750821153-rc2wakax5lig-rtrmadp-3-iran-crisis-fuel-singapore.JPG",
           "other_news": false
         },
         {
@@ -883,6 +894,17 @@
           "other_news": true
         },
         {
+          "title": "Climate action discussed at youth COP meeting",
+          "link": "https://www.bbc.co.uk/news/articles/ckx28ly7y387o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-13T14:39:06+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "School children gather to discuss climate issues to coincide with the COP31 conference in Turkey.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1707/live/28a9afe0-df6b-11f1-9892-87464bbcc2b8.png",
+          "other_news": true
+        },
+        {
           "title": "BBC Inside Science",
           "link": "https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-12T21:00:00+00:00",
@@ -945,6 +967,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Alors que les financements en faveur de la biodiversité diminuent, le choix des stratégies les plus efficaces au regard des objectifs recherchés est c",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "In a world of anti-environment backlash, Andy Burnham walks a line between popular and green",
+          "link": "https://theconversation.com/in-a-world-of-anti-environment-backlash-andy-burnham-walks-a-line-between-popular-and-green-296538",
+          "published": "2026-11-13T15:07:46+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Andy Burnham’s consumer focus might cut fossil fuel use in the long-term, if policies force prices of climate friendly options down.",
           "image": null,
           "other_news": true
         },
@@ -1088,6 +1121,17 @@
           "type": "news",
           "language": "en",
           "summary": "UK clean energy jobs are expected to double by 2030.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "To get Americans to care about climate change, just call it climate change",
+          "link": "https://theconversation.com/to-get-americans-to-care-about-climate-change-just-call-it-climate-change-296481",
+          "published": "2026-11-13T15:05:35+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "Phrases like ‘climate crisis,’ ‘climate emergency’ or ‘climate justice’ used at COP31 might seem to escalate urgency, but a large survey shows they do",
           "image": null,
           "other_news": true
         },
@@ -1587,6 +1631,17 @@
           "other_news": true
         },
         {
+          "title": "Plus de 120 jets ont atterri à Antalya : pour se rendre à la COP31 sur le climat, l’avion privé est toujours roi",
+          "link": "https://vert.eco/climat/plus-de-120-jets-ont-atterri-a-antalya-pour-se-rendre-a-la-cop31-sur-le-climat-lavion-prive-est-toujours-roi/",
+          "published": "2026-11-13T14:35:19+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Depuis le début du sommet mondial pour le climat (COP31) qui a débuté lundi à Antalya, en Turquie, plus de 120 jets privés ont atterri à l’aéroport de",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "En République démocratique du Congo, l’industrie minière détruit la forêt pour la transition énergétique des pays riches",
           "link": "https://vert.eco/biodiversite/en-republique-democratique-du-congo-lindustrie-miniere-detruit-la-foret-pour-la-transition-energetique-des-pays-riches/",
           "published": "2026-11-11T10:00:00+00:00",
@@ -1616,17 +1671,6 @@
           "type": "news",
           "language": "fr",
           "summary": "En contradiction avec ses propres «principes climatiques», TotalEnergies finance une vingtaine de lobbies à travers le monde qui freinent les efforts",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "On a lu le chapitre sur l’écologie du dernier livre de Jordan Bardella : un pamphlet contre «le retour à l’âge de pierre» en guise de programme",
-          "link": "https://vert.eco/chaleurs-actuelles/dans-gouverner-jordan-bardella-se-dit-pret-a-relever-le-defi-environnemental-sans-sattarder-sur-les-mesures-a-prendre/",
-          "published": "2026-11-10T05:00:00+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Vert a lu pour vous le troisième livre du président du Rassemblement national. S’il ne conteste pas la réalité du changement climatique, l’eurodéputé",
           "image": null,
           "other_news": true
         },

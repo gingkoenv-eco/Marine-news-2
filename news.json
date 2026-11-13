@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-11-13T15:27:56.814107+00:00",
+  "generated_at": "2026-11-13T19:40:56.247209+00:00",
   "categories": {
     "Politics & Policy": {
+      "Plastic & Ocean Pollution": [
+        {
+          "title": "How Far Does a Plastic Bottle Really Travel in a Year?",
+          "link": "https://oceanconservancy.org/blog/2026/11/13/plastic-bottle-travel/",
+          "published": "2026-11-13T17:15:27+00:00",
+          "source": "Ocean Conservancy",
+          "type": "news",
+          "language": "en",
+          "summary": "If you&#8217;ve ever joined a beach cleanup, you&#8217;ve almost certainly picked up a plastic bottle. During Ocean Conservancy’s 2025 International C",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Marine Biodiversity & Conservation": [
         {
           "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
@@ -12,6 +25,17 @@
           "language": "en",
           "summary": "Exclusive: EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whalesFollow our Australian politics live blog for latest updatesS",
           "image": "https://i.guim.co.uk/img/media/37e026264024c8b969ae4fa3d8d8601720087a90/625_0_6628_5304/master/6628.jpg?width=140&quality=85&auto=format&fit=max&s=6bb71c939b4be55c1dde8f059a0c009b",
+          "other_news": false
+        },
+        {
+          "title": "Mongabay shark meat investigation shortlisted for two journalism awards in Brazil",
+          "link": "https://news.mongabay.com/short-article/2026/11/mongabay-shark-meat-investigation-shortlisted-for-two-journalism-awards-in-brazil/",
+          "published": "2026-11-13T16:17:16+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A Mongabay investigation that revealed large-scale government purchases of shark meat for schools, hospitals, prisons and other public institutions in",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/07/29085517/shark-meat-at-store-768x512-1.jpg",
           "other_news": false
         },
         {
@@ -224,30 +248,6 @@
           "summary": "For generations, stories of people being swallowed by enormous sea creatures have painted awe-inspiring tales of human survival and perseverance. From",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "What Can We Learn From 50 Years of Fishery Management?",
-          "link": "https://oceanconservancy.org/blog/2026/10/14/50-years-fishery-management/",
-          "published": "2026-10-14T19:00:55+00:00",
-          "source": "Ocean Conservancy",
-          "type": "news",
-          "language": "en",
-          "summary": "United States ocean waters are home to diverse species of fish that feed families, anchor economies and draw millions of recreational anglers to the c",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Sustainable Fisheries": [
-        {
-          "title": "US brand StarKist suspends tuna sourcing from vessels accused of exploiting Indonesian fishers",
-          "link": "https://news.mongabay.com/2026/11/us-brand-starkist-suspends-tuna-sourcing-from-vessels-accused-of-exploiting-indonesian-fishers/",
-          "published": "2026-11-11T12:39:25+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "U.S. tuna brand StarKist has announced a halt on purchases from fishing vessels linked to forced labor practices in a recent report. It also says it h",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11101724/49449442138_68e63d7eff_o-768x512.jpg",
-          "other_news": false
         }
       ],
       "Blue Carbon & Carbon Cycling": [
@@ -436,6 +436,17 @@
           "other_news": false
         },
         {
+          "title": "Oceans and forests have absorbed roughly half our carbon emissions for decades, slowing climate change – but can they keep it up?",
+          "link": "https://theconversation.com/oceans-and-forests-have-absorbed-roughly-half-our-carbon-emissions-for-decades-slowing-climate-change-but-can-they-keep-it-up-296498",
+          "published": "2026-11-13T17:43:23+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "A method for measuring the world’s crucial carbon sinks finds that the ocean’s so-far-increasing ability to help might taper off in the future.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "El Niño is threatening California’s fragile coast again – the 1982-83 El Niño opened eyes to the serious erosion risks",
           "link": "https://theconversation.com/el-nino-is-threatening-californias-fragile-coast-again-the-1982-83-el-nino-opened-eyes-to-the-serious-erosion-risks-293298",
           "published": "2026-10-21T12:47:33+00:00",
@@ -548,7 +559,7 @@
         {
           "title": "La Cour suprême norvégienne invalide trois licences pétrolières en mer du Nord, un « jugement historique »",
           "link": "https://www.lemonde.fr/planete/article/2026/11/13/la-cour-supreme-norvegienne-invalide-trois-licences-petrolieres-en-mer-du-nord-un-jugement-historique_6809339_3244.html",
-          "published": "2026-11-13T16:10:46+01:00",
+          "published": "2026-11-13T16:10:43+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -587,6 +598,17 @@
           "language": "fr",
           "summary": "Entre Villers-sur-Mer et Houlgate, les falaises des Vaches noires recèlent de nombreux fossiles qui se déposent sur la plage. Mais la création d’une r",
           "image": "https://img.lemde.fr/2026/11/10/195/0/2006/1003/644/322/60/0/4548b08_upload-1-qrx8f3t9bfp9-img-20260331-wa0027rec.jpg",
+          "other_news": false
+        },
+        {
+          "title": "The Microsoft outage is an urgent wake-up call for greater digital resilience",
+          "link": "https://theconversation.com/the-microsoft-outage-is-an-urgent-wake-up-call-for-greater-digital-resilience-296610",
+          "published": "2026-11-13T17:15:05+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The infrastructure of the internet is more fragile than we’d like it to be.",
+          "image": null,
           "other_news": false
         },
         {
@@ -1738,6 +1760,28 @@
           "language": "en",
           "summary": "For the first time, Australia’s climate change data will distinguish between men and women. This is long overdue.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Honduras declares ‘environmental emergency’ in Río Plátano Biosphere Reserve",
+          "link": "https://news.mongabay.com/short-article/2026/11/honduras-declares-environmental-emergency-in-rio-platano-biosphere-reserve/",
+          "published": "2026-11-13T18:42:57+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Deforestation, organized crime and the expansion of cattle ranching have led the government in Honduras to announce an “environmental emergency” in th",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/13183647/AP17144742705747-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "There’s no substitute for getting out of the classroom and into nature (analysis)",
+          "link": "https://news.mongabay.com/2026/11/theres-no-substitute-for-getting-out-of-the-classroom-and-into-nature-analysis/",
+          "published": "2026-11-13T16:56:05+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Leading a group of ecology students down a trail through the forest behind Merrimack College, in North Andover, Massachusetts, U.S., where I teach bio",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/13161326/Harvard-University-Costa-Rica-herpetology-course-tripMarch-2008-011-768x512.jpg",
           "other_news": true
         },
         {

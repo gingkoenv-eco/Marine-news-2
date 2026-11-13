@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T06:01:37.422254+00:00",
+  "generated_at": "2026-11-13T14:36:07.442308+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -215,28 +215,6 @@
           "other_news": false
         },
         {
-          "title": "Warming seas are rewiring the Channel’s food web, spelling trouble for fish stocks, seabirds and marine mammals",
-          "link": "https://oceanographicmagazine.com/news/warming-seas-are-rewiring-the-channels-food-web-spelling-trouble-for-fish-stocks-seabirds-and-marine-mammals/",
-          "published": "2026-11-04T16:35:52+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Changing ocean chemistry is helping smaller plankton thrive while bigger species decline, a 35-year study off Plymouth has revealed\nThe post Warming s",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "ClientEarth takes Spain to court over whale and dolphin bycatch",
-          "link": "https://oceanographicmagazine.com/news/client-earth-takes-spain-to-court-over-whale-and-dolphin-bycatch/",
-          "published": "2026-11-04T16:32:57+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Legal action seeks effective monitoring and mitigation measures to stop the incidental deaths of cetaceans in Spanish Atlantic waters, where at least",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Could You Really Be Swallowed by a Whale?",
           "link": "https://oceanconservancy.org/blog/2026/10/16/swallowed-by-a-whale/",
           "published": "2026-10-16T20:25:30+00:00",
@@ -267,17 +245,6 @@
           "language": "en",
           "summary": "Cambodia’s mangrove forests and the wetlands associated with them provide critical refuge for several threatened and elusive species, including fishin",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/07/30070112/Fishing-cat-cam-PKWS-2017_1-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Rising seas could reshape habitats for more than 40% of world’s land vertebrates",
-          "link": "https://news.mongabay.com/2026/11/rising-seas-could-reshape-habitats-for-more-than-40-of-worlds-land-vertebrates/",
-          "published": "2026-11-11T02:01:22+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Sea level rise driven by climate change could see more than 42% of terrestrial land vertebrates lose parts of their habitats to the ocean by the end o",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/10150256/Proboscis-monkey_RhettAB-768x512.jpg",
           "other_news": false
         }
       ],
@@ -333,7 +300,31 @@
           "other_news": false
         }
       ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Young turtles find refuge in both natural and artificial wetlands in UAE – new study",
+          "link": "https://theconversation.com/young-turtles-find-refuge-in-both-natural-and-artificial-wetlands-in-uae-new-study-295707",
+          "published": "2026-11-13T10:16:11+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "A large basin was never used for its intended recreational purposes and has since been incorporated into a marine protected area alongside coastal man",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Other Marine News": [
+        {
+          "title": "A super El Niño brings life and death to the California coast: ‘like nothing we’ve ever seen’",
+          "link": "https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay",
+          "published": "2026-11-13T12:00:19+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Water temperatures are climbing the charts, high tides are swallowing the shoreline and vital parts of the food web that feed ocean diversity are disa",
+          "image": "https://i.guim.co.uk/img/media/4c83e9108430ac54db7734e9eb8276e8a668f6d8/980_691_3466_2773/master/3466.jpg?width=140&quality=85&auto=format&fit=max&s=82a02550e0e4b45cb1928d583a188ded",
+          "other_news": false
+        },
         {
           "title": "Historic US ocean liner sinks near Florida to become world’s largest artificial reef",
           "link": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
@@ -500,6 +491,50 @@
           "other_news": false
         },
         {
+          "title": "Nucléaire : EDF voudrait relever les limites de température des fleuves, et tant pis pour les poissons",
+          "link": "https://reporterre.net/Nucleaire-EDF-voudrait-relever-les-limites-de-temperature-des-fleuves-et-tant-pis-pour-les-poissons",
+          "published": "2026-11-13T13:26:03+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les canicules ayant plombé sa production, l'opérateur veut assouplir les normes sur les eaux qui refroidissent ses centrales. Ma",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20220220__hl_jffort_1668464__v1__highres__franceattheedgeoftheriverviennethenuc-83191.jpg?1794576371",
+          "other_news": false
+        },
+        {
+          "title": "Tiny animals found living inside deep-sea nodules as US weighs first commercial mining permit",
+          "link": "https://oceanographicmagazine.com/news/tiny-animals-found-living-inside-deep-sea-nodules-as-us-weighs-first-commercial-mining-permit/",
+          "published": "2026-11-13T12:19:42+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The study reveals unique communities in polymetallic seabed rocks that take millions of years to form – and are being eyed for commercial mining \nThe",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Remote Pacific atoll survey reveals our ‘most intact ecosystems’",
+          "link": "https://oceanographicmagazine.com/news/remote-pacific-atoll-survey-reveals-our-most-intact-ecosystems/",
+          "published": "2026-11-13T10:11:45+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Surveys of Bikar and Bokak atolls in the Marshall Islands reveal seabird colonies, nesting turtles and rich reefs, offering a rare baseline for some o",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Ocean risks are a ‘dangerous blind spot’ for the global economy",
+          "link": "https://oceanographicmagazine.com/news/ocean-risks-are-a-dangerous-blind-spot-for-the-global-economy/",
+          "published": "2026-11-13T09:44:20+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Actuaries, the University of Exeter and The Ocean Race warn that ocean degradation could cascade through food, trade, insurance and pensions, urging l",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Clownfish turn frown-fish when their anemone partners bleach",
           "link": "https://oceanographicmagazine.com/news/clownfish-turn-frown-fish-when-their-anemone-partners-bleach/",
           "published": "2026-11-11T10:20:09+00:00",
@@ -518,17 +553,6 @@
           "type": "news",
           "language": "en",
           "summary": "With waters rising fastest along the south and west, researchers warn Ireland's coastal defences need to be updated.\nThe post Landmark 100-year study",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "New York Harbour becomes classroom for thousands of students",
-          "link": "https://oceanographicmagazine.com/news/new-york-harbour-becomes-classroom-for-thousands-of-students/",
-          "published": "2026-11-05T16:40:23+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "NYC Ferry vessels will be turned into science classrooms under a new partnership with Billion Oyster Project, aiming to bring more than 10,000 public",
           "image": null,
           "other_news": false
         },
@@ -684,17 +708,6 @@
           "summary": "Pour l'ensemble du vivant, la pollution sonore représente une menace globale. C'est le message, peu surprenant mais inquiétant,",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH473/sturnus_vulgaris_2__marek_szczepanek_-fc828.jpg?1793905200",
           "other_news": true
-        },
-        {
-          "title": "En Corrèze, une condamnation « historique » d’un syndicat de distribution d’eau pour pollution au CVM, un gaz cancérogène",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/10/en-correze-une-condamnation-historique-d-un-syndicat-de-distribution-d-eau-pour-pollution-au-cvm-un-gaz-cancerogene_6808884_3244.html",
-          "published": "2026-11-10T18:25:53+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "A la fin de septembre, le tribunal judiciaire de Tulle a condamné le syndicat à verser 2 000 euros à une usagère, exposée à ce gaz incolore et inodore",
-          "image": "https://img.lemde.fr/2026/06/04/226/0/2712/1356/644/322/60/0/c15ace2_upload-1-cdjljx5ip6c6-frame-1135.jpg",
-          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -707,6 +720,17 @@
           "language": "en",
           "summary": "In 2022, I helped push through the international agreement to protect biodiversity. I know there is always a reason to stall, but ministers at Cop17 m",
           "image": "https://i.guim.co.uk/img/media/106b96be9a0dbcdf3cb19c187ca4e2b68dbc2ed7/0_0_1616_1293/master/1616.jpg?width=140&quality=85&auto=format&fit=max&s=673169024f5606b33d32d33eacededb9",
+          "other_news": true
+        },
+        {
+          "title": "National Trust takes back land for nature restoration",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-13T07:04:09+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The trust hopes to restore the site, create new wildlife habitats and improve access to green space.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b9/live/2f5ae2d0-ddc4-11f1-a50f-85eebf9e50e5.jpg",
           "other_news": true
         },
         {
@@ -761,17 +785,6 @@
           "type": "news",
           "language": "en",
           "summary": "At talks in Yerevan, the EU has proposed expanding the list of nature donors so that large emerging economies like China can help fund biodiversity pr",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Black rhinos are mostly loners, but not always: why this matters for saving the species",
-          "link": "https://theconversation.com/black-rhinos-are-mostly-loners-but-not-always-why-this-matters-for-saving-the-species-294251",
-          "published": "2026-11-12T14:48:03+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Understanding how to avoid aggression between animals is important when moving them for conservation purposes.",
           "image": null,
           "other_news": true
         },
@@ -870,24 +883,13 @@
           "other_news": true
         },
         {
-          "title": "Scientists predict 2026 hottest year on record as climate talks begin",
-          "link": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-09T07:30:12+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d7/live/1adcf6d0-db63-11f1-adda-c54f54e3ce6a.jpg",
-          "other_news": true
-        },
-        {
           "title": "BBC Inside Science",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-29T21:00:00+00:00",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-12T21:00:00+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Time is running out for one of the most ambitious environmental pledges in history.",
+          "summary": "China: climate saviour or global villain?",
           "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
           "other_news": true
         },
@@ -943,6 +945,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Alors que les financements en faveur de la biodiversité diminuent, le choix des stratégies les plus efficaces au regard des objectifs recherchés est c",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Could you survive without Microsoft? Inside the costs of digital dependence",
+          "link": "https://theconversation.com/could-you-survive-without-microsoft-inside-the-costs-of-digital-dependence-296614",
+          "published": "2026-11-13T12:09:36+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Digital choices have huge environmental costs but these are rarely counted up.",
           "image": null,
           "other_news": true
         },
@@ -1075,17 +1088,6 @@
           "type": "news",
           "language": "en",
           "summary": "UK clean energy jobs are expected to double by 2030.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Massive sinkholes open up across Turkey as it struggles with drought and climate change",
-          "link": "https://theconversation.com/massive-sinkholes-open-up-across-turkey-as-it-struggles-with-drought-and-climate-change-295123",
-          "published": "2026-10-30T13:13:12+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "As Turkey prepares to host Cop31, the massive global conference on environmental issues, it is also being confronted with a dangerous sinkhole problem",
           "image": null,
           "other_news": true
         },
@@ -1277,6 +1279,17 @@
           "other_news": true
         },
         {
+          "title": "Nepal’s climate suffering should pave the way for a safe and fair future",
+          "link": "https://www.climatechangenews.com/2026/11/13/nepals-climate-suffering-must-pave-the-way-for-a-safe-and-fair-future/",
+          "published": "2026-11-13T12:33:06+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Young people in Nepal are seeking international solidarity from COP31 to help our nation tackle the worsening climate disasters knocking at all of our",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "We must strengthen trade cooperation to deliver on global climate goals",
           "link": "https://www.climatechangenews.com/2026/11/13/we-must-strengthen-trade-cooperation-to-deliver-on-global-climate-goals/",
           "published": "2026-11-13T04:00:00+00:00",
@@ -1453,14 +1466,14 @@
           "other_news": true
         },
         {
-          "title": "National climate plans now promise half the emission cuts expected by UN",
-          "link": "https://www.climatechangenews.com/2026/10/27/national-climate-plans-now-promise-half-the-emission-cuts-expected-by-un/",
-          "published": "2026-10-27T13:51:00+00:00",
-          "source": "Climate change news",
+          "title": "Chasse : une plainte contre X déposée après les révélations de Reporterre",
+          "link": "https://reporterre.net/Chasse-une-plainte-contre-X-deposee-apres-les-revelations-de-Reporterre",
+          "published": "2026-11-13T10:45:33+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "The US exit from the Paris Agreement and weak new pledges leave 2035 emissions just 6% below 2019 levels, against 12% projected last year\nThe post Nat",
-          "image": null,
+          "language": "fr",
+          "summary": "L'association AC !! Anticorruption a déposé le 5 novembre une plainte contre X pour des infractions à la réglementation des rése",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20220918__32jm4h9__v1__highres__francehuntinganimal_1_-ecb07.jpg?1794566738",
           "other_news": true
         },
         {
@@ -1508,17 +1521,6 @@
           "other_news": true
         },
         {
-          "title": "« L'Amazonie est une zone en guerre, la guerre du climat »",
-          "link": "https://reporterre.net/Bruno-Meyerfeld-prix-Albert-Londres-L-Amazonie-est-une-zone-en-guerre-la-guerre-du-climat",
-          "published": "2026-11-05T06:31:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le journaliste Bruno Meyerfeld a remporté le 27 octobre le 88e prix Albert Londres pour ses reportages sur l'Amazonie publiés da",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/grasset_2_-d8187.jpg?1793860263",
-          "other_news": true
-        },
-        {
           "title": "British salmon stripped of organic status by Soil Association",
           "link": "https://oceanographicmagazine.com/news/british-salmon-stripped-of-organic-status-by-soil-association/",
           "published": "2026-11-12T10:31:41+00:00",
@@ -1543,7 +1545,7 @@
         {
           "title": "La défaite de Trump va-t-elle changer quelque chose pour le climat ?",
           "link": "https://www.lemonde.fr/planete/article/2026/11/13/la-defaite-de-trump-va-t-elle-changer-quelque-chose-pour-le-climat_6809283_3244.html",
-          "published": "2026-11-13T06:30:09+01:00",
+          "published": "2026-11-13T06:30:07+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1552,9 +1554,9 @@
           "other_news": true
         },
         {
-          "title": "En Turquie, une petite radio associative offre une rare fenêtre sur l’écologie sous le régime d’Erdogan",
+          "title": "« Bonjour à toi l’Univers ! » : plongée dans la petite radio turque qui fait vivre l’écologie sous le régime d’Erdogan",
           "link": "https://www.lemonde.fr/planete/article/2026/11/13/en-turquie-une-petite-radio-associative-offre-une-rare-fenetre-sur-l-ecologie-sous-le-regime-d-erdogan_6809268_3244.html",
-          "published": "2026-11-13T05:00:34+01:00",
+          "published": "2026-11-13T05:00:18+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1582,17 +1584,6 @@
           "language": "fr",
           "summary": "Le chef de l’ONU a exhorté les responsables réunis pour parler du climat à éliminer les énergies fossiles et à mettre de côté leurs différends, de man",
           "image": "https://img.lemde.fr/2026/11/11/0/0/2146/1073/644/322/60/0/32dfe9e_ftp-1-gwknyncg9g55-17b3cc977d1343688c011deb89568e7d-0-5eeefc433aa2401e9d61eca1f06c020a.jpg",
-          "other_news": true
-        },
-        {
-          "title": "COP31 : pourquoi l’électrification est au cœur des discussions de la conférence sur le climat",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/10/cop31-pourquoi-l-electrification-est-au-c-ur-des-discussions-de-la-conference-sur-le-climat_6808886_3244.html",
-          "published": "2026-11-10T18:30:01+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La Turquie et l’Australie, qui partagent la présidence de la conférence mondiale qui a démarré lundi à Antalya, veulent rallier le plus grand nombre d",
-          "image": "https://img.lemde.fr/2026/10/26/748/0/5500/2750/644/322/60/0/d10f73f_ftp-1-rcxcjvjtli2r-2026-10-26t131128z-1314782666-rc2m7oa0odb2-rtrmadp-3-slovakia-nuclear.JPG",
           "other_news": true
         },
         {
@@ -1636,6 +1627,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Vert a lu pour vous le troisième livre du président du Rassemblement national. S’il ne conteste pas la réalité du changement climatique, l’eurodéputé",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "South African vineyards are showing how conservation and farming can thrive together",
+          "link": "https://theconversation.com/south-african-vineyards-are-showing-how-conservation-and-farming-can-thrive-together-290543",
+          "published": "2026-11-13T13:36:40+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Under pressure from a changing climate, vineyards are finding natural ways to fortify their soil and protect water supplies, showing conservation and",
           "image": null,
           "other_news": true
         },
@@ -1695,14 +1697,25 @@
           "other_news": true
         },
         {
-          "title": "What Bill C-39’s loosened environmental regulations could mean for Canadians",
-          "link": "https://theconversation.com/what-bill-c-39s-loosened-environmental-regulations-could-mean-for-canadians-294851",
-          "published": "2026-11-12T14:34:34+00:00",
-          "source": "The Conversation",
+          "title": "El Niño drove drought, but climate change intensified Indonesia’s fire crisis: Study",
+          "link": "https://news.mongabay.com/short-article/2026/11/el-nino-drove-drought-but-climate-change-intensified-indonesias-fire-crisis-study/",
+          "published": "2026-11-13T14:30:40+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Under Bill C-39, Ottawa would be able to permit preliminary construction to begin, before environmental impact assessments are completed.",
-          "image": null,
+          "summary": "Human-caused climate change significantly amplified extreme heat during Indonesia’s 2026 fire season, turning an El Niño-driven drought into a severe",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/13143010/Indonesia_Wildfires_2026-08-291_optimized_4000-768x512.png",
+          "other_news": true
+        },
+        {
+          "title": "In India, volunteers map riverside trees to make a case for urban conservation",
+          "link": "https://news.mongabay.com/short-article/2026/11/in-india-volunteers-map-riverside-trees-to-make-a-case-for-urban-conservation/",
+          "published": "2026-11-13T08:22:04+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Every weekend, several residents of Pune in India set out to map trees along the city’s riverbanks. It’s not just a weekend hobby; it’s meant to serve",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/30144629/WhatsApp-Image-2026-10-26-at-23.36.39-1-768x512.jpeg",
           "other_news": true
         },
         {

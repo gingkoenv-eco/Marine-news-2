@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:51:24.551341+00:00",
+  "generated_at": "2026-11-13T06:01:37.422254+00:00",
   "categories": {
     "Politics & Policy": {
       "Marine Biodiversity & Conservation": [
@@ -412,17 +412,6 @@
           "other_news": false
         },
         {
-          "title": "World's oldest shipwreck found off coast of Turkey",
-          "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-14T05:00:35+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
-          "other_news": false
-        },
-        {
           "title": "Surveiller l’état de santé de poissons exposés à des agents chimiques et biologiques grâce à des outils moléculaires non invasifs",
           "link": "https://theconversation.com/surveiller-letat-de-sante-de-poissons-exposes-a-des-agents-chimiques-et-biologiques-grace-a-des-outils-moleculaires-non-invasifs-295925",
           "published": "2026-11-12T15:36:40+00:00",
@@ -618,17 +607,6 @@
           "language": "en",
           "summary": "DESTIN, Fla. (AP) — An ocean liner that once was the fastest on the seas is headed to its final home on the floor of the Gulf of Mexico as the world’s",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11220520/AP26299375080227-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "US stakes competing claims to Pacific seabed mining areas, challenging UN authority",
-          "link": "https://news.mongabay.com/podcast/2026/11/us-stakes-competing-claims-to-pacific-seabed-mining-areas-challenging-un-authority/",
-          "published": "2026-11-10T19:22:22+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A recent Mongabay investigation by Elizabeth Claire Alberts and Andrés Alegría reveals that the Clarion-Clipperton Zone of the Pacific Ocean, a swath",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/07/08000613/960px-Psychropotes_longicauda_sur_nodules_polymetalliques-768x512.jpg",
           "other_news": false
         }
       ]
@@ -900,17 +878,6 @@
           "language": "en",
           "summary": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d7/live/1adcf6d0-db63-11f1-adda-c54f54e3ce6a.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Bid to restore rare Atlantic rainforest secures £6m lottery grant",
-          "link": "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-11T06:37:12+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Hubs offering training in conservation work are to be set up in Torridon, Morvern and mid-Argyll.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b5/live/154dac30-dd9a-11f1-841d-6fd98310705b.jpg",
           "other_news": true
         },
         {
@@ -1310,6 +1277,17 @@
           "other_news": true
         },
         {
+          "title": "We must strengthen trade cooperation to deliver on global climate goals",
+          "link": "https://www.climatechangenews.com/2026/11/13/we-must-strengthen-trade-cooperation-to-deliver-on-global-climate-goals/",
+          "published": "2026-11-13T04:00:00+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "As governments turn to trade-related measures to deliver on their climate targets, cooperation is vital to reduce fragmentation, costs and build more",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in",
           "link": "https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/",
           "published": "2026-11-11T10:31:13+00:00",
@@ -1486,17 +1464,6 @@
           "other_news": true
         },
         {
-          "title": "African governments strengthen waste rules as solar and battery use surges",
-          "link": "https://www.climatechangenews.com/2026/10/26/african-governments-strengthen-waste-rules-as-solar-and-battery-use-surges/",
-          "published": "2026-10-26T16:43:07+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "With solar panels, batteries and inverters spreading, officials want to bolster weak recycling systems to protect the environment and reuse key materi",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Face aux puissances industrielles et autoritaires, la bataille du climat est-elle perdue ? Pas encore, assurent ces chercheurs",
           "link": "https://reporterre.net/Les-puissances-fossiles-defendent-leurs-interets-de-facon-beaucoup-plus-explicite-article",
           "published": "2026-11-11T06:00:00+00:00",
@@ -1574,6 +1541,28 @@
           "other_news": true
         },
         {
+          "title": "La défaite de Trump va-t-elle changer quelque chose pour le climat ?",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/13/la-defaite-de-trump-va-t-elle-changer-quelque-chose-pour-le-climat_6809283_3244.html",
+          "published": "2026-11-13T06:30:09+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
+          "image": "https://img.lemde.fr/2025/10/23/250/0/3000/1500/644/322/60/0/269a2c5_upload-1-unixw4s49jcr-frame-70.jpg",
+          "other_news": true
+        },
+        {
+          "title": "En Turquie, une petite radio associative offre une rare fenêtre sur l’écologie sous le régime d’Erdogan",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/13/en-turquie-une-petite-radio-associative-offre-une-rare-fenetre-sur-l-ecologie-sous-le-regime-d-erdogan_6809268_3244.html",
+          "published": "2026-11-13T05:00:34+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Depuis trente ans, Apaçik Radyo diffuse d’Istanbul des émissions de sensibilisation au changement climatique. Privée de fréquence, elle se démène plus",
+          "image": "https://img.lemde.fr/2026/11/12/756/0/1440/720/644/322/60/0/2f6ea04_upload-1-obtwnkkd5n0q-888382218-1806474684788117-4348243789608201996-n.jpeg",
+          "other_news": true
+        },
+        {
           "title": "Les voitures électriques, un gouffre financier pour les assureurs",
           "link": "https://www.lemonde.fr/economie/article/2026/11/11/les-voitures-electriques-un-gouffre-financier-pour-les-assureurs_6809004_3234.html",
           "published": "2026-11-11T18:00:08+01:00",
@@ -1604,17 +1593,6 @@
           "language": "fr",
           "summary": "La Turquie et l’Australie, qui partagent la présidence de la conférence mondiale qui a démarré lundi à Antalya, veulent rallier le plus grand nombre d",
           "image": "https://img.lemde.fr/2026/10/26/748/0/5500/2750/644/322/60/0/d10f73f_ftp-1-rcxcjvjtli2r-2026-10-26t131128z-1314782666-rc2m7oa0odb2-rtrmadp-3-slovakia-nuclear.JPG",
-          "other_news": true
-        },
-        {
-          "title": "Les îles du Pacifique, aux avant-postes de la lutte contre le changement climatique, veulent se faire entendre à la COP31",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/10/cop31-sur-la-ligne-de-front-du-rechauffement-climatique-les-etats-insulaires-du-pacifique-veulent-se-faire-entendre_6808818_3244.html",
-          "published": "2026-11-10T11:30:05+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Aux avant-postes de la lutte contre le changement climatique, les îles du Pacifique sont, avec la Turquie et l’Australie, le troisième acteur de la CO",
-          "image": "https://img.lemde.fr/2026/10/14/411/0/3747/1873/644/322/60/0/a100643_ftp-1-kecghemeqmkd-2026-10-14t060826z-325871741-rc2cxnaarnj4-rtrmadp-3-tuvalu-dailylife.JPG",
           "other_news": true
         },
         {
@@ -1662,6 +1640,39 @@
           "other_news": true
         },
         {
+          "title": "Avoiding the ‘F word’: Australia and Turkey dance around fossil fuels at COP31 summit",
+          "link": "https://theconversation.com/avoiding-the-f-word-australia-and-turkey-dance-around-fossil-fuels-at-cop31-summit-296418",
+          "published": "2026-11-13T04:21:18+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The two nations are co-hosting this year’s UN climate summit, where electrification and emissions are hot topics.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "GPs are now ‘prescribing’ time in nature. Is it likely to improve your health?",
+          "link": "https://theconversation.com/gps-are-now-prescribing-time-in-nature-is-it-likely-to-improve-your-health-296469",
+          "published": "2026-11-13T02:38:07+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The advice might be to spend 20 minutes a day noticing the natural world – whether that’s walking through a park, listening to birds or wildlife garde",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "‘A clear call for climate action’: Bowen defends Albanese at COP31",
+          "link": "https://theconversation.com/a-clear-call-for-climate-action-bowen-defends-albanese-at-cop31-296545",
+          "published": "2026-11-13T00:32:35+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Climate and Energy Minister Chris Bowen spoke to The Conversation at COP31 in Turkey – as the conference hits the halfway mark.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Rural Australian communities are hosting the clean energy boom. Are they getting a fair say?",
           "link": "https://theconversation.com/rural-australian-communities-are-hosting-the-clean-energy-boom-are-they-getting-a-fair-say-296254",
           "published": "2026-11-12T19:05:21+00:00",
@@ -1691,17 +1702,6 @@
           "type": "news",
           "language": "en",
           "summary": "Under Bill C-39, Ottawa would be able to permit preliminary construction to begin, before environmental impact assessments are completed.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "‘Plenty of reasons for hope’: what 30 years of climate talks have achieved",
-          "link": "https://theconversation.com/plenty-of-reasons-for-hope-what-30-years-of-climate-talks-have-achieved-296398",
-          "published": "2026-11-12T03:43:58+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "After 30 years of global climate talks, there has been more progress than you might think. A climate diplomacy expert explains why there’s still reaso",
           "image": null,
           "other_news": true
         },

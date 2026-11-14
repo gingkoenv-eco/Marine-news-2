@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:13:18.287122+00:00",
+  "generated_at": "2026-11-14T18:00:24.668343+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -348,14 +348,14 @@
           "other_news": false
         },
         {
-          "title": "Setback for SpaceX Starship rocket's double-catch test",
+          "title": "Second catch attempt for SpaceX Starship rocket",
           "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-14T00:01:01+00:00",
+          "published": "2026-11-14T14:18:41+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
+          "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg",
           "other_news": false
         },
         {
@@ -532,6 +532,17 @@
           "language": "en",
           "summary": "With waters rising fastest along the south and west, researchers warn Ireland's coastal defences need to be updated.\nThe post Landmark 100-year study",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Pluie et inondations : les départements du Gard, de l’Hérault et des Bouches-du-Rhône placés en vigilance orange à partir de samedi soir",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/14/pluie-et-inondations-les-departements-du-gard-de-l-herault-et-des-bouches-du-rhone-places-en-vigilance-orange-a-partir-de-samedi-soir_6810050_3245.html",
+          "published": "2026-11-14T16:38:48+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’agence météorologique met en garde contre des « risques de ruissellements » et de possibles « phénomènes tourbillonnaires (type trombe marine) », al",
+          "image": "https://img.lemde.fr/2025/06/26/250/0/3000/1500/644/322/60/0/1de69bf_upload-1-yj2nqx8xrdsm-modei-le-1.jpg",
           "other_news": false
         },
         {
@@ -1363,6 +1374,17 @@
           "type": "news",
           "language": "en",
           "summary": "The upcoming COP31 climate talks in Antalya, Turkey need to respond to the latest science on global warming, which is&#8230;\nThe post UK climate minis",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "COP31 Bulletin Day 6: Climate marchers call for justice as talks make limited progress",
+          "link": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/",
+          "published": "2026-11-14T11:21:49+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "After campaigners took to the streets, red lines are set to emerge at the summit as Australia and Türkiye preside over stocktaking plenary on Saturday",
           "image": null,
           "other_news": true
         },

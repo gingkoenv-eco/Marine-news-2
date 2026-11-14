@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T06:01:18.185410+00:00",
+  "generated_at": "2026-11-14T13:32:42.948296+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -138,17 +138,6 @@
           "other_news": false
         },
         {
-          "title": "Nurdle impact to be researched for a year",
-          "link": "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-12T11:38:35+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8122/live/f5479a00-de01-11f1-8445-15eb55286f71.jpg",
-          "other_news": false
-        },
-        {
           "title": "Les gestes individuels peuvent-ils quelque chose pour lutter contre la pollution plastique ?",
           "link": "https://theconversation.com/les-gestes-individuels-peuvent-ils-quelque-chose-pour-lutter-contre-la-pollution-plastique-292314",
           "published": "2026-10-26T15:06:37+00:00",
@@ -203,17 +192,6 @@
           "language": "en",
           "summary": "Assessment finds global heating is endangering 96% of coral reefs across 80 countries – a figure scientists say should serve as a ‘wake-up call’Sign u",
           "image": "https://i.guim.co.uk/img/media/c1d0cd51dc12a1cdab85e673f2c5f4da07499f11/439_0_3096_2477/master/3096.jpg?width=140&quality=85&auto=format&fit=max&s=6044542b9f8f6e9784bc12307a88d9ee",
-          "other_news": false
-        },
-        {
-          "title": "‘Like selling wolves from Yellowstone’: how protected US sharks are being sold off to foreign aquariums",
-          "link": "https://www.theguardian.com/environment/2026/oct/15/conservation-aquariums-endangered-sharks-protected-waters-delaware-bay-us-sand-tiger-sharks",
-          "published": "2026-10-15T09:00:14+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "While anglers cannot take endangered sand tiger sharks, a loophole lets private firms catch the fish to sell abroad, profiting from Delaware Bay’s con",
-          "image": "https://i.guim.co.uk/img/media/59bed300ee04ff5471e838c9e51271cb36e08e85/181_0_5010_4008/master/5010.jpg?width=140&quality=85&auto=format&fit=max&s=7cc15723849af8c44ca28cf5e583468b",
           "other_news": false
         },
         {
@@ -557,6 +535,17 @@
           "other_news": false
         },
         {
+          "title": "La France interdit la pêche de loisir de l’anguille jaune, pour contrer l’effondrement de cette espèce",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/14/la-france-interdit-la-peche-de-loisir-de-l-anguille-jaune-pour-contrer-l-effondrement-de-cette-espece_6810148_3244.html",
+          "published": "2026-11-14T12:33:09+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "En Europe, les anguilles ont diminué de quelque 90 % depuis les années 1980, et même de plus de 99 % par rapport aux années 1960.",
+          "image": "https://img.lemde.fr/2026/11/14/291/0/3500/1750/644/322/60/0/0b2a7ad_upload-1-bvhlfsthpuyk-2013-11-03t120000z-2052904481-gm1e9b211ah01-rtrmadp-3-irish-eels.JPG",
+          "other_news": false
+        },
+        {
           "title": "La Cour suprême norvégienne invalide trois licences pétrolières en mer du Nord, un « jugement historique »",
           "link": "https://www.lemonde.fr/planete/article/2026/11/13/la-cour-supreme-norvegienne-invalide-trois-licences-petrolieres-en-mer-du-nord-un-jugement-historique_6809339_3244.html",
           "published": "2026-11-13T16:10:43+01:00",
@@ -590,6 +579,17 @@
           "other_news": false
         },
         {
+          "title": "«Une catastrophe écologique» : en pleine sécheresse, un fleuve breton subitement acidifié, la faune aquatique décimée",
+          "link": "https://vert.eco/climat/une-catastrophe-ecologique-en-pleine-secheresse-un-fleuve-breton-subitement-acidifie-la-faune-aquatique-decimee/",
+          "published": "2026-11-14T06:00:00+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans le bassin versant de l'Odet, fleuve qui traverse Quimper (Finistère), l'eau a atteint un niveau d’acidité toxique pour la faune.  Un phénomène ra",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "The Microsoft outage is an urgent wake-up call for greater digital resilience",
           "link": "https://theconversation.com/the-microsoft-outage-is-an-urgent-wake-up-call-for-greater-digital-resilience-296610",
           "published": "2026-11-13T17:15:05+00:00",
@@ -620,6 +620,17 @@
           "language": "en",
           "summary": "What is El Niño and why is this year’s different? A strengthening El Niño layered on top of decades of human-caused climate change is pushing ocean te",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Spicy ping-pong balls and flaming dung keep elephants at bay in Zimbabwe",
+          "link": "https://news.mongabay.com/short-article/2026/11/spicy-ping-pong-balls-and-flaming-dung-keep-elephants-at-bay-in-zimbabwe/",
+          "published": "2026-11-14T09:18:50+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "On the front line of the human-elephant conflict, coming up with non-lethal methods of protecting crops means getting creative. In one village in Zimb",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/14091758/Mongabay_Thumbnail_Spyci_Featured-338x512.jpg",
           "other_news": false
         },
         {
@@ -846,6 +857,17 @@
           "summary": "Policy jargon, though often dense and alienating, can serve as an effective springboard for discussing difficult realities.",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "A new Democratic Congress will view Trump’s harsh Cuba policy skeptically – but that doesn’t mean a change is coming soon",
+          "link": "https://theconversation.com/a-new-democratic-congress-will-view-trumps-harsh-cuba-policy-skeptically-but-that-doesnt-mean-a-change-is-coming-soon-296017",
+          "published": "2026-11-14T10:45:46+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Cuba is unlikely to be a huge priority for incoming Democrats, and the Trump administration is unlikely to change its maximum pressure approach.",
+          "image": null,
+          "other_news": true
         }
       ],
       "Other Marine News": [
@@ -874,7 +896,7 @@
         {
           "title": "Bluetongue virus confirmed on County Down farm",
           "link": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-14T00:17:45+00:00",
+          "published": "2026-11-14T06:56:58+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -1532,6 +1554,17 @@
           "other_news": true
         },
         {
+          "title": "La droite et les lobbies tentent d'empêcher la régulation des data centers en Espagne",
+          "link": "https://reporterre.net/Data-centers-en-Espagne-la-droite-et-les-lobbies-tentent-d-empecher-leur-regulation",
+          "published": "2026-11-14T06:10:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le gouvernement espagnol s'apprête à approuver un texte pour limiter les dégâts des data centers. L'influence politique du secte",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/iaiaiaiaiaiaiaatdatadatadtatdatdatdta-7411e.jpg?1794636602",
+          "other_news": true
+        },
+        {
           "title": "Chasse : une plainte contre X déposée après les révélations de Reporterre",
           "link": "https://reporterre.net/Chasse-une-plainte-contre-X-deposee-apres-les-revelations-de-Reporterre",
           "published": "2026-11-13T10:45:33+00:00",
@@ -1653,17 +1686,6 @@
           "other_news": true
         },
         {
-          "title": "A la COP31, l’ONU presse les dirigeants d’agir contre les énergies fossiles : « La vérité, brutale, est que la crise du climat nous dépasse », déclare Antonio Guterres",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/11/a-la-cop31-l-onu-presse-les-dirigeants-d-agir-contre-les-energies-fossiles-la-verite-brutale-est-que-la-crise-du-climat-nous-depasse-declare-antonio-guterres_6808958_3244.html",
-          "published": "2026-11-11T12:01:50+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le chef de l’ONU a exhorté les responsables réunis pour parler du climat à éliminer les énergies fossiles et à mettre de côté leurs différends, de man",
-          "image": "https://img.lemde.fr/2026/11/11/0/0/2146/1073/644/322/60/0/32dfe9e_ftp-1-gwknyncg9g55-17b3cc977d1343688c011deb89568e7d-0-5eeefc433aa2401e9d61eca1f06c020a.jpg",
-          "other_news": true
-        },
-        {
           "title": "Plus de 120 jets ont atterri à Antalya : pour se rendre à la COP31 sur le climat, l’avion privé est toujours roi",
           "link": "https://vert.eco/climat/plus-de-120-jets-ont-atterri-a-antalya-pour-se-rendre-a-la-cop31-sur-le-climat-lavion-prive-est-toujours-roi/",
           "published": "2026-11-13T14:35:19+00:00",
@@ -1693,17 +1715,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Comme dans de précédentes COP sur le climat, l’influent patron de la major pétrogazière a été choisi par la France pour intégrer sa délégation en Turq",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Exclusif : TotalEnergies finance une vingtaine de lobbies qui attaquent les réglementations sur le méthane partout dans le monde",
-          "link": "https://vert.eco/climat/exclusif-totalenergies-finance-une-vingtaine-de-lobbies-qui-attaquent-les-reglementations-sur-le-methane-partout-dans-le-monde/",
-          "published": "2026-11-10T10:44:11+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "En contradiction avec ses propres «principes climatiques», TotalEnergies finance une vingtaine de lobbies à travers le monde qui freinent les efforts",
           "image": null,
           "other_news": true
         },

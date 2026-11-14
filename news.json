@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T20:30:21.668387+00:00",
+  "generated_at": "2026-11-14T06:01:18.185410+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -370,6 +370,17 @@
           "other_news": false
         },
         {
+          "title": "Setback for SpaceX Starship rocket's double-catch test",
+          "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-14T00:01:01+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
+          "other_news": false
+        },
+        {
           "title": "Part of Antarctica named after former BBC science correspondent",
           "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-26T14:54:40+00:00",
@@ -576,17 +587,6 @@
           "language": "fr",
           "summary": "A l’origine immense lac partagé entre Ouzbékistan et Kazakhstan, la mer d’Aral a vu ses rives reculer sous l’effet de la culture industrielle du coton",
           "image": "https://img.lemde.fr/2026/11/11/456/0/4008/2004/644/322/60/0/ef5b2e5_upload-1-m9gdwu23crmq-hl-hildegardleloue-mer-aral-artemia-25-sur-25.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Dans le Calvados, l’interdiction du ramassage des fossiles sur les plages ne passe pas : « On nous contraint à laisser la marée les emporter »",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/11/dans-le-calvados-l-interdiction-du-ramassage-des-fossiles-sur-les-plages-ne-passe-pas-on-nous-contraint-a-laisser-la-maree-les-emporter_6808932_3244.html",
-          "published": "2026-11-11T06:00:15+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Entre Villers-sur-Mer et Houlgate, les falaises des Vaches noires recèlent de nombreux fossiles qui se déposent sur la plage. Mais la création d’une r",
-          "image": "https://img.lemde.fr/2026/11/10/195/0/2006/1003/644/322/60/0/4548b08_upload-1-qrx8f3t9bfp9-img-20260331-wa0027rec.jpg",
           "other_news": false
         },
         {
@@ -872,6 +872,17 @@
           "other_news": true
         },
         {
+          "title": "Bluetongue virus confirmed on County Down farm",
+          "link": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-14T00:17:45+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4084/live/7a74d700-d03f-11f0-a224-bf3cbaf1e70d.jpg",
+          "other_news": true
+        },
+        {
           "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
           "link": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-12T11:03:53+00:00",
@@ -894,17 +905,6 @@
           "other_news": true
         },
         {
-          "title": "The swan sanctuary wetland fighting climate change",
-          "link": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-10T06:30:29+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/8890dd70-d912-11f1-a81d-35e942472442.png",
-          "other_news": true
-        },
-        {
           "title": "Climate action discussed at youth COP meeting",
           "link": "https://www.bbc.co.uk/news/articles/ckx28ly7y387o?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-13T14:39:06+00:00",
@@ -913,6 +913,17 @@
           "language": "en",
           "summary": "School children gather to discuss climate issues to coincide with the COP31 conference in Turkey.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1707/live/28a9afe0-df6b-11f1-9892-87464bbcc2b8.png",
+          "other_news": true
+        },
+        {
+          "title": "The swan sanctuary wetland fighting climate change",
+          "link": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-10T06:30:29+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/8890dd70-d912-11f1-a81d-35e942472442.png",
           "other_news": true
         },
         {
@@ -1598,6 +1609,17 @@
           "other_news": true
         },
         {
+          "title": "A La Réunion, une sécheresse exceptionnelle menace la biodiversité d’une rivière du Sud sauvage",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/14/a-la-reunion-une-secheresse-exceptionnelle-menace-la-biodiversite-d-une-riviere-du-sud-sauvage_6809623_3244.html",
+          "published": "2026-11-14T05:30:18+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le manque de pluies depuis deux ans dans le massif du volcan, région traditionnellement très pluvieuse, n’a pas permis la recharge en eau de la rivièr",
+          "image": "https://img.lemde.fr/2026/11/13/262/0/2048/1024/644/322/60/0/2ea67d9_upload-1-seu9sfwwx79r-886725895-1535140518644403-532293597721799684-n.jpg",
+          "other_news": true
+        },
+        {
           "title": "La défaite de Trump va-t-elle changer quelque chose pour le climat ?",
           "link": "https://www.lemonde.fr/planete/article/2026/11/13/la-defaite-de-trump-va-t-elle-changer-quelque-chose-pour-le-climat_6809283_3244.html",
           "published": "2026-11-13T06:30:07+01:00",
@@ -1749,6 +1771,17 @@
           "language": "en",
           "summary": "For the first time, Australia’s climate change data will distinguish between men and women. This is long overdue.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "South African court dismisses appeal over planned coal-fired power plants",
+          "link": "https://news.mongabay.com/short-article/2026/11/south-african-court-dismisses-appeal-over-planned-coal-fired-power-plants/",
+          "published": "2026-11-13T23:09:35+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The South African Supreme Court of Appeal recently dismissed the government’s appeal against a ruling that struck down plans for 1,500 megawatts of ne",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/13212055/Kusilekragsentrale_Mpumalanga_2019_a-768x512.jpg",
           "other_news": true
         },
         {

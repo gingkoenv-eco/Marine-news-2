@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:48:56.167362+00:00",
+  "generated_at": "2026-11-15T18:50:56.657734+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -202,6 +202,17 @@
           "type": "news",
           "language": "en",
           "summary": "Turbine bases can create stable new habitats for marine life, but researchers say critical data about the seabed remains missing\nThe post Offshore win",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Mourning Notcho: What one whale’s death teaches us about ecological grief",
+          "link": "https://theconversation.com/mourning-notcho-what-one-whales-death-teaches-us-about-ecological-grief-296123",
+          "published": "2026-11-15T15:19:45+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Public responses to the death of Notcho, a humpback whale struck by a BC ferry, reveal how people cope with ecological grief after environmental loss.",
           "image": null,
           "other_news": false
         },
@@ -1629,12 +1640,12 @@
         {
           "title": "Confrontée à un El Niño historique, l’Amazonie brésilienne en état d’urgence environnemental",
           "link": "https://www.lemonde.fr/planete/article/2026/11/15/confrontee-a-un-el-nino-historique-l-amazonie-bresilienne-en-etat-d-urgence-environnemental_6811024_3244.html",
-          "published": "2026-11-15T15:30:41+01:00",
+          "published": "2026-11-15T15:30:40+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
           "summary": "L’Etat du Para et cinquante villes de l’Etat de l’Amazonas ont été placés en état d’urgence afin de mobiliser tous les moyens pour combattre les feux",
-          "image": "https://img.lemde.fr/2026/11/12/0/0/2947/1473/644/322/60/0/eebc4dc_ftp-1-taujwvag1bml-a082ee7ea6054d4684e99fbd017524ad-0-66420453657549e7ae9ed80e6e42f634.jpg",
+          "image": "https://img.lemde.fr/2026/11/06/331/0/3972/1986/644/322/60/0/2f61674_ftp-1-kyfq7zwgr4ty-cd835f74b5ad4dfea6e87886a1e3499c-1-674f99135c7b454ab20bcdc3f4022319.jpg",
           "other_news": true
         },
         {
@@ -1715,6 +1726,17 @@
           "other_news": true
         },
         {
+          "title": "Was a kinder fate possible for Marineland’s animals? How the planning process failed them",
+          "link": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
+          "published": "2026-11-15T15:20:51+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "How do we create better futures for animals who are kept locked up for our convenience? Consider Marineland, and how decisions about land use are made",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Universities should follow communities’ lead on climate research",
           "link": "https://theconversation.com/universities-should-follow-communities-lead-on-climate-research-294848",
           "published": "2026-11-15T13:32:43+00:00",
@@ -1755,28 +1777,6 @@
           "type": "news",
           "language": "en",
           "summary": "The advice might be to spend 20 minutes a day noticing the natural world – whether that’s walking through a park, listening to birds or wildlife garde",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "‘A clear call for climate action’: Bowen defends Albanese at COP31",
-          "link": "https://theconversation.com/a-clear-call-for-climate-action-bowen-defends-albanese-at-cop31-296545",
-          "published": "2026-11-13T00:32:35+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Climate and Energy Minister Chris Bowen spoke to The Conversation at COP31 in Turkey – as the conference hits the halfway mark.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Rural Australian communities are hosting the clean energy boom. Are they getting a fair say?",
-          "link": "https://theconversation.com/rural-australian-communities-are-hosting-the-clean-energy-boom-are-they-getting-a-fair-say-296254",
-          "published": "2026-11-12T19:05:21+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Backlash doesn’t mean communities are rejecting the clean energy transition. Many are asking for fairer benefits, and a bigger say in what the future",
           "image": null,
           "other_news": true
         },

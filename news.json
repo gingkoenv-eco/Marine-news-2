@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:01:28.368722+00:00",
+  "generated_at": "2026-11-15T13:57:01.956279+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -138,17 +138,6 @@
           "other_news": false
         },
         {
-          "title": "Les gestes individuels peuvent-ils quelque chose pour lutter contre la pollution plastique ?",
-          "link": "https://theconversation.com/les-gestes-individuels-peuvent-ils-quelque-chose-pour-lutter-contre-la-pollution-plastique-292314",
-          "published": "2026-10-26T15:06:37+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Des expériences réalisées dans divers endroits du monde montrent que les incitations financières individuelles semblent ne pas avoir grand effet sur l",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Coca, Nestlé, Pepsi... Comment les banques françaises financent la pollution plastique",
           "link": "https://reporterre.net/Coca-Nestle-Pepsi-Comment-les-banques-francaises-financent-la-pollution-plastique",
           "published": "2026-11-09T23:00:00+00:00",
@@ -250,19 +239,6 @@
           "type": "news",
           "language": "en",
           "summary": "Nature can protect coastlines, watersheds and waterways for a fraction of the cost of traditional infrastructure. Why isn’t it mainstream?",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Species Migration & Habitat Change": [
-        {
-          "title": "For centuries, bird migration was a mystery – a tech revolution is changing that, and could help save these amazing creatures",
-          "link": "https://theconversation.com/for-centuries-bird-migration-was-a-mystery-a-tech-revolution-is-changing-that-and-could-help-save-these-amazing-creatures-294345",
-          "published": "2026-10-16T12:21:52+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "An early clue came from storks found in Europe with African arrows in their bodies. Today, an atlas reveals hundreds of bird migration routes that are",
           "image": null,
           "other_news": false
         }
@@ -568,17 +544,6 @@
           "other_news": false
         },
         {
-          "title": "Dans la mer d’Aral en voie d’assèchement, le « miracle » éphémère de la crevette artémia, ressource prisée de l’aquaculture mondiale",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/12/dans-la-mer-d-aral-en-voie-d-assechement-le-miracle-ephemere-de-la-crevette-artemia-ressource-prisee-de-l-aquaculture-mondiale_6809056_3244.html",
-          "published": "2026-11-12T06:00:28+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "A l’origine immense lac partagé entre Ouzbékistan et Kazakhstan, la mer d’Aral a vu ses rives reculer sous l’effet de la culture industrielle du coton",
-          "image": "https://img.lemde.fr/2026/11/11/456/0/4008/2004/644/322/60/0/ef5b2e5_upload-1-m9gdwu23crmq-hl-hildegardleloue-mer-aral-artemia-25-sur-25.jpg",
-          "other_news": false
-        },
-        {
           "title": "«Une catastrophe écologique» : en pleine sécheresse, un fleuve breton subitement acidifié, la faune aquatique décimée",
           "link": "https://vert.eco/climat/une-catastrophe-ecologique-en-pleine-secheresse-un-fleuve-breton-subitement-acidifie-la-faune-aquatique-decimee/",
           "published": "2026-11-14T06:00:00+00:00",
@@ -699,6 +664,17 @@
     "Other News": {
       "Plastic & Ocean Pollution": [
         {
+          "title": "Feux d’artifice : quelques minutes de fête, des coûts durables pour la santé et l’environnement",
+          "link": "https://theconversation.com/feux-dartifice-quelques-minutes-de-fete-des-couts-durables-pour-la-sante-et-lenvironnement-296305",
+          "published": "2026-11-15T07:27:42+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Pollution de l’air, blessures, stress des animaux et coûts de santé… une partie de la facture des feux d’artifices est supportée par la collectivité.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Far from farms and cities, dry climates are boosting river nitrate pollution",
           "link": "https://theconversation.com/far-from-farms-and-cities-dry-climates-are-boosting-river-nitrate-pollution-294558",
           "published": "2026-11-12T19:04:55+00:00",
@@ -729,17 +705,6 @@
           "language": "en",
           "summary": "New research from Oxfam shows the wealthiest 0.1% are making money from the climate crisis their pollution has caused, while buying protection for the",
           "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Le bruit, une « source de stress omniprésent » pour la biodiversité",
-          "link": "https://reporterre.net/Le-bruit-une-source-de-stress-omnipresent-pour-la-biodiversite",
-          "published": "2026-11-05T19:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Pour l'ensemble du vivant, la pollution sonore représente une menace globale. C'est le message, peu surprenant mais inquiétant,",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH473/sturnus_vulgaris_2__marek_szczepanek_-fc828.jpg?1793905200",
           "other_news": true
         }
       ],
@@ -971,6 +936,28 @@
           "other_news": true
         },
         {
+          "title": "Le pastoralisme, risque ou solution face au changement climatique ? L’évolution du regard porté par les COP climat",
+          "link": "https://theconversation.com/le-pastoralisme-risque-ou-solution-face-au-changement-climatique-levolution-du-regard-porte-par-les-cop-climat-296191",
+          "published": "2026-11-15T07:27:14+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "À la fois victime du changement climatique et facteur d’impact ou solution, le pastoralisme échappe aux définitions simplistes.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "COP31 : la Bourse ne récompense plus la découverte de réserves d’hydrocarbures en cas d’exposition aux risques réglementaires environnementaux",
+          "link": "https://theconversation.com/cop31-la-bourse-ne-recompense-plus-la-decouverte-de-reserves-dhydrocarbures-en-cas-dexposition-aux-risques-reglementaires-environnementaux-285014",
+          "published": "2026-11-15T07:26:24+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Une étude, portant sur 16&nbsp;majors pétrolières, souligne que leurs réserves pèsent sur leurs performances boursières lorsque la réglementation envi",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "L’empreinte carbone astronomique des preuves mathématiques d’OpenAI",
           "link": "https://theconversation.com/lempreinte-carbone-astronomique-des-preuves-mathematiques-dopenai-294894",
           "published": "2026-11-12T11:34:32+00:00",
@@ -1011,17 +998,6 @@
           "type": "news",
           "language": "fr",
           "summary": "La Cour des comptes a récemment publié un bilan sévère, qui pointe de nombreux dysfonctionnements du dispositif qui existait jusqu’en 2026.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Protéger la biodiversité : et si avant de dépenser plus, on ciblait mieux les efforts ?",
-          "link": "https://theconversation.com/proteger-la-biodiversite-et-si-avant-de-depenser-plus-on-ciblait-mieux-les-efforts-292410",
-          "published": "2026-10-27T15:13:06+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "Alors que les financements en faveur de la biodiversité diminuent, le choix des stratégies les plus efficaces au regard des objectifs recherchés est c",
           "image": null,
           "other_news": true
         },
@@ -1378,6 +1354,17 @@
           "other_news": true
         },
         {
+          "title": "Behind the COP31 fanfare, Türkiye is worried about water",
+          "link": "https://www.climatechangenews.com/2026/11/15/behind-the-cop31-fanfare-turkiye-is-worried-about-water/",
+          "published": "2026-11-15T07:27:21+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Highlighting the urgency of climate diplomacy, more frequent droughts are depleting the country's lakes and half the population is at risk of water sh",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "COP31 Bulletin Day 6: Climate marchers call for justice as talks make limited progress",
           "link": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/",
           "published": "2026-11-14T11:21:49+00:00",
@@ -1561,17 +1548,6 @@
           "type": "news",
           "language": "en",
           "summary": "The African Group wants dedicated space on tripling adaptation finance, the Green Climate Fund and trade, setting up a possible clash\nThe post Africa",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Why COP31 needs to start talking about just transition finance",
-          "link": "https://www.climatechangenews.com/2026/10/28/why-cop31-needs-to-start-talking-about-just-transition-finance/",
-          "published": "2026-10-28T10:56:06+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Funding that helps workers and communities navigate the clean energy switch remains overlooked, splintered and poorly tracked - a blindspot that could",
           "image": null,
           "other_news": true
         },
@@ -1792,17 +1768,6 @@
           "type": "news",
           "language": "en",
           "summary": "Backlash doesn’t mean communities are rejecting the clean energy transition. Many are asking for fairer benefits, and a bigger say in what the future",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Women suffer more from climate change. Policymakers must recognise this",
-          "link": "https://theconversation.com/women-suffer-more-from-climate-change-policymakers-must-recognise-this-295879",
-          "published": "2026-11-12T19:03:15+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "For the first time, Australia’s climate change data will distinguish between men and women. This is long overdue.",
           "image": null,
           "other_news": true
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:57:01.956279+00:00",
+  "generated_at": "2026-11-15T14:48:56.167362+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -227,19 +227,6 @@
           "language": "en",
           "summary": "Proponents argue ocean carbon removal is necessary to counteract the effects of the climate crisis but critics say more research is needed A cluster o",
           "image": "https://i.guim.co.uk/img/media/3c561805685030208ac5f4bb8e73a9cc273ad328/1034_0_6251_5000/master/6251.jpg?width=140&quality=85&auto=format&fit=max&s=1eb17a5695d4a9d96236985c9f534ec6",
-          "other_news": false
-        }
-      ],
-      "Nature-Based Solutions & Restoration": [
-        {
-          "title": "Concrete and steel – or mangroves and forests? When it comes to climate adaptation, nature is much cheaper",
-          "link": "https://theconversation.com/concrete-and-steel-or-mangroves-and-forests-when-it-comes-to-climate-adaptation-nature-is-much-cheaper-292462",
-          "published": "2026-11-12T19:04:48+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Nature can protect coastlines, watersheds and waterways for a fraction of the cost of traditional infrastructure. Why isn’t it mainstream?",
-          "image": null,
           "other_news": false
         }
       ],
@@ -1640,6 +1627,17 @@
           "other_news": true
         },
         {
+          "title": "Confrontée à un El Niño historique, l’Amazonie brésilienne en état d’urgence environnemental",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/15/confrontee-a-un-el-nino-historique-l-amazonie-bresilienne-en-etat-d-urgence-environnemental_6811024_3244.html",
+          "published": "2026-11-15T15:30:41+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’Etat du Para et cinquante villes de l’Etat de l’Amazonas ont été placés en état d’urgence afin de mobiliser tous les moyens pour combattre les feux",
+          "image": "https://img.lemde.fr/2026/11/12/0/0/2947/1473/644/322/60/0/eebc4dc_ftp-1-taujwvag1bml-a082ee7ea6054d4684e99fbd017524ad-0-66420453657549e7ae9ed80e6e42f634.jpg",
+          "other_news": true
+        },
+        {
           "title": "A Antalya, en marge de la COP, des milliers de manifestants en colère contre les atteintes à l’environnement : « Nous ne croyons plus en ceux qui nous dirigent »",
           "link": "https://www.lemonde.fr/planete/article/2026/11/14/a-antalya-en-marge-de-la-cop-des-milliers-de-manifestants-en-colere-contre-les-atteintes-a-l-environnement-nous-ne-croyons-plus-en-ceux-qui-nous-dirigent_6810478_3244.html",
           "published": "2026-11-14T20:18:06+01:00",
@@ -1713,6 +1711,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Comme dans de précédentes COP sur le climat, l’influent patron de la major pétrogazière a été choisi par la France pour intégrer sa délégation en Turq",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Universities should follow communities’ lead on climate research",
+          "link": "https://theconversation.com/universities-should-follow-communities-lead-on-climate-research-294848",
+          "published": "2026-11-15T13:32:43+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Climate change has been accelerated, in large part, by technologies developed at universities.",
           "image": null,
           "other_news": true
         },

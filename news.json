@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T18:45:17.921963+00:00",
+  "generated_at": "2026-11-15T06:01:28.368722+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -345,17 +345,6 @@
           "language": "en",
           "summary": "Rapid coastal erosion threatens coastal homes and economies, and as Super El Niño rounds the corner, a town is reckoning with the reality of climate c",
           "image": "https://i.guim.co.uk/img/media/6e094a4a6106c307ef4374556750b743b4a5d555/0_0_5590_4470/master/5590.jpg?width=140&quality=85&auto=format&fit=max&s=88187eae26c33dc0533b9e9b27d82cac",
-          "other_news": false
-        },
-        {
-          "title": "Second catch attempt for SpaceX Starship rocket",
-          "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-14T14:18:41+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg",
           "other_news": false
         },
         {
@@ -830,6 +819,17 @@
           "language": "en",
           "summary": "At talks in Yerevan, the EU has proposed expanding the list of nature donors so that large emerging economies like China can help fund biodiversity pr",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Targeted by al-Shabaab for defending Kenya’s ecosystems: Foundation founder gets award",
+          "link": "https://news.mongabay.com/2026/11/targeted-by-al-shabaab-for-defending-kenyas-ecosystems-foundation-founder-gets-award/",
+          "published": "2026-11-15T02:07:52+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Conservation is rarely conflict-free. On Kenya’s northern coastline, in Lamu and Tana River counties — a biodiversity hotspot where the nation&#8217;s",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/15020457/2S3A4056_PuQCwKvR-768x512.jpg",
           "other_news": true
         },
         {
@@ -1384,7 +1384,7 @@
           "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "After campaigners took to the streets, red lines are set to emerge at the summit as Australia and Türkiye preside over stocktaking plenary on Saturday",
+          "summary": "After campaigners took to the streets, red lines are set to emerge at the summit as Australia and Türkiye preside over a stocktaking plenary on Saturd",
           "image": null,
           "other_news": true
         },
@@ -1664,6 +1664,17 @@
           "other_news": true
         },
         {
+          "title": "A Antalya, en marge de la COP, des milliers de manifestants en colère contre les atteintes à l’environnement : « Nous ne croyons plus en ceux qui nous dirigent »",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/14/a-antalya-en-marge-de-la-cop-des-milliers-de-manifestants-en-colere-contre-les-atteintes-a-l-environnement-nous-ne-croyons-plus-en-ceux-qui-nous-dirigent_6810478_3244.html",
+          "published": "2026-11-14T20:18:06+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Près de 10 000 personnes ont défilé, samedi, sous une pluie fine, dans le calme et une ambiance bon enfant, derrière une large banderole écrite en tur",
+          "image": "https://img.lemde.fr/2026/11/14/202/0/8256/4128/644/322/60/0/9b8ad04_ftp-1-iiy8vpuhmnv2-afp-d7g78xm.jpg",
+          "other_news": true
+        },
+        {
           "title": "A La Réunion, une sécheresse exceptionnelle menace la biodiversité d’une rivière du Sud sauvage",
           "link": "https://www.lemonde.fr/planete/article/2026/11/14/a-la-reunion-une-secheresse-exceptionnelle-menace-la-biodiversite-d-une-riviere-du-sud-sauvage_6809623_3244.html",
           "published": "2026-11-14T05:30:18+01:00",
@@ -1694,17 +1705,6 @@
           "language": "fr",
           "summary": "Depuis trente ans, Apaçik Radyo diffuse d’Istanbul des émissions de sensibilisation au changement climatique. Privée de fréquence, elle se démène plus",
           "image": "https://img.lemde.fr/2026/11/12/756/0/1440/720/644/322/60/0/2f6ea04_upload-1-obtwnkkd5n0q-888382218-1806474684788117-4348243789608201996-n.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "Les voitures électriques, un gouffre financier pour les assureurs",
-          "link": "https://www.lemonde.fr/economie/article/2026/11/11/les-voitures-electriques-un-gouffre-financier-pour-les-assureurs_6809004_3234.html",
-          "published": "2026-11-11T18:00:08+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La réparation des véhicules électriques coûte 14 % de plus que celle des modèles thermiques. En cause : des batteries peu réparables, des dommages plu",
-          "image": "https://img.lemde.fr/2026/11/11/675/0/8104/4052/644/322/60/0/0bf3314_upload-1-salcsggrzktu-000-32wz63l.jpg",
           "other_news": true
         },
         {

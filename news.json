@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T19:23:27.367748+00:00",
+  "generated_at": "2026-11-16T06:01:17.704509+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -109,17 +109,6 @@
           "summary": "This fall, Ocean Conservancy is celebrating its 41st annual International Coastal Cleanup® (ICC), once again bringing together volunteers to protect t",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "US companies apply to explore deep-sea mining in area bordering Pacific island states",
-          "link": "https://news.mongabay.com/2026/11/us-companies-apply-to-explore-deep-sea-mining-in-area-bordering-pacific-island-states/",
-          "published": "2026-11-11T15:29:42+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Two U.S. companies have applied to the U.S. government for seabed mining exploration licenses in two large patches of international waters near the Co",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11121233/oceanic-whitetip-shark-Carcharhinus-longimanus-768x512.jpg",
-          "other_news": false
         }
       ]
     },
@@ -217,14 +206,25 @@
           "other_news": false
         },
         {
-          "title": "Could You Really Be Swallowed by a Whale?",
-          "link": "https://oceanconservancy.org/blog/2026/10/16/swallowed-by-a-whale/",
-          "published": "2026-10-16T20:25:30+00:00",
-          "source": "Ocean Conservancy",
+          "title": "Rare flat-headed cat prefers elevated palms in Malaysian forest, says study",
+          "link": "https://news.mongabay.com/short-article/2026/11/rare-flat-headed-cat-prefers-elevated-palms-in-malaysian-forest-says-study/",
+          "published": "2026-11-16T05:31:39+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "For generations, stories of people being swallowed by enormous sea creatures have painted awe-inspiring tales of human survival and perseverance. From",
-          "image": null,
+          "summary": "A large camera-trap survey in a mangrove forest in southwestern Sarawak, Malaysia, has revealed new insights into the habitats and activity patterns o",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/16053011/Picture1.png",
+          "other_news": false
+        },
+        {
+          "title": "Indiana Jones at the fish market: David Ebert on a life spent searching for ‘lost sharks’",
+          "link": "https://news.mongabay.com/2026/11/indiana-jones-at-the-fish-market-david-ebert-on-a-life-spent-searching-for-lost-sharks/",
+          "published": "2026-11-16T03:38:04+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "If there’s an Indiana Jones of the shark world, David Ebert is it. Known as the “Lost Shark Guy,” the Californian marine biologist has spent his caree",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11090839/1-Ebert-2017_Shark-Week-with-Frilled-Shark-768x512.jpg",
           "other_news": false
         }
       ],
@@ -255,6 +255,28 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Europe’s Wadden Sea is a natural wonder. So why might it join the world heritage in danger list?",
+          "link": "https://www.theguardian.com/environment/2026/nov/16/europes-wadden-sea-is-a-natural-wonder-so-why-might-it-join-the-world-heritage-in-danger-list",
+          "published": "2026-11-16T05:00:34+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Along the coasts of the Netherlands, Germany and Denmark, its intertidal flats host a wealth of marine life and birds. But extraction industries, tour",
+          "image": "https://i.guim.co.uk/img/media/00522a8e3465c3eb27bd7505e632ad9caf6c259b/0_367_5319_4254/master/5319.jpg?width=140&quality=85&auto=format&fit=max&s=e3cd820e47c047aa7b1b85bca3c4fbd8",
+          "other_news": false
+        },
+        {
+          "title": "Huge waves pummel California coast, forcing closure of popular piers",
+          "link": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
+          "published": "2026-11-16T01:00:42+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Large waves up to 50ft flooded southern California streets and prompted evacuation warning near coastal cityThe California coast was pummeled again on",
+          "image": "https://i.guim.co.uk/img/media/1a1e5e3fbb5f413df3cb62b0cb50831adc5a0734/597_0_2985_2388/master/2985.jpg?width=140&quality=85&auto=format&fit=max&s=9ee5566dc21ac7ed5904d54115dea7ad",
+          "other_news": false
+        },
         {
           "title": "A super El Niño brings startling changes for marine life on California coast: ‘like nothing we’ve ever seen’",
           "link": "https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay",
@@ -1726,6 +1748,17 @@
           "other_news": true
         },
         {
+          "title": "Can Indonesian researchers ever win a Nobel? Not without overhauling the research ecosystem",
+          "link": "https://theconversation.com/can-indonesian-researchers-ever-win-a-nobel-not-without-overhauling-the-research-ecosystem-295244",
+          "published": "2026-11-16T01:59:56+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Before dreaming of Nobel glory, Indonesia must lay the groundwork for long-term, sustainable scientific inquiry.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Was a kinder fate possible for Marineland’s animals? How the planning process failed them",
           "link": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
           "published": "2026-11-15T15:20:51+00:00",
@@ -1759,25 +1792,14 @@
           "other_news": true
         },
         {
-          "title": "Avoiding the ‘F word’: Australia and Turkey dance around fossil fuels at COP31 summit",
-          "link": "https://theconversation.com/avoiding-the-f-word-australia-and-turkey-dance-around-fossil-fuels-at-cop31-summit-296418",
-          "published": "2026-11-13T04:21:18+00:00",
-          "source": "The Conversation",
+          "title": "As butterflies sweep Sri Lanka, global study finds expanding ranges linked to climate change",
+          "link": "https://news.mongabay.com/2026/11/as-butterflies-sweep-sri-lanka-global-study-finds-expanding-ranges-linked-to-climate-change/",
+          "published": "2026-11-16T05:19:51+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "The two nations are co-hosting this year’s UN climate summit, where electrification and emissions are hot topics.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "GPs are now ‘prescribing’ time in nature. Is it likely to improve your health?",
-          "link": "https://theconversation.com/gps-are-now-prescribing-time-in-nature-is-it-likely-to-improve-your-health-296469",
-          "published": "2026-11-13T02:38:07+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The advice might be to spend 20 minutes a day noticing the natural world – whether that’s walking through a park, listening to birds or wildlife garde",
-          "image": null,
+          "summary": "COLOMBO – For generations of Sri Lankans, the sudden appearance of thousands of yellow and white wings fluttering across the island carries a deep sen",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/15100349/Dhananjaya-Dassanayake-3-768x512.jpg",
           "other_news": true
         },
         {
@@ -1866,28 +1888,6 @@
           "language": "en",
           "summary": "CHIANG MAI, Thailand — Global wildlife trade regulator CITES has lifted trade sanctions against Laos, opening the door for the Southeast Asian nation",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/04/23023516/Sookvannaseng-4-supplied-by-source-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "What do a bean and a flamingo have in common? Finding the unexpected in nature photos",
-          "link": "https://news.mongabay.com/short-article/2026/11/what-do-a-bean-and-a-flamingo-have-in-common-finding-the-unexpected-in-nature-photos/",
-          "published": "2026-11-11T14:41:21+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Photographer Andrew Zuckerman took a moment longer than usual to look closely at a bean that was sprouting in his studio. “There was this one bean tha",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11141421/flamingobean_zuckerman-1-768x512.png",
-          "other_news": true
-        },
-        {
-          "title": "Angolan hunters protect Southern Africa’s internationally important wetland",
-          "link": "https://news.mongabay.com/2026/11/angolan-hunters-protect-southern-africas-internationally-important-wetland/",
-          "published": "2026-11-11T13:30:33+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Four years ago, elders from several different communities in Angola’s southeastern highlands approached environmental anthropologist Kerllen Costa, sa",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11131517/Tunyiungi_2-CONTRAST-768x512.jpg",
           "other_news": true
         }
       ]

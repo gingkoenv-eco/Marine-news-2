@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T06:01:17.704509+00:00",
+  "generated_at": "2026-11-16T15:48:44.485748+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -36,17 +36,6 @@
           "language": "en",
           "summary": "A Mongabay investigation that revealed large-scale government purchases of shark meat for schools, hospitals, prisons and other public institutions in",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/07/29085517/shark-meat-at-store-768x512-1.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Audit says Europe’s marine protected areas failing as 2030 deadline looms",
-          "link": "https://news.mongabay.com/2026/11/audit-says-europes-marine-protected-areas-failing-as-2030-deadline-looms/",
-          "published": "2026-11-11T16:14:04+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The European Union has for many years been a key player in international biodiversity negotiations, pushing hard for the world’s nations to protect 30",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11125104/1-feature-768x512.jpg",
           "other_news": false
         }
       ],
@@ -195,6 +184,17 @@
           "other_news": false
         },
         {
+          "title": "Why marine climate refugia matters for safeguarding the world’s oceans",
+          "link": "https://theconversation.com/why-marine-climate-refugia-matters-for-safeguarding-the-worlds-oceans-282901",
+          "published": "2026-11-16T14:20:33+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "“Climate refugia” plays a key role in ocean conservation by providing safe havens for the biodiversity which underpins the health of our seas.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Mourning Notcho: What one whale’s death teaches us about ecological grief",
           "link": "https://theconversation.com/mourning-notcho-what-one-whales-death-teaches-us-about-ecological-grief-296123",
           "published": "2026-11-15T15:19:45+00:00",
@@ -203,6 +203,17 @@
           "language": "en",
           "summary": "Public responses to the death of Notcho, a humpback whale struck by a BC ferry, reveal how people cope with ecological grief after environmental loss.",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Drowned in fishing gear, struck by boats, North Atlantic right whales in serious trouble",
+          "link": "https://news.mongabay.com/2026/11/drowned-in-fishing-gear-struck-by-boats-north-atlantic-right-whales-in-serious-trouble/",
+          "published": "2026-11-16T14:48:11+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "North Atlantic right whales hover near extinction, with perhaps 382 remaining, according to a new census published today. Their numbers dropped from 3",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/16114045/5187320205_79fdf5296c_o-768x512.jpg",
           "other_news": false
         },
         {
@@ -255,6 +266,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "Working in Cape Cod’s waters, he saw an unusual clam. It was the start of an invasion",
+          "link": "https://www.theguardian.com/environment/2026/nov/16/cape-cod-invasive-manila-clams",
+          "published": "2026-11-16T12:00:58+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The unfamiliar mollusk first turned up in this harvester’s haul in 2023. He asked a scientist to identify it, and together they realized they were see",
+          "image": "https://i.guim.co.uk/img/media/5b7af4a1b5ce6d9e9debba2925dc978baaa60329/3597_1776_4659_3728/master/4659.jpg?width=140&quality=85&auto=format&fit=max&s=b935360ab1683b4e600f2ff37f0d6f6c",
+          "other_news": false
+        },
         {
           "title": "Europe’s Wadden Sea is a natural wonder. So why might it join the world heritage in danger list?",
           "link": "https://www.theguardian.com/environment/2026/nov/16/europes-wadden-sea-is-a-natural-wonder-so-why-might-it-join-the-world-heritage-in-danger-list",
@@ -388,17 +410,6 @@
           "other_news": false
         },
         {
-          "title": "Five ways that sea-level rise affects your daily life, even if you live inland",
-          "link": "https://theconversation.com/five-ways-that-sea-level-rise-affects-your-daily-life-even-if-you-live-inland-294708",
-          "published": "2026-11-03T08:53:10+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Reducing greenhouse gas emissions and improving coastal adaptation will help determine how severely sea level rise affects everyone.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Oceans and forests have absorbed roughly half our carbon emissions for decades, slowing climate change – but can they keep it up?",
           "link": "https://theconversation.com/oceans-and-forests-have-absorbed-roughly-half-our-carbon-emissions-for-decades-slowing-climate-change-but-can-they-keep-it-up-296498",
           "published": "2026-11-13T17:43:23+00:00",
@@ -520,6 +531,17 @@
           "other_news": false
         },
         {
+          "title": "Cibles des attaques de drones iraniens, les pays du Golfe veulent multiplier les infrastructures souterraines",
+          "link": "https://www.lemonde.fr/economie/article/2026/11/16/cibles-des-attaques-de-drones-iraniens-les-pays-du-golfe-veulent-multiplier-les-infrastructures-souterraines_6811769_3234.html",
+          "published": "2026-11-16T14:00:05+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les projets d’enfouissement d’infrastructures critiques se multiplient dans la région, même si la tendance avait commencé bien avant la guerre au Moye",
+          "image": "https://img.lemde.fr/2026/11/13/1000/0/6000/3000/644/322/60/0/eccfbb8_upload-1-86swwfm7krdl-000-99ej2g7.jpg",
+          "other_news": false
+        },
+        {
           "title": "Pluie et inondations : les départements du Gard, de l’Hérault et des Bouches-du-Rhône placés en vigilance orange à partir de samedi soir",
           "link": "https://www.lemonde.fr/planete/article/2026/11/14/pluie-et-inondations-les-departements-du-gard-de-l-herault-et-des-bouches-du-rhone-places-en-vigilance-orange-a-partir-de-samedi-soir_6810050_3245.html",
           "published": "2026-11-14T16:38:48+01:00",
@@ -571,17 +593,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Dans le bassin versant de l'Odet, fleuve qui traverse Quimper (Finistère), l'eau a atteint un niveau d’acidité toxique pour la faune.  Un phénomène ra",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "The Microsoft outage is an urgent wake-up call for greater digital resilience",
-          "link": "https://theconversation.com/the-microsoft-outage-is-an-urgent-wake-up-call-for-greater-digital-resilience-296610",
-          "published": "2026-11-13T17:15:05+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The infrastructure of the internet is more fragile than we’d like it to be.",
           "image": null,
           "other_news": false
         },
@@ -638,17 +649,6 @@
           "language": "en",
           "summary": "Beneath the coppery fronds of the only floating bamboo kelp forest in the world, a creature shapeshifts across the reef. A tuberculate cuttlefish (Sep",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/10204648/Cape-fur-seal-by-Helen-Walne-768x512.png",
-          "other_news": false
-        },
-        {
-          "title": "This ocean liner was the world’s fastest. It’s being sunk to make the largest artificial reef",
-          "link": "https://news.mongabay.com/short-article/2026/11/this-ocean-liner-was-the-worlds-fastest-its-being-sunk-to-make-the-largest-artificial-reef/",
-          "published": "2026-11-11T22:10:05+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "DESTIN, Fla. (AP) — An ocean liner that once was the fastest on the seas is headed to its final home on the floor of the Gulf of Mexico as the world’s",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11220520/AP26299375080227-768x512.jpg",
           "other_news": false
         }
       ]
@@ -796,17 +796,6 @@
           "other_news": true
         },
         {
-          "title": "Stalemate on finance at COP17 nature talks exposes need for new sources",
-          "link": "https://www.climatechangenews.com/2026/10/28/stalemate-finance-cop17-nature-un-exposes-need-new-sources-yerevan/",
-          "published": "2026-10-28T13:04:32+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "At talks in Yerevan, the EU has proposed expanding the list of nature donors so that large emerging economies like China can help fund biodiversity pr",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Targeted by al-Shabaab for defending Kenya’s ecosystems: Foundation founder gets award",
           "link": "https://news.mongabay.com/2026/11/targeted-by-al-shabaab-for-defending-kenyas-ecosystems-foundation-founder-gets-award/",
           "published": "2026-11-15T02:07:52+00:00",
@@ -815,17 +804,6 @@
           "language": "en",
           "summary": "Conservation is rarely conflict-free. On Kenya’s northern coastline, in Lamu and Tana River counties — a biodiversity hotspot where the nation&#8217;s",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/15020457/2S3A4056_PuQCwKvR-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "‘Developed nations are not honoring their commitments’: DRC negotiator on biodiversity finance",
-          "link": "https://news.mongabay.com/2026/11/developed-nations-are-not-honoring-their-commitments-drc-negotiator-on-biodiversity-finance/",
-          "published": "2026-11-11T19:27:37+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "YEREVAN, Armenia — Discussions were running much longer — and tenser — than they were supposed to during one of the last sessions of the 2026 U.N. bio",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/11/15143842/51873438083_6748c806ef_k-e1794432760721-768x512.jpg",
           "other_news": true
         }
       ],
@@ -855,13 +833,13 @@
           "other_news": true
         },
         {
-          "title": "A new Democratic Congress will view Trump’s harsh Cuba policy skeptically – but that doesn’t mean a change is coming soon",
-          "link": "https://theconversation.com/a-new-democratic-congress-will-view-trumps-harsh-cuba-policy-skeptically-but-that-doesnt-mean-a-change-is-coming-soon-296017",
-          "published": "2026-11-14T10:45:46+00:00",
+          "title": "Free trade across Africa? Why policy needs to catch up with small-scale cross-border traders",
+          "link": "https://theconversation.com/free-trade-across-africa-why-policy-needs-to-catch-up-with-small-scale-cross-border-traders-296065",
+          "published": "2026-11-16T13:15:24+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Cuba is unlikely to be a huge priority for incoming Democrats, and the Trump administration is unlikely to change its maximum pressure approach.",
+          "summary": "The free trade area must address the realities of informal traders rather than concentrating on established companies.",
           "image": null,
           "other_news": true
         }
@@ -931,17 +909,6 @@
           "language": "en",
           "summary": "School children gather to discuss climate issues to coincide with the COP31 conference in Turkey.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1707/live/28a9afe0-df6b-11f1-9892-87464bbcc2b8.png",
-          "other_news": true
-        },
-        {
-          "title": "The swan sanctuary wetland fighting climate change",
-          "link": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-10T06:30:29+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/8890dd70-d912-11f1-a81d-35e942472442.png",
           "other_news": true
         },
         {
@@ -1018,6 +985,28 @@
           "type": "news",
           "language": "fr",
           "summary": "La Cour des comptes a récemment publié un bilan sévère, qui pointe de nombreux dysfonctionnements du dispositif qui existait jusqu’en 2026.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Wealthy countries aren’t protected from climate extremes – Europe must adapt quickly too",
+          "link": "https://theconversation.com/wealthy-countries-arent-protected-from-climate-extremes-europe-must-adapt-quickly-too-296549",
+          "published": "2026-11-16T14:05:07+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "At international climate negotiations, adaptation is traditionally framed as something wealthy countries finance and poorer countries need.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "What Scotland is getting wrong on recycling – and Wales is getting right",
+          "link": "https://theconversation.com/what-scotland-is-getting-wrong-on-recycling-and-wales-is-getting-right-295633",
+          "published": "2026-11-16T10:11:20+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "As leaders talk about reducing climate change at Cop31, it’s important to address what nations do with waste is not just about recycling.",
           "image": null,
           "other_news": true
         },
@@ -1550,25 +1539,36 @@
           "other_news": true
         },
         {
-          "title": "From Australia to Chile, our cities are driving a green investment boom",
-          "link": "https://www.climatechangenews.com/2026/10/29/from-australia-to-chile-our-cities-are-driving-a-green-investment-boom/",
-          "published": "2026-10-29T08:43:50+00:00",
-          "source": "Climate change news",
+          "title": "« Poubelle de l'Europe », la Turquie se noie sous les déchets",
+          "link": "https://reporterre.net/Poubelle-de-l-Europe-la-Turquie-se-noie-sous-les-dechets",
+          "published": "2026-11-16T14:30:34+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities fo",
-          "image": null,
+          "language": "fr",
+          "summary": "Alors que la COP31, qui se déroule en Turquie, fait du « zéro déchet » sa priorité, une ville turque se retrouve submergée par d",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/img_9236_ld_pernot_261105-e0751.jpg?1794839495",
           "other_news": true
         },
         {
-          "title": "Africa wants adaptation finance on COP31 agenda, raising risk of a fight",
-          "link": "https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/",
-          "published": "2026-10-28T15:57:17+00:00",
-          "source": "Climate change news",
+          "title": "Changement climatique, mépris, répression policière : « Des violences infligées aux enfants par les adultes »",
+          "link": "https://reporterre.net/Violences-climat-education-les-enfants-entrent-dans-la-lutte-avec-le-Collectif-enfantiste",
+          "published": "2026-11-16T08:13:56+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "The African Group wants dedicated space on tripling adaptation finance, the Green Climate Fund and trade, setting up a possible clash\nThe post Africa",
-          "image": null,
+          "language": "fr",
+          "summary": "Le Collectif enfantiste a participé à la manifestation du 14 novembre. Une convergence avec les mouvements écologiste et lycéen,",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/_-9-79d28.jpg?1794816838",
+          "other_news": true
+        },
+        {
+          "title": "Enfin un vrai débat sur l'écologie pour 2027... et personne n'est d'accord",
+          "link": "https://reporterre.net/Faire-des-compromis-ou-bousculer-l-ordre-de-la-societe-Les-candidats-esquissent-leur-vision-de-l-ecologie-pour-2027",
+          "published": "2026-11-16T08:06:57+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Lors d'un débat politique sur le climat et la biodiversité organisé le 14 novembre, les représentants des principaux candidats à",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260927__hl_ebroncard_3309921__v1__highres__franceclimateprotest_1_-aef4b.jpg?1794816421",
           "other_news": true
         },
         {
@@ -1627,18 +1627,7 @@
           "other_news": true
         },
         {
-          "title": "COP31 : pour stopper les pollueurs, « il est grand temps de réformer la gouvernance climatique »",
-          "link": "https://reporterre.net/COP31-pour-stopper-les-pollueurs-il-est-grand-temps-de-reformer-la-gouvernance-climatique",
-          "published": "2026-11-06T15:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "À l'approche de la COP31, les auteurs de cette tribune appellent la France, garante de l'Accord de Paris, à mettre fin à la redo",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/photoafp-5458a.jpg?1793977202",
-          "other_news": true
-        },
-        {
-          "title": "British salmon stripped of organic status by Soil Association",
+          "title": "British salmon stripped of organic logo by Soil Association",
           "link": "https://oceanographicmagazine.com/news/british-salmon-stripped-of-organic-status-by-soil-association/",
           "published": "2026-11-12T10:31:41+00:00",
           "source": "Oceanographic",
@@ -1657,6 +1646,28 @@
           "language": "en",
           "summary": "Fossil CO2 emissions are set to fall 0.4% in 2026, driven by solar, wind and the Iran conflict, but total emissions rise and under four years of 1.5°C",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "COP31 : comment l’IA participe à la désinformation sur le climat",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/16/cop31-comment-l-ia-participe-a-la-desinformation-sur-le-climat_6811799_3244.html",
+          "published": "2026-11-16T14:30:06+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Un rapport présenté lundi lors de la 31ᵉ conférence mondiale sur le climat, en Turquie, affirme que dans huit cas sur dix, les modèles d’intelligence",
+          "image": "https://img.lemde.fr/2026/01/20/250/0/3000/1500/644/322/60/0/ebb036e_upload-1-k1kevf2i5jjd-fond-12.jpg",
+          "other_news": true
+        },
+        {
+          "title": "« Fractures françaises » : le lien entre activité humaine et changement climatique s’impose dans l’opinion",
+          "link": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-le-lien-entre-activite-humaine-et-changement-climatique-s-impose-dans-l-opinion_6811600_823448.html",
+          "published": "2026-11-16T08:30:00+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Près des deux tiers des personnes interrogées (64 %) affirment que le réchauffement climatique est bien dû aux activités humaines. Il s’agit du plus h",
+          "image": "https://img.lemde.fr/2026/11/15/250/0/3008/1504/644/322/60/0/8196ed4_upload-1-ok6zyah4tw99-frame-1393.jpg",
           "other_news": true
         },
         {
@@ -1693,25 +1704,14 @@
           "other_news": true
         },
         {
-          "title": "La défaite de Trump va-t-elle changer quelque chose pour le climat ?",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/13/la-defaite-de-trump-va-t-elle-changer-quelque-chose-pour-le-climat_6809283_3244.html",
-          "published": "2026-11-13T06:30:07+01:00",
-          "source": "Le Monde Planète",
+          "title": "«Des actions, pas des discours» : en marge de la COP31, une manifestation a réuni les activistes du monde entier en Turquie",
+          "link": "https://vert.eco/rapports-de-force/des-actions-pas-des-discours-en-marge-de-la-cop31-une-manifestation-a-reuni-les-activistes-du-monde-entier-en-turquie/",
+          "published": "2026-11-16T09:58:28+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
-          "image": "https://img.lemde.fr/2025/10/23/250/0/3000/1500/644/322/60/0/269a2c5_upload-1-unixw4s49jcr-frame-70.jpg",
-          "other_news": true
-        },
-        {
-          "title": "« Bonjour à toi l’Univers ! » : plongée dans la petite radio turque qui fait vivre l’écologie sous le régime d’Erdogan",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/13/en-turquie-une-petite-radio-associative-offre-une-rare-fenetre-sur-l-ecologie-sous-le-regime-d-erdogan_6809268_3244.html",
-          "published": "2026-11-13T05:00:18+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Depuis trente ans, Apaçik Radyo diffuse d’Istanbul des émissions de sensibilisation au changement climatique. Privée de fréquence, elle se démène plus",
-          "image": "https://img.lemde.fr/2026/11/12/756/0/1440/720/644/322/60/0/2f6ea04_upload-1-obtwnkkd5n0q-888382218-1806474684788117-4348243789608201996-n.jpeg",
+          "summary": "Plus de 8 000 personnes ont défilé dans Antalya samedi, à l’occasion du Sommet des peuples pour le climat. Une contre-COP pour sortir le sujet de la s",
+          "image": null,
           "other_news": true
         },
         {
@@ -1744,6 +1744,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Comme dans de précédentes COP sur le climat, l’influent patron de la major pétrogazière a été choisi par la France pour intégrer sa délégation en Turq",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "COP 31: Who qualifies for loss and damage funding? Why country borders are a poor guide",
+          "link": "https://theconversation.com/cop-31-who-qualifies-for-loss-and-damage-funding-why-country-borders-are-a-poor-guide-295035",
+          "published": "2026-11-16T13:14:54+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The Fund for Responding to Loss and Damage is meant for ‘particularly vulnerable’ countries. The definition decides who is supported and who is left o",
           "image": null,
           "other_news": true
         },
@@ -1781,14 +1792,14 @@
           "other_news": true
         },
         {
-          "title": "South African vineyards are showing how conservation and farming can thrive together",
-          "link": "https://theconversation.com/south-african-vineyards-are-showing-how-conservation-and-farming-can-thrive-together-290543",
-          "published": "2026-11-13T13:36:40+00:00",
-          "source": "The Conversation",
+          "title": "Francophone leaders must support jailed Mother Nature Cambodia activists (commentary)",
+          "link": "https://news.mongabay.com/2026/11/francophone-leaders-must-support-jailed-mother-nature-cambodia-activists-commentary/",
+          "published": "2026-11-16T13:21:46+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Under pressure from a changing climate, vineyards are finding natural ways to fortify their soil and protect water supplies, showing conservation and",
-          "image": null,
+          "summary": "Readers are certainly familiar with the Mother Nature Cambodia 5 (MNC5) after Mongabay released its documentary The Clearing in July 2025, chronicling",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/16124702/1793690863-768x512.jpg",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T15:48:44.485748+00:00",
+  "generated_at": "2026-11-16T17:06:05.775569+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -159,6 +159,17 @@
           "language": "en",
           "summary": "Assessment finds global heating is endangering 96% of coral reefs across 80 countries – a figure scientists say should serve as a ‘wake-up call’Sign u",
           "image": "https://i.guim.co.uk/img/media/c1d0cd51dc12a1cdab85e673f2c5f4da07499f11/439_0_3096_2477/master/3096.jpg?width=140&quality=85&auto=format&fit=max&s=6044542b9f8f6e9784bc12307a88d9ee",
+          "other_news": false
+        },
+        {
+          "title": "North Atlantic right whale population slips to 382",
+          "link": "https://oceanographicmagazine.com/news/north-atlantic-right-whale-population-slips-to-382/",
+          "published": "2026-11-16T16:10:34+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The latest Consortium estimate shows a 1.8% decline, as scientists and campaigners warn that deaths, entanglements and weakening protections are under",
+          "image": null,
           "other_news": false
         },
         {
@@ -520,17 +531,6 @@
           "other_news": false
         },
         {
-          "title": "Landmark 100-year study shows Irish sea-levels rising at their fastest pace in a century",
-          "link": "https://oceanographicmagazine.com/news/landmark-100-year-study-shows-irish-sea-levels-rising-at-their-fastest-pace-in-a-century/",
-          "published": "2026-11-05T16:46:08+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "With waters rising fastest along the south and west, researchers warn Ireland's coastal defences need to be updated.\nThe post Landmark 100-year study",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Cibles des attaques de drones iraniens, les pays du Golfe veulent multiplier les infrastructures souterraines",
           "link": "https://www.lemonde.fr/economie/article/2026/11/16/cibles-des-attaques-de-drones-iraniens-les-pays-du-golfe-veulent-multiplier-les-infrastructures-souterraines_6811769_3234.html",
           "published": "2026-11-16T14:00:05+01:00",
@@ -638,17 +638,6 @@
           "language": "en",
           "summary": "BÌNH ĐẠI, Vietnam — For centuries, the Mekong River emptied into the South China Sea through nine vast estuaries, earning it the name Cửu Long, Vietna",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/12105012/17196457289_ef08c0aa7a_coconuts-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "To boost conservation of kelp forests, start by naming them (commentary)",
-          "link": "https://news.mongabay.com/2026/11/to-boost-conservation-of-kelp-forests-start-by-naming-them-commentary/",
-          "published": "2026-11-12T01:01:25+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Beneath the coppery fronds of the only floating bamboo kelp forest in the world, a creature shapeshifts across the reef. A tuberculate cuttlefish (Sep",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/10204648/Cape-fur-seal-by-Helen-Walne-768x512.png",
           "other_news": false
         }
       ]
@@ -1363,6 +1352,17 @@
           "other_news": true
         },
         {
+          "title": "Countries take up industry push to loosen UN carbon market rules at COP31",
+          "link": "https://www.climatechangenews.com/2026/11/16/countries-take-up-industry-push-to-loosen-un-carbon-market-rules-at-cop31/",
+          "published": "2026-11-16T16:16:15+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "A draft decision reflects demands from dozens of countries to reassess the UN carbon market’s integrity rules, a push campaigners blame on industry lo",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Behind the COP31 fanfare, Türkiye is worried about water",
           "link": "https://www.climatechangenews.com/2026/11/15/behind-the-cop31-fanfare-turkiye-is-worried-about-water/",
           "published": "2026-11-15T07:27:21+00:00",
@@ -1528,18 +1528,7 @@
           "other_news": true
         },
         {
-          "title": "Editor’s Desk: COP reform is happening quietly, behind the headlines",
-          "link": "https://www.climatechangenews.com/2026/10/29/editors-desk-cop-reform-is-happening-quietly-behind-the-headlines/",
-          "published": "2026-10-29T17:51:12+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "It may seem like little has changed in how the UN climate summits are run, but there's been a gradual shift as action becomes as important as negotiat",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "« Poubelle de l'Europe », la Turquie se noie sous les déchets",
+          "title": "« On se baigne parmi des sacs plastiques » : le pays hôte de la COP31 croule sous les déchets européens",
           "link": "https://reporterre.net/Poubelle-de-l-Europe-la-Turquie-se-noie-sous-les-dechets",
           "published": "2026-11-16T14:30:34+00:00",
           "source": "Reporterre",
@@ -1789,6 +1778,17 @@
           "language": "en",
           "summary": "Climate change has been accelerated, in large part, by technologies developed at universities.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon",
+          "link": "https://news.mongabay.com/short-article/2026/11/pope-in-peruvian-rainforest-demands-justice-for-environmental-defenders-killed-for-protecting-amazon/",
+          "published": "2026-11-16T16:49:57+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "PUCALLPA, Peru (AP) — Pope Leo XIV is demanding justice for environmental defenders killed for protecting the Amazon. During a visit deep in the Peruv",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/16162455/AP26319641686051-scaled-e1794846430714-768x512.jpg",
           "other_news": true
         },
         {

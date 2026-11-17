@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:54:59.056391+00:00",
+  "generated_at": "2026-11-17T06:01:24.187503+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -544,50 +544,6 @@
           "other_news": false
         },
         {
-          "title": "Pluie et inondations : les départements du Gard, de l’Hérault et des Bouches-du-Rhône placés en vigilance orange à partir de samedi soir",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/14/pluie-et-inondations-les-departements-du-gard-de-l-herault-et-des-bouches-du-rhone-places-en-vigilance-orange-a-partir-de-samedi-soir_6810050_3245.html",
-          "published": "2026-11-14T16:38:48+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "L’agence météorologique met en garde contre des « risques de ruissellements » et de possibles « phénomènes tourbillonnaires (type trombe marine) », al",
-          "image": "https://img.lemde.fr/2025/06/26/250/0/3000/1500/644/322/60/0/1de69bf_upload-1-yj2nqx8xrdsm-modei-le-1.jpg",
-          "other_news": false
-        },
-        {
-          "title": "La France interdit la pêche de loisir de l’anguille jaune, pour contrer l’effondrement de cette espèce",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/14/la-france-interdit-la-peche-de-loisir-de-l-anguille-jaune-pour-contrer-l-effondrement-de-cette-espece_6810148_3244.html",
-          "published": "2026-11-14T12:33:09+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "En Europe, les anguilles ont diminué de quelque 90 % depuis les années 1980, et même de plus de 99 % par rapport aux années 1960.",
-          "image": "https://img.lemde.fr/2026/11/14/291/0/3500/1750/644/322/60/0/0b2a7ad_upload-1-bvhlfsthpuyk-2013-11-03t120000z-2052904481-gm1e9b211ah01-rtrmadp-3-irish-eels.JPG",
-          "other_news": false
-        },
-        {
-          "title": "La Cour suprême norvégienne invalide trois licences pétrolières en mer du Nord, un « jugement historique »",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/13/la-cour-supreme-norvegienne-invalide-trois-licences-petrolieres-en-mer-du-nord-un-jugement-historique_6809339_3244.html",
-          "published": "2026-11-13T16:10:43+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Si elle n’a pas d’effet immédiat sur la production, la décision de la plus haute instance de justice à Oslo contraint l’Etat à calculer les émissions",
-          "image": "https://img.lemde.fr/2026/11/13/385/0/8438/4219/644/322/60/0/3492f83_upload-1-74sasl4j3xqc-000-d7d36t3.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Du Moyen-Orient à l’Asie, la grande course au stockage du pétrole",
-          "link": "https://www.lemonde.fr/economie/article/2026/11/13/du-moyen-orient-en-asie-la-grande-course-au-stockage-du-petrole_6809338_3234.html",
-          "published": "2026-11-13T16:00:06+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La crise du détroit d’Ormuz pousse les producteurs du Golfe et les importateurs asiatiques à créer de nouvelles capacités de réserve pour mieux surmon",
-          "image": "https://img.lemde.fr/2026/11/12/706/0/7557/3778/644/322/60/0/86c4ba9_upload-1-xvew5bilznyg-2026-03-24t144136z-750821153-rc2wakax5lig-rtrmadp-3-iran-crisis-fuel-singapore.JPG",
-          "other_news": false
-        },
-        {
           "title": "«Une catastrophe écologique» : en pleine sécheresse, un fleuve breton subitement acidifié, la faune aquatique décimée",
           "link": "https://vert.eco/climat/une-catastrophe-ecologique-en-pleine-secheresse-un-fleuve-breton-subitement-acidifie-la-faune-aquatique-decimee/",
           "published": "2026-11-14T06:00:00+00:00",
@@ -618,6 +574,17 @@
           "language": "en",
           "summary": "What is El Niño and why is this year’s different? A strengthening El Niño layered on top of decades of human-caused climate change is pushing ocean te",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Fish pay the price for sacred rituals at Mumbai’s Banganga Tank",
+          "link": "https://news.mongabay.com/short-article/2026/11/fish-pay-the-price-for-sacred-rituals-at-mumbais-banganga-tank/",
+          "published": "2026-11-16T23:18:51+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In October, hundreds of fish were found dead in Mumbai’s Banganga Tank, an ancient freshwater tank considered sacred with roots in Indian mythology. F",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/16231543/Banganga-scaled-e1794871091654-768x512.jpg",
           "other_news": false
         },
         {
@@ -717,6 +684,28 @@
           "summary": "New research from Oxfam shows the wealthiest 0.1% are making money from the climate crisis their pollution has caused, while buying protection for the",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "Pollution de l’air : malgré des progrès, Paris, Lyon et Marseille encore loin des meilleures villes européennes",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/17/pollution-de-l-air-malgre-des-progres-paris-lyon-et-marseille-encore-loin-des-meilleures-villes-europeennes_6812906_3244.html",
+          "published": "2026-11-17T06:20:04+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Clean Cities, une coalition regroupant plus de 150 organisations non gouvernementales, publie mardi un classement inédit des 40 grandes métropoles et",
+          "image": "https://img.lemde.fr/2026/11/16/66/0/5867/2933/644/322/60/0/607cded_upload-1-unmziqx5v56a-000-399n4hz.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Thailand-Myanmar river pollution agreement was weakened, then signed. China remains silent",
+          "link": "https://news.mongabay.com/2026/11/thailand-myanmar-river-pollution-agreement-was-weakened-then-signed-china-remains-silent/",
+          "published": "2026-11-17T03:36:37+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "MAE SAI, Thailand — Thai Foreign Minister Sihasak Phuangketkeow made a one-day visit to Naypyidaw, the capital of Myanmar, on Nov. 12 to speak with th",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/17025305/IMG_0063-768x512.jpg",
+          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -761,17 +750,6 @@
           "type": "news",
           "language": "en",
           "summary": "Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit.&#8230;",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "COP17 delivers fragile deal to boost conservation and funding for nature",
-          "link": "https://www.climatechangenews.com/2026/10/31/cop17-delivers-fragile-deal-scaling-up-biodiversity-conservation-armenia-cbd/",
-          "published": "2026-10-31T11:50:27+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "After a two-week stalemate, countries agreed to invite wealthy emerging economies like China to assume donor status and help fund biodiversity protect",
           "image": null,
           "other_news": true
         },
@@ -1266,6 +1244,17 @@
           "other_news": true
         },
         {
+          "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
+          "link": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
+          "published": "2026-11-17T05:00:00+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Russia, Saudi Arabia and COP31 co-president Australia are the largest exporters of carbon dioxide (CO2) emissions in history, reveals Carbon&#8230;\nTh",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "COP31: How Ed Miliband answered Carbon Brief readers’ questions",
           "link": "https://www.carbonbrief.org/cop31-how-ed-miliband-answered-carbon-brief-readers-questions",
           "published": "2026-11-12T16:55:59+00:00",
@@ -1343,13 +1332,13 @@
           "other_news": true
         },
         {
-          "title": "UK climate minister Katie White: COP31 must respond to ‘really scary’ science",
-          "link": "https://www.carbonbrief.org/uk-climate-minister-katie-white-cop31-must-respond-to-really-scary-science",
-          "published": "2026-11-03T16:50:09+00:00",
-          "source": "Carbonbrief",
+          "title": "Minerals for the planet or for war and AI? COP31 must make clear what we prioritise",
+          "link": "https://www.climatechangenews.com/2026/11/17/minerals-for-the-planet-or-for-war-and-ai-cop31-must-make-clear-what-we-prioritise/",
+          "published": "2026-11-17T04:00:00+00:00",
+          "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "The upcoming COP31 climate talks in Antalya, Turkey need to respond to the latest science on global warming, which is&#8230;\nThe post UK climate minis",
+          "summary": "As demand for minerals soars, intensifying pressure for new mining, meeting demand for the energy transition must come first \nThe post Minerals for th",
           "image": null,
           "other_news": true
         },
@@ -1640,6 +1629,28 @@
           "other_news": true
         },
         {
+          "title": "A la COP31, un premier projet de « décision finale » témoigne de l’ampleur des désaccords entre les pays",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/17/a-la-cop31-un-premier-projet-de-decision-finale-temoigne-de-l-ampleur-des-desaccords-entre-les-pays_6812908_3244.html",
+          "published": "2026-11-17T06:30:10+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les ministres de nombreux Etats, arrivés en Turquie pour la deuxième semaine de la conférence mondiale sur le climat, doivent permettre de faire avanc",
+          "image": "https://img.lemde.fr/2026/11/16/500/0/6000/3000/644/322/60/0/0604110_ftp-1-8s9gykoxupd9-2026-11-16t121814z-1673023041-rc2zooa020sr-rtrmadp-3-climate-cop31.JPG",
+          "other_news": true
+        },
+        {
+          "title": "Comment on a renaturé une friche polluée en créant des emplois",
+          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/11/17/comment-on-a-renature-une-friche-polluee-en-creant-des-emplois_6812898_6125299.html",
+          "published": "2026-11-17T05:45:02+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. A l’Ile-Sain",
+          "image": "https://img.lemde.fr/2026/11/03/560/0/6720/3360/644/322/60/0/305e72e_upload-1-1pbhck1wmzcr-260703jbalague-lemonde-lilo-5y5a4375.jpg",
+          "other_news": true
+        },
+        {
           "title": "COP31 : comment l’IA participe à la désinformation sur le climat",
           "link": "https://www.lemonde.fr/planete/article/2026/11/16/cop31-comment-l-ia-participe-a-la-desinformation-sur-le-climat_6811799_3244.html",
           "published": "2026-11-16T14:30:06+01:00",
@@ -1670,28 +1681,6 @@
           "language": "fr",
           "summary": "L’Etat du Para et cinquante villes de l’Etat de l’Amazonas ont été placés en état d’urgence afin de mobiliser tous les moyens pour combattre les feux",
           "image": "https://img.lemde.fr/2026/11/06/331/0/3972/1986/644/322/60/0/2f61674_ftp-1-kyfq7zwgr4ty-cd835f74b5ad4dfea6e87886a1e3499c-1-674f99135c7b454ab20bcdc3f4022319.jpg",
-          "other_news": true
-        },
-        {
-          "title": "A Antalya, en marge de la COP, des milliers de manifestants en colère contre les atteintes à l’environnement : « Nous ne croyons plus en ceux qui nous dirigent »",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/14/a-antalya-en-marge-de-la-cop-des-milliers-de-manifestants-en-colere-contre-les-atteintes-a-l-environnement-nous-ne-croyons-plus-en-ceux-qui-nous-dirigent_6810478_3244.html",
-          "published": "2026-11-14T20:18:06+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Près de 10 000 personnes ont défilé, samedi, sous une pluie fine, dans le calme et une ambiance bon enfant, derrière une large banderole écrite en tur",
-          "image": "https://img.lemde.fr/2026/11/14/202/0/8256/4128/644/322/60/0/9b8ad04_ftp-1-iiy8vpuhmnv2-afp-d7g78xm.jpg",
-          "other_news": true
-        },
-        {
-          "title": "A La Réunion, une sécheresse exceptionnelle menace la biodiversité d’une rivière du Sud sauvage",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/14/a-la-reunion-une-secheresse-exceptionnelle-menace-la-biodiversite-d-une-riviere-du-sud-sauvage_6809623_3244.html",
-          "published": "2026-11-14T05:30:18+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le manque de pluies depuis deux ans dans le massif du volcan, région traditionnellement très pluvieuse, n’a pas permis la recharge en eau de la rivièr",
-          "image": "https://img.lemde.fr/2026/11/13/262/0/2048/1024/644/322/60/0/2ea67d9_upload-1-seu9sfwwx79r-886725895-1535140518644403-532293597721799684-n.jpg",
           "other_news": true
         },
         {
@@ -1728,13 +1717,13 @@
           "other_news": true
         },
         {
-          "title": "Patrick Pouyanné, PDG de TotalEnergies, est membre de la délégation française à la COP31 sur le climat",
-          "link": "https://vert.eco/climat/patrick-pouyanne-pdg-de-totalenergies-est-membre-de-la-delegation-francaise-a-la-cop31-sur-le-climat/",
-          "published": "2026-11-10T17:44:38+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Large companies can still fall short on their climate commitments. Here’s what must change",
+          "link": "https://theconversation.com/large-companies-can-still-fall-short-on-their-climate-commitments-heres-what-must-change-295971",
+          "published": "2026-11-16T23:58:16+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Comme dans de précédentes COP sur le climat, l’influent patron de la major pétrogazière a été choisi par la France pour intégrer sa délégation en Turq",
+          "language": "en",
+          "summary": "A new study reveals some Australian companies are failing to translate their public net zero targets into concrete action.",
           "image": null,
           "other_news": true
         },
@@ -1757,17 +1746,6 @@
           "type": "news",
           "language": "en",
           "summary": "The Fund for Responding to Loss and Damage is meant for ‘particularly vulnerable’ countries. The definition decides who is supported and who is left o",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Can Indonesian researchers ever win a Nobel? Not without overhauling the research ecosystem",
-          "link": "https://theconversation.com/can-indonesian-researchers-ever-win-a-nobel-not-without-overhauling-the-research-ecosystem-295244",
-          "published": "2026-11-16T01:59:56+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Before dreaming of Nobel glory, Indonesia must lay the groundwork for long-term, sustainable scientific inquiry.",
           "image": null,
           "other_news": true
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:55:35.995241+00:00",
+  "generated_at": "2026-11-17T20:54:58.128345+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -25,17 +25,6 @@
           "language": "en",
           "summary": "Exclusive: EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whalesFollow our Australian politics live blog for latest updatesS",
           "image": "https://i.guim.co.uk/img/media/37e026264024c8b969ae4fa3d8d8601720087a90/625_0_6628_5304/master/6628.jpg?width=140&quality=85&auto=format&fit=max&s=6bb71c939b4be55c1dde8f059a0c009b",
-          "other_news": false
-        },
-        {
-          "title": "Mongabay shark meat investigation shortlisted for two journalism awards in Brazil",
-          "link": "https://news.mongabay.com/short-article/2026/11/mongabay-shark-meat-investigation-shortlisted-for-two-journalism-awards-in-brazil/",
-          "published": "2026-11-13T16:17:16+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A Mongabay investigation that revealed large-scale government purchases of shark meat for schools, hospitals, prisons and other public institutions in",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/07/29085517/shark-meat-at-store-768x512-1.jpg",
           "other_news": false
         }
       ],
@@ -159,6 +148,17 @@
           "language": "fr",
           "summary": "C'est le premier du genre. Un rapport publié le 10 novembre par les collectifs Break Free From Plastic, Facing Finance et FairFi",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/ccacola-d8f64.jpg?1794265200",
+          "other_news": false
+        },
+        {
+          "title": "Le député écologiste Nicolas Thierry récompensé par le prince William du prix Earthshot pour son combat contre les PFAS en France",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/17/nicolas-thierry-recompense-par-le-prix-earthshot-pour-son-combat-contre-les-pfas-en-france_6813033_3244.html",
+          "published": "2026-11-17T19:45:25+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Fils et petit-fils de viticulteurs, l’élu de Gironde a fait de la lutte contre la pollution chimique le fil conducteur de son engagement. Sa campagne",
+          "image": "https://img.lemde.fr/2026/11/17/915/0/3209/1604/644/322/60/0/334fd4f_upload-1-vt98u92nkubj-000-d7rl9nr.jpg",
           "other_news": false
         },
         {
@@ -590,6 +590,17 @@
           "other_news": false
         },
         {
+          "title": "In Antarctica’s ice-free areas, even footprints can damage rare microscopic ecosystems",
+          "link": "https://theconversation.com/in-antarcticas-ice-free-areas-even-footprints-can-damage-rare-microscopic-ecosystems-296045",
+          "published": "2026-11-17T19:10:18+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "In Antarctica’s McMurdo Dry Valleys, microbial communities are unique to each valley. A new study found people move them around with their boots.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "COP31 Must Deliver for Our Ocean",
           "link": "https://oceanconservancy.org/blog/2026/11/06/cop31/",
           "published": "2026-11-06T22:43:46+00:00",
@@ -905,6 +916,17 @@
           "other_news": true
         },
         {
+          "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+          "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-17T18:20:36+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7619/live/c9b38b90-e2ae-11f1-99b6-a35a62fa4264.jpg",
+          "other_news": true
+        },
+        {
           "title": "More than £160m needed to clean up one of Europe's largest illegal dumps",
           "link": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-17T09:46:31+00:00",
@@ -935,17 +957,6 @@
           "language": "en",
           "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b233/live/7e5aee10-de7e-11f1-b88b-3f1671ea859d.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Climate action discussed at youth COP meeting",
-          "link": "https://www.bbc.co.uk/news/articles/ckx28ly7y387o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-13T14:39:06+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "School children gather to discuss climate issues to coincide with the COP31 conference in Turkey.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1707/live/28a9afe0-df6b-11f1-9892-87464bbcc2b8.png",
           "other_news": true
         },
         {
@@ -1664,6 +1675,17 @@
           "other_news": true
         },
         {
+          "title": "Logement : l’Assemblée vote un amendement du RN supprimant toutes les interdictions de location liées au DPE",
+          "link": "https://www.lemonde.fr/politique/article/2026/11/17/logement-l-assemblee-vote-un-amendement-du-rn-supprimant-toutes-les-interdictions-de-location-liees-au-dpe_6813044_823448.html",
+          "published": "2026-11-17T21:46:06+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les députés sont allés plus loin que le texte initial, qui prévoyait déjà un assouplissement de la réglementation sur les passoires énergétiques, en s",
+          "image": "https://img.lemde.fr/2026/11/17/2409/0/3667/1833/644/322/60/0/f26bc1e_upload-1-9dnyv48jgytm-ad033-1europres-dsc09286.jpg",
+          "other_news": true
+        },
+        {
           "title": "Climat : comment ne pas revivre l’été 2026 ?",
           "link": "https://www.lemonde.fr/podcasts/article/2026/11/17/climat-comment-ne-pas-revivre-l-ete-2026_6812920_5463015.html",
           "published": "2026-11-17T07:30:15+01:00",
@@ -1708,14 +1730,14 @@
           "other_news": true
         },
         {
-          "title": "« Fractures françaises » : le lien entre activité humaine et changement climatique s’impose dans l’opinion",
-          "link": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-le-lien-entre-activite-humaine-et-changement-climatique-s-impose-dans-l-opinion_6811600_823448.html",
-          "published": "2026-11-16T08:30:00+01:00",
-          "source": "Le Monde Planète",
+          "title": "Vert se plie en quatre pour mettre l’écologie à la Une avec vous",
+          "link": "https://vert.eco/vert-vous-parle/vert-se-plie-en-quatre-pour-mettre-lecologie-a-la-une-avec-vous/",
+          "published": "2026-11-17T18:30:33+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Près des deux tiers des personnes interrogées (64 %) affirment que le réchauffement climatique est bien dû aux activités humaines. Il s’agit du plus h",
-          "image": "https://img.lemde.fr/2026/11/15/250/0/3008/1504/644/322/60/0/8196ed4_upload-1-ok6zyah4tw99-frame-1393.jpg",
+          "summary": "Vert l’infini et au delà. Après l’été le plus brutal de nos vies, l’écologie a déjà disparu des discours politiques et médiatiques. À Vert, on va se d",
+          "image": null,
           "other_news": true
         },
         {
@@ -1759,6 +1781,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Depuis le début du sommet mondial pour le climat (COP31) qui a débuté lundi à Antalya, en Turquie, plus de 120 jets privés ont atterri à l’aéroport de",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Jensen Huang scandal illustrates why human nature is cybersecurity’s weakest link",
+          "link": "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763",
+          "published": "2026-11-17T19:53:14+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Voice, physical touch and face-to-face interactions make people more trusting, compliant and willing to share sensitive information.",
           "image": null,
           "other_news": true
         },
@@ -1818,25 +1851,14 @@
           "other_news": true
         },
         {
-          "title": "Large companies can still fall short on their climate commitments. Here’s what must change",
-          "link": "https://theconversation.com/large-companies-can-still-fall-short-on-their-climate-commitments-heres-what-must-change-295971",
-          "published": "2026-11-16T23:58:16+00:00",
-          "source": "The Conversation",
+          "title": "In Zimbabwe, trusted local guardians help communities coexist with lions",
+          "link": "https://news.mongabay.com/podcast/2026/11/in-zimbabwe-trusted-local-guardians-help-communities-coexist-with-lions/",
+          "published": "2026-11-17T19:36:50+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "A new study reveals some Australian companies are failing to translate their public net zero targets into concrete action.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Sentinels is an urgent call to action on bird flu, and capitalism gone wild. It’s also a joy to read",
-          "link": "https://theconversation.com/sentinels-is-an-urgent-call-to-action-on-bird-flu-and-capitalism-gone-wild-its-also-a-joy-to-read-293348",
-          "published": "2026-11-16T18:24:34+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Sentinels offers hope without sugarcoating. It’s a vital call for action on capitalism and climate change.",
-          "image": null,
+          "summary": "Conservation biologist and founder of the nonprofit Wildlife Conservation Action, Moreangels Mbizah joins the Mongabay Newscast this week to detail he",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/16040900/Community-Guardians-from-Nyaminyami-posing-with-their-moterbikes-768x512.jpg",
           "other_news": true
         },
         {
@@ -1914,17 +1936,6 @@
           "language": "en",
           "summary": "Deforestation, organized crime and the expansion of cattle ranching have led the government in Honduras to announce an “environmental emergency” in th",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/13183647/AP17144742705747-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "There’s no substitute for getting out of the classroom and into nature (analysis)",
-          "link": "https://news.mongabay.com/2026/11/theres-no-substitute-for-getting-out-of-the-classroom-and-into-nature-analysis/",
-          "published": "2026-11-13T16:56:05+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Leading a group of ecology students down a trail through the forest behind Merrimack College, in North Andover, Massachusetts, U.S., where I teach bio",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/13161326/Harvard-University-Costa-Rica-herpetology-course-tripMarch-2008-011-768x512.jpg",
           "other_news": true
         }
       ]

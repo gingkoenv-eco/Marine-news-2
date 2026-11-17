@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:01:23.365625+00:00",
+  "generated_at": "2026-11-17T16:55:35.995241+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -87,17 +87,6 @@
           "type": "news",
           "language": "en",
           "summary": "One of the key expected outcomes from the upcoming COP31 climate summit in Antalya, Turkey, is the launch of a&#8230;\nThe post Q&amp;A: What is the Be",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "COP31 Bulletin Day 8: EU dubs draft cover text “a shopping list” and endorses electrification goal",
-          "link": "https://www.climatechangenews.com/2026/11/17/cop31-bulletin-day-8-arab-group-russia-reject-cover-text-over-fossil-fuels-and-electrification-goal/",
-          "published": "2026-11-17T09:29:23+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Negotiations will try to slim down the bulky draft cover decision, while the EU backs the electrification goal, and oceans and science feature at even",
           "image": null,
           "other_news": false
         },
@@ -699,6 +688,17 @@
     "Other News": {
       "Plastic & Ocean Pollution": [
         {
+          "title": "Au cœur des moulins glaciaires du Groenland, la marque d’une pollution venue de loin",
+          "link": "https://theconversation.com/au-coeur-des-moulins-glaciaires-du-groenland-la-marque-dune-pollution-venue-de-loin-292257",
+          "published": "2026-11-17T16:14:32+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Une expédition menée au Groenland a pu accéder à des «&nbsp;archives&nbsp;» de la pollution atmosphérique, grâce à l’exploration des puits creusés par",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Feux d’artifice : quelques minutes de fête, des coûts durables pour la santé et l’environnement",
           "link": "https://theconversation.com/feux-dartifice-quelques-minutes-de-fete-des-couts-durables-pour-la-sante-et-lenvironnement-296305",
           "published": "2026-11-15T07:27:42+00:00",
@@ -751,6 +751,17 @@
           "language": "en",
           "summary": "New research from Oxfam shows the wealthiest 0.1% are making money from the climate crisis their pollution has caused, while buying protection for the",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Top 40 des villes européennes polluées : Lyon, Paris et Marseille mal classées",
+          "link": "https://reporterre.net/Top-40-des-villes-europeennes-polluees-Lyon-Paris-et-Marseille-mal-classees",
+          "published": "2026-11-17T16:48:56+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Plus de 700 morts par an à Marseille, 800 à Lyon et plus de 4 000 dans l'agglomération parisienne : en France, la pollution de l",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250601__hl_abonnard_2785986__v1__highres__francetrafficjamsslowdownsautoroute_1_-984d8.jpg?1794934141",
           "other_news": true
         },
         {
@@ -1011,17 +1022,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Quand la conservation touche les populations locales, qui paie et qui a son mot à dire&nbsp;? Le rétablissement du condor de Californie éclaire les dé",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Effacement électrique : la Cour des comptes dénonce une politique coûteuse et inefficace",
-          "link": "https://theconversation.com/effacement-electrique-la-cour-des-comptes-denonce-une-politique-couteuse-et-inefficace-294262",
-          "published": "2026-10-29T09:35:54+00:00",
-          "source": "The Conversation FR",
-          "type": "news",
-          "language": "fr",
-          "summary": "La Cour des comptes a récemment publié un bilan sévère, qui pointe de nombreux dysfonctionnements du dispositif qui existait jusqu’en 2026.",
           "image": null,
           "other_news": true
         },
@@ -1719,6 +1719,17 @@
           "other_news": true
         },
         {
+          "title": "«Ce serait hyper puissant» : à la COP31, les associations et l’ONU poussent pour taxer les multinationales fossiles",
+          "link": "https://vert.eco/climat/ce-serait-hyper-puissant-a-la-cop31-les-associations-et-lonu-poussent-pour-taxer-les-multinationales-fossiles/",
+          "published": "2026-11-17T16:05:37+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’instauration d’une taxe sur les profits du secteur pétrolier et gazier émerge au sommet mondial sur le climat à Antalya en Turquie. Le chef des Nati",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Trois heures de débat et… une minute sur l’écologie : l’environnement absent de la soirée présidentielle sur LCI",
           "link": "https://vert.eco/politique/trois-heures-de-debat-et-une-minute-sur-lecologie-lenvironnement-absent-de-la-soiree-presidentielle-sur-lci/",
           "published": "2026-11-17T10:22:20+00:00",
@@ -1752,13 +1763,35 @@
           "other_news": true
         },
         {
-          "title": "En République démocratique du Congo, l’industrie minière détruit la forêt pour la transition énergétique des pays riches",
-          "link": "https://vert.eco/biodiversite/en-republique-democratique-du-congo-lindustrie-miniere-detruit-la-foret-pour-la-transition-energetique-des-pays-riches/",
-          "published": "2026-11-11T10:00:00+00:00",
-          "source": "Vert Eco Articles",
+          "title": "What AI regulation could learn from the most hazardous industries in the world",
+          "link": "https://theconversation.com/what-ai-regulation-could-learn-from-the-most-hazardous-industries-in-the-world-295475",
+          "published": "2026-11-17T16:25:49+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Au sud de la République démocratique du Congo, les mines de cuivre et de cobalt alimentent la transition énergétique mondiale. Autour des concessions,",
+          "language": "en",
+          "summary": "Drawing lessons from other industries could help reinforce the safety of AI systems.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How restaurants can make sustainable dining choices easier while still making a profit",
+          "link": "https://theconversation.com/how-restaurants-can-make-sustainable-dining-choices-easier-while-still-making-a-profit-296458",
+          "published": "2026-11-17T16:22:40+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Restaurants can shape what diners eat, but evidence that greener menus reduce environmental harm or protect businesses remains limited.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "An atlas of vanished places: how climate change is rewriting the books on our shelves",
+          "link": "https://theconversation.com/an-atlas-of-vanished-places-how-climate-change-is-rewriting-the-books-on-our-shelves-296224",
+          "published": "2026-11-17T16:01:00+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As landscapes change around us, novels and non-fiction books remain the same.",
           "image": null,
           "other_news": true
         },

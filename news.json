@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:48:05.778048+00:00",
+  "generated_at": "2026-11-18T06:01:57.478065+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -315,6 +315,17 @@
       ],
       "Other Marine News": [
         {
+          "title": "Big wave surfers line up to ride ‘raw power of the Pacific’ during Super El Niño swells",
+          "link": "https://www.theguardian.com/us-news/2026/nov/16/big-wave-surfers-san-francisco-el-nino",
+          "published": "2026-11-16T23:01:28+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Fans dubbed the event ‘Monster Day’ as pro surfers tackled the storm-driven waves at Mavericks Beach, CaliforniaWhile this year’s Super El Niño storms",
+          "image": "https://i.guim.co.uk/img/media/d83994c899f06f6b3c9e6f669ab4527ee48b60fb/158_0_1583_1267/master/1583.jpg?width=140&quality=85&auto=format&fit=max&s=da0d5e6b0e06bec73903d85fa994f040",
+          "other_news": false
+        },
+        {
           "title": "Working in Cape Cod’s waters, he saw an unusual clam. It was the start of an invasion",
           "link": "https://www.theguardian.com/environment/2026/nov/16/cape-cod-invasive-manila-clams",
           "published": "2026-11-16T12:00:58+00:00",
@@ -348,7 +359,7 @@
           "other_news": false
         },
         {
-          "title": "A super El Niño brings startling changes for marine life on California coast: ‘like nothing we’ve ever seen’",
+          "title": "A super El Niño brings startling changes for marine life on California coast: ‘Like nothing we’ve ever seen’",
           "link": "https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay",
           "published": "2026-11-13T12:00:19+00:00",
           "source": "The Guardian Ocean & Marine",
@@ -400,6 +411,17 @@
           "language": "en",
           "summary": "These yachts are highly popular with the ‘super-bourgeoisie’ – and getting bigger. Can anything be done to stop them destroying our seas?Who knew? App",
           "image": "https://i.guim.co.uk/img/media/dbde1eee5b098c813263060981ce6adf1d555d53/0_0_5356_4284/master/5356.jpg?width=140&quality=85&auto=format&fit=max&s=0ecc2f1b17f83aed8db83b7b7c522de4",
+          "other_news": false
+        },
+        {
+          "title": "Fears toxic lagoon fire led to cancer and miscarriages",
+          "link": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-17T22:39:23+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The incident took place in Llwyneinion in August 1980.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cb9/live/45f494d0-e294-11f1-99a1-253766e7ad8b.jpg",
           "other_news": false
         },
         {
@@ -586,6 +608,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Dans le bassin versant de l'Odet, fleuve qui traverse Quimper (Finistère), l'eau a atteint un niveau d’acidité toxique pour la faune.  Un phénomène ra",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Storm Boy at 50: South Australia’s stunning coastal landscape is key to this beloved film’s success",
+          "link": "https://theconversation.com/storm-boy-at-50-south-australias-stunning-coastal-landscape-is-key-to-this-beloved-films-success-296262",
+          "published": "2026-11-18T03:23:29+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "David Gulpilil’s poignant performance, Indigenous storytelling and the spectacular Coorong landscape give Storm Boy a legacy that goes beyond nostalgi",
           "image": null,
           "other_news": false
         },
@@ -913,6 +946,28 @@
           "language": "en",
           "summary": "President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather eventsSwee",
           "image": "https://i.guim.co.uk/img/media/177f777c410c1e1edbc2c7e8e9fd013495de2a9e/346_0_4867_3895/master/4867.jpg?width=140&quality=85&auto=format&fit=max&s=ffa1f1919e6c6d781f1902e29839f328",
+          "other_news": true
+        },
+        {
+          "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
+          "link": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-18T00:44:48+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36bf/live/43e4a6f0-e29c-11f1-8dda-8925a81c3da5.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
+          "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-17T23:34:56+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9b/live/9d67ed20-e29e-11f1-8dda-8925a81c3da5.jpg",
           "other_news": true
         },
         {
@@ -1675,6 +1730,17 @@
           "other_news": true
         },
         {
+          "title": "Comment le changement climatique met sous pression le tourisme mondial",
+          "link": "https://www.lemonde.fr/economie/article/2026/11/18/comment-le-changement-climatique-met-sous-pression-le-tourisme-mondial_6813079_3234.html",
+          "published": "2026-11-18T06:55:11+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors que les risques liés à l’augmentation des températures vont s’accentuer, le secteur touristique reste insuffisamment préparé, souligne le rappor",
+          "image": "https://img.lemde.fr/2026/11/17/439/0/4252/2126/644/322/60/0/1688a92_upload-1-mw7eherdes81-000-c6ca363.jpg",
+          "other_news": true
+        },
+        {
           "title": "Logement : l’Assemblée vote un amendement du RN supprimant toutes les interdictions de location liées au DPE",
           "link": "https://www.lemonde.fr/politique/article/2026/11/17/logement-l-assemblee-vote-un-amendement-du-rn-supprimant-toutes-les-interdictions-de-location-liees-au-dpe_6813044_823448.html",
           "published": "2026-11-17T21:46:06+01:00",
@@ -1716,17 +1782,6 @@
           "language": "fr",
           "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. A l’Ile-Sain",
           "image": "https://img.lemde.fr/2026/11/03/560/0/6720/3360/644/322/60/0/305e72e_upload-1-1pbhck1wmzcr-260703jbalague-lemonde-lilo-5y5a4375.jpg",
-          "other_news": true
-        },
-        {
-          "title": "COP31 : comment l’IA participe à la désinformation sur le climat",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/16/cop31-comment-l-ia-participe-a-la-desinformation-sur-le-climat_6811799_3244.html",
-          "published": "2026-11-16T14:30:06+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Un rapport présenté lundi lors de la 31ᵉ conférence mondiale sur le climat, en Turquie, affirme que dans huit cas sur dix, les modèles d’intelligence",
-          "image": "https://img.lemde.fr/2026/01/20/250/0/3000/1500/644/322/60/0/ebb036e_upload-1-k1kevf2i5jjd-fond-12.jpg",
           "other_news": true
         },
         {
@@ -1781,6 +1836,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Depuis le début du sommet mondial pour le climat (COP31) qui a débuté lundi à Antalya, en Turquie, plus de 120 jets privés ont atterri à l’aéroport de",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Your nature strip could be a haven for native plants and insects: new research",
+          "link": "https://theconversation.com/your-nature-strip-could-be-a-haven-for-native-plants-and-insects-new-research-293929",
+          "published": "2026-11-18T00:16:51+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "After planting native gardens on nature strips, we found seven times more insect pollinators came to visit.",
           "image": null,
           "other_news": true
         },
@@ -1848,6 +1914,17 @@
           "language": "en",
           "summary": "The lights may have gone out in Novaya Gazeta’s Moscow newsroom, but the traditions the newspaper represented endure.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Jason Clay, who persuaded big business to help save nature, has died at 75",
+          "link": "https://news.mongabay.com/2026/11/jason-clay-who-persuaded-big-business-to-help-save-nature-has-died-at-75/",
+          "published": "2026-11-17T22:02:18+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In 1988 Jason Clay attended a Grateful Dead concert at Madison Square Garden and met a man who wanted to help save tropical rainforests. Clay, an anth",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/17215347/jason-clay-768x512.jpg",
           "other_news": true
         },
         {
@@ -1925,17 +2002,6 @@
           "language": "en",
           "summary": "The South African Supreme Court of Appeal recently dismissed the government’s appeal against a ruling that struck down plans for 1,500 megawatts of ne",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/13212055/Kusilekragsentrale_Mpumalanga_2019_a-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Honduras declares ‘environmental emergency’ in Río Plátano Biosphere Reserve",
-          "link": "https://news.mongabay.com/short-article/2026/11/honduras-declares-environmental-emergency-in-rio-platano-biosphere-reserve/",
-          "published": "2026-11-13T18:42:57+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Deforestation, organized crime and the expansion of cattle ranching have led the government in Honduras to announce an “environmental emergency” in th",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/13183647/AP17144742705747-768x512.jpg",
           "other_news": true
         }
       ]

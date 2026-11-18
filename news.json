@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T06:01:57.478065+00:00",
+  "generated_at": "2026-11-18T15:40:47.941145+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -41,19 +41,6 @@
           "other_news": false
         }
       ],
-      "Species Migration & Habitat Change": [
-        {
-          "title": "Europe’s Rwanda return hub raises serious human rights concerns – a migration researcher explains",
-          "link": "https://theconversation.com/europes-rwanda-return-hub-raises-serious-human-rights-concerns-a-migration-researcher-explains-291697",
-          "published": "2026-11-17T13:44:42+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Externalisation has proved ineffective, expensive and corrosive to international law.",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Marine Protected Areas & Policy": [
         {
           "title": "Clean power shields China from oil shock more than any other country",
@@ -80,6 +67,17 @@
           "other_news": false
         },
         {
+          "title": "Ocean advocates warn COP31 agreement should not be read as geoengineering boost",
+          "link": "https://www.climatechangenews.com/2026/11/18/ocean-advocates-warn-cop31-agreement-geoengineering-cdr-removal-marine/",
+          "published": "2026-11-18T14:21:23+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "The COP31 cover decision draft text include a controversial goal to increase carbon dioxide removal, which ocean advocates say could impact ecosystems",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "COP31 can’t deliver for islands without delivering for the ocean",
           "link": "https://www.climatechangenews.com/2026/11/17/cop31-cant-deliver-for-islands-without-delivering-for-the-ocean/",
           "published": "2026-11-17T09:24:16+00:00",
@@ -98,6 +96,17 @@
           "type": "news",
           "language": "en",
           "summary": "A group of countries including African nations, European Union, and small island states wants COP31 to deliver an ocean roadmap towards 2028\nThe post",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Niue Ocean Wide Trust wins 2026 Earthshot Prize",
+          "link": "https://oceanographicmagazine.com/news/niue-ocean-wide-trust-wins-2026-earthshot-prize/",
+          "published": "2026-11-18T11:34:43+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The Pacific nation’s Trust, which funds long-term protection of its entire ocean territory by selling Ocean Conservation Commitments, takes the Revive",
           "image": null,
           "other_news": false
         },
@@ -186,17 +195,6 @@
           "other_news": false
         },
         {
-          "title": "Almost every shallow-water coral reef on the planet faces ecosystem collapse by 2075, UN advisors say",
-          "link": "https://www.theguardian.com/australia-news/2026/oct/22/shallow-water-coral-reef-ecosystem-collapse-by-2075-un-advisors-say",
-          "published": "2026-10-22T12:00:45+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Assessment finds global heating is endangering 96% of coral reefs across 80 countries – a figure scientists say should serve as a ‘wake-up call’Sign u",
-          "image": "https://i.guim.co.uk/img/media/c1d0cd51dc12a1cdab85e673f2c5f4da07499f11/439_0_3096_2477/master/3096.jpg?width=140&quality=85&auto=format&fit=max&s=6044542b9f8f6e9784bc12307a88d9ee",
-          "other_news": false
-        },
-        {
           "title": "Whale genomes sequenced from drone-collected ‘snot’ in world first",
           "link": "https://oceanographicmagazine.com/news/whale-genomes-sequenced-from-drone-collected-snot-in-world-first/",
           "published": "2026-11-17T12:30:21+00:00",
@@ -261,16 +259,18 @@
           "summary": "A large camera-trap survey in a mangrove forest in southwestern Sarawak, Malaysia, has revealed new insights into the habitats and activity patterns o",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/16053011/Picture1.png",
           "other_news": false
-        },
+        }
+      ],
+      "Sustainable Fisheries": [
         {
-          "title": "Indiana Jones at the fish market: David Ebert on a life spent searching for ‘lost sharks’",
-          "link": "https://news.mongabay.com/2026/11/indiana-jones-at-the-fish-market-david-ebert-on-a-life-spent-searching-for-lost-sharks/",
-          "published": "2026-11-16T03:38:04+00:00",
-          "source": "Mongabay Marine",
+          "title": "‘Huge experiment in biogeography’: US offshore windfarms are creating artificial reefs",
+          "link": "https://www.theguardian.com/us-news/2026/nov/18/offshore-wind-farms-artificial-reef-experiment-fishing-industry",
+          "published": "2026-11-18T14:00:04+00:00",
+          "source": "The Guardian Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "If there’s an Indiana Jones of the shark world, David Ebert is it. Known as the “Lost Shark Guy,” the Californian marine biologist has spent his caree",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/11090839/1-Ebert-2017_Shark-Week-with-Frilled-Shark-768x512.jpg",
+          "summary": "Scientists and fishers study how these ‘reefs’ and the creatures living on them are transforming the ocean floor – and what it means for the fishing i",
+          "image": "https://i.guim.co.uk/img/media/357c057ffd037975abe9fde2c30429a651d61667/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=a30e8f3fe5f441093f0f3cdfd6d9b71e",
           "other_news": false
         }
       ],
@@ -284,19 +284,6 @@
           "language": "en",
           "summary": "Proponents argue ocean carbon removal is necessary to counteract the effects of the climate crisis but critics say more research is needed A cluster o",
           "image": "https://i.guim.co.uk/img/media/3c561805685030208ac5f4bb8e73a9cc273ad328/1034_0_6251_5000/master/6251.jpg?width=140&quality=85&auto=format&fit=max&s=1eb17a5695d4a9d96236985c9f534ec6",
-          "other_news": false
-        }
-      ],
-      "Nature-Based Solutions & Restoration": [
-        {
-          "title": "Alerte sur l’« aggravation historique » de l’état de la plupart des récifs coralliens, des herbiers et des mangroves des territoires d’outre-mer",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/16/alerte-sur-l-aggravation-historique-de-l-etat-de-la-plupart-des-recifs-coralliens-herbiers-et-mangroves-des-territoires-d-outre-mer_6812295_3244.html",
-          "published": "2026-11-16T20:00:04+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "L’Initiative française pour les récifs coralliens a publié, lundi 16 novembre, un bilan des écosystèmes marins français d’outre-mer.",
-          "image": "https://img.lemde.fr/2026/11/16/500/0/4000/2000/644/322/60/0/b1c3607_upload-1-2yn0ixxbcnhd-000-996d2ke-1.jpg",
           "other_news": false
         }
       ],
@@ -314,6 +301,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "‘The sea washed away trees, then a whole row of houses. I knew it was time to get out’ – This is climate breakdown",
+          "link": "https://www.theguardian.com/environment/ng-interactive/2026/nov/18/el-bosque-mexico-displaced-sea-level-this-is-climate-breakdown",
+          "published": "2026-11-18T12:00:58+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "She noticed the trees going first. Slowly she understood that the sea was going to take the whole village. This is Guadalupe Cobos Pacheco’s storyLoca",
+          "image": "https://i.guim.co.uk/img/media/e54b42e3182b9d75ff85764ea02eec507c78e210/355_599_2923_2339/master/2923.jpg?width=140&quality=85&auto=format&fit=max&s=b9726ed85f01a5355c0474b48ab9d202",
+          "other_news": false
+        },
         {
           "title": "Big wave surfers line up to ride ‘raw power of the Pacific’ during Super El Niño swells",
           "link": "https://www.theguardian.com/us-news/2026/nov/16/big-wave-surfers-san-francisco-el-nino",
@@ -403,14 +401,14 @@
           "other_news": false
         },
         {
-          "title": "Excessive wealth, extreme emissions – and ecocide: what I learned at Europe’s big superyacht show",
-          "link": "https://www.theguardian.com/news/2026/oct/20/excessive-wealth-extreme-emissions-and-ecocide-what-i-learned-at-europes-big-superyacht-show",
-          "published": "2026-10-20T09:00:22+00:00",
-          "source": "The Guardian Ocean & Marine",
+          "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+          "link": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-18T10:48:49+00:00",
+          "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "These yachts are highly popular with the ‘super-bourgeoisie’ – and getting bigger. Can anything be done to stop them destroying our seas?Who knew? App",
-          "image": "https://i.guim.co.uk/img/media/dbde1eee5b098c813263060981ce6adf1d555d53/0_0_5356_4284/master/5356.jpg?width=140&quality=85&auto=format&fit=max&s=0ecc2f1b17f83aed8db83b7b7c522de4",
+          "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8aa/live/74cc1cc0-e33d-11f1-99a1-253766e7ad8b.jpg",
           "other_news": false
         },
         {
@@ -422,6 +420,17 @@
           "language": "en",
           "summary": "The incident took place in Llwyneinion in August 1980.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cb9/live/45f494d0-e294-11f1-99a1-253766e7ad8b.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Conservationists searching for large river eels",
+          "link": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-18T06:19:28+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Tees Rivers Trust has been searching for eels to tag and track as they migrate out to sea.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55ec/live/b074fa60-df75-11f1-b441-2b33b063138f.jpg",
           "other_news": false
         },
         {
@@ -524,14 +533,14 @@
           "other_news": false
         },
         {
-          "title": "India builds deep-sea capacity in bet on critical minerals future",
-          "link": "https://www.climatechangenews.com/2026/11/04/india-builds-deep-sea-capacity-in-bet-on-critical-minerals-future/",
-          "published": "2026-11-04T12:53:31+00:00",
-          "source": "Climate change news",
+          "title": "La Bretagne à sec en novembre, l'eau d'un lac pompée pour renflouer les robinets",
+          "link": "https://reporterre.net/La-Bretagne-a-sec-en-novembre-l-eau-d-un-lac-pompee-pour-renflouer-les-robinets",
+          "published": "2026-11-18T14:54:23+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Striving to keep up with regional competitors, India has built up its ocean mining capacity - despite a push by 46 countries and marine scientists for",
-          "image": null,
+          "language": "fr",
+          "summary": "La sécheresse historique qui frappe depuis l'été menace l'approvisionnement en eau potable de toute la Bretagne. Dans les Côtes-",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH525/l_e_tang_de_jugon_a__jugon-les-lacs-c71ab.jpg?1795013736",
           "other_news": false
         },
         {
@@ -601,6 +610,17 @@
           "other_news": false
         },
         {
+          "title": "Congé climatique, interdiction des pesticides, sortie du nucléaire… Ce que contient le programme de Marine Tondelier sur l’écologie",
+          "link": "https://vert.eco/politique/conge-climatique-interdiction-des-pesticides-sortie-du-nucleaire-ce-que-contient-le-programme-de-marine-tondelier-sur-lecologie/",
+          "published": "2026-11-18T10:42:29+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les Écologistes ont publié cet été leur programme en vue de l’élection présidentielle de 2027, avec pour objectif d’atteindre la «prospérité écologiqu",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "«Une catastrophe écologique» : en pleine sécheresse, un fleuve breton subitement acidifié, la faune aquatique décimée",
           "link": "https://vert.eco/climat/une-catastrophe-ecologique-en-pleine-secheresse-un-fleuve-breton-subitement-acidifie-la-faune-aquatique-decimee/",
           "published": "2026-11-14T06:00:00+00:00",
@@ -608,6 +628,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Dans le bassin versant de l'Odet, fleuve qui traverse Quimper (Finistère), l'eau a atteint un niveau d’acidité toxique pour la faune.  Un phénomène ra",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Your brain may be hiding Alzheimer’s from you – and that’s not always a good thing",
+          "link": "https://theconversation.com/your-brain-may-be-hiding-alzheimers-from-you-and-thats-not-always-a-good-thing-296019",
+          "published": "2026-11-18T15:25:34+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Brain ‘resilience’ may hide the disease until it’s too late.",
           "image": null,
           "other_news": false
         },
@@ -665,17 +696,6 @@
           "summary": "In October, hundreds of fish were found dead in Mumbai’s Banganga Tank, an ancient freshwater tank considered sacred with roots in Indian mythology. F",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/16231543/Banganga-scaled-e1794871091654-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Spicy ping-pong balls and flaming dung keep elephants at bay in Zimbabwe",
-          "link": "https://news.mongabay.com/short-article/2026/11/spicy-ping-pong-balls-and-flaming-dung-keep-elephants-at-bay-in-zimbabwe/",
-          "published": "2026-11-14T09:18:50+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "On the front line of the human-elephant conflict, coming up with non-lethal methods of protecting crops means getting creative. In one village in Zimb",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/14091758/Mongabay_Thumbnail_Spyci_Featured-338x512.jpg",
-          "other_news": false
         }
       ]
     },
@@ -732,6 +752,17 @@
     "Other News": {
       "Plastic & Ocean Pollution": [
         {
+          "title": "People asked for views on blue brook pollution",
+          "link": "https://www.bbc.co.uk/news/articles/cqpv9mjm78m3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-18T08:37:02+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Environment Agency wants to know how the incident affected visitors, residents and businesses.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf1/live/46364460-e326-11f1-baab-4b3b35d174b7.jpg",
+          "other_news": true
+        },
+        {
           "title": "Au cœur des moulins glaciaires du Groenland, la marque d’une pollution venue de loin",
           "link": "https://theconversation.com/au-coeur-des-moulins-glaciaires-du-groenland-la-marque-dune-pollution-venue-de-loin-292257",
           "published": "2026-11-17T16:14:32+00:00",
@@ -749,7 +780,7 @@
           "source": "The Conversation FR",
           "type": "news",
           "language": "fr",
-          "summary": "Pollution de l’air, blessures, stress des animaux et coûts de santé… une partie de la facture des feux d’artifices est supportée par la collectivité.",
+          "summary": "Pollution de l’air, blessures, stress des animaux et coûts de santé… une partie de la facture des feux d’artifice est supportée par la collectivité.",
           "image": null,
           "other_news": true
         },
@@ -798,7 +829,7 @@
           "other_news": true
         },
         {
-          "title": "Top 40 des villes européennes polluées : Lyon, Paris et Marseille mal classées",
+          "title": "Pollution de l'air : Lyon, Paris et Marseille mauvaises élèves du Top 40",
           "link": "https://reporterre.net/Top-40-des-villes-europeennes-polluees-Lyon-Paris-et-Marseille-mal-classees",
           "published": "2026-11-17T16:48:56+00:00",
           "source": "Reporterre",
@@ -809,14 +840,14 @@
           "other_news": true
         },
         {
-          "title": "Pollution de l’air : malgré des progrès, Paris, Lyon et Marseille encore loin des meilleures villes européennes",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/17/pollution-de-l-air-malgre-des-progres-paris-lyon-et-marseille-encore-loin-des-meilleures-villes-europeennes_6812906_3244.html",
-          "published": "2026-11-17T06:20:01+01:00",
-          "source": "Le Monde Planète",
+          "title": "How sustainable are bioplastics, really?",
+          "link": "https://theconversation.com/how-sustainable-are-bioplastics-really-296226",
+          "published": "2026-11-18T11:59:06+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Clean Cities, une coalition regroupant plus de 150 organisations non gouvernementales, publie, mardi, un classement inédit des 40 grandes métropoles e",
-          "image": "https://img.lemde.fr/2026/11/16/66/0/5867/2933/644/322/60/0/607cded_upload-1-unmziqx5v56a-000-399n4hz.jpg",
+          "language": "en",
+          "summary": "Biodegradable, plant-based plastics can reduce pollution, but they still face major obstacles.",
+          "image": null,
           "other_news": true
         },
         {
@@ -864,17 +895,6 @@
           "summary": "Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit.&#8230;",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "Targeted by al-Shabaab for defending Kenya’s ecosystems: Foundation founder gets award",
-          "link": "https://news.mongabay.com/2026/11/targeted-by-al-shabaab-for-defending-kenyas-ecosystems-foundation-founder-gets-award/",
-          "published": "2026-11-15T02:07:52+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Conservation is rarely conflict-free. On Kenya’s northern coastline, in Lamu and Tana River counties — a biodiversity hotspot where the nation&#8217;s",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/15020457/2S3A4056_PuQCwKvR-768x512.jpg",
-          "other_news": true
         }
       ],
       "Fisheries & Climate Change Ecosystem": [
@@ -903,6 +923,17 @@
           "other_news": true
         },
         {
+          "title": "Midterms’ ‘blue tsunami’ gives Congress and states an opportunity to take action on climate change – here’s what they could actually do",
+          "link": "https://theconversation.com/midterms-blue-tsunami-gives-congress-and-states-an-opportunity-to-take-action-on-climate-change-heres-what-they-could-actually-do-296590",
+          "published": "2026-11-18T13:34:41+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "Democrats will have a stronger hand to play in negotiations with the White House, but policy choices have to consider America’s greatest concerns, inc",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "How the US elections and Iran war are influencing the UN’s COP31 climate talks – and discussions around fossil fuels",
           "link": "https://theconversation.com/how-the-us-elections-and-iran-war-are-influencing-the-uns-cop31-climate-talks-and-discussions-around-fossil-fuels-296682",
           "published": "2026-11-16T20:31:35+00:00",
@@ -910,17 +941,6 @@
           "type": "news",
           "language": "en",
           "summary": "I have followed the talks for years as a policy expert and former climate envoy for Germany, and I’m seeing growing concern about the rising costs and",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "US foreign policy leaders say America should take an active role in world affairs – but no consensus on whether Trump’s policies are working",
-          "link": "https://theconversation.com/us-foreign-policy-leaders-say-america-should-take-an-active-role-in-world-affairs-but-no-consensus-on-whether-trumps-policies-are-working-296039",
-          "published": "2026-11-17T13:40:15+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "A survey of 449 US foreign policy experts exposes stark differences on the role of US power in the world and raises questions about how best America c",
           "image": null,
           "other_news": true
         }
@@ -946,6 +966,17 @@
           "language": "en",
           "summary": "President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather eventsSwee",
           "image": "https://i.guim.co.uk/img/media/177f777c410c1e1edbc2c7e8e9fd013495de2a9e/346_0_4867_3895/master/4867.jpg?width=140&quality=85&auto=format&fit=max&s=ffa1f1919e6c6d781f1902e29839f328",
+          "other_news": true
+        },
+        {
+          "title": "Stormont department failing to protect wild birds, investigation finds",
+          "link": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-18T12:13:32+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Area",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b02/live/938feeb0-e348-11f1-99aa-0f40b013ad11.jpg",
           "other_news": true
         },
         {
@@ -993,14 +1024,14 @@
           "other_news": true
         },
         {
-          "title": "Bluetongue virus confirmed on County Down farm",
-          "link": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-14T06:56:58+00:00",
+          "title": "William and Kate honour Earthshot Prize winners in Mumbai",
+          "link": "https://www.bbc.co.uk/news/videos/cmwy97rj83n1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-18T11:18:04+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4084/live/7a74d700-d03f-11f0-a224-bf3cbaf1e70d.jpg",
+          "summary": "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winner",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f7c/live/f6abfca0-e33e-11f1-99aa-0f40b013ad11.jpg",
           "other_news": true
         },
         {
@@ -1012,17 +1043,6 @@
           "language": "en",
           "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b233/live/7e5aee10-de7e-11f1-b88b-3f1671ea859d.jpg",
-          "other_news": true
-        },
-        {
-          "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
-          "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-12T06:02:55+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e0/live/4c115b80-de72-11f1-b441-2b33b063138f.jpg",
           "other_news": true
         },
         {
@@ -1356,17 +1376,6 @@
           "other_news": true
         },
         {
-          "title": "Candidates are quietly talking about climate change – 3 election strategies you’ll see across the US",
-          "link": "https://theconversation.com/candidates-are-quietly-talking-about-climate-change-3-election-strategies-youll-see-across-the-us-293687",
-          "published": "2026-10-19T12:36:08+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Voters have a lot of weighty issues on their minds, but that doesn’t mean they aren’t worried about climate change.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
           "link": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
           "published": "2026-11-17T05:00:00+00:00",
@@ -1631,6 +1640,17 @@
           "other_news": true
         },
         {
+          "title": "« C'est pas la faute de Total » : la France face à ses contradictions à la COP31",
+          "link": "https://reporterre.net/C-est-pas-la-faute-de-Total-la-France-face-a-ses-contradictions-a-la-COP31",
+          "published": "2026-11-18T14:45:16+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors que Macron se vante d'avoir fait de la France une « championne du climat », l'État refuse de faire payer les grands pollue",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261113__d7dd8yx__v1__highres__turkeyaustraliacop31unclimate_1_-62e96.jpg?1795013146",
+          "other_news": true
+        },
+        {
           "title": "« On se baigne parmi des sacs plastiques » : le pays hôte de la COP31 croule sous les déchets européens",
           "link": "https://reporterre.net/Poubelle-de-l-Europe-la-Turquie-se-noie-sous-les-dechets",
           "published": "2026-11-16T14:30:34+00:00",
@@ -1708,17 +1728,6 @@
           "other_news": true
         },
         {
-          "title": "Le PDG de Total peut dormir sur ses deux oreilles : la COP s'ouvre sans mention des énergies fossiles",
-          "link": "https://reporterre.net/Patrick-Pouyanne-peut-dormir-sur-ses-deux-oreilles-la-COP-s-ouvre-sans-mention-des-energies-fossiles",
-          "published": "2026-11-09T16:00:49+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "La sortie des hydrocarbures est aux abonnés absents à la COP31 en Turquie. Ce silence n'a rien d'étonnant, tant cette grand-mess",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261109__d6vq7cn__v1__highres__cop31unclimatechangeconference_1_-58f2e.jpg?1794240097",
-          "other_news": true
-        },
-        {
           "title": "British salmon stripped of organic logo by Soil Association",
           "link": "https://oceanographicmagazine.com/news/british-salmon-stripped-of-organic-status-by-soil-association/",
           "published": "2026-11-12T10:31:41+00:00",
@@ -1730,20 +1739,42 @@
           "other_news": true
         },
         {
-          "title": "Comment le changement climatique met sous pression le tourisme mondial",
-          "link": "https://www.lemonde.fr/economie/article/2026/11/18/comment-le-changement-climatique-met-sous-pression-le-tourisme-mondial_6813079_3234.html",
-          "published": "2026-11-18T06:55:11+01:00",
+          "title": "Dans le nord-ouest de la Chine, un petit félin tient tête à un chantier d’éoliennes géantes",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/18/dans-le-nord-ouest-de-la-chine-un-petit-felin-tient-tete-a-un-chantier-d-eoliennes-geantes_6813110_3244.html",
+          "published": "2026-11-18T11:30:02+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Alors que les risques liés à l’augmentation des températures vont s’accentuer, le secteur touristique reste insuffisamment préparé, souligne le rappor",
+          "summary": "Une population de manuls, inscrits sur la liste nationale des animaux sauvages protégés, est menacée par un projet éolien près de la ville de Zhangye.",
+          "image": "https://img.lemde.fr/2026/11/17/333/0/4000/2000/644/322/60/0/e509fd5_upload-1-etlc2bickwta-gettyimages-2288523058.jpg",
+          "other_news": true
+        },
+        {
+          "title": "« Artificialisation », un vocable byzantin pour désigner la dégradation irrémédiable des sols français",
+          "link": "https://www.lemonde.fr/idees/article/2026/11/18/artificialisation-un-vocable-byzantin-pour-designer-la-degradation-irremediable-des-sols-francais_6813090_3232.html",
+          "published": "2026-11-18T09:05:43+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Ce phénomène, aux conséquences néfastes, perturbe les écosystèmes, engendre une baisse de la biodiversité et augmente les risques d’inondation. Pourta",
+          "image": "https://img.lemde.fr/2026/11/11/650/0/5649/2824/644/322/60/0/ef03f22_upload-1-9ehlj5q7ewcx-000-64vc7rr.jpg",
+          "other_news": true
+        },
+        {
+          "title": "La crise climatique redessine déjà la carte du tourisme, les régions les plus visitées sont insuffisamment préparées, selon une étude",
+          "link": "https://www.lemonde.fr/economie/article/2026/11/18/comment-le-changement-climatique-met-sous-pression-le-tourisme-mondial_6813079_3234.html",
+          "published": "2026-11-18T06:55:09+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors que les risques liés à l’augmentation des températures vont s’accentuer, le secteur touristique doit s’adapter et surtout réduire ses émissions",
           "image": "https://img.lemde.fr/2026/11/17/439/0/4252/2126/644/322/60/0/1688a92_upload-1-mw7eherdes81-000-c6ca363.jpg",
           "other_news": true
         },
         {
-          "title": "Logement : l’Assemblée vote un amendement du RN supprimant toutes les interdictions de location liées au DPE",
+          "title": "DPE : l’Assemblée vote un amendement du RN supprimant les interdictions de location liées au diagnostic de performance énergétique",
           "link": "https://www.lemonde.fr/politique/article/2026/11/17/logement-l-assemblee-vote-un-amendement-du-rn-supprimant-toutes-les-interdictions-de-location-liees-au-dpe_6813044_823448.html",
-          "published": "2026-11-17T21:46:06+01:00",
+          "published": "2026-11-17T21:46:05+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1771,17 +1802,6 @@
           "language": "fr",
           "summary": "Les ministres de nombreux Etats, arrivés en Turquie pour la deuxième semaine de la Conférence des parties sur le climat, doivent permettre de faire av",
           "image": "https://img.lemde.fr/2026/11/16/500/0/6000/3000/644/322/60/0/0604110_ftp-1-8s9gykoxupd9-2026-11-16t121814z-1673023041-rc2zooa020sr-rtrmadp-3-climate-cop31.JPG",
-          "other_news": true
-        },
-        {
-          "title": "Comment on a renaturé une friche polluée en créant des emplois",
-          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/11/17/comment-on-a-renature-une-friche-polluee-en-creant-des-emplois_6812898_6125299.html",
-          "published": "2026-11-17T05:45:02+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. A l’Ile-Sain",
-          "image": "https://img.lemde.fr/2026/11/03/560/0/6720/3360/644/322/60/0/305e72e_upload-1-1pbhck1wmzcr-260703jbalague-lemonde-lilo-5y5a4375.jpg",
           "other_news": true
         },
         {
@@ -1840,6 +1860,28 @@
           "other_news": true
         },
         {
+          "title": "NASA’s Voyager 1 has reached 1 light-day from Earth, the first human-made object in space to reach that distance",
+          "link": "https://theconversation.com/nasas-voyager-1-has-reached-1-light-day-from-earth-the-first-human-made-object-in-space-to-reach-that-distance-296026",
+          "published": "2026-11-18T13:34:06+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The probe has explored both the solar system and the interstellar medium beyond during its decades-long journey.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Indonesia may need 350 years to recover land burnt in 2026 wildfires",
+          "link": "https://theconversation.com/indonesia-may-need-350-years-to-recover-land-burnt-in-2026-wildfires-296704",
+          "published": "2026-11-18T07:01:41+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The 2026 wildfires in Indonesia destroyed carbon reserves formed over the last thousands of years. Recovery will take hundreds of years.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Your nature strip could be a haven for native plants and insects: new research",
           "link": "https://theconversation.com/your-nature-strip-could-be-a-haven-for-native-plants-and-insects-new-research-293929",
           "published": "2026-11-18T00:16:51+00:00",
@@ -1862,58 +1904,25 @@
           "other_news": true
         },
         {
-          "title": "What AI regulation could learn from the most hazardous industries in the world",
-          "link": "https://theconversation.com/what-ai-regulation-could-learn-from-the-most-hazardous-industries-in-the-world-295475",
-          "published": "2026-11-17T16:25:49+00:00",
-          "source": "The Conversation",
+          "title": "Better data can help restore Himalayan ecosystems & prepare for climate risks (commentary)",
+          "link": "https://news.mongabay.com/2026/11/better-data-can-help-restore-himalayan-ecosystems-prepare-for-climate-risks-commentary/",
+          "published": "2026-11-18T12:18:24+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Drawing lessons from other industries could help reinforce the safety of AI systems.",
-          "image": null,
+          "summary": "In less than seven weeks, two major flood events impacted Nepal’s Himalaya, where ecologically rich mountain landscapes are closely connected to the r",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/17233227/Nepal-disaster-preparedness-1-768x512.png",
           "other_news": true
         },
         {
-          "title": "How restaurants can make sustainable dining choices easier while still making a profit",
-          "link": "https://theconversation.com/how-restaurants-can-make-sustainable-dining-choices-easier-while-still-making-a-profit-296458",
-          "published": "2026-11-17T16:22:40+00:00",
-          "source": "The Conversation",
+          "title": "Lucio Usobiaga wins 2026 ‘Nobel Prize of Gastronomy’ for protecting Mexico’s chinampas ecosystem",
+          "link": "https://news.mongabay.com/short-article/2026/11/lucio-usobiaga-wins-2026-nobel-prize-of-gastronomy-for-protecting-mexicos-chinampas-ecosystem/",
+          "published": "2026-11-18T09:31:11+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Restaurants can shape what diners eat, but evidence that greener menus reduce environmental harm or protect businesses remains limited.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "An atlas of vanished places: how climate change is rewriting the books on our shelves",
-          "link": "https://theconversation.com/an-atlas-of-vanished-places-how-climate-change-is-rewriting-the-books-on-our-shelves-296224",
-          "published": "2026-11-17T16:01:00+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "As landscapes change around us, novels and non-fiction books remain the same.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "COP31: How to make carbon markets more effective",
-          "link": "https://theconversation.com/cop31-how-to-make-carbon-markets-more-effective-296371",
-          "published": "2026-11-17T15:26:14+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Twenty years of carbon markets on farms and in forests suggest that money alone isn’t enough. Without credible projects on the ground, money for clima",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "‘Novaya Gazeta lived here’: Russia’s media ecosystem has been slowly dismantled over the past decade",
-          "link": "https://theconversation.com/novaya-gazeta-lived-here-russias-media-ecosystem-has-been-slowly-dismantled-over-the-past-decade-296742",
-          "published": "2026-11-17T13:42:03+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The lights may have gone out in Novaya Gazeta’s Moscow newsroom, but the traditions the newspaper represented endure.",
-          "image": null,
+          "summary": "Lucio Usobiaga of Mexico won the 2026 Basque Culinary World Prize for his project Arca Tierra, a network of farmers and the culinary community of Mexi",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/18091426/Lucio-Usobiaga--768x512.jpg",
           "other_news": true
         },
         {
@@ -1980,28 +1989,6 @@
           "language": "en",
           "summary": "Readers are certainly familiar with the Mother Nature Cambodia 5 (MNC5) after Mongabay released its documentary The Clearing in July 2025, chronicling",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/16124702/1793690863-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "As butterflies sweep Sri Lanka, global study finds expanding ranges linked to climate change",
-          "link": "https://news.mongabay.com/2026/11/as-butterflies-sweep-sri-lanka-global-study-finds-expanding-ranges-linked-to-climate-change/",
-          "published": "2026-11-16T05:19:51+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "COLOMBO — For generations of Sri Lankans, the sudden appearance of thousands of yellow and white wings fluttering across the island carries a deep sen",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/15100349/Dhananjaya-Dassanayake-3-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "South African court dismisses appeal over planned coal-fired power plants",
-          "link": "https://news.mongabay.com/short-article/2026/11/south-african-court-dismisses-appeal-over-planned-coal-fired-power-plants/",
-          "published": "2026-11-13T23:09:35+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The South African Supreme Court of Appeal recently dismissed the government’s appeal against a ruling that struck down plans for 1,500 megawatts of ne",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/13212055/Kusilekragsentrale_Mpumalanga_2019_a-768x512.jpg",
           "other_news": true
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T16:30:17.023743+00:00",
+  "generated_at": "2026-11-18T20:30:10.251040+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -100,6 +100,28 @@
           "other_news": false
         },
         {
+          "title": "Niue Ocean Wide Trust wins 2026 Earthshot Prize",
+          "link": "https://oceanographicmagazine.com/news/niue-ocean-wide-trust-wins-2026-earthshot-prize/",
+          "published": "2026-11-18T11:34:43+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The Pacific nation’s Trust, which funds long-term protection of its entire ocean territory by selling Ocean Conservation Commitments, takes the Revive",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Proposal to ban bottom trawling on high-seas seamounts dropped at UN",
+          "link": "https://oceanographicmagazine.com/news/proposal-to-ban-bottom-trawling-on-high-seas-seamounts-dropped-at-un/",
+          "published": "2026-11-17T10:01:50+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Armenia withdraws 2027 phase-out plan after opposition from bloc including US, EU, Japan, Russia and Australia\nThe post Proposal to ban bottom trawlin",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Celebrating 41 Years of the International Coastal Cleanup®",
           "link": "https://oceanconservancy.org/blog/2026/10/20/celebrating-41-years-icc/",
           "published": "2026-10-20T17:13:38+00:00",
@@ -162,6 +184,39 @@
           "other_news": false
         },
         {
+          "title": "Whale genomes sequenced from drone-collected ‘snot’ in world first",
+          "link": "https://oceanographicmagazine.com/news/whale-genomes-sequenced-from-drone-collected-snot-in-world-first/",
+          "published": "2026-11-17T12:30:21+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Researchers flew a small drone through the exhaled breath of humpback whales off British Columbia, producing genomes that match those from traditional",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "North Atlantic right whale population slips to 382",
+          "link": "https://oceanographicmagazine.com/news/north-atlantic-right-whale-population-slips-to-382/",
+          "published": "2026-11-16T16:10:34+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The latest Consortium estimate shows a 1.8% decline, as scientists and campaigners warn that deaths, entanglements and weakening protections are under",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "This year’s humpback whale migration was missing something vital – the calves and their mothers",
+          "link": "https://theconversation.com/this-years-humpback-whale-migration-was-missing-something-vital-the-calves-and-their-mothers-295343",
+          "published": "2026-11-18T19:11:05+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Humpbacks survived centuries of whaling. But melting sea ice and krill shortages pose another challenge entirely.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Plans for a new marine protected area boost whale shark conservation in Indonesia’s Saleh Bay",
           "link": "https://news.mongabay.com/2026/11/plans-for-a-new-marine-protected-area-boost-whale-shark-conservation-in-indonesias-saleh-bay/",
           "published": "2026-11-17T08:10:41+00:00",
@@ -181,17 +236,6 @@
           "language": "en",
           "summary": "North Atlantic right whales hover near extinction, with perhaps 382 remaining, according to a new census published today. Their numbers dropped from 3",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/16114045/5187320205_79fdf5296c_o-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Rare flat-headed cat prefers elevated palms in Malaysian forest, says study",
-          "link": "https://news.mongabay.com/short-article/2026/11/rare-flat-headed-cat-prefers-elevated-palms-in-malaysian-forest-says-study/",
-          "published": "2026-11-16T05:31:39+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A large camera-trap survey in a mangrove forest in southwestern Sarawak, Malaysia, has revealed new insights into the habitats and activity patterns o",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/16053011/Picture1.png",
           "other_news": false
         }
       ],
@@ -218,6 +262,32 @@
           "language": "en",
           "summary": "Proponents argue ocean carbon removal is necessary to counteract the effects of the climate crisis but critics say more research is needed A cluster o",
           "image": "https://i.guim.co.uk/img/media/3c561805685030208ac5f4bb8e73a9cc273ad328/1034_0_6251_5000/master/6251.jpg?width=140&quality=85&auto=format&fit=max&s=1eb17a5695d4a9d96236985c9f534ec6",
+          "other_news": false
+        }
+      ],
+      "Nature-Based Solutions & Restoration": [
+        {
+          "title": "Ocean receives record attention at COP31",
+          "link": "https://oceanographicmagazine.com/news/ocean-receives-record-attention-at-cop31/",
+          "published": "2026-11-18T17:11:59+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Negotiators in Antalya have placed marine ecosystems at the centre of global climate talks, backed by more than $1 billion in new funding for mangrove",
+          "image": null,
+          "other_news": false
+        }
+      ],
+      "Polar & Reef Ecosystems & Resilience": [
+        {
+          "title": "History shows Canada’s attempts to exploit Arctic oil have failed",
+          "link": "https://theconversation.com/history-shows-canadas-attempts-to-exploit-arctic-oil-have-failed-296584",
+          "published": "2026-11-18T17:15:58+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Climate, geography and the cost of getting Arctic oil to market have made previous projects too costly to be viable.",
+          "image": null,
           "other_news": false
         }
       ],
@@ -511,6 +581,50 @@
           "other_news": false
         },
         {
+          "title": "Tiny animals found living inside deep-sea nodules as US weighs first commercial mining permit",
+          "link": "https://oceanographicmagazine.com/news/tiny-animals-found-living-inside-deep-sea-nodules-as-us-weighs-first-commercial-mining-permit/",
+          "published": "2026-11-13T12:19:42+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The study reveals unique communities in polymetallic seabed rocks that take millions of years to form – and are being eyed for commercial mining \nThe",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Remote Pacific atoll survey reveals our ‘most intact ecosystems’",
+          "link": "https://oceanographicmagazine.com/news/remote-pacific-atoll-survey-reveals-our-most-intact-ecosystems/",
+          "published": "2026-11-13T10:11:45+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Surveys of Bikar and Bokak atolls in the Marshall Islands reveal seabird colonies, nesting turtles and rich reefs, offering a rare baseline for some o",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Ocean risks are a ‘dangerous blind spot’ for the global economy",
+          "link": "https://oceanographicmagazine.com/news/ocean-risks-are-a-dangerous-blind-spot-for-the-global-economy/",
+          "published": "2026-11-13T09:44:20+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Actuaries, the University of Exeter and The Ocean Race warn that ocean degradation could cascade through food, trade, insurance and pensions, urging l",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Clownfish turn frown-fish when their anemone partners bleach",
+          "link": "https://oceanographicmagazine.com/news/clownfish-turn-frown-fish-when-their-anemone-partners-bleach/",
+          "published": "2026-11-11T10:20:09+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The post Clownfish turn frown-fish when their anemone partners bleach appeared first on Oceanographic.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Congé climatique, interdiction des pesticides, sortie du nucléaire… Ce que contient le programme de Marine Tondelier sur l’écologie",
           "link": "https://vert.eco/politique/conge-climatique-interdiction-des-pesticides-sortie-du-nucleaire-ce-que-contient-le-programme-de-marine-tondelier-sur-lecologie/",
           "published": "2026-11-18T10:42:29+00:00",
@@ -533,6 +647,17 @@
           "other_news": false
         },
         {
+          "title": "How we discovered a 115 million-year-old ‘algae rebellion’ in Portugal’s sea cliffs",
+          "link": "https://theconversation.com/how-we-discovered-a-115-million-year-old-algae-rebellion-in-portugals-sea-cliffs-296964",
+          "published": "2026-11-18T16:45:20+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Our study found fossils in the Algarve that, according to previous records, had no business being there.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Your brain may be hiding Alzheimer’s from you – and that’s not always a good thing",
           "link": "https://theconversation.com/your-brain-may-be-hiding-alzheimers-from-you-and-thats-not-always-a-good-thing-296019",
           "published": "2026-11-18T15:25:34+00:00",
@@ -551,17 +676,6 @@
           "type": "news",
           "language": "en",
           "summary": "David Gulpilil’s poignant performance, Indigenous storytelling and the spectacular Coorong landscape give Storm Boy a legacy that goes beyond nostalgi",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "In Antarctica’s ice-free areas, even footprints can damage rare microscopic ecosystems",
-          "link": "https://theconversation.com/in-antarcticas-ice-free-areas-even-footprints-can-damage-rare-microscopic-ecosystems-296045",
-          "published": "2026-11-17T19:10:18+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "In Antarctica’s McMurdo Dry Valleys, microbial communities are unique to each valley. A new study found people move them around with their boots.",
           "image": null,
           "other_news": false
         },
@@ -765,17 +879,6 @@
       ],
       "Marine Biodiversity & Conservation": [
         {
-          "title": "The world promised to halt biodiversity loss by 2030 – now it needs to turn pledges into action",
-          "link": "https://theconversation.com/the-world-promised-to-halt-biodiversity-loss-by-2030-now-it-needs-to-turn-pledges-into-action-295028",
-          "published": "2026-11-03T17:20:19+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "A recent UN biodiversity summit showed little progress has been made.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Who should have a say in which species are saved? The California condor offers lessons for a global biodiversity treaty",
           "link": "https://theconversation.com/who-should-have-a-say-in-which-species-are-saved-the-california-condor-offers-lessons-for-a-global-biodiversity-treaty-294659",
           "published": "2026-10-20T12:36:46+00:00",
@@ -794,6 +897,17 @@
           "type": "news",
           "language": "en",
           "summary": "Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit.&#8230;",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "The last bird to go extinct in NZ has lessons for saving other species – new study",
+          "link": "https://theconversation.com/the-last-bird-to-go-extinct-in-nz-has-lessons-for-saving-other-species-new-study-292112",
+          "published": "2026-11-18T18:56:04+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Using ancient DNA from museum specimens, we’ve tracked the evolutionary history of NZ’s bush wrens – and found a new family member.",
           "image": null,
           "other_news": true
         }
@@ -958,6 +1072,17 @@
           "other_news": true
         },
         {
+          "title": "La « courbe champagne », ou pourquoi on peut réduire les émissions de CO₂ sans freiner le développement",
+          "link": "https://theconversation.com/la-courbe-champagne-ou-pourquoi-on-peut-reduire-les-emissions-de-co-sans-freiner-le-developpement-296210",
+          "published": "2026-11-18T15:37:47+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "La relation entre émissions de carbone et développement humain n’est pas linéaire. Cette réalité ouvre la voie à des politiques climatiques plus juste",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Le pastoralisme, risque ou solution face au changement climatique ? L’évolution du regard porté par les COP climat",
           "link": "https://theconversation.com/le-pastoralisme-risque-ou-solution-face-au-changement-climatique-levolution-du-regard-porte-par-les-cop-climat-296191",
           "published": "2026-11-15T07:27:14+00:00",
@@ -1002,13 +1127,13 @@
           "other_news": true
         },
         {
-          "title": "Le condor de Californie a été sauvé, mais à quel prix, et pour qui ?",
-          "link": "https://theconversation.com/le-condor-de-californie-a-ete-sauve-mais-a-quel-prix-et-pour-qui-295220",
-          "published": "2026-10-29T17:21:11+00:00",
-          "source": "The Conversation FR",
+          "title": "Electric cooking could be as important as EVs in the global energy transition",
+          "link": "https://theconversation.com/electric-cooking-could-be-as-important-as-evs-in-the-global-energy-transition-296839",
+          "published": "2026-11-18T16:41:45+00:00",
+          "source": "The Conversation UK",
           "type": "news",
-          "language": "fr",
-          "summary": "Quand la conservation touche les populations locales, qui paie et qui a son mot à dire&nbsp;? Le rétablissement du condor de Californie éclaire les dé",
+          "language": "en",
+          "summary": "The electrification revolution will not be complete if it only changes how we travel, heat our buildings and manufacture goods. It must also change ho",
           "image": null,
           "other_news": true
         },
@@ -1167,17 +1292,6 @@
           "other_news": true
         },
         {
-          "title": "Fireworks provide a few minutes of joy, but the economic and environmental costs last much longer",
-          "link": "https://theconversation.com/fireworks-provide-a-few-minutes-of-joy-but-the-economic-and-environmental-costs-last-much-longer-295775",
-          "published": "2026-11-04T12:20:56+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "The consequences of lighting firework displays are spread among households, public services and wildlife.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "To get Americans to care about climate change, just call it climate change",
           "link": "https://theconversation.com/to-get-americans-to-care-about-climate-change-just-call-it-climate-change-296481",
           "published": "2026-11-13T15:05:35+00:00",
@@ -1262,17 +1376,6 @@
           "type": "news",
           "language": "en",
           "summary": "Five decades ago, he charted two paths for energy use in the US. His soft path rightly emphasized efficiency and renewables but underestimated the imp",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Federal spending on climate change before 2024 election boosted incumbents of both parties",
-          "link": "https://theconversation.com/federal-spending-on-climate-change-before-2024-election-boosted-incumbents-of-both-parties-293791",
-          "published": "2026-10-19T18:49:58+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Incumbents can still reap electoral rewards when federal money reaches their districts, even if they opposed the bill that provided it.",
           "image": null,
           "other_news": true
         },
@@ -1541,7 +1644,7 @@
           "other_news": true
         },
         {
-          "title": "« C'est pas la faute de Total » : la France face à ses contradictions à la COP31",
+          "title": "« C'est pas la faute de Total » : quand la France fait l'autruche face aux grands pollueurs",
           "link": "https://reporterre.net/C-est-pas-la-faute-de-Total-la-France-face-a-ses-contradictions-a-la-COP31",
           "published": "2026-11-18T14:45:16+00:00",
           "source": "Reporterre",
@@ -1629,6 +1732,17 @@
           "other_news": true
         },
         {
+          "title": "British salmon stripped of organic logo by Soil Association",
+          "link": "https://oceanographicmagazine.com/news/british-salmon-stripped-of-organic-status-by-soil-association/",
+          "published": "2026-11-12T10:31:41+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "The accreditation body said high mortality rates, low environmental standards and a lack of progress were the reason for the move\nThe post British sal",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Dans le nord-ouest de la Chine, un petit félin tient tête à un chantier d’éoliennes géantes",
           "link": "https://www.lemonde.fr/planete/article/2026/11/18/dans-le-nord-ouest-de-la-chine-un-petit-felin-tient-tete-a-un-chantier-d-eoliennes-geantes_6813110_3244.html",
           "published": "2026-11-18T11:30:02+01:00",
@@ -1670,17 +1784,6 @@
           "language": "fr",
           "summary": "Les députés sont allés plus loin que le texte initial, qui prévoyait déjà un assouplissement de la réglementation sur les passoires énergétiques, en s",
           "image": "https://img.lemde.fr/2026/11/17/2409/0/3667/1833/644/322/60/0/f26bc1e_upload-1-9dnyv48jgytm-ad033-1europres-dsc09286.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Climat : comment ne pas revivre l’été 2026 ?",
-          "link": "https://www.lemonde.fr/podcasts/article/2026/11/17/climat-comment-ne-pas-revivre-l-ete-2026_6812920_5463015.html",
-          "published": "2026-11-17T07:30:15+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Que faut-il faire pour se préparer à des étés de plus en plus chauds ? La géographe Magali Reghezza propose de planifier l’adaptation des écoles et de",
-          "image": "https://img.lemde.fr/2026/11/13/55/0/1778/889/644/322/60/0/2bd8209_upload-1-onimbmr0ngmm-01-09-magali-reghezza.jpg",
           "other_news": true
         },
         {
@@ -1728,13 +1831,24 @@
           "other_news": true
         },
         {
-          "title": "Plus de 120 jets ont atterri à Antalya : pour se rendre à la COP31 sur le climat, l’avion privé est toujours roi",
-          "link": "https://vert.eco/climat/plus-de-120-jets-ont-atterri-a-antalya-pour-se-rendre-a-la-cop31-sur-le-climat-lavion-prive-est-toujours-roi/",
-          "published": "2026-11-13T14:35:19+00:00",
-          "source": "Vert Eco Articles",
+          "title": "The secret lives of our early ancestors revealed in fossil teeth from China",
+          "link": "https://theconversation.com/the-secret-lives-of-our-early-ancestors-revealed-in-fossil-teeth-from-china-294055",
+          "published": "2026-11-18T19:11:19+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Depuis le début du sommet mondial pour le climat (COP31) qui a débuté lundi à Antalya, en Turquie, plus de 120 jets privés ont atterri à l’aéroport de",
+          "language": "en",
+          "summary": "Two new studies in Nature show our human ancestors were far more mobile and flexible than we’ve given them credit for.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How we can prepare for future cyberattacks on critical infrastructure",
+          "link": "https://theconversation.com/how-we-can-prepare-for-future-cyberattacks-on-critical-infrastructure-296214",
+          "published": "2026-11-18T16:55:00+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "We don’t know how or when the next cyberattacks will occur. But we can prepare for unsafe water, damaged equipment, environmental harm and diminished",
           "image": null,
           "other_news": true
         },
@@ -1757,28 +1871,6 @@
           "type": "news",
           "language": "en",
           "summary": "The 2026 wildfires in Indonesia destroyed carbon reserves formed over the last thousands of years. Recovery will take hundreds of years.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Your nature strip could be a haven for native plants and insects: new research",
-          "link": "https://theconversation.com/your-nature-strip-could-be-a-haven-for-native-plants-and-insects-new-research-293929",
-          "published": "2026-11-18T00:16:51+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "After planting native gardens on nature strips, we found seven times more insect pollinators came to visit.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Jensen Huang scandal illustrates why human nature is cybersecurity’s weakest link",
-          "link": "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763",
-          "published": "2026-11-17T19:53:14+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Voice, physical touch and face-to-face interactions make people more trusting, compliant and willing to share sensitive information.",
           "image": null,
           "other_news": true
         },

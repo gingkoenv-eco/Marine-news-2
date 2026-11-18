@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:30:10.251040+00:00",
+  "generated_at": "2026-11-18T21:27:30.589435+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -301,6 +301,17 @@
           "language": "en",
           "summary": "A large basin was never used for its intended recreational purposes and has since been incorporated into a marine protected area alongside coastal man",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Greenpeace drops ‘Attenboulder’ to deter UK bottom trawlers in a marine protected area",
+          "link": "https://news.mongabay.com/short-article/2026/11/greenpeace-drops-attenboulder-to-deter-uk-bottom-trawlers-in-a-marine-protected-area/",
+          "published": "2026-11-18T20:31:20+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Greenpeace activists recently dropped several enormous boulders in the U.K.’s Southern North Sea Marine Protected Area to discourage destructive botto",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/18202338/GP0SUAZTD_PressMedia-2500px-768x512.jpg",
           "other_news": false
         }
       ],

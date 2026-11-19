@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:27:30.589435+00:00",
+  "generated_at": "2026-11-19T06:01:36.215131+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -647,17 +647,6 @@
           "other_news": false
         },
         {
-          "title": "«Une catastrophe écologique» : en pleine sécheresse, un fleuve breton subitement acidifié, la faune aquatique décimée",
-          "link": "https://vert.eco/climat/une-catastrophe-ecologique-en-pleine-secheresse-un-fleuve-breton-subitement-acidifie-la-faune-aquatique-decimee/",
-          "published": "2026-11-14T06:00:00+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans le bassin versant de l'Odet, fleuve qui traverse Quimper (Finistère), l'eau a atteint un niveau d’acidité toxique pour la faune.  Un phénomène ra",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "How we discovered a 115 million-year-old ‘algae rebellion’ in Portugal’s sea cliffs",
           "link": "https://theconversation.com/how-we-discovered-a-115-million-year-old-algae-rebellion-in-portugals-sea-cliffs-296964",
           "published": "2026-11-18T16:45:20+00:00",
@@ -676,17 +665,6 @@
           "type": "news",
           "language": "en",
           "summary": "Brain ‘resilience’ may hide the disease until it’s too late.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Storm Boy at 50: South Australia’s stunning coastal landscape is key to this beloved film’s success",
-          "link": "https://theconversation.com/storm-boy-at-50-south-australias-stunning-coastal-landscape-is-key-to-this-beloved-films-success-296262",
-          "published": "2026-11-18T03:23:29+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "David Gulpilil’s poignant performance, Indigenous storytelling and the spectacular Coorong landscape give Storm Boy a legacy that goes beyond nostalgi",
           "image": null,
           "other_news": false
         },
@@ -863,17 +841,6 @@
           "language": "fr",
           "summary": "Plus de 700 morts par an à Marseille, 800 à Lyon et plus de 4 000 dans l'agglomération parisienne : en France, la pollution de l",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250601__hl_abonnard_2785986__v1__highres__francetrafficjamsslowdownsautoroute_1_-984d8.jpg?1794934141",
-          "other_news": true
-        },
-        {
-          "title": "How sustainable are bioplastics, really?",
-          "link": "https://theconversation.com/how-sustainable-are-bioplastics-really-296226",
-          "published": "2026-11-18T11:59:06+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Biodegradable, plant-based plastics can reduce pollution, but they still face major obstacles.",
-          "image": null,
           "other_news": true
         },
         {
@@ -1479,6 +1446,17 @@
           "other_news": true
         },
         {
+          "title": "Bangladesh needs COP31 to deliver clarity on climate finance",
+          "link": "https://www.climatechangenews.com/2026/11/19/bangladesh-needs-cop31-to-deliver-clarity-on-climate-finance/",
+          "published": "2026-11-19T01:00:00+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Bangladesh cannot bear rising climate costs alone - the UN climate summit in Antalya must show how timely, accessible finance will be delivered at the",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Rich countries must step up to replenish Green Climate Fund, Duarte says",
           "link": "https://www.climatechangenews.com/2026/11/17/rich-countries-must-step-up-to-replenish-green-climate-fund-duarte-says/",
           "published": "2026-11-17T13:33:41+00:00",
@@ -1644,14 +1622,14 @@
           "other_news": true
         },
         {
-          "title": "COP31 must deliver finance for Africa or there will be no implementation",
-          "link": "https://www.climatechangenews.com/2026/11/04/cop31-must-deliver-finance-for-africa-or-there-will-be-no-implementation/",
-          "published": "2026-11-04T15:46:23+00:00",
-          "source": "Climate change news",
+          "title": "Indonésie : les fumées des incendies ont tué plus de 5 000 personnes",
+          "link": "https://reporterre.net/SOUS-EMBARGO-JEUDI-19-NOVEMBRE-4-H-CET-EN-BREF-Indonesie-les-fumees-des-incendies-ont-tue",
+          "published": "2026-11-19T03:00:00+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Without real progress in Antalya on finance for adaptation and energy transition, next year's Africa-hosted COP will inherit the same unmet promises\nT",
-          "image": null,
+          "language": "fr",
+          "summary": "Les incendies continuent de ravager l'Indonésie. Les émissions de carbone liées aux feux dans l'archipel ont atteint près de 200",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261104__d6dn2n8__v4__highres__correctionindonesiapollutionenvironmentfire-81505.jpg?1795057200",
           "other_news": true
         },
         {
@@ -1754,6 +1732,17 @@
           "other_news": true
         },
         {
+          "title": "« Inside Deutsche Bank » : derrière la façade verte, les coulisses du « greenwashing » de la banque allemande",
+          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/19/inside-deutsche-bank-derriere-la-facade-verte-les-coulisses-du-greenwashing-de-la-banque-allemande_6813239_4355770.html",
+          "published": "2026-11-19T06:58:07+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Après l’accord de Paris en 2015, la banque a multiplié les annonces pour réduire son empreinte sur le climat. La fuite de données « Inside Deutsche Ba",
+          "image": "https://img.lemde.fr/2026/11/18/200/0/3000/1500/644/322/60/0/e5170dd_upload-1-gxlaqwqpfpro-db-08-greenwashing.jpg",
+          "other_news": true
+        },
+        {
           "title": "Dans le nord-ouest de la Chine, un petit félin tient tête à un chantier d’éoliennes géantes",
           "link": "https://www.lemonde.fr/planete/article/2026/11/18/dans-le-nord-ouest-de-la-chine-un-petit-felin-tient-tete-a-un-chantier-d-eoliennes-geantes_6813110_3244.html",
           "published": "2026-11-18T11:30:02+01:00",
@@ -1842,6 +1831,28 @@
           "other_news": true
         },
         {
+          "title": "Fossil fuel lobbyists are trying to derail climate action once again at COP31. Can they be stopped?",
+          "link": "https://theconversation.com/fossil-fuel-lobbyists-are-trying-to-derail-climate-action-once-again-at-cop31-can-they-be-stopped-294668",
+          "published": "2026-11-19T03:55:07+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The whole point of this summit is to address climate change. Why are fossil fuel cheerleaders still allowed in the door?",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Second-hand solar, tiny houses, no bills – we found how  Australians are going off-grid and if it’s worth it",
+          "link": "https://theconversation.com/second-hand-solar-tiny-houses-no-bills-we-found-how-australians-are-going-off-grid-and-if-its-worth-it-296397",
+          "published": "2026-11-19T03:51:27+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Going off-grid is increasingly appealing for rural residents in conventional homes – and tiny homes on wheels. It’s not just about the power bill.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "The secret lives of our early ancestors revealed in fossil teeth from China",
           "link": "https://theconversation.com/the-secret-lives-of-our-early-ancestors-revealed-in-fossil-teeth-from-china-294055",
           "published": "2026-11-18T19:11:19+00:00",
@@ -1871,17 +1882,6 @@
           "type": "news",
           "language": "en",
           "summary": "The probe has explored both the solar system and the interstellar medium beyond during its decades-long journey.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Indonesia may need 350 years to recover land burnt in 2026 wildfires",
-          "link": "https://theconversation.com/indonesia-may-need-350-years-to-recover-land-burnt-in-2026-wildfires-296704",
-          "published": "2026-11-18T07:01:41+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The 2026 wildfires in Indonesia destroyed carbon reserves formed over the last thousands of years. Recovery will take hundreds of years.",
           "image": null,
           "other_news": true
         },

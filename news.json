@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:46:41.615671+00:00",
+  "generated_at": "2026-11-19T16:37:04.140251+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -649,17 +649,6 @@
           "other_news": false
         },
         {
-          "title": "How we discovered a 115 million-year-old ‘algae rebellion’ in Portugal’s sea cliffs",
-          "link": "https://theconversation.com/how-we-discovered-a-115-million-year-old-algae-rebellion-in-portugals-sea-cliffs-296964",
-          "published": "2026-11-18T16:45:20+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Our study found fossils in the Algarve that, according to previous records, had no business being there.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "COP31 Must Deliver for Our Ocean",
           "link": "https://oceanconservancy.org/blog/2026/11/06/cop31/",
           "published": "2026-11-06T22:43:46+00:00",
@@ -746,17 +735,6 @@
     },
     "Other News": {
       "Plastic & Ocean Pollution": [
-        {
-          "title": "People asked for views on blue brook pollution",
-          "link": "https://www.bbc.co.uk/news/articles/cqpv9mjm78m3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-18T08:37:02+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Environment Agency wants to know how the incident affected visitors, residents and businesses.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf1/live/46364460-e326-11f1-baab-4b3b35d174b7.jpg",
-          "other_news": true
-        },
         {
           "title": "Au cœur des moulins glaciaires du Groenland, la marque d’une pollution venue de loin",
           "link": "https://theconversation.com/au-coeur-des-moulins-glaciaires-du-groenland-la-marque-dune-pollution-venue-de-loin-292257",
@@ -1734,17 +1712,6 @@
           "other_news": true
         },
         {
-          "title": "IA : le géant Anthropic achète des turbines à gaz pour alimenter ses centres de données",
-          "link": "https://reporterre.net/IA-le-geant-Anthropic-achete-des-turbines-a-gaz-pour-alimenter-ses-centres-de-donnees",
-          "published": "2026-11-10T16:23:26+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "En pleine COP, où les États tentent de préserver les apparences mais ne font aucune mention de la sortie des hydrocarbures, le s",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/cern_server_03_resized-8dd58.jpg?1794327830",
-          "other_news": true
-        },
-        {
           "title": "« Inside Deutsche Bank » : derrière la façade verte, les coulisses du greenwashing de la banque allemande",
           "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/19/inside-deutsche-bank-derriere-la-facade-verte-les-coulisses-du-greenwashing-de-la-banque-allemande_6813239_4355770.html",
           "published": "2026-11-19T06:58:05+01:00",
@@ -1764,28 +1731,6 @@
           "language": "fr",
           "summary": "Une population de manuls, inscrits sur la liste nationale des animaux sauvages protégés, est menacée par un projet éolien près de la ville de Zhangye.",
           "image": "https://img.lemde.fr/2026/11/17/333/0/4000/2000/644/322/60/0/e509fd5_upload-1-etlc2bickwta-gettyimages-2288523058.jpg",
-          "other_news": true
-        },
-        {
-          "title": "« Artificialisation », un vocable byzantin pour désigner la dégradation irrémédiable des sols français",
-          "link": "https://www.lemonde.fr/idees/article/2026/11/18/artificialisation-un-vocable-byzantin-pour-designer-la-degradation-irremediable-des-sols-francais_6813090_3232.html",
-          "published": "2026-11-18T09:05:43+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Ce phénomène, aux conséquences néfastes, perturbe les écosystèmes, engendre une baisse de la biodiversité et augmente les risques d’inondation. Pourta",
-          "image": "https://img.lemde.fr/2026/11/11/650/0/5649/2824/644/322/60/0/ef03f22_upload-1-9ehlj5q7ewcx-000-64vc7rr.jpg",
-          "other_news": true
-        },
-        {
-          "title": "La crise climatique redessine déjà la carte du tourisme, les régions les plus visitées sont insuffisamment préparées, selon une étude",
-          "link": "https://www.lemonde.fr/economie/article/2026/11/18/comment-le-changement-climatique-met-sous-pression-le-tourisme-mondial_6813079_3234.html",
-          "published": "2026-11-18T06:55:09+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Alors que les risques liés à l’augmentation des températures vont s’accentuer, le secteur touristique doit s’adapter et surtout réduire ses émissions",
-          "image": "https://img.lemde.fr/2026/11/17/439/0/4252/2126/644/322/60/0/1688a92_upload-1-mw7eherdes81-000-c6ca363.jpg",
           "other_news": true
         },
         {
@@ -1833,6 +1778,17 @@
           "other_news": true
         },
         {
+          "title": "Climate communication that resonates must be based on empathy",
+          "link": "https://theconversation.com/climate-communication-that-resonates-must-be-based-on-empathy-294645",
+          "published": "2026-11-19T16:09:23+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "People from different parts of the world might face different climate hazards. But each could recognize something of their own loss in the other’s sto",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Fossil fuel lobbyists are trying to derail climate action once again at COP31. Can they be stopped?",
           "link": "https://theconversation.com/fossil-fuel-lobbyists-are-trying-to-derail-climate-action-once-again-at-cop31-can-they-be-stopped-294668",
           "published": "2026-11-19T03:55:07+00:00",
@@ -1862,17 +1818,6 @@
           "type": "news",
           "language": "en",
           "summary": "Two new studies in Nature show our human ancestors were far more mobile and flexible than we’ve given them credit for.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "How we can prepare for future cyberattacks on critical infrastructure",
-          "link": "https://theconversation.com/how-we-can-prepare-for-future-cyberattacks-on-critical-infrastructure-296214",
-          "published": "2026-11-18T16:55:00+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "We don’t know how or when the next cyberattacks will occur. But we can prepare for unsafe water, damaged equipment, environmental harm and diminished",
           "image": null,
           "other_news": true
         },

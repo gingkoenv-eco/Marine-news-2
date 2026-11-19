@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T06:01:36.215131+00:00",
+  "generated_at": "2026-11-19T15:46:41.615671+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -149,17 +149,6 @@
           "other_news": false
         },
         {
-          "title": "Le député écologiste Nicolas Thierry récompensé par le prince William du prix Earthshot pour son combat contre les PFAS en France",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/17/nicolas-thierry-recompense-par-le-prix-earthshot-pour-son-combat-contre-les-pfas-en-france_6813033_3244.html",
-          "published": "2026-11-17T19:45:25+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Fils et petit-fils de viticulteurs, l’élu de Gironde a fait de la lutte contre la pollution chimique le fil conducteur de son engagement. Sa campagne",
-          "image": "https://img.lemde.fr/2026/11/17/915/0/3209/1604/644/322/60/0/334fd4f_upload-1-vt98u92nkubj-000-d7rl9nr.jpg",
-          "other_news": false
-        },
-        {
           "title": "How Orlando Communities are Tackling Plastic Pollution",
           "link": "https://oceanconservancy.org/blog/2026/10/22/zero-waste-orlando/",
           "published": "2026-10-22T21:44:13+00:00",
@@ -217,6 +206,17 @@
           "other_news": false
         },
         {
+          "title": "Threatened species make up half of shark catches at Indonesian fishing port, study finds",
+          "link": "https://news.mongabay.com/2026/11/threatened-species-make-up-half-of-shark-catches-at-indonesian-fishing-port-study-finds/",
+          "published": "2026-11-19T10:57:05+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "JAKARTA — In Muncar, a busy fishing port on the southeastern coast of Indonesia’s East Java province, sharks can fetch as much as 1.5 million rupiah e",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/19091436/OceanImageBank_NoemiMerz_hammerhead-768x512.jpg",
+          "other_news": false
+        },
+        {
           "title": "Plans for a new marine protected area boost whale shark conservation in Indonesia’s Saleh Bay",
           "link": "https://news.mongabay.com/2026/11/plans-for-a-new-marine-protected-area-boost-whale-shark-conservation-in-indonesias-saleh-bay/",
           "published": "2026-11-17T08:10:41+00:00",
@@ -225,17 +225,6 @@
           "language": "en",
           "summary": "Plans to create a marine protected area for whale sharks in Indonesia’s Saleh Bay would give the world’s largest fish important new protections across",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/17063203/OceanImageBank_IshanHassan_whale-shark-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Drowned in fishing gear, struck by boats, North Atlantic right whales in serious trouble",
-          "link": "https://news.mongabay.com/2026/11/drowned-in-fishing-gear-struck-by-boats-north-atlantic-right-whales-in-serious-trouble/",
-          "published": "2026-11-16T14:48:11+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "North Atlantic right whales hover near extinction, with perhaps 382 remaining, according to a new census published today. Their numbers dropped from 3",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/16114045/5187320205_79fdf5296c_o-768x512.jpg",
           "other_news": false
         }
       ],
@@ -249,6 +238,17 @@
           "language": "en",
           "summary": "Scientists and fishers study how these ‘reefs’ and the creatures living on them are transforming the ocean floor – and what it means for the fishing i",
           "image": "https://i.guim.co.uk/img/media/357c057ffd037975abe9fde2c30429a651d61667/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=a30e8f3fe5f441093f0f3cdfd6d9b71e",
+          "other_news": false
+        },
+        {
+          "title": "Geopolitical tensions hamper efforts to curb overfishing in waters near Europe",
+          "link": "https://news.mongabay.com/2026/11/geopolitical-tensions-hamper-efforts-to-curb-overfishing-in-waters-near-europe/",
+          "published": "2026-11-19T15:13:44+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "LONDON — On Nov. 10, Mongabay went to the site of the annual meeting of the body that regulates fishing in the northeastern Atlantic, where a little-k",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/19143106/c.-GP1SVZGD-768x512.jpg",
           "other_news": false
         }
       ],
@@ -288,6 +288,19 @@
           "language": "en",
           "summary": "Climate, geography and the cost of getting Arctic oil to market have made previous projects too costly to be viable.",
           "image": null,
+          "other_news": false
+        }
+      ],
+      "Species Migration & Habitat Change": [
+        {
+          "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
+          "link": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-19T13:35:29+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a1f/live/36fc5700-e411-11f1-b37c-b3a71d7200af.jpg",
           "other_news": false
         }
       ],
@@ -435,17 +448,6 @@
           "language": "en",
           "summary": "The incident took place in Llwyneinion in August 1980.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cb9/live/45f494d0-e294-11f1-99a1-253766e7ad8b.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Conservationists searching for large river eels",
-          "link": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-18T06:19:28+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Tees Rivers Trust has been searching for eels to tag and track as they migrate out to sea.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55ec/live/b074fa60-df75-11f1-b441-2b33b063138f.jpg",
           "other_news": false
         },
         {
@@ -625,17 +627,6 @@
           "other_news": false
         },
         {
-          "title": "Clownfish turn frown-fish when their anemone partners bleach",
-          "link": "https://oceanographicmagazine.com/news/clownfish-turn-frown-fish-when-their-anemone-partners-bleach/",
-          "published": "2026-11-11T10:20:09+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The post Clownfish turn frown-fish when their anemone partners bleach appeared first on Oceanographic.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Congé climatique, interdiction des pesticides, sortie du nucléaire… Ce que contient le programme de Marine Tondelier sur l’écologie",
           "link": "https://vert.eco/politique/conge-climatique-interdiction-des-pesticides-sortie-du-nucleaire-ce-que-contient-le-programme-de-marine-tondelier-sur-lecologie/",
           "published": "2026-11-18T10:42:29+00:00",
@@ -647,6 +638,17 @@
           "other_news": false
         },
         {
+          "title": "What is ‘intergenerational trauma’? A social worker explains how one generation’s experiences can affect descendants",
+          "link": "https://theconversation.com/what-is-intergenerational-trauma-a-social-worker-explains-how-one-generations-experiences-can-affect-descendants-295045",
+          "published": "2026-11-19T13:40:19+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Effects of a traumatic event or long-term traumatic circumstances can cross generations – but resilience can too.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "How we discovered a 115 million-year-old ‘algae rebellion’ in Portugal’s sea cliffs",
           "link": "https://theconversation.com/how-we-discovered-a-115-million-year-old-algae-rebellion-in-portugals-sea-cliffs-296964",
           "published": "2026-11-18T16:45:20+00:00",
@@ -654,17 +656,6 @@
           "type": "news",
           "language": "en",
           "summary": "Our study found fossils in the Algarve that, according to previous records, had no business being there.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Your brain may be hiding Alzheimer’s from you – and that’s not always a good thing",
-          "link": "https://theconversation.com/your-brain-may-be-hiding-alzheimers-from-you-and-thats-not-always-a-good-thing-296019",
-          "published": "2026-11-18T15:25:34+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Brain ‘resilience’ may hide the disease until it’s too late.",
           "image": null,
           "other_news": false
         },
@@ -800,6 +791,17 @@
           "other_news": true
         },
         {
+          "title": "Abbott spent 12 years neglecting Texas air pollution – a new governor can start cleaning it up",
+          "link": "https://theconversation.com/abbott-spent-12-years-neglecting-texas-air-pollution-a-new-governor-can-start-cleaning-it-up-296400",
+          "published": "2026-11-19T13:41:07+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "An atmospheric scientist explains how the outgoing Texas governor sidestepped federal rules on soot, smog and haze – and what his successor can do abo",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Far from farms and cities, dry climates are boosting river nitrate pollution",
           "link": "https://theconversation.com/far-from-farms-and-cities-dry-climates-are-boosting-river-nitrate-pollution-294558",
           "published": "2026-11-12T19:04:55+00:00",
@@ -822,17 +824,6 @@
           "other_news": true
         },
         {
-          "title": "The great disaster divide: How the super-rich are profiting from global climate suffering",
-          "link": "https://www.climatechangenews.com/2026/11/04/the-great-disaster-divide-how-the-super-rich-are-profiting-from-global-climate-suffering/",
-          "published": "2026-11-04T17:29:57+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "New research from Oxfam shows the wealthiest 0.1% are making money from the climate crisis their pollution has caused, while buying protection for the",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Pollution de l'air : Lyon, Paris et Marseille mauvaises élèves du Top 40",
           "link": "https://reporterre.net/Top-40-des-villes-europeennes-polluees-Lyon-Paris-et-Marseille-mal-classees",
           "published": "2026-11-17T16:48:56+00:00",
@@ -841,6 +832,17 @@
           "language": "fr",
           "summary": "Plus de 700 morts par an à Marseille, 800 à Lyon et plus de 4 000 dans l'agglomération parisienne : en France, la pollution de l",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250601__hl_abonnard_2785986__v1__highres__francetrafficjamsslowdownsautoroute_1_-984d8.jpg?1794934141",
+          "other_news": true
+        },
+        {
+          "title": "South Africa recycles only about one-fifth of its plastic waste. What’s holding it back?",
+          "link": "https://theconversation.com/south-africa-recycles-only-about-one-fifth-of-its-plastic-waste-whats-holding-it-back-294328",
+          "published": "2026-11-19T13:44:02+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "South Africa has laws and policies to reduce plastic waste. But they need enforcement, local recycling centres and to involve waste reclaimers in plan",
+          "image": null,
           "other_news": true
         },
         {
@@ -856,17 +858,6 @@
         }
       ],
       "Marine Biodiversity & Conservation": [
-        {
-          "title": "Who should have a say in which species are saved? The California condor offers lessons for a global biodiversity treaty",
-          "link": "https://theconversation.com/who-should-have-a-say-in-which-species-are-saved-the-california-condor-offers-lessons-for-a-global-biodiversity-treaty-294659",
-          "published": "2026-10-20T12:36:46+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "When conservation affects local people, the question of who pays and who has a voice in decisions can make or break species recovery.",
-          "image": null,
-          "other_news": true
-        },
         {
           "title": "CB Live: Carbon Brief’s team at COP17 on the nature talks’ key outcomes",
           "link": "https://www.carbonbrief.org/cb-live-carbon-briefs-team-at-cop17-on-the-nature-talks-key-outcomes",
@@ -901,6 +892,17 @@
           "summary": "The state of national food security will need to be a key focus.",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "Canada’s Food-Link Fund gets rural policy partly right. Here’s what’s missing",
+          "link": "https://theconversation.com/canadas-food-link-fund-gets-rural-policy-partly-right-heres-whats-missing-295645",
+          "published": "2026-11-19T15:04:33+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The National Food Security Strategy could make Canada’s food system more equitable, sustainable and sovereign. Implementation challenges mean rural ar",
+          "image": null,
+          "other_news": true
         }
       ],
       "Marine Protected Areas & Policy": [
@@ -912,6 +914,17 @@
           "type": "news",
           "language": "en",
           "summary": "Policy jargon, though often dense and alienating, can serve as an effective springboard for discussing difficult realities.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Lowering fuel-efficiency standards for cars could cost Americans more, not save them money",
+          "link": "https://theconversation.com/lowering-fuel-efficiency-standards-for-cars-could-cost-americans-more-not-save-them-money-295706",
+          "published": "2026-11-19T13:40:54+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "A recent Trump administration policy change was based on incorrect assumptions about consumers’ views on fuel efficiency and convenience.",
           "image": null,
           "other_news": true
         },
@@ -1017,6 +1030,17 @@
           "other_news": true
         },
         {
+          "title": "Developer accused of 'environmental vandalism'",
+          "link": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-19T06:09:25+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5d/live/f7ab8f50-e35f-11f1-a094-5fdc692f3e33.jpg",
+          "other_news": true
+        },
+        {
           "title": "William and Kate honour Earthshot Prize winners in Mumbai",
           "link": "https://www.bbc.co.uk/news/videos/cmwy97rj83n1o?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-18T11:18:04+00:00",
@@ -1025,17 +1049,6 @@
           "language": "en",
           "summary": "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winner",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f7c/live/f6abfca0-e33e-11f1-99aa-0f40b013ad11.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
-          "link": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-12T11:03:53+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b233/live/7e5aee10-de7e-11f1-b88b-3f1671ea859d.jpg",
           "other_news": true
         },
         {
@@ -1101,6 +1114,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Alors que la conférence des Nations unies sur le climat se tient en Turquie, une étude portant sur 134 pays montre que les centrales électriques déten",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Cop31: the world is heading for climate ‘overshoot’ – the UN summit must start planning for what comes next",
+          "link": "https://theconversation.com/cop31-the-world-is-heading-for-climate-overshoot-the-un-summit-must-start-planning-for-what-comes-next-296769",
+          "published": "2026-11-19T12:21:46+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Small island states are pushing for urgent discussions about removing carbon dioxide and deliberately cooling the planet.",
           "image": null,
           "other_news": true
         },
@@ -1255,17 +1279,6 @@
           "type": "news",
           "language": "en",
           "summary": "Climate breakdown could undermine the social trust, political cooperation and financial resources needed to tackle it –&nbsp;new research shows how th",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "From doctors and teachers to lawyers, every profession has a duty to align with climate goals",
-          "link": "https://theconversation.com/from-doctors-and-teachers-to-lawyers-every-profession-has-a-duty-to-align-with-climate-goals-294914",
-          "published": "2026-11-05T08:25:38+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "New research outlines how climate responsibility can become part of professional practice.",
           "image": null,
           "other_news": true
         },
@@ -1446,13 +1459,24 @@
           "other_news": true
         },
         {
+          "title": "As COP31 weighs 35×35 pledge, IEA says Hormuz crisis driving electrification",
+          "link": "https://www.climatechangenews.com/2026/11/19/iea-report-hormuz-crisis-climate-electrification-shift-cop31-35x35-pledge/",
+          "published": "2026-11-19T12:46:05+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "The report estimates that a planned transition away from fossil fuels and into renewables can add energy jobs and cut energy bills\nThe post As COP31 w",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Bangladesh needs COP31 to deliver clarity on climate finance",
           "link": "https://www.climatechangenews.com/2026/11/19/bangladesh-needs-cop31-to-deliver-clarity-on-climate-finance/",
           "published": "2026-11-19T01:00:00+00:00",
           "source": "Climate change news",
           "type": "news",
           "language": "en",
-          "summary": "Bangladesh cannot bear rising climate costs alone - the UN climate summit in Antalya must show how timely, accessible finance will be delivered at the",
+          "summary": "Bangladesh cannot bear rising climate costs alone - the UN summit in Antalya must show how timely, accessible finance will be delivered at the scale n",
           "image": null,
           "other_news": true
         },
@@ -1622,8 +1646,8 @@
           "other_news": true
         },
         {
-          "title": "Indonésie : les fumées des incendies ont tué plus de 5 000 personnes",
-          "link": "https://reporterre.net/SOUS-EMBARGO-JEUDI-19-NOVEMBRE-4-H-CET-EN-BREF-Indonesie-les-fumees-des-incendies-ont-tue",
+          "title": "Indonésie : les fumées des incendies ont tué plus de 5 000 personnes",
+          "link": "https://reporterre.net/Indonesie-les-fumees-des-incendies-ont-tue-plus-de-5-000-personnes",
           "published": "2026-11-19T03:00:00+00:00",
           "source": "Reporterre",
           "type": "news",
@@ -1721,20 +1745,9 @@
           "other_news": true
         },
         {
-          "title": "British salmon stripped of organic logo by Soil Association",
-          "link": "https://oceanographicmagazine.com/news/british-salmon-stripped-of-organic-status-by-soil-association/",
-          "published": "2026-11-12T10:31:41+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The accreditation body said high mortality rates, low environmental standards and a lack of progress were the reason for the move\nThe post British sal",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "« Inside Deutsche Bank » : derrière la façade verte, les coulisses du « greenwashing » de la banque allemande",
+          "title": "« Inside Deutsche Bank » : derrière la façade verte, les coulisses du greenwashing de la banque allemande",
           "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/19/inside-deutsche-bank-derriere-la-facade-verte-les-coulisses-du-greenwashing-de-la-banque-allemande_6813239_4355770.html",
-          "published": "2026-11-19T06:58:07+01:00",
+          "published": "2026-11-19T06:58:05+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1773,17 +1786,6 @@
           "language": "fr",
           "summary": "Alors que les risques liés à l’augmentation des températures vont s’accentuer, le secteur touristique doit s’adapter et surtout réduire ses émissions",
           "image": "https://img.lemde.fr/2026/11/17/439/0/4252/2126/644/322/60/0/1688a92_upload-1-mw7eherdes81-000-c6ca363.jpg",
-          "other_news": true
-        },
-        {
-          "title": "DPE : l’Assemblée vote un amendement du RN supprimant les interdictions de location liées au diagnostic de performance énergétique",
-          "link": "https://www.lemonde.fr/politique/article/2026/11/17/logement-l-assemblee-vote-un-amendement-du-rn-supprimant-toutes-les-interdictions-de-location-liees-au-dpe_6813044_823448.html",
-          "published": "2026-11-17T21:46:05+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les députés sont allés plus loin que le texte initial, qui prévoyait déjà un assouplissement de la réglementation sur les passoires énergétiques, en s",
-          "image": "https://img.lemde.fr/2026/11/17/2409/0/3667/1833/644/322/60/0/f26bc1e_upload-1-9dnyv48jgytm-ad033-1europres-dsc09286.jpg",
           "other_news": true
         },
         {
@@ -1875,14 +1877,14 @@
           "other_news": true
         },
         {
-          "title": "NASA’s Voyager 1 has reached 1 light-day from Earth, the first human-made object in space to reach that distance",
-          "link": "https://theconversation.com/nasas-voyager-1-has-reached-1-light-day-from-earth-the-first-human-made-object-in-space-to-reach-that-distance-296026",
-          "published": "2026-11-18T13:34:06+00:00",
-          "source": "The Conversation",
+          "title": "How one tiny island made conservation work",
+          "link": "https://news.mongabay.com/short-article/2026/11/how-one-tiny-island-made-conservation-work/",
+          "published": "2026-11-19T12:34:42+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "The probe has explored both the solar system and the interstellar medium beyond during its decades-long journey.",
-          "image": null,
+          "summary": "Out in the Bristol Channel, nestled between Wales and England, the rugged island of Lundy is one of the UK’s most pioneering conservation stories. Wat",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/19123709/Mongabay_Thumbnail_LudyIsland_Vertical_Featured-338x512.jpg",
           "other_news": true
         },
         {
@@ -1949,28 +1951,6 @@
           "language": "en",
           "summary": "In 2021, we received a tip from a source in Sabah, Malaysia, about a proposed carbon credit deal. We received this tip because we’d developed a relati",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/17133913/car_260317_091944639-akana-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon",
-          "link": "https://news.mongabay.com/short-article/2026/11/pope-in-peruvian-rainforest-demands-justice-for-environmental-defenders-killed-for-protecting-amazon/",
-          "published": "2026-11-16T16:49:57+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "PUCALLPA, Peru (AP) — Pope Leo XIV is demanding justice for environmental defenders killed for protecting the Amazon. During a visit deep in the Peruv",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/16162455/AP26319641686051-scaled-e1794846430714-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Francophone leaders must support jailed Mother Nature Cambodia activists (commentary)",
-          "link": "https://news.mongabay.com/2026/11/francophone-leaders-must-support-jailed-mother-nature-cambodia-activists-commentary/",
-          "published": "2026-11-16T13:21:46+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Readers are certainly familiar with the Mother Nature Cambodia 5 (MNC5) after Mongabay released its documentary The Clearing in July 2025, chronicling",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/16124702/1793690863-768x512.jpg",
           "other_news": true
         }
       ]

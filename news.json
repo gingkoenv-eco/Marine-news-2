@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T06:01:45.807281+00:00",
+  "generated_at": "2026-11-20T15:28:28.007806+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -25,19 +25,6 @@
           "language": "en",
           "summary": "Exclusive: EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whalesFollow our Australian politics live blog for latest updatesS",
           "image": "https://i.guim.co.uk/img/media/37e026264024c8b969ae4fa3d8d8601720087a90/625_0_6628_5304/master/6628.jpg?width=140&quality=85&auto=format&fit=max&s=6bb71c939b4be55c1dde8f059a0c009b",
-          "other_news": false
-        }
-      ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "Clean power shields China from oil shock more than any other country",
-          "link": "https://www.climatechangenews.com/2026/11/05/clean-power-shields-china-from-oil-shock-more-than-any-other-country/",
-          "published": "2026-11-05T01:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Rapid clean power growth and electrification have boosted China's energy resilience as well as its confidence in its energy policy pre-COP31, experts",
-          "image": null,
           "other_news": false
         }
       ],
@@ -125,6 +112,17 @@
           "other_news": false
         },
         {
+          "title": "UK’s nature healthcheck doesn’t stack up in wildlife’s favour – but volunteers are collecting plenty of crucial data",
+          "link": "https://theconversation.com/uks-nature-healthcheck-doesnt-stack-up-in-wildlifes-favour-but-volunteers-are-collecting-plenty-of-crucial-data-296083",
+          "published": "2026-11-20T11:58:27+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "From air pollution and invasive species to genes and ecosystems, indicators help track what drives the ups and downs happening in nature.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "How Orlando Communities are Tackling Plastic Pollution",
           "link": "https://oceanconservancy.org/blog/2026/10/22/zero-waste-orlando/",
           "published": "2026-10-22T21:44:13+00:00",
@@ -191,17 +189,6 @@
           "summary": "JAKARTA — In Muncar, a busy fishing port on the southeastern coast of Indonesia’s East Java province, sharks can fetch as much as 1.5 million rupiah e",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/19091436/OceanImageBank_NoemiMerz_hammerhead-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Plans for a new marine protected area boost whale shark conservation in Indonesia’s Saleh Bay",
-          "link": "https://news.mongabay.com/2026/11/plans-for-a-new-marine-protected-area-boost-whale-shark-conservation-in-indonesias-saleh-bay/",
-          "published": "2026-11-17T08:10:41+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Plans to create a marine protected area for whale sharks in Indonesia’s Saleh Bay would give the world’s largest fish important new protections across",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/17063203/OceanImageBank_IshanHassan_whale-shark-768x512.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -214,6 +201,17 @@
           "language": "en",
           "summary": "Scientists and fishers study how these ‘reefs’ and the creatures living on them are transforming the ocean floor – and what it means for the fishing i",
           "image": "https://i.guim.co.uk/img/media/357c057ffd037975abe9fde2c30429a651d61667/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=a30e8f3fe5f441093f0f3cdfd6d9b71e",
+          "other_news": false
+        },
+        {
+          "title": "Young emperor penguins face krill industry in first year at sea",
+          "link": "https://oceanographicmagazine.com/news/young-emperor-penguins-face-krill-industry-in-first-year-at-sea/",
+          "published": "2026-11-20T11:24:00+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Tracking 48 juvenile emperor penguins from three Weddell Sea colonies reveals predictable migrations overlapping industrial krill fishing and proposed",
+          "image": null,
           "other_news": false
         },
         {
@@ -264,6 +262,17 @@
           "language": "en",
           "summary": "Multi-million dollar sale comes despite a federal judge in Hawaii voiding the environmental clearance it had been given to proceed The US has carried",
           "image": "https://i.guim.co.uk/img/media/52db2ad2ef1b34df495e559d0c7e7937ed3973ec/275_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=fb3f05b6064c43c19561581d194d92f1",
+          "other_news": false
+        },
+        {
+          "title": "US issues first deep sea mining leases off American Samoa",
+          "link": "https://oceanographicmagazine.com/news/us-issues-first-deep-sea-mining-leases-off-american-samoa/",
+          "published": "2026-11-20T08:56:08+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Two leases covering around 31.5 million acres have been awarded to a single bidder, despite opposition from the territory’s leaders and a federal judg",
+          "image": null,
           "other_news": false
         }
       ],
@@ -394,17 +403,6 @@
           "other_news": false
         },
         {
-          "title": "Lights out: the island that goes dark to save young seabirds – in pictures",
-          "link": "https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe",
-          "published": "2026-10-25T11:00:03+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Every autumn, Corvo Island in the Azores turns off its public lighting for a few key days to help fledgling Cory’s shearwaters as they attempt to fly",
-          "image": "https://i.guim.co.uk/img/media/63b9af7209a505695cd1ba9b5f0ff2ec06943393/168_0_1719_1376/master/1719.jpg?width=140&quality=85&auto=format&fit=max&s=a6a55d16ed120f699d9de0254749ba87",
-          "other_news": false
-        },
-        {
           "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
           "link": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-18T10:48:49+00:00",
@@ -471,17 +469,6 @@
           "other_news": false
         },
         {
-          "title": "El Niño is threatening California’s fragile coast again – the 1982-83 El Niño opened eyes to the serious erosion risks",
-          "link": "https://theconversation.com/el-nino-is-threatening-californias-fragile-coast-again-the-1982-83-el-nino-opened-eyes-to-the-serious-erosion-risks-293298",
-          "published": "2026-10-21T12:47:33+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "The destructive 1982-83 El Niño, then the strongest on record, eroded cliffs, leaving homes hanging precariously over the edges. A coastal scientist e",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Building coastal resilience for local communities in Honduras",
           "link": "https://www.climatechangenews.com/2026/11/17/building-coastal-resilience-for-local-communities-in-honduras/",
           "published": "2026-11-17T11:02:29+00:00",
@@ -512,6 +499,17 @@
           "language": "en",
           "summary": "A block of over 100 countries has pushed for a plan on ocean measures at COP31, as an extreme El Niño breaks temperature records at sea\nThe post &#821",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Marine Tondelier « prête » à rallier Jean-Luc Mélenchon : de nombreux soutiens et quelques démissions",
+          "link": "https://reporterre.net/Marine-Tondelier-prete-a-rallier-Jean-Luc-Melenchon-de-nombreux-soutiens-et-quelques",
+          "published": "2026-11-20T08:39:45+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Marine Tondelier a annoncé être prête à soutenir Jean-Luc Mélenchon en 2027. Les adhérents des Écologistes devront voter début d",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/marineraphaeletjeanlucsontsurunecandidature-57690.jpg?1795164011",
           "other_news": false
         },
         {
@@ -570,36 +568,14 @@
           "other_news": false
         },
         {
-          "title": "Remote Pacific atoll survey reveals our ‘most intact ecosystems’",
-          "link": "https://oceanographicmagazine.com/news/remote-pacific-atoll-survey-reveals-our-most-intact-ecosystems/",
-          "published": "2026-11-13T10:11:45+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Surveys of Bikar and Bokak atolls in the Marshall Islands reveal seabird colonies, nesting turtles and rich reefs, offering a rare baseline for some o",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Ocean risks are a ‘dangerous blind spot’ for the global economy",
-          "link": "https://oceanographicmagazine.com/news/ocean-risks-are-a-dangerous-blind-spot-for-the-global-economy/",
-          "published": "2026-11-13T09:44:20+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Actuaries, the University of Exeter and The Ocean Race warn that ocean degradation could cascade through food, trade, insurance and pensions, urging l",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Un cargo s’échoue sur le littoral des Landes, une partie de l’équipage évacuée par hélicoptère",
-          "link": "https://www.lemonde.fr/societe/article/2026/11/20/un-cargo-s-echoue-sur-le-littoral-des-landes-l-evacuation-de-son-equipage-ordonnee_6813591_3224.html",
-          "published": "2026-11-20T06:25:39+01:00",
+          "title": "Cargo échoué sur le littoral des Landes : le remorquage du bateau, pour éviter qu’il ne chavire, s’annonce compliqué en raison de la météo",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/20/cargo-echoue-sur-le-littoral-des-landes-le-remorquage-du-bateau-pour-eviter-qu-il-ne-chavire-s-annonce-complique-en-raison-de-la-meteo_6813591_3225.html",
+          "published": "2026-11-20T13:14:07+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Dix-neuf marins ont été hélitreuillés et transportés dans un centre d’hébergement d’urgence, tandis que trois membres de l’équipage sont restés à bord",
-          "image": "https://img.lemde.fr/2026/11/20/88/0/2048/1024/644/322/60/0/9d16235_upload-1-iqrybirmaum3-hxic1saxmaa88bn.jpeg",
+          "summary": "« La coque touche le fond. Le but des opérations maintenant est de réfléchir à un déséchouement de ce bateau, c’est-à-dire à le tirer vers le large (…",
+          "image": "https://img.lemde.fr/2026/11/20/312/0/3744/1872/644/322/60/0/0e456d9_ftp-1-ocnqnizqtcvf-2026-11-20t120337z-1714115212-rc2nroa8ofcm-rtrmadp-3-france-ship.JPG",
           "other_news": false
         },
         {
@@ -625,6 +601,17 @@
           "other_news": false
         },
         {
+          "title": "Nucléaire, écorégions, ZFE… On a joué au jeu des 7 différences entre les programmes de Jean-Luc Mélenchon et Marine Tondelier",
+          "link": "https://vert.eco/politique/nucleaire-ecoregions-zfe-on-a-joue-au-jeu-des-7-differences-entre-les-programmes-de-jean-luc-melenchon-et-marine-tondelier/",
+          "published": "2026-11-20T10:37:26+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "La patronne des Verts s’est dite «prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon», en rappelant qu’à l’Assemblée na",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Congé climatique, interdiction des pesticides, sortie du nucléaire… Ce que contient le programme de Marine Tondelier sur l’écologie",
           "link": "https://vert.eco/politique/conge-climatique-interdiction-des-pesticides-sortie-du-nucleaire-ce-que-contient-le-programme-de-marine-tondelier-sur-lecologie/",
           "published": "2026-11-18T10:42:29+00:00",
@@ -632,17 +619,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Les Écologistes ont publié cet été leur programme en vue de l’élection présidentielle de 2027, avec pour objectif d’atteindre la «prospérité écologiqu",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "What is ‘intergenerational trauma’? A social worker explains how one generation’s experiences can affect descendants",
-          "link": "https://theconversation.com/what-is-intergenerational-trauma-a-social-worker-explains-how-one-generations-experiences-can-affect-descendants-295045",
-          "published": "2026-11-19T13:40:19+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Effects of a traumatic event or long-term traumatic circumstances can cross generations – but resilience can too.",
           "image": null,
           "other_news": false
         },
@@ -667,6 +643,17 @@
           "summary": "What is El Niño and why is this year’s different? A strengthening El Niño layered on top of decades of human-caused climate change is pushing ocean te",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "Floating wind is building ‘A lot of momentum’ toward commercialization",
+          "link": "https://news.mongabay.com/2026/11/floating-wind-is-building-a-lot-of-momentum-toward-commercialization/",
+          "published": "2026-11-20T15:18:42+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "It’s a little-known, nascent sustainable technology on the verge of commercialization: Floating wind turbines deployed across deep ocean waters could",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/20054810/Image_5-768x512.jpg",
+          "other_news": false
         }
       ]
     },
@@ -685,6 +672,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "How the war in Iran turned the Gulf into a climate catastrophe – video explainer",
+          "link": "https://www.theguardian.com/world/video/2026/nov/20/how-the-war-in-iran-turned-the-gulf-into-a-climate-catastrophe-video-explainer",
+          "published": "2026-11-20T12:00:38+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The war between the US, Israel and Iran has turned the strait of Hormuz, one of the world’s busiest oil shipping routes, into a battlefield, but also",
+          "image": "https://i.guim.co.uk/img/media/81858b5185d8ec0e2ff40f48104308d71b535c20/247_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=301c31490c72501cce67e5a6820f9928",
+          "other_news": false
+        },
         {
           "title": "Massive wave knocks down onlooker in California – video",
           "link": "https://www.theguardian.com/us-news/video/2026/nov/16/massive-wave-knocks-down-onlooker-in-california-video",
@@ -705,17 +703,6 @@
           "language": "en",
           "summary": "The historic SS United States ocean liner has marked the end of its journey at sea, as it was sunk off the coast of Florida to become the 'world's lar",
           "image": "https://i.guim.co.uk/img/media/57e2ef9468fe2164b111342fd96abb875e35d8ae/570_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=86e579e49a8bb93c2b770c3a7f7e5193",
-          "other_news": false
-        },
-        {
-          "title": "Global clean energy transition demands millions of acres, threatening indigenous rights: Report",
-          "link": "https://news.mongabay.com/short-article/2026/11/global-clean-energy-transition-demands-millions-of-acres-threatening-indigenous-rights-report-2/",
-          "published": "2026-11-17T12:06:29+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The global push to transition away from fossil fuels is driving a massive surge in mineral extraction and renewable energy infrastructure that is fund",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/17120613/lithium-mine-australia-1-768x512.jpg",
           "other_news": false
         }
       ]
@@ -798,20 +785,20 @@
           "summary": "Plus de 700 morts par an à Marseille, 800 à Lyon et plus de 4 000 dans l'agglomération parisienne : en France, la pollution de l",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250601__hl_abonnard_2785986__v1__highres__francetrafficjamsslowdownsautoroute_1_-984d8.jpg?1794934141",
           "other_news": true
-        },
-        {
-          "title": "South Africa recycles only about one-fifth of its plastic waste. What’s holding it back?",
-          "link": "https://theconversation.com/south-africa-recycles-only-about-one-fifth-of-its-plastic-waste-whats-holding-it-back-294328",
-          "published": "2026-11-19T13:44:02+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "South Africa has laws and policies to reduce plastic waste. But they need enforcement, local recycling centres and to involve waste reclaimers in plan",
-          "image": null,
-          "other_news": true
         }
       ],
       "Marine Biodiversity & Conservation": [
+        {
+          "title": "Wildlife conservation cash targets ex-colliery sites",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-20T06:21:50+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The project aims to create and restore habitats for amphibians and lizards at sites in Yorkshire.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/4da02a40-e443-11f1-99a1-253766e7ad8b.jpg",
+          "other_news": true
+        },
         {
           "title": "CB Live: Carbon Brief’s team at COP17 on the nature talks’ key outcomes",
           "link": "https://www.carbonbrief.org/cb-live-carbon-briefs-team-at-cop17-on-the-nature-talks-key-outcomes",
@@ -821,6 +808,28 @@
           "language": "en",
           "summary": "Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit.&#8230;",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Last Javan rhino habitat caught between mining plans and relocation debate",
+          "link": "https://news.mongabay.com/2026/11/last-javan-rhino-habitat-caught-between-mining-plans-and-relocation-debate/",
+          "published": "2026-11-20T12:30:07+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "JAKARTA — Indonesian lawmakers and environmental groups are urging the government to revoke a mining map covering part of the waters around Ujung Kulo",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2019/03/11065458/Badak-jawa-sedang-bergenang-di-sungai-Cigenter-Foto-Stephen-Belcher-Dok-BTNUK-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "One in four land reptiles depends on rock habitats. Lack of protection leaves them in a hard place",
+          "link": "https://news.mongabay.com/short-article/2026/11/one-in-four-land-reptiles-depends-on-rock-habitats-lack-of-protection-leaves-them-in-a-hard-place/",
+          "published": "2026-11-20T11:04:15+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "More than a quarter of the world’s land reptiles depend on rocky habitats, yet these areas are often overlooked in conservation efforts, according to",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/20110058/rough-bellied-round-eyed-gecko--768x512.jpeg",
           "other_news": true
         }
       ],
@@ -890,6 +899,17 @@
           "type": "news",
           "language": "en",
           "summary": "I have followed the talks for years as a policy expert and former climate envoy for Germany, and I’m seeing growing concern about the rising costs and",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "‘SNL’ ‘Sister’ sketch nails the failures of US healthcare policy",
+          "link": "https://theconversation.com/snl-sister-sketch-nails-the-failures-of-us-healthcare-policy-297022",
+          "published": "2026-11-20T13:45:11+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Medicare and Medicaid provide limited help with caregiving for older adults – and that means unpaid relatives often bear big burdens.",
           "image": null,
           "other_news": true
         },
@@ -1061,6 +1081,17 @@
           "other_news": true
         },
         {
+          "title": "Weight-loss drugs could free up an area of farmland larger than Italy – new study",
+          "link": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
+          "published": "2026-11-20T09:38:51+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Ozempic, Wegovy and other drugs could have a significant effect on the environment. But medicine shouldn’t let an unhealthy and unsustainable food sys",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Cop31: the world is heading for climate ‘overshoot’ – the UN summit must start planning for what comes next",
           "link": "https://theconversation.com/cop31-the-world-is-heading-for-climate-overshoot-the-un-summit-must-start-planning-for-what-comes-next-296769",
           "published": "2026-11-19T12:21:46+00:00",
@@ -1211,17 +1242,6 @@
           "type": "news",
           "language": "en",
           "summary": "Electrification alone won’t deliver a clean energy transition. Two major challenges remain.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The worse climate change gets, the harder it becomes to stop it",
-          "link": "https://theconversation.com/the-worse-climate-change-gets-the-harder-it-becomes-to-stop-it-293987",
-          "published": "2026-11-06T00:19:23+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Climate breakdown could undermine the social trust, political cooperation and financial resources needed to tackle it –&nbsp;new research shows how th",
           "image": null,
           "other_news": true
         },
@@ -1666,6 +1686,28 @@
           "other_news": true
         },
         {
+          "title": "A la COP31, une militante des droits humains exclue de la délégation française après avoir interpellé la ministre Monique Barbut",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/20/a-la-cop31-une-militante-des-droits-humains-exclue-de-la-delegation-francaise-apres-avoir-interpelle-la-ministre-monique-barbut_6813643_3244.html",
+          "published": "2026-11-20T14:31:59+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Mariam Touré a interrogé la ministre de l’environnement sur les financements en faveur de l’adaptation au réchauffement climatique dans un couloir du",
+          "image": "https://img.lemde.fr/2026/11/20/1222/0/8056/4028/644/322/60/0/f9979c6_ftp-1-qpn2nmkydbdf-2026-11-20t092629z-2079898043-rc2lroa5y0ql-rtrmadp-3-climate-cop31.JPG",
+          "other_news": true
+        },
+        {
+          "title": "Les COP, rendez-vous incontournable des militantes de la société civile : « Il faut être là où les décisions se prennent, être vues et entendues »",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/20/les-cop-climat-rendez-vous-incontournable-des-militantes-de-la-societe-civile-il-faut-etre-la-ou-les-decisions-se-prennent-etre-vues-et-entendues_6813607_3244.html",
+          "published": "2026-11-20T10:00:06+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Des militantes engagées pour l’émancipation des femmes et la cause climatique sont récompensées chaque année lors des conférences mondiales sur le cli",
+          "image": "https://img.lemde.fr/2026/11/19/456/0/5472/2736/644/322/60/0/427cbd8_upload-1-40xggs85z7zm-ajcc0126.jpg",
+          "other_news": true
+        },
+        {
           "title": "Les pompes à chaleur sont-elles bonnes pour le climat ?",
           "link": "https://www.lemonde.fr/planete/article/2026/11/20/les-pompes-a-chaleur-sont-elles-bonnes-pour-le-climat_6813592_3244.html",
           "published": "2026-11-20T06:30:02+01:00",
@@ -1776,25 +1818,14 @@
           "other_news": true
         },
         {
-          "title": "Fossil fuel lobbyists are trying to derail climate action once again at COP31. Can they be stopped?",
-          "link": "https://theconversation.com/fossil-fuel-lobbyists-are-trying-to-derail-climate-action-once-again-at-cop31-can-they-be-stopped-294668",
-          "published": "2026-11-19T03:55:07+00:00",
-          "source": "The Conversation",
+          "title": "Fossil fuels’ role in Africa’s energy transition contested as UN climate conference closes",
+          "link": "https://news.mongabay.com/2026/11/fossil-fuels-role-in-africas-energy-transition-contested-as-un-climate-conference-closes/",
+          "published": "2026-11-20T10:59:38+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "The whole point of this summit is to address climate change. Why are fossil fuel cheerleaders still allowed in the door?",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Second-hand solar, tiny houses, no bills – we asked how  Australians are going off-grid and if it’s worth it",
-          "link": "https://theconversation.com/second-hand-solar-tiny-houses-no-bills-we-asked-how-australians-are-going-off-grid-and-if-its-worth-it-296397",
-          "published": "2026-11-19T03:51:27+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Going off-grid is increasingly appealing for rural residents in conventional homes – and tiny homes on wheels. It’s not just about the power bill.",
-          "image": null,
+          "summary": "As the 2026 edition of the annual U.N. Climate Change Conference reaches its conclusion in Antalya, Türkiye, on Nov. 20, African governments are argui",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/11/07154831/%C2%A9FAO_Luis-Tato-UF143XM-00257820-768x512.jpeg",
           "other_news": true
         },
         {

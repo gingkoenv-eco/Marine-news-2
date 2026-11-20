@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T21:38:10.420950+00:00",
+  "generated_at": "2026-11-20T06:01:45.807281+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -251,6 +251,19 @@
           "language": "en",
           "summary": "Negotiators in Antalya have placed marine ecosystems at the centre of global climate talks, backed by more than $1 billion in new funding for mangrove",
           "image": null,
+          "other_news": false
+        }
+      ],
+      "Deep Ocean & Mesophotic Ecosystems": [
+        {
+          "title": "‘The Pacific is not for sale’: outcry after US holds first deep sea mining lease sale near American Samoa",
+          "link": "https://www.theguardian.com/environment/2026/nov/20/us-deep-sea-mining-lease-auction-american-samoa",
+          "published": "2026-11-20T03:14:07+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Multi-million dollar sale comes despite a federal judge in Hawaii voiding the environmental clearance it had been given to proceed The US has carried",
+          "image": "https://i.guim.co.uk/img/media/52db2ad2ef1b34df495e559d0c7e7937ed3973ec/275_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=fb3f05b6064c43c19561581d194d92f1",
           "other_news": false
         }
       ],
@@ -579,6 +592,28 @@
           "other_news": false
         },
         {
+          "title": "Un cargo s’échoue sur le littoral des Landes, une partie de l’équipage évacuée par hélicoptère",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/20/un-cargo-s-echoue-sur-le-littoral-des-landes-l-evacuation-de-son-equipage-ordonnee_6813591_3224.html",
+          "published": "2026-11-20T06:25:39+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dix-neuf marins ont été hélitreuillés et transportés dans un centre d’hébergement d’urgence, tandis que trois membres de l’équipage sont restés à bord",
+          "image": "https://img.lemde.fr/2026/11/20/88/0/2048/1024/644/322/60/0/9d16235_upload-1-iqrybirmaum3-hxic1saxmaa88bn.jpeg",
+          "other_news": false
+        },
+        {
+          "title": "Des villes côtières de Californie bouleversées par la montée des eaux et la disparition des plages",
+          "link": "https://www.lemonde.fr/international/article/2026/11/20/des-villes-cotieres-de-californie-bouleversees-par-la-montee-des-eaux-et-la-disparition-des-plages_6813514_3210.html",
+          "published": "2026-11-20T03:15:05+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Maisons abîmées, inondations, glissements de terrain, routes coupées… En cette année marquée par un « El Niño » particulièrement puissant, les dégâts",
+          "image": "https://img.lemde.fr/2026/09/15/435/0/11682/5841/644/322/60/0/a8ce766_ftp-1-ryvaspnvpy4i-5093667-01-06.jpg",
+          "other_news": false
+        },
+        {
           "title": "Un homme soupçonné d’être à l’origine de 20 incendies cet été en Côte-d’Or est écroué",
           "link": "https://www.lemonde.fr/societe/article/2026/11/19/un-homme-soupconne-de-20-incendies-cet-ete-en-cote-d-or-ecroue_6813370_3224.html",
           "published": "2026-11-19T19:59:07+01:00",
@@ -894,6 +929,17 @@
           "other_news": true
         },
         {
+          "title": "More climate money for Africa? Europe says use what's already pledged",
+          "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-20T05:03:43+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg",
+          "other_news": true
+        },
+        {
           "title": "Stormont department failing to protect wild birds, investigation finds",
           "link": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-18T12:13:32+00:00",
@@ -927,28 +973,6 @@
           "other_news": true
         },
         {
-          "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-          "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-17T18:20:36+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7619/live/c9b38b90-e2ae-11f1-99b6-a35a62fa4264.jpg",
-          "other_news": true
-        },
-        {
-          "title": "More than £160m needed to clean up one of Europe's largest illegal dumps",
-          "link": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-17T09:46:31+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5254/live/cbfabb10-e26f-11f1-99b6-a35a62fa4264.jpg",
-          "other_news": true
-        },
-        {
           "title": "Oil firm fined for breaking environmental rules hundreds of times",
           "link": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-19T19:58:27+00:00",
@@ -968,17 +992,6 @@
           "language": "en",
           "summary": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5d/live/f7ab8f50-e35f-11f1-a094-5fdc692f3e33.jpg",
-          "other_news": true
-        },
-        {
-          "title": "William and Kate honour Earthshot Prize winners in Mumbai",
-          "link": "https://www.bbc.co.uk/news/videos/cmwy97rj83n1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-18T11:18:04+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winner",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f7c/live/f6abfca0-e33e-11f1-99aa-0f40b013ad11.jpg",
           "other_news": true
         },
         {
@@ -1653,6 +1666,17 @@
           "other_news": true
         },
         {
+          "title": "Les pompes à chaleur sont-elles bonnes pour le climat ?",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/20/les-pompes-a-chaleur-sont-elles-bonnes-pour-le-climat_6813592_3244.html",
+          "published": "2026-11-20T06:30:02+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
+          "image": "https://img.lemde.fr/2025/10/23/250/0/3000/1500/644/322/60/0/269a2c5_upload-1-unixw4s49jcr-frame-70.jpg",
+          "other_news": true
+        },
+        {
           "title": "COP31 : les énergies fossiles ont disparu du nouveau projet de « décision finale », à la veille de la fin théorique des négociations",
           "link": "https://www.lemonde.fr/planete/article/2026/11/19/cop31-les-energies-fossiles-ont-disparu-du-nouveau-projet-de-decision-finale-a-la-veille-de-la-fin-theorique-des-negociations_6813352_3244.html",
           "published": "2026-11-19T18:09:27+01:00",
@@ -1686,14 +1710,14 @@
           "other_news": true
         },
         {
-          "title": "« Inside Deutsche Bank » : derrière la façade verte, les coulisses du greenwashing de la banque allemande",
-          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/19/inside-deutsche-bank-derriere-la-facade-verte-les-coulisses-du-greenwashing-de-la-banque-allemande_6813239_4355770.html",
-          "published": "2026-11-19T06:58:05+01:00",
-          "source": "Le Monde Planète",
+          "title": "«On les voit partout» : à la COP31, les lobbies turcs du charbon font leur business sur le dos du climat",
+          "link": "https://vert.eco/climat/on-les-voit-partout-a-la-cop31-les-lobbies-turcs-du-charbon-font-leur-business-sur-le-dos-du-climat/",
+          "published": "2026-11-20T05:00:00+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Après l’accord de Paris en 2015, la banque a multiplié les annonces pour réduire son empreinte sur le climat. La fuite de données « Inside Deutsche Ba",
-          "image": "https://img.lemde.fr/2026/11/18/200/0/3000/1500/644/322/60/0/e5170dd_upload-1-gxlaqwqpfpro-db-08-greenwashing.jpg",
+          "summary": "Plusieurs entreprises minières et énergétiques, accusées de lourds dégâts environnementaux à travers le pays, figurent parmi les sponsors officiels de",
+          "image": null,
           "other_news": true
         },
         {
@@ -1730,13 +1754,13 @@
           "other_news": true
         },
         {
-          "title": "«Des actions, pas des discours» : en marge de la COP31, une manifestation a réuni les activistes du monde entier en Turquie",
-          "link": "https://vert.eco/rapports-de-force/des-actions-pas-des-discours-en-marge-de-la-cop31-une-manifestation-a-reuni-les-activistes-du-monde-entier-en-turquie/",
-          "published": "2026-11-16T09:58:28+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Wars and cost of living have pushed climate change off the priority list",
+          "link": "https://theconversation.com/wars-and-cost-of-living-have-pushed-climate-change-off-the-priority-list-296984",
+          "published": "2026-11-20T00:31:15+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Plus de 8 000 personnes ont défilé dans Antalya samedi, à l’occasion du Sommet des peuples pour le climat. Une contre-COP pour sortir le sujet de la s",
+          "language": "en",
+          "summary": "We’re heading past 1.5 degrees. What will it take to put COP climate summits back on the global agenda?",
           "image": null,
           "other_news": true
         },
@@ -1763,14 +1787,25 @@
           "other_news": true
         },
         {
-          "title": "Second-hand solar, tiny houses, no bills – we found how  Australians are going off-grid and if it’s worth it",
-          "link": "https://theconversation.com/second-hand-solar-tiny-houses-no-bills-we-found-how-australians-are-going-off-grid-and-if-its-worth-it-296397",
+          "title": "Second-hand solar, tiny houses, no bills – we asked how  Australians are going off-grid and if it’s worth it",
+          "link": "https://theconversation.com/second-hand-solar-tiny-houses-no-bills-we-asked-how-australians-are-going-off-grid-and-if-its-worth-it-296397",
           "published": "2026-11-19T03:51:27+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
           "summary": "Going off-grid is increasingly appealing for rural residents in conventional homes – and tiny homes on wheels. It’s not just about the power bill.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "As Nepal celebrates the crow, urban sprawl and waste drive strain",
+          "link": "https://news.mongabay.com/short-article/2026/11/as-nepal-celebrates-the-crow-urban-sprawl-and-waste-drive-strain/",
+          "published": "2026-11-20T05:33:03+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Every year around the Hindu festival of Diwali, or Deepavali, residents in Nepal observe Kaag Tihar, an annual festival day dedicated to worshipping h",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/20053233/Crow-tihar.width-800-1-768x408.jpg",
           "other_news": true
         },
         {

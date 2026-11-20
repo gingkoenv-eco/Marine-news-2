@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:28:28.007806+00:00",
+  "generated_at": "2026-11-20T16:12:06.963795+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -499,6 +499,17 @@
           "language": "en",
           "summary": "A block of over 100 countries has pushed for a plan on ocean measures at COP31, as an extreme El Niño breaks temperature records at sea\nThe post &#821",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Les tortues marines, victimes collatérales de l'explosion d'un propulseur SpaceX",
+          "link": "https://reporterre.net/Les-tortues-marines-victimes-collaterales-de-l-explosion-d-un-propulseur-SpaceX",
+          "published": "2026-11-20T15:36:41+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans sa course vers l'espace, le milliardaire Elon Musk mine l'océan. Le 13 novembre, lors d'un vol d'essai, le propulseur de la",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/seax-e44d2.png?1795189002",
           "other_news": false
         },
         {
@@ -1818,6 +1829,17 @@
           "other_news": true
         },
         {
+          "title": "Japan looks to offshore wind to boost energy security, but hurdles remain",
+          "link": "https://news.mongabay.com/2026/11/japan-looks-to-offshore-wind-to-boost-energy-security-but-hurdles-remain/",
+          "published": "2026-11-20T15:46:23+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Japan has “tremendous potential” for offshore wind power, according to the national government and experts. But achieving that potential means overcom",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/20111435/Offshore_7Bwind_farms_photographed_at_the_Port_of_Noshiro_at_sunset_20220728-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "Fossil fuels’ role in Africa’s energy transition contested as UN climate conference closes",
           "link": "https://news.mongabay.com/2026/11/fossil-fuels-role-in-africas-energy-transition-contested-as-un-climate-conference-closes/",
           "published": "2026-11-20T10:59:38+00:00",
@@ -1903,17 +1925,6 @@
           "language": "en",
           "summary": "The annual U.N. Framework Convention on Climate Change gathering drew historic levels of Indigenous attendance in Belém, Brazil, last year, leading so",
           "image": "https://news.mongabay.com/wp-content/uploads/sites/20/2026/11/AP26154722771461-1-768x512.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "Why conservation needs independent journalism (commentary)",
-          "link": "https://news.mongabay.com/2026/11/why-conservation-needs-independent-journalism/",
-          "published": "2026-11-17T15:38:09+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In 2021, we received a tip from a source in Sabah, Malaysia, about a proposed carbon credit deal. We received this tip because we’d developed a relati",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/17133913/car_260317_091944639-akana-768x512.jpg",
           "other_news": true
         }
       ]

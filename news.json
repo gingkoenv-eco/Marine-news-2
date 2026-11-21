@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T06:01:29.893987+00:00",
+  "generated_at": "2026-11-21T14:40:43.384331+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -513,17 +513,6 @@
           "other_news": false
         },
         {
-          "title": "« On voit une tortue, un dauphin… Et tout est mort » : les filets dérivants, fléau pour la vie en Méditerranée",
-          "link": "https://reporterre.net/On-voit-une-tortue-un-dauphin-Et-tout-est-mort-les-filets-derivants-fleau-pour-la-vie-en",
-          "published": "2026-11-21T05:00:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Des milliers d'animaux marins meurent dans les filets dérivants utilisés en Méditerranée. L'équipage d'Alexis Rosenfeld document",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/dsc01950-727a7.jpg?1795237201",
-          "other_news": false
-        },
-        {
           "title": "Les tortues marines, victimes collatérales de l'explosion d'un propulseur SpaceX",
           "link": "https://reporterre.net/Les-tortues-marines-victimes-collaterales-de-l-explosion-d-un-propulseur-SpaceX",
           "published": "2026-11-20T15:36:41+00:00",
@@ -598,6 +587,17 @@
           "language": "en",
           "summary": "The study reveals unique communities in polymetallic seabed rocks that take millions of years to form – and are being eyed for commercial mining \nThe",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "En Catalogne, l’éventuel retour des phoques moines sur la Costa Brava inquiète déjà les pêcheurs",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/21/en-catalogne-l-eventuel-retour-des-phoques-moines-sur-la-costa-brava-inquiete-deja-les-pecheurs_6813951_3244.html",
+          "published": "2026-11-21T07:30:01+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Une étude va être lancée en 2027 pour réinstaller une colonie de mammifères marins sur le littoral catalan où le dernier représentant de l’espèce est",
+          "image": "https://img.lemde.fr/2026/11/20/281/0/3378/1689/644/322/60/0/aef2e80_upload-1-eehyexc1yu4l-2023-05-15t100516z-1883671423-rc2wy0ax2k68-rtrmadp-3-israel-animals-seal.JPG",
           "other_news": false
         },
         {
@@ -982,6 +982,17 @@
           "other_news": true
         },
         {
+          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-21T09:52:11+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
+          "other_news": true
+        },
+        {
           "title": "More climate money for Africa? Europe says use what's already pledged",
           "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-20T05:03:43+00:00",
@@ -1015,17 +1026,6 @@
           "other_news": true
         },
         {
-          "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
-          "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-17T23:34:56+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9b/live/9d67ed20-e29e-11f1-8dda-8925a81c3da5.jpg",
-          "other_news": true
-        },
-        {
           "title": "Oil firm fined for breaking environmental rules hundreds of times",
           "link": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-19T19:58:27+00:00",
@@ -1037,17 +1037,6 @@
           "other_news": true
         },
         {
-          "title": "Developer accused of 'environmental vandalism'",
-          "link": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-19T06:09:25+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5d/live/f7ab8f50-e35f-11f1-a094-5fdc692f3e33.jpg",
-          "other_news": true
-        },
-        {
           "title": "BBC Inside Science",
           "link": "https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-12T21:00:00+00:00",
@@ -1056,6 +1045,17 @@
           "language": "en",
           "summary": "China: climate saviour or global villain?",
           "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+          "other_news": true
+        },
+        {
+          "title": "À Antalya, une COP de « mise en œuvre », mais pourquoi et pour qui ? Le Nord ou le Sud ?",
+          "link": "https://theconversation.com/a-antalya-une-cop-de-mise-en-oeuvre-mais-pourquoi-et-pour-qui-le-nord-ou-le-sud-297072",
+          "published": "2026-11-21T08:30:54+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans les faits, deux&nbsp;points de blocage (financement climatique Nord-Sud et sortie des énergies fossiles) ont de nouveau concentré l’essentiel des",
+          "image": null,
           "other_news": true
         },
         {
@@ -1279,6 +1279,17 @@
           "other_news": true
         },
         {
+          "title": "Army’s plan to blow up aging explosives will spread lead over part of Iowa – what you need to know about the risks",
+          "link": "https://theconversation.com/armys-plan-to-blow-up-aging-explosives-will-spread-lead-over-part-of-iowa-what-you-need-to-know-about-the-risks-297225",
+          "published": "2026-11-21T13:14:31+00:00",
+          "source": "The Conversation US",
+          "type": "news",
+          "language": "en",
+          "summary": "An environmental health expert whose University of Iowa team will be testing the air downwind of the detonation site explains the risks people, pets a",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "To get Americans to care about climate change, just call it climate change",
           "link": "https://theconversation.com/to-get-americans-to-care-about-climate-change-just-call-it-climate-change-296481",
           "published": "2026-11-13T15:05:35+00:00",
@@ -1451,6 +1462,17 @@
           "type": "news",
           "language": "en",
           "summary": "On 3 November, the Brazilian presidency of the COP30 climate talks released its long-awaited “roadmap” on ending deforestation.&#160; Ahead of&#8230;",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "COP31 Bulletin Day 12: “Good deal or no deal,” warns EU climate chief",
+          "link": "https://www.climatechangenews.com/2026/11/21/cop31-bulletin-day-12-dont-ignore-us-panama-warns-as-cop31-runs-into-overtime/",
+          "published": "2026-11-21T07:46:00+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "EU climate commissioner Wopke Hoekstra said the COP31 cover text must be acceptable or it will be rejected, with Tuvalu also expressing unhappiness\nTh",
           "image": null,
           "other_news": true
         },
@@ -1631,17 +1653,6 @@
           "other_news": true
         },
         {
-          "title": "COP31 Briefing: What to expect from the Antalya climate summit?",
-          "link": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
-          "published": "2026-11-05T14:09:45+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Electrification, the fossil fuel transition, adaptation to rising impacts, climate science and trade are key themes as governments gather for COP31 in",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Indonésie : les fumées des incendies ont tué plus de 5 000 personnes",
           "link": "https://reporterre.net/Indonesie-les-fumees-des-incendies-ont-tue-plus-de-5-000-personnes",
           "published": "2026-11-19T03:00:00+00:00",
@@ -1752,17 +1763,6 @@
           "other_news": true
         },
         {
-          "title": "COP31 : les énergies fossiles ont disparu du nouveau projet de « décision finale », à la veille de la fin théorique des négociations",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/19/cop31-les-energies-fossiles-ont-disparu-du-nouveau-projet-de-decision-finale-a-la-veille-de-la-fin-theorique-des-negociations_6813352_3244.html",
-          "published": "2026-11-19T18:09:27+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "En l’absence d’engagement des près de 200 pays participants à sortir progressivement des énergies fossiles, les ONG de défense de l’environnement crai",
-          "image": "https://img.lemde.fr/2026/11/19/1188/0/7128/3564/644/322/60/0/8b4908d_ftp-1-l3dscectq3aa-afp-d8247t3.jpg",
-          "other_news": true
-        },
-        {
           "title": "«On les voit partout» : à la COP31, les lobbies turcs du charbon font leur business sur le dos du climat",
           "link": "https://vert.eco/climat/on-les-voit-partout-a-la-cop31-les-lobbies-turcs-du-charbon-font-leur-business-sur-le-dos-du-climat/",
           "published": "2026-11-20T05:00:00+00:00",
@@ -1796,13 +1796,13 @@
           "other_news": true
         },
         {
-          "title": "Trois heures de débat et… une minute sur l’écologie : l’environnement absent de la soirée présidentielle sur LCI",
-          "link": "https://vert.eco/politique/trois-heures-de-debat-et-une-minute-sur-lecologie-lenvironnement-absent-de-la-soiree-presidentielle-sur-lci/",
-          "published": "2026-11-17T10:22:20+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Why fossil fuel-producing countries are stalling this crucial climate report",
+          "link": "https://theconversation.com/why-fossil-fuel-producing-countries-are-stalling-this-crucial-climate-report-296997",
+          "published": "2026-11-21T05:45:46+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Cinq candidats à l’élection présidentielle de 2027 ont débattu pendant environ trois heures ce lundi soir. Au milieu des nombreuses invectives, l’écol",
+          "language": "en",
+          "summary": "Independent, expert climate science is critical to our future.",
           "image": null,
           "other_news": true
         },
@@ -1818,14 +1818,14 @@
           "other_news": true
         },
         {
-          "title": "Climate communication that resonates must be based on empathy",
-          "link": "https://theconversation.com/climate-communication-that-resonates-must-be-based-on-empathy-294645",
-          "published": "2026-11-19T16:09:23+00:00",
-          "source": "The Conversation",
+          "title": "The British island that made a deal with nature",
+          "link": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
+          "published": "2026-11-21T09:10:37+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "People from different parts of the world might face different climate hazards. But each could recognize something of their own loss in the other’s sto",
-          "image": null,
+          "summary": "LUNDY ISLAND — United Kingdom. Out in the Bristol Channel, nestled between Wales and England, the rugged island of Lundy is one of the UK’s most pione",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/21091238/Mongabay_Thumbnail_LudyIsland_Featured_V2-768x512.jpg",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:25:15.893881+00:00",
+  "generated_at": "2026-11-21T19:14:53.035415+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -433,6 +433,17 @@
           "language": "en",
           "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8aa/live/74cc1cc0-e33d-11f1-99a1-253766e7ad8b.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Hormuz swim highlights environmental cost of war",
+          "link": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-21T16:12:31+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af51/live/b6455810-e5c2-11f1-a188-ff49e70cc466.jpg",
           "other_news": false
         },
         {
@@ -1462,17 +1473,6 @@
           "type": "news",
           "language": "en",
           "summary": "On 3 November, the Brazilian presidency of the COP30 climate talks released its long-awaited “roadmap” on ending deforestation.&#160; Ahead of&#8230;",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "COP31 Bulletin Day 12: “Good deal or no deal,” warns EU climate chief",
-          "link": "https://www.climatechangenews.com/2026/11/21/cop31-bulletin-day-12-dont-ignore-us-panama-warns-as-cop31-runs-into-overtime/",
-          "published": "2026-11-21T07:46:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "EU climate commissioner Wopke Hoekstra said the COP31 cover text must be acceptable or it will be rejected, with Tuvalu also expressing unhappiness\nTh",
           "image": null,
           "other_news": true
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T06:01:22.745105+00:00",
+  "generated_at": "2026-11-22T14:36:13.597300+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -513,6 +513,17 @@
           "other_news": false
         },
         {
+          "title": "« On voit une tortue, un dauphin… Et tout est mort » : les filets dérivants font un carnage en Méditerranée",
+          "link": "https://reporterre.net/Personne-n-a-envie-de-prendre-un-bebe-dauphin-dans-ses-filets-ils-tentent-de-stopper-le",
+          "published": "2026-11-21T05:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Des milliers d'animaux marins meurent dans les filets dérivants utilisés en Méditerranée. L'équipage d'Alexis Rosenfeld document",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/_dsc4385-42cdc.jpg?1795341903",
+          "other_news": false
+        },
+        {
           "title": "Les tortues marines, victimes collatérales de l'explosion d'un propulseur SpaceX",
           "link": "https://reporterre.net/Les-tortues-marines-victimes-collaterales-de-l-explosion-d-un-propulseur-SpaceX",
           "published": "2026-11-20T15:36:41+00:00",
@@ -565,17 +576,6 @@
           "language": "fr",
           "summary": "Un « ramassis de gauchistes » : voilà comment Marine Le Pen a qualifié la Ligue des droits de l'Homme lors d'un débat sur la pau",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/screenshot_2026-11-17_at_15-26-04_quelle_societe_pour_demain_le_grand_debat_-_le_debat_de_la_presidentielle_2027_quelle_societe_pour_demain_tf1-647dd.png?1794926241",
-          "other_news": false
-        },
-        {
-          "title": "Nucléaire : EDF voudrait relever les limites de température des fleuves, et tant pis pour les poissons",
-          "link": "https://reporterre.net/Nucleaire-EDF-voudrait-relever-les-limites-de-temperature-des-fleuves-et-tant-pis-pour-les-poissons",
-          "published": "2026-11-13T13:26:03+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les canicules ayant plombé sa production, l'opérateur veut assouplir les normes sur les eaux qui refroidissent ses centrales. Ma",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20220220__hl_jffort_1668464__v1__highres__franceattheedgeoftheriverviennethenuc-83191.jpg?1794576371",
           "other_news": false
         },
         {
@@ -934,17 +934,6 @@
           "summary": "Medicare and Medicaid provide limited help with caregiving for older adults – and that means unpaid relatives often bear big burdens.",
           "image": null,
           "other_news": true
-        },
-        {
-          "title": "The US-China AI race is real – but Trump’s recent moves on ‘super intelligence’ are unlikely to give America any advantage",
-          "link": "https://theconversation.com/the-us-china-ai-race-is-real-but-trumps-recent-moves-on-super-intelligence-are-unlikely-to-give-america-any-advantage-296219",
-          "published": "2026-11-19T16:52:11+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The White House has set up a task force to coordinate policy on AI. Whether it matters depends on what sits behind the label.",
-          "image": null,
-          "other_news": true
         }
       ],
       "Other Marine News": [
@@ -971,9 +960,9 @@
           "other_news": true
         },
         {
-          "title": "New draft deal aims to avert collapse of talks at climate summit",
+          "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
           "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-22T05:26:10+00:00",
+          "published": "2026-11-22T06:54:06+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -1026,14 +1015,14 @@
           "other_news": true
         },
         {
-          "title": "Oil firm fined for breaking environmental rules hundreds of times",
-          "link": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-19T19:58:27+00:00",
+          "title": "Record-breaking sightings of rare moth in Essex",
+          "link": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-22T06:38:26+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Ten charges involved oil, cyanide and other pollutants entering local waterways.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a4/live/abc74840-e440-11f1-9192-3924a59e54c7.jpg",
+          "summary": "There is now a self-sustaining population of the moth at a nature reserve in Essex, a charity says.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a5/live/873e73e0-e436-11f1-8346-933d3547e297.jpg",
           "other_news": true
         },
         {
@@ -1631,6 +1620,17 @@
           "other_news": true
         },
         {
+          "title": "La « pire de toutes les COP » touche à sa fin sans accord et avec un retard historique",
+          "link": "https://reporterre.net/La-pire-de-toutes-les-COP-touche-a-sa-fin-sans-accord-et-avec-un-retard-historique",
+          "published": "2026-11-22T13:51:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "La COP31 s'est achevée sur un échec monumental. Le projet d'accord, unanimement décrié par les ONG écologistes, a été rejeté par",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/toutescopessontechec-90487.jpg?1795355462",
+          "other_news": true
+        },
+        {
           "title": "Indonésie : les fumées des incendies ont tué plus de 5 000 personnes",
           "link": "https://reporterre.net/Indonesie-les-fumees-des-incendies-ont-tue-plus-de-5-000-personnes",
           "published": "2026-11-19T03:00:00+00:00",
@@ -1697,20 +1697,20 @@
           "other_news": true
         },
         {
-          "title": "Chasse : une plainte contre X déposée après les révélations de Reporterre",
-          "link": "https://reporterre.net/Chasse-une-plainte-contre-X-deposee-apres-les-revelations-de-Reporterre",
-          "published": "2026-11-13T10:45:33+00:00",
-          "source": "Reporterre",
+          "title": "COP31 : la présidence turque ​annonce le rejet de sa proposition de décision finale, qui ne mentionnait pas la sortie des énergies fossiles",
+          "link": "https://www.lemonde.fr/climat/article/2026/11/22/climat-l-ue-et-ses-membres-s-opposent-a-l-adoption-de-la-decision-finale-proposee-a-la-cop31_6814199_1652613.html",
+          "published": "2026-11-22T12:32:50+01:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "L'association AC !! Anticorruption a déposé le 5 novembre une plainte contre X pour des infractions à la réglementation des rése",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20220918__32jm4h9__v1__highres__francehuntinganimal_1_-ecb07.jpg?1794566738",
+          "summary": "« Nous n’approuverons pas une décision (…) ne mentionnant même pas les combustibles fossiles, qui sont le principal moteur du changement climatique »,",
+          "image": "https://img.lemde.fr/2026/11/22/165/0/2803/1401/644/322/60/0/5289506_ftp-1-ek202bqq2pqs-3792d361fabb4fecb2415873fc099424-0-5bd4a13d39904f6186ed418e2f6ba2cf.jpg",
           "other_news": true
         },
         {
           "title": "« Alors que la science montre de mieux en mieux le rôle des substances chimiques dans l’épidémie de “maladies de civilisation”, l’Europe affaiblit sa réglementation »",
           "link": "https://www.lemonde.fr/idees/article/2026/11/22/alors-que-la-science-montre-de-mieux-en-mieux-le-role-des-substances-chimiques-dans-l-epidemie-de-maladies-de-civilisation-l-europe-affaiblit-sa-reglementation_6814145_3232.html",
-          "published": "2026-11-22T05:50:09+01:00",
+          "published": "2026-11-22T05:50:06+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1774,13 +1774,24 @@
           "other_news": true
         },
         {
-          "title": "«Ce serait hyper puissant» : à la COP31, les associations et l’ONU poussent pour taxer les multinationales fossiles",
-          "link": "https://vert.eco/climat/ce-serait-hyper-puissant-a-la-cop31-les-associations-et-lonu-poussent-pour-taxer-les-multinationales-fossiles/",
-          "published": "2026-11-17T16:05:37+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Fossil of the Day: Has Mark Carney made Canada a climate heretic?",
+          "link": "https://theconversation.com/fossil-of-the-day-has-mark-carney-made-canada-a-climate-heretic-296908",
+          "published": "2026-11-22T12:44:37+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "L’instauration d’une taxe sur les profits du secteur pétrolier et gazier émerge au sommet mondial sur le climat à Antalya en Turquie. Le chef des Nati",
+          "language": "en",
+          "summary": "The satirical award is given to countries and leaders seen as doing little to support efforts to tackle climate change.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Mark Carney’s fight against Donald Trump won’t make Canada stronger",
+          "link": "https://theconversation.com/mark-carneys-fight-against-donald-trump-wont-make-canada-stronger-296186",
+          "published": "2026-11-22T12:28:11+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Mark Carney’s ‘Projects of National Interest’ are more like ‘Projects of National Inequality and Environmental Destruction’ than measures that will pr",
           "image": null,
           "other_news": true
         },

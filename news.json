@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T15:25:26.787699+00:00",
+  "generated_at": "2026-11-22T19:38:54.579672+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -411,17 +411,6 @@
           "language": "en",
           "summary": "Seawater surges into low-lying communities from San Diego to San Francisco Bay Area, submerging streets, homes and businessesHistoric high tides have",
           "image": "https://i.guim.co.uk/img/media/b20120c4b553d362873c54211e1576d96863c482/463_0_4626_3701/master/4626.jpg?width=140&quality=85&auto=format&fit=max&s=496f2c81ac0f2a0381f611dead0b776d",
-          "other_news": false
-        },
-        {
-          "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-18T10:48:49+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8aa/live/74cc1cc0-e33d-11f1-99a1-253766e7ad8b.jpg",
           "other_news": false
         },
         {
@@ -960,6 +949,28 @@
           "other_news": true
         },
         {
+          "title": "What's next after no deal at COP31 climate summit?",
+          "link": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-22T18:28:48+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0084/live/3dd7fdf0-e69f-11f1-a094-5fdc692f3e33.jpg",
+          "other_news": true
+        },
+        {
+          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-22T18:17:59+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+          "other_news": true
+        },
+        {
           "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
           "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-22T06:54:06+00:00",
@@ -1001,17 +1012,6 @@
           "language": "en",
           "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Stormont department failing to protect wild birds, investigation finds",
-          "link": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-18T12:13:32+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Area",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b02/live/938feeb0-e348-11f1-99aa-0f40b013ad11.jpg",
           "other_news": true
         },
         {
@@ -1620,7 +1620,7 @@
           "other_news": true
         },
         {
-          "title": "La « pire de toutes les COP » touche à sa fin sans accord et avec un retard historique",
+          "title": "La « pire de toutes les COP » se termine sans accord et avec un retard historique",
           "link": "https://reporterre.net/La-pire-de-toutes-les-COP-touche-a-sa-fin-sans-accord-et-avec-un-retard-historique",
           "published": "2026-11-22T13:51:00+00:00",
           "source": "Reporterre",
@@ -1697,9 +1697,20 @@
           "other_news": true
         },
         {
-          "title": "COP31 : la présidence turque ​annonce le rejet de sa proposition de décision finale, qui ne mentionnait pas la sortie des énergies fossiles",
-          "link": "https://www.lemonde.fr/climat/article/2026/11/22/climat-l-ue-et-ses-membres-s-opposent-a-l-adoption-de-la-decision-finale-proposee-a-la-cop31_6814199_1652613.html",
-          "published": "2026-11-22T12:32:50+01:00",
+          "title": "A la COP31, la communauté internationale se déchire sur la sortie des énergies fossiles et la question des transferts financiers",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/22/a-la-cop31-la-communaute-internationale-sort-dechiree-face-au-manque-d-ambition-sur-la-sortie-des-energies-fossiles-et-les-transferts-financiers_6814242_3244.html",
+          "published": "2026-11-22T20:08:00+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le sommet mondial sur le climat s’est achevé dimanche sans décision finale. La volonté de ne pas faire figurer la sortie des combustibles fossiles dan",
+          "image": "https://img.lemde.fr/2026/11/22/58/0/2278/1139/644/322/60/0/fbea2a7_ftp-1-bdaf97jsqzbc-57411e6726b849d9b1e218144a872fde-0-ba16f37da3ba4f61a533ba75f2833014.jpg",
+          "other_news": true
+        },
+        {
+          "title": "La COP31 s’achève sur un échec, sans accord devant la division des pays sur les énergies fossiles",
+          "link": "https://www.lemonde.fr/climat/article/2026/11/22/la-cop31-s-acheve-sur-un-echec-sans-accord-devant-la-division-des-pays-sur-les-energies-fossiles_6814199_1652613.html",
+          "published": "2026-11-22T18:11:49+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -1774,6 +1785,28 @@
           "other_news": true
         },
         {
+          "title": "Are your kids really ratty right now? How to get through the final weeks of school",
+          "link": "https://theconversation.com/are-your-kids-really-ratty-right-now-how-to-get-through-the-final-weeks-of-school-296940",
+          "published": "2026-11-22T18:38:36+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As school winds down, family life can get busier and less predictable. Kids can bicker and whinge, and parents can feel like they are freaking out.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "The circular economy depends on millions of waste-pickers whose labour is rarely rewarded",
+          "link": "https://theconversation.com/the-circular-economy-depends-on-millions-of-waste-pickers-whose-labour-is-rarely-rewarded-296379",
+          "published": "2026-11-22T17:09:03+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Millions of informal waste-pickers are the forgotten heroes of the the circular economy, without receiving the recognition their work deserves.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Fossil of the Day: Has Mark Carney made Canada a climate heretic?",
           "link": "https://theconversation.com/fossil-of-the-day-has-mark-carney-made-canada-a-climate-heretic-296908",
           "published": "2026-11-22T12:44:37+00:00",
@@ -1803,17 +1836,6 @@
           "type": "news",
           "language": "en",
           "summary": "Independent, expert climate science is critical to our future.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Wars and cost of living have pushed climate change off the priority list",
-          "link": "https://theconversation.com/wars-and-cost-of-living-have-pushed-climate-change-off-the-priority-list-296984",
-          "published": "2026-11-20T00:31:15+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "We’re heading past 1.5 degrees. What will it take to put COP climate summits back on the global agenda?",
           "image": null,
           "other_news": true
         },

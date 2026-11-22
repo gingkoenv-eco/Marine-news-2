@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T20:08:01.634577+00:00",
+  "generated_at": "2026-11-22T06:01:22.745105+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -130,17 +130,6 @@
           "type": "news",
           "language": "en",
           "summary": "From air pollution and invasive species to genes and ecosystems, indicators help track what drives the ups and downs happening in nature.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "How Orlando Communities are Tackling Plastic Pollution",
-          "link": "https://oceanconservancy.org/blog/2026/10/22/zero-waste-orlando/",
-          "published": "2026-10-22T21:44:13+00:00",
-          "source": "Ocean Conservancy",
-          "type": "news",
-          "language": "en",
-          "summary": "The city of Orlando is known above all else for its world-class amusement parks. In fact, hundreds of thousands of people visit the city every year fr",
           "image": null,
           "other_news": false
         },
@@ -634,17 +623,6 @@
           "other_news": false
         },
         {
-          "title": "Un homme soupçonné d’être à l’origine de 20 incendies cet été en Côte-d’Or est écroué",
-          "link": "https://www.lemonde.fr/societe/article/2026/11/19/un-homme-soupconne-de-20-incendies-cet-ete-en-cote-d-or-ecroue_6813370_3224.html",
-          "published": "2026-11-19T19:59:07+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Il sera jugé en janvier et restera en détention provisoire jusque-là.",
-          "image": "https://img.lemde.fr/2026/09/07/250/0/3000/1500/644/322/60/0/f95914a_upload-1-tqdd4pmoh3ig-frame-1270-1.jpg",
-          "other_news": false
-        },
-        {
           "title": "Nucléaire, écorégions, ZFE… On a joué au jeu des 7 différences entre les programmes de Jean-Luc Mélenchon et Marine Tondelier",
           "link": "https://vert.eco/politique/nucleaire-ecoregions-zfe-on-a-joue-au-jeu-des-7-differences-entre-les-programmes-de-jean-luc-melenchon-et-marine-tondelier/",
           "published": "2026-11-20T10:37:26+00:00",
@@ -993,9 +971,31 @@
           "other_news": true
         },
         {
+          "title": "New draft deal aims to avert collapse of talks at climate summit",
+          "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-22T05:26:10+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Will COP31 end with a new global climate deal?",
+          "link": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-21T22:44:52+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511b/live/004fea80-e5fd-11f1-a094-5fdc692f3e33.jpg",
+          "other_news": true
+        },
+        {
           "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
           "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-21T19:33:49+00:00",
+          "published": "2026-11-21T22:19:43+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -1023,17 +1023,6 @@
           "language": "en",
           "summary": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Area",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b02/live/938feeb0-e348-11f1-99aa-0f40b013ad11.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
-          "link": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-18T00:44:48+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36bf/live/43e4a6f0-e29c-11f1-8dda-8925a81c3da5.jpg",
           "other_news": true
         },
         {
@@ -1642,17 +1631,6 @@
           "other_news": true
         },
         {
-          "title": "Turkey must make COP31 a turning point for global climate action",
-          "link": "https://www.climatechangenews.com/2026/11/05/turkey-must-make-cop31-a-turning-point-for-global-climate-action/",
-          "published": "2026-11-05T17:25:01+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Turkey, which bridges developed and developing economies, is well placed to build consensus and partnerships at the Antalya summit - but it can set a",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Indonésie : les fumées des incendies ont tué plus de 5 000 personnes",
           "link": "https://reporterre.net/Indonesie-les-fumees-des-incendies-ont-tue-plus-de-5-000-personnes",
           "published": "2026-11-19T03:00:00+00:00",
@@ -1727,6 +1705,17 @@
           "language": "fr",
           "summary": "L'association AC !! Anticorruption a déposé le 5 novembre une plainte contre X pour des infractions à la réglementation des rése",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20220918__32jm4h9__v1__highres__francehuntinganimal_1_-ecb07.jpg?1794566738",
+          "other_news": true
+        },
+        {
+          "title": "« Alors que la science montre de mieux en mieux le rôle des substances chimiques dans l’épidémie de “maladies de civilisation”, l’Europe affaiblit sa réglementation »",
+          "link": "https://www.lemonde.fr/idees/article/2026/11/22/alors-que-la-science-montre-de-mieux-en-mieux-le-role-des-substances-chimiques-dans-l-epidemie-de-maladies-de-civilisation-l-europe-affaiblit-sa-reglementation_6814145_3232.html",
+          "published": "2026-11-22T05:50:09+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Un rapport de l’Organisation mondiale de la santé et du Programme des Nations unies pour l’environnement montre que, pour seulement sept molécules ou",
+          "image": "https://img.lemde.fr/2026/10/03/468/0/7545/3772/644/322/60/0/91640ca_ftp-1-y2lwjrnnjarf-5253307-01-06.jpg",
           "other_news": true
         },
         {

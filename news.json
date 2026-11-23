@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T06:02:06.711108+00:00",
+  "generated_at": "2026-11-23T18:10:47.563823+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -57,6 +57,17 @@
           "type": "news",
           "language": "en",
           "summary": "A group of countries including African nations, European Union, and small island states wants COP31 to deliver an ocean roadmap towards 2028\nThe post",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Ocean ambitions left adrift as COP31 talks break down",
+          "link": "https://oceanographicmagazine.com/news/ocean-ambitions-left-adrift-as-cop-31-talks-break-down/",
+          "published": "2026-11-23T11:00:32+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "COP31 ended in Antalya without an agreement after fossil fuel divisions, taking draft ocean language with it, though the presidency’s ocean compact su",
           "image": null,
           "other_news": false
         },
@@ -156,6 +167,17 @@
           "other_news": false
         },
         {
+          "title": "Madeira’s marine protections paying off – but sharks alarmingly absent",
+          "link": "https://oceanographicmagazine.com/news/madeiras-marine-protections-paying-off-but-sharks-alarmingly-absent/",
+          "published": "2026-11-23T15:21:51+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A month-long expedition around the Portuguese archipelago recorded bigger fish and a recovering seal population inside protected areas, but fewer than",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Whale genomes sequenced from drone-collected ‘snot’ in world first",
           "link": "https://oceanographicmagazine.com/news/whale-genomes-sequenced-from-drone-collected-snot-in-world-first/",
           "published": "2026-11-17T12:30:21+00:00",
@@ -163,17 +185,6 @@
           "type": "news",
           "language": "en",
           "summary": "Researchers flew a small drone through the exhaled breath of humpback whales off British Columbia, producing genomes that match those from traditional",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "North Atlantic right whale population slips to 382",
-          "link": "https://oceanographicmagazine.com/news/north-atlantic-right-whale-population-slips-to-382/",
-          "published": "2026-11-16T16:10:34+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The latest Consortium estimate shows a 1.8% decline, as scientists and campaigners warn that deaths, entanglements and weakening protections are under",
           "image": null,
           "other_news": false
         },
@@ -186,17 +197,6 @@
           "language": "en",
           "summary": "COP17 ended in Armenia amid disappointment over the lack of concrete measures to reduce biodiversity loss by 2030. Finance was a sore point. Philanthr",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/20172553/mexico_20250607_194557784x-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Threatened species make up half of shark catches at Indonesian fishing port, study finds",
-          "link": "https://news.mongabay.com/2026/11/threatened-species-make-up-half-of-shark-catches-at-indonesian-fishing-port-study-finds/",
-          "published": "2026-11-19T10:57:05+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "JAKARTA — In Muncar, a busy fishing port on the southeastern coast of Indonesia’s East Java province, sharks can fetch as much as 1.5 million rupiah e",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/19091436/OceanImageBank_NoemiMerz_hammerhead-768x512.jpg",
           "other_news": false
         }
       ],
@@ -224,14 +224,14 @@
           "other_news": false
         },
         {
-          "title": "Geopolitical tensions hamper efforts to curb overfishing in waters near Europe",
-          "link": "https://news.mongabay.com/2026/11/geopolitical-tensions-hamper-efforts-to-curb-overfishing-in-waters-near-europe/",
-          "published": "2026-11-19T15:13:44+00:00",
+          "title": "Warming seas threaten South Korea’s iconic squid fishery with collapse by 2040s",
+          "link": "https://news.mongabay.com/short-article/2026/11/warming-seas-threaten-south-koreas-iconic-squid-fishery-with-collapse-by-2040s/",
+          "published": "2026-11-23T12:02:44+00:00",
           "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "LONDON — On Nov. 10, Mongabay went to the site of the annual meeting of the body that regulates fishing in the northeastern Atlantic, where a little-k",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/19143106/c.-GP1SVZGD-768x512.jpg",
+          "summary": "Rapidly warming sea temperatures and marine heat waves could eliminate South Korea’s domestic catch of the Pacific flying squid by the 2040s, accordin",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23120227/Drying_squid_at_Daepo_Port_01-1-768x512.jpg",
           "other_news": false
         }
       ],
@@ -312,6 +312,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "California on edge as high tides and floods set to wreak havoc over Thanksgiving. Here is what to know",
+          "link": "https://www.theguardian.com/us-news/2026/nov/23/california-high-tides-floods-weather-thanksgiving",
+          "published": "2026-11-23T15:43:23+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Coastal cities race to prepare for possible historic floods colliding with El Niño conditions before busy travel weekIt has already been a rough year",
+          "image": "https://i.guim.co.uk/img/media/a47eb19ae70cc87e3125f00f92121acfdefeac14/469_0_4688_3750/master/4688.jpg?width=140&quality=85&auto=format&fit=max&s=661b45eecb65d8ea0e37ab080931e384",
+          "other_news": false
+        },
         {
           "title": "‘The sea washed away trees, then a whole row of houses. I knew it was time to get out’ – This is climate breakdown",
           "link": "https://www.theguardian.com/environment/ng-interactive/2026/nov/18/el-bosque-mexico-displaced-sea-level-this-is-climate-breakdown",
@@ -478,17 +489,6 @@
           "other_news": false
         },
         {
-          "title": "‘Blue COP31’ set to spotlight need for ocean protections amid record heat",
-          "link": "https://www.climatechangenews.com/2026/11/06/blue-cop31-antalya-ocean-protections-record-heat-climate-finance/",
-          "published": "2026-11-06T17:16:31+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "A block of over 100 countries has pushed for a plan on ocean measures at COP31, as an extreme El Niño breaks temperature records at sea\nThe post &#821",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "« On voit une tortue, un dauphin… Et tout est mort » : les filets dérivants font un carnage en Méditerranée",
           "link": "https://reporterre.net/Personne-n-a-envie-de-prendre-un-bebe-dauphin-dans-ses-filets-ils-tentent-de-stopper-le",
           "published": "2026-11-21T05:00:00+00:00",
@@ -555,17 +555,6 @@
           "other_news": false
         },
         {
-          "title": "Tiny animals found living inside deep-sea nodules as US weighs first commercial mining permit",
-          "link": "https://oceanographicmagazine.com/news/tiny-animals-found-living-inside-deep-sea-nodules-as-us-weighs-first-commercial-mining-permit/",
-          "published": "2026-11-13T12:19:42+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The study reveals unique communities in polymetallic seabed rocks that take millions of years to form – and are being eyed for commercial mining \nThe",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "En Catalogne, l’éventuel retour des phoques moines sur la Costa Brava inquiète déjà les pêcheurs",
           "link": "https://www.lemonde.fr/planete/article/2026/11/21/en-catalogne-l-eventuel-retour-des-phoques-moines-sur-la-costa-brava-inquiete-deja-les-pecheurs_6813951_3244.html",
           "published": "2026-11-21T07:30:01+01:00",
@@ -574,17 +563,6 @@
           "language": "fr",
           "summary": "Une étude va être lancée en 2027 pour réinstaller une colonie de mammifères marins sur le littoral catalan où le dernier représentant de l’espèce est",
           "image": "https://img.lemde.fr/2026/11/20/281/0/3378/1689/644/322/60/0/aef2e80_upload-1-eehyexc1yu4l-2023-05-15t100516z-1883671423-rc2wy0ax2k68-rtrmadp-3-israel-animals-seal.JPG",
-          "other_news": false
-        },
-        {
-          "title": "Cargo échoué sur le littoral des Landes : le remorquage du bateau, pour éviter qu’il ne chavire, s’annonce compliqué en raison de la météo",
-          "link": "https://www.lemonde.fr/societe/article/2026/11/20/cargo-echoue-sur-le-littoral-des-landes-le-remorquage-du-bateau-pour-eviter-qu-il-ne-chavire-s-annonce-complique-en-raison-de-la-meteo_6813591_3225.html",
-          "published": "2026-11-20T13:14:07+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "« La coque touche le fond. Le but des opérations maintenant est de réfléchir à un déséchouement de ce bateau, c’est-à-dire à le tirer vers le large (…",
-          "image": "https://img.lemde.fr/2026/11/20/312/0/3744/1872/644/322/60/0/0e456d9_ftp-1-ocnqnizqtcvf-2026-11-20t120337z-1714115212-rc2nroa8ofcm-rtrmadp-3-france-ship.JPG",
           "other_news": false
         },
         {
@@ -606,6 +584,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Les Écologistes ont publié cet été leur programme en vue de l’élection présidentielle de 2027, avec pour objectif d’atteindre la «prospérité écologiqu",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "A fungus that can survive in Chernobyl could help create materials that trap and break down nerve agents and pesticides",
+          "link": "https://theconversation.com/a-fungus-that-can-survive-in-chernobyl-could-help-create-materials-that-trap-and-break-down-nerve-agents-and-pesticides-294087",
+          "published": "2026-11-23T13:04:58+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Engineers are using a pigment from fungi to develop microscopic sponges that could absorb pesticides, nerve gas and more.",
           "image": null,
           "other_news": false
         },
@@ -787,28 +776,6 @@
       ],
       "Marine Biodiversity & Conservation": [
         {
-          "title": "Wildlife conservation cash targets ex-colliery sites",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-20T06:21:50+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The project aims to create and restore habitats for amphibians and lizards at sites in Yorkshire.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/4da02a40-e443-11f1-99a1-253766e7ad8b.jpg",
-          "other_news": true
-        },
-        {
-          "title": "CB Live: Carbon Brief’s team at COP17 on the nature talks’ key outcomes",
-          "link": "https://www.carbonbrief.org/cb-live-carbon-briefs-team-at-cop17-on-the-nature-talks-key-outcomes",
-          "published": "2026-11-04T10:40:52+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit.&#8230;",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Last Javan rhino habitat caught between mining plans and relocation debate",
           "link": "https://news.mongabay.com/2026/11/last-javan-rhino-habitat-caught-between-mining-plans-and-relocation-debate/",
           "published": "2026-11-20T12:30:07+00:00",
@@ -890,13 +857,13 @@
           "other_news": true
         },
         {
-          "title": "‘SNL’ ‘Sister’ sketch nails the failures of US healthcare policy",
-          "link": "https://theconversation.com/snl-sister-sketch-nails-the-failures-of-us-healthcare-policy-297022",
-          "published": "2026-11-20T13:45:11+00:00",
+          "title": "How Mark Carney’s Russian hockey ban tests the global rule book",
+          "link": "https://theconversation.com/how-mark-carneys-russian-hockey-ban-tests-the-global-rule-book-296806",
+          "published": "2026-11-23T15:34:20+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Medicare and Medicaid provide limited help with caregiving for older adults – and that means unpaid relatives often bear big burdens.",
+          "summary": "For decades, Canada’s foreign policy was premised on the legitimacy of international institutions and multilateralism. Banning Russia from the World J",
           "image": null,
           "other_news": true
         }
@@ -914,14 +881,25 @@
           "other_news": true
         },
         {
-          "title": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
-          "link": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
-          "published": "2026-10-27T21:34:54+00:00",
-          "source": "The Guardian Ocean & Marine",
+          "title": "What failure of COP31 reveals about a divided world",
+          "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-23T17:24:25+00:00",
+          "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather eventsSwee",
-          "image": "https://i.guim.co.uk/img/media/177f777c410c1e1edbc2c7e8e9fd013495de2a9e/346_0_4867_3895/master/4867.jpg?width=140&quality=85&auto=format&fit=max&s=ffa1f1919e6c6d781f1902e29839f328",
+          "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c650/live/3a868c20-e767-11f1-99a1-253766e7ad8b.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Five takeaways from the failed climate talks COP31",
+          "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-23T06:33:50+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f7/live/e38ff1a0-e71f-11f1-99b6-a35a62fa4264.jpg",
           "other_news": true
         },
         {
@@ -932,7 +910,7 @@
           "type": "news",
           "language": "en",
           "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffb0/live/d31e6e50-e6fc-11f1-9d32-695d6c00481f.jpg",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5fe/live/bf5d6f10-e71f-11f1-99a1-253766e7ad8b.jpg",
           "other_news": true
         },
         {
@@ -1013,6 +991,17 @@
           "other_news": true
         },
         {
+          "title": "La COP31 s’est achevée sans accord formel : et maintenant ?",
+          "link": "https://theconversation.com/la-cop31-sest-achevee-sans-accord-formel-et-maintenant-297342",
+          "published": "2026-11-23T16:05:05+00:00",
+          "source": "The Conversation FR",
+          "type": "news",
+          "language": "fr",
+          "summary": "Les divergences concernant les énergies fossiles lors du sommet des Nations unies sur le climat de cette année ont anéanti tout espoir d’accord.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "À Antalya, une COP de « mise en œuvre », mais pourquoi et pour qui ? Le Nord ou le Sud ?",
           "link": "https://theconversation.com/a-antalya-une-cop-de-mise-en-oeuvre-mais-pourquoi-et-pour-qui-le-nord-ou-le-sud-297072",
           "published": "2026-11-21T08:30:54+00:00",
@@ -1075,6 +1064,17 @@
           "type": "news",
           "language": "fr",
           "summary": "Alors que la conférence des Nations unies sur le climat se tient en Turquie, une étude portant sur 134 pays montre que les centrales électriques déten",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Cop31: Why the UN climate summit ended in victory for fossil fuel producing nations",
+          "link": "https://theconversation.com/cop31-why-the-un-climate-summit-ended-in-victory-for-fossil-fuel-producing-nations-296779",
+          "published": "2026-11-23T08:10:19+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "Negotiations broke down over whether to directly address fossil fuels, leaving the most climate-vulnerable nations deeply disappointed.",
           "image": null,
           "other_news": true
         },
@@ -1222,28 +1222,6 @@
           "other_news": true
         },
         {
-          "title": "Andy Burnham and climate change: where does the prime minister really stand?",
-          "link": "https://theconversation.com/andy-burnham-and-climate-change-where-does-the-prime-minister-really-stand-296200",
-          "published": "2026-11-10T14:24:03+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Despite going to the UN summit, Cop31, he still hasn’t been clear about where climate sits on his agenda.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "The Cop31 climate summit is betting on electrification – but still needs a plan to ditch fossil fuels",
-          "link": "https://theconversation.com/the-cop31-climate-summit-is-betting-on-electrification-but-still-needs-a-plan-to-ditch-fossil-fuels-295493",
-          "published": "2026-11-06T17:02:53+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Electrification alone won’t deliver a clean energy transition. Two major challenges remain.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Army’s plan to blow up aging explosives in Iowa will spread lead for miles – here’s what you need to know about the risks",
           "link": "https://theconversation.com/armys-plan-to-blow-up-aging-explosives-in-iowa-will-spread-lead-for-miles-heres-what-you-need-to-know-about-the-risks-297225",
           "published": "2026-11-21T13:14:31+00:00",
@@ -1343,6 +1321,17 @@
           "other_news": true
         },
         {
+          "title": "COP31: Key outcomes agreed at the UN climate talks in Antalya",
+          "link": "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya",
+          "published": "2026-11-23T16:15:51+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "The COP31 climate talks in Antalya, Turkey, have failed to reach agreement on a “pact” that lacked clear references to&#8230;\nThe post COP31: Key outc",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
           "link": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
           "published": "2026-11-17T05:00:00+00:00",
@@ -1427,6 +1416,39 @@
           "type": "news",
           "language": "en",
           "summary": "On 3 November, the Brazilian presidency of the COP30 climate talks released its long-awaited “roadmap” on ending deforestation.&#160; Ahead of&#8230;",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "What was agreed – and not agreed – on key issues at COP31 talks?",
+          "link": "https://www.climatechangenews.com/2026/11/23/what-was-agreed-and-not-agreed-on-key-issues-at-cop31-talks/",
+          "published": "2026-11-23T16:25:44+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "Climate Home News walks you through the main outcomes on negotiated items, ranging from finance to adaptation and carbon markets  \nThe post What was a",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Australia and South Korea’s clean energy deal could boost low-carbon trade",
+          "link": "https://www.climatechangenews.com/2026/11/23/australia-and-south-koreas-clean-energy-deal-could-boost-low-carbon-trade/",
+          "published": "2026-11-23T13:58:44+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "The deal aims to connect Australia's renewable resources with Korean industries' clean energy demand, potentially transforming a relationship built on",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "After COP31, our chance to save climate diplomacy lies in global shipping",
+          "link": "https://www.climatechangenews.com/2026/11/23/after-cop31-our-chance-to-save-climate-diplomacy-lies-in-global-shipping/",
+          "published": "2026-11-23T13:56:35+00:00",
+          "source": "Climate change news",
+          "type": "news",
+          "language": "en",
+          "summary": "If COP31's high ambition countries can show the same resolve at London shipping talks, a climate breakthrough is possible next week\nThe post After COP",
           "image": null,
           "other_news": true
         },
@@ -1574,28 +1596,6 @@
           "other_news": true
         },
         {
-          "title": "Nepal seeks stronger recognition of mountain issues in UN climate process",
-          "link": "https://www.climatechangenews.com/2026/11/06/nepal-seeks-stronger-recognition-of-mountain-issues-in-un-climate-process/",
-          "published": "2026-11-06T14:57:02+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Flood-hit Nepal wants COP31 to adopt a new agenda item formalising work on mountains and climate change and boosting the response to rising risks\nThe",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "European nations signal support for fossil fuel roadmap, says COP30 president",
-          "link": "https://www.climatechangenews.com/2026/11/06/european-nations-uk-fossil-fuel-roadmaps-brazil-cop30-president/",
-          "published": "2026-11-06T12:44:50+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "André Corrêa do Lago told Climate Home News that it's up to other nations to decide how the fossil fuel and deforestation roadmaps are used\nThe post E",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "États-Unis : boostée par son succès électoral, la nouvelle gauche met le cap vers la présidentielle",
           "link": "https://reporterre.net/Etats-Unis-boostee-par-son-succes-electoral-la-nouvelle-gauche-met-le-cap-vers-la",
           "published": "2026-11-23T05:00:00+00:00",
@@ -1651,46 +1651,35 @@
           "other_news": true
         },
         {
-          "title": "Changement climatique, mépris, répression policière : « Des violences infligées aux enfants par les adultes »",
-          "link": "https://reporterre.net/Violences-climat-education-les-enfants-entrent-dans-la-lutte-avec-le-Collectif-enfantiste",
-          "published": "2026-11-16T08:13:56+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le Collectif enfantiste a participé à la manifestation du 14 novembre. Une convergence avec les mouvements écologiste et lycéen,",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/_-9-79d28.jpg?1794816838",
-          "other_news": true
-        },
-        {
-          "title": "Enfin un vrai débat sur l'écologie pour 2027... et personne n'est d'accord",
-          "link": "https://reporterre.net/Faire-des-compromis-ou-bousculer-l-ordre-de-la-societe-Les-candidats-esquissent-leur-vision-de-l-ecologie-pour-2027",
-          "published": "2026-11-16T08:06:57+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Lors d'un débat politique sur le climat et la biodiversité organisé le 14 novembre, les représentants des principaux candidats à",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260927__hl_ebroncard_3309921__v1__highres__franceclimateprotest_1_-aef4b.jpg?1794816421",
-          "other_news": true
-        },
-        {
-          "title": "La droite et les lobbies tentent d'empêcher la régulation des data centers en Espagne",
-          "link": "https://reporterre.net/Data-centers-en-Espagne-la-droite-et-les-lobbies-tentent-d-empecher-leur-regulation",
-          "published": "2026-11-14T06:10:00+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le gouvernement espagnol s'apprête à approuver un texte pour limiter les dégâts des data centers. L'influence politique du secte",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/iaiaiaiaiaiaiaatdatadatadtatdatdatdta-7411e.jpg?1794636602",
-          "other_news": true
-        },
-        {
-          "title": "« L’échec de la COP31 envoie un signal positif : le monde prend les risques et la science au sérieux »",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/23/l-echec-de-la-cop31-envoie-un-signal-positif-le-monde-prend-les-risques-et-la-science-au-serieux_6814309_3244.html",
-          "published": "2026-11-23T05:15:11+01:00",
+          "title": "Pesticides : « Omnibus X menace la santé des citoyens sans résoudre le problème bureaucratique qu’il dénonce »",
+          "link": "https://www.lemonde.fr/idees/article/2026/11/23/pesticides-omnibus-x-menace-la-sante-des-citoyens-sans-resoudre-le-probleme-bureaucratique-qu-il-denonce_6814419_3232.html",
+          "published": "2026-11-23T17:30:04+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Alors que le sommet sur le climat s’est conclu, dimanche, sans accord final, et que la planète va dépasser le seuil de 1,5 °C de réchauffement, le sci",
+          "summary": "L’examen du paquet législatif, qui entend simplifier les réglementations liées à l’usage des produits phytosanitaires en Europe, doit être suspendu da",
+          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/3677534_upload-1-wgsxggfi1hbc-frame-1359.jpg",
+          "other_news": true
+        },
+        {
+          "title": "COP31 : les limites du consensus à tout prix",
+          "link": "https://www.lemonde.fr/idees/article/2026/11/23/cop31-les-limites-du-consensus-a-tout-prix_6814375_3232.html",
+          "published": "2026-11-23T11:30:12+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le sommet sur le climat s’est achevé, dimanche, en Turquie, sans accord général. Si cet échec n’est pas forcément synonyme de recul, dans la mesure où",
+          "image": "https://img.lemde.fr/2026/11/22/262/0/3144/1572/644/322/60/0/92374d0_ftp-1-urdw6fgpfxjr-2026-11-22t160105z-1011611591-rc2zsoawo1x8-rtrmadp-3-climate-cop31.JPG",
+          "other_news": true
+        },
+        {
+          "title": "« L’échec de la COP31 envoie un signal positif : le monde prend les risques et la science au sérieux », estime le scientifique suédois Johan Rockström",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/23/l-echec-de-la-cop31-envoie-un-signal-positif-le-monde-prend-les-risques-et-la-science-au-serieux_6814309_3244.html",
+          "published": "2026-11-23T05:15:10+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors que le sommet sur le climat s’est conclu, dimanche, sans accord final, et que la planète va dépasser le seuil de 1,5 °C de réchauffement, le che",
           "image": "https://img.lemde.fr/2026/11/18/222/1594/3688/1844/644/322/60/0/a17d55f_ftp-1-wjepyj6mb6kk-afp-d7u49cq.jpg",
           "other_news": true
         },
@@ -1728,36 +1717,14 @@
           "other_news": true
         },
         {
-          "title": "COP31 : dans la dernière ligne droite des négociations, les énergies fossiles et les financements au centre du jeu",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/20/cop31-dans-la-derniere-ligne-droite-des-negociations-les-energies-fossiles-et-les-financements-au-centre-du-jeu_6813663_3244.html",
-          "published": "2026-11-20T17:28:48+01:00",
-          "source": "Le Monde Planète",
+          "title": "«L’une des pires de l’histoire» : la COP31 s’achève sans accord",
+          "link": "https://vert.eco/climat/lune-des-pires-de-lhistoire-la-cop31-sacheve-sans-accord/",
+          "published": "2026-11-23T11:11:07+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "Les pourparlers de la 31ᵉ conférence mondiale sur le climat, à Antalya, en Turquie, étaient censés s’achever vendredi 20 novembre. Ils jouaient les pr",
-          "image": "https://img.lemde.fr/2026/11/20/747/0/5500/2750/644/322/60/0/f139425_ftp-1-wxzg7eoixyhz-2026-11-20t143649z-1236454159-rc2proagsqo7-rtrmadp-3-climate-cop31.JPG",
-          "other_news": true
-        },
-        {
-          "title": "Les COP, rendez-vous incontournable des militantes de la société civile : « Il faut être là où les décisions se prennent, être vues et entendues »",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/20/les-cop-climat-rendez-vous-incontournable-des-militantes-de-la-societe-civile-il-faut-etre-la-ou-les-decisions-se-prennent-etre-vues-et-entendues_6813607_3244.html",
-          "published": "2026-11-20T10:00:06+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Des militantes engagées pour l’émancipation des femmes et la cause climatique sont récompensées chaque année lors des conférences mondiales sur le cli",
-          "image": "https://img.lemde.fr/2026/11/19/456/0/5472/2736/644/322/60/0/427cbd8_upload-1-40xggs85z7zm-ajcc0126.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Les pompes à chaleur sont-elles bonnes pour le climat ?",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/20/les-pompes-a-chaleur-sont-elles-bonnes-pour-le-climat_6813592_3244.html",
-          "published": "2026-11-20T06:30:02+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
-          "image": "https://img.lemde.fr/2025/10/23/250/0/3000/1500/644/322/60/0/269a2c5_upload-1-unixw4s49jcr-frame-70.jpg",
+          "summary": "Le sommet mondial sur le climat s’est prolongé de deux jours pour finalement échouer à aboutir à une décision politique finale. Le désaccord sur la so",
+          "image": null,
           "other_news": true
         },
         {
@@ -1772,13 +1739,24 @@
           "other_news": true
         },
         {
-          "title": "Vert se plie en quatre pour mettre l’écologie à la Une avec vous",
-          "link": "https://vert.eco/vert-vous-parle/vert-se-plie-en-quatre-pour-mettre-lecologie-a-la-une-avec-vous/",
-          "published": "2026-11-17T18:30:33+00:00",
-          "source": "Vert Eco Articles",
+          "title": "Who is Baba Yaga, and why does she continue to enchant us?",
+          "link": "https://theconversation.com/who-is-baba-yaga-and-why-does-she-continue-to-enchant-us-295426",
+          "published": "2026-11-23T14:20:42+00:00",
+          "source": "The Conversation",
           "type": "news",
-          "language": "fr",
-          "summary": "Vert l’infini et au delà. Après l’été le plus brutal de nos vies, l’écologie a déjà disparu des discours politiques et médiatiques. À Vert, on va se d",
+          "language": "en",
+          "summary": "The witch Baba Yaga has become a symbol of resistance against male dominance, violence against women and environmental destruction",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "What it was like to watch crucial COP climate talks fall apart at the last minute",
+          "link": "https://theconversation.com/what-it-was-like-to-watch-crucial-cop-climate-talks-fall-apart-at-the-last-minute-297270",
+          "published": "2026-11-23T06:05:02+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The Conversation’s Miki Perkins watched Germany’s climate minister pull support from the key text. Soon, the EU was out, too – and the UN climate summ",
           "image": null,
           "other_news": true
         },
@@ -1849,47 +1827,25 @@
           "other_news": true
         },
         {
-          "title": "The circular economy depends on millions of waste-pickers whose labour is rarely rewarded",
-          "link": "https://theconversation.com/the-circular-economy-depends-on-millions-of-waste-pickers-whose-labour-is-rarely-rewarded-296379",
-          "published": "2026-11-22T17:09:03+00:00",
-          "source": "The Conversation",
+          "title": "Analysis: The collapse of UN climate talks, over fossil fuels, was years in the making",
+          "link": "https://news.mongabay.com/short-article/2026/11/analysis-the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making/",
+          "published": "2026-11-23T17:34:45+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Millions of informal waste-pickers are the forgotten heroes of the the circular economy, without receiving the recognition their work deserves.",
-          "image": null,
+          "summary": "NEW YORK (AP) — Going into this year’s U.N. climate talks in Turkey, expectations were notably low. Still, the outcome was even worse than expected—a",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23173037/AP26323784390415-768x512.jpg",
           "other_news": true
         },
         {
-          "title": "Fossil of the Day: Has Mark Carney made Canada a climate heretic?",
-          "link": "https://theconversation.com/fossil-of-the-day-has-mark-carney-made-canada-a-climate-heretic-296908",
-          "published": "2026-11-22T12:44:37+00:00",
-          "source": "The Conversation",
+          "title": "From farm to airline plates, a Zambia farm closes its food-waste loop",
+          "link": "https://news.mongabay.com/2026/11/from-farm-to-airline-plates-a-zambia-farm-closes-its-food-waste-loop/",
+          "published": "2026-11-23T11:50:31+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "The satirical award is given to countries and leaders seen as doing little to support efforts to tackle climate change.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Mark Carney’s fight against Donald Trump won’t make Canada stronger",
-          "link": "https://theconversation.com/mark-carneys-fight-against-donald-trump-wont-make-canada-stronger-296186",
-          "published": "2026-11-22T12:28:11+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Mark Carney’s ‘Projects of National Interest’ are more like ‘Projects of National Inequality and Environmental Destruction’ than measures that will pr",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Why fossil fuel-producing countries are stalling this crucial climate report",
-          "link": "https://theconversation.com/why-fossil-fuel-producing-countries-are-stalling-this-crucial-climate-report-296997",
-          "published": "2026-11-21T05:45:46+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Independent, expert climate science is critical to our future.",
-          "image": null,
+          "summary": "LUSAKA, Zambia — A passenger finishing a salad on a flight out of Lusaka may not know where the vegetables came from — or where some of the organic wa",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23095912/LOCTA11-768x512.jpg",
           "other_news": true
         },
         {
@@ -1956,17 +1912,6 @@
           "language": "en",
           "summary": "Every year around the Hindu festival of Diwali, or Deepavali, residents in Nepal observe Kaag Tihar, an annual festival day dedicated to worshipping h",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/20053233/Crow-tihar.width-800-1-768x408.jpg",
-          "other_news": true
-        },
-        {
-          "title": "How one tiny island made conservation work",
-          "link": "https://news.mongabay.com/short-article/2026/11/how-one-tiny-island-made-conservation-work/",
-          "published": "2026-11-19T12:34:42+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Out in the Bristol Channel, nestled between Wales and England, the rugged island of Lundy is one of the UK’s most pioneering conservation stories. Wat",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/19123709/Mongabay_Thumbnail_LudyIsland_Vertical_Featured-338x512.jpg",
           "other_news": true
         }
       ]

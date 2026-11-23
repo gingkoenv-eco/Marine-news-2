@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:22:44.746642+00:00",
+  "generated_at": "2026-11-23T06:02:06.711108+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -12,19 +12,6 @@
           "language": "en",
           "summary": "If you&#8217;ve ever joined a beach cleanup, you&#8217;ve almost certainly picked up a plastic bottle. During Ocean Conservancy’s 2025 International C",
           "image": null,
-          "other_news": false
-        }
-      ],
-      "Marine Biodiversity & Conservation": [
-        {
-          "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
-          "link": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
-          "published": "2026-10-26T14:00:45+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Exclusive: EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whalesFollow our Australian politics live blog for latest updatesS",
-          "image": "https://i.guim.co.uk/img/media/37e026264024c8b969ae4fa3d8d8601720087a90/625_0_6628_5304/master/6628.jpg?width=140&quality=85&auto=format&fit=max&s=6bb71c939b4be55c1dde8f059a0c009b",
           "other_news": false
         }
       ],
@@ -146,6 +133,17 @@
         }
       ],
       "Marine Biodiversity & Conservation": [
+        {
+          "title": "‘Once installed, there’s no getting rid of it’: what Falklands oil plans mean for its seals, whales and penguins",
+          "link": "https://www.theguardian.com/global-development/2026/nov/23/falkland-islands-argentina-sea-lion-oil-environment-sovereignty-wildlife-pollution",
+          "published": "2026-11-23T06:00:49+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "While Argentina and the UK dispute sovereignty over the islands and its vast oil reserves, environmentalists fear for one of the Atlantic’s richest ec",
+          "image": "https://i.guim.co.uk/img/media/71177c27dff46278555eaf88bb75c6bd92f88f22/184_463_4260_3409/master/4260.jpg?width=140&quality=85&auto=format&fit=max&s=5fd1d505c064abd5f03988482c7a68bd",
+          "other_news": false
+        },
         {
           "title": "Night surfing may be coming to the Gold Coast - but could the $100,000 plan attract sharks?",
           "link": "https://www.theguardian.com/australia-news/2026/nov/11/surfs-up-lights-up-floodlight-lit-night-surfing-could-be-coming-to-the-gold-coast-but-could-it-bring-unwanted-fins",
@@ -310,17 +308,6 @@
           "language": "en",
           "summary": "A large basin was never used for its intended recreational purposes and has since been incorporated into a marine protected area alongside coastal man",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Greenpeace drops ‘Attenboulder’ to deter UK bottom trawlers in a marine protected area",
-          "link": "https://news.mongabay.com/short-article/2026/11/greenpeace-drops-attenboulder-to-deter-uk-bottom-trawlers-in-a-marine-protected-area/",
-          "published": "2026-11-18T20:31:20+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Greenpeace activists recently dropped several enormous boulders in the U.K.’s Southern North Sea Marine Protected Area to discourage destructive botto",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/18202338/GP0SUAZTD_PressMedia-2500px-768x512.jpg",
           "other_news": false
         }
       ],
@@ -598,17 +585,6 @@
           "language": "fr",
           "summary": "« La coque touche le fond. Le but des opérations maintenant est de réfléchir à un déséchouement de ce bateau, c’est-à-dire à le tirer vers le large (…",
           "image": "https://img.lemde.fr/2026/11/20/312/0/3744/1872/644/322/60/0/0e456d9_ftp-1-ocnqnizqtcvf-2026-11-20t120337z-1714115212-rc2nroa8ofcm-rtrmadp-3-france-ship.JPG",
-          "other_news": false
-        },
-        {
-          "title": "Des villes côtières de Californie bouleversées par la montée des eaux et la disparition des plages",
-          "link": "https://www.lemonde.fr/international/article/2026/11/20/des-villes-cotieres-de-californie-bouleversees-par-la-montee-des-eaux-et-la-disparition-des-plages_6813514_3210.html",
-          "published": "2026-11-20T03:15:01+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Maisons abîmées, inondations, glissements de terrain, routes coupées… En cette année marquée par un « El Niño » particulièrement puissant, les dégâts",
-          "image": "https://img.lemde.fr/2026/09/15/435/0/11682/5841/644/322/60/0/a8ce766_ftp-1-ryvaspnvpy4i-5093667-01-06.jpg",
           "other_news": false
         },
         {
@@ -949,6 +925,17 @@
           "other_news": true
         },
         {
+          "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-23T05:15:06+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffb0/live/d31e6e50-e6fc-11f1-9d32-695d6c00481f.jpg",
+          "other_news": true
+        },
+        {
           "title": "What's next after no deal at COP31 climate summit?",
           "link": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-22T18:28:48+00:00",
@@ -957,17 +944,6 @@
           "language": "en",
           "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0084/live/3dd7fdf0-e69f-11f1-a094-5fdc692f3e33.jpg",
-          "other_news": true
-        },
-        {
-          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-22T18:17:59+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
           "other_news": true
         },
         {
@@ -1268,8 +1244,8 @@
           "other_news": true
         },
         {
-          "title": "Army’s plan to blow up aging explosives will spread lead over part of Iowa – what you need to know about the risks",
-          "link": "https://theconversation.com/armys-plan-to-blow-up-aging-explosives-will-spread-lead-over-part-of-iowa-what-you-need-to-know-about-the-risks-297225",
+          "title": "Army’s plan to blow up aging explosives in Iowa will spread lead for miles – here’s what you need to know about the risks",
+          "link": "https://theconversation.com/armys-plan-to-blow-up-aging-explosives-in-iowa-will-spread-lead-for-miles-heres-what-you-need-to-know-about-the-risks-297225",
           "published": "2026-11-21T13:14:31+00:00",
           "source": "The Conversation US",
           "type": "news",
@@ -1620,6 +1596,17 @@
           "other_news": true
         },
         {
+          "title": "États-Unis : boostée par son succès électoral, la nouvelle gauche met le cap vers la présidentielle",
+          "link": "https://reporterre.net/Etats-Unis-boostee-par-son-succes-electoral-la-nouvelle-gauche-met-le-cap-vers-la",
+          "published": "2026-11-23T05:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Au lendemain des élections de mi-mandat, une nouvelle génération de leaders politiques remet au goût du jour les idées de Bernie",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261112__2304819664__v1__highres__newlyelecthousemembersposeforclassphotooncap_resized-c4690.jpg?1795410003",
+          "other_news": true
+        },
+        {
           "title": "La « pire de toutes les COP » se termine sans accord et avec un retard historique",
           "link": "https://reporterre.net/La-pire-de-toutes-les-COP-touche-a-sa-fin-sans-accord-et-avec-un-retard-historique",
           "published": "2026-11-22T13:51:00+00:00",
@@ -1694,6 +1681,17 @@
           "language": "fr",
           "summary": "Le gouvernement espagnol s'apprête à approuver un texte pour limiter les dégâts des data centers. L'influence politique du secte",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/iaiaiaiaiaiaiaatdatadatadtatdatdatdta-7411e.jpg?1794636602",
+          "other_news": true
+        },
+        {
+          "title": "« L’échec de la COP31 envoie un signal positif : le monde prend les risques et la science au sérieux »",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/23/l-echec-de-la-cop31-envoie-un-signal-positif-le-monde-prend-les-risques-et-la-science-au-serieux_6814309_3244.html",
+          "published": "2026-11-23T05:15:11+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Alors que le sommet sur le climat s’est conclu, dimanche, sans accord final, et que la planète va dépasser le seuil de 1,5 °C de réchauffement, le sci",
+          "image": "https://img.lemde.fr/2026/11/18/222/1594/3688/1844/644/322/60/0/a17d55f_ftp-1-wjepyj6mb6kk-afp-d7u49cq.jpg",
           "other_news": true
         },
         {
@@ -1785,6 +1783,61 @@
           "other_news": true
         },
         {
+          "title": "NSW has passed a special law for one coal mine. Here’s why that’s worrying",
+          "link": "https://theconversation.com/nsw-has-passed-a-special-law-for-one-coal-mine-heres-why-thats-worrying-296703",
+          "published": "2026-11-23T04:23:33+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The mine was at the centre of the High Court’s first-ever decision in a climate case.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How did the COP31 climate agreement fall apart – and what happens now?",
+          "link": "https://theconversation.com/how-did-the-cop31-climate-agreement-fall-apart-and-what-happens-now-296994",
+          "published": "2026-11-23T02:56:48+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Division over fossil fuels at this year’s UN climate summit scotched any hope of a deal – despite Australian efforts.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "COP31 collapse: countries reject deal without mention of transition away from fossil fuels",
+          "link": "https://theconversation.com/cop31-collapse-countries-reject-deal-without-mention-of-transition-away-from-fossil-fuels-297269",
+          "published": "2026-11-23T01:50:03+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "This year’s climate summit ended without agreement on an overarching deal and little progress on other goals, including more financing for developing",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How to avoid ‘charger rage’: the unwritten rules of EV charging etiquette",
+          "link": "https://theconversation.com/how-to-avoid-charger-rage-the-unwritten-rules-of-ev-charging-etiquette-293546",
+          "published": "2026-11-23T01:48:58+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Australia’s EV charging infrastructure isn’t keeping up with demand. And the rules of sharing public chargers can be murky.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "A global push to become ‘nature positive’ is growing. But can we measure its progress?",
+          "link": "https://theconversation.com/a-global-push-to-become-nature-positive-is-growing-but-can-we-measure-its-progress-297134",
+          "published": "2026-11-22T23:09:55+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A proposed global framework could help reverse the decline of nature. But it needs real-world testing and independent scrutiny.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Are your kids really ratty right now? How to get through the final weeks of school",
           "link": "https://theconversation.com/are-your-kids-really-ratty-right-now-how-to-get-through-the-final-weeks-of-school-296940",
           "published": "2026-11-22T18:38:36+00:00",
@@ -1837,6 +1890,17 @@
           "language": "en",
           "summary": "Independent, expert climate science is critical to our future.",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Plan to breed rare Asian golden cats for pets raises conservation concerns",
+          "link": "https://news.mongabay.com/short-article/2026/11/plan-to-breed-rare-asian-golden-cats-for-pets-raises-conservation-concerns/",
+          "published": "2026-11-23T05:27:42+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "An Indonesian company has sought to register a captive-breeding facility with the Secretariat of CITES, the global wildlife trade treaty, to commercia",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23052701/2.Goldkatze_sitzend_%40Zoo-Heidelberg-1-768x512.jpg",
           "other_news": true
         },
         {

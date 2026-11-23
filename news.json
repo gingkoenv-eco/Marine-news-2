@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:10:47.563823+00:00",
+  "generated_at": "2026-11-23T19:16:54.495092+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -130,17 +130,6 @@
           "summary": "From air pollution and invasive species to genes and ecosystems, indicators help track what drives the ups and downs happening in nature.",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "Catching more plastic than fish in Sierra Leone’s coastal Mahera",
-          "link": "https://news.mongabay.com/2026/11/catching-more-plastic-than-fish-in-sierra-leones-coastal-mahera/",
-          "published": "2026-11-19T19:22:12+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "PORT LOKO, Sierra Leone — On a rainy Saturday morning, 57-year-old fisher Sheriff Kamara sat among other community members inside a wooden makeshift s",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/19133446/Fishermen_pulling_in_their_net_at_lumley_beach_Sierra_Leone-768x451.jpg",
-          "other_news": false
         }
       ],
       "Marine Biodiversity & Conservation": [
@@ -186,6 +175,17 @@
           "language": "en",
           "summary": "Researchers flew a small drone through the exhaled breath of humpback whales off British Columbia, producing genomes that match those from traditional",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "China’s mangroves have bounced back. Birds have returned too",
+          "link": "https://news.mongabay.com/short-article/2026/11/chinas-mangroves-have-bounced-back-birds-have-returned-too/",
+          "published": "2026-11-23T18:57:25+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Between 1998 and 2020, mangrove cover in China more than doubled, while the number of bird species recorded in those areas rose from 148 to 397, accor",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23180333/Mangroves_at_sunset-768x512.jpg",
           "other_news": false
         },
         {
@@ -1812,17 +1812,6 @@
           "type": "news",
           "language": "en",
           "summary": "A proposed global framework could help reverse the decline of nature. But it needs real-world testing and independent scrutiny.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Are your kids really ratty right now? How to get through the final weeks of school",
-          "link": "https://theconversation.com/are-your-kids-really-ratty-right-now-how-to-get-through-the-final-weeks-of-school-296940",
-          "published": "2026-11-22T18:38:36+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "As school winds down, family life can get busier and less predictable. Kids can bicker and whinge, and parents can feel like they are freaking out.",
           "image": null,
           "other_news": true
         },

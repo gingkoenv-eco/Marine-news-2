@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:55:51.022403+00:00",
+  "generated_at": "2026-11-24T22:25:53.874939+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -582,6 +582,17 @@
           "type": "news",
           "language": "fr",
           "summary": "La patronne des Verts s’est dite «prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon», en rappelant qu’à l’Assemblée na",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "10 years after NZ’s 7.8 earthquake, a changed coastline offers clues to future hazards",
+          "link": "https://theconversation.com/10-years-after-nzs-7-8-earthquake-a-changed-coastline-offers-clues-to-future-hazards-297266",
+          "published": "2026-11-24T20:34:52+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Coastal erosion more than doubled after the Kaikōura earthquake. New research suggests it could erase evidence of past quakes, leaving gaps in the geo",
           "image": null,
           "other_news": false
         },
@@ -1308,17 +1319,6 @@
           "other_news": true
         },
         {
-          "title": "50 years later, Amory Lovins’ soft energy path meets electrification",
-          "link": "https://theconversation.com/50-years-later-amory-lovins-soft-energy-path-meets-electrification-293920",
-          "published": "2026-10-26T12:15:24+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Five decades ago, he charted two paths for energy use in the US. His soft path rightly emphasized efficiency and renewables but underestimated the imp",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "CB Live: Carbon Brief journalists discuss key COP31 outcomes",
           "link": "https://www.carbonbrief.org/cb-live-carbon-brief-journalists-discuss-key-cop31-outcomes",
           "published": "2026-11-24T17:06:20+00:00",
@@ -1770,6 +1770,28 @@
           "other_news": true
         },
         {
+          "title": "Energy and climate have been overlooked at Victoria’s election – but there’s a lot at stake",
+          "link": "https://theconversation.com/energy-and-climate-have-been-overlooked-at-victorias-election-but-theres-a-lot-at-stake-295871",
+          "published": "2026-11-24T21:37:30+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The Victorian election could trigger a sharp backward step on climate and energy policies.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "The silver lining of the COP31 flop? Climate coalitions will rise – and the shift away from fossil fuels will accelerate",
+          "link": "https://theconversation.com/the-silver-lining-of-the-cop31-flop-climate-coalitions-will-rise-and-the-shift-away-from-fossil-fuels-will-accelerate-297294",
+          "published": "2026-11-24T19:09:32+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Intractable divisions over fossil fuels made consensus impossible at COP31. But climate action isn’t over – not by half.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Vale, Chris Dickman: Australian science grieves the loss of a giant of ecology and conservation",
           "link": "https://theconversation.com/vale-chris-dickman-australian-science-grieves-the-loss-of-a-giant-of-ecology-and-conservation-297156",
           "published": "2026-11-24T03:50:02+00:00",
@@ -1781,25 +1803,14 @@
           "other_news": true
         },
         {
-          "title": "It’s time for scientists to boycott the climate COPs and the IPCC",
-          "link": "https://theconversation.com/its-time-for-scientists-to-boycott-the-climate-cops-and-the-ipcc-297279",
-          "published": "2026-11-23T20:59:37+00:00",
-          "source": "The Conversation",
+          "title": "‘We don’t want it’: First Nations reject plan to release mining waste into water source",
+          "link": "https://news.mongabay.com/podcast/2026/11/we-dont-want-it-first-nations-reject-plan-to-release-mining-waste-into-water-source/",
+          "published": "2026-11-24T19:53:25+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "The final proposal agreement at COP31 omitted any mention of fossil fuels. The European Union and small island states were right to reject it.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "As climate change creates ‘disasters on steroids’, it’s time we asked: what happens after an evacuation?",
-          "link": "https://theconversation.com/as-climate-change-creates-disasters-on-steroids-its-time-we-asked-what-happens-after-an-evacuation-296951",
-          "published": "2026-11-23T19:30:32+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Evacuations are often presented as purely protective – and sometimes they are. But they can also exacerbate existing risks and even generate new forms",
-          "image": null,
+          "summary": "Suncor, Canada’s second-largest oil company, wants to release treated wastewater from mining oil in Alberta’s tar sands into a drinking water source f",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/22045632/Chief-Alan-Adams-768x512.jpeg",
           "other_news": true
         },
         {

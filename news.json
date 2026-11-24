@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:46:39.943801+00:00",
+  "generated_at": "2026-11-24T18:55:51.022403+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -1726,6 +1726,17 @@
           "other_news": true
         },
         {
+          "title": "Les «éco-régions» de Jean-Luc Mélenchon, fausse bonne idée ou vraie révolution verte ?",
+          "link": "https://vert.eco/politique/les-eco-regions-de-jean-luc-melenchon-fausse-bonne-idee-ou-vraie-revolution-verte/",
+          "published": "2026-11-24T17:04:41+00:00",
+          "source": "Vert Eco Articles",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans son programme, La France insoumise (LFI) défend la création d’éco-régions. Objectif : faire de l’écologie le socle des politiques publiques. Une",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Crédit agricole, BNP Paribas, Société générale… Quelles banques françaises financent le plus les énergies fossiles ?",
           "link": "https://vert.eco/energie/credit-agricole-bnp-paribas-societe-generale-quelles-banques-francaises-financent-le-plus-les-energies-fossiles/",
           "published": "2026-11-24T10:37:20+00:00",
@@ -1789,6 +1800,28 @@
           "language": "en",
           "summary": "Evacuations are often presented as purely protective – and sometimes they are. But they can also exacerbate existing risks and even generate new forms",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "How a feminist lens is shaping my climate reporting (commentary)",
+          "link": "https://news.mongabay.com/2026/11/how-a-feminist-lens-is-shaping-my-climate-reporting-commentary/",
+          "published": "2026-11-24T18:35:59+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In university, I took a unit called Environmental Journalism, taught by one of my favorite lecturers. I paid enough attention to pass, but certainly n",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24103014/17756852284_8522e53684_women-farmers-africa-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Clouded tiger cats are notoriously hard to catch. This young researcher caught seven",
+          "link": "https://news.mongabay.com/2026/11/clouded-tiger-cats-are-notoriously-hard-to-catch-this-young-researcher-caught-seven/",
+          "published": "2026-11-24T17:41:52+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Tadeu de Oliveira, founder and leader of the Tiger Cats Conservation Initiative, a group of scientists committed to studying the smallest wildcats of",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24023247/Amaia2_with_oncilla_Elina_Lagcher-768x512.jpg",
           "other_news": true
         },
         {

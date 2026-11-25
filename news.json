@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:02:52.323463+00:00",
+  "generated_at": "2026-11-25T06:01:45.454610+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -69,17 +69,6 @@
           "language": "en",
           "summary": "COP31 ended in Antalya without an agreement after fossil fuel divisions, taking draft ocean language with it, though the presidency’s ocean compact su",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "US leases American Samoan seabed for mining in auction deemed illegal by court",
-          "link": "https://news.mongabay.com/2026/11/us-leases-american-samoan-seabed-for-mining-in-auction-deemed-illegal-by-court/",
-          "published": "2026-11-20T22:18:33+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The U.S. government has auctioned off 12.7 million hectares (31.5 million acres) of the American Samoan seabed, despite public opposition and a federa",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/20215927/FK210922-Dive464-20211020-153149523-768x512.jpg",
           "other_news": false
         }
       ]
@@ -154,28 +143,6 @@
           "summary": "A month-long expedition around the Portuguese archipelago recorded bigger fish and a recovering seal population inside protected areas, but fewer than",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "Timor-Leste issues guidelines for whale-watching, but malpractice is rife as industry booms",
-          "link": "https://news.mongabay.com/2026/11/timor-leste-issues-guidelines-for-whale-watching-but-malpractice-is-rife-as-industry-booms/",
-          "published": "2026-11-24T04:56:04+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "DILI, Timor-Leste — As the annual whale migration gets into full swing in Timor-Leste, conservationists are raising concerns about increasingly aggres",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/20120136/Pygmy-Blue-Whale-Balaenoptera-musculus-ssp.-brevicauda-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "China’s mangroves have bounced back. Birds have returned too",
-          "link": "https://news.mongabay.com/short-article/2026/11/chinas-mangroves-have-bounced-back-birds-have-returned-too/",
-          "published": "2026-11-23T18:57:25+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Between 1998 and 2020, mangrove cover in China more than doubled, while the number of bird species recorded in those areas rose from 148 to 397, accor",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23180333/Mangroves_at_sunset-768x512.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -199,28 +166,6 @@
           "language": "en",
           "summary": "Tracking 48 juvenile emperor penguins from three Weddell Sea colonies reveals predictable migrations overlapping industrial krill fishing and proposed",
           "image": null,
-          "other_news": false
-        },
-        {
-          "title": "As new season starts, Antarctic krill-fishing vessels face urgent conservation decision (commentary)",
-          "link": "https://news.mongabay.com/2026/11/as-new-season-starts-antarctic-krill-fishing-vessels-face-urgent-conservation-decision-commentary/",
-          "published": "2026-11-24T15:58:55+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Despite promising developments, the 27 member states of the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR) have again f",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/07/19160332/39356997232_d5d1276abb_k-e1689783869987-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Warming seas threaten South Korea’s iconic squid fishery with collapse by 2040s",
-          "link": "https://news.mongabay.com/short-article/2026/11/warming-seas-threaten-south-koreas-iconic-squid-fishery-with-collapse-by-2040s/",
-          "published": "2026-11-23T12:02:44+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Rapidly warming sea temperatures and marine heat waves could eliminate South Korea’s domestic catch of the Pacific flying squid by the 2040s, accordin",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23120227/Drying_squid_at_Daepo_Port_01-1-768x512.jpg",
           "other_news": false
         }
       ],
@@ -288,6 +233,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "How a new way of measuring tides could make flood forecasts more accurate",
+          "link": "https://www.theguardian.com/science/2026/nov/25/new-way-of-measuring-tides-flood-forecasts-accurate",
+          "published": "2026-11-25T06:00:08+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Analysis of differences in tidal height across beaches could lead to more localised tide and flood forecastsThe sea might look level, but it turns out",
+          "image": "https://i.guim.co.uk/img/media/7548f6a8133b1a477bb852a6fe8b18a254c394ff/960_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=c2ff33e5869655deb05af50dbc5564da",
+          "other_news": false
+        },
         {
           "title": "Oceans, fossil fuels and keeping 1.5 alive: the missed opportunities at Cop31",
           "link": "https://www.theguardian.com/environment/2026/nov/24/missed-opportunities-cop31-oceans-fossil-fuels",
@@ -586,6 +542,17 @@
           "other_news": false
         },
         {
+          "title": "40 years of data on one dolphin community teaches new lessons about social circles in old age",
+          "link": "https://theconversation.com/40-years-of-data-on-one-dolphin-community-teaches-new-lessons-about-social-circles-in-old-age-297307",
+          "published": "2026-11-25T01:13:18+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A new study based on 40 years of data on over 450 wild Indo-Pacific bottlenose dolphins shows the importance of consistency in social choices.",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "10 years after NZ’s 7.8 earthquake, a changed coastline offers clues to future hazards",
           "link": "https://theconversation.com/10-years-after-nzs-7-8-earthquake-a-changed-coastline-offers-clues-to-future-hazards-297266",
           "published": "2026-11-24T20:34:52+00:00",
@@ -604,17 +571,6 @@
           "type": "news",
           "language": "en",
           "summary": "New research challenges the view that resilience is an innate trait.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Who can resist an inflatable dolphin balloon? The wonder and melancholy of artist Philippe Parreno",
-          "link": "https://theconversation.com/who-can-resist-an-inflatable-dolphin-balloon-the-wonder-and-melancholy-of-artist-philippe-parreno-296817",
-          "published": "2026-11-24T04:03:46+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The artworks of Philippe Parreno are conceived as characters in immersive, choreographed experiences, brought to life at the MCA, Sydney.",
           "image": null,
           "other_news": false
         },
@@ -639,28 +595,6 @@
           "summary": "What is El Niño and why is this year’s different? A strengthening El Niño layered on top of decades of human-caused climate change is pushing ocean te",
           "image": null,
           "other_news": false
-        },
-        {
-          "title": "Global marine conservation gathering seeks solutions amid mounting ocean challenges",
-          "link": "https://news.mongabay.com/2026/11/global-marine-conservation-gathering-seeks-solutions-amid-mounting-ocean-challenges/",
-          "published": "2026-11-24T12:44:27+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "EDINBURGH — Ocean conservation efforts are being hindered by inadequate funding, as well as difficulties translating research into action, according t",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24113656/OceanImageBank_RichardVevers_20-1-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Extreme rainfalls flood Sri Lanka’s coastal city as wetlands, drains vanish",
-          "link": "https://news.mongabay.com/2026/11/extreme-rainfalls-flood-sri-lankas-coastal-city-as-wetlands-drains-vanish/",
-          "published": "2026-11-21T03:14:33+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "COLOMBO — On Nov. 6, a 129-millimeter (5-inch) downpour flooded parts of Sri Lanka’s commercial capital within minutes, stranding commuters and submer",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/21030127/1-People-and-floods-768x512.jpg",
-          "other_news": false
         }
       ]
     },
@@ -675,19 +609,6 @@
           "language": "en",
           "summary": "The post Report exposes &#8220;injustice&#8221; in UK fishing as Defra defends quota appeared first on Oceanographic.",
           "image": null,
-          "other_news": false
-        }
-      ],
-      "Fisheries & Climate Change Ecosystem": [
-        {
-          "title": "Warming UK seas could ‘fundamentally reshape marine ecosystems’ – report",
-          "link": "https://www.theguardian.com/environment/2026/nov/05/warming-uk-seas-could-fundamentally-reshape-marine-ecosystems-report",
-          "published": "2026-11-05T07:00:56+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Four-year study warns destabilised marine food webs could jeopardise food security by 2050Warming seas around the UK and the wider north-east Atlantic",
-          "image": "https://i.guim.co.uk/img/media/02e296e4df0fea6e4441d0acc9dc29f8ffe4bc87/0_797_1386_1108/master/1386.jpg?width=140&quality=85&auto=format&fit=max&s=fe97e33bfd39c0c24ea2d235bcbc2840",
           "other_news": false
         }
       ],
@@ -953,28 +874,6 @@
           "language": "en",
           "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Will COP31 end with a new global climate deal?",
-          "link": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-21T22:44:52+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511b/live/004fea80-e5fd-11f1-a094-5fdc692f3e33.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-21T22:19:43+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
           "other_news": true
         },
         {
@@ -1649,6 +1548,17 @@
           "other_news": true
         },
         {
+          "title": "Pour réduire les émissions de méthane de son bétail, la Nouvelle-Zélande s’en remet entièrement à la technologie",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/25/pour-reduire-les-emissions-de-methane-de-son-betail-la-nouvelle-zelande-s-en-remet-entierement-a-la-technologie_6815047_3244.html",
+          "published": "2026-11-25T06:00:36+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Dans l’archipel, où 53 % des émissions de gaz à effet de serre proviennent du méthane produit par le monde agricole, les autorités, qui ont abandonné",
+          "image": "https://img.lemde.fr/2026/11/24/299/0/3000/1500/644/322/60/0/b553c44_upload-1-8vdsarz3pqpe-20261005-ohaupo-nz-lic-j-cambronero-0791.jpg",
+          "other_news": true
+        },
+        {
           "title": "COP31 : « L’espoir de nombreux observateurs est qu’Antalya crée une sorte de sursaut et permette à la diplomatie climatique de repartir sur de meilleures bases »",
           "link": "https://www.lemonde.fr/planete/live/2026/11/24/cop31-comment-rebondir-apres-l-echec-de-la-conference-d-antalya-sur-le-climat-posez-vos-questions-a-notre-journaliste_6814769_3244.html",
           "published": "2026-11-24T14:25:08+01:00",
@@ -1715,17 +1625,6 @@
           "other_news": true
         },
         {
-          "title": "« L’échec de la COP31 envoie un signal positif : le monde prend les risques et la science au sérieux », estime le scientifique suédois Johan Rockström",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/23/l-echec-de-la-cop31-envoie-un-signal-positif-le-monde-prend-les-risques-et-la-science-au-serieux_6814309_3244.html",
-          "published": "2026-11-23T05:15:10+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Alors que le sommet sur le climat s’est conclu, dimanche, sans accord final, et que la planète va dépasser le seuil de 1,5 °C de réchauffement, le che",
-          "image": "https://img.lemde.fr/2026/11/18/222/1594/3688/1844/644/322/60/0/a17d55f_ftp-1-wjepyj6mb6kk-afp-d7u49cq.jpg",
-          "other_news": true
-        },
-        {
           "title": "Les «éco-régions» de Jean-Luc Mélenchon, fausse bonne idée ou vraie révolution verte ?",
           "link": "https://vert.eco/politique/les-eco-regions-de-jean-luc-melenchon-fausse-bonne-idee-ou-vraie-revolution-verte/",
           "published": "2026-11-24T17:04:41+00:00",
@@ -1789,149 +1688,6 @@
           "language": "en",
           "summary": "Intractable divisions over fossil fuels made consensus impossible at COP31. But climate action isn’t over – not by half.",
           "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Vale, Chris Dickman: Australian science grieves the loss of a giant of ecology and conservation",
-          "link": "https://theconversation.com/vale-chris-dickman-australian-science-grieves-the-loss-of-a-giant-of-ecology-and-conservation-297156",
-          "published": "2026-11-24T03:50:02+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Four ecologists reflect on the distinguished life and career of Chris Dickman.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "‘We don’t want it’: First Nations reject plan to release mining waste into water source",
-          "link": "https://news.mongabay.com/podcast/2026/11/we-dont-want-it-first-nations-reject-plan-to-release-mining-waste-into-water-source/",
-          "published": "2026-11-24T19:53:25+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Suncor, Canada’s second-largest oil company, wants to release treated wastewater from mining oil in Alberta’s tar sands into a drinking water source f",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/22045632/Chief-Alan-Adams-768x512.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "How a feminist lens is shaping my climate reporting (commentary)",
-          "link": "https://news.mongabay.com/2026/11/how-a-feminist-lens-is-shaping-my-climate-reporting-commentary/",
-          "published": "2026-11-24T18:35:59+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In university, I took a unit called Environmental Journalism, taught by one of my favorite lecturers. I paid enough attention to pass, but certainly n",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24103014/17756852284_8522e53684_women-farmers-africa-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Clouded tiger cats are notoriously hard to catch. This young researcher caught seven",
-          "link": "https://news.mongabay.com/2026/11/clouded-tiger-cats-are-notoriously-hard-to-catch-this-young-researcher-caught-seven/",
-          "published": "2026-11-24T17:41:52+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Tadeu de Oliveira, founder and leader of the Tiger Cats Conservation Initiative, a group of scientists committed to studying the smallest wildcats of",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24023247/Amaia2_with_oncilla_Elina_Lagcher-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Ecuador’s bioeconomy plan vows sustainability, but faces a test of government priorities",
-          "link": "https://news.mongabay.com/2026/11/ecuadors-bioeconomy-plan-vows-sustainability-but-faces-a-test-of-government-priorities/",
-          "published": "2026-11-24T17:03:56+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The government of Ecuador has approved a new 10-year plan to promote economic activities that make use of the country’s biological resources, while al",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24165413/AP26037567996653-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Indigenous peoples leave collapsed climate talks with promises on hold",
-          "link": "https://news.mongabay.com/2026/11/indigenous-peoples-leave-collapsed-climate-talks-with-promises-on-hold/",
-          "published": "2026-11-24T14:24:04+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "ANATALYA, Türkiye — A year ago, a record number of Indigenous people attended the United Nations climate summit in Belém, Brazil. Although there as ob",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/11/08145538/ACASCIO_Jepirachi_01-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Indonesia fires test palm oil certification scheme as NGOs question RSPO accountability",
-          "link": "https://news.mongabay.com/2026/11/indonesia-fires-test-palm-oil-certification-scheme-as-ngos-question-rspo-accountability/",
-          "published": "2026-11-24T12:37:21+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "JAKARTA — Environmental groups are questioning the effectiveness of a global organization that develops standards and certification for sustainable pa",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24121523/RSPO-Greenwashing-768x512.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "Kiwi return to Wellington hills after 150 years in Māori-led conservation milestone",
-          "link": "https://news.mongabay.com/short-article/2026/11/kiwi-return-to-wellington-hills-after-150-years-in-maori-led-conservation-milestone/",
-          "published": "2026-11-24T11:19:50+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "For the first time in more than 150 years, wild kiwi are roaming the hills surrounding Aotearoa New Zealand’s capital city, Wellington. The milestone",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24111922/Little-spotted_kiwi_Apteryx_owenii_4000-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Mongabay Kids launches Wild Guardians: A free education initiative to engage children with nature",
-          "link": "https://news.mongabay.com/short-article/2026/11/mongabay-kids-launches-wild-guardians-a-free-education-initiative-to-engage-children-with-nature/",
-          "published": "2026-11-23T19:22:18+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Mongabay Kids has launched Wild Guardians, a free multimedia educational series that connects upper elementary students with nature and inspires them",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23191716/Exploring-and-protecting-waterways-still-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Analysis: The collapse of UN climate talks, over fossil fuels, was years in the making",
-          "link": "https://news.mongabay.com/short-article/2026/11/analysis-the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making/",
-          "published": "2026-11-23T17:34:45+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "NEW YORK (AP) — Going into this year’s U.N. climate talks in Turkey, expectations were notably low. Still, the outcome was even worse than expected—a",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23173037/AP26323784390415-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "From farm to airline plates, a Zambia farm closes its food-waste loop",
-          "link": "https://news.mongabay.com/2026/11/from-farm-to-airline-plates-a-zambia-farm-closes-its-food-waste-loop/",
-          "published": "2026-11-23T11:50:31+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "LUSAKA, Zambia — A passenger finishing a salad on a flight out of Lusaka may not know where the vegetables came from — or where some of the organic wa",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23095912/LOCTA11-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Plan to breed rare Asian golden cats for pets raises conservation concerns",
-          "link": "https://news.mongabay.com/short-article/2026/11/plan-to-breed-rare-asian-golden-cats-for-pets-raises-conservation-concerns/",
-          "published": "2026-11-23T05:27:42+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "An Indonesian company has sought to register a captive-breeding facility with the Secretariat of CITES, the global wildlife trade treaty, to commercia",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23052701/2.Goldkatze_sitzend_%40Zoo-Heidelberg-1-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "The British island that made a deal with nature",
-          "link": "https://news.mongabay.com/video/2026/11/the-british-island-that-made-a-deal-with-nature/",
-          "published": "2026-11-21T09:10:37+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "LUNDY ISLAND — United Kingdom. Out in the Bristol Channel, nestled between Wales and England, the rugged island of Lundy is one of the UK’s most pione",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/21091238/Mongabay_Thumbnail_LudyIsland_Featured_V2-768x512.jpg",
           "other_news": true
         }
       ]

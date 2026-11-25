@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T06:01:45.454610+00:00",
+  "generated_at": "2026-11-25T17:15:30.107103+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -77,17 +77,6 @@
     "General News": {
       "Plastic & Ocean Pollution": [
         {
-          "title": "‘No one cares about the little guy’: plastic nurdles still washing ashore in Sri Lanka five years after toxic spill",
-          "link": "https://www.theguardian.com/environment/2026/nov/05/no-one-cares-about-the-little-guy-sri-lankas-fishers-still-reeling-from-2021-toxic-plastic-spill",
-          "published": "2026-11-05T10:00:00+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A stricken container ship shed tonnes of the tiny pellets on the west coast in May 2021. Today, locals are counting the cost to marine life and liveli",
-          "image": "https://i.guim.co.uk/img/media/31fef1b111e6c8c308bc52edb8569cc4fa0885c8/725_0_6493_5195/master/6493.jpg?width=140&quality=85&auto=format&fit=max&s=60c8d4595cb5386c9c3374dec1fee665",
-          "other_news": false
-        },
-        {
           "title": "UK’s nature healthcheck doesn’t stack up in wildlife’s favour – but volunteers are collecting plenty of crucial data",
           "link": "https://theconversation.com/uks-nature-healthcheck-doesnt-stack-up-in-wildlifes-favour-but-volunteers-are-collecting-plenty-of-crucial-data-296083",
           "published": "2026-11-20T11:58:27+00:00",
@@ -123,6 +112,28 @@
           "other_news": false
         },
         {
+          "title": "Deep-sea curiosities: A clam in an urchin’s throat and a glass salp",
+          "link": "https://oceanographicmagazine.com/news/deep-sea-curiosities-a-clam-in-an-urchins-throat-and-a-glass-salp/",
+          "published": "2026-11-25T16:31:50+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Two newly described deep-sea species - a clam living inside a sea urchin's throat and the first salp found only in the deep - reveal how much ocean li",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Great Barrier Reef on alert as strong El Niño raises bleaching risk",
+          "link": "https://oceanographicmagazine.com/news/great-barrier-reef-on-alert-as-strong-el-nino-raises-bleaching-risk/",
+          "published": "2026-11-25T09:49:46+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "Australia's Reef Authority is stepping up monitoring and protection work as forecasters warn of a high chance of marine heatwaves and widespread coral",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Tuna body maintains mako ban, waters down shark finning reform",
           "link": "https://oceanographicmagazine.com/news/tuna-body-maintains-mako-ban-waters-down-shark-finning-reform/",
           "published": "2026-11-24T11:14:37+00:00",
@@ -143,6 +154,28 @@
           "summary": "A month-long expedition around the Portuguese archipelago recorded bigger fish and a recovering seal population inside protected areas, but fewer than",
           "image": null,
           "other_news": false
+        },
+        {
+          "title": "Timor-Leste issues guidelines for whale-watching, but malpractice is rife as industry booms",
+          "link": "https://news.mongabay.com/2026/11/timor-leste-issues-guidelines-for-whale-watching-but-malpractice-is-rife-as-industry-booms/",
+          "published": "2026-11-24T04:56:04+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "DILI, Timor-Leste — As the annual whale migration gets into full swing in Timor-Leste, conservationists are raising concerns about increasingly aggres",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/20120136/Pygmy-Blue-Whale-Balaenoptera-musculus-ssp.-brevicauda-768x512.jpg",
+          "other_news": false
+        },
+        {
+          "title": "China’s mangroves have bounced back. Birds have returned too",
+          "link": "https://news.mongabay.com/short-article/2026/11/chinas-mangroves-have-bounced-back-birds-have-returned-too/",
+          "published": "2026-11-23T18:57:25+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Between 1998 and 2020, mangrove cover in China more than doubled, while the number of bird species recorded in those areas rose from 148 to 397, accor",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23180333/Mangroves_at_sunset-768x512.jpg",
+          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -158,6 +191,17 @@
           "other_news": false
         },
         {
+          "title": "Warming seas could steer trawlers onto the cables that carry the internet",
+          "link": "https://oceanographicmagazine.com/news/warming-seas-could-steer-trawlers-onto-the-cables-that-carry-the-internet/",
+          "published": "2026-11-25T12:00:18+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "As fish move to cooler waters and fishing fleets follow, new research shows the hidden cables that connect the world could face damage in places once",
+          "image": null,
+          "other_news": false
+        },
+        {
           "title": "Young emperor penguins face krill industry in first year at sea",
           "link": "https://oceanographicmagazine.com/news/young-emperor-penguins-face-krill-industry-in-first-year-at-sea/",
           "published": "2026-11-20T11:24:00+00:00",
@@ -166,6 +210,17 @@
           "language": "en",
           "summary": "Tracking 48 juvenile emperor penguins from three Weddell Sea colonies reveals predictable migrations overlapping industrial krill fishing and proposed",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "As new season starts, Antarctic krill-fishing vessels face urgent conservation decision (commentary)",
+          "link": "https://news.mongabay.com/2026/11/as-new-season-starts-antarctic-krill-fishing-vessels-face-urgent-conservation-decision-commentary/",
+          "published": "2026-11-24T15:58:55+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Despite promising developments, the 27 member states of the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR) have again f",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/07/19160332/39356997232_d5d1276abb_k-e1689783869987-768x512.jpg",
           "other_news": false
         }
       ],
@@ -179,19 +234,6 @@
           "language": "en",
           "summary": "Proponents argue ocean carbon removal is necessary to counteract the effects of the climate crisis but critics say more research is needed A cluster o",
           "image": "https://i.guim.co.uk/img/media/3c561805685030208ac5f4bb8e73a9cc273ad328/1034_0_6251_5000/master/6251.jpg?width=140&quality=85&auto=format&fit=max&s=1eb17a5695d4a9d96236985c9f534ec6",
-          "other_news": false
-        }
-      ],
-      "Nature-Based Solutions & Restoration": [
-        {
-          "title": "Ocean receives record attention at COP31",
-          "link": "https://oceanographicmagazine.com/news/ocean-receives-record-attention-at-cop31/",
-          "published": "2026-11-18T17:11:59+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Negotiators in Antalya have placed marine ecosystems at the centre of global climate talks, backed by more than $1 billion in new funding for mangrove",
-          "image": null,
           "other_news": false
         }
       ],
@@ -233,6 +275,17 @@
         }
       ],
       "Other Marine News": [
+        {
+          "title": "California beaches close as record-breaking tides and major flooding loom",
+          "link": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
+          "published": "2026-11-25T12:30:25+00:00",
+          "source": "The Guardian Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Most of state likely to avoid worst-case scenario of coastal flooding amplified by intense winter rainstormsMajor flooding is expected in California t",
+          "image": "https://i.guim.co.uk/img/media/65f9514e8b6344d55411cf09a69951e0e03d3ff6/477_211_2237_1790/master/2237.jpg?width=140&quality=85&auto=format&fit=max&s=c7dc90dd1bb3fd9cdf774371ff914be3",
+          "other_news": false
+        },
         {
           "title": "How a new way of measuring tides could make flood forecasts more accurate",
           "link": "https://www.theguardian.com/science/2026/nov/25/new-way-of-measuring-tides-flood-forecasts-accurate",
@@ -355,17 +408,6 @@
           "other_news": false
         },
         {
-          "title": "Part of Antarctica named after former BBC science correspondent",
-          "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-26T14:54:40+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85dc/live/45574340-ce23-11f1-9f18-490cec60aa0f.jpg",
-          "other_news": false
-        },
-        {
           "title": "Surveiller l’état de santé de poissons exposés à des agents chimiques et biologiques grâce à des outils moléculaires non invasifs",
           "link": "https://theconversation.com/surveiller-letat-de-sante-de-poissons-exposes-a-des-agents-chimiques-et-biologiques-grace-a-des-outils-moleculaires-non-invasifs-295925",
           "published": "2026-11-12T15:36:40+00:00",
@@ -433,7 +475,7 @@
         },
         {
           "title": "« La mer du Nord telle qu'on l'a connue a disparu » : le changement climatique bouleverse le milieu marin",
-          "link": "https://reporterre.net/Harengs-en-fuite-explosion-de-sardines-le-rechauffement-de-la-mer-du-Nord-bouleverse-l",
+          "link": "https://reporterre.net/La-mer-du-Nord-telle-qu-on-l-a-connue-a-disparu-le-changement-climatique-bouleverse-le",
           "published": "2026-11-24T05:00:00+00:00",
           "source": "Reporterre",
           "type": "news",
@@ -498,17 +540,6 @@
           "other_news": false
         },
         {
-          "title": "« Ramassis de gauchistes » : Marine Le Pen veut couper les subventions de la Ligue des droits de l'Homme et d'autres associations",
-          "link": "https://reporterre.net/Ramassis-de-gauchistes-Marine-Le-Pen-veut-couper-les-subventions-de-la-Ligue-des-droits-de-l-Homme-et-d-autres-associations",
-          "published": "2026-11-17T14:37:16+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Un « ramassis de gauchistes » : voilà comment Marine Le Pen a qualifié la Ligue des droits de l'Homme lors d'un débat sur la pau",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/screenshot_2026-11-17_at_15-26-04_quelle_societe_pour_demain_le_grand_debat_-_le_debat_de_la_presidentielle_2027_quelle_societe_pour_demain_tf1-647dd.png?1794926241",
-          "other_news": false
-        },
-        {
           "title": "King tides, El Niño and rising seas leave California’s coastal communities facing record floods",
           "link": "https://oceanographicmagazine.com/news/king-tides-el-nino-and-rising-seas-leave-californias-coastal-communities-facing-record-floods/",
           "published": "2026-11-24T13:38:49+00:00",
@@ -564,17 +595,6 @@
           "other_news": false
         },
         {
-          "title": "What is resilience? It may be less about bouncing back than we think",
-          "link": "https://theconversation.com/what-is-resilience-it-may-be-less-about-bouncing-back-than-we-think-290683",
-          "published": "2026-11-24T10:42:33+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "New research challenges the view that resilience is an innate trait.",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "COP31 Must Deliver for Our Ocean",
           "link": "https://oceanconservancy.org/blog/2026/11/06/cop31/",
           "published": "2026-11-06T22:43:46+00:00",
@@ -594,6 +614,17 @@
           "language": "en",
           "summary": "What is El Niño and why is this year’s different? A strengthening El Niño layered on top of decades of human-caused climate change is pushing ocean te",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Global marine conservation gathering seeks solutions amid mounting ocean challenges",
+          "link": "https://news.mongabay.com/2026/11/global-marine-conservation-gathering-seeks-solutions-amid-mounting-ocean-challenges/",
+          "published": "2026-11-24T12:44:27+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "EDINBURGH — Ocean conservation efforts are being hindered by inadequate funding, as well as difficulties translating research into action, according t",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24113656/OceanImageBank_RichardVevers_20-1-768x512.jpg",
           "other_news": false
         }
       ]
@@ -717,14 +748,14 @@
           "other_news": true
         },
         {
-          "title": "Pollution de l'air : Lyon, Paris et Marseille mauvaises élèves du Top 40",
-          "link": "https://reporterre.net/Top-40-des-villes-europeennes-polluees-Lyon-Paris-et-Marseille-mal-classees",
-          "published": "2026-11-17T16:48:56+00:00",
-          "source": "Reporterre",
+          "title": "L’armée américaine fait exploser des tonnes de matériel militaire vieillissant et toxique ; des habitants appelés à évacuer face aux risques de pollution",
+          "link": "https://www.lemonde.fr/international/article/2026/11/25/l-armee-americaine-fait-exploser-des-tonnes-de-materiel-militaire-vieillissant-et-toxique_6815143_3210.html",
+          "published": "2026-11-25T17:37:30+01:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Plus de 700 morts par an à Marseille, 800 à Lyon et plus de 4 000 dans l'agglomération parisienne : en France, la pollution de l",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250601__hl_abonnard_2785986__v1__highres__francetrafficjamsslowdownsautoroute_1_-984d8.jpg?1794934141",
+          "summary": "Donald Trump avait tenté de repousser l’explosion en raison du tollé suscité, mais elle a bien eu lieu, malgré les risques d’exposition au plomb.",
+          "image": "https://img.lemde.fr/2026/11/25/183/0/2200/1100/644/322/60/0/0fcf154_ftp-1-qh2kkjwgbrdl-2026-11-25t153211z-1522438814-rc23voa1k5ls-rtrmadp-3-iowa-army-detonation.JPG",
           "other_news": true
         }
       ],
@@ -750,17 +781,6 @@
           "type": "news",
           "language": "en",
           "summary": "The collapse of Cop31 may become a historical opportunity for global climate governance to tackle its structural problems.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Transforming climate policy into creative writing: an alternative way to experience UN summits",
-          "link": "https://theconversation.com/transforming-climate-policy-into-creative-writing-an-alternative-way-to-experience-un-summits-294270",
-          "published": "2026-11-11T12:04:17+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Policy jargon, though often dense and alienating, can serve as an effective springboard for discussing difficult realities.",
           "image": null,
           "other_news": true
         },
@@ -798,13 +818,13 @@
           "other_news": true
         },
         {
-          "title": "Doctors in Congress used to lean Republican – the 120th Congress marks a historic shift",
-          "link": "https://theconversation.com/doctors-in-congress-used-to-lean-republican-the-120th-congress-marks-a-historic-shift-296633",
-          "published": "2026-11-24T13:13:40+00:00",
+          "title": "Myanmar genocide ruling presents China with a dilemma",
+          "link": "https://theconversation.com/myanmar-genocide-ruling-presents-china-with-a-dilemma-297324",
+          "published": "2026-11-25T14:18:18+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "Members of Congress who are physicians are more effective in enacting health policy, and many newly elected physicians placed health policy at the cen",
+          "summary": "The ruling will test Beijing’s policy of non-interference as it balances strategic interests with international legal obligations.",
           "image": null,
           "other_news": true
         }
@@ -819,6 +839,17 @@
           "language": "en",
           "summary": "Increased heat will supercharge extreme weather events, warns UN agency as Cop31 climate summit beginsHeat is accumulating in Earth’s systems at an ac",
           "image": "https://i.guim.co.uk/img/media/eb665636b7d46f13bb5787c1e6b8739556eaf980/54_0_3541_2832/master/3541.jpg?width=140&quality=85&auto=format&fit=max&s=dbafacee9d0936827f87a6999640874a",
+          "other_news": true
+        },
+        {
+          "title": "New York's annual Thanksgiving Parade threatened by approaching storm",
+          "link": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-25T14:41:42+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bf7/live/ebffd790-e8c5-11f1-ac76-db9e97f93d67.jpg",
           "other_news": true
         },
         {
@@ -855,28 +886,6 @@
           "other_news": true
         },
         {
-          "title": "What's next after no deal at COP31 climate summit?",
-          "link": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-22T18:28:48+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0084/live/3dd7fdf0-e69f-11f1-a094-5fdc692f3e33.jpg",
-          "other_news": true
-        },
-        {
-          "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-          "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-22T06:54:06+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
-          "other_news": true
-        },
-        {
           "title": "Delia Smith joins opponents of £1.2bn data centre",
           "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-24T11:04:36+00:00",
@@ -885,6 +894,17 @@
           "language": "en",
           "summary": "The TV cook and author is worried about the environmental impact of the proposed Keswick facility.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b418/live/76055eb0-e7e0-11f1-82bb-6b3be4dcbf70.jpg",
+          "other_news": true
+        },
+        {
+          "title": "What's next after no deal at COP31 climate summit?",
+          "link": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-22T18:28:48+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0084/live/3dd7fdf0-e69f-11f1-a094-5fdc692f3e33.jpg",
           "other_news": true
         },
         {
@@ -994,6 +1014,28 @@
           "type": "news",
           "language": "fr",
           "summary": "Alors que la conférence des Nations unies sur le climat se tient en Turquie, une étude portant sur 134 pays montre que les centrales électriques déten",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Climate diplomacy is stuck – these three big changes would get it moving again",
+          "link": "https://theconversation.com/climate-diplomacy-is-stuck-these-three-big-changes-would-get-it-moving-again-297555",
+          "published": "2026-11-25T16:31:23+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "The problem is deeper than any one failed summit.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "The efficiency paradox: why greener AI means more waste",
+          "link": "https://theconversation.com/the-efficiency-paradox-why-greener-ai-means-more-waste-297191",
+          "published": "2026-11-25T16:29:20+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "If AI makes firms more efficient and profitable, it encourages further investment and expansion.",
           "image": null,
           "other_news": true
         },
@@ -1119,13 +1161,13 @@
           "other_news": true
         },
         {
-          "title": "Democrats are at Cop31 to show that the US has not abandoned the fight against climate change",
-          "link": "https://theconversation.com/democrats-are-at-cop31-to-show-that-the-us-has-not-abandoned-the-fight-against-climate-change-296218",
-          "published": "2026-11-11T17:31:32+00:00",
-          "source": "The Conversation UK",
+          "title": "Ancient Cahokia was transformed amid droughts and flooding – climate change is reshaping modern communities in similar ways",
+          "link": "https://theconversation.com/ancient-cahokia-was-transformed-amid-droughts-and-flooding-climate-change-is-reshaping-modern-communities-in-similar-ways-294435",
+          "published": "2026-11-25T13:39:48+00:00",
+          "source": "The Conversation US",
           "type": "news",
           "language": "en",
-          "summary": "Democratic control of Congress means they have more power to challenge Trump’s environmental stance.",
+          "summary": "It’s not always like you see in the movies. Sometimes it’s slow and gradual – but inexorable.",
           "image": null,
           "other_news": true
         },
@@ -1203,17 +1245,6 @@
           "type": "news",
           "language": "en",
           "summary": "Whether you want renewable energy, fossil fuel power plants, data centers or reduced storm vulnerability, it will require equipment that’s hard to mak",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Where humans build, mosquitoes follow – bringing dengue, West Nile and other diseases with them",
-          "link": "https://theconversation.com/where-humans-build-mosquitoes-follow-bringing-dengue-west-nile-and-other-diseases-with-them-295000",
-          "published": "2026-10-27T12:17:31+00:00",
-          "source": "The Conversation US",
-          "type": "news",
-          "language": "en",
-          "summary": "Disease-carrying mosquitoes are moving deeper into the US. Climate change is only part of the problem.",
           "image": null,
           "other_news": true
         },
@@ -1302,17 +1333,6 @@
           "type": "news",
           "language": "en",
           "summary": "China’s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to&#8230;\nThe post Analysis: China’s",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Interactive: Tracking negotiating texts at the COP31 climate summit",
-          "link": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
-          "published": "2026-11-05T14:13:38+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal&#8230;\nThe post Interactive: Tracking",
           "image": null,
           "other_news": true
         },
@@ -1471,28 +1491,6 @@
           "other_news": true
         },
         {
-          "title": "Developing countries face climate finance deficit as loan payments soar",
-          "link": "https://www.climatechangenews.com/2026/11/10/developing-countries-face-climate-finance-deficit-as-loan-repayments-soar/",
-          "published": "2026-11-10T05:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Repayments on climate loans could overtake new lending by 2036, according to CARE analysis shared exclusively with Climate Home News\nThe post Developi",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "COP31 Bulletin Day 1: Agenda settled as COP urged to “supercharge solutions”",
-          "link": "https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/",
-          "published": "2026-11-09T10:01:38+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "An agenda row is averted at the opening session, where the UN climate chief said strong results are needed from the talks to boost \"real-world outcome",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Yannick Jadot et des écologistes pro-Glucksmann fondent leur parti politique",
           "link": "https://reporterre.net/Yannick-Jadot-et-des-ecologistes-pro-Glucksmann-fondent-leur-parti-politique",
           "published": "2026-11-24T11:16:42+00:00",
@@ -1545,6 +1543,17 @@
           "language": "fr",
           "summary": "Alors que Macron se vante d'avoir fait de la France une « championne du climat », l'État refuse de faire payer les grands pollue",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261113__d7dd8yx__v1__highres__turkeyaustraliacop31unclimate_1_-62e96.jpg?1795013146",
+          "other_news": true
+        },
+        {
+          "title": "En Espagne, pays aux avant-postes du changement climatique, l’environnement reste le grand absent de la campagne électorale",
+          "link": "https://www.lemonde.fr/international/article/2026/11/25/en-espagne-pays-aux-avant-postes-du-changement-climatique-l-environnement-reste-le-grand-absent-de-la-campagne-electorale_6815056_3210.html",
+          "published": "2026-11-25T08:00:03+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Malgré les catastrophes climatiques à répétition, la lutte contre le réchauffement peine à s’imposer dans le débat public, victime des clivages politi",
+          "image": "https://img.lemde.fr/2026/07/26/404/0/5400/2700/644/322/60/0/65891ff_ftp-1-xqdllzjdyar2-5712073-01-06.jpg",
           "other_news": true
         },
         {
@@ -1603,25 +1612,14 @@
           "other_news": true
         },
         {
-          "title": "Pesticides : « Omnibus X menace la santé des citoyens sans résoudre le problème bureaucratique qu’il dénonce »",
-          "link": "https://www.lemonde.fr/idees/article/2026/11/23/pesticides-omnibus-x-menace-la-sante-des-citoyens-sans-resoudre-le-probleme-bureaucratique-qu-il-denonce_6814419_3232.html",
-          "published": "2026-11-23T17:30:04+01:00",
-          "source": "Le Monde Planète",
+          "title": "«Avec Omnibus X, le futur sera encore pire !» : 300 ONG défilent à Strasbourg contre les autorisations massives de pesticides",
+          "link": "https://vert.eco/sante-environnement/avec-omnibus-x-le-futur-sera-encore-pire-300-ong-defilent-a-strasbourg-contre-les-autorisations-massives-de-pesticides/",
+          "published": "2026-11-25T11:02:08+00:00",
+          "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "L’examen du paquet législatif, qui entend simplifier les réglementations liées à l’usage des produits phytosanitaires en Europe, doit être suspendu da",
-          "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/3677534_upload-1-wgsxggfi1hbc-frame-1359.jpg",
-          "other_news": true
-        },
-        {
-          "title": "COP31 : les limites du consensus à tout prix",
-          "link": "https://www.lemonde.fr/idees/article/2026/11/23/cop31-les-limites-du-consensus-a-tout-prix_6814375_3232.html",
-          "published": "2026-11-23T11:30:12+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le sommet sur le climat s’est achevé, dimanche, en Turquie, sans accord général. Si cet échec n’est pas forcément synonyme de recul, dans la mesure où",
-          "image": "https://img.lemde.fr/2026/11/22/262/0/3144/1572/644/322/60/0/92374d0_ftp-1-urdw6fgpfxjr-2026-11-22t160105z-1011611591-rc2zsoawo1x8-rtrmadp-3-climate-cop31.JPG",
+          "summary": "Mardi après-midi, un millier de personnes ont manifesté à Strasbourg contre l’Omnibus X, ce projet de réglementation européenne qui pourrait assouplir",
+          "image": null,
           "other_news": true
         },
         {
@@ -1669,6 +1667,39 @@
           "other_news": true
         },
         {
+          "title": "Climate adaptation: South African teams show why better solutions start with understanding local problems",
+          "link": "https://theconversation.com/climate-adaptation-south-african-teams-show-why-better-solutions-start-with-understanding-local-problems-294600",
+          "published": "2026-11-25T14:07:49+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Climate adaptation funders want projects ready to launch. But new research shows why communities must help design climate solutions if the projects ar",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Sewing an infinity of phalluses – how Japanese artist Yayoi Kusama confronted the male-dominated art world by mocking it",
+          "link": "https://theconversation.com/sewing-an-infinity-of-phalluses-how-japanese-artist-yayoi-kusama-confronted-the-male-dominated-art-world-by-mocking-it-290804",
+          "published": "2026-11-25T13:39:13+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Critics have attributed the repetitive, labor-intensive nature of Kusama’s work to be a product of mental illness. But a closer look reveals deliberat",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Solomon Islands and Australia sign a new defence treaty – and there’s plenty in it for both countries",
+          "link": "https://theconversation.com/solomon-islands-and-australia-sign-a-new-defence-treaty-and-theres-plenty-in-it-for-both-countries-297498",
+          "published": "2026-11-25T07:54:13+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "While the new pact tears up a previous deal between Solomon Islands and China, there is much in the new deal with Australia for the Solomons people.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Energy and climate have been overlooked at Victoria’s election – but there’s a lot at stake",
           "link": "https://theconversation.com/energy-and-climate-have-been-overlooked-at-victorias-election-but-theres-a-lot-at-stake-295871",
           "published": "2026-11-24T21:37:30+00:00",
@@ -1680,14 +1711,124 @@
           "other_news": true
         },
         {
-          "title": "The silver lining of the COP31 flop? Climate coalitions will rise – and the shift away from fossil fuels will accelerate",
-          "link": "https://theconversation.com/the-silver-lining-of-the-cop31-flop-climate-coalitions-will-rise-and-the-shift-away-from-fossil-fuels-will-accelerate-297294",
-          "published": "2026-11-24T19:09:32+00:00",
-          "source": "The Conversation",
+          "title": "A ‘stunning,’ colorful bird losing ground to deforestation and climate change: Study",
+          "link": "https://news.mongabay.com/2026/11/a-stunning-colorful-bird-losing-ground-to-deforestation-and-climate-change-study/",
+          "published": "2026-11-25T16:00:59+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "Intractable divisions over fossil fuels made consensus impossible at COP31. But climate action isn’t over – not by half.",
-          "image": null,
+          "summary": "Resplendent quetzals — a strikingly beautiful bird — are iconic denizens of cloud forests from Panama to Mexico. Held in high regard and considered sa",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24170132/resplendent1-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Photos: Elephants maintain an essential role in conservation in Nepal despite shifting norms",
+          "link": "https://news.mongabay.com/2026/11/photos-elephants-maintain-an-essential-role-in-conservation-in-nepal-despite-shifting-norms/",
+          "published": "2026-11-25T10:42:48+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "CHITWAN NATIONAL PARK, Nepal — Perched some 3 meters off the ground, or about 10 feet, on the back of Asian elephants, workers traverse Nepal’s dense",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/25072502/Doellinger_ElephantConservation-11-nepal-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "‘We don’t want it’: First Nations reject plan to release mining waste into water source",
+          "link": "https://news.mongabay.com/podcast/2026/11/we-dont-want-it-first-nations-reject-plan-to-release-mining-waste-into-water-source/",
+          "published": "2026-11-24T19:53:25+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Suncor, Canada’s second-largest oil company, wants to release treated wastewater from mining oil in Alberta’s tar sands into a drinking water source f",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/22045632/Chief-Alan-Adams-768x512.jpeg",
+          "other_news": true
+        },
+        {
+          "title": "How a feminist lens is shaping my climate reporting (commentary)",
+          "link": "https://news.mongabay.com/2026/11/how-a-feminist-lens-is-shaping-my-climate-reporting-commentary/",
+          "published": "2026-11-24T18:35:59+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "In university, I took a unit called Environmental Journalism, taught by one of my favorite lecturers. I paid enough attention to pass, but certainly n",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24103014/17756852284_8522e53684_women-farmers-africa-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Clouded tiger cats are notoriously hard to catch. This young researcher caught seven",
+          "link": "https://news.mongabay.com/2026/11/clouded-tiger-cats-are-notoriously-hard-to-catch-this-young-researcher-caught-seven/",
+          "published": "2026-11-24T17:41:52+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Tadeu de Oliveira, founder and leader of the Tiger Cats Conservation Initiative, a group of scientists committed to studying the smallest wildcats of",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24023247/Amaia2_with_oncilla_Elina_Lagcher-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Ecuador’s bioeconomy plan vows sustainability, but faces a test of government priorities",
+          "link": "https://news.mongabay.com/2026/11/ecuadors-bioeconomy-plan-vows-sustainability-but-faces-a-test-of-government-priorities/",
+          "published": "2026-11-24T17:03:56+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The government of Ecuador has approved a new 10-year plan to promote economic activities that make use of the country’s biological resources, while al",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24165413/AP26037567996653-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Indigenous peoples leave collapsed climate talks with promises on hold",
+          "link": "https://news.mongabay.com/2026/11/indigenous-peoples-leave-collapsed-climate-talks-with-promises-on-hold/",
+          "published": "2026-11-24T14:24:04+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "ANTALYA, Türkiye — A year ago, a record number of Indigenous people attended the United Nations climate summit in Belém, Brazil. Although there as obs",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/11/08145538/ACASCIO_Jepirachi_01-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Indonesia fires test palm oil certification scheme as NGOs question RSPO accountability",
+          "link": "https://news.mongabay.com/2026/11/indonesia-fires-test-palm-oil-certification-scheme-as-ngos-question-rspo-accountability/",
+          "published": "2026-11-24T12:37:21+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "JAKARTA — Environmental groups are questioning the effectiveness of a global organization that develops standards and certification for sustainable pa",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24121523/RSPO-Greenwashing-768x512.jpeg",
+          "other_news": true
+        },
+        {
+          "title": "Kiwi return to Wellington hills after 150 years in Māori-led conservation milestone",
+          "link": "https://news.mongabay.com/short-article/2026/11/kiwi-return-to-wellington-hills-after-150-years-in-maori-led-conservation-milestone/",
+          "published": "2026-11-24T11:19:50+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "For the first time in more than 150 years, wild kiwi are roaming the hills surrounding Aotearoa New Zealand’s capital city, Wellington. The milestone",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24111922/Little-spotted_kiwi_Apteryx_owenii_4000-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Mongabay Kids launches Wild Guardians: A free education initiative to engage children with nature",
+          "link": "https://news.mongabay.com/short-article/2026/11/mongabay-kids-launches-wild-guardians-a-free-education-initiative-to-engage-children-with-nature/",
+          "published": "2026-11-23T19:22:18+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Mongabay Kids has launched Wild Guardians, a free multimedia educational series that connects upper elementary students with nature and inspires them",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23191716/Exploring-and-protecting-waterways-still-768x512.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Analysis: The collapse of UN climate talks, over fossil fuels, was years in the making",
+          "link": "https://news.mongabay.com/short-article/2026/11/analysis-the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making/",
+          "published": "2026-11-23T17:34:45+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "NEW YORK (AP) — Going into this year’s U.N. climate talks in Turkey, expectations were notably low. Still, the outcome was even worse than expected—a",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23173037/AP26323784390415-768x512.jpg",
           "other_news": true
         }
       ]

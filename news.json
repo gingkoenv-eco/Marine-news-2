@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:59:40.103925+00:00",
+  "generated_at": "2026-11-25T21:41:31.213713+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -156,6 +156,17 @@
           "other_news": false
         },
         {
+          "title": "Nations hail new shark finning rules in the Atlantic. Conservationists say Japan blocked better ones",
+          "link": "https://news.mongabay.com/2026/11/nations-hail-new-shark-finning-rules-in-the-atlantic-conservationists-say-japan-blocked-better-ones/",
+          "published": "2026-11-25T17:52:18+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "VILAMOURA, Portugal — Shark finning entails slashing fins off sharks and dumping the bodies into the sea, often while they’re still alive. In the Atla",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/25134732/7-1-768x512-1.jpg",
+          "other_news": false
+        },
+        {
           "title": "Timor-Leste issues guidelines for whale-watching, but malpractice is rife as industry booms",
           "link": "https://news.mongabay.com/2026/11/timor-leste-issues-guidelines-for-whale-watching-but-malpractice-is-rife-as-industry-booms/",
           "published": "2026-11-24T04:56:04+00:00",
@@ -164,17 +175,6 @@
           "language": "en",
           "summary": "DILI, Timor-Leste — As the annual whale migration gets into full swing in Timor-Leste, conservationists are raising concerns about increasingly aggres",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/20120136/Pygmy-Blue-Whale-Balaenoptera-musculus-ssp.-brevicauda-768x512.jpg",
-          "other_news": false
-        },
-        {
-          "title": "China’s mangroves have bounced back. Birds have returned too",
-          "link": "https://news.mongabay.com/short-article/2026/11/chinas-mangroves-have-bounced-back-birds-have-returned-too/",
-          "published": "2026-11-23T18:57:25+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Between 1998 and 2020, mangrove cover in China more than doubled, while the number of bird species recorded in those areas rose from 148 to 397, accor",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23180333/Mangroves_at_sunset-768x512.jpg",
           "other_news": false
         }
       ],
@@ -276,14 +276,14 @@
       ],
       "Other Marine News": [
         {
-          "title": "California beaches close as record-breaking tides and major flooding loom",
-          "link": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
-          "published": "2026-11-25T17:20:26+00:00",
+          "title": "Oregon man and dog narrowly escape being swept away by high tides as officials urge caution at beaches",
+          "link": "https://www.theguardian.com/us-news/2026/nov/25/oregon-man-dog-escape-waves-king-tides",
+          "published": "2026-11-25T20:03:53+00:00",
           "source": "The Guardian Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Most of state likely to avoid worst-case scenario of coastal flooding amplified by intense winter rainstormsMajor flooding is expected in California t",
-          "image": "https://i.guim.co.uk/img/media/65f9514e8b6344d55411cf09a69951e0e03d3ff6/477_211_2237_1790/master/2237.jpg?width=140&quality=85&auto=format&fit=max&s=c7dc90dd1bb3fd9cdf774371ff914be3",
+          "summary": "Record-breaking king tides have prompted west coast authorities to warn residents to stay away from beaches The US west coast has seen record-breaking",
+          "image": "https://i.guim.co.uk/img/media/ef6af85495b81c7ebc8b95c8a3494fc818211960/8_87_1029_823/master/1029.jpg?width=140&quality=85&auto=format&fit=max&s=6ad48c4bcb698c0715dfb78e1ef453e7",
           "other_news": false
         },
         {
@@ -474,6 +474,17 @@
           "other_news": false
         },
         {
+          "title": "Des oiseaux équipés de capteurs pour débusquer les navires de pêche",
+          "link": "https://reporterre.net/Des-oiseaux-equipes-de-capteurs-pour-debusquer-les-navires-de-peche",
+          "published": "2026-11-25T19:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "Certains navires de pêche contournent la législation en disparaissant des radars : ils débranchent leur système d'identification",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/morus-bassanus_northern_gannet_1_-e4c21.jpg?1795633201",
+          "other_news": false
+        },
+        {
           "title": "« La mer du Nord telle qu'on l'a connue a disparu » : le changement climatique bouleverse le milieu marin",
           "link": "https://reporterre.net/La-mer-du-Nord-telle-qu-on-l-a-connue-a-disparu-le-changement-climatique-bouleverse-le",
           "published": "2026-11-24T05:00:00+00:00",
@@ -551,6 +562,17 @@
           "other_news": false
         },
         {
+          "title": "Cargo « Miro-G » échoué dans les Landes : une enquête judiciaire ouverte, la préfecture maritime évoque une « erreur de navigation »",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/25/une-enquete-judiciaire-ouverte-sur-l-echouement-du-cargo-miro-g-dans-les-landes_6815168_3244.html",
+          "published": "2026-11-25T20:20:58+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le « Miro-G », vraquier de 169 mètres qui naviguait à vide, s’est échoué dans la nuit de jeudi à vendredi sur la plage de Cap-de-l’Homy. Remis à flot",
+          "image": "https://img.lemde.fr/2026/11/24/691/0/5806/2903/644/322/60/0/8617b6d_ftp-1-bt4esyfg2wiy-90efcf7b37344b96955c59895e513c44-0-c5e60423907a4f338985fa3cc8e2656a.jpg",
+          "other_news": false
+        },
+        {
           "title": "Cargo échoué sur le littoral des Landes : le « Miro-G » remis à flot « avec succès » et acheminé vers un port en Gironde",
           "link": "https://www.lemonde.fr/planete/article/2026/11/24/cargo-echoue-sur-le-littoral-des-landes-le-miro-g-remis-a-flot-avec-succes-et-achemine-vers-un-port-en-gironde_6814806_3245.html",
           "published": "2026-11-24T18:23:41+01:00",
@@ -573,24 +595,13 @@
           "other_news": false
         },
         {
-          "title": "40 years of data on one dolphin community teaches new lessons about social circles in old age",
-          "link": "https://theconversation.com/40-years-of-data-on-one-dolphin-community-teaches-new-lessons-about-social-circles-in-old-age-297307",
-          "published": "2026-11-25T01:13:18+00:00",
+          "title": "Seeing Sea Country: how Traditional Owners are leading the way in caring for our oceans",
+          "link": "https://theconversation.com/seeing-sea-country-how-traditional-owners-are-leading-the-way-in-caring-for-our-oceans-294478",
+          "published": "2026-11-25T19:08:16+00:00",
           "source": "The Conversation",
           "type": "news",
           "language": "en",
-          "summary": "A new study based on 40 years of data on over 450 wild Indo-Pacific bottlenose dolphins shows the importance of consistency in social choices.",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "10 years after NZ’s 7.8 earthquake, a changed coastline offers clues to future hazards",
-          "link": "https://theconversation.com/10-years-after-nzs-7-8-earthquake-a-changed-coastline-offers-clues-to-future-hazards-297266",
-          "published": "2026-11-24T20:34:52+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Coastal erosion more than doubled after the Kaikōura earthquake. New research suggests it could erase evidence of past quakes, leaving gaps in the geo",
+          "summary": "First Nations communities have cared for Australia’s oceans over millenia.",
           "image": null,
           "other_news": false
         },
@@ -614,6 +625,17 @@
           "language": "en",
           "summary": "What is El Niño and why is this year’s different? A strengthening El Niño layered on top of decades of human-caused climate change is pushing ocean te",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Kenyan communities take on Nigerian billionaire’s $16 billion refinery project as court adjourns hearing",
+          "link": "https://news.mongabay.com/short-article/2026/11/kenyan-communities-take-on-nigerian-billionaires-16-billion-refinery-project-as-court-adjourns-hearing/",
+          "published": "2026-11-25T20:16:51+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Around 40 community representatives gathered early in the morning on Nov. 24 at a county assembly hall in Lamu, a town on an island off Kenya’s coast,",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/25201116/IMG_1286-768x512.jpg",
           "other_news": false
         },
         {
@@ -831,17 +853,6 @@
       ],
       "Other Marine News": [
         {
-          "title": "‘A new age of climate extremes’: Earth accumulating heat at accelerating rate",
-          "link": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-extremes-earth-global-heating",
-          "published": "2026-11-09T07:30:02+00:00",
-          "source": "The Guardian Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Increased heat will supercharge extreme weather events, warns UN agency as Cop31 climate summit beginsHeat is accumulating in Earth’s systems at an ac",
-          "image": "https://i.guim.co.uk/img/media/eb665636b7d46f13bb5787c1e6b8739556eaf980/54_0_3541_2832/master/3541.jpg?width=140&quality=85&auto=format&fit=max&s=dbafacee9d0936827f87a6999640874a",
-          "other_news": true
-        },
-        {
           "title": "New York's annual Thanksgiving Parade threatened by approaching storm",
           "link": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-25T14:41:42+00:00",
@@ -875,17 +886,6 @@
           "other_news": true
         },
         {
-          "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-23T05:15:06+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5fe/live/bf5d6f10-e71f-11f1-99a1-253766e7ad8b.jpg",
-          "other_news": true
-        },
-        {
           "title": "Delia Smith joins opponents of £1.2bn data centre",
           "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-24T11:04:36+00:00",
@@ -894,6 +894,17 @@
           "language": "en",
           "summary": "The TV cook and author is worried about the environmental impact of the proposed Keswick facility.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b418/live/76055eb0-e7e0-11f1-82bb-6b3be4dcbf70.jpg",
+          "other_news": true
+        },
+        {
+          "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-23T05:15:06+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5fe/live/bf5d6f10-e71f-11f1-99a1-253766e7ad8b.jpg",
           "other_news": true
         },
         {
@@ -1700,17 +1711,6 @@
           "other_news": true
         },
         {
-          "title": "Energy and climate have been overlooked at Victoria’s election – but there’s a lot at stake",
-          "link": "https://theconversation.com/energy-and-climate-have-been-overlooked-at-victorias-election-but-theres-a-lot-at-stake-295871",
-          "published": "2026-11-24T21:37:30+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The Victorian election could trigger a sharp backward step on climate and energy policies.",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "A ‘stunning,’ colorful bird losing ground to deforestation and climate change: Study",
           "link": "https://news.mongabay.com/2026/11/a-stunning-colorful-bird-losing-ground-to-deforestation-and-climate-change-study/",
           "published": "2026-11-25T16:00:59+00:00",
@@ -1818,17 +1818,6 @@
           "language": "en",
           "summary": "Mongabay Kids has launched Wild Guardians, a free multimedia educational series that connects upper elementary students with nature and inspires them",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23191716/Exploring-and-protecting-waterways-still-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Analysis: The collapse of UN climate talks, over fossil fuels, was years in the making",
-          "link": "https://news.mongabay.com/short-article/2026/11/analysis-the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making/",
-          "published": "2026-11-23T17:34:45+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "NEW YORK (AP) — Going into this year’s U.N. climate talks in Turkey, expectations were notably low. Still, the outcome was even worse than expected—a",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23173037/AP26323784390415-768x512.jpg",
           "other_news": true
         }
       ]

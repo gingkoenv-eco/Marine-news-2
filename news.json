@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:55:07.856829+00:00",
+  "generated_at": "2026-11-26T17:45:26.628405+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -357,13 +357,13 @@
           "other_news": false
         },
         {
-          "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
+          "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
           "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-26T15:57:26+00:00",
+          "published": "2026-11-26T17:38:56+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "More than 80 million Americans are expected to be traveling as massive storms are forecast on the western and eastern coasts of the US.",
+          "summary": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg",
           "other_news": false
         },
@@ -456,7 +456,7 @@
           "other_news": false
         },
         {
-          "title": "« On voit une tortue, un dauphin… Et tout est mort » : les filets dérivants font un carnage en Méditerranée",
+          "title": "« On voit une tortue, un dauphin… et tout est mort » : les filets dérivants font un carnage en Méditerranée",
           "link": "https://reporterre.net/Personne-n-a-envie-de-prendre-un-bebe-dauphin-dans-ses-filets-ils-tentent-de-stopper-le",
           "published": "2026-11-21T05:00:00+00:00",
           "source": "Reporterre",
@@ -1393,17 +1393,6 @@
           "language": "fr",
           "summary": "Malgré les catastrophes climatiques à répétition, la lutte contre le réchauffement peine à s’imposer dans le débat public, victime des clivages politi",
           "image": "https://img.lemde.fr/2026/07/26/404/0/5400/2700/644/322/60/0/65891ff_ftp-1-xqdllzjdyar2-5712073-01-06.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Pour réduire les émissions de méthane de son bétail, la Nouvelle-Zélande s’en remet entièrement à la technologie",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/25/pour-reduire-les-emissions-de-methane-de-son-betail-la-nouvelle-zelande-s-en-remet-entierement-a-la-technologie_6815047_3244.html",
-          "published": "2026-11-25T06:00:36+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Dans l’archipel, où 53 % des émissions de gaz à effet de serre proviennent du méthane produit par le monde agricole, les autorités, qui ont abandonné",
-          "image": "https://img.lemde.fr/2026/11/24/299/0/3000/1500/644/322/60/0/b553c44_upload-1-8vdsarz3pqpe-20261005-ohaupo-nz-lic-j-cambronero-0791.jpg",
           "other_news": true
         },
         {

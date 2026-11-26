@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T06:01:39.746074+00:00",
+  "generated_at": "2026-11-26T16:55:07.856829+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -15,6 +15,32 @@
           "other_news": false
         }
       ],
+      "Marine Biodiversity & Conservation": [
+        {
+          "title": "International marine biodiversity conference emphasizes the unsung and the unknown",
+          "link": "https://news.mongabay.com/2026/11/international-marine-biodiversity-conference-emphasizes-the-unsung-and-the-unknown/",
+          "published": "2026-11-26T08:01:34+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "BRUGES, Belgium — More than 800 people gathered for the 7th World Conference on Marine Biodiversity, held Nov. 17-20, in Bruges, Belgium. The conferen",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/25175341/7-banner-768x512.jpg",
+          "other_news": false
+        }
+      ],
+      "Marine Protected Areas & Policy": [
+        {
+          "title": "Carbon dioxide could be up to 65% higher by 2100 without marine life, policy brief warns",
+          "link": "https://oceanographicmagazine.com/news/carbon-dioxide-could-be-up-to-65-higher-by-2100-without-marine-life-policy-brief-warns/",
+          "published": "2026-11-26T12:30:06+00:00",
+          "source": "Oceanographic",
+          "type": "news",
+          "language": "en",
+          "summary": "A policy brief prepared for COP31 says climate models underplay the role of plankton, fish and other ocean life in locking carbon away – and urges cau",
+          "image": null,
+          "other_news": false
+        }
+      ],
       "Other Marine News": [
         {
           "title": "Q&A: What is the Belém-Antalya mechanism for a ‘just transition’?",
@@ -24,50 +50,6 @@
           "type": "news",
           "language": "en",
           "summary": "One of the key expected outcomes from the upcoming COP31 climate summit in Antalya, Turkey, is the launch of a&#8230;\nThe post Q&amp;A: What is the Be",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Ocean advocates warn COP31 agreement should not be read as geoengineering boost",
-          "link": "https://www.climatechangenews.com/2026/11/18/ocean-advocates-warn-cop31-agreement-geoengineering-cdr-removal-marine/",
-          "published": "2026-11-18T14:21:23+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The COP31 cover decision draft text include a controversial goal to increase carbon dioxide removal, which ocean advocates say could impact ecosystems",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "COP31 can’t deliver for islands without delivering for the ocean",
-          "link": "https://www.climatechangenews.com/2026/11/17/cop31-cant-deliver-for-islands-without-delivering-for-the-ocean/",
-          "published": "2026-11-17T09:24:16+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Recognition of the ocean's importance must go beyond speeches and start shaping national climate commitments and the allocation of international finan",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Push for ocean roadmap that informs next global stocktake grows at COP31",
-          "link": "https://www.climatechangenews.com/2026/11/12/push-ocean-roadmap-informs-next-global-stocktake-grows-cop31-antalya/",
-          "published": "2026-11-12T16:02:21+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "A group of countries including African nations, European Union, and small island states wants COP31 to deliver an ocean roadmap towards 2028\nThe post",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Ocean ambitions left adrift as COP31 talks break down",
-          "link": "https://oceanographicmagazine.com/news/ocean-ambitions-left-adrift-as-cop-31-talks-break-down/",
-          "published": "2026-11-23T11:00:32+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "COP31 ended in Antalya without an agreement after fossil fuel divisions, taking draft ocean language with it, though the presidency’s ocean compact su",
           "image": null,
           "other_news": false
         }
@@ -109,6 +91,17 @@
           "language": "en",
           "summary": "Temporary trial at Snapper Rocks would be part of the 2027 World Surf League event at Coolangatta – but locals fear it’ll become a ‘theme park’Get our",
           "image": "https://i.guim.co.uk/img/media/ceff0d68963e0956beb1bd1b442537a22d151a04/1143_0_6663_5333/master/6663.jpg?width=140&quality=85&auto=format&fit=max&s=65e0db88ea40995b2d8b919c91946f04",
+          "other_news": false
+        },
+        {
+          "title": "Whitehouse calls on PM to help save lake fish",
+          "link": "https://www.bbc.co.uk/news/articles/c6808pxrzy5po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-26T06:05:36+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The comedian warns extinction beckons for Arctic charr in Windermere after thousands of years.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cbf/live/bcc47080-e997-11f1-b880-15b494ba858d.jpg",
           "other_news": false
         },
         {
@@ -165,17 +158,6 @@
           "summary": "VILAMOURA, Portugal — Shark finning entails slashing fins off sharks and dumping the bodies into the sea, often while they’re still alive. In the Atla",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/25134732/7-1-768x512-1.jpg",
           "other_news": false
-        },
-        {
-          "title": "Timor-Leste issues guidelines for whale-watching, but malpractice is rife as industry booms",
-          "link": "https://news.mongabay.com/2026/11/timor-leste-issues-guidelines-for-whale-watching-but-malpractice-is-rife-as-industry-booms/",
-          "published": "2026-11-24T04:56:04+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "DILI, Timor-Leste — As the annual whale migration gets into full swing in Timor-Leste, conservationists are raising concerns about increasingly aggres",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/20120136/Pygmy-Blue-Whale-Balaenoptera-musculus-ssp.-brevicauda-768x512.jpg",
-          "other_news": false
         }
       ],
       "Sustainable Fisheries": [
@@ -198,17 +180,6 @@
           "type": "news",
           "language": "en",
           "summary": "As fish move to cooler waters and fishing fleets follow, new research shows the hidden cables that connect the world could face damage in places once",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Young emperor penguins face krill industry in first year at sea",
-          "link": "https://oceanographicmagazine.com/news/young-emperor-penguins-face-krill-industry-in-first-year-at-sea/",
-          "published": "2026-11-20T11:24:00+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Tracking 48 juvenile emperor penguins from three Weddell Sea colonies reveals predictable migrations overlapping industrial krill fishing and proposed",
           "image": null,
           "other_news": false
         },
@@ -247,17 +218,6 @@
           "language": "en",
           "summary": "Multi-million dollar sale comes despite a federal judge in Hawaii voiding the environmental clearance it had been given to proceed The US has carried",
           "image": "https://i.guim.co.uk/img/media/52db2ad2ef1b34df495e559d0c7e7937ed3973ec/275_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=fb3f05b6064c43c19561581d194d92f1",
-          "other_news": false
-        },
-        {
-          "title": "US issues first deep sea mining leases off American Samoa",
-          "link": "https://oceanographicmagazine.com/news/us-issues-first-deep-sea-mining-leases-off-american-samoa/",
-          "published": "2026-11-20T08:56:08+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Two leases covering around 31.5 million acres have been awarded to a single bidder, despite opposition from the territory’s leaders and a federal judg",
-          "image": null,
           "other_news": false
         }
       ],
@@ -397,6 +357,17 @@
           "other_news": false
         },
         {
+          "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
+          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-26T15:57:26+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "More than 80 million Americans are expected to be traveling as massive storms are forecast on the western and eastern coasts of the US.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg",
+          "other_news": false
+        },
+        {
           "title": "Surveiller l’état de santé de poissons exposés à des agents chimiques et biologiques grâce à des outils moléculaires non invasifs",
           "link": "https://theconversation.com/surveiller-letat-de-sante-de-poissons-exposes-a-des-agents-chimiques-et-biologiques-grace-a-des-outils-moleculaires-non-invasifs-295925",
           "published": "2026-11-12T15:36:40+00:00",
@@ -441,25 +412,25 @@
           "other_news": false
         },
         {
-          "title": "Building coastal resilience for local communities in Honduras",
-          "link": "https://www.climatechangenews.com/2026/11/17/building-coastal-resilience-for-local-communities-in-honduras/",
-          "published": "2026-11-17T11:02:29+00:00",
-          "source": "Climate change news",
+          "title": "PFAS : poissons, lait infantile et crustacés sont particulièrement contaminés",
+          "link": "https://reporterre.net/PFAS-poissons-lait-infantile-et-crustaces-sont-particulierement-contamines",
+          "published": "2026-11-26T10:54:43+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "Climate adaptation projects that focus on ocean and coastal management could provide useful case studies for negotiators at COP31\nThe post Building co",
-          "image": null,
+          "language": "fr",
+          "summary": "Des laits infantiles contaminés par une substance cancérogène, et sous les radars des règlementations. Jeudi 26 novembre, Généra",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/poissonpfas-7bc32.jpg?1795690485",
           "other_news": false
         },
         {
-          "title": "Pacific leaves empty handed from COP31 “pledging event” for new fund",
-          "link": "https://www.climatechangenews.com/2026/11/12/pacific-leaves-empty-handed-from-cop31-pledging-event-for-new-fund/",
-          "published": "2026-11-12T17:01:43+00:00",
-          "source": "Climate change news",
+          "title": "Tester les polluants dans l'eau de votre robinet, c'est possible. Voici comment",
+          "link": "https://reporterre.net/Vous-pouvez-maintenant-tester-les-polluants-dans-l-eau-de-votre-robinet",
+          "published": "2026-11-26T10:32:32+00:00",
+          "source": "Reporterre",
           "type": "news",
-          "language": "en",
-          "summary": "With developed countries only re-announcing old pledges, the facility remains $300 million away from meeting its 2026 target of $500m for resilience p",
-          "image": null,
+          "language": "fr",
+          "summary": "L'eau de votre robinet contient-elle du TFA, un polluant éternel omniprésent dans les milieux aquatiques et reconnu comme toxiqu",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/manki-kim-12kb5ynfxso-unsplash_1_-35c9c.jpg?1795689207",
           "other_news": false
         },
         {
@@ -518,25 +489,25 @@
           "other_news": false
         },
         {
-          "title": "« Il faut démanteler les navires-usines » : notre débat sur l'océan avec Claire Nouvian, Baptiste Morizot et Guillaume Pitron",
-          "link": "https://reporterre.net/Il-faut-demanteler-les-navires-usines-notre-debat-sur-l-ocean-avec-Claire-Nouvian",
-          "published": "2026-11-18T15:44:26+00:00",
-          "source": "Reporterre",
+          "title": "Seabird ‘spies’ reveal the vessels hidden from official tracking",
+          "link": "https://oceanographicmagazine.com/news/seabird-spies-reveal-the-vessels-hidden-from-official-tracking/",
+          "published": "2026-11-26T12:57:02+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "language": "fr",
-          "summary": "Alors que l'océan devient un nouvel enjeu stratégique, quelles sont les conséquences de cette course vers le large ? Pour y répo",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/20261105_reporterre_la_mer_des_batailles__020_resized-0d14a.jpg?1795016667",
+          "language": "en",
+          "summary": "Audio recorders carried by northern gannets and Balearic shearwaters reveal many vessels they encounter are missing from official tracking records, su",
+          "image": null,
           "other_news": false
         },
         {
-          "title": "La Bretagne à sec en novembre, l'eau d'un lac pompée pour renflouer les robinets",
-          "link": "https://reporterre.net/La-Bretagne-a-sec-en-novembre-l-eau-d-un-lac-pompee-pour-renflouer-les-robinets",
-          "published": "2026-11-18T14:54:23+00:00",
-          "source": "Reporterre",
+          "title": "Arsenic from Myanmar’s mines is poisoning rivers that feed the Mekong",
+          "link": "https://oceanographicmagazine.com/news/arsenic-from-myanmars-mines-is-poisoning-rivers-that-feed-the-mekong/",
+          "published": "2026-11-26T10:19:57+00:00",
+          "source": "Oceanographic",
           "type": "news",
-          "language": "fr",
-          "summary": "La sécheresse historique qui frappe depuis l'été menace l'approvisionnement en eau potable de toute la Bretagne. Dans les Côtes-",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/etang_recad-21e67.jpg?1795018527",
+          "language": "en",
+          "summary": "Thai tests show dangerous arsenic in the Kok, Sai and Mekong, cutting off tap water and raising fears for fish, as China offers to help investigate\nTh",
+          "image": null,
           "other_news": false
         },
         {
@@ -548,6 +519,28 @@
           "language": "en",
           "summary": "Record-threatening floods on the US West Coast this week show how a warming ocean turns predictable natural events into serious risks for coastal comm",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "En images : de grandes marées inondent le littoral californien",
+          "link": "https://www.lemonde.fr/international/video/2026/11/26/en-images-de-grandes-marees-inondent-le-littoral-californien_6815506_3210.html",
+          "published": "2026-11-26T10:13:04+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "L’amplitude de ces marées est accentuée par le réchauffement climatique et par un épisode El Niño très intense.",
+          "image": "https://img.lemde.fr/2026/11/25/547/0/5000/2500/644/322/60/0/c9510e7_ftp-1-ouo92qlxs2qo-2026-11-25t190040z-1834251747-rc20voa91jk2-rtrmadp-3-usa-weather-california.JPG",
+          "other_news": false
+        },
+        {
+          "title": "Après avoir mangé des huîtres en Floride, elle meurt douze heures après son admission à l’hôpital en France",
+          "link": "https://www.lemonde.fr/realites-biomedicales/article/2026/11/26/apres-avoir-mange-des-huitres-en-floride-elle-meurt-douze-heures-apres-son-admission-a-l-hopital-en-france_6815495_6579630.html",
+          "published": "2026-11-26T09:29:51+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Présente dans les eaux côtières chaudes et saumâtres, la bactérie « Vibrio vulnificus » peut provoquer une infection nécrosante de la peau et des tiss",
+          "image": "https://img.lemde.fr/2026/11/25/51/0/1177/588/644/322/60/0/b23bbd2_upload-1-gaxsh6xqs250-vibrio-vulnificus.png",
           "other_news": false
         },
         {
@@ -570,17 +563,6 @@
           "language": "fr",
           "summary": "Le « Miro-G », vraquier de 169 mètres qui naviguait à vide, s’est échoué dans la nuit de jeudi à vendredi sur la plage de Cap-de-l’Homy. Remis à flot",
           "image": "https://img.lemde.fr/2026/11/24/691/0/5806/2903/644/322/60/0/8617b6d_ftp-1-bt4esyfg2wiy-90efcf7b37344b96955c59895e513c44-0-c5e60423907a4f338985fa3cc8e2656a.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Cargo échoué sur le littoral des Landes : le « Miro-G » remis à flot « avec succès » et acheminé vers un port en Gironde",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/24/cargo-echoue-sur-le-littoral-des-landes-le-miro-g-remis-a-flot-avec-succes-et-achemine-vers-un-port-en-gironde_6814806_3245.html",
-          "published": "2026-11-24T18:23:41+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La préfecture maritime de l’Atlantique avait attendu une météo plus clémente pour lancer cette manœuvre « extrêmement complexe ».",
-          "image": "https://img.lemde.fr/2026/11/24/522/0/6272/3136/644/322/60/0/b2b1c13_ftp-1-lbqt8kmdye2q-afp-d8gb3ca.jpg",
           "other_news": false
         },
         {
@@ -625,6 +607,17 @@
           "language": "en",
           "summary": "What is El Niño and why is this year’s different? A strengthening El Niño layered on top of decades of human-caused climate change is pushing ocean te",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "US gains foothold in race for Africa’s critical minerals in Kenya’s Mrima Hill project",
+          "link": "https://news.mongabay.com/short-article/2026/11/us-gains-foothold-in-race-for-africas-critical-minerals-in-kenyas-mrima-hill-project/",
+          "published": "2026-11-26T10:47:12+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Kenya’s Cabinet Secretary for Mining and Blue Economy has announced that the mining ministry has issued a “notice of intention” to award the tender fo",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/26102652/1920px-Nb-Niobium-768x512.jpeg",
           "other_news": false
         },
         {
@@ -759,14 +752,14 @@
           "other_news": true
         },
         {
-          "title": "Türkiye pushes “zero waste” at COP31, but is it delivering at home?",
-          "link": "https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/",
-          "published": "2026-11-11T07:00:32+00:00",
-          "source": "Climate change news",
+          "title": "Espagne : le naufrage d’un pétrolier chargé de diesel fait un mort au large d’Ibiza, sans « indice de pollution » provisoirement observé",
+          "link": "https://www.lemonde.fr/international/article/2026/11/26/espagne-un-petrolier-charge-de-diesel-coule-au-large-d-ibiza-faisant-un-mort_6815505_3210.html",
+          "published": "2026-11-26T10:06:10+01:00",
+          "source": "Le Monde Planète",
           "type": "news",
-          "language": "en",
-          "summary": "Türkiye is hosting a Zero Waste Day at the UN climate summit, led by its First Lady, but its own waste generation keeps rising while plastic imports f",
-          "image": null,
+          "language": "fr",
+          "summary": "L’équipage de 17 membres a été secouru, mais l’un d’entre eux a ensuite été déclaré mort à l’hôpital, à Ibiza, selon les secours de l’archipel des Bal",
+          "image": "https://img.lemde.fr/2026/11/26/198/0/1600/800/644/322/60/0/d42315c_ftp-1-cmrgo2l1yazb-2026-11-26t124716z-1551806580-rc2ovoawq74h-rtrmadp-3-spain-accident.JPG",
           "other_news": true
         },
         {
@@ -836,17 +829,6 @@
           "type": "news",
           "language": "en",
           "summary": "I have followed the talks for years as a policy expert and former climate envoy for Germany, and I’m seeing growing concern about the rising costs and",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Myanmar genocide ruling presents China with a dilemma",
-          "link": "https://theconversation.com/myanmar-genocide-ruling-presents-china-with-a-dilemma-297324",
-          "published": "2026-11-25T14:18:18+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "The ruling will test Beijing’s policy of non-interference as it balances strategic interests with international legal obligations.",
           "image": null,
           "other_news": true
         }
@@ -1029,6 +1011,28 @@
           "other_news": true
         },
         {
+          "title": "Indonesia’s huge peat fires burn underground – so we still don’t know just how much carbon they have released",
+          "link": "https://theconversation.com/indonesias-huge-peat-fires-burn-underground-so-we-still-dont-know-just-how-much-carbon-they-have-released-295732",
+          "published": "2026-11-26T15:07:51+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "These fires can emit more carbon than entire countries, but estimates remain uncertain. That’s why researchers are measuring how deeply they burn.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "If politicians really want to cut heating bills they need to trust in green energy – businesses already are",
+          "link": "https://theconversation.com/if-politicians-really-want-to-cut-heating-bills-they-need-to-trust-in-green-energy-businesses-already-are-297216",
+          "published": "2026-11-26T12:17:40+00:00",
+          "source": "The Conversation UK",
+          "type": "news",
+          "language": "en",
+          "summary": "There’s a selfish case for moving towards green energy. It will create savings, and businesses are already acknowledging this.",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Climate diplomacy is stuck – these three big changes would get it moving again",
           "link": "https://theconversation.com/climate-diplomacy-is-stuck-these-three-big-changes-would-get-it-moving-again-297555",
           "published": "2026-11-25T16:31:23+00:00",
@@ -1146,28 +1150,6 @@
           "type": "news",
           "language": "en",
           "summary": "Digital choices have huge environmental costs but these are rarely counted up.",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Climate change has different consequences for the health of women and men – but the systems tracking it don’t reflect that",
-          "link": "https://theconversation.com/climate-change-has-different-consequences-for-the-health-of-women-and-men-but-the-systems-tracking-it-dont-reflect-that-296199",
-          "published": "2026-11-12T11:50:02+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Only one of 45 global climate and health indicators that measure people says whether women or men are affected. The data to fix that mostly exists alr",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "BBC documentary takes eight children on a nature field trip to explore eco-anxiety",
-          "link": "https://theconversation.com/bbc-documentary-takes-eight-children-on-a-nature-field-trip-to-explore-eco-anxiety-296327",
-          "published": "2026-11-12T11:46:01+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "Magical realism is a theme that runs through the film and through some environmental storytelling research.",
           "image": null,
           "other_news": true
         },
@@ -1348,160 +1330,6 @@
           "other_news": true
         },
         {
-          "title": "What was agreed – and not agreed – on key issues at COP31 talks?",
-          "link": "https://www.climatechangenews.com/2026/11/23/what-was-agreed-and-not-agreed-on-key-issues-at-cop31-talks/",
-          "published": "2026-11-23T16:25:44+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Climate Home News walks you through the main outcomes on negotiated items, ranging from finance to adaptation and carbon markets  \nThe post What was a",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Australia and South Korea’s clean energy deal could boost low-carbon trade",
-          "link": "https://www.climatechangenews.com/2026/11/23/australia-and-south-koreas-clean-energy-deal-could-boost-low-carbon-trade/",
-          "published": "2026-11-23T13:58:44+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The deal aims to connect Australia's renewable resources with Korean industries' clean energy demand, potentially transforming a relationship built on",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "After COP31, our chance to save climate diplomacy lies in global shipping",
-          "link": "https://www.climatechangenews.com/2026/11/23/after-cop31-our-chance-to-save-climate-diplomacy-lies-in-global-shipping/",
-          "published": "2026-11-23T13:56:35+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "If COP31's high ambition countries can show the same resolve at London shipping talks, a climate breakthrough is possible next week\nThe post After COP",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "As COP31 weighs 35×35 pledge, IEA says Hormuz crisis driving electrification",
-          "link": "https://www.climatechangenews.com/2026/11/19/iea-report-hormuz-crisis-climate-electrification-shift-cop31-35x35-pledge/",
-          "published": "2026-11-19T12:46:05+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "The report estimates that a planned transition away from fossil fuels and into renewables can add energy jobs and cut energy bills\nThe post As COP31 w",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Bangladesh needs COP31 to deliver clarity on climate finance",
-          "link": "https://www.climatechangenews.com/2026/11/19/bangladesh-needs-cop31-to-deliver-clarity-on-climate-finance/",
-          "published": "2026-11-19T01:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Bangladesh cannot bear rising climate costs alone - the UN summit in Antalya must show how timely, accessible finance will be delivered at the scale n",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Rich countries must step up to replenish Green Climate Fund, Duarte says",
-          "link": "https://www.climatechangenews.com/2026/11/17/rich-countries-must-step-up-to-replenish-green-climate-fund-duarte-says/",
-          "published": "2026-11-17T13:33:41+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "GCF Executive Director Mafalda Duarte tells Climate Home News efforts to leverage the fund's balance sheet more effectively and find new contributors",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Minerals for the planet or for war and AI? COP31 must make clear what we prioritise",
-          "link": "https://www.climatechangenews.com/2026/11/17/minerals-for-the-planet-or-for-war-and-ai-cop31-must-make-clear-what-we-prioritise/",
-          "published": "2026-11-17T04:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "As demand for minerals soars, intensifying pressure for new mining, meeting demand for the energy transition must come first \nThe post Minerals for th",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Countries take up industry push to loosen UN carbon market rules at COP31",
-          "link": "https://www.climatechangenews.com/2026/11/16/countries-take-up-industry-push-to-loosen-un-carbon-market-rules-at-cop31/",
-          "published": "2026-11-16T16:16:15+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "A draft decision reflects demands from dozens of countries to reassess the UN carbon market’s integrity rules, a push campaigners blame on industry lo",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Behind the COP31 fanfare, Türkiye is worried about water",
-          "link": "https://www.climatechangenews.com/2026/11/15/behind-the-cop31-fanfare-turkiye-is-worried-about-water/",
-          "published": "2026-11-15T07:27:21+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Highlighting the urgency of climate diplomacy, more frequent droughts are depleting the country's lakes and half the population is at risk of water sh",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "COP31 Bulletin Day 6: Climate marchers call for justice as talks make limited progress",
-          "link": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/",
-          "published": "2026-11-14T11:21:49+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "After campaigners took to the streets, red lines are set to emerge at the summit as Australia and Türkiye preside over a stocktaking plenary on Saturd",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Nepal’s climate suffering should pave the way for a safe and fair future",
-          "link": "https://www.climatechangenews.com/2026/11/13/nepals-climate-suffering-must-pave-the-way-for-a-safe-and-fair-future/",
-          "published": "2026-11-13T12:33:06+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Young people in Nepal are seeking international solidarity from COP31 to help our nation tackle the worsening climate disasters knocking at all of our",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "We must strengthen trade cooperation to deliver on global climate goals",
-          "link": "https://www.climatechangenews.com/2026/11/13/we-must-strengthen-trade-cooperation-to-deliver-on-global-climate-goals/",
-          "published": "2026-11-13T04:00:00+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "As governments turn to trade-related measures to deliver on their climate targets, cooperation is vital to reduce fragmentation, costs and build more",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in",
-          "link": "https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/",
-          "published": "2026-11-11T10:31:13+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Around 40 leaders, including Lula, Erdoğan and Albanese, addressed the summit in Antalya, where the UN chief proposed a \"climate justice compact\"\nThe",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Big fossil-fuel countries back Brazil-led transition roadmap",
-          "link": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/",
-          "published": "2026-11-10T17:26:10+00:00",
-          "source": "Climate change news",
-          "type": "news",
-          "language": "en",
-          "summary": "Some countries including Germany and the Netherlands call for the roadmaps to inform a key global review of climate progress in 2028\nThe post Big foss",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Yannick Jadot et des écologistes pro-Glucksmann fondent leur parti politique",
           "link": "https://reporterre.net/Yannick-Jadot-et-des-ecologistes-pro-Glucksmann-fondent-leur-parti-politique",
           "published": "2026-11-24T11:16:42+00:00",
@@ -1535,36 +1363,25 @@
           "other_news": true
         },
         {
-          "title": "Indonésie : les fumées des incendies ont tué plus de 5 000 personnes",
-          "link": "https://reporterre.net/Indonesie-les-fumees-des-incendies-ont-tue-plus-de-5-000-personnes",
-          "published": "2026-11-19T03:00:00+00:00",
-          "source": "Reporterre",
+          "title": "Le Népal s’apprête à déclarer mortes les plus de 5 000 personnes disparues dans les inondations de l’Himalaya",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/26/le-nepal-s-apprete-a-declarer-mortes-les-plus-de-5-000-personnes-disparues-dans-les-inondations-de-l-himalaya_6815520_3244.html",
+          "published": "2026-11-26T11:42:01+01:00",
+          "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Les incendies continuent de ravager l'Indonésie. Les émissions de carbone liées aux feux dans l'archipel ont atteint près de 200",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261104__d6dn2n8__v4__highres__correctionindonesiapollutionenvironmentfire-81505.jpg?1795057200",
+          "summary": "Au mois d’octobre, la législation népalaise avait été modifiée pour réduire de douze ans à environ six semaines le délai d’attente pour déclarer des d",
+          "image": "https://img.lemde.fr/2026/11/23/504/0/6000/3000/644/322/60/0/aa02f78_ftp-1-qz7yu6gvpyzr-2026-11-23t160819z-1959545760-rc2ntoaurdnl-rtrmadp-3-nepal-floods.JPG",
           "other_news": true
         },
         {
-          "title": "« C'est pas la faute de Total » : quand la France fait l'autruche face aux grands pollueurs",
-          "link": "https://reporterre.net/C-est-pas-la-faute-de-Total-la-France-face-a-ses-contradictions-a-la-COP31",
-          "published": "2026-11-18T14:45:16+00:00",
-          "source": "Reporterre",
-          "type": "news",
-          "language": "fr",
-          "summary": "Alors que Macron se vante d'avoir fait de la France une « championne du climat », l'État refuse de faire payer les grands pollue",
-          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20261113__d7dd8yx__v1__highres__turkeyaustraliacop31unclimate_1_-62e96.jpg?1795013146",
-          "other_news": true
-        },
-        {
-          "title": "Les syndicats d’agriculteurs montent au créneau avant des discussions clés sur la nouvelle politique agricole commune",
+          "title": "Les syndicats d’agriculteurs montent au créneau avant des discussions-clés sur la nouvelle politique agricole commune",
           "link": "https://www.lemonde.fr/economie/article/2026/11/26/les-syndicats-d-agriculteurs-montent-au-creneau-avant-des-discussions-cles-sur-la-nouvelle-politique-agricole-commune_6815465_3234.html",
           "published": "2026-11-26T05:00:20+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
-          "summary": "Le budget de la future politique agricole commune dépendra des négociations qui entrent dans une phase cruciale, jeudi 26 septembre, à Bruxelles. Des",
-          "image": "https://img.lemde.fr/2026/11/25/1368/0/8192/4096/644/322/60/0/3b6f60d_ftp-1-ugib4nvwga7f-afp-d8ln8d6.jpg",
+          "summary": "Le budget de la future politique agricole commune dépendra des négociations qui entrent dans une phase cruciale, jeudi 26 novembre, à Bruxelles. Des r",
+          "image": "https://img.lemde.fr/2026/11/25/684/0/8192/4096/644/322/60/0/2abc071_ftp-1-nbr5ghsvqhl2-afp-d8ll2qf.jpg",
           "other_news": true
         },
         {
@@ -1587,39 +1404,6 @@
           "language": "fr",
           "summary": "Dans l’archipel, où 53 % des émissions de gaz à effet de serre proviennent du méthane produit par le monde agricole, les autorités, qui ont abandonné",
           "image": "https://img.lemde.fr/2026/11/24/299/0/3000/1500/644/322/60/0/b553c44_upload-1-8vdsarz3pqpe-20261005-ohaupo-nz-lic-j-cambronero-0791.jpg",
-          "other_news": true
-        },
-        {
-          "title": "COP31 : « L’espoir de nombreux observateurs est qu’Antalya crée une sorte de sursaut et permette à la diplomatie climatique de repartir sur de meilleures bases »",
-          "link": "https://www.lemonde.fr/planete/live/2026/11/24/cop31-comment-rebondir-apres-l-echec-de-la-conference-d-antalya-sur-le-climat-posez-vos-questions-a-notre-journaliste_6814769_3244.html",
-          "published": "2026-11-24T14:25:08+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "La conférence de l’ONU sur le climat s’est soldée dimanche par un échec, après le rejet du texte d’accord proposé par la présidence turque. Comment l’",
-          "image": "https://img.lemde.fr/2026/11/23/468/0/5616/2808/644/322/60/0/b5712cf_ftp-1-n6m1ywe9edif-2043b169c5ae490d87bf2e7eac29e85c-0-e531a02b5e5b4679b14c3203c69e01f8.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Pesticides : le Parlement européen reporte à 2027 le vote sur une loi visant à assouplir leur réglementation",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/24/pesticides-le-parlement-europeen-reporte-a-2027-le-vote-sur-une-loi-visant-a-assouplir-leur-reglementation_6814759_3244.html",
-          "published": "2026-11-24T13:22:13+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Les eurodéputés devaient voter en décembre sur ce paquet législatif baptisé Omnibus X, qui prévoit notamment des autorisations illimitées pour une par",
-          "image": "https://img.lemde.fr/2026/11/24/474/0/5690/2845/644/322/60/0/bf65c17_upload-1-3pvtvem1lcl4-000-d3td7nk.jpg",
-          "other_news": true
-        },
-        {
-          "title": "En Moselle, le projet de méga-usine Holosolis cherche à ressusciter l’industrie française des panneaux solaires",
-          "link": "https://www.lemonde.fr/economie/article/2026/11/24/photovoltaique-en-moselle-le-projet-de-mega-usine-holosolis-cherche-a-ressusciter-l-industrie-francaise-des-panneaux-solaires_6814729_3234.html",
-          "published": "2026-11-24T10:00:00+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Alors que la Chine domine le secteur photovoltaïque mondial, le consortium Holosolis ambitionne de produire 10 millions de panneaux solaires par an d’",
-          "image": "https://img.lemde.fr/2026/11/23/456/0/5472/2736/644/322/60/0/4e721a1_upload-1-i7ir4azid9oc-000-9vp6dk.jpg",
           "other_news": true
         },
         {
@@ -1663,39 +1447,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Le sommet mondial sur le climat s’est prolongé de deux jours pour finalement échouer à aboutir à une décision politique finale. Le désaccord sur la so",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Climate adaptation: South African teams show why better solutions start with understanding local problems",
-          "link": "https://theconversation.com/climate-adaptation-south-african-teams-show-why-better-solutions-start-with-understanding-local-problems-294600",
-          "published": "2026-11-25T14:07:49+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Climate adaptation funders want projects ready to launch. But new research shows why communities must help design climate solutions if the projects ar",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Sewing an infinity of phalluses – how Japanese artist Yayoi Kusama confronted the male-dominated art world by mocking it",
-          "link": "https://theconversation.com/sewing-an-infinity-of-phalluses-how-japanese-artist-yayoi-kusama-confronted-the-male-dominated-art-world-by-mocking-it-290804",
-          "published": "2026-11-25T13:39:13+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "Critics have attributed the repetitive, labor-intensive nature of Kusama’s work to be a product of mental illness. But a closer look reveals deliberat",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "Solomon Islands and Australia sign a new defence treaty – and there’s plenty in it for both countries",
-          "link": "https://theconversation.com/solomon-islands-and-australia-sign-a-new-defence-treaty-and-theres-plenty-in-it-for-both-countries-297498",
-          "published": "2026-11-25T07:54:13+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "While the new pact tears up a previous deal between Solomon Islands and China, there is much in the new deal with Australia for the Solomons people.",
           "image": null,
           "other_news": true
         },
@@ -1785,17 +1536,6 @@
           "language": "en",
           "summary": "JAKARTA — Environmental groups are questioning the effectiveness of a global organization that develops standards and certification for sustainable pa",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24121523/RSPO-Greenwashing-768x512.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "Kiwi return to Wellington hills after 150 years in Māori-led conservation milestone",
-          "link": "https://news.mongabay.com/short-article/2026/11/kiwi-return-to-wellington-hills-after-150-years-in-maori-led-conservation-milestone/",
-          "published": "2026-11-24T11:19:50+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "For the first time in more than 150 years, wild kiwi are roaming the hills surrounding Aotearoa New Zealand’s capital city, Wellington. The milestone",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24111922/Little-spotted_kiwi_Apteryx_owenii_4000-768x512.jpg",
           "other_news": true
         }
       ]

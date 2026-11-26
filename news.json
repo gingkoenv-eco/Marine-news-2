@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:45:26.628405+00:00",
+  "generated_at": "2026-11-26T21:30:54.324244+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -354,6 +354,17 @@
           "language": "en",
           "summary": "SS United States, which set transatlantic speed record during maiden voyage in 1952, is sunk off coast of DestinThe historic SS United States has reac",
           "image": "https://i.guim.co.uk/img/media/8fd60b61479519c751873c078dc512af7092ed65/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=9c566e41195cc25e767c4ccf33bd91b5",
+          "other_news": false
+        },
+        {
+          "title": "Second court defeat for Trump's deep-sea mining ambitions",
+          "link": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-26T18:22:28+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Second judge rules against Trump administration's plans to lease areas of ocean floor and survey for mining.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c748/live/bfd18aa0-e9b1-11f1-859a-37130cd3a1d7.jpg",
           "other_news": false
         },
         {
@@ -1440,6 +1451,17 @@
           "other_news": true
         },
         {
+          "title": "US bill to speed up clean energy projects could also fast-track fossil fuels",
+          "link": "https://news.mongabay.com/short-article/2026/11/us-bill-to-speed-up-clean-energy-projects-could-also-fast-track-fossil-fuels/",
+          "published": "2026-11-26T17:58:01+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "On Nov. 19, the U.S. Senate passed a bill that aims to speed up permitting for energy infrastructure projects. The 62-33 vote on the Bipartisan Americ",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/26175019/samoa-768x512.jpg",
+          "other_news": true
+        },
+        {
           "title": "A ‘stunning,’ colorful bird losing ground to deforestation and climate change: Study",
           "link": "https://news.mongabay.com/2026/11/a-stunning-colorful-bird-losing-ground-to-deforestation-and-climate-change-study/",
           "published": "2026-11-25T16:00:59+00:00",
@@ -1514,17 +1536,6 @@
           "language": "en",
           "summary": "ANTALYA, Türkiye — A year ago, a record number of Indigenous people attended the United Nations climate summit in Belém, Brazil. Although there as obs",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/11/08145538/ACASCIO_Jepirachi_01-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Indonesia fires test palm oil certification scheme as NGOs question RSPO accountability",
-          "link": "https://news.mongabay.com/2026/11/indonesia-fires-test-palm-oil-certification-scheme-as-ngos-question-rspo-accountability/",
-          "published": "2026-11-24T12:37:21+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "JAKARTA — Environmental groups are questioning the effectiveness of a global organization that develops standards and certification for sustainable pa",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24121523/RSPO-Greenwashing-768x512.jpeg",
           "other_news": true
         }
       ]

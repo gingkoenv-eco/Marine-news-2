@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:35:24.077126+00:00",
+  "generated_at": "2026-11-26T06:01:39.746074+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -397,17 +397,6 @@
           "other_news": false
         },
         {
-          "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
-          "link": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-24T11:40:46+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81f2/live/d95747e0-e811-11f1-99b6-a35a62fa4264.jpg",
-          "other_news": false
-        },
-        {
           "title": "Surveiller l’état de santé de poissons exposés à des agents chimiques et biologiques grâce à des outils moléculaires non invasifs",
           "link": "https://theconversation.com/surveiller-letat-de-sante-de-poissons-exposes-a-des-agents-chimiques-et-biologiques-grace-a-des-outils-moleculaires-non-invasifs-295925",
           "published": "2026-11-12T15:36:40+00:00",
@@ -559,6 +548,17 @@
           "language": "en",
           "summary": "Record-threatening floods on the US West Coast this week show how a warming ocean turns predictable natural events into serious risks for coastal comm",
           "image": null,
+          "other_news": false
+        },
+        {
+          "title": "Des grandes marées historiques inondent le littoral californien, San Francisco évite les dévastations redoutées",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/26/des-grandes-marees-historiques-inondent-le-littoral-californien-san-francisco-evite-les-devastations-redoutees_6815334_3244.html",
+          "published": "2026-11-26T03:11:54+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Au sud de la métropole californienne, les habitants de la ville de Pacifica ont vu des vagues gigantesques briser le ponton et inonder les rues et les",
+          "image": "https://img.lemde.fr/2026/11/25/270/0/5165/2582/644/322/60/0/5bc58a3_ftp-1-drkog6jquyhb-afp-d8mf7dx.jpg",
           "other_news": false
         },
         {
@@ -864,6 +864,17 @@
           "other_news": true
         },
         {
+          "title": "Delia Smith joins opponents of £1.2bn data centre",
+          "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-24T11:04:36+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "The TV cook and author is worried about the environmental impact of the proposed Keswick facility.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b418/live/76055eb0-e7e0-11f1-82bb-6b3be4dcbf70.jpg",
+          "other_news": true
+        },
+        {
           "title": "What failure of COP31 reveals about a divided world",
           "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-23T17:24:25+00:00",
@@ -883,17 +894,6 @@
           "language": "en",
           "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f7/live/e38ff1a0-e71f-11f1-99b6-a35a62fa4264.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Delia Smith joins opponents of £1.2bn data centre",
-          "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-24T11:04:36+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The TV cook and author is worried about the environmental impact of the proposed Keswick facility.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b418/live/76055eb0-e7e0-11f1-82bb-6b3be4dcbf70.jpg",
           "other_news": true
         },
         {
@@ -1557,6 +1557,17 @@
           "other_news": true
         },
         {
+          "title": "Les syndicats d’agriculteurs montent au créneau avant des discussions clés sur la nouvelle politique agricole commune",
+          "link": "https://www.lemonde.fr/economie/article/2026/11/26/les-syndicats-d-agriculteurs-montent-au-creneau-avant-des-discussions-cles-sur-la-nouvelle-politique-agricole-commune_6815465_3234.html",
+          "published": "2026-11-26T05:00:20+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le budget de la future politique agricole commune dépendra des négociations qui entrent dans une phase cruciale, jeudi 26 septembre, à Bruxelles. Des",
+          "image": "https://img.lemde.fr/2026/11/25/1368/0/8192/4096/644/322/60/0/3b6f60d_ftp-1-ugib4nvwga7f-afp-d8ln8d6.jpg",
+          "other_news": true
+        },
+        {
           "title": "En Espagne, pays aux avant-postes du changement climatique, l’environnement reste le grand absent de la campagne électorale",
           "link": "https://www.lemonde.fr/international/article/2026/11/25/en-espagne-pays-aux-avant-postes-du-changement-climatique-l-environnement-reste-le-grand-absent-de-la-campagne-electorale_6815056_3210.html",
           "published": "2026-11-25T08:00:03+01:00",
@@ -1612,17 +1623,6 @@
           "other_news": true
         },
         {
-          "title": "Comment on lutte contre l’isolement avec un service de navettes citoyennes",
-          "link": "https://www.lemonde.fr/chaleur-humaine/article/2026/11/24/comment-on-lutte-contre-l-isolement-avec-un-service-de-navettes-citoyennes_6814605_6125299.html",
-          "published": "2026-11-24T05:00:09+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Dans la Creu",
-          "image": "https://img.lemde.fr/2026/11/19/167/0/2000/1000/644/322/60/0/03886ea_upload-1-xkg15aogibb6-navettefauxfeltin-octobre2026-bynoisette-0006.jpg",
-          "other_news": true
-        },
-        {
           "title": "«Avec Omnibus X, le futur sera encore pire !» : 300 ONG défilent à Strasbourg contre les autorisations massives de pesticides",
           "link": "https://vert.eco/sante-environnement/avec-omnibus-x-le-futur-sera-encore-pire-300-ong-defilent-a-strasbourg-contre-les-autorisations-massives-de-pesticides/",
           "published": "2026-11-25T11:02:08+00:00",
@@ -1663,17 +1663,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Le sommet mondial sur le climat s’est prolongé de deux jours pour finalement échouer à aboutir à une décision politique finale. Le désaccord sur la so",
-          "image": null,
-          "other_news": true
-        },
-        {
-          "title": "«On les voit partout» : à la COP31, les lobbies turcs du charbon font leur business sur le dos du climat",
-          "link": "https://vert.eco/climat/on-les-voit-partout-a-la-cop31-les-lobbies-turcs-du-charbon-font-leur-business-sur-le-dos-du-climat/",
-          "published": "2026-11-20T05:00:00+00:00",
-          "source": "Vert Eco Articles",
-          "type": "news",
-          "language": "fr",
-          "summary": "Plusieurs entreprises minières et énergétiques, accusées de lourds dégâts environnementaux à travers le pays, figurent parmi les sponsors officiels de",
           "image": null,
           "other_news": true
         },
@@ -1807,17 +1796,6 @@
           "language": "en",
           "summary": "For the first time in more than 150 years, wild kiwi are roaming the hills surrounding Aotearoa New Zealand’s capital city, Wellington. The milestone",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24111922/Little-spotted_kiwi_Apteryx_owenii_4000-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Mongabay Kids launches Wild Guardians: A free education initiative to engage children with nature",
-          "link": "https://news.mongabay.com/short-article/2026/11/mongabay-kids-launches-wild-guardians-a-free-education-initiative-to-engage-children-with-nature/",
-          "published": "2026-11-23T19:22:18+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Mongabay Kids has launched Wild Guardians, a free multimedia educational series that connects upper elementary students with nature and inspires them",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/23191716/Exploring-and-protecting-waterways-still-768x512.jpg",
           "other_news": true
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:30:54.324244+00:00",
+  "generated_at": "2026-11-26T22:23:10.519818+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -25,19 +25,6 @@
           "language": "en",
           "summary": "BRUGES, Belgium — More than 800 people gathered for the 7th World Conference on Marine Biodiversity, held Nov. 17-20, in Bruges, Belgium. The conferen",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/25175341/7-banner-768x512.jpg",
-          "other_news": false
-        }
-      ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "Carbon dioxide could be up to 65% higher by 2100 without marine life, policy brief warns",
-          "link": "https://oceanographicmagazine.com/news/carbon-dioxide-could-be-up-to-65-higher-by-2100-without-marine-life-policy-brief-warns/",
-          "published": "2026-11-26T12:30:06+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A policy brief prepared for COP31 says climate models underplay the role of plankton, fish and other ocean life in locking carbon away – and urges cau",
-          "image": null,
           "other_news": false
         }
       ],
@@ -105,50 +92,6 @@
           "other_news": false
         },
         {
-          "title": "Deep-sea curiosities: A clam in an urchin’s throat and a glass salp",
-          "link": "https://oceanographicmagazine.com/news/deep-sea-curiosities-a-clam-in-an-urchins-throat-and-a-glass-salp/",
-          "published": "2026-11-25T16:31:50+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Two newly described deep-sea species - a clam living inside a sea urchin's throat and the first salp found only in the deep - reveal how much ocean li",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Great Barrier Reef on alert as strong El Niño raises bleaching risk",
-          "link": "https://oceanographicmagazine.com/news/great-barrier-reef-on-alert-as-strong-el-nino-raises-bleaching-risk/",
-          "published": "2026-11-25T09:49:46+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Australia's Reef Authority is stepping up monitoring and protection work as forecasters warn of a high chance of marine heatwaves and widespread coral",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Tuna body maintains mako ban, waters down shark finning reform",
-          "link": "https://oceanographicmagazine.com/news/tuna-body-maintains-mako-ban-waters-down-shark-finning-reform/",
-          "published": "2026-11-24T11:14:37+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Atlantic tuna nations have agreed a compromise on enforcing ICCAT's shark finning ban that conservationists warn is complex and risky, while keeping t",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Madeira’s marine protections paying off – but sharks alarmingly absent",
-          "link": "https://oceanographicmagazine.com/news/madeiras-marine-protections-paying-off-but-sharks-alarmingly-absent/",
-          "published": "2026-11-23T15:21:51+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A month-long expedition around the Portuguese archipelago recorded bigger fish and a recovering seal population inside protected areas, but fewer than",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Nations hail new shark finning rules in the Atlantic. Conservationists say Japan blocked better ones",
           "link": "https://news.mongabay.com/2026/11/nations-hail-new-shark-finning-rules-in-the-atlantic-conservationists-say-japan-blocked-better-ones/",
           "published": "2026-11-25T17:52:18+00:00",
@@ -170,17 +113,6 @@
           "language": "en",
           "summary": "Scientists and fishers study how these ‘reefs’ and the creatures living on them are transforming the ocean floor – and what it means for the fishing i",
           "image": "https://i.guim.co.uk/img/media/357c057ffd037975abe9fde2c30429a651d61667/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=a30e8f3fe5f441093f0f3cdfd6d9b71e",
-          "other_news": false
-        },
-        {
-          "title": "Warming seas could steer trawlers onto the cables that carry the internet",
-          "link": "https://oceanographicmagazine.com/news/warming-seas-could-steer-trawlers-onto-the-cables-that-carry-the-internet/",
-          "published": "2026-11-25T12:00:18+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "As fish move to cooler waters and fishing fleets follow, new research shows the hidden cables that connect the world could face damage in places once",
-          "image": null,
           "other_news": false
         },
         {
@@ -500,39 +432,6 @@
           "other_news": false
         },
         {
-          "title": "Seabird ‘spies’ reveal the vessels hidden from official tracking",
-          "link": "https://oceanographicmagazine.com/news/seabird-spies-reveal-the-vessels-hidden-from-official-tracking/",
-          "published": "2026-11-26T12:57:02+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Audio recorders carried by northern gannets and Balearic shearwaters reveal many vessels they encounter are missing from official tracking records, su",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Arsenic from Myanmar’s mines is poisoning rivers that feed the Mekong",
-          "link": "https://oceanographicmagazine.com/news/arsenic-from-myanmars-mines-is-poisoning-rivers-that-feed-the-mekong/",
-          "published": "2026-11-26T10:19:57+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Thai tests show dangerous arsenic in the Kok, Sai and Mekong, cutting off tap water and raising fears for fish, as China offers to help investigate\nTh",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "King tides, El Niño and rising seas leave California’s coastal communities facing record floods",
-          "link": "https://oceanographicmagazine.com/news/king-tides-el-nino-and-rising-seas-leave-californias-coastal-communities-facing-record-floods/",
-          "published": "2026-11-24T13:38:49+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Record-threatening floods on the US West Coast this week show how a warming ocean turns predictable natural events into serious risks for coastal comm",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "En images : de grandes marées inondent le littoral californien",
           "link": "https://www.lemonde.fr/international/video/2026/11/26/en-images-de-grandes-marees-inondent-le-littoral-californien_6815506_3210.html",
           "published": "2026-11-26T10:13:04+01:00",
@@ -641,34 +540,10 @@
           "summary": "Around 40 community representatives gathered early in the morning on Nov. 24 at a county assembly hall in Lamu, a town on an island off Kenya’s coast,",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/25201116/IMG_1286-768x512.jpg",
           "other_news": false
-        },
-        {
-          "title": "Global marine conservation gathering seeks solutions amid mounting ocean challenges",
-          "link": "https://news.mongabay.com/2026/11/global-marine-conservation-gathering-seeks-solutions-amid-mounting-ocean-challenges/",
-          "published": "2026-11-24T12:44:27+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "EDINBURGH — Ocean conservation efforts are being hindered by inadequate funding, as well as difficulties translating research into action, according t",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24113656/OceanImageBank_RichardVevers_20-1-768x512.jpg",
-          "other_news": false
         }
       ]
     },
     "To Watch / Read / Listen": {
-      "Sustainable Fisheries": [
-        {
-          "title": "Report exposes “injustice” in UK fishing as Defra defends quota",
-          "link": "https://oceanographicmagazine.com/news/report-exposes-injustice-in-uk-fishing-as-defra-defends-quota-reforms/",
-          "published": "2026-11-24T14:22:39+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The post Report exposes &#8220;injustice&#8221; in UK fishing as Defra defends quota appeared first on Oceanographic.",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Other Marine News": [
         {
           "title": "How the war in Iran turned the Gulf into a climate catastrophe – video explainer",
@@ -1448,6 +1323,17 @@
           "language": "fr",
           "summary": "Le sommet mondial sur le climat s’est prolongé de deux jours pour finalement échouer à aboutir à une décision politique finale. Le désaccord sur la so",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Community forests offer hope for conservation in DRC, but major hurdles remain",
+          "link": "https://news.mongabay.com/2026/11/community-forests-offer-hope-for-conservation-in-drc-but-major-hurdles-remain/",
+          "published": "2026-11-26T21:30:06+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "LUBUMBASHI, Democratic Republic of Congo — In the Democratic Republic of Congo, an initiative is underway to award community-based forestry land title",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/06/04211138/53271907835_62c5692ea0_k-768x512.jpg",
           "other_news": true
         },
         {

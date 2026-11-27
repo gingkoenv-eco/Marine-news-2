@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T22:23:10.519818+00:00",
+  "generated_at": "2026-11-27T06:01:13.766554+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -113,17 +113,6 @@
           "language": "en",
           "summary": "Scientists and fishers study how these ‘reefs’ and the creatures living on them are transforming the ocean floor – and what it means for the fishing i",
           "image": "https://i.guim.co.uk/img/media/357c057ffd037975abe9fde2c30429a651d61667/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=a30e8f3fe5f441093f0f3cdfd6d9b71e",
-          "other_news": false
-        },
-        {
-          "title": "As new season starts, Antarctic krill-fishing vessels face urgent conservation decision (commentary)",
-          "link": "https://news.mongabay.com/2026/11/as-new-season-starts-antarctic-krill-fishing-vessels-face-urgent-conservation-decision-commentary/",
-          "published": "2026-11-24T15:58:55+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Despite promising developments, the 27 member states of the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR) have again f",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/07/19160332/39356997232_d5d1276abb_k-e1689783869987-768x512.jpg",
           "other_news": false
         }
       ],
@@ -289,6 +278,17 @@
           "other_news": false
         },
         {
+          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-27T05:15:26+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
+          "other_news": false
+        },
+        {
           "title": "Second court defeat for Trump's deep-sea mining ambitions",
           "link": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-26T18:22:28+00:00",
@@ -297,17 +297,6 @@
           "language": "en",
           "summary": "Second judge rules against Trump administration's plans to lease areas of ocean floor and survey for mining.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c748/live/bfd18aa0-e9b1-11f1-859a-37130cd3a1d7.jpg",
-          "other_news": false
-        },
-        {
-          "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
-          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-26T17:38:56+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg",
           "other_news": false
         },
         {
@@ -476,24 +465,13 @@
           "other_news": false
         },
         {
-          "title": "Nucléaire, écorégions, ZFE… On a joué au jeu des 7 différences entre les programmes de Jean-Luc Mélenchon et Marine Tondelier",
-          "link": "https://vert.eco/politique/nucleaire-ecoregions-zfe-on-a-joue-au-jeu-des-7-differences-entre-les-programmes-de-jean-luc-melenchon-et-marine-tondelier/",
-          "published": "2026-11-20T10:37:26+00:00",
+          "title": "Détournement de fonds, «prêts illégaux»… Tout comprendre aux cinq affaires judiciaires en cours qui empoisonnent le RN",
+          "link": "https://vert.eco/rapports-de-force/detournement-de-fonds-prets-illegaux-tout-comprendre-aux-cinq-affaires-judiciaires-en-cours-qui-empoisonnent-le-rn/",
+          "published": "2026-11-27T05:00:00+00:00",
           "source": "Vert Eco Articles",
           "type": "news",
           "language": "fr",
-          "summary": "La patronne des Verts s’est dite «prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon», en rappelant qu’à l’Assemblée na",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Seeing Sea Country: how Traditional Owners are leading the way in caring for our oceans",
-          "link": "https://theconversation.com/seeing-sea-country-how-traditional-owners-are-leading-the-way-in-caring-for-our-oceans-294478",
-          "published": "2026-11-25T19:08:16+00:00",
-          "source": "The Conversation",
-          "type": "news",
-          "language": "en",
-          "summary": "First Nations communities have cared for Australia’s oceans over millenia.",
+          "summary": "En plus du procès retentissant qui a conduit à la condamnation de Marine Le Pen et de plusieurs membres du Rassemblement national pour détournement de",
           "image": null,
           "other_news": false
         },
@@ -658,6 +636,17 @@
           "summary": "Donald Trump avait tenté de repousser l’explosion en raison du tollé suscité, mais elle a bien eu lieu, malgré les risques d’exposition au plomb.",
           "image": "https://img.lemde.fr/2026/11/25/183/0/2200/1100/644/322/60/0/0fcf154_ftp-1-qh2kkjwgbrdl-2026-11-25t153211z-1522438814-rc23voa1k5ls-rtrmadp-3-iowa-army-detonation.JPG",
           "other_news": true
+        },
+        {
+          "title": "Soft plastic recycling in Australia is struggling. How do we fix it?",
+          "link": "https://theconversation.com/soft-plastic-recycling-in-australia-is-struggling-how-do-we-fix-it-297148",
+          "published": "2026-11-27T01:24:52+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Without more action, we risk watching more recycling companies go bust – or else relying on ongoing injections of taxpayer funding.",
+          "image": null,
+          "other_news": true
         }
       ],
       "Fisheries & Climate Change Ecosystem": [
@@ -717,29 +706,29 @@
           "summary": "I have followed the talks for years as a policy expert and former climate envoy for Germany, and I’m seeing growing concern about the rising costs and",
           "image": null,
           "other_news": true
+        },
+        {
+          "title": "Australia’s new gas reservation policy aims to keep supply secure and prices low. Will it work?",
+          "link": "https://theconversation.com/australias-new-gas-reservation-policy-aims-to-keep-supply-secure-and-prices-low-will-it-work-297736",
+          "published": "2026-11-27T04:29:46+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Gas exporters will have to keep up to 20% of their production for domestic markets in a bid to secure supply and bring down prices.",
+          "image": null,
+          "other_news": true
         }
       ],
       "Other Marine News": [
         {
-          "title": "New York's annual Thanksgiving Parade threatened by approaching storm",
-          "link": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-25T14:41:42+00:00",
+          "title": "Floating nature islands installed in parks as Glasgow Games legacy",
+          "link": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-26T22:54:18+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bf7/live/ebffd790-e8c5-11f1-ac76-db9e97f93d67.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Delia Smith joins opponents of £1.2bn data centre",
-          "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-24T11:04:36+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The TV cook and author is worried about the environmental impact of the proposed Keswick facility.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b418/live/76055eb0-e7e0-11f1-82bb-6b3be4dcbf70.jpg",
+          "summary": "The islands, being planted in five Glasgow parks, are designed to encourage wildlife and help clean the water.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e53f/live/7d190c10-e8ee-11f1-8808-1d4222955d7e.jpg",
           "other_news": true
         },
         {
@@ -1271,17 +1260,6 @@
           "other_news": true
         },
         {
-          "title": "En Espagne, pays aux avant-postes du changement climatique, l’environnement reste le grand absent de la campagne électorale",
-          "link": "https://www.lemonde.fr/international/article/2026/11/25/en-espagne-pays-aux-avant-postes-du-changement-climatique-l-environnement-reste-le-grand-absent-de-la-campagne-electorale_6815056_3210.html",
-          "published": "2026-11-25T08:00:03+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Malgré les catastrophes climatiques à répétition, la lutte contre le réchauffement peine à s’imposer dans le débat public, victime des clivages politi",
-          "image": "https://img.lemde.fr/2026/07/26/404/0/5400/2700/644/322/60/0/65891ff_ftp-1-xqdllzjdyar2-5712073-01-06.jpg",
-          "other_news": true
-        },
-        {
           "title": "«Avec Omnibus X, le futur sera encore pire !» : 300 ONG défilent à Strasbourg contre les autorisations massives de pesticides",
           "link": "https://vert.eco/sante-environnement/avec-omnibus-x-le-futur-sera-encore-pire-300-ong-defilent-a-strasbourg-contre-les-autorisations-massives-de-pesticides/",
           "published": "2026-11-25T11:02:08+00:00",
@@ -1322,6 +1300,28 @@
           "type": "news",
           "language": "fr",
           "summary": "Le sommet mondial sur le climat s’est prolongé de deux jours pour finalement échouer à aboutir à une décision politique finale. Le désaccord sur la so",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Has Australia been rigged for the rich?",
+          "link": "https://theconversation.com/has-australia-been-rigged-for-the-rich-291461",
+          "published": "2026-11-27T04:22:18+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "Why are Australia’s billionaires getting wealthier and wealthier when the rest of us aren’t? We’ve mapped the tactics the ultra-rich use to amass thei",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "The world’s ice is in real peril from climate change – and will keep melting even if we reach net zero",
+          "link": "https://theconversation.com/the-worlds-ice-is-in-real-peril-from-climate-change-and-will-keep-melting-even-if-we-reach-net-zero-297062",
+          "published": "2026-11-27T04:21:12+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "As temperatures overshoot 1.5°C, some ice loss may be irreversible. Rapid emissions cuts can still preserve parts of the cryosphere and limit future s",
           "image": null,
           "other_news": true
         },
@@ -1411,17 +1411,6 @@
           "language": "en",
           "summary": "The government of Ecuador has approved a new 10-year plan to promote economic activities that make use of the country’s biological resources, while al",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24165413/AP26037567996653-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Indigenous peoples leave collapsed climate talks with promises on hold",
-          "link": "https://news.mongabay.com/2026/11/indigenous-peoples-leave-collapsed-climate-talks-with-promises-on-hold/",
-          "published": "2026-11-24T14:24:04+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "ANTALYA, Türkiye — A year ago, a record number of Indigenous people attended the United Nations climate summit in Belém, Brazil. Although there as obs",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2023/11/08145538/ACASCIO_Jepirachi_01-768x512.jpg",
           "other_news": true
         }
       ]

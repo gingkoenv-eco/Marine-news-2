@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:29:45.402942+00:00",
+  "generated_at": "2026-11-27T21:16:36.550297+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -25,6 +25,19 @@
           "language": "en",
           "summary": "BRUGES, Belgium — More than 800 people gathered for the 7th World Conference on Marine Biodiversity, held Nov. 17-20, in Bruges, Belgium. The conferen",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/25175341/7-banner-768x512.jpg",
+          "other_news": false
+        }
+      ],
+      "Species Migration & Habitat Change": [
+        {
+          "title": "How the UK’s net migration figure hit its target after years of government promises",
+          "link": "https://theconversation.com/how-the-uks-net-migration-figure-hit-its-target-after-years-of-government-promises-297787",
+          "published": "2026-11-27T16:38:50+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The latest figures are down to the tens of thousands.",
+          "image": null,
           "other_news": false
         }
       ],
@@ -291,7 +304,7 @@
         {
           "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
           "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-27T17:06:56+00:00",
+          "published": "2026-11-27T18:45:05+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -351,6 +364,17 @@
           "type": "news",
           "language": "en",
           "summary": "A method for measuring the world’s crucial carbon sinks finds that the ocean’s so-far-increasing ability to help might taper off in the future.",
+          "image": null,
+          "other_news": false
+        },
+        {
+          "title": "‘Sinking’ African megacities will expose seven million people to flooding by 2050",
+          "link": "https://www.carbonbrief.org/sinking-african-megacities-will-expose-seven-million-people-to-flooding-by-2050",
+          "published": "2026-11-27T19:00:00+00:00",
+          "source": "Carbonbrief",
+          "type": "news",
+          "language": "en",
+          "summary": "Sinking land and rising seas could expose more than seven million people living in Africa’s coastal “megacities” to flooding by&#8230;\nThe post ‘Sinki",
           "image": null,
           "other_news": false
         },
@@ -809,17 +833,6 @@
           "other_news": true
         },
         {
-          "title": "What's next after no deal at COP31 climate summit?",
-          "link": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-22T18:28:48+00:00",
-          "source": "BBC Ocean & Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0084/live/3dd7fdf0-e69f-11f1-a094-5fdc692f3e33.jpg",
-          "other_news": true
-        },
-        {
           "title": "BBC Inside Science",
           "link": "https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-12T21:00:00+00:00",
@@ -1238,17 +1251,6 @@
           "other_news": true
         },
         {
-          "title": "Analysis: China’s quarterly CO2 falls 3% in largest drop since Covid",
-          "link": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
-          "published": "2026-11-06T00:01:00+00:00",
-          "source": "Carbonbrief",
-          "type": "news",
-          "language": "en",
-          "summary": "China’s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to&#8230;\nThe post Analysis: China’s",
-          "image": null,
-          "other_news": true
-        },
-        {
           "title": "Les paysans se battent pour l'argent de la PAC, mais celui-ci risque de servir l'agriculture intensive",
           "link": "https://reporterre.net/Les-paysans-se-battent-pour-l-argent-de-la-PAC-mais-celui-ci-risque-de-servir-l",
           "published": "2026-11-27T14:00:00+00:00",
@@ -1323,17 +1325,6 @@
           "language": "fr",
           "summary": "Au mois d’octobre, la législation népalaise avait été modifiée pour réduire de douze ans à environ six semaines le délai d’attente pour déclarer des d",
           "image": "https://img.lemde.fr/2026/11/23/504/0/6000/3000/644/322/60/0/aa02f78_ftp-1-qz7yu6gvpyzr-2026-11-23t160819z-1959545760-rc2ntoaurdnl-rtrmadp-3-nepal-floods.JPG",
-          "other_news": true
-        },
-        {
-          "title": "Les syndicats d’agriculteurs montent au créneau avant des discussions-clés sur la nouvelle politique agricole commune",
-          "link": "https://www.lemonde.fr/economie/article/2026/11/26/les-syndicats-d-agriculteurs-montent-au-creneau-avant-des-discussions-cles-sur-la-nouvelle-politique-agricole-commune_6815465_3234.html",
-          "published": "2026-11-26T05:00:20+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le budget de la future politique agricole commune dépendra des négociations qui entrent dans une phase cruciale, jeudi 26 novembre, à Bruxelles. Des r",
-          "image": "https://img.lemde.fr/2026/11/25/684/0/8192/4096/644/322/60/0/2abc071_ftp-1-nbr5ghsvqhl2-afp-d8ll2qf.jpg",
           "other_news": true
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T06:01:13.766554+00:00",
+  "generated_at": "2026-11-27T16:41:16.571394+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -81,14 +81,25 @@
           "other_news": false
         },
         {
-          "title": "Whitehouse calls on PM to help save lake fish",
-          "link": "https://www.bbc.co.uk/news/articles/c6808pxrzy5po?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-26T06:05:36+00:00",
-          "source": "BBC Ocean & Marine",
+          "title": "A tiny deep-sea fish eaten 42 years ago has now been named a new species",
+          "link": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/",
+          "published": "2026-11-27T12:40:25+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "The comedian warns extinction beckons for Arctic charr in Windermere after thousands of years.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cbf/live/bcc47080-e997-11f1-b880-15b494ba858d.jpg",
+          "summary": "A new-to-science species of deep-sea fish has been described from a single specimen found in the stomach contents of a predatory fish that ate it in 1",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/27123836/Web%E7%94%A8_%E3%83%9E%E3%82%B5%E3%83%A0%E3%83%8D%E3%83%A4%E3%82%BB%E3%83%A0%E3%83%84_Fig.1_cut2-768x512.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Whales return to Patagonia, but face new threats in Argentina",
+          "link": "https://news.mongabay.com/2026/11/whales-return-to-patagonia-but-face-new-threats-in-argentina/",
+          "published": "2026-11-27T11:07:04+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Whales are coming back to Argentina’s coast. Decades after commercial hunting decimated their populations, different species of cetaceans are once aga",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/26224021/001-Banner-768x512.jpg",
           "other_news": false
         },
         {
@@ -99,7 +110,7 @@
           "type": "news",
           "language": "en",
           "summary": "VILAMOURA, Portugal — Shark finning entails slashing fins off sharks and dumping the bodies into the sea, often while they’re still alive. In the Atla",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/25134732/7-1-768x512-1.jpg",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/25134732/7-1-768x512.jpg",
           "other_news": false
         }
       ],
@@ -129,6 +140,19 @@
           "other_news": false
         }
       ],
+      "Nature-Based Solutions & Restoration": [
+        {
+          "title": "Aerial photos show recovery of Florida Bay, US, as restoration sends Everglades water",
+          "link": "https://news.mongabay.com/custom-story/2026/11/aerial-photos-show-recovery-of-florida-bay-us-as-restoration-sends-everglades-water/",
+          "published": "2026-11-27T14:04:23+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Freshwater flows into Florida Bay, significantly reduced by decades of Everglades drainage, are slowly increasing under the Comprehensive Everglades R",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/27120854/20240510untitled250-Enhanced-NR-768x512.jpg",
+          "other_news": false
+        }
+      ],
       "Deep Ocean & Mesophotic Ecosystems": [
         {
           "title": "‘The Pacific is not for sale’: outcry after US holds first deep sea mining lease sale near American Samoa",
@@ -139,19 +163,6 @@
           "language": "en",
           "summary": "Multi-million dollar sale comes despite a federal judge in Hawaii voiding the environmental clearance it had been given to proceed The US has carried",
           "image": "https://i.guim.co.uk/img/media/52db2ad2ef1b34df495e559d0c7e7937ed3973ec/275_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=fb3f05b6064c43c19561581d194d92f1",
-          "other_news": false
-        }
-      ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "Young turtles find refuge in both natural and artificial wetlands in UAE – new study",
-          "link": "https://theconversation.com/young-turtles-find-refuge-in-both-natural-and-artificial-wetlands-in-uae-new-study-295707",
-          "published": "2026-11-13T10:16:11+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "A large basin was never used for its intended recreational purposes and has since been incorporated into a marine protected area alongside coastal man",
-          "image": null,
           "other_news": false
         }
       ],
@@ -278,6 +289,17 @@
           "other_news": false
         },
         {
+          "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+          "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-27T14:49:59+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/6be8b890-ea6b-11f1-99b6-a35a62fa4264.jpg",
+          "other_news": false
+        },
+        {
           "title": "Major Thanksgiving storm brings flooding, flight delays across US",
           "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-27T05:15:26+00:00",
@@ -285,7 +307,7 @@
           "type": "news",
           "language": "en",
           "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5163/live/6a7c75a0-ea2f-11f1-b33b-b39c81e690e4.jpg",
           "other_news": false
         },
         {
@@ -307,17 +329,6 @@
           "type": "news",
           "language": "fr",
           "summary": "Une approche non invasive se fonde sur l’étude de fragments d’ADN, contenus dans l’urine, le sang ou le mucus de poissons exposés à des contaminants d",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "The SS United States has been deliberately sunk – this is how marine life will colonise the world’s largest artificial reef",
-          "link": "https://theconversation.com/the-ss-united-states-has-been-deliberately-sunk-this-is-how-marine-life-will-colonise-the-worlds-largest-artificial-reef-294758",
-          "published": "2026-11-12T17:42:17+00:00",
-          "source": "The Conversation UK",
-          "type": "news",
-          "language": "en",
-          "summary": "A month by month guide, by a marine ecologist and keen scuba diver.",
           "image": null,
           "other_news": false
         },
@@ -421,6 +432,28 @@
           "other_news": false
         },
         {
+          "title": "Après le naufrage d’un pétrolier-chimiquier au large d’Ibiza, course contre la montre en Espagne pour éviter une marée noire",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/27/apres-le-naufrage-d-un-petrolier-chimiquier-au-large-d-ibiza-course-contre-la-montre-en-espagne-pour-eviter-une-maree-noire_6815870_3244.html",
+          "published": "2026-11-27T15:04:59+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le navire « Med Emre », battant pavillon maltais et qui transportait 7 000 tonnes de gazole, s’est retourné près des Baléares, dans la nuit de mercred",
+          "image": "https://img.lemde.fr/2026/11/27/368/0/4032/2016/644/322/60/0/a51e310_ftp-1-16hou3nyskob-afp-d8tn7nq.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Tempêtes aux Etats-Unis : plus de 900 000 foyers sans électricité sur la Côte est le jour de Thanksgiving",
+          "link": "https://www.lemonde.fr/international/article/2026/11/27/tempetes-aux-etats-unis-plus-de-900-000-foyers-sans-electricite-sur-la-cote-est-le-jour-de-thanksgiving_6815813_3210.html",
+          "published": "2026-11-27T08:29:32+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "De fortes pluies, du vent violent et des inondations côtières ont affecté l’est du pays en ce jour férié aux Etats-Unis.",
+          "image": "https://img.lemde.fr/2026/11/26/250/0/3000/1500/644/322/60/0/749bdf1_ftp-1-izsih3aadf87-2026-11-26t232342z-1804723672-rc28voaf65ho-rtrmadp-3-usa-storm.JPG",
+          "other_news": false
+        },
+        {
           "title": "En images : de grandes marées inondent le littoral californien",
           "link": "https://www.lemonde.fr/international/video/2026/11/26/en-images-de-grandes-marees-inondent-le-littoral-californien_6815506_3210.html",
           "published": "2026-11-26T10:13:04+01:00",
@@ -434,7 +467,7 @@
         {
           "title": "Après avoir mangé des huîtres en Floride, elle meurt douze heures après son admission à l’hôpital en France",
           "link": "https://www.lemonde.fr/realites-biomedicales/article/2026/11/26/apres-avoir-mange-des-huitres-en-floride-elle-meurt-douze-heures-apres-son-admission-a-l-hopital-en-france_6815495_6579630.html",
-          "published": "2026-11-26T09:29:51+01:00",
+          "published": "2026-11-26T09:29:50+01:00",
           "source": "Le Monde Planète",
           "type": "news",
           "language": "fr",
@@ -451,17 +484,6 @@
           "language": "fr",
           "summary": "Au sud de la métropole californienne, les habitants de la ville de Pacifica ont vu des vagues gigantesques briser le ponton et inonder les rues et les",
           "image": "https://img.lemde.fr/2026/11/25/270/0/5165/2582/644/322/60/0/5bc58a3_ftp-1-drkog6jquyhb-afp-d8mf7dx.jpg",
-          "other_news": false
-        },
-        {
-          "title": "Cargo « Miro-G » échoué dans les Landes : une enquête judiciaire ouverte, la préfecture maritime évoque une « erreur de navigation »",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/25/une-enquete-judiciaire-ouverte-sur-l-echouement-du-cargo-miro-g-dans-les-landes_6815168_3244.html",
-          "published": "2026-11-25T20:20:58+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Le « Miro-G », vraquier de 169 mètres qui naviguait à vide, s’est échoué dans la nuit de jeudi à vendredi sur la plage de Cap-de-l’Homy. Remis à flot",
-          "image": "https://img.lemde.fr/2026/11/24/691/0/5806/2903/644/322/60/0/8617b6d_ftp-1-bt4esyfg2wiy-90efcf7b37344b96955c59895e513c44-0-c5e60423907a4f338985fa3cc8e2656a.jpg",
           "other_news": false
         },
         {
@@ -616,6 +638,17 @@
           "other_news": true
         },
         {
+          "title": "Espagne : le navire naufragé au large d’Ibiza va être « remorqué », annonce le premier ministre, Pedro Sanchez",
+          "link": "https://www.lemonde.fr/international/article/2026/11/27/espagne-le-navire-naufrage-au-large-d-ibiza-va-etre-remorque-annonce-le-premier-ministre-pedro-sanchez_6815846_3210.html",
+          "published": "2026-11-27T11:57:11+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "Le chef du gouvernement espagnol ainsi que l’entreprise propriétaire du navire-citerne assurent qu’il n’y a pas de fuite de carburant ni de pollution.",
+          "image": "https://img.lemde.fr/2026/11/26/121/0/3824/1912/644/322/60/0/332c0f5_ftp-1-02cosxuc6qjo-2026-11-26t140449z-1584069850-rc2pvoatup20-rtrmadp-3-spain-accident.JPG",
+          "other_news": true
+        },
+        {
           "title": "Espagne : le naufrage d’un pétrolier chargé de diesel fait un mort au large d’Ibiza, sans « indice de pollution » provisoirement observé",
           "link": "https://www.lemonde.fr/international/article/2026/11/26/espagne-un-petrolier-charge-de-diesel-coule-au-large-d-ibiza-faisant-un-mort_6815505_3210.html",
           "published": "2026-11-26T10:06:10+01:00",
@@ -624,17 +657,6 @@
           "language": "fr",
           "summary": "L’équipage de 17 membres a été secouru, mais l’un d’entre eux a ensuite été déclaré mort à l’hôpital, à Ibiza, selon les secours de l’archipel des Bal",
           "image": "https://img.lemde.fr/2026/11/26/198/0/1600/800/644/322/60/0/d42315c_ftp-1-cmrgo2l1yazb-2026-11-26t124716z-1551806580-rc2ovoawq74h-rtrmadp-3-spain-accident.JPG",
-          "other_news": true
-        },
-        {
-          "title": "L’armée américaine fait exploser des tonnes de matériel militaire vieillissant et toxique ; des habitants appelés à évacuer face aux risques de pollution",
-          "link": "https://www.lemonde.fr/international/article/2026/11/25/l-armee-americaine-fait-exploser-des-tonnes-de-materiel-militaire-vieillissant-et-toxique_6815143_3210.html",
-          "published": "2026-11-25T17:37:30+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Donald Trump avait tenté de repousser l’explosion en raison du tollé suscité, mais elle a bien eu lieu, malgré les risques d’exposition au plomb.",
-          "image": "https://img.lemde.fr/2026/11/25/183/0/2200/1100/644/322/60/0/0fcf154_ftp-1-qh2kkjwgbrdl-2026-11-25t153211z-1522438814-rc23voa1k5ls-rtrmadp-3-iowa-army-detonation.JPG",
           "other_news": true
         },
         {
@@ -647,17 +669,39 @@
           "summary": "Without more action, we risk watching more recycling companies go bust – or else relying on ongoing injections of taxpayer funding.",
           "image": null,
           "other_news": true
-        }
-      ],
-      "Fisheries & Climate Change Ecosystem": [
+        },
         {
-          "title": "UK appoints new climate security envoy – here’s what she could change",
-          "link": "https://theconversation.com/uk-appoints-new-climate-security-envoy-heres-what-she-could-change-296525",
-          "published": "2026-11-12T15:15:34+00:00",
-          "source": "The Conversation UK",
+          "title": "In Republic of Congo, residents and a scientist take on a fight against lead pollution",
+          "link": "https://news.mongabay.com/2026/11/in-republic-of-congo-residents-and-a-scientist-take-on-a-fight-against-lead-pollution/",
+          "published": "2026-11-27T15:19:59+00:00",
+          "source": "Mongabay Marine",
           "type": "news",
           "language": "en",
-          "summary": "The state of national food security will need to be a key focus.",
+          "summary": "Nearly 120 residents of Vindoulou, a neighborhood in Pointe-Noire, Republic of Congo, have filed a civil claim before the city’s High Court in relatio",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/27095605/Blood-tests-in-2023-768x512.png",
+          "other_news": true
+        },
+        {
+          "title": "Zambian court again delays copper miner’s bid to block pollution lawsuit",
+          "link": "https://news.mongabay.com/short-article/2026/11/zambian-court-again-delays-copper-miners-bid-to-block-pollution-lawsuit/",
+          "published": "2026-11-27T10:27:47+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Zambia’s top court has postponed for the fourth time an appeal by copper miner Sino Metals, which is trying to block a lawsuit against it from proceed",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/27102318/PHOTO-2026-10-09-22-07-08-3-768x512.jpg",
+          "other_news": true
+        }
+      ],
+      "Marine Biodiversity & Conservation": [
+        {
+          "title": "Climate change could dramatically alter habitats for Britain’s birds of prey – new research",
+          "link": "https://theconversation.com/climate-change-could-dramatically-alter-habitats-for-britains-birds-of-prey-new-research-297611",
+          "published": "2026-11-27T10:29:28+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "There could be winners and losers among Britain’s raptors as temperatures rise.",
           "image": null,
           "other_news": true
         }
@@ -723,7 +767,7 @@
         {
           "title": "Floating nature islands installed in parks as Glasgow Games legacy",
           "link": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-26T22:54:18+00:00",
+          "published": "2026-11-27T06:19:13+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
@@ -1205,6 +1249,17 @@
           "other_news": true
         },
         {
+          "title": "« Une course éternelle à l'agrandissement » : l'agriculture durable, grande perdante de la future PAC ?",
+          "link": "https://reporterre.net/Une-course-eternelle-a-l-agrandissement-l-agriculture-durable-grande-perdante-de-la",
+          "published": "2026-11-27T14:00:00+00:00",
+          "source": "Reporterre",
+          "type": "news",
+          "language": "fr",
+          "summary": "État et syndicats agricoles français se battent pour le maintien du budget national pour les prochaines années de la Politique a",
+          "image": "https://reporterre.net/local/cache-vignettes/L700xH467/farmxbrux-d63d1.jpg?1795788001",
+          "other_news": true
+        },
+        {
           "title": "Yannick Jadot et des écologistes pro-Glucksmann fondent leur parti politique",
           "link": "https://reporterre.net/Yannick-Jadot-et-des-ecologistes-pro-Glucksmann-fondent-leur-parti-politique",
           "published": "2026-11-24T11:16:42+00:00",
@@ -1235,6 +1290,17 @@
           "language": "fr",
           "summary": "La COP31 s'est achevée sur un échec monumental. Le projet d'accord, unanimement décrié par les ONG écologistes, a été rejeté par",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/toutescopessontechec-90487.jpg?1795355462",
+          "other_news": true
+        },
+        {
+          "title": "Jézabel Couppey-Soubeyran, économiste : « Pour mettre la politique monétaire au service de la transition écologique, c’est un “pivert” qu’il faut à la tête de la BCE »",
+          "link": "https://www.lemonde.fr/idees/article/2026/11/27/jezabel-couppey-soubeyran-economiste-pour-mettre-la-politique-monetaire-au-service-de-la-transition-ecologique-c-est-un-pic-vert-qu-il-faut-a-la-tete-de-la-bce_6815809_3232.html",
+          "published": "2026-11-27T07:00:07+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "La Banque centrale européenne, qui va changer de présidence au début de 2027, doit faire usage d’outils comme les taux différenciés afin d’intégrer le",
+          "image": "https://img.lemde.fr/2026/11/25/526/0/7667/3833/644/322/60/0/be91362_upload-1-ly5f327vqhpk-000-36zg4b3.jpg",
           "other_news": true
         },
         {
@@ -1304,6 +1370,28 @@
           "other_news": true
         },
         {
+          "title": "We’ve documented almost 1,000 years lost to wrongful convictions across Europe – and we’re still counting",
+          "link": "https://theconversation.com/weve-documented-almost-1-000-years-lost-to-wrongful-convictions-across-europe-and-were-still-counting-294759",
+          "published": "2026-11-27T10:43:39+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "The European Registry of Exonerations has so far documented 150 cases in 20 countries since 1981.",
+          "image": null,
+          "other_news": true
+        },
+        {
+          "title": "What Cop31 tells us about small island states’ leadership in the global climate debate",
+          "link": "https://theconversation.com/what-cop31-tells-us-about-small-island-states-leadership-in-the-global-climate-debate-297568",
+          "published": "2026-11-27T07:39:37+00:00",
+          "source": "The Conversation",
+          "type": "news",
+          "language": "en",
+          "summary": "A look at the power dynamics at the Cop31 talks. Where do island states fit in, specifically those in the Pacific – a primary climate driver and one o",
+          "image": null,
+          "other_news": true
+        },
+        {
           "title": "Has Australia been rigged for the rich?",
           "link": "https://theconversation.com/has-australia-been-rigged-for-the-rich-291461",
           "published": "2026-11-27T04:22:18+00:00",
@@ -1323,6 +1411,17 @@
           "language": "en",
           "summary": "As temperatures overshoot 1.5°C, some ice loss may be irreversible. Rapid emissions cuts can still preserve parts of the cryosphere and limit future s",
           "image": null,
+          "other_news": true
+        },
+        {
+          "title": "Meet the few Liberian women rangers in a race to protect wildlife and forests",
+          "link": "https://news.mongabay.com/2026/11/meet-the-few-liberian-women-rangers-in-a-race-to-protect-wildlife-and-forests/",
+          "published": "2026-11-27T08:00:23+00:00",
+          "source": "Mongabay Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "ZORTAPA, Liberia — Grace Kotee-Zansi is living a dream she had as a child: patrolling the East Nimba Nature Reserve (ENNR) as a biologist ranger to st",
+          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/25142737/Hawa-Johnson-1-768x512.jpg",
           "other_news": true
         },
         {
@@ -1367,50 +1466,6 @@
           "language": "en",
           "summary": "CHITWAN NATIONAL PARK, Nepal — Perched some 3 meters off the ground, or about 10 feet, on the back of Asian elephants, workers traverse Nepal’s dense",
           "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/25072502/Doellinger_ElephantConservation-11-nepal-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "‘We don’t want it’: First Nations reject plan to release mining waste into water source",
-          "link": "https://news.mongabay.com/podcast/2026/11/we-dont-want-it-first-nations-reject-plan-to-release-mining-waste-into-water-source/",
-          "published": "2026-11-24T19:53:25+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Suncor, Canada’s second-largest oil company, wants to release treated wastewater from mining oil in Alberta’s tar sands into a drinking water source f",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/22045632/Chief-Alan-Adams-768x512.jpeg",
-          "other_news": true
-        },
-        {
-          "title": "How a feminist lens is shaping my climate reporting (commentary)",
-          "link": "https://news.mongabay.com/2026/11/how-a-feminist-lens-is-shaping-my-climate-reporting-commentary/",
-          "published": "2026-11-24T18:35:59+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "In university, I took a unit called Environmental Journalism, taught by one of my favorite lecturers. I paid enough attention to pass, but certainly n",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24103014/17756852284_8522e53684_women-farmers-africa-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Clouded tiger cats are notoriously hard to catch. This young researcher caught seven",
-          "link": "https://news.mongabay.com/2026/11/clouded-tiger-cats-are-notoriously-hard-to-catch-this-young-researcher-caught-seven/",
-          "published": "2026-11-24T17:41:52+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "Tadeu de Oliveira, founder and leader of the Tiger Cats Conservation Initiative, a group of scientists committed to studying the smallest wildcats of",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24023247/Amaia2_with_oncilla_Elina_Lagcher-768x512.jpg",
-          "other_news": true
-        },
-        {
-          "title": "Ecuador’s bioeconomy plan vows sustainability, but faces a test of government priorities",
-          "link": "https://news.mongabay.com/2026/11/ecuadors-bioeconomy-plan-vows-sustainability-but-faces-a-test-of-government-priorities/",
-          "published": "2026-11-24T17:03:56+00:00",
-          "source": "Mongabay Marine",
-          "type": "news",
-          "language": "en",
-          "summary": "The government of Ecuador has approved a new 10-year plan to promote economic activities that make use of the country’s biological resources, while al",
-          "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/24165413/AP26037567996653-768x512.jpg",
           "other_news": true
         }
       ]

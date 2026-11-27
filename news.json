@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:41:16.571394+00:00",
+  "generated_at": "2026-11-27T17:29:45.402942+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -291,12 +291,23 @@
         {
           "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
           "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-27T14:49:59+00:00",
+          "published": "2026-11-27T17:06:56+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
           "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/6be8b890-ea6b-11f1-99b6-a35a62fa4264.jpg",
+          "other_news": false
+        },
+        {
+          "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+          "link": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-27T16:46:47+00:00",
+          "source": "BBC Ocean & Marine",
+          "type": "news",
+          "language": "en",
+          "summary": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b3/live/b600e9f0-ea81-11f1-a094-5fdc692f3e33.jpg",
           "other_news": false
         },
         {
@@ -473,17 +484,6 @@
           "language": "fr",
           "summary": "Présente dans les eaux côtières chaudes et saumâtres, la bactérie « Vibrio vulnificus » peut provoquer une infection nécrosante de la peau et des tiss",
           "image": "https://img.lemde.fr/2026/11/25/51/0/1177/588/644/322/60/0/b23bbd2_upload-1-gaxsh6xqs250-vibrio-vulnificus.png",
-          "other_news": false
-        },
-        {
-          "title": "Des grandes marées historiques inondent le littoral californien, San Francisco évite les dévastations redoutées",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/26/des-grandes-marees-historiques-inondent-le-littoral-californien-san-francisco-evite-les-devastations-redoutees_6815334_3244.html",
-          "published": "2026-11-26T03:11:54+01:00",
-          "source": "Le Monde Planète",
-          "type": "news",
-          "language": "fr",
-          "summary": "Au sud de la métropole californienne, les habitants de la ville de Pacifica ont vu des vagues gigantesques briser le ponton et inonder les rues et les",
-          "image": "https://img.lemde.fr/2026/11/25/270/0/5165/2582/644/322/60/0/5bc58a3_ftp-1-drkog6jquyhb-afp-d8mf7dx.jpg",
           "other_news": false
         },
         {
@@ -1249,8 +1249,8 @@
           "other_news": true
         },
         {
-          "title": "« Une course éternelle à l'agrandissement » : l'agriculture durable, grande perdante de la future PAC ?",
-          "link": "https://reporterre.net/Une-course-eternelle-a-l-agrandissement-l-agriculture-durable-grande-perdante-de-la",
+          "title": "Les paysans se battent pour l'argent de la PAC, mais celui-ci risque de servir l'agriculture intensive",
+          "link": "https://reporterre.net/Les-paysans-se-battent-pour-l-argent-de-la-PAC-mais-celui-ci-risque-de-servir-l",
           "published": "2026-11-27T14:00:00+00:00",
           "source": "Reporterre",
           "type": "news",
@@ -1290,6 +1290,17 @@
           "language": "fr",
           "summary": "La COP31 s'est achevée sur un échec monumental. Le projet d'accord, unanimement décrié par les ONG écologistes, a été rejeté par",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/toutescopessontechec-90487.jpg?1795355462",
+          "other_news": true
+        },
+        {
+          "title": "Pourquoi la rougeole, maladie humaine la plus contagieuse connue, flambe de nouveau dans de nombreux pays",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/27/pourquoi-la-rougeole-maladie-humaine-la-plus-contagieuse-connue-flambe-de-nouveau-dans-de-nombreux-pays_6815908_3244.html",
+          "published": "2026-11-27T18:00:05+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "A la suite d’un affaiblissement de la couverture vaccinale sous l’effet des discours et politiques antivax, la rougeole s’étend notamment en Amérique",
+          "image": "https://img.lemde.fr/2026/11/25/655/0/7859/3929/644/322/60/0/31ad98f_ftp-1-pkjesejbdd7o-afp-d8lr8be.jpg",
           "other_news": true
         },
         {

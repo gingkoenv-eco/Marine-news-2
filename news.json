@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T20:01:10.320951+00:00",
+  "generated_at": "2026-11-28T20:58:13.232489+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -37,19 +37,6 @@
           "type": "news",
           "language": "en",
           "summary": "The latest figures are down to the tens of thousands.",
-          "image": null,
-          "other_news": false
-        }
-      ],
-      "Marine Protected Areas & Policy": [
-        {
-          "title": "Carbon dioxide could be up to 65% higher by 2100 without marine life, policy brief warns",
-          "link": "https://oceanographicmagazine.com/news/carbon-dioxide-could-be-up-to-65-higher-by-2100-without-marine-life-policy-brief-warns/",
-          "published": "2026-11-26T12:30:06+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A policy brief prepared for COP31 says climate models underplay the role of plankton, fish and other ocean life in locking carbon away – and urges cau",
           "image": null,
           "other_news": false
         }
@@ -118,39 +105,6 @@
           "other_news": false
         },
         {
-          "title": "Culling seals and sea lions unlikely to help salmon, study finds",
-          "link": "https://oceanographicmagazine.com/news/culling-seals-and-sea-lions-unlikely-to-help-salmon-study-finds/",
-          "published": "2026-11-27T11:25:25+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "A new food-web model suggests that removing marine predators off the US West Coast would let other species fill the gap, leaving struggling salmon lit",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Deep-sea curiosities: A clam in an urchin’s throat and a glass salp",
-          "link": "https://oceanographicmagazine.com/news/deep-sea-curiosities-a-clam-in-an-urchins-throat-and-a-glass-salp/",
-          "published": "2026-11-25T16:31:50+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Two newly described deep-sea species - a clam living inside a sea urchin's throat and the first salp found only in the deep - reveal how much ocean li",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Great Barrier Reef on alert as strong El Niño raises bleaching risk",
-          "link": "https://oceanographicmagazine.com/news/great-barrier-reef-on-alert-as-strong-el-nino-raises-bleaching-risk/",
-          "published": "2026-11-25T09:49:46+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Australia's Reef Authority is stepping up monitoring and protection work as forecasters warn of a high chance of marine heatwaves and widespread coral",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "A tiny deep-sea fish eaten 42 years ago has now been named a new species",
           "link": "https://news.mongabay.com/short-article/2026/11/a-tiny-deep-sea-fish-eaten-42-years-ago-has-now-been-named-a-new-species/",
           "published": "2026-11-27T12:40:25+00:00",
@@ -194,17 +148,6 @@
           "language": "en",
           "summary": "Scientists and fishers study how these ‘reefs’ and the creatures living on them are transforming the ocean floor – and what it means for the fishing i",
           "image": "https://i.guim.co.uk/img/media/357c057ffd037975abe9fde2c30429a651d61667/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=a30e8f3fe5f441093f0f3cdfd6d9b71e",
-          "other_news": false
-        },
-        {
-          "title": "Warming seas could steer trawlers onto the cables that carry the internet",
-          "link": "https://oceanographicmagazine.com/news/warming-seas-could-steer-trawlers-onto-the-cables-that-carry-the-internet/",
-          "published": "2026-11-25T12:00:18+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "As fish move to cooler waters and fishing fleets follow, new research shows the hidden cables that connect the world could face damage in places once",
-          "image": null,
           "other_news": false
         }
       ],
@@ -513,39 +456,6 @@
           "other_news": false
         },
         {
-          "title": "Seabird ‘spies’ reveal the vessels hidden from official tracking",
-          "link": "https://oceanographicmagazine.com/news/seabird-spies-reveal-the-vessels-hidden-from-official-tracking/",
-          "published": "2026-11-26T12:57:02+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Audio recorders carried by northern gannets and Balearic shearwaters reveal many vessels they encounter are missing from official tracking records, su",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "Arsenic from Myanmar’s mines is poisoning rivers that feed the Mekong",
-          "link": "https://oceanographicmagazine.com/news/arsenic-from-myanmars-mines-is-poisoning-rivers-that-feed-the-mekong/",
-          "published": "2026-11-26T10:19:57+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Thai tests show dangerous arsenic in the Kok, Sai and Mekong, cutting off tap water and raising fears for fish, as China offers to help investigate\nTh",
-          "image": null,
-          "other_news": false
-        },
-        {
-          "title": "King tides, El Niño and rising seas leave California’s coastal communities facing record floods",
-          "link": "https://oceanographicmagazine.com/news/king-tides-el-nino-and-rising-seas-leave-californias-coastal-communities-facing-record-floods/",
-          "published": "2026-11-24T13:38:49+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "Record-threatening floods on the US West Coast this week show how a warming ocean turns predictable natural events into serious risks for coastal comm",
-          "image": null,
-          "other_news": false
-        },
-        {
           "title": "Après le naufrage d’un pétrolier-chimiquier au large d’Ibiza, course contre la montre en Espagne pour éviter une marée noire",
           "link": "https://www.lemonde.fr/planete/article/2026/11/27/apres-le-naufrage-d-un-petrolier-chimiquier-au-large-d-ibiza-course-contre-la-montre-en-espagne-pour-eviter-une-maree-noire_6815870_3244.html",
           "published": "2026-11-27T15:04:59+01:00",
@@ -625,19 +535,6 @@
       ]
     },
     "To Watch / Read / Listen": {
-      "Sustainable Fisheries": [
-        {
-          "title": "Report exposes “injustice” in UK fishing as Defra defends quota",
-          "link": "https://oceanographicmagazine.com/news/report-exposes-injustice-in-uk-fishing-as-defra-defends-quota-reforms/",
-          "published": "2026-11-24T14:22:39+00:00",
-          "source": "Oceanographic",
-          "type": "news",
-          "language": "en",
-          "summary": "The post Report exposes &#8220;injustice&#8221; in UK fishing as Defra defends quota appeared first on Oceanographic.",
-          "image": null,
-          "other_news": false
-        }
-      ],
       "Other Marine News": [
         {
           "title": "How the war in Iran turned the Gulf into a climate catastrophe – video explainer",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T22:00:57.138740+00:00",
+  "generated_at": "2026-11-28T06:01:07.261285+00:00",
   "categories": {
     "Politics & Policy": {
       "Plastic & Ocean Pollution": [
@@ -359,14 +359,14 @@
           "other_news": false
         },
         {
-          "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+          "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
           "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-27T18:45:05+00:00",
+          "published": "2026-11-28T01:55:33+00:00",
           "source": "BBC Ocean & Marine",
           "type": "news",
           "language": "en",
-          "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/6be8b890-ea6b-11f1-99b6-a35a62fa4264.jpg",
+          "summary": "Pennsylvania and neighbouring states remained badly affected on Friday after both coasts were lashed with wind and rain.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/058e/live/011ab230-eaab-11f1-9d2d-dd9286f639a6.jpg",
           "other_news": false
         },
         {
@@ -1395,6 +1395,17 @@
           "language": "fr",
           "summary": "La COP31 s'est achevée sur un échec monumental. Le projet d'accord, unanimement décrié par les ONG écologistes, a été rejeté par",
           "image": "https://reporterre.net/local/cache-vignettes/L700xH467/toutescopessontechec-90487.jpg?1795355462",
+          "other_news": true
+        },
+        {
+          "title": "Pourquoi l’agriculture française tarde à s’adapter au changement climatique : « On le voyait arriver, mais pas aussi brutalement »",
+          "link": "https://www.lemonde.fr/economie/article/2026/11/28/pourquoi-l-agriculture-francaise-tarde-a-s-adapter-au-changement-climatique-on-le-voyait-arriver-mais-pas-aussi-brutalement_6816070_3234.html",
+          "published": "2026-11-28T06:00:38+01:00",
+          "source": "Le Monde Planète",
+          "type": "news",
+          "language": "fr",
+          "summary": "En dehors des solutions de court terme que sont le stockage de l’eau et l’assurance-récolte, la France n’a pas impulsé de transformation de son agricu",
+          "image": "https://img.lemde.fr/2026/11/27/437/0/5906/2953/644/322/60/0/50310bf_upload-1-5kwfrujlp69m-bartoli-lm-secheresse-2024-010.jpg",
           "other_news": true
         },
         {
